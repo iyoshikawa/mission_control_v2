@@ -367,5 +367,109 @@
         "whyItMatters": "Not directly applicable now, but relevant if crypto/fintech exposure grows."
       }
     ]
-  }
+  },
+  "newsFeed": [
+    {
+      "headline": "Fed holds rates steady, signals caution on inflation outlook",
+      "source": "BBC",
+      "timestamp": "2026-03-13T11:30:00-07:00",
+      "impact": "HIGH",
+      "category": "macro",
+      "summary": "Federal Reserve maintains current rate amid mixed economic signals. Powell notes persistent core inflation."
+    },
+    {
+      "headline": "EU proposes new digital services compliance framework",
+      "source": "Reuters",
+      "timestamp": "2026-03-13T09:15:00-07:00",
+      "impact": "MEDIUM",
+      "category": "regulatory",
+      "summary": "Draft regulation could affect SaaS providers operating in EU markets by Q4 2026."
+    },
+    {
+      "headline": "Oil prices edge higher on supply concerns",
+      "source": "BBC",
+      "timestamp": "2026-03-13T07:45:00-07:00",
+      "impact": "LOW",
+      "category": "commodities",
+      "summary": "Brent crude up 1.2% as OPEC signals potential further production cuts."
+    },
+    {
+      "headline": "US jobless claims fall to three-month low",
+      "source": "Reuters",
+      "timestamp": "2026-03-12T13:00:00-07:00",
+      "impact": "MEDIUM",
+      "category": "macro",
+      "summary": "Weekly initial claims at 210K vs 218K expected, suggesting labor market resilience."
+    },
+    {
+      "headline": "China central bank cuts reserve requirement ratio",
+      "source": "BBC",
+      "timestamp": "2026-03-12T04:00:00-07:00",
+      "impact": "MEDIUM",
+      "category": "macro",
+      "summary": "50bp RRR cut to support lending. May affect global capital flows and commodity demand."
+    }
+  ],
+  "macroCalendar": [
+    {
+      "event": "FOMC Rate Decision",
+      "timestamp": "2026-03-13T14:00:00-04:00",
+      "impact": "HIGH",
+      "currency": "USD",
+      "previous": "4.50%",
+      "forecast": "4.50%",
+      "actual": "4.50%",
+      "status": "RELEASED"
+    },
+    {
+      "event": "US Initial Jobless Claims",
+      "timestamp": "2026-03-13T08:30:00-04:00",
+      "impact": "MEDIUM",
+      "currency": "USD",
+      "previous": "218K",
+      "forecast": "215K",
+      "actual": "210K",
+      "status": "RELEASED"
+    },
+    {
+      "event": "ECB Monetary Policy Statement",
+      "timestamp": "2026-03-14T07:45:00-04:00",
+      "impact": "HIGH",
+      "currency": "EUR",
+      "previous": null,
+      "forecast": null,
+      "actual": null,
+      "status": "UPCOMING"
+    },
+    {
+      "event": "UK GDP (MoM)",
+      "timestamp": "2026-03-14T02:00:00-04:00",
+      "impact": "MEDIUM",
+      "currency": "GBP",
+      "previous": "0.1%",
+      "forecast": "0.2%",
+      "actual": null,
+      "status": "UPCOMING"
+    },
+    {
+      "event": "US PPI (MoM)",
+      "timestamp": "2026-03-14T08:30:00-04:00",
+      "impact": "MEDIUM",
+      "currency": "USD",
+      "previous": "0.3%",
+      "forecast": "0.2%",
+      "actual": null,
+      "status": "UPCOMING"
+    },
+    {
+      "event": "US Michigan Consumer Sentiment (Prelim)",
+      "timestamp": "2026-03-14T10:00:00-04:00",
+      "impact": "LOW",
+      "currency": "USD",
+      "previous": "64.7",
+      "forecast": "63.5",
+      "actual": null,
+      "status": "UPCOMING"
+    }
+  ]
 }

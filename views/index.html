@@ -28,6 +28,8 @@
     <nav class="view-nav">
       <button class="view-tab active" data-view="dashboard">Dashboard</button>
       <button class="view-tab" data-view="x-feed">X Feed</button>
+      <button class="view-tab" data-view="news">News</button>
+      <button class="view-tab" data-view="macro">Macro</button>
     </nav>
 
     <main id="view-dashboard" class="grid">
@@ -132,6 +134,26 @@
           <span class="card-note">Flagged posts across all watched accounts</span>
         </div>
         <div id="x-signals" class="x-post-list"></div>
+      </section>
+    </main>
+
+    <main id="view-news" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>News Feed</h2>
+          <span class="card-note">Key headlines by source</span>
+        </div>
+        <div id="news-feed" class="status-list"></div>
+      </section>
+    </main>
+
+    <main id="view-macro" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Macro Calendar</h2>
+          <span class="card-note">Economic events and releases</span>
+        </div>
+        <div id="macro-calendar"></div>
       </section>
     </main>
   </div>

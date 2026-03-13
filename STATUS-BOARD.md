@@ -52,6 +52,16 @@ Instructions for coders:
 - Files changed: views/index.html (nav tabs + X view containers), views/app.js (view switching + 6 X render functions), views/styles.css (nav styles + X-specific styles + .span-8), views/sample-data.json (xFeed data block)
 - Merge risks: Added `<nav>` between header and `<main>`, added `id="view-dashboard"` to existing `<main>`. Added second `<main id="view-x-feed">`. New `.span-8` CSS class. All X CSS classes prefixed with `x-` to avoid collisions. New `xFeed` key in sample-data.json. `initViewNav()` called at startup.
 
+## Phase 3 — News / Macro Views
+- Status: DONE
+- Coder: Claude (Opus)
+- Branch/worktree: p3-news-macro / feat/p3-news-macro
+- Last update: 2026-03-13
+- Blocker: none
+- Summary: Built News feed and Macro Calendar as new tab views. News shows headlines with source labels (BBC, Reuters), impact badges (HIGH/MEDIUM/LOW), category tags, and relative timestamps. Macro shows Forex Factory-style event table with Time/Ccy/Event/Impact/Prev/Fcst/Actual columns; released events muted, upcoming prominent. Made initViewNav generic to support any number of tabs. Added 5 new STATUS_CLASS_MAP entries for impact/event statuses.
+- Files changed: views/app.js (renderNewsFeed + renderMacroCalendar functions, generic initViewNav, STATUS_CLASS_MAP extended), views/index.html (2 nav tabs + 2 view containers), views/styles.css (.news-meta, .news-source, .news-category, .macro-table/header/row/released/ccy/data/actual/col-* + .span-12 + responsive), views/sample-data.json (newsFeed + macroCalendar arrays)
+- Merge risks: STATUS_CLASS_MAP has 5 new entries (HIGH, MEDIUM, LOW, RELEASED, UPCOMING). initViewNav rewritten to be generic (hides all [id^=view-] elements) — any code depending on hardcoded view IDs needs review. 2 new nav tabs + 2 new main elements appended. All CSS new classes prefixed news-/macro-. sample-data.json 2 new keys additive.
+
 ## Lane 4 — Integration / UI Cleanup
 - Status: DONE
 - Coder: Claude (Opus)

@@ -139,3 +139,33 @@ Instructions for coders:
   - `styles.css`: new `.span-8` class — low risk but didn't exist before
   - All X-specific code is additive and isolated. Dashboard-side changes are minimal (id attribute on main, nav insertion).
 - Recommended review order: index.html structure first, then sample-data.json (data shape), then app.js (render logic), then styles.css (visual treatment)
+
+### Phase 3 — News / Macro Views — 2026-03-13
+- Branch/worktree: p3-news-macro / feat/p3-news-macro
+- Status: DONE
+- What changed:
+  - **News feed** (new tab view): Shows headlines with source labels (BBC, Reuters in uppercase), impact badges (HIGH/MEDIUM/LOW mapped to red/amber/muted), category tags (lowercase chip), relative timestamps, and summary text. Up to 10 items. Full-width span-12 card. Reuses existing `status-row` layout.
+  - **Macro calendar** (new tab view): Forex Factory-style event table with 7 columns: Time, Currency, Event, Impact, Previous, Forecast, Actual. Released events visually muted (opacity 0.65). Actual values bolded when present. Upcoming events at full prominence. Up to 12 events. Grid-based table layout with responsive breakpoint.
+  - **Tab navigation**: Added "News" and "Macro" tabs to existing nav bar. Made `initViewNav()` generic — now hides all `[id^="view-"]` elements and shows only the selected one, instead of hardcoding view IDs.
+  - **STATUS_CLASS_MAP**: Added 5 entries — HIGH (red), MEDIUM (amber), LOW (muted), RELEASED (green), UPCOMING (amber).
+  - **Mock data**: Added `newsFeed` (5 items: BBC/Reuters, macro/regulatory/commodities categories) and `macroCalendar` (6 events: mix of released and upcoming USD/EUR/GBP events).
+- Files changed:
+  - views/app.js — added `renderNewsFeed()` and `renderMacroCalendar()`, rewrote `initViewNav()` to be generic, extended `STATUS_CLASS_MAP` (5 entries), wired into `loadDashboard()`
+  - views/index.html — added 2 `<button>` tabs in nav, added 2 `<main>` view containers (`view-news`, `view-macro`)
+  - views/styles.css — added `.span-12`, `.news-meta`, `.news-source`, `.news-category`, `.macro-table`, `.macro-header`, `.macro-row`, `.macro-released`, `.macro-ccy`, `.macro-data`, `.macro-actual`, `.macro-col-*` + responsive overrides for macro table
+  - views/sample-data.json — added `newsFeed` and `macroCalendar` top-level arrays
+- Assumptions:
+  - All news/macro data is manual mock only — no live feeds, no background jobs, no APIs
+  - Impact levels (HIGH/MEDIUM/LOW) map to existing badge color semantics (red/amber/muted)
+  - News sources (BBC, Reuters) are presentation labels only
+  - Macro "released" vs "upcoming" is determined by whether `actual` is non-null
+  - Currency labels are display-only shorthand (USD, EUR, GBP)
+  - News and Macro are separate tab views like X Feed, not embedded in the dashboard view
+- Merge risks:
+  - `STATUS_CLASS_MAP` extended with 5 new keys — if another lane added the same keys with different values, manual merge needed
+  - `initViewNav()` rewritten to be generic — now queries `[id^="view-"]` elements. If another lane added elements with `id` starting with `view-` that aren't tab views, they would be hidden. If another lane kept the old hardcoded version, this is a conflict.
+  - 2 new `<main>` elements appended to `.app-shell` — if another lane also appended views, ordering review needed
+  - 2 new `<button>` tabs in nav — additive, trivial merge
+  - All CSS new classes prefixed `news-` or `macro-` — no collision risk
+  - `sample-data.json` 2 new top-level keys — purely additive
+- Recommended review order: sample-data.json (data shape), then app.js (render functions + initViewNav change), then index.html (tab + view structure), then styles.css

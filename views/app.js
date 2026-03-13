@@ -11,7 +11,12 @@ const STATUS_CLASS_MAP = {
   NEXT: 'badge-watch',
   SOON: 'badge-watch',
   LEAN: 'badge-healthy',
-  REFERENCE: 'badge-healthy'
+  REFERENCE: 'badge-healthy',
+  HIGH: 'badge-issue',
+  MEDIUM: 'badge-watch',
+  LOW: 'badge-dormant',
+  RELEASED: 'badge-active',
+  UPCOMING: 'badge-watch'
 };
 
 function escapeHtml(value) {
@@ -271,13 +276,15 @@ function renderCompactPreview(targetId, items = [], config = {}) {
 // --- View navigation ---
 function initViewNav() {
   const tabs = document.querySelectorAll('.view-tab');
+  const views = document.querySelectorAll('[id^="view-"]');
   tabs.forEach(tab => {
     tab.addEventListener('click', () => {
       const target = tab.dataset.view;
-      document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+      tabs.forEach(t => t.classList.remove('active'));
       tab.classList.add('active');
-      document.getElementById('view-dashboard').style.display = target === 'dashboard' ? '' : 'none';
-      document.getElementById('view-x-feed').style.display = target === 'x-feed' ? '' : 'none';
+      views.forEach(v => {
+        v.style.display = v.id === 'view-' + target ? '' : 'none';
+      });
     });
   });
 }
@@ -395,6 +402,66 @@ function renderXFeed(xFeed = {}) {
   renderXSignals(xFeed.signalItems);
 }
 
+// --- News feed rendering ---
+function renderNewsFeed(items = []) {
+  const el = document.getElementById('news-feed');
+  if (!items.length) {
+    el.innerHTML = emptyState('No news items loaded.');
+    return;
+  }
+
+  el.innerHTML = items.slice(0, 10).map(item => `
+    <article class="status-row news-item">
+      <div>
+        <h3>${escapeHtml(item.headline)}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        <div class="news-meta">
+          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+          ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
+          <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+        </div>
+      </div>
+      ${item.impact ? badge(item.impact) : ''}
+    </article>
+  `).join('');
+}
+
+// --- Macro calendar rendering ---
+function renderMacroCalendar(items = []) {
+  const el = document.getElementById('macro-calendar');
+  if (!items.length) {
+    el.innerHTML = emptyState('No economic events loaded.');
+    return;
+  }
+
+  el.innerHTML = `
+    <div class="macro-table">
+      <div class="macro-header">
+        <span class="macro-col-time">Time</span>
+        <span class="macro-col-ccy">Ccy</span>
+        <span class="macro-col-event">Event</span>
+        <span class="macro-col-impact">Impact</span>
+        <span class="macro-col-data">Prev</span>
+        <span class="macro-col-data">Fcst</span>
+        <span class="macro-col-data">Actual</span>
+      </div>
+      ${items.slice(0, 12).map(item => {
+        const released = item.actual != null;
+        return `
+        <div class="macro-row${released ? ' macro-released' : ''}">
+          <span class="macro-col-time">${escapeHtml(formatTimestamp(item.timestamp))}</span>
+          <span class="macro-col-ccy macro-ccy">${escapeHtml(item.currency || '')}</span>
+          <span class="macro-col-event">${escapeHtml(item.event)}</span>
+          <span class="macro-col-impact">${item.impact ? badge(item.impact) : ''}</span>
+          <span class="macro-col-data macro-data">${escapeHtml(item.previous ?? '\u2014')}</span>
+          <span class="macro-col-data macro-data">${escapeHtml(item.forecast ?? '\u2014')}</span>
+          <span class="macro-col-data macro-data${released ? ' macro-actual' : ''}">${escapeHtml(item.actual ?? '\u2014')}</span>
+        </div>`;
+      }).join('')}
+    </div>
+  `;
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch('./sample-data.json');
@@ -453,6 +520,8 @@ async function loadDashboard() {
       `
     });
     renderXFeed(data.xFeed || {});
+    renderNewsFeed(data.newsFeed || []);
+    renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);
     document.getElementById('priority-stack').innerHTML = emptyState('Failed to load sample-data.json.');
