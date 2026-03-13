@@ -52,16 +52,6 @@ Instructions for coders:
 - Files changed: views/index.html (nav tabs + X view containers), views/app.js (view switching + 6 X render functions), views/styles.css (nav styles + X-specific styles + .span-8), views/sample-data.json (xFeed data block)
 - Merge risks: Added `<nav>` between header and `<main>`, added `id="view-dashboard"` to existing `<main>`. Added second `<main id="view-x-feed">`. New `.span-8` CSS class. All X CSS classes prefixed with `x-` to avoid collisions. New `xFeed` key in sample-data.json. `initViewNav()` called at startup.
 
-## Phase 3 — Nav Shell (4 tabs)
-- Status: DONE
-- Coder: Claude (Opus)
-- Branch/worktree: p3-nav / feat/p3-nav
-- Last update: 2026-03-13
-- Blocker: none
-- Summary: Expanded 2-tab nav (Dashboard/X Feed) to 4 tabs (Mission Control/X/News/Macro). Renamed view IDs for consistency. Made initViewNav generic (derives view list from tab buttons). Added News and Macro placeholder panels. Mission Control remains default.
-- Files changed: views/index.html (4 tabs, renamed view IDs, 2 placeholder panels), views/app.js (generic initViewNav), views/styles.css (placeholder panel styles)
-- Merge risks: Renamed `id="view-dashboard"` to `id="view-mission-control"` and `id="view-x-feed"` to `id="view-x"`. Any code referencing old IDs needs updating. initViewNav rewritten to be generic — no longer hardcodes view IDs.
-
 ## Lane 4 — Integration / UI Cleanup
 - Status: DONE
 - Coder: Claude (Opus)
