@@ -367,5 +367,60 @@
         "whyItMatters": "Not directly applicable now, but relevant if crypto/fintech exposure grows."
       }
     ]
-  }
+  },
+  "newsFeed": [
+    {
+      "headline": "Fed signals potential rate hold through Q2 2026",
+      "source": "Reuters",
+      "timestamp": "2026-03-13T06:00:00-07:00",
+      "url": null,
+      "tag": "WATCH",
+      "whyItMatters": "Stable rates reduce financing uncertainty for near-term operational planning.",
+      "recommendedAction": null
+    },
+    {
+      "headline": "New AI disclosure requirements proposed in EU draft regulation",
+      "source": "Financial Times",
+      "timestamp": "2026-03-12T10:00:00-07:00",
+      "url": null,
+      "tag": "WATCH",
+      "whyItMatters": "May affect compliance posture if operating in or selling to EU markets.",
+      "recommendedAction": "Monitor for final text; no action needed yet"
+    },
+    {
+      "headline": "Major cloud provider announces 15% price reduction on compute instances",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-11T09:00:00-07:00",
+      "url": null,
+      "tag": "ACTIVE",
+      "whyItMatters": "Direct cost impact if currently using this provider or evaluating migration.",
+      "recommendedAction": "Review current cloud spend against new pricing"
+    }
+  ],
+  "macroMonitor": [
+    {
+      "indicator": "Fed funds rate",
+      "value": "4.25-4.50%",
+      "direction": "stable",
+      "tag": "HEALTHY",
+      "whyItMatters": "Stable rate environment reduces uncertainty for planning and cost projections.",
+      "lastUpdated": "2026-03-13T06:00:00-07:00"
+    },
+    {
+      "indicator": "AI infrastructure cost trend",
+      "value": "Declining (compute), rising (talent)",
+      "direction": "down",
+      "tag": "WATCH",
+      "whyItMatters": "Compute costs falling but talent costs rising may shift build-vs-buy decisions.",
+      "lastUpdated": "2026-03-12T08:00:00-07:00"
+    },
+    {
+      "indicator": "EU AI Act implementation timeline",
+      "value": "Draft phase — final text expected Q3 2026",
+      "direction": "unknown",
+      "tag": "WATCH",
+      "whyItMatters": "Regulatory clarity will affect compliance investment timing.",
+      "lastUpdated": "2026-03-12T10:00:00-07:00"
+    }
+  ]
 }
