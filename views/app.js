@@ -271,13 +271,16 @@ function renderCompactPreview(targetId, items = [], config = {}) {
 // --- View navigation ---
 function initViewNav() {
   const tabs = document.querySelectorAll('.view-tab');
+  const viewIds = Array.from(tabs).map(t => 'view-' + t.dataset.view);
   tabs.forEach(tab => {
     tab.addEventListener('click', () => {
-      const target = tab.dataset.view;
-      document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+      const target = 'view-' + tab.dataset.view;
+      tabs.forEach(t => t.classList.remove('active'));
       tab.classList.add('active');
-      document.getElementById('view-dashboard').style.display = target === 'dashboard' ? '' : 'none';
-      document.getElementById('view-x-feed').style.display = target === 'x-feed' ? '' : 'none';
+      viewIds.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.style.display = id === target ? '' : 'none';
+      });
     });
   });
 }
