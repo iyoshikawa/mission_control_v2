@@ -91,14 +91,7 @@ A v1 dashboard renderer should be able to consume a structure like this:
   "alerts": [],
   "projects": [],
   "commsQueue": [],
-  "intelligenceQueue": [],
-  "xFeed": {
-    "watchedAccounts": [],
-    "trumpFeed": [],
-    "signalItems": []
-  },
-  "newsFeed": [],
-  "macroMonitor": []
+  "intelligenceQueue": []
 }
 ```
 
@@ -387,173 +380,6 @@ Use a graph-friendly structure.
 
 ---
 
-## 10. X Feed
-
-**Question answered:** What social signals on X are relevant to the operation?
-
-The X Feed uses a nested structure with three sub-arrays. Each serves a different presentation purpose.
-
-### 10a. Watched Accounts
-
-```json
-{
-  "handle": "@example",
-  "name": "Display Name",
-  "status": "ACTIVE",
-  "reason": "Why this account is monitored.",
-  "lastChecked": "2026-03-13T14:00:00-07:00",
-  "recentSignal": "Short description of latest notable post, or null."
-}
-```
-
-#### Required fields
-- handle
-- status
-
-#### Recommended fields
-- name
-- reason
-- lastChecked
-- recentSignal
-
-### 10b. Trump / Policy Feed
-
-```json
-{
-  "content": "Post text or summary.",
-  "timestamp": "2026-03-13T11:42:00-07:00",
-  "signalLevel": "HIGH",
-  "whyItMatters": "One sentence on operational relevance.",
-  "recommendedAction": "Suggested next step, or null."
-}
-```
-
-#### Required fields
-- content
-- timestamp
-- signalLevel
-
-#### Recommended fields
-- whyItMatters
-- recommendedAction
-
-#### Signal levels
-- **HIGH** — direct operational or compliance impact; surface prominently
-- **WATCH** — worth tracking; may require action if conditions change
-- **LOW** — background noise; mute or collapse
-
-### 10c. Signal Items
-
-```json
-{
-  "source": "@handle",
-  "content": "Short signal summary.",
-  "timestamp": "2026-03-13T10:15:00-07:00",
-  "signalLevel": "WATCH",
-  "tag": "competitive",
-  "whyItMatters": "One sentence on relevance."
-}
-```
-
-#### Required fields
-- source
-- content
-- signalLevel
-
-#### Recommended fields
-- timestamp
-- tag
-- whyItMatters
-
-### Empty state
-If no X data is present, show: "No X activity tracked."
-
-### Notes
-- Signal levels (HIGH/WATCH/LOW) are presentation vocabulary, not new business semantics
-- All X data is manually curated — no live API calls, scraping, or auth in v1
-- `tag` is a free-text category hint (e.g. "regulation", "competitive", "cost")
-- Accounts with status DORMANT should be visually muted
-
----
-
-## 11. News Feed
-
-**Question answered:** What external news or developments should the Owner know about?
-
-```json
-[
-  {
-    "headline": "Short headline or title.",
-    "source": "Publication or origin name",
-    "timestamp": "2026-03-13T08:00:00-07:00",
-    "url": null,
-    "tag": "WATCH",
-    "whyItMatters": "One sentence explaining relevance.",
-    "recommendedAction": null
-  }
-]
-```
-
-### Required fields
-- headline
-- source
-- timestamp
-
-### Recommended fields
-- url
-- tag
-- whyItMatters
-- recommendedAction
-
-### Empty state
-If no news items are present, show: "No news items tracked."
-
-### Notes
-- Keep this sparse; only material news that affects decisions, risks, or timing
-- `tag` uses the normalized status vocabulary (WATCH, ISSUE, ACTIVE, etc.) for badge display
-- `recommendedAction` is optional — include only when the news implies a concrete next step
-- Initial source type: manual curation
-
----
-
-## 12. Macro Monitor
-
-**Question answered:** What big-picture economic, market, or regulatory conditions affect the operation?
-
-```json
-[
-  {
-    "indicator": "Indicator name (e.g. interest rates, regulatory change)",
-    "value": "Current value or short description",
-    "direction": "up | down | stable | unknown",
-    "tag": "WATCH",
-    "whyItMatters": "One sentence on operational relevance.",
-    "lastUpdated": "2026-03-13T08:00:00-07:00"
-  }
-]
-```
-
-### Required fields
-- indicator
-- tag
-
-### Recommended fields
-- value
-- direction
-- whyItMatters
-- lastUpdated
-
-### Empty state
-If no macro items are present, show: "No macro signals tracked."
-
-### Notes
-- `direction` is a simple trend hint, not a precise metric — keep it human-readable
-- This section should be exception-focused: only surface indicators that are changing or require attention
-- Stable/quiet indicators can be omitted or muted
-- Initial source type: manual; no API integrations in v1
-
----
-
 ## Rendering Rules
 
 ### Priority Stack
@@ -567,9 +393,6 @@ Always show Owner and Saidee first, then direct-report seats.
 
 ### Ops Health / Cost Watch / Alerts
 Show sparse, exception-oriented cards.
-
-### X Feed / News Feed / Macro Monitor
-Show up to 5 items per sub-section. Exception-focused: HIGH and WATCH signals surface first; LOW signals may be muted or collapsed. Stable macro indicators may be omitted from the default view.
 
 ### Empty State Behavior
 If a section is empty:
