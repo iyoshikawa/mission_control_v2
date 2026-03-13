@@ -137,15 +137,25 @@
       </section>
     </main>
 
-    <div id="view-news" class="view-placeholder-panel" style="display:none;">
-      <h2>News</h2>
-      <p>News monitoring view will go here.</p>
-    </div>
+    <main id="view-news" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>News Feed</h2>
+          <span class="card-note">Key headlines by source</span>
+        </div>
+        <div id="news-feed" class="status-list"></div>
+      </section>
+    </main>
 
-    <div id="view-macro" class="view-placeholder-panel" style="display:none;">
-      <h2>Macro</h2>
-      <p>Macro environment view will go here.</p>
-    </div>
+    <main id="view-macro" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Macro Calendar</h2>
+          <span class="card-note">Economic events and releases</span>
+        </div>
+        <div id="macro-calendar"></div>
+      </section>
+    </main>
   </div>
 
   <script src="./app.js"></script>
