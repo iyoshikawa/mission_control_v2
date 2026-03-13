@@ -52,6 +52,16 @@ Instructions for coders:
 - Files changed: views/index.html (nav tabs + X view containers), views/app.js (view switching + 6 X render functions), views/styles.css (nav styles + X-specific styles + .span-8), views/sample-data.json (xFeed data block)
 - Merge risks: Added `<nav>` between header and `<main>`, added `id="view-dashboard"` to existing `<main>`. Added second `<main id="view-x-feed">`. New `.span-8` CSS class. All X CSS classes prefixed with `x-` to avoid collisions. New `xFeed` key in sample-data.json. `initViewNav()` called at startup.
 
+## Phase 3 — Feed Contracts (X / News / Macro)
+- Status: DONE
+- Coder: Claude (Opus)
+- Branch/worktree: p3-data / feat/p3-data
+- Last update: 2026-03-13
+- Blocker: none
+- Summary: Formalized X Feed contract (sections 10a/10b/10c matching existing xFeed data shape). Added News Feed (section 11) and Macro Monitor (section 12) contracts. Extended sample-data.json with 3 news items and 3 macro items. Updated top-level dashboard contract with new keys. Added rendering rules for all three.
+- Files changed: data-contract-v1.md (3 new section contracts + top-level structure + rendering rule), views/sample-data.json (newsFeed + macroMonitor arrays added)
+- Merge risks: sample-data.json adds new keys at end of root object — clean merge. data-contract-v1.md inserts sections before Rendering Rules — possible ordering conflict if another lane added sections in the same spot. X Feed contract documents the shape created by the X View lane — no conflicts with existing xFeed data.
+
 ## Lane 4 — Integration / UI Cleanup
 - Status: DONE
 - Coder: Claude (Opus)
