@@ -29,9 +29,9 @@ Status legend:
 - [ ] document any added transform/helper logic
 
 ### Polish / Usability
-- [ ] reduce visual clutter without removing decision-useful information
-- [ ] improve badge readability and state clarity
-- [ ] test scan speed with realistic content density
+- [x] reduce visual clutter without removing decision-useful information
+- [x] improve badge readability and state clarity
+- [x] test scan speed with realistic content density
 
 ---
 
