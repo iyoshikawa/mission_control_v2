@@ -33,13 +33,22 @@ function emptyState(message) {
   return `<div class="empty-state">${escapeHtml(message)}</div>`;
 }
 
+function formatTimestamp(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+      + ' ' + d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+  } catch { return iso; }
+}
+
 function setMeta(meta = {}) {
   document.getElementById('dashboard-title').textContent = meta.title || 'Mission Control';
   const statusEl = document.getElementById('dashboard-status');
   const status = meta.status || 'REFERENCE';
   statusEl.textContent = status.replaceAll('_', ' ');
   statusEl.className = `badge ${STATUS_CLASS_MAP[status] || 'badge-dormant'}`;
-  document.getElementById('dashboard-updated').textContent = meta.lastUpdated || 'Unknown';
+  document.getElementById('dashboard-updated').textContent = formatTimestamp(meta.lastUpdated) || 'Unknown';
 }
 
 function renderPriorityStack(items = []) {
@@ -129,7 +138,7 @@ function renderStatusList(targetId, items = [], config = {}) {
         <h3>${escapeHtml(item.name || item.summary || item.title || 'Untitled')}</h3>
         <p>${escapeHtml(item.issue || item.utilizationNote || item.whyItMatters || item.recommendedNextStep || 'No detail provided.')}</p>
       </div>
-      ${item.status ? badge(item.status) : `<span class="timestamp">${escapeHtml(item.timestamp || '')}</span>`}
+      ${item.status ? badge(item.status) : `<span class="timestamp">${escapeHtml(formatTimestamp(item.timestamp))}</span>`}
     </article>
   `).join('');
 }
@@ -147,7 +156,7 @@ function renderAlerts(items = []) {
         <h3>${escapeHtml(item.summary)}</h3>
         <p>${escapeHtml(item.whyItMatters || 'No impact note provided.')}</p>
       </div>
-      <span class="timestamp">${escapeHtml(item.timestamp || '')}</span>
+      <span class="timestamp">${escapeHtml(formatTimestamp(item.timestamp))}</span>
     </article>
   `).join('');
 }
