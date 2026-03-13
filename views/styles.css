@@ -760,6 +760,23 @@ h1 {
 
 .span-8 { grid-column: span 8; }
 
+/* Phase 3 — Placeholder views */
+.view-placeholder-panel {
+  padding: 60px 20px;
+  text-align: center;
+  color: var(--muted);
+}
+
+.view-placeholder-panel h2 {
+  font-size: 1.4rem;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.view-placeholder-panel p {
+  font-size: 0.9rem;
+}
+
 @media (max-width: 980px) {
   .command-band {
     flex-direction: column;

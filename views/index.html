@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mission Control — Reference v1</title>
+  <title>Mission Control</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
@@ -26,11 +26,13 @@
     </header>
 
     <nav class="view-nav">
-      <button class="view-tab active" data-view="dashboard">Dashboard</button>
-      <button class="view-tab" data-view="x-feed">X Feed</button>
+      <button class="view-tab active" data-view="mission-control">Mission Control</button>
+      <button class="view-tab" data-view="x">X</button>
+      <button class="view-tab" data-view="news">News</button>
+      <button class="view-tab" data-view="macro">Macro</button>
     </nav>
 
-    <main id="view-dashboard" class="grid">
+    <main id="view-mission-control" class="grid">
       <section class="card card-priority span-7">
         <div class="card-head">
           <h2>Priority Stack</h2>
@@ -101,7 +103,7 @@
       </section>
     </main>
 
-    <main id="view-x-feed" class="grid" style="display:none;">
+    <main id="view-x" class="grid" style="display:none;">
       <section class="card span-12 x-summary-band">
         <div class="card-head">
           <h2>X Signal Monitor</h2>
@@ -134,6 +136,16 @@
         <div id="x-signals" class="x-post-list"></div>
       </section>
     </main>
+
+    <div id="view-news" class="view-placeholder-panel" style="display:none;">
+      <h2>News</h2>
+      <p>News monitoring view will go here.</p>
+    </div>
+
+    <div id="view-macro" class="view-placeholder-panel" style="display:none;">
+      <h2>Macro</h2>
+      <p>Macro environment view will go here.</p>
+    </div>
   </div>
 
   <script src="./app.js"></script>
