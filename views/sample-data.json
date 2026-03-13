@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "Mission Control",
+    "status": "REFERENCE",
+    "lastUpdated": "2026-03-13T09:02:00-07:00"
+  },
+  "priorityStack": [
+    {
+      "title": "Mission Control v1 handoff readiness",
+      "status": "ACTIVE",
+      "owner": "Saidee",
+      "summary": "Core specs, reference UI, data contract, and handoff materials are now in place for outside coders.",
+      "nextAction": "Hand off the package and review their first pass for drift from the executive model",
+      "blocker": null,
+      "reviewDate": "2026-03-13"
+    },
+    {
+      "title": "Startup / relaunch hardening",
+      "status": "NEXT",
+      "owner": "Saidee",
+      "summary": "Startup flow still needs the dedicated tmux session, stale-window cleanup, and morning checklist wiring requested earlier.",
+      "nextAction": "Implement the startup improvements in a lean, non-brittle way",
+      "blocker": "Not started yet",
+      "reviewDate": "2026-03-13"
+    },
+    {
+      "title": "Populate real Mission Control operating data",
+      "status": "NEXT",
+      "owner": "Saidee",
+      "summary": "Replace placeholder dashboard sections with real priorities, decisions, risks, and cost signals so the dashboard becomes operational.",
+      "nextAction": "Keep filling decision queue, ops health, and cost watch with current truth",
+      "blocker": "Partial source data only",
+      "reviewDate": "2026-03-13"
+    }
+  ],
+  "decisionQueue": [
+    {
+      "decision": "External build style for Mission Control",
+      "status": "NEEDS_DECISION",
+      "whyItMatters": "A heavy app stack too early creates maintenance drag and slows iteration before the information model is proven.",
+      "options": [
+        "Static HTML/CSS/JS",
+        "Lightweight app framework",
+        "Heavier application stack"
+      ],
+      "recommendation": "Static-first or very lightweight framework only",
+      "urgency": "soon",
+      "deadline": null
+    },
+    {
+      "decision": "First real data sections to prioritize",
+      "status": "NEEDS_DECISION",
+      "whyItMatters": "Attempting to fully populate everything at once will create noise and low-value busywork.",
+      "options": [
+        "Priorities + decision queue",
+        "Ops health",
+        "Cost watch",
+        "All at once"
+      ],
+      "recommendation": "Priorities + decision queue first, then ops health, then cost watch",
+      "urgency": "soon",
+      "deadline": null
+    }
+  ],
+  "org": {
+    "nodes": [
+      {
+        "id": "owner",
+        "label": "Owner",
+        "status": "ACTIVE",
+        "roleType": "human",
+        "summary": "Final decision-maker. Sets priorities, approves major tradeoffs, and defines acceptable risk.",
+        "reportsTo": null,
+        "activationTrigger": null,
+        "outputs": []
+      },
+      {
+        "id": "saidee",
+        "label": "Saidee",
+        "status": "ACTIVE",
+        "roleType": "operator",
+        "summary": "CEO / operator. Translates goals into execution, surfaces risks, and maintains operating discipline.",
+        "reportsTo": "owner",
+        "activationTrigger": null,
+        "outputs": [
+          "executive summaries",
+          "next-step recommendations",
+          "operating structure updates",
+          "activation proposals"
+        ]
+      },
+      {
+        "id": "cfo",
+        "label": "CFO",
+        "status": "DORMANT",
+        "roleType": "dormant-seat",
+        "summary": "Financial control, spend visibility, vendor scrutiny, and ROI discipline.",
+        "reportsTo": "saidee",
+        "activationTrigger": "Recurring spend needs regular review, vendor governance grows, or budget drift lacks ownership",
+        "outputs": [
+          "spend reports",
+          "budget variance notes",
+          "vendor review recommendations"
+        ]
+      },
+      {
+        "id": "cto",
+        "label": "CTO / Infrastructure",
+        "status": "DORMANT",
+        "roleType": "dormant-seat",
+        "summary": "Keep systems reliable, secure, maintainable, and automation-friendly.",
+        "reportsTo": "saidee",
+        "activationTrigger": "Infrastructure work becomes continuous, reliability/security issues recur, or tooling debt starts accumulating",
+        "outputs": [
+          "infra status reviews",
+          "maintenance plans",
+          "reliability/security recommendations"
+        ]
+      },
+      {
+        "id": "chief-of-staff",
+        "label": "Chief of Staff",
+        "status": "DORMANT",
+        "roleType": "dormant-seat",
+        "summary": "Reduce coordination drag, keep follow-through tight, and organize priorities.",
+        "reportsTo": "saidee",
+        "activationTrigger": "Follow-ups slip, planning/admin overhead becomes a bottleneck, or project coordination debt rises",
+        "outputs": [
+          "action trackers",
+          "follow-up lists",
+          "weekly priority briefs"
+        ]
+      },
+      {
+        "id": "research-intelligence",
+        "label": "Research / Intelligence",
+        "status": "DORMANT",
+        "roleType": "dormant-seat",
+        "summary": "Monitor changes and produce decision-useful analysis.",
+        "reportsTo": "saidee",
+        "activationTrigger": "Recurring monitoring becomes valuable or strategic decisions need regular analysis support",
+        "outputs": [
+          "research briefs",
+          "change summaries",
+          "option comparisons"
+        ]
+      },
+      {
+        "id": "operations",
+        "label": "Operations",
+        "status": "DORMANT",
+        "roleType": "dormant-seat",
+        "summary": "Day-to-day operational hygiene, maintenance cadence, and routine execution.",
+        "reportsTo": "saidee",
+        "activationTrigger": "Recurring operational tasks create drag or maintenance work needs explicit ownership",
+        "outputs": [
+          "ops checklists",
+          "maintenance logs",
+          "exception reports"
+        ]
+      },
+      {
+        "id": "communications",
+        "label": "Communications",
+        "status": "DORMANT",
+        "roleType": "dormant-seat",
+        "summary": "Manage outbound obligations, follow-ups, and message discipline.",
+        "reportsTo": "saidee",
+        "activationTrigger": "External communication load increases or follow-up obligations become easy to miss",
+        "outputs": [
+          "draft replies",
+          "communication queue",
+          "follow-up reminders"
+        ]
+      }
+    ],
+    "edges": [
+      { "from": "owner", "to": "saidee" },
+      { "from": "saidee", "to": "cfo" },
+      { "from": "saidee", "to": "cto" },
+      { "from": "saidee", "to": "chief-of-staff" },
+      { "from": "saidee", "to": "research-intelligence" },
+      { "from": "saidee", "to": "operations" },
+      { "from": "saidee", "to": "communications" }
+    ]
+  },
+  "opsHealth": [
+    {
+      "name": "Saidee startup and relaunch flow",
+      "status": "WATCH",
+      "issue": "Still needs dedicated tmux session handling and stale TUI window cleanup before relaunch.",
+      "recommendedNextStep": "Implement the hardening pass with reliability favored over cleverness",
+      "lastChecked": "2026-03-13T09:00:00-07:00"
+    },
+    {
+      "name": "Morning bootstrap / startup checklist",
+      "status": "WATCH",
+      "issue": "Checklist is requested conceptually but not yet wired into the startup flow.",
+      "recommendedNextStep": "Add a short morning checklist and keep it intentionally small",
+      "lastChecked": "2026-03-13T09:00:00-07:00"
+    },
+    {
+      "name": "Dashboard specs and reference build",
+      "status": "HEALTHY",
+      "issue": "None",
+      "recommendedNextStep": "Use it for external builder handoff and review for drift after first implementation",
+      "lastChecked": "2026-03-13T09:00:00-07:00"
+    }
+  ],
+  "costWatch": [
+    {
+      "name": "Dashboard implementation complexity",
+      "status": "LEAN",
+      "estimatedSpend": null,
+      "baseline": "Lean and low-maintenance",
+      "change": null,
+      "utilizationNote": "Value comes from clarity and fast scanning, not engineering weight.",
+      "actionRecommendation": "Keep the first pass static or lightweight until the information model is stable"
+    },
+    {
+      "name": "Premature automation",
+      "status": "WATCH",
+      "estimatedSpend": "Hidden maintenance cost",
+      "baseline": "Risk rises if unstable or low-value sources are automated too early",
+      "change": null,
+      "utilizationNote": "Manual high-signal inputs are currently more valuable than noisy automation.",
+      "actionRecommendation": "Automate only after recurring manual pain is obvious"
+    }
+  ],
+  "alerts": [
+    {
+      "timestamp": "2026-03-13T08:08:00-07:00",
+      "summary": "Corp Structure v1 was created as the canonical operating model document",
+      "whyItMatters": "Active and dormant seats now have a defined source of truth for future dashboard and org-chart work.",
+      "recommendedAction": "Use it as the canonical source for org rendering"
+    },
+    {
+      "timestamp": "2026-03-13T08:24:00-07:00",
+      "summary": "Mission Control project structure was created in the workspace",
+      "whyItMatters": "Outside coders now have a dedicated project area separate from core identity and memory files.",
+      "recommendedAction": "Build inside mission-control/ and consume canonical source docs"
+    },
+    {
+      "timestamp": "2026-03-13T08:56:00-07:00",
+      "summary": "Reference dashboard was upgraded to a data-driven mock with a sample payload",
+      "whyItMatters": "Builders can now implement against a visible schema and interaction model instead of inferring structure.",
+      "recommendedAction": "Use the data contract and sample payload as the initial implementation target"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mission Control v1",
+      "phase": "setup / handoff",
+      "owner": "Saidee",
+      "nextMilestone": "External coder first pass based on current specs and reference implementation",
+      "blockerSummary": "Real operating data is still thin outside current planning and setup work",
+      "status": "ACTIVE"
+    }
+  ],
+  "commsQueue": [],
+  "intelligenceQueue": [
+    {
+      "topic": "Lightweight dashboard implementation options",
+      "whyItMatters": "Useful if external builders push toward unnecessary complexity or unstable data flows.",
+      "cadence": "ad hoc",
+      "owner": "Saidee",
+      "lastUpdate": "2026-03-13T09:00:00-07:00",
+      "status": "DORMANT"
+    },
+    {
+      "topic": "Operating metrics worth surfacing",
+      "whyItMatters": "Prevents the dashboard from turning into decorative status clutter.",
+      "cadence": "ongoing until first stable dashboard version exists",
+      "owner": "Saidee",
+      "lastUpdate": "2026-03-13T09:00:00-07:00",
+      "status": "DORMANT"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Local runtime noise
+.DS_Store
+Thumbs.db
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python local server cache
+__pycache__/
+
+# Temporary build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Logs
+*.log

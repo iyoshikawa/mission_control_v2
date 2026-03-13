@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mission Control — Reference v1</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="command-band">
+      <div>
+        <p class="eyebrow">Executive Surface</p>
+        <h1 id="dashboard-title">Mission Control</h1>
+      </div>
+      <div class="command-meta">
+        <div class="meta-item">
+          <span class="meta-label">Status</span>
+          <span id="dashboard-status" class="badge badge-healthy">REFERENCE</span>
+        </div>
+        <div class="meta-item">
+          <span class="meta-label">Last Updated</span>
+          <span id="dashboard-updated">Loading…</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="grid">
+      <section class="card card-priority span-7">
+        <div class="card-head">
+          <h2>Priority Stack</h2>
+          <span class="card-note">What matters now</span>
+        </div>
+        <div id="priority-stack" class="list-stack"></div>
+      </section>
+
+      <section class="card span-5">
+        <div class="card-head">
+          <h2>Decision Queue</h2>
+          <span class="card-note">Needs Owner judgment</span>
+        </div>
+        <div id="decision-queue" class="decision-list"></div>
+      </section>
+
+      <section class="card span-7">
+        <div class="card-head">
+          <h2>Org Activation Status</h2>
+          <span class="card-note">Active vs dormant capacity</span>
+        </div>
+        <div id="org-chart" class="org-chart"></div>
+      </section>
+
+      <section class="card span-5">
+        <div class="card-head">
+          <h2>Ops Health</h2>
+          <span class="card-note">Brittleness and execution risk</span>
+        </div>
+        <div id="ops-health" class="status-list"></div>
+      </section>
+
+      <section class="card span-6">
+        <div class="card-head">
+          <h2>Cost Watch</h2>
+          <span class="card-note">Drift and waste</span>
+        </div>
+        <div id="cost-watch" class="status-list"></div>
+      </section>
+
+      <section class="card span-6">
+        <div class="card-head">
+          <h2>Recent Alerts</h2>
+          <span class="card-note">Material changes only</span>
+        </div>
+        <div id="alerts" class="status-list"></div>
+      </section>
+
+      <section class="card span-4 compact-card">
+        <div class="card-head">
+          <h2>Projects</h2>
+        </div>
+        <div id="projects-preview"></div>
+      </section>
+
+      <section class="card span-4 compact-card">
+        <div class="card-head">
+          <h2>Communications Queue</h2>
+        </div>
+        <div id="comms-preview"></div>
+      </section>
+
+      <section class="card span-4 compact-card">
+        <div class="card-head">
+          <h2>Intelligence Queue</h2>
+        </div>
+        <div id="intelligence-preview"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
