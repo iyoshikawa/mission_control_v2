@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mission Control — Reference v1</title>
+  <title>Mission Control</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
@@ -25,7 +25,14 @@
       </div>
     </header>
 
-    <main class="grid">
+    <nav class="view-nav">
+      <button class="view-tab active" data-view="mission-control">Mission Control</button>
+      <button class="view-tab" data-view="x">X</button>
+      <button class="view-tab" data-view="news">News</button>
+      <button class="view-tab" data-view="macro">Macro</button>
+    </nav>
+
+    <main id="view-mission-control" class="grid">
       <section class="card card-priority span-7">
         <div class="card-head">
           <h2>Priority Stack</h2>
@@ -93,6 +100,60 @@
           <h2>Intelligence Queue</h2>
         </div>
         <div id="intelligence-preview"></div>
+      </section>
+    </main>
+
+    <main id="view-x" class="grid" style="display:none;">
+      <section class="card span-12 x-summary-band">
+        <div class="card-head">
+          <h2>X Signal Monitor</h2>
+          <span class="card-note">Watched accounts and flagged posts</span>
+        </div>
+        <div id="x-summary" class="x-counts"></div>
+      </section>
+
+      <section class="card span-4">
+        <div class="card-head">
+          <h2>Watched Accounts</h2>
+          <span class="card-note">Monitored sources</span>
+        </div>
+        <div id="x-watched" class="x-account-list"></div>
+      </section>
+
+      <section class="card span-8">
+        <div class="card-head">
+          <h2>Trump / Policy Feed</h2>
+          <span class="card-note">Policy, tariff, and regulatory signals</span>
+        </div>
+        <div id="x-trump" class="x-post-list"></div>
+      </section>
+
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Signal Items</h2>
+          <span class="card-note">Flagged posts across all watched accounts</span>
+        </div>
+        <div id="x-signals" class="x-post-list"></div>
+      </section>
+    </main>
+
+    <main id="view-news" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>News Feed</h2>
+          <span class="card-note">Key headlines by source</span>
+        </div>
+        <div id="news-feed" class="status-list"></div>
+      </section>
+    </main>
+
+    <main id="view-macro" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Macro Calendar</h2>
+          <span class="card-note">Economic events and releases</span>
+        </div>
+        <div id="macro-calendar"></div>
       </section>
     </main>
   </div>

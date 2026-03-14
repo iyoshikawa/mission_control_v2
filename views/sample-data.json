@@ -1,16 +1,16 @@
 {
   "meta": {
     "title": "Mission Control",
-    "status": "REFERENCE",
-    "lastUpdated": "2026-03-13T09:02:00-07:00"
+    "status": "ACTIVE",
+    "lastUpdated": "2026-03-13T10:30:00-07:00"
   },
   "priorityStack": [
     {
-      "title": "Mission Control v1 handoff readiness",
+      "title": "Mission Control v1 build review",
       "status": "ACTIVE",
       "owner": "Saidee",
-      "summary": "Core specs, reference UI, data contract, and handoff materials are now in place for outside coders.",
-      "nextAction": "Hand off the package and review their first pass for drift from the executive model",
+      "summary": "External coders are building from specs and reference implementation. Review for drift from the executive model.",
+      "nextAction": "Review first build pass for spec drift and rendering quality",
       "blocker": null,
       "reviewDate": "2026-03-13"
     },
@@ -18,47 +18,46 @@
       "title": "Startup / relaunch hardening",
       "status": "NEXT",
       "owner": "Saidee",
-      "summary": "Startup flow still needs the dedicated tmux session, stale-window cleanup, and morning checklist wiring requested earlier.",
-      "nextAction": "Implement the startup improvements in a lean, non-brittle way",
+      "summary": "Startup flow still needs dedicated tmux session, stale-window cleanup, and morning checklist wiring.",
+      "nextAction": "Implement startup improvements in a lean, non-brittle way",
       "blocker": "Not started yet",
       "reviewDate": "2026-03-13"
     },
     {
       "title": "Populate real Mission Control operating data",
-      "status": "NEXT",
+      "status": "ACTIVE",
       "owner": "Saidee",
-      "summary": "Replace placeholder dashboard sections with real priorities, decisions, risks, and cost signals so the dashboard becomes operational.",
-      "nextAction": "Keep filling decision queue, ops health, and cost watch with current truth",
-      "blocker": "Partial source data only",
+      "summary": "Replace placeholder content with real priorities, decisions, risks, and cost signals so the dashboard becomes operational.",
+      "nextAction": "Finish priority and decision queue lanes, then ops health and cost watch",
+      "blocker": null,
       "reviewDate": "2026-03-13"
     }
   ],
   "decisionQueue": [
     {
-      "decision": "External build style for Mission Control",
+      "decision": "When to add a markdown-to-JSON sync pipeline",
       "status": "NEEDS_DECISION",
-      "whyItMatters": "A heavy app stack too early creates maintenance drag and slows iteration before the information model is proven.",
+      "whyItMatters": "Premature automation adds maintenance cost; manual sync is cheap while the data model is still stabilizing.",
       "options": [
-        "Static HTML/CSS/JS",
-        "Lightweight app framework",
-        "Heavier application stack"
+        "Keep manual sync",
+        "Add a lightweight script",
+        "Build a full pipeline"
       ],
-      "recommendation": "Static-first or very lightweight framework only",
-      "urgency": "soon",
+      "recommendation": "Keep manual sync until recurring pain is obvious",
+      "urgency": "not urgent",
       "deadline": null
     },
     {
-      "decision": "First real data sections to prioritize",
+      "decision": "Dormant seat activation criteria review",
       "status": "NEEDS_DECISION",
-      "whyItMatters": "Attempting to fully populate everything at once will create noise and low-value busywork.",
+      "whyItMatters": "Activating too early adds overhead; activating too late lets coordination debt build.",
       "options": [
-        "Priorities + decision queue",
-        "Ops health",
-        "Cost watch",
-        "All at once"
+        "Keep all dormant",
+        "Activate one based on workload",
+        "Review after dashboard v1 ships"
       ],
-      "recommendation": "Priorities + decision queue first, then ops health, then cost watch",
-      "urgency": "soon",
+      "recommendation": "Review after dashboard v1 ships and operating cadence is established",
+      "urgency": "after v1",
       "deadline": null
     }
   ],
@@ -229,22 +228,22 @@
   ],
   "alerts": [
     {
-      "timestamp": "2026-03-13T08:08:00-07:00",
-      "summary": "Corp Structure v1 was created as the canonical operating model document",
-      "whyItMatters": "Active and dormant seats now have a defined source of truth for future dashboard and org-chart work.",
-      "recommendedAction": "Use it as the canonical source for org rendering"
-    },
-    {
-      "timestamp": "2026-03-13T08:24:00-07:00",
-      "summary": "Mission Control project structure was created in the workspace",
-      "whyItMatters": "Outside coders now have a dedicated project area separate from core identity and memory files.",
-      "recommendedAction": "Build inside mission-control/ and consume canonical source docs"
+      "timestamp": "2026-03-13T10:30:00-07:00",
+      "summary": "Dashboard build started — parallel worktrees active",
+      "whyItMatters": "Multiple coders making changes simultaneously; merge discipline and spec alignment matter.",
+      "recommendedAction": "Review build output for spec drift before merging"
     },
     {
       "timestamp": "2026-03-13T08:56:00-07:00",
-      "summary": "Reference dashboard was upgraded to a data-driven mock with a sample payload",
-      "whyItMatters": "Builders can now implement against a visible schema and interaction model instead of inferring structure.",
-      "recommendedAction": "Use the data contract and sample payload as the initial implementation target"
+      "summary": "Reference dashboard upgraded to data-driven mock with sample payload",
+      "whyItMatters": "Builders can implement against a visible schema instead of inferring structure.",
+      "recommendedAction": "Use data contract and sample payload as implementation target"
+    },
+    {
+      "timestamp": "2026-03-13T08:08:00-07:00",
+      "summary": "Corp Structure v1 created as canonical operating model document",
+      "whyItMatters": "Active and dormant seats now have a defined source of truth for org-chart rendering.",
+      "recommendedAction": "Use as canonical source for org rendering"
     }
   ],
   "projects": [
@@ -274,6 +273,203 @@
       "owner": "Saidee",
       "lastUpdate": "2026-03-13T09:00:00-07:00",
       "status": "DORMANT"
+    }
+  ],
+  "xFeed": {
+    "watchedAccounts": [
+      {
+        "handle": "@realDonaldTrump",
+        "name": "Donald J. Trump",
+        "status": "ACTIVE",
+        "reason": "Tariff announcements, regulatory shifts, policy signals that affect operating costs and compliance.",
+        "lastChecked": "2026-03-13T14:00:00-07:00",
+        "recentSignal": "New tariff language on tech imports — could affect hardware procurement costs."
+      },
+      {
+        "handle": "@SECGov",
+        "name": "SEC",
+        "status": "ACTIVE",
+        "reason": "Regulatory enforcement actions, compliance guidance, and crypto/fintech rule changes.",
+        "lastChecked": "2026-03-13T13:30:00-07:00",
+        "recentSignal": null
+      },
+      {
+        "handle": "@OpenAI",
+        "name": "OpenAI",
+        "status": "WATCH",
+        "reason": "Competitive signals on pricing, model releases, and enterprise positioning.",
+        "lastChecked": "2026-03-13T12:00:00-07:00",
+        "recentSignal": "Announced new enterprise pricing tier — may shift market expectations."
+      },
+      {
+        "handle": "@federalreserve",
+        "name": "Federal Reserve",
+        "status": "DORMANT",
+        "reason": "Rate decisions and monetary policy signals. Currently dormant — activate during active rate cycle.",
+        "lastChecked": "2026-03-10T09:00:00-07:00",
+        "recentSignal": null
+      }
+    ],
+    "trumpFeed": [
+      {
+        "content": "Just signed a major Executive Order on AI regulation. American companies will lead, not be held back by bureaucrats!",
+        "timestamp": "2026-03-13T11:42:00-07:00",
+        "signalLevel": "HIGH",
+        "whyItMatters": "AI regulation EO could change compliance requirements for tooling and model usage. Need to review scope.",
+        "recommendedAction": "Monitor for actual EO text release; flag for legal/compliance review if applicable"
+      },
+      {
+        "content": "TARIFFS on all imported tech components going UP next month. We're bringing manufacturing HOME!",
+        "timestamp": "2026-03-12T16:30:00-07:00",
+        "signalLevel": "WATCH",
+        "whyItMatters": "If tariffs hit cloud hardware or chip imports, hosting and compute costs could drift upward.",
+        "recommendedAction": "Watch for specifics; no action yet unless vendor passes costs through"
+      },
+      {
+        "content": "Great meeting with tech CEOs today. Lots of investment coming. America First!",
+        "timestamp": "2026-03-11T14:15:00-07:00",
+        "signalLevel": "LOW",
+        "whyItMatters": "General sentiment signal. No specific policy action.",
+        "recommendedAction": null
+      }
+    ],
+    "signalItems": [
+      {
+        "source": "@realDonaldTrump",
+        "content": "Just signed a major Executive Order on AI regulation.",
+        "timestamp": "2026-03-13T11:42:00-07:00",
+        "signalLevel": "HIGH",
+        "tag": "regulation",
+        "whyItMatters": "Direct impact on AI tooling compliance. EO text pending."
+      },
+      {
+        "source": "@OpenAI",
+        "content": "Introducing our new Enterprise tier — built for regulated industries with dedicated compliance controls.",
+        "timestamp": "2026-03-13T10:15:00-07:00",
+        "signalLevel": "WATCH",
+        "tag": "competitive",
+        "whyItMatters": "May shift enterprise AI pricing benchmarks. Worth comparing against current stack costs."
+      },
+      {
+        "source": "@realDonaldTrump",
+        "content": "TARIFFS on all imported tech components going UP next month.",
+        "timestamp": "2026-03-12T16:30:00-07:00",
+        "signalLevel": "WATCH",
+        "tag": "cost",
+        "whyItMatters": "Potential upstream cost pressure on cloud and hardware vendors."
+      },
+      {
+        "source": "@SECGov",
+        "content": "SEC announces updated guidance on digital asset custody requirements for registered entities.",
+        "timestamp": "2026-03-11T09:00:00-07:00",
+        "signalLevel": "LOW",
+        "tag": "regulatory",
+        "whyItMatters": "Not directly applicable now, but relevant if crypto/fintech exposure grows."
+      }
+    ]
+  },
+  "newsFeed": [
+    {
+      "headline": "Fed holds rates steady, signals caution on inflation outlook",
+      "source": "BBC",
+      "timestamp": "2026-03-13T11:30:00-07:00",
+      "impact": "HIGH",
+      "category": "macro",
+      "summary": "Federal Reserve maintains current rate amid mixed economic signals. Powell notes persistent core inflation."
+    },
+    {
+      "headline": "EU proposes new digital services compliance framework",
+      "source": "Reuters",
+      "timestamp": "2026-03-13T09:15:00-07:00",
+      "impact": "MEDIUM",
+      "category": "regulatory",
+      "summary": "Draft regulation could affect SaaS providers operating in EU markets by Q4 2026."
+    },
+    {
+      "headline": "Oil prices edge higher on supply concerns",
+      "source": "BBC",
+      "timestamp": "2026-03-13T07:45:00-07:00",
+      "impact": "LOW",
+      "category": "commodities",
+      "summary": "Brent crude up 1.2% as OPEC signals potential further production cuts."
+    },
+    {
+      "headline": "US jobless claims fall to three-month low",
+      "source": "Reuters",
+      "timestamp": "2026-03-12T13:00:00-07:00",
+      "impact": "MEDIUM",
+      "category": "macro",
+      "summary": "Weekly initial claims at 210K vs 218K expected, suggesting labor market resilience."
+    },
+    {
+      "headline": "China central bank cuts reserve requirement ratio",
+      "source": "BBC",
+      "timestamp": "2026-03-12T04:00:00-07:00",
+      "impact": "MEDIUM",
+      "category": "macro",
+      "summary": "50bp RRR cut to support lending. May affect global capital flows and commodity demand."
+    }
+  ],
+  "macroCalendar": [
+    {
+      "event": "FOMC Rate Decision",
+      "timestamp": "2026-03-13T14:00:00-04:00",
+      "impact": "HIGH",
+      "currency": "USD",
+      "previous": "4.50%",
+      "forecast": "4.50%",
+      "actual": "4.50%",
+      "status": "RELEASED"
+    },
+    {
+      "event": "US Initial Jobless Claims",
+      "timestamp": "2026-03-13T08:30:00-04:00",
+      "impact": "MEDIUM",
+      "currency": "USD",
+      "previous": "218K",
+      "forecast": "215K",
+      "actual": "210K",
+      "status": "RELEASED"
+    },
+    {
+      "event": "ECB Monetary Policy Statement",
+      "timestamp": "2026-03-14T07:45:00-04:00",
+      "impact": "HIGH",
+      "currency": "EUR",
+      "previous": null,
+      "forecast": null,
+      "actual": null,
+      "status": "UPCOMING"
+    },
+    {
+      "event": "UK GDP (MoM)",
+      "timestamp": "2026-03-14T02:00:00-04:00",
+      "impact": "MEDIUM",
+      "currency": "GBP",
+      "previous": "0.1%",
+      "forecast": "0.2%",
+      "actual": null,
+      "status": "UPCOMING"
+    },
+    {
+      "event": "US PPI (MoM)",
+      "timestamp": "2026-03-14T08:30:00-04:00",
+      "impact": "MEDIUM",
+      "currency": "USD",
+      "previous": "0.3%",
+      "forecast": "0.2%",
+      "actual": null,
+      "status": "UPCOMING"
+    },
+    {
+      "event": "US Michigan Consumer Sentiment (Prelim)",
+      "timestamp": "2026-03-14T10:00:00-04:00",
+      "impact": "LOW",
+      "currency": "USD",
+      "previous": "64.7",
+      "forecast": "63.5",
+      "actual": null,
+      "status": "UPCOMING"
     }
   ]
 }

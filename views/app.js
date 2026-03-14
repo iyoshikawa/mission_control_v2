@@ -11,7 +11,12 @@ const STATUS_CLASS_MAP = {
   NEXT: 'badge-watch',
   SOON: 'badge-watch',
   LEAN: 'badge-healthy',
-  REFERENCE: 'badge-healthy'
+  REFERENCE: 'badge-healthy',
+  HIGH: 'badge-issue',
+  MEDIUM: 'badge-watch',
+  LOW: 'badge-dormant',
+  RELEASED: 'badge-active',
+  UPCOMING: 'badge-watch'
 };
 
 function escapeHtml(value) {
@@ -33,13 +38,38 @@ function emptyState(message) {
   return `<div class="empty-state">${escapeHtml(message)}</div>`;
 }
 
+function formatTimestamp(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+      + ' ' + d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+  } catch { return iso; }
+}
+
+function relativeTime(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso);
+    const now = new Date();
+    const diffMs = now - d;
+    const diffMin = Math.floor(diffMs / 60000);
+    if (diffMin < 1) return 'just now';
+    if (diffMin < 60) return `${diffMin}m ago`;
+    const diffH = Math.floor(diffMin / 60);
+    if (diffH < 24) return `${diffH}h ago`;
+    const diffD = Math.floor(diffH / 24);
+    return `${diffD}d ago`;
+  } catch { return ''; }
+}
+
 function setMeta(meta = {}) {
   document.getElementById('dashboard-title').textContent = meta.title || 'Mission Control';
   const statusEl = document.getElementById('dashboard-status');
   const status = meta.status || 'REFERENCE';
   statusEl.textContent = status.replaceAll('_', ' ');
   statusEl.className = `badge ${STATUS_CLASS_MAP[status] || 'badge-dormant'}`;
-  document.getElementById('dashboard-updated').textContent = meta.lastUpdated || 'Unknown';
+  document.getElementById('dashboard-updated').textContent = formatTimestamp(meta.lastUpdated) || 'Unknown';
 }
 
 function renderPriorityStack(items = []) {
@@ -49,18 +79,19 @@ function renderPriorityStack(items = []) {
     return;
   }
 
-  el.innerHTML = items.slice(0, 5).map(item => `
-    <article class="list-item">
-      <div>
-        <h3>${escapeHtml(item.title)}</h3>
-        <p>${escapeHtml(item.summary || 'No summary provided.')}</p>
-      </div>
-      <div class="item-meta">
+  el.innerHTML = items.slice(0, 5).map((item, i) => `
+    <article class="list-item${item.blocker ? ' has-blocker' : ''}">
+      <div class="item-header">
+        <h3><span class="rank">#${i + 1}</span> ${escapeHtml(item.title)}</h3>
         ${badge(item.status)}
-        ${item.owner ? `<span>Owner: ${escapeHtml(item.owner)}</span>` : ''}
-        ${item.nextAction ? `<span>Next: ${escapeHtml(item.nextAction)}</span>` : ''}
-        ${item.blocker ? `<span>Blocked: ${escapeHtml(item.blocker)}</span>` : ''}
       </div>
+      <p>${escapeHtml(item.summary || 'No summary provided.')}</p>
+      ${item.blocker ? `<div class="blocker-bar">Blocked: ${escapeHtml(item.blocker)}</div>` : ''}
+      <div class="item-meta">
+        ${item.owner ? `<span>Owner: ${escapeHtml(item.owner)}</span>` : ''}
+        ${item.reviewDate ? `<span>Review: ${escapeHtml(item.reviewDate)}</span>` : ''}
+      </div>
+      ${item.nextAction ? `<p class="action-hint">Next: ${escapeHtml(item.nextAction)}</p>` : ''}
     </article>
   `).join('');
 }
@@ -72,17 +103,27 @@ function renderDecisionQueue(items = []) {
     return;
   }
 
-  el.innerHTML = items.slice(0, 5).map(item => `
+  el.innerHTML = items.slice(0, 5).map(item => {
+    const options = Array.isArray(item.options) && item.options.length
+      ? `<div class="option-list">${item.options.map(o => `<span class="option-chip">${escapeHtml(o)}</span>`).join('')}</div>`
+      : '';
+    const urgencyClass = (item.urgency || '').toLowerCase().includes('urgent') ? 'urgency-high' : 'urgency-low';
+    return `
     <article class="decision-item">
-      <h3>${escapeHtml(item.decision)}</h3>
-      <p>${escapeHtml(item.whyItMatters || 'No context provided.')}</p>
-      <div class="item-meta">
+      <div class="item-header">
+        <h3>${escapeHtml(item.decision)}</h3>
         ${badge(item.status || 'NEEDS_DECISION')}
-        ${item.recommendation ? `<span>Recommendation: ${escapeHtml(item.recommendation)}</span>` : ''}
-        ${item.urgency ? `<span>Urgency: ${escapeHtml(item.urgency)}</span>` : ''}
+      </div>
+      <p>${escapeHtml(item.whyItMatters || 'No context provided.')}</p>
+      ${options}
+      <div class="item-meta">
+        ${item.recommendation ? `<span class="rec-tag">Rec: ${escapeHtml(item.recommendation)}</span>` : ''}
+        ${item.urgency ? `<span class="urgency-tag ${urgencyClass}">${escapeHtml(item.urgency)}</span>` : ''}
+        ${item.deadline ? `<span class="meta-blocker">Due: ${escapeHtml(item.deadline)}</span>` : ''}
       </div>
     </article>
-  `).join('');
+  `;
+  }).join('');
 }
 
 function renderOrg(org = {}) {
@@ -97,22 +138,53 @@ function renderOrg(org = {}) {
   const saidee = nodes.find(n => n.id === 'saidee');
   const children = nodes.filter(n => n.id !== owner?.id && n.id !== saidee?.id);
 
-  const renderNode = (node, extraClass = '') => `
-    <div class="org-node ${extraClass} ${node.status === 'DORMANT' ? 'dormant' : ''}">
-      ${badge(node.status)}
-      <h3>${escapeHtml(node.label)}</h3>
+  const activeCount = nodes.filter(n => n.status === 'ACTIVE').length;
+  const dormantCount = nodes.filter(n => n.status === 'DORMANT').length;
+  const proposedCount = nodes.filter(n => n.status === 'PROPOSED').length;
+
+  const renderLeaderNode = (node, roleLabel) => `
+    <div class="org-node org-leader ${node.status === 'DORMANT' ? 'dormant' : ''}">
+      <div class="org-node-header">
+        <h3>${escapeHtml(node.label)}</h3>
+        ${badge(node.status)}
+      </div>
+      ${roleLabel ? `<span class="org-role-label">${escapeHtml(roleLabel)}</span>` : ''}
       <p>${escapeHtml(node.summary || '')}</p>
-      ${node.activationTrigger ? `<p class="node-meta"><strong>Trigger:</strong> ${escapeHtml(node.activationTrigger)}</p>` : ''}
+    </div>
+  `;
+
+  const renderChildNode = (node) => `
+    <div class="org-node org-child ${node.status === 'DORMANT' ? 'dormant' : ''}">
+      <div class="org-node-header">
+        <h3>${escapeHtml(node.label)}</h3>
+        ${badge(node.status)}
+      </div>
+      <p>${escapeHtml(node.summary || '')}</p>
+      ${node.activationTrigger ? `<p class="node-meta">Activate when: ${escapeHtml(node.activationTrigger)}</p>` : ''}
     </div>
   `;
 
   el.innerHTML = `
-    ${owner ? renderNode(owner, 'node-owner') : ''}
-    ${owner && saidee ? '<div class="org-line vertical"></div>' : ''}
-    ${saidee ? renderNode(saidee, 'node-ceo') : ''}
-    <div class="org-children">
-      ${children.map(node => renderNode(node)).join('')}
+    <div class="org-counts">
+      <span class="org-count org-count-active">${activeCount} active</span>
+      <span class="org-count org-count-dormant">${dormantCount} dormant</span>
+      ${proposedCount ? `<span class="org-count org-count-proposed">${proposedCount} proposed</span>` : ''}
     </div>
+    <div class="org-leadership">
+      ${owner ? renderLeaderNode(owner, 'Final decision-maker') : ''}
+      ${owner && saidee ? '<div class="org-line vertical"></div>' : ''}
+      ${saidee ? renderLeaderNode(saidee, 'CEO / Operator') : ''}
+    </div>
+    ${children.length ? `
+      <div class="org-reports-label">
+        <span class="org-line horizontal"></span>
+        <span>Reports to ${escapeHtml(saidee?.label || 'leadership')}</span>
+        <span class="org-line horizontal"></span>
+      </div>
+      <div class="org-children">
+        ${children.map(node => renderChildNode(node)).join('')}
+      </div>
+    ` : ''}
   `;
 }
 
@@ -123,15 +195,38 @@ function renderStatusList(targetId, items = [], config = {}) {
     return;
   }
 
-  el.innerHTML = items.map(item => `
-    <article class="status-row">
-      <div>
-        <h3>${escapeHtml(item.name || item.summary || item.title || 'Untitled')}</h3>
-        <p>${escapeHtml(item.issue || item.utilizationNote || item.whyItMatters || item.recommendedNextStep || 'No detail provided.')}</p>
-      </div>
-      ${item.status ? badge(item.status) : `<span class="timestamp">${escapeHtml(item.timestamp || '')}</span>`}
-    </article>
-  `).join('');
+  const descField = config.descriptionField || 'issue';
+  const actionField = config.actionField || null;
+  const timeField = config.timeField || null;
+  const quietStatuses = config.quietStatuses || [];
+
+  const sorted = [...items].sort((a, b) => {
+    const aQ = quietStatuses.includes(a.status);
+    const bQ = quietStatuses.includes(b.status);
+    return aQ === bQ ? 0 : aQ ? 1 : -1;
+  });
+
+  const allQuiet = sorted.every(i => quietStatuses.includes(i.status));
+
+  el.innerHTML =
+    (allQuiet ? `<div class="all-clear">${escapeHtml(config.allClearMessage || 'All clear.')}</div>` : '')
+    + sorted.map(item => {
+      const quiet = quietStatuses.includes(item.status);
+      const title = item.name || 'Untitled';
+      const desc = item[descField] || '';
+      const action = actionField ? (item[actionField] || '') : '';
+      const time = timeField ? (item[timeField] || '') : '';
+      return `
+      <article class="status-row${quiet ? ' status-quiet' : ''}">
+        <div>
+          <h3>${escapeHtml(title)}</h3>
+          ${!quiet && desc ? `<p>${escapeHtml(desc)}</p>` : ''}
+          ${!quiet && action ? `<p class="action-line">${escapeHtml(action)}</p>` : ''}
+          ${time ? `<span class="timestamp">${escapeHtml(formatTimestamp(time))}</span>` : ''}
+        </div>
+        ${item.status ? badge(item.status) : ''}
+      </article>`;
+    }).join('');
 }
 
 function renderAlerts(items = []) {
@@ -141,31 +236,230 @@ function renderAlerts(items = []) {
     return;
   }
 
-  el.innerHTML = items.map(item => `
-    <article class="status-row">
+  el.innerHTML = items.map((item, i) => `
+    <article class="status-row alert-row${i === 0 ? ' alert-latest' : ''}">
       <div>
         <h3>${escapeHtml(item.summary)}</h3>
         <p>${escapeHtml(item.whyItMatters || 'No impact note provided.')}</p>
+        ${item.recommendedAction ? `<p class="action-hint">Action: ${escapeHtml(item.recommendedAction)}</p>` : ''}
       </div>
-      <span class="timestamp">${escapeHtml(item.timestamp || '')}</span>
+      <div class="alert-time">
+        <span class="timestamp-relative">${escapeHtml(relativeTime(item.timestamp))}</span>
+        <span class="timestamp">${escapeHtml(formatTimestamp(item.timestamp))}</span>
+      </div>
     </article>
   `).join('');
 }
 
-function renderCompactPreview(targetId, items = [], labels = {}) {
+function renderCompactPreview(targetId, items = [], config = {}) {
   const el = document.getElementById(targetId);
   if (!items.length) {
-    el.innerHTML = `
-      <p class="compact-stat">${escapeHtml(labels.emptyTitle || 'No items loaded')}</p>
-      <p class="compact-note">${escapeHtml(labels.emptyNote || 'Waiting for source data')}</p>
-    `;
+    el.innerHTML = emptyState(config.emptyMessage || 'No items loaded.');
     return;
   }
 
-  const first = items[0];
+  const max = config.maxItems || 5;
+  const render = config.renderItem || (item => `
+    <div class="compact-row">
+      <span class="compact-stat">${escapeHtml(item.name || item.item || item.topic || 'Untitled')}</span>
+      ${item.status ? badge(item.status) : ''}
+    </div>
+  `);
+  const visible = items.slice(0, max);
+  const overflow = items.length - max;
   el.innerHTML = `
-    <p class="compact-stat">${escapeHtml(labels.countPrefix || items.length + ' item(s)')} </p>
-    <p class="compact-note">${escapeHtml(first.name || first.item || first.topic || first.title || 'Top item loaded')}</p>
+    <div class="compact-list">${visible.map(render).join('')}</div>
+    ${overflow > 0 ? `<p class="compact-overflow">+${overflow} more</p>` : ''}
+  `;
+}
+
+// --- View navigation ---
+function initViewNav() {
+  const tabs = document.querySelectorAll('.view-tab');
+  const viewIds = Array.from(tabs).map(t => 'view-' + t.dataset.view);
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const target = 'view-' + tab.dataset.view;
+      tabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      viewIds.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.style.display = id === target ? '' : 'none';
+      });
+    });
+  });
+}
+
+// --- X Feed rendering ---
+const SIGNAL_CLASS_MAP = {
+  HIGH: 'signal-high',
+  WATCH: 'signal-watch',
+  LOW: 'signal-low'
+};
+
+function signalBadge(level) {
+  const safe = escapeHtml(level || 'LOW');
+  const cls = SIGNAL_CLASS_MAP[level] || 'signal-low';
+  return `<span class="badge ${cls}">${safe}</span>`;
+}
+
+function renderXSummary(xFeed = {}) {
+  const el = document.getElementById('x-summary');
+  const accounts = xFeed.watchedAccounts || [];
+  const signals = xFeed.signalItems || [];
+  const activeAccounts = accounts.filter(a => a.status === 'ACTIVE').length;
+  const watchAccounts = accounts.filter(a => a.status === 'WATCH').length;
+  const highSignals = signals.filter(s => s.signalLevel === 'HIGH').length;
+  const watchSignals = signals.filter(s => s.signalLevel === 'WATCH').length;
+
+  el.innerHTML = `
+    <span class="x-count">${activeAccounts} active source${activeAccounts !== 1 ? 's' : ''}</span>
+    ${watchAccounts ? `<span class="x-count x-count-watch">${watchAccounts} on watch</span>` : ''}
+    <span class="x-count-sep"></span>
+    ${highSignals ? `<span class="x-count x-count-high">${highSignals} high signal${highSignals !== 1 ? 's' : ''}</span>` : ''}
+    ${watchSignals ? `<span class="x-count x-count-watch">${watchSignals} watch signal${watchSignals !== 1 ? 's' : ''}</span>` : ''}
+    ${!highSignals && !watchSignals ? '<span class="x-count x-count-quiet">No active signals</span>' : ''}
+  `;
+}
+
+function renderXWatched(accounts = []) {
+  const el = document.getElementById('x-watched');
+  if (!accounts.length) {
+    el.innerHTML = emptyState('No watched accounts.');
+    return;
+  }
+
+  el.innerHTML = accounts.map(acct => `
+    <div class="x-account ${acct.status === 'DORMANT' ? 'x-account-dormant' : ''}">
+      <div class="x-account-header">
+        <span class="x-handle">${escapeHtml(acct.handle)}</span>
+        ${badge(acct.status)}
+      </div>
+      <p class="x-account-reason">${escapeHtml(acct.reason || '')}</p>
+      ${acct.recentSignal ? `<p class="x-recent-signal">${escapeHtml(acct.recentSignal)}</p>` : ''}
+      <span class="timestamp">Checked: ${escapeHtml(formatTimestamp(acct.lastChecked))}</span>
+    </div>
+  `).join('');
+}
+
+function renderXTrump(posts = []) {
+  const el = document.getElementById('x-trump');
+  if (!posts.length) {
+    el.innerHTML = emptyState('No Trump/policy posts loaded.');
+    return;
+  }
+
+  el.innerHTML = posts.map(post => `
+    <article class="x-post ${post.signalLevel === 'HIGH' ? 'x-post-high' : ''}">
+      <div class="x-post-header">
+        <span class="x-post-content">${escapeHtml(post.content)}</span>
+        ${signalBadge(post.signalLevel)}
+      </div>
+      <p class="x-post-impact">${escapeHtml(post.whyItMatters || '')}</p>
+      ${post.recommendedAction ? `<p class="action-hint">Action: ${escapeHtml(post.recommendedAction)}</p>` : ''}
+      <div class="x-post-meta">
+        <span class="timestamp-relative">${escapeHtml(relativeTime(post.timestamp))}</span>
+        <span class="timestamp">${escapeHtml(formatTimestamp(post.timestamp))}</span>
+      </div>
+    </article>
+  `).join('');
+}
+
+function renderXSignals(items = []) {
+  const el = document.getElementById('x-signals');
+  if (!items.length) {
+    el.innerHTML = emptyState('No signal items flagged.');
+    return;
+  }
+
+  const sorted = [...items].sort((a, b) => {
+    const order = { HIGH: 0, WATCH: 1, LOW: 2 };
+    return (order[a.signalLevel] ?? 3) - (order[b.signalLevel] ?? 3);
+  });
+
+  el.innerHTML = sorted.map(item => `
+    <article class="x-signal-row ${item.signalLevel === 'LOW' ? 'x-signal-quiet' : ''}">
+      <div class="x-signal-body">
+        <div class="x-signal-header">
+          <span class="x-handle">${escapeHtml(item.source)}</span>
+          ${item.tag ? `<span class="x-tag">${escapeHtml(item.tag)}</span>` : ''}
+          ${signalBadge(item.signalLevel)}
+        </div>
+        <p class="x-signal-content">${escapeHtml(item.content)}</p>
+        <p class="x-signal-impact">${escapeHtml(item.whyItMatters || '')}</p>
+      </div>
+      <div class="alert-time">
+        <span class="timestamp-relative">${escapeHtml(relativeTime(item.timestamp))}</span>
+        <span class="timestamp">${escapeHtml(formatTimestamp(item.timestamp))}</span>
+      </div>
+    </article>
+  `).join('');
+}
+
+function renderXFeed(xFeed = {}) {
+  renderXSummary(xFeed);
+  renderXWatched(xFeed.watchedAccounts);
+  renderXTrump(xFeed.trumpFeed);
+  renderXSignals(xFeed.signalItems);
+}
+
+// --- News feed rendering ---
+function renderNewsFeed(items = []) {
+  const el = document.getElementById('news-feed');
+  if (!items.length) {
+    el.innerHTML = emptyState('No news items loaded.');
+    return;
+  }
+
+  el.innerHTML = items.slice(0, 10).map(item => `
+    <article class="status-row news-item">
+      <div>
+        <h3>${escapeHtml(item.headline)}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        <div class="news-meta">
+          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+          ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
+          <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+        </div>
+      </div>
+      ${item.impact ? badge(item.impact) : ''}
+    </article>
+  `).join('');
+}
+
+// --- Macro calendar rendering ---
+function renderMacroCalendar(items = []) {
+  const el = document.getElementById('macro-calendar');
+  if (!items.length) {
+    el.innerHTML = emptyState('No economic events loaded.');
+    return;
+  }
+
+  el.innerHTML = `
+    <div class="macro-table">
+      <div class="macro-header">
+        <span class="macro-col-time">Time</span>
+        <span class="macro-col-ccy">Ccy</span>
+        <span class="macro-col-event">Event</span>
+        <span class="macro-col-impact">Impact</span>
+        <span class="macro-col-data">Prev</span>
+        <span class="macro-col-data">Fcst</span>
+        <span class="macro-col-data">Actual</span>
+      </div>
+      ${items.slice(0, 12).map(item => {
+        const released = item.actual != null;
+        return `
+        <div class="macro-row${released ? ' macro-released' : ''}">
+          <span class="macro-col-time">${escapeHtml(formatTimestamp(item.timestamp))}</span>
+          <span class="macro-col-ccy macro-ccy">${escapeHtml(item.currency || '')}</span>
+          <span class="macro-col-event">${escapeHtml(item.event)}</span>
+          <span class="macro-col-impact">${item.impact ? badge(item.impact) : ''}</span>
+          <span class="macro-col-data macro-data">${escapeHtml(item.previous ?? '\u2014')}</span>
+          <span class="macro-col-data macro-data">${escapeHtml(item.forecast ?? '\u2014')}</span>
+          <span class="macro-col-data macro-data${released ? ' macro-actual' : ''}">${escapeHtml(item.actual ?? '\u2014')}</span>
+        </div>`;
+      }).join('')}
+    </div>
   `;
 }
 
@@ -179,24 +473,56 @@ async function loadDashboard() {
     renderPriorityStack(data.priorityStack);
     renderDecisionQueue(data.decisionQueue);
     renderOrg(data.org);
-    renderStatusList('ops-health', data.opsHealth, { emptyMessage: 'No ops risks loaded.' });
-    renderStatusList('cost-watch', data.costWatch, { emptyMessage: 'No cost concerns loaded.' });
+    renderStatusList('ops-health', data.opsHealth, {
+      emptyMessage: 'No ops risks loaded.',
+      descriptionField: 'issue',
+      actionField: 'recommendedNextStep',
+      timeField: 'lastChecked',
+      quietStatuses: ['HEALTHY'],
+      allClearMessage: 'All systems nominal.'
+    });
+    renderStatusList('cost-watch', data.costWatch, {
+      emptyMessage: 'No cost concerns loaded.',
+      descriptionField: 'utilizationNote',
+      actionField: 'actionRecommendation',
+      quietStatuses: ['LEAN', 'HEALTHY'],
+      allClearMessage: 'No cost exceptions.'
+    });
     renderAlerts(data.alerts);
     renderCompactPreview('projects-preview', data.projects, {
-      countPrefix: `${data.projects?.length || 0} active project(s)`,
-      emptyTitle: 'No projects loaded',
-      emptyNote: 'Add active initiatives here'
+      emptyMessage: 'No active projects.',
+      renderItem: item => `
+        <div class="compact-row">
+          <span class="compact-stat">${escapeHtml(item.name)}</span>
+          ${item.status ? badge(item.status) : ''}
+        </div>
+        <p class="compact-note">${escapeHtml(item.phase || '')}${item.owner ? ' \u00b7 ' + escapeHtml(item.owner) : ''}</p>
+        ${item.blockerSummary ? `<p class="compact-note compact-blocker">Blocker: ${escapeHtml(item.blockerSummary)}</p>` : ''}
+      `
     });
     renderCompactPreview('comms-preview', data.commsQueue, {
-      countPrefix: `${data.commsQueue?.length || 0} queued item(s)`,
-      emptyTitle: 'No current outbound obligations loaded',
-      emptyNote: 'Manual data source pending'
+      emptyMessage: 'No outbound obligations.',
+      renderItem: item => `
+        <div class="compact-row">
+          <span class="compact-stat">${escapeHtml(item.item)}</span>
+          ${item.status ? badge(item.status) : ''}
+        </div>
+        <p class="compact-note">${escapeHtml(item.context || '')}${item.dueTiming ? ' \u00b7 ' + escapeHtml(item.dueTiming) : ''}</p>
+      `
     });
     renderCompactPreview('intelligence-preview', data.intelligenceQueue, {
-      countPrefix: `${data.intelligenceQueue?.length || 0} topic(s) loaded`,
-      emptyTitle: 'No monitoring topics loaded',
-      emptyNote: 'Add once recurring research exists'
+      emptyMessage: 'No monitoring topics.',
+      renderItem: item => `
+        <div class="compact-row">
+          <span class="compact-stat">${escapeHtml(item.topic)}</span>
+          ${item.status ? badge(item.status) : ''}
+        </div>
+        <p class="compact-note">${escapeHtml(item.cadence || '')}</p>
+      `
     });
+    renderXFeed(data.xFeed || {});
+    renderNewsFeed(data.newsFeed || []);
+    renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);
     document.getElementById('priority-stack').innerHTML = emptyState('Failed to load sample-data.json.');
@@ -211,4 +537,5 @@ async function loadDashboard() {
   }
 }
 
+initViewNav();
 loadDashboard();
