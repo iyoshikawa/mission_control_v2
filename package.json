@@ -1,0 +1,11 @@
+{
+  "name": "mission-control",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ci": "npx playwright test --reporter=github"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
