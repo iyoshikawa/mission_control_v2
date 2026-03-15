@@ -29,6 +29,7 @@
       <button class="view-tab active" data-view="mission-control">Mission Control</button>
       <button class="view-tab" data-view="x">X</button>
       <button class="view-tab" data-view="news">News</button>
+      <button class="view-tab" data-view="ai-news">AI News</button>
       <button class="view-tab" data-view="macro">Macro</button>
     </nav>
 
@@ -144,6 +145,32 @@
           <span class="card-note">Key headlines by source</span>
         </div>
         <div id="news-feed" class="status-list"></div>
+      </section>
+    </main>
+
+    <main id="view-ai-news" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Top Stories</h2>
+          <span class="card-note">AI developments that matter now</span>
+        </div>
+        <div id="ai-top-stories" class="status-list"></div>
+      </section>
+
+      <section class="card span-7">
+        <div class="card-head">
+          <h2>Why It Matters</h2>
+          <span class="card-note">Impact assessment for current operations</span>
+        </div>
+        <div id="ai-why-matters" class="status-list"></div>
+      </section>
+
+      <section class="card span-5">
+        <div class="card-head">
+          <h2>Watchlist</h2>
+          <span class="card-note">Companies and topics to track</span>
+        </div>
+        <div id="ai-watchlist" class="ai-watchlist"></div>
       </section>
     </main>
 

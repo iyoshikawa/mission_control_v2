@@ -410,63 +410,77 @@
       "summary": "50bp RRR cut to support lending. May affect global capital flows and commodity demand."
     }
   ],
-  "aiNews": [
-    {
-      "headline": "Anthropic releases Claude 4.5 Opus with 1M token context",
-      "summary": "New flagship model offers extended context, improved reasoning, and faster output. Available via API and Claude Code.",
-      "source": "Anthropic blog",
-      "timestamp": "2026-03-15T08:00:00-07:00",
-      "priority": "HIGH",
-      "category": "model-release",
-      "whyItMatters": "Direct impact on current tooling stack — evaluate for migration from existing model tier.",
-      "link": null,
-      "recommendedAction": "Compare performance and cost against current usage; test on production workloads"
-    },
-    {
-      "headline": "OpenAI cuts enterprise API pricing by 20%",
-      "summary": "Price reductions across GPT-4 class models effective April 1. Volume discounts expanded.",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-14T11:00:00-07:00",
-      "priority": "HIGH",
-      "category": "pricing",
-      "whyItMatters": "May shift build-vs-buy math and affect vendor selection for AI features.",
-      "link": null,
-      "recommendedAction": "Review current spend projections; flag for cost watch if currently using OpenAI"
-    },
-    {
-      "headline": "EU AI Act implementing regulations published — compliance deadline set for Q1 2027",
-      "summary": "Final technical standards released. High-risk AI systems must comply by March 2027.",
-      "source": "Reuters",
-      "timestamp": "2026-03-14T06:00:00-07:00",
-      "priority": "WATCH",
-      "category": "regulation",
-      "whyItMatters": "Relevant if any AI tooling touches EU users or data. Timeline gives 12 months to assess.",
-      "link": null,
-      "recommendedAction": "Monitor; no immediate action unless EU exposure grows"
-    },
-    {
-      "headline": "Google DeepMind publishes new reasoning benchmark results",
-      "summary": "Gemini 2.5 Pro tops new multi-step reasoning benchmark. Open weights version expected Q2.",
-      "source": "Google AI Blog",
-      "timestamp": "2026-03-13T15:00:00-07:00",
-      "priority": "WATCH",
-      "category": "research",
-      "whyItMatters": "Competitive context for model selection. Open weights version could reduce vendor lock-in.",
-      "link": null,
-      "recommendedAction": null
-    },
-    {
-      "headline": "AWS announces managed AI agent hosting service",
-      "summary": "New service packages model hosting, tool use, and orchestration. GA pricing not yet announced.",
-      "source": "The Verge",
-      "timestamp": "2026-03-12T10:00:00-07:00",
-      "priority": "LOW",
-      "category": "infrastructure",
-      "whyItMatters": "Background signal on managed AI infrastructure trend. Not directly relevant until pricing is clear.",
-      "link": null,
-      "recommendedAction": null
-    }
-  ],
+  "aiNews": {
+    "topStories": [
+      {
+        "headline": "Anthropic releases Claude 4.5 with extended thinking and tool use improvements",
+        "source": "The Verge",
+        "timestamp": "2026-03-15T08:00:00-07:00",
+        "impact": "HIGH",
+        "summary": "Major model upgrade with significant gains in reasoning, code generation, and agentic workflows. Pricing unchanged for existing tiers.",
+        "whyItMatters": "Direct impact on current tooling stack. Evaluate upgrade path and test against existing prompts."
+      },
+      {
+        "headline": "OpenAI announces GPT-5 Turbo with native multimodal output",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-14T14:30:00-07:00",
+        "impact": "HIGH",
+        "summary": "GPT-5 Turbo supports text, image, and audio output in a single call. Enterprise pricing starts at $30/M tokens.",
+        "whyItMatters": "Competitive pressure on model selection. Compare pricing and capability against current stack."
+      },
+      {
+        "headline": "EU AI Act enforcement timeline moved up to Q3 2026",
+        "source": "Reuters",
+        "timestamp": "2026-03-14T06:15:00-07:00",
+        "impact": "MEDIUM",
+        "summary": "Compliance deadlines accelerated for high-risk AI systems. Penalties up to 7% of global revenue.",
+        "whyItMatters": "Review any EU-facing deployments. May need compliance audit earlier than planned."
+      },
+      {
+        "headline": "Google DeepMind open-sources Gemma 3 model family",
+        "source": "Ars Technica",
+        "timestamp": "2026-03-13T16:00:00-07:00",
+        "impact": "MEDIUM",
+        "summary": "Gemma 3 models (2B, 9B, 27B) released under permissive license. Strong benchmarks on code and reasoning.",
+        "whyItMatters": "Potential cost savings for lightweight tasks. Evaluate for on-device or self-hosted use cases."
+      },
+      {
+        "headline": "Meta launches open-source AI agent framework",
+        "source": "BBC",
+        "timestamp": "2026-03-13T10:45:00-07:00",
+        "impact": "LOW",
+        "summary": "New framework for building multi-step AI agents. Integrates with LLaMA models.",
+        "whyItMatters": "Monitor for ecosystem shifts. No immediate action needed."
+      }
+    ],
+    "whyItMatters": [
+      {
+        "topic": "Model pricing compression",
+        "assessment": "Claude and GPT-5 pricing converging. Current spend may drop 15-25% if switching tiers or renegotiating.",
+        "urgency": "WATCH",
+        "recommendedAction": "Benchmark current usage against new pricing tiers before next billing cycle"
+      },
+      {
+        "topic": "EU AI Act compliance",
+        "assessment": "Accelerated timeline means compliance work should start now if any AI tools are EU-facing.",
+        "urgency": "MEDIUM",
+        "recommendedAction": "Audit current AI usage for EU exposure; flag any high-risk categorizations"
+      },
+      {
+        "topic": "Open-source model quality",
+        "assessment": "Gemma 3 and LLaMA improvements closing gap with proprietary models for specific tasks.",
+        "urgency": "LOW",
+        "recommendedAction": "No action yet. Revisit if self-hosting becomes cost-justified"
+      }
+    ],
+    "watchlist": [
+      { "name": "Anthropic", "status": "ACTIVE", "note": "Primary model provider. Track releases, pricing, and API changes." },
+      { "name": "OpenAI", "status": "WATCH", "note": "Competitive benchmark. Monitor GPT-5 rollout and enterprise pricing." },
+      { "name": "EU AI Act", "status": "WATCH", "note": "Regulatory risk. Compliance timeline accelerating." },
+      { "name": "Google DeepMind", "status": "DORMANT", "note": "Open-source models. Relevant if self-hosting becomes viable." },
+      { "name": "Meta AI", "status": "DORMANT", "note": "Agent frameworks and LLaMA. Background monitoring only." }
+    ]
+  },
   "macroCalendar": [
     {
       "event": "FOMC Rate Decision",
