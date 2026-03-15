@@ -410,6 +410,63 @@
       "summary": "50bp RRR cut to support lending. May affect global capital flows and commodity demand."
     }
   ],
+  "aiNews": [
+    {
+      "headline": "Anthropic releases Claude 4.5 Opus with 1M token context",
+      "summary": "New flagship model offers extended context, improved reasoning, and faster output. Available via API and Claude Code.",
+      "source": "Anthropic blog",
+      "timestamp": "2026-03-15T08:00:00-07:00",
+      "priority": "HIGH",
+      "category": "model-release",
+      "whyItMatters": "Direct impact on current tooling stack — evaluate for migration from existing model tier.",
+      "link": null,
+      "recommendedAction": "Compare performance and cost against current usage; test on production workloads"
+    },
+    {
+      "headline": "OpenAI cuts enterprise API pricing by 20%",
+      "summary": "Price reductions across GPT-4 class models effective April 1. Volume discounts expanded.",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-14T11:00:00-07:00",
+      "priority": "HIGH",
+      "category": "pricing",
+      "whyItMatters": "May shift build-vs-buy math and affect vendor selection for AI features.",
+      "link": null,
+      "recommendedAction": "Review current spend projections; flag for cost watch if currently using OpenAI"
+    },
+    {
+      "headline": "EU AI Act implementing regulations published — compliance deadline set for Q1 2027",
+      "summary": "Final technical standards released. High-risk AI systems must comply by March 2027.",
+      "source": "Reuters",
+      "timestamp": "2026-03-14T06:00:00-07:00",
+      "priority": "WATCH",
+      "category": "regulation",
+      "whyItMatters": "Relevant if any AI tooling touches EU users or data. Timeline gives 12 months to assess.",
+      "link": null,
+      "recommendedAction": "Monitor; no immediate action unless EU exposure grows"
+    },
+    {
+      "headline": "Google DeepMind publishes new reasoning benchmark results",
+      "summary": "Gemini 2.5 Pro tops new multi-step reasoning benchmark. Open weights version expected Q2.",
+      "source": "Google AI Blog",
+      "timestamp": "2026-03-13T15:00:00-07:00",
+      "priority": "WATCH",
+      "category": "research",
+      "whyItMatters": "Competitive context for model selection. Open weights version could reduce vendor lock-in.",
+      "link": null,
+      "recommendedAction": null
+    },
+    {
+      "headline": "AWS announces managed AI agent hosting service",
+      "summary": "New service packages model hosting, tool use, and orchestration. GA pricing not yet announced.",
+      "source": "The Verge",
+      "timestamp": "2026-03-12T10:00:00-07:00",
+      "priority": "LOW",
+      "category": "infrastructure",
+      "whyItMatters": "Background signal on managed AI infrastructure trend. Not directly relevant until pricing is clear.",
+      "link": null,
+      "recommendedAction": null
+    }
+  ],
   "macroCalendar": [
     {
       "event": "FOMC Rate Decision",
