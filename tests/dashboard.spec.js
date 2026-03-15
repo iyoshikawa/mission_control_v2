@@ -19,11 +19,12 @@ test('command band shows dashboard title and status', async ({ page }) => {
 test('nav tabs are visible', async ({ page }) => {
   await page.goto('/');
   const tabs = page.locator('.view-tab');
-  await expect(tabs).toHaveCount(4);
+  await expect(tabs).toHaveCount(5);
   await expect(tabs.nth(0)).toHaveText('Mission Control');
   await expect(tabs.nth(1)).toHaveText('X');
   await expect(tabs.nth(2)).toHaveText('News');
-  await expect(tabs.nth(3)).toHaveText('Macro');
+  await expect(tabs.nth(3)).toHaveText('AI News');
+  await expect(tabs.nth(4)).toHaveText('Macro');
 });
 
 test('Mission Control tab is active by default', async ({ page }) => {
@@ -32,6 +33,7 @@ test('Mission Control tab is active by default', async ({ page }) => {
   await expect(page.locator('#view-mission-control')).toBeVisible();
   await expect(page.locator('#view-x')).not.toBeVisible();
   await expect(page.locator('#view-news')).not.toBeVisible();
+  await expect(page.locator('#view-ai-news')).not.toBeVisible();
   await expect(page.locator('#view-macro')).not.toBeVisible();
 });
 
@@ -175,19 +177,28 @@ test('X summary shows counts', async ({ page }) => {
 
 // --- News view renders ---
 
-test('News view renders news items', async ({ page }) => {
+test('News view renders grouped news items', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="news"]');
   const items = page.locator('#news-feed .news-item');
-  await expect(items).toHaveCount(5);
+  await expect(items).toHaveCount(8);
+  await expect(page.locator('#news-feed .news-source-group').first()).toBeVisible();
 });
 
-test('News items show headline and source', async ({ page }) => {
+test('News view prioritizes The Rundown group', async ({ page }) => {
+  await page.goto('/');
+  await page.click('.view-tab[data-view="news"]');
+  const firstGroup = page.locator('#news-feed .news-source-group').first();
+  await expect(firstGroup).toContainText('The Rundown AI');
+  await expect(firstGroup).toContainText('3 items');
+});
+
+test('News items show headline and source grouping', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="news"]');
   const first = page.locator('#news-feed .news-item').first();
-  await expect(first).toContainText('Fed holds rates');
-  await expect(first).toContainText('BBC');
+  await expect(first).toContainText('OpenAI announces GPT-5');
+  await expect(page.locator('#news-feed .news-source-group').first()).toContainText('The Rundown AI');
 });
 
 test('News items show impact badges', async ({ page }) => {
@@ -195,6 +206,30 @@ test('News items show impact badges', async ({ page }) => {
   await page.click('.view-tab[data-view="news"]');
   const badges = page.locator('#news-feed .badge');
   await expect(badges.first()).toBeVisible();
+});
+
+// --- AI News view renders ---
+
+test('AI News tab switches to AI News view', async ({ page }) => {
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  await expect(page.locator('#view-ai-news')).toBeVisible();
+  await expect(page.locator('#view-mission-control')).not.toBeVisible();
+});
+
+test('AI News view renders top stories', async ({ page }) => {
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  const stories = page.locator('#ai-top-stories .ai-story');
+  await expect(stories).toHaveCount(5);
+  await expect(stories.first()).toContainText('Anthropic releases Claude 4.5');
+});
+
+test('AI News view renders why-it-matters and watchlist', async ({ page }) => {
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  await expect(page.locator('#ai-why-matters .ai-impact')).toHaveCount(3);
+  await expect(page.locator('#ai-watchlist .ai-watch-item')).toHaveCount(5);
 });
 
 // --- Macro view renders ---
