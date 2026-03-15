@@ -370,44 +370,68 @@
   },
   "newsFeed": [
     {
-      "headline": "Fed holds rates steady, signals caution on inflation outlook",
-      "source": "BBC",
-      "timestamp": "2026-03-13T11:30:00-07:00",
+      "headline": "OpenAI announces GPT-5 with real-time reasoning capabilities",
+      "source": "The Rundown AI",
+      "timestamp": "2026-03-15T08:00:00-07:00",
       "impact": "HIGH",
-      "category": "macro",
-      "summary": "Federal Reserve maintains current rate amid mixed economic signals. Powell notes persistent core inflation."
+      "category": "models",
+      "summary": "GPT-5 introduces persistent reasoning chains and 2M context. Enterprise pricing starts at $200/seat. Available via API immediately."
     },
     {
-      "headline": "EU proposes new digital services compliance framework",
-      "source": "Reuters",
-      "timestamp": "2026-03-13T09:15:00-07:00",
+      "headline": "Anthropic ships Claude 4.6 with native computer use",
+      "source": "The Rundown AI",
+      "timestamp": "2026-03-14T08:00:00-07:00",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Claude 4.6 Opus and Sonnet now support desktop automation natively. Pricing unchanged. Agent SDK updated."
+    },
+    {
+      "headline": "Google DeepMind open-sources Gemma 3 model weights",
+      "source": "The Rundown AI",
+      "timestamp": "2026-03-13T08:00:00-07:00",
       "impact": "MEDIUM",
-      "category": "regulatory",
-      "summary": "Draft regulation could affect SaaS providers operating in EU markets by Q4 2026."
+      "category": "open-source",
+      "summary": "9B and 27B parameter models available under permissive license. Competitive with Llama 3 on reasoning benchmarks."
     },
     {
-      "headline": "Oil prices edge higher on supply concerns",
+      "headline": "EU AI Act enforcement begins for high-risk systems",
       "source": "BBC",
-      "timestamp": "2026-03-13T07:45:00-07:00",
+      "timestamp": "2026-03-15T06:00:00-07:00",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Companies deploying AI in hiring, credit, and law enforcement must now comply with transparency and audit requirements."
+    },
+    {
+      "headline": "Microsoft integrates Copilot deeply into Windows 12 preview",
+      "source": "Reuters",
+      "timestamp": "2026-03-14T10:00:00-07:00",
+      "impact": "MEDIUM",
+      "category": "enterprise",
+      "summary": "System-level AI assistant handles file management, scheduling, and cross-app workflows. Enterprise rollout Q3."
+    },
+    {
+      "headline": "AI chip shortage eases as TSMC ramps 3nm production",
+      "source": "Reuters",
+      "timestamp": "2026-03-13T14:00:00-07:00",
+      "impact": "MEDIUM",
+      "category": "infrastructure",
+      "summary": "Increased capacity expected to reduce GPU lead times from 6 months to 8 weeks by Q4."
+    },
+    {
+      "headline": "Startup raises $500M to build AI-native ERP for mid-market",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-14T12:00:00-07:00",
       "impact": "LOW",
-      "category": "commodities",
-      "summary": "Brent crude up 1.2% as OPEC signals potential further production cuts."
+      "category": "funding",
+      "summary": "Series C round led by a16z. Product targets companies with 50-500 employees currently on legacy ERP systems."
     },
     {
-      "headline": "US jobless claims fall to three-month low",
-      "source": "Reuters",
-      "timestamp": "2026-03-12T13:00:00-07:00",
-      "impact": "MEDIUM",
-      "category": "macro",
-      "summary": "Weekly initial claims at 210K vs 218K expected, suggesting labor market resilience."
-    },
-    {
-      "headline": "China central bank cuts reserve requirement ratio",
+      "headline": "White House releases updated AI safety framework",
       "source": "BBC",
-      "timestamp": "2026-03-12T04:00:00-07:00",
+      "timestamp": "2026-03-13T09:00:00-07:00",
       "impact": "MEDIUM",
-      "category": "macro",
-      "summary": "50bp RRR cut to support lending. May affect global capital flows and commodity demand."
+      "category": "regulation",
+      "summary": "Voluntary framework for frontier model developers includes red-teaming requirements and incident reporting guidelines."
     }
   ],
   "aiNews": {

@@ -407,24 +407,49 @@ function renderXFeed(xFeed = {}) {
 function renderNewsFeed(items = []) {
   const el = document.getElementById('news-feed');
   if (!items.length) {
-    el.innerHTML = emptyState('No news items loaded.');
+    el.innerHTML = emptyState('No AI news items loaded.');
     return;
   }
 
-  el.innerHTML = items.slice(0, 10).map(item => `
-    <article class="status-row news-item">
-      <div>
-        <h3>${escapeHtml(item.headline)}</h3>
-        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
-        <div class="news-meta">
-          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
-          ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
-          <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+  // Group by source, Rundown first
+  const groups = {};
+  for (const item of items) {
+    const src = item.source || 'Other';
+    if (!groups[src]) groups[src] = [];
+    groups[src].push(item);
+  }
+
+  const sourceOrder = Object.keys(groups).sort((a, b) => {
+    if (a === 'The Rundown AI') return -1;
+    if (b === 'The Rundown AI') return 1;
+    return a.localeCompare(b);
+  });
+
+  el.innerHTML = sourceOrder.map(src => {
+    const isRundown = src === 'The Rundown AI';
+    const srcItems = groups[src];
+    return `
+      <div class="news-source-group${isRundown ? ' news-rundown' : ''}">
+        <div class="news-source-header">
+          <span class="news-source-name${isRundown ? ' news-rundown-name' : ''}">${escapeHtml(src)}</span>
+          <span class="news-source-count">${srcItems.length} item${srcItems.length !== 1 ? 's' : ''}</span>
         </div>
+        ${srcItems.map(item => `
+          <article class="status-row news-item">
+            <div>
+              <h3>${escapeHtml(item.headline)}</h3>
+              ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+              <div class="news-meta">
+                ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
+                <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+              </div>
+            </div>
+            ${item.impact ? badge(item.impact) : ''}
+          </article>
+        `).join('')}
       </div>
-      ${item.impact ? badge(item.impact) : ''}
-    </article>
-  `).join('');
+    `;
+  }).join('');
 }
 
 // --- AI News rendering ---
