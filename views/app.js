@@ -427,6 +427,64 @@ function renderNewsFeed(items = []) {
   `).join('');
 }
 
+// --- AI News rendering ---
+function renderAiTopStories(items = []) {
+  const el = document.getElementById('ai-top-stories');
+  if (!items.length) { el.innerHTML = emptyState('No AI news loaded.'); return; }
+
+  el.innerHTML = items.slice(0, 6).map((item, i) => `
+    <article class="status-row ai-story${i === 0 ? ' ai-story-lead' : ''}">
+      <div>
+        <h3>${escapeHtml(item.headline)}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        ${item.whyItMatters ? `<p class="action-hint">${escapeHtml(item.whyItMatters)}</p>` : ''}
+        <div class="news-meta">
+          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+          <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+        </div>
+      </div>
+      ${item.impact ? badge(item.impact) : ''}
+    </article>
+  `).join('');
+}
+
+function renderAiWhyMatters(items = []) {
+  const el = document.getElementById('ai-why-matters');
+  if (!items.length) { el.innerHTML = emptyState('No impact assessments loaded.'); return; }
+
+  el.innerHTML = items.map(item => `
+    <article class="status-row ai-impact">
+      <div>
+        <h3>${escapeHtml(item.topic)}</h3>
+        <p>${escapeHtml(item.assessment)}</p>
+        ${item.recommendedAction ? `<p class="action-hint">Action: ${escapeHtml(item.recommendedAction)}</p>` : ''}
+      </div>
+      ${item.urgency ? badge(item.urgency) : ''}
+    </article>
+  `).join('');
+}
+
+function renderAiWatchlist(items = []) {
+  const el = document.getElementById('ai-watchlist');
+  if (!items.length) { el.innerHTML = emptyState('No watchlist items.'); return; }
+
+  el.innerHTML = items.map(item => `
+    <div class="ai-watch-item${item.status === 'DORMANT' ? ' ai-watch-dormant' : ''}">
+      <div class="ai-watch-header">
+        <span class="ai-watch-name">${escapeHtml(item.name)}</span>
+        ${badge(item.status)}
+      </div>
+      ${item.note ? `<p class="ai-watch-note">${escapeHtml(item.note)}</p>` : ''}
+    </div>
+  `).join('');
+}
+
+function renderAiNews(aiNews = {}) {
+  renderAiTopStories(aiNews.topStories);
+  renderAiWhyMatters(aiNews.whyItMatters);
+  renderAiWatchlist(aiNews.watchlist);
+}
+
 // --- Macro calendar rendering ---
 function renderMacroCalendar(items = []) {
   const el = document.getElementById('macro-calendar');
@@ -522,6 +580,7 @@ async function loadDashboard() {
     });
     renderXFeed(data.xFeed || {});
     renderNewsFeed(data.newsFeed || []);
+    renderAiNews(data.aiNews || {});
     renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);

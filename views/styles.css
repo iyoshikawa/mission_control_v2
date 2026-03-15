@@ -854,6 +854,48 @@ h1 {
   white-space: nowrap;
 }
 
+/* Phase 4 — AI News */
+.ai-story-lead {
+  border-left: 3px solid var(--issue);
+}
+
+.ai-watchlist {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ai-watch-item {
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.02);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.ai-watch-dormant {
+  opacity: 0.5;
+  border-style: dashed;
+}
+
+.ai-watch-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.ai-watch-name {
+  font-weight: 700;
+  font-size: 0.92rem;
+}
+
+.ai-watch-note {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
 /* Phase 3 — Placeholder views */
 .view-placeholder-panel {
   padding: 60px 20px;
