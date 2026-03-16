@@ -3,6 +3,8 @@
   "private": true,
   "scripts": {
     "refresh:ai-news": "node scripts/refresh-ai-news.mjs",
+    "generate:ai-news": "node scripts/refresh-ai-news.mjs",
+    "build:ai-news": "node scripts/build-ai-news.js",
     "test": "npx playwright test",
     "test:ci": "npx playwright test --reporter=github"
   },

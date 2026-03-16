@@ -452,21 +452,31 @@ function renderAiTopStories(items = []) {
   const el = document.getElementById('ai-top-stories');
   if (!items.length) { el.innerHTML = emptyState('No AI news loaded.'); return; }
 
-  el.innerHTML = items.slice(0, 6).map((item, i) => `
+  el.innerHTML = items.slice(0, 6).map((item, i) => {
+    const sourceLabel = escapeHtml(item.source || 'Unknown');
+    const sourceLink = item.link
+      ? `<a class="news-source" href="${escapeHtml(item.link)}" target="_blank" rel="noreferrer noopener">${sourceLabel}</a>`
+      : `<span class="news-source">${sourceLabel}</span>`;
+    const supporting = Array.isArray(item.supportingSources) && item.supportingSources.length
+      ? `<p class="compact-note">Supporting: ${item.supportingSources.map((ref) => escapeHtml(ref.source)).join(', ')}</p>`
+      : '';
+
+    return `
     <article class="status-row ai-story${i === 0 ? ' ai-story-lead' : ''}">
       <div>
         <h3>${escapeHtml(item.headline)}</h3>
         ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
         ${item.whyItMatters ? `<p class="action-hint">${escapeHtml(item.whyItMatters)}</p>` : ''}
+        ${supporting}
         <div class="news-meta">
-          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+          ${sourceLink}
           <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
           ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
         </div>
       </div>
-      ${item.impact ? badge(item.impact) : ''}
-    </article>
-  `).join('');
+      ${item.priority ? badge(item.priority) : ''}
+    </article>`;
+  }).join('');
 }
 
 function renderAiWhyMatters(items = []) {

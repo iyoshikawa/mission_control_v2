@@ -217,6 +217,7 @@ test('AI News tab switches to AI News view', async ({ page }) => {
   await expect(page.locator('#view-mission-control')).not.toBeVisible();
 });
 
+<<<<<<< HEAD
 test('AI News view renders top stories from generated feed', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
@@ -224,6 +225,14 @@ test('AI News view renders top stories from generated feed', async ({ page }) =>
   await expect(stories).toHaveCount(6);
   await expect(stories.first().locator('h3')).not.toHaveText('');
   await expect(stories.first().locator('.source-link')).toHaveText('Source');
+});
+
+test('AI News view shows source-only links and supporting references when present', async ({ page }) => {
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  const firstStory = page.locator('#ai-top-stories .ai-story').first();
+  await expect(firstStory.locator('.news-source')).toBeVisible();
+  await expect(firstStory.locator('.source-link')).toHaveText('Source');
 });
 
 test('AI News view renders why-it-matters and watchlist', async ({ page }) => {

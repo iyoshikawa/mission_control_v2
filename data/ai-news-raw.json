@@ -1,0 +1,101 @@
+{
+  "generatedFrom": "approved-source inputs for Phase 5 ranking lane",
+  "items": [
+    {
+      "id": "anthropic-claude-46-blog",
+      "headline": "Anthropic ships Claude 4.6 with native computer use",
+      "summary": "Claude 4.6 adds native desktop action support, broader tool reliability, and keeps pricing unchanged across major commercial tiers.",
+      "source": "Anthropic",
+      "sourceType": "official",
+      "sourceUrl": "https://www.anthropic.com/news/claude-4-6",
+      "timestamp": "2026-03-15T07:20:00-07:00",
+      "category": "model-release",
+      "signals": ["model-release", "agent-workflows", "pricing-stable", "official-source"],
+      "topicKey": "anthropic-claude-46-computer-use"
+    },
+    {
+      "id": "rundown-claude-46",
+      "headline": "Anthropic upgrades Claude with native computer use and steadier agent performance",
+      "summary": "The Rundown frames Claude 4.6 as a meaningful step for production agent workflows because the release adds direct desktop actions without a price increase.",
+      "source": "The Rundown AI",
+      "sourceType": "aggregator",
+      "sourceUrl": "https://www.therundown.ai/p/anthropic-claude-46-computer-use",
+      "timestamp": "2026-03-15T08:00:00-07:00",
+      "category": "model-release",
+      "signals": ["model-release", "agent-workflows", "pricing-stable", "duplicate-of-official"],
+      "topicKey": "anthropic-claude-46-computer-use"
+    },
+    {
+      "id": "openai-gpt5-blog",
+      "headline": "OpenAI launches GPT-5 with realtime reasoning, 2M context, and immediate API access",
+      "summary": "OpenAI positions GPT-5 as a flagship model for longer-horizon tasks, multimodal reasoning, and enterprise deployment with a new premium seat tier.",
+      "source": "OpenAI",
+      "sourceType": "official",
+      "sourceUrl": "https://openai.com/index/gpt-5",
+      "timestamp": "2026-03-15T09:05:00-07:00",
+      "category": "model-release",
+      "signals": ["model-release", "pricing-change", "enterprise", "official-source"],
+      "topicKey": "openai-gpt5-release"
+    },
+    {
+      "id": "rundown-gpt5",
+      "headline": "OpenAI unveils GPT-5 with realtime reasoning and premium enterprise pricing",
+      "summary": "The Rundown highlights the large context window and the immediate API release, calling out the new price point as the operational question.",
+      "source": "The Rundown AI",
+      "sourceType": "aggregator",
+      "sourceUrl": "https://www.therundown.ai/p/openai-gpt-5-release",
+      "timestamp": "2026-03-15T08:10:00-07:00",
+      "category": "pricing",
+      "signals": ["model-release", "pricing-change", "enterprise", "duplicate-of-official"],
+      "topicKey": "openai-gpt5-release"
+    },
+    {
+      "id": "google-gemma3-blog",
+      "headline": "Google DeepMind open-sources Gemma 3 model weights",
+      "summary": "Google releases Gemma 3 weights for lighter deployment paths and emphasizes improved reasoning efficiency versus prior open models.",
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "sourceUrl": "https://deepmind.google/discover/blog/gemma-3",
+      "timestamp": "2026-03-14T10:00:00-07:00",
+      "category": "open-source",
+      "signals": ["open-source", "cost-option", "research-to-product", "official-source"],
+      "topicKey": "google-gemma-3-open"
+    },
+    {
+      "id": "rundown-gemma3",
+      "headline": "Gemma 3 gives Google a stronger open-weight answer in small-to-mid model tiers",
+      "summary": "The Rundown treats Gemma 3 as a practical cost lever for teams that want decent quality without frontier-model economics.",
+      "source": "The Rundown AI",
+      "sourceType": "aggregator",
+      "sourceUrl": "https://www.therundown.ai/p/google-gemma-3",
+      "timestamp": "2026-03-14T07:45:00-07:00",
+      "category": "open-source",
+      "signals": ["open-source", "cost-option", "duplicate-of-official"],
+      "topicKey": "google-gemma-3-open"
+    },
+    {
+      "id": "microsoft-copilot-blog",
+      "headline": "Microsoft expands Copilot system actions across Windows and Azure AI workspace flows",
+      "summary": "Microsoft pushes deeper operating-system and cloud workflow integration, signaling more enterprise distribution leverage rather than a raw model leap.",
+      "source": "Microsoft Azure AI",
+      "sourceType": "official",
+      "sourceUrl": "https://azure.microsoft.com/en-us/blog/copilot-workspace-updates",
+      "timestamp": "2026-03-14T11:30:00-07:00",
+      "category": "competitive",
+      "signals": ["enterprise-distribution", "workflow-integration", "official-source"],
+      "topicKey": "microsoft-copilot-workflow-expansion"
+    },
+    {
+      "id": "meta-agent-framework",
+      "headline": "Meta AI releases an open agent framework tied to Llama ecosystem tooling",
+      "summary": "Meta is trying to make Llama-based agent stacks easier to assemble, which matters more for ecosystem pull than for immediate operational change.",
+      "source": "Meta AI",
+      "sourceType": "official",
+      "sourceUrl": "https://ai.meta.com/blog/open-agent-framework",
+      "timestamp": "2026-03-13T09:40:00-07:00",
+      "category": "tooling",
+      "signals": ["tooling", "ecosystem", "official-source"],
+      "topicKey": "meta-open-agent-framework"
+    }
+  ]
+}
