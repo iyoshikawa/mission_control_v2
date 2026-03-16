@@ -2,6 +2,7 @@
   "name": "mission-control",
   "private": true,
   "scripts": {
+    "build:ai-news": "node scripts/build-ai-news.js",
     "test": "npx playwright test",
     "test:ci": "npx playwright test --reporter=github"
   },

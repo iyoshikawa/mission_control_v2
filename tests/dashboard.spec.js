@@ -217,19 +217,30 @@ test('AI News tab switches to AI News view', async ({ page }) => {
   await expect(page.locator('#view-mission-control')).not.toBeVisible();
 });
 
-test('AI News view renders top stories', async ({ page }) => {
+test('AI News view renders ranked deduped top stories', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
   const stories = page.locator('#ai-top-stories .ai-story');
   await expect(stories).toHaveCount(5);
-  await expect(stories.first()).toContainText('Anthropic releases Claude 4.5');
+  await expect(stories.first()).toContainText('OpenAI launches GPT-5');
+  await expect(stories.nth(1)).toContainText('Anthropic ships Claude 4.6');
+  await expect(page.locator('#ai-top-stories')).not.toContainText('OpenAI unveils GPT-5 with realtime reasoning and premium enterprise pricing');
+});
+
+test('AI News view shows source-only links and supporting references', async ({ page }) => {
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  const firstStory = page.locator('#ai-top-stories .ai-story').first();
+  await expect(firstStory.locator('.news-source')).toHaveText('OpenAI');
+  await expect(firstStory.locator('.news-source')).toHaveAttribute('href', 'https://openai.com/index/gpt-5');
+  await expect(firstStory).toContainText('Supporting: The Rundown AI');
 });
 
 test('AI News view renders why-it-matters and watchlist', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
   await expect(page.locator('#ai-why-matters .ai-impact')).toHaveCount(3);
-  await expect(page.locator('#ai-watchlist .ai-watch-item')).toHaveCount(5);
+  await expect(page.locator('#ai-watchlist .ai-watch-item')).toHaveCount(6);
 });
 
 // --- Macro view renders ---
