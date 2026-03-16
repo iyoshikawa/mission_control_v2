@@ -1,30 +1,30 @@
-# AI News — Presentation Contract
+# Global News — Presentation Contract
 
 Status: active draft
-Purpose: define the data shape for AI-specific news items rendered in Mission Control.
+Purpose: define the data shape for compact global-news items rendered in Mission Control.
 
 ## Scope
 
-This contract covers AI/ML industry news relevant to operating decisions — model releases, pricing changes, regulatory shifts, competitive signals, and tooling developments.
+This contract covers world news relevant to morning operating decisions — geopolitics, trade, supply chain, energy, central banks, and other macro developments with practical business impact.
 
 This is a **presentation contract**, not a backend schema.
 
 ---
 
-## AI News Item
+## Global News Item
 
 ```json
 [
   {
-    "headline": "OpenAI announces GPT-5 with 2M context window",
-    "summary": "New flagship model doubles context and adds native tool use. Enterprise tier available immediately.",
-    "source": "The Verge",
-    "timestamp": "2026-03-15T09:00:00-07:00",
-    "priority": "HIGH",
-    "category": "model-release",
-    "whyItMatters": "May affect current model selection and pricing assumptions.",
-    "link": null,
-    "recommendedAction": null
+    "headline": "Red Sea disruption forces more container rerouting",
+    "summary": "Major carriers are extending diversions away from Suez after fresh attacks.",
+    "source": "Reuters",
+    "timestamp": "2026-03-15T07:10:00-07:00",
+    "impact": "HIGH",
+    "region": "Middle East",
+    "category": "shipping",
+    "whyItMatters": "Can raise freight costs and delay imported hardware or goods.",
+    "link": null
   }
 ]
 ```
@@ -33,14 +33,14 @@ This is a **presentation contract**, not a backend schema.
 - headline
 - source
 - timestamp
-- priority
+- impact
 
 ### Recommended fields
 - summary
+- region
 - category
 - whyItMatters
 - link
-- recommendedAction
 
 ---
 
@@ -50,56 +50,57 @@ This is a **presentation contract**, not a backend schema.
 Short factual title. One line.
 
 ### summary
-1-2 sentence expansion. Optional — omit if headline is self-explanatory.
+1-2 sentence expansion. Optional.
 
 ### source
-Publication or origin. Examples: "The Verge", "Reuters", "Anthropic blog", "Hacker News".
+Publication or origin. Examples: "Reuters", "Bloomberg", "Financial Times", "AP".
 
 ### timestamp
 ISO 8601. When the item was published or first observed.
 
-### priority
+### impact
 Signal level for scan speed. Values:
-- **HIGH** — direct impact on current operations, costs, or decisions
-- **WATCH** — relevant but no immediate action needed
+- **HIGH** — likely to affect current decisions, costs, supply, or risk posture
+- **MEDIUM** — relevant context worth scanning this morning
 - **LOW** — background awareness only
 
-Maps to existing badge classes: `badge-issue` (HIGH), `badge-watch` (WATCH), `badge-dormant` (LOW).
+Maps to existing badge classes: `badge-issue` (HIGH), `badge-watch` (MEDIUM), `badge-dormant` (LOW).
+
+### region
+Short geography label for fast scanning. Examples: `Global`, `Europe`, `China`, `Middle East`.
 
 ### category
 Topic bucket for filtering. Suggested values:
-- `model-release` — new models, capabilities, benchmarks
-- `pricing` — pricing changes, tier restructuring
-- `regulation` — AI-specific regulation, compliance
-- `competitive` — competitor moves, market shifts
-- `tooling` — SDKs, APIs, developer platforms
-- `research` — papers, breakthroughs with near-term relevance
-- `infrastructure` — compute, hardware, cloud AI services
+- `trade`
+- `shipping`
+- `energy`
+- `policy`
+- `central-banks`
+- `conflict`
+- `elections`
+- `sanctions`
 
-Not a closed set — new categories may appear.
+Not a closed set.
 
 ### whyItMatters
-One sentence explaining operational relevance. Optional.
+One sentence translating the headline into operational relevance. Recommended.
 
 ### link
 URL to source article. Null if unavailable or unnecessary.
-
-### recommendedAction
-Short action suggestion. Null if no action warranted.
 
 ---
 
 ## Rendering rules
 
-- Show up to 10 items, newest first
-- HIGH items should be visually prominent (e.g. left border accent)
-- LOW items may be muted
-- Empty state: "No AI news items loaded."
-- Do not fabricate urgency — if no items, show empty state cleanly
+- Show up to 8 items, newest first
+- Keep the section compact and high signal
+- HIGH items should be visually prominent
+- Do not turn this into a generic newspaper wall
+- Empty state: "No global news items loaded."
 
 ## Empty state
 
-If `aiNews` is empty or missing:
+If `newsFeed` is empty or missing:
 - render a clean empty state
 - do not hide the section
 - do not show error messaging

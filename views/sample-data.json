@@ -370,68 +370,64 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI announces GPT-5 with real-time reasoning capabilities",
-      "source": "The Rundown AI",
-      "timestamp": "2026-03-15T08:00:00-07:00",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "GPT-5 introduces persistent reasoning chains and 2M context. Enterprise pricing starts at $200/seat. Available via API immediately."
-    },
-    {
-      "headline": "Anthropic ships Claude 4.6 with native computer use",
-      "source": "The Rundown AI",
-      "timestamp": "2026-03-14T08:00:00-07:00",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Claude 4.6 Opus and Sonnet now support desktop automation natively. Pricing unchanged. Agent SDK updated."
-    },
-    {
-      "headline": "Google DeepMind open-sources Gemma 3 model weights",
-      "source": "The Rundown AI",
-      "timestamp": "2026-03-13T08:00:00-07:00",
-      "impact": "MEDIUM",
-      "category": "open-source",
-      "summary": "9B and 27B parameter models available under permissive license. Competitive with Llama 3 on reasoning benchmarks."
-    },
-    {
-      "headline": "EU AI Act enforcement begins for high-risk systems",
-      "source": "BBC",
-      "timestamp": "2026-03-15T06:00:00-07:00",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Companies deploying AI in hiring, credit, and law enforcement must now comply with transparency and audit requirements."
-    },
-    {
-      "headline": "Microsoft integrates Copilot deeply into Windows 12 preview",
+      "headline": "Red Sea shipping disruptions push insurers and carriers to reroute capacity again",
       "source": "Reuters",
-      "timestamp": "2026-03-14T10:00:00-07:00",
-      "impact": "MEDIUM",
-      "category": "enterprise",
-      "summary": "System-level AI assistant handles file management, scheduling, and cross-app workflows. Enterprise rollout Q3."
+      "timestamp": "2026-03-15T07:10:00-07:00",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "summary": "Fresh security incidents drove more carriers away from the Suez route, raising transit times and freight uncertainty.",
+      "whyItMatters": "Any hardware, electronics, or imported goods exposure faces renewed delivery risk and possible cost creep."
     },
     {
-      "headline": "AI chip shortage eases as TSMC ramps 3nm production",
+      "headline": "China signals targeted stimulus for property and local-government stress",
+      "source": "Financial Times",
+      "timestamp": "2026-03-15T05:40:00-07:00",
+      "impact": "MEDIUM",
+      "region": "China",
+      "category": "policy",
+      "summary": "Beijing outlined selective support rather than broad rescue measures as growth and debt pressures persist.",
+      "whyItMatters": "Supports a slower-growth global backdrop rather than a clean rebound; useful context for demand and market risk."
+    },
+    {
+      "headline": "Europe moves toward tighter export controls on dual-use chips and tooling",
       "source": "Reuters",
-      "timestamp": "2026-03-13T14:00:00-07:00",
-      "impact": "MEDIUM",
-      "category": "infrastructure",
-      "summary": "Increased capacity expected to reduce GPU lead times from 6 months to 8 weeks by Q4."
+      "timestamp": "2026-03-14T11:20:00-07:00",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "summary": "Officials are discussing narrower but firmer controls tied to semiconductor and advanced-manufacturing equipment.",
+      "whyItMatters": "Another incremental constraint on tech supply chains and pricing; relevant for compute and vendor exposure."
     },
     {
-      "headline": "Startup raises $500M to build AI-native ERP for mid-market",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-14T12:00:00-07:00",
+      "headline": "Oil holds higher after OPEC+ supply discipline and new regional risk premium",
+      "source": "Bloomberg",
+      "timestamp": "2026-03-14T08:30:00-07:00",
+      "impact": "MEDIUM",
+      "region": "Global",
+      "category": "energy",
+      "summary": "Crude stayed elevated as supply restraint met renewed geopolitical tension.",
+      "whyItMatters": "Sustained energy strength can leak into transport, hosting, and broad operating costs."
+    },
+    {
+      "headline": "Japan wage data keeps Bank of Japan normalization path alive",
+      "source": "Nikkei Asia",
+      "timestamp": "2026-03-14T01:50:00-07:00",
+      "impact": "MEDIUM",
+      "region": "Japan",
+      "category": "central-banks",
+      "summary": "Wage growth remained firm enough to preserve expectations for gradual policy normalization.",
+      "whyItMatters": "Another reminder that global rates may stay less forgiving than markets hope."
+    },
+    {
+      "headline": "Brazil and Argentina reopen talks on regional trade settlement mechanisms",
+      "source": "AP",
+      "timestamp": "2026-03-13T15:00:00-07:00",
       "impact": "LOW",
-      "category": "funding",
-      "summary": "Series C round led by a16z. Product targets companies with 50-500 employees currently on legacy ERP systems."
-    },
-    {
-      "headline": "White House releases updated AI safety framework",
-      "source": "BBC",
-      "timestamp": "2026-03-13T09:00:00-07:00",
-      "impact": "MEDIUM",
-      "category": "regulation",
-      "summary": "Voluntary framework for frontier model developers includes red-teaming requirements and incident reporting guidelines."
+      "region": "Latin America",
+      "category": "trade",
+      "summary": "The discussion centers on easing cross-border settlement friction rather than launching a near-term shared currency.",
+      "whyItMatters": "Background signal on regional trade plumbing; low immediate impact but worth watching for payments exposure."
     }
   ],
   "aiNews": {
