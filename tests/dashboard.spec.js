@@ -181,24 +181,24 @@ test('News view renders grouped news items', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="news"]');
   const items = page.locator('#news-feed .news-item');
-  await expect(items).toHaveCount(8);
+  await expect(items).toHaveCount(10);
   await expect(page.locator('#news-feed .news-source-group').first()).toBeVisible();
 });
 
-test('News view prioritizes The Rundown group', async ({ page }) => {
+test('News view shows must-have source groups from generated feed', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="news"]');
-  const firstGroup = page.locator('#news-feed .news-source-group').first();
-  await expect(firstGroup).toContainText('The Rundown AI');
-  await expect(firstGroup).toContainText('3 items');
+  await expect(page.locator('#news-feed')).toContainText('Anthropic');
+  await expect(page.locator('#news-feed')).toContainText('OpenAI');
+  await expect(page.locator('#news-feed')).toContainText('Microsoft Azure AI');
 });
 
-test('News items show headline and source grouping', async ({ page }) => {
+test('News items show headline and source link only', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="news"]');
   const first = page.locator('#news-feed .news-item').first();
-  await expect(first).toContainText('OpenAI announces GPT-5');
-  await expect(page.locator('#news-feed .news-source-group').first()).toContainText('The Rundown AI');
+  await expect(first.locator('h3')).not.toHaveText('');
+  await expect(first.locator('.source-link')).toHaveText('Source');
 });
 
 test('News items show impact badges', async ({ page }) => {
@@ -217,18 +217,19 @@ test('AI News tab switches to AI News view', async ({ page }) => {
   await expect(page.locator('#view-mission-control')).not.toBeVisible();
 });
 
-test('AI News view renders top stories', async ({ page }) => {
+test('AI News view renders top stories from generated feed', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
   const stories = page.locator('#ai-top-stories .ai-story');
-  await expect(stories).toHaveCount(5);
-  await expect(stories.first()).toContainText('Anthropic releases Claude 4.5');
+  await expect(stories).toHaveCount(6);
+  await expect(stories.first().locator('h3')).not.toHaveText('');
+  await expect(stories.first().locator('.source-link')).toHaveText('Source');
 });
 
 test('AI News view renders why-it-matters and watchlist', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
-  await expect(page.locator('#ai-why-matters .ai-impact')).toHaveCount(3);
+  await expect(page.locator('#ai-why-matters .ai-impact')).toHaveCount(4);
   await expect(page.locator('#ai-watchlist .ai-watch-item')).toHaveCount(5);
 });
 

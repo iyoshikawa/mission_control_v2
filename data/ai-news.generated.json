@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-16T06:29:44.015Z",
+    "refreshCadence": "hourly",
+    "sources": [
+      "Anthropic",
+      "OpenAI",
+      "Google DeepMind",
+      "Microsoft Azure AI",
+      "Meta AI"
+    ],
+    "itemCount": 20
+  },
+  "newsFeed": [
+    {
+      "headline": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+      "source": "Meta AI",
+      "timestamp": "2026-03-13T16:00:26.000Z",
+      "impact": "HIGH",
+      "category": "tooling",
+      "summary": "Even seemingly simple engineering tasks — like updating an API — can become monumental undertakings when you're dealing with millions of lines of code and thousands of engineers,…",
+      "link": "https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/"
+    },
+    {
+      "headline": "Designing AI agents to resist prompt injection",
+      "source": "OpenAI",
+      "timestamp": "2026-03-11T11:30:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
+    },
+    {
+      "headline": "From model to agent: Equipping the Responses API with a computer environment",
+      "source": "OpenAI",
+      "timestamp": "2026-03-11T11:00:00.000Z",
+      "impact": "HIGH",
+      "category": "infrastructure",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment"
+    },
+    {
+      "headline": "Improving instruction hierarchy in frontier LLMs",
+      "source": "OpenAI",
+      "timestamp": "2026-03-10T11:00:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "link": "https://openai.com/index/instruction-hierarchy-challenge"
+    },
+    {
+      "headline": "New ways to learn math and science in ChatGPT",
+      "source": "OpenAI",
+      "timestamp": "2026-03-10T10:00:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
+    },
+    {
+      "headline": "How Advanced Browsing Protection Works in Messenger",
+      "source": "Meta AI",
+      "timestamp": "2026-03-09T16:00:36.000Z",
+      "impact": "WATCH",
+      "category": "competitive",
+      "summary": "We’re sharing the technical details behind how Advanced Browsing Protection (ABP) in Messenger protects the privacy of the links clicked on within chats while still warning people…",
+      "link": "https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/"
+    },
+    {
+      "headline": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "source": "Google DeepMind",
+      "timestamp": "2026-03-09T13:52:36.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "link": "https://deepmind.google/blog/10-years-of-alphago/"
+    },
+    {
+      "headline": "The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry",
+      "source": "Microsoft Azure AI",
+      "timestamp": "2026-03-06T17:00:00.000Z",
+      "impact": "HIGH",
+      "category": "pricing",
+      "summary": "Customers are on the hunt for smarter models, more capable agents, and market-ready solutions to operationalize AI workflows. The post The economics of enterprise AI: What the For…",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/"
+    },
+    {
+      "headline": "Introducing GPT-5.4 in Microsoft Foundry",
+      "source": "Microsoft Azure AI",
+      "timestamp": "2026-03-05T23:03:01.000Z",
+      "impact": "HIGH",
+      "category": "tooling",
+      "summary": "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing…",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785"
+    },
+    {
+      "headline": "Where things stand with the Department of War",
+      "source": "Anthropic",
+      "timestamp": "2026-03-05T08:00:00.000Z",
+      "impact": "WATCH",
+      "category": "competitive",
+      "summary": "A statement from Dario Amodei.",
+      "link": "https://www.anthropic.com/news/where-stand-department-war"
+    }
+  ],
+  "aiNews": {
+    "topStories": [
+      {
+        "headline": "New ways to learn math and science in ChatGPT",
+        "source": "OpenAI",
+        "timestamp": "2026-03-10T10:00:00.000Z",
+        "impact": "HIGH",
+        "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+        "whyItMatters": "May affect compliance posture, acceptable use, or enterprise procurement requirements.",
+        "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt"
+      },
+      {
+        "headline": "Introducing GPT-5.4 in Microsoft Foundry",
+        "source": "Microsoft Azure AI",
+        "timestamp": "2026-03-05T23:03:01.000Z",
+        "impact": "HIGH",
+        "summary": "Today, we’re announcing OpenAI’s GPT‑5.4 to be generally available soon in Microsoft Foundry: a model designed to help organizations move from planning work to reliably completing…",
+        "whyItMatters": "Worth evaluating for workflow leverage if it reduces manual operator effort.",
+        "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785"
+      },
+      {
+        "headline": "Introducing Claude Sonnet 4.6",
+        "source": "Anthropic",
+        "timestamp": "2026-02-17T08:00:00.000Z",
+        "impact": "HIGH",
+        "summary": "Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+        "whyItMatters": "Worth evaluating for workflow leverage if it reduces manual operator effort.",
+        "link": "https://www.anthropic.com/news/claude-sonnet-4-6"
+      },
+      {
+        "headline": "Improving instruction hierarchy in frontier LLMs",
+        "source": "OpenAI",
+        "timestamp": "2026-03-10T11:00:00.000Z",
+        "impact": "HIGH",
+        "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+        "whyItMatters": "May affect compliance posture, acceptable use, or enterprise procurement requirements.",
+        "link": "https://openai.com/index/instruction-hierarchy-challenge"
+      },
+      {
+        "headline": "Unlocking document understanding with Mistral Document AI in Microsoft Foundry",
+        "source": "Microsoft Azure AI",
+        "timestamp": "2026-03-03T16:24:29.000Z",
+        "impact": "HIGH",
+        "summary": "Enterprises today face a familiar yet formidable challenge: mountains of documents -contracts, invoices, reports, forms - remain locked in unstructured formats. Traditional OCR (o…",
+        "whyItMatters": "May affect compliance posture, acceptable use, or enterprise procurement requirements.",
+        "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664"
+      },
+      {
+        "headline": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+        "source": "Meta AI",
+        "timestamp": "2026-03-13T16:00:26.000Z",
+        "impact": "HIGH",
+        "summary": "Even seemingly simple engineering tasks — like updating an API — can become monumental undertakings when you're dealing with millions of lines of code and thousands of engineers,…",
+        "whyItMatters": "Worth evaluating for workflow leverage if it reduces manual operator effort.",
+        "link": "https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/"
+      }
+    ],
+    "whyItMatters": [
+      {
+        "topic": "pricing",
+        "assessment": "Could change current AI spend assumptions and vendor comparisons.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review Google DeepMind update and compare against current stack assumptions."
+      },
+      {
+        "topic": "regulation",
+        "assessment": "May affect compliance posture, acceptable use, or enterprise procurement requirements.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review OpenAI update and compare against current stack assumptions."
+      },
+      {
+        "topic": "model release",
+        "assessment": "Directly relevant to model selection, capability benchmarking, and stack choices.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review Google DeepMind update and compare against current stack assumptions."
+      },
+      {
+        "topic": "tooling",
+        "assessment": "Worth evaluating for workflow leverage if it reduces manual operator effort.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review Microsoft Azure AI update and compare against current stack assumptions."
+      }
+    ],
+    "watchlist": [
+      {
+        "name": "Anthropic",
+        "status": "ACTIVE",
+        "note": "Anthropic live source is included in the hourly AI news refresh."
+      },
+      {
+        "name": "OpenAI",
+        "status": "ACTIVE",
+        "note": "OpenAI live source is included in the hourly AI news refresh."
+      },
+      {
+        "name": "Google DeepMind",
+        "status": "WATCH",
+        "note": "Google DeepMind live source is included in the hourly AI news refresh."
+      },
+      {
+        "name": "Microsoft Azure AI",
+        "status": "WATCH",
+        "note": "Microsoft Azure AI live source is included in the hourly AI news refresh."
+      },
+      {
+        "name": "Meta AI",
+        "status": "WATCH",
+        "note": "Meta AI live source is included in the hourly AI news refresh."
+      }
+    ]
+  }
+}
