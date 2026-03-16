@@ -125,6 +125,35 @@ test('cost watch renders status rows', async ({ page }) => {
   await expect(rows).toHaveCount(2);
 });
 
+test('ops health shows all-clear banner and quiet rows when everything is healthy', async ({ page }) => {
+  const fixture = JSON.parse(JSON.stringify(require('../views/sample-data.json')));
+  fixture.opsHealth = [
+    {
+      name: 'Startup flow',
+      status: 'HEALTHY',
+      issue: 'No open issues.',
+      recommendedNextStep: 'Keep monitoring.',
+      lastChecked: '2026-03-16T07:00:00Z'
+    },
+    {
+      name: 'Morning checklist',
+      status: 'HEALTHY',
+      issue: 'No open issues.',
+      recommendedNextStep: 'Keep monitoring.',
+      lastChecked: '2026-03-16T07:05:00Z'
+    }
+  ];
+
+  await page.route('**/data/ai-news.generated.json', route => route.abort());
+  await loadWithFixture(page, fixture);
+
+  await expect(page.locator('#ops-health .all-clear')).toHaveText('All systems nominal.');
+  await expect(page.locator('#ops-health .status-row')).toHaveCount(2);
+  await expect(page.locator('#ops-health .status-quiet')).toHaveCount(2);
+  await expect(page.locator('#ops-health')).not.toContainText('No open issues.');
+  await expect(page.locator('#ops-health')).not.toContainText('Keep monitoring.');
+});
+
 test('alerts render with timestamps', async ({ page }) => {
   await page.goto('/');
   const rows = page.locator('#alerts .status-row');
@@ -206,6 +235,56 @@ test('News items show impact badges', async ({ page }) => {
   await page.click('.view-tab[data-view="news"]');
   const badges = page.locator('#news-feed .badge');
   await expect(badges.first()).toBeVisible();
+});
+
+test('News view prefers generated hourly feed when available', async ({ page }) => {
+  await page.route('**/data/ai-news.generated.json', async route => {
+    await route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        meta: { generatedAt: '2026-03-16T06:00:00Z', refreshCadence: 'hourly' },
+        newsFeed: [
+          {
+            headline: 'Generated OpenAI feed item',
+            source: 'OpenAI',
+            timestamp: '2026-03-16T05:00:00Z',
+            impact: 'HIGH',
+            category: 'tooling',
+            summary: 'Loaded from the automation refresh path.',
+            link: 'https://openai.com/'
+          },
+          {
+            headline: 'Generated Anthropic feed item',
+            source: 'Anthropic',
+            timestamp: '2026-03-16T04:00:00Z',
+            impact: 'WATCH',
+            category: 'models',
+            summary: 'Second item proves grouped generated content renders.',
+            link: 'https://anthropic.com/'
+          }
+        ],
+        aiNews: { topStories: [], whyItMatters: [], watchlist: [] }
+      })
+    });
+  });
+
+  await page.goto('/views/');
+  await page.click('.view-tab[data-view="news"]');
+
+  await expect(page.locator('#news-feed')).toContainText('Generated OpenAI feed item');
+  await expect(page.locator('#news-feed')).toContainText('Generated Anthropic feed item');
+  await expect(page.locator('#news-feed')).not.toContainText('OpenAI announces GPT-5 with real-time reasoning capabilities');
+  await expect(page.locator('#news-feed .news-source-group')).toHaveCount(2);
+});
+
+test('News view falls back to bundled sample feed when generated hourly feed fails', async ({ page }) => {
+  await page.route('**/data/ai-news.generated.json', route => route.abort());
+
+  await page.goto('/views/');
+  await page.click('.view-tab[data-view="news"]');
+
+  await expect(page.locator('#news-feed')).toContainText('OpenAI announces GPT-5 with real-time reasoning capabilities');
+  await expect(page.locator('#news-feed .news-item')).toHaveCount(8);
 });
 
 // --- AI News view renders ---
