@@ -72,6 +72,126 @@ function setMeta(meta = {}) {
   document.getElementById('dashboard-updated').textContent = formatTimestamp(meta.lastUpdated) || 'Unknown';
 }
 
+function renderOperationalPulse(data = {}) {
+  const el = document.getElementById('operational-pulse');
+  if (!el) return;
+
+  const priorities = Array.isArray(data.priorityStack) ? data.priorityStack : [];
+  const decisions = Array.isArray(data.decisionQueue) ? data.decisionQueue : [];
+  const opsRisks = Array.isArray(data.opsHealth) ? data.opsHealth.filter(item => item.status && item.status !== 'HEALTHY') : [];
+  const costRisks = Array.isArray(data.costWatch) ? data.costWatch.filter(item => !['LEAN', 'HEALTHY'].includes(item.status)) : [];
+  const alerts = Array.isArray(data.alerts) ? data.alerts : [];
+
+  const topPriority = priorities[0];
+  const latestAlert = alerts[0];
+  const attentionCount = decisions.length + opsRisks.length + costRisks.length;
+  const healthyCount = (Array.isArray(data.opsHealth) ? data.opsHealth.filter(item => item.status === 'HEALTHY').length : 0)
+    + (Array.isArray(data.costWatch) ? data.costWatch.filter(item => ['LEAN', 'HEALTHY'].includes(item.status)).length : 0);
+
+  el.innerHTML = [
+    {
+      label: 'Top Priority',
+      value: priorities.length ? `#1` : '—',
+      tone: topPriority?.blocker ? 'watch' : 'good',
+      note: topPriority?.title || 'No active priorities.'
+    },
+    {
+      label: 'Owner Decisions',
+      value: String(decisions.length),
+      tone: decisions.length ? 'issue' : 'good',
+      note: decisions.length ? 'Items waiting on judgment.' : 'Nothing queued for Owner review.'
+    },
+    {
+      label: 'Active Exceptions',
+      value: String(attentionCount),
+      tone: attentionCount > 2 ? 'issue' : attentionCount ? 'watch' : 'good',
+      note: attentionCount ? 'Operational or cost items need attention.' : 'No active operational exceptions.'
+    },
+    {
+      label: 'Latest Alert',
+      value: latestAlert ? relativeTime(latestAlert.timestamp) : 'Quiet',
+      tone: latestAlert ? 'watch' : 'good',
+      note: latestAlert?.summary || `${healthyCount} monitored areas are quiet.`
+    }
+  ].map(item => `
+    <article class="snapshot-tile">
+      <div class="snapshot-label">${escapeHtml(item.label)}</div>
+      <div class="snapshot-value ${item.tone}">${escapeHtml(item.value)}</div>
+      <p class="snapshot-note">${escapeHtml(item.note)}</p>
+    </article>
+  `).join('');
+}
+
+function buildAttentionItems(data = {}) {
+  const items = [];
+
+  (data.priorityStack || []).forEach((item, index) => {
+    if (!item?.blocker && index > 0) return;
+    items.push({
+      kicker: index === 0 ? 'Top priority' : 'Priority blocker',
+      title: item.title,
+      summary: item.blocker || item.summary,
+      nextAction: item.nextAction,
+      status: item.blocker ? 'WATCH' : (item.status || 'ACTIVE')
+    });
+  });
+
+  (data.decisionQueue || []).forEach(item => {
+    items.push({
+      kicker: 'Owner decision',
+      title: item.decision,
+      summary: item.whyItMatters,
+      nextAction: item.recommendation ? `Recommended: ${item.recommendation}` : '',
+      status: item.status || 'NEEDS_DECISION'
+    });
+  });
+
+  (data.opsHealth || []).filter(item => item.status && item.status !== 'HEALTHY').forEach(item => {
+    items.push({
+      kicker: 'Ops risk',
+      title: item.name,
+      summary: item.issue,
+      nextAction: item.recommendedNextStep,
+      status: item.status
+    });
+  });
+
+  (data.costWatch || []).filter(item => !['LEAN', 'HEALTHY'].includes(item.status)).forEach(item => {
+    items.push({
+      kicker: 'Cost watch',
+      title: item.name,
+      summary: item.utilizationNote,
+      nextAction: item.actionRecommendation,
+      status: item.status
+    });
+  });
+
+  return items.slice(0, 6);
+}
+
+function renderAttentionNow(data = {}) {
+  const el = document.getElementById('attention-now');
+  if (!el) return;
+
+  const items = buildAttentionItems(data);
+  if (!items.length) {
+    el.innerHTML = emptyState('No immediate pressure points loaded.');
+    return;
+  }
+
+  el.innerHTML = items.map(item => `
+    <article class="attention-item">
+      <div>
+        <div class="attention-kicker">${escapeHtml(item.kicker)}</div>
+        <h3>${escapeHtml(item.title || 'Untitled')}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        ${item.nextAction ? `<p class="action-hint">Next: ${escapeHtml(item.nextAction)}</p>` : ''}
+      </div>
+      ${item.status ? badge(item.status) : ''}
+    </article>
+  `).join('');
+}
+
 function renderPriorityStack(items = []) {
   const el = document.getElementById('priority-stack');
   if (!items.length) {
@@ -553,6 +673,8 @@ async function loadDashboard() {
     const data = await response.json();
 
     setMeta(data.meta);
+    renderOperationalPulse(data);
+    renderAttentionNow(data);
     renderPriorityStack(data.priorityStack);
     renderDecisionQueue(data.decisionQueue);
     renderOrg(data.org);
@@ -609,6 +731,8 @@ async function loadDashboard() {
     renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);
+    document.getElementById('operational-pulse').innerHTML = emptyState('Failed to load sample-data.json.');
+    document.getElementById('attention-now').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('priority-stack').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('decision-queue').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('org-chart').innerHTML = emptyState('Failed to load sample-data.json.');
