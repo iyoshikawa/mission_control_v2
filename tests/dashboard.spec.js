@@ -234,6 +234,43 @@ test('AI News view shows source-only links and supporting references when presen
   await expect(firstStory.locator('.source-link')).toHaveText('Source');
 });
 
+test('AI News view prefers generated JSON when available', async ({ page }) => {
+  await page.route('**/data/ai-news.generated.json', async route => {
+    await route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        meta: { generatedAt: '2026-03-15T09:00:00-07:00', refreshCadence: 'hourly' },
+        newsFeed: [],
+        aiNews: {
+          topStories: [{
+            headline: 'Generated story from scheduler',
+            source: 'OpenAI',
+            timestamp: '2026-03-15T09:00:00-07:00',
+            impact: 'HIGH',
+            summary: 'Freshly generated payload.',
+            whyItMatters: 'Confirms separate generated JSON read-path.',
+            link: 'https://openai.com/'
+          }],
+          whyItMatters: [],
+          watchlist: []
+        }
+      })
+    });
+  });
+
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  await expect(page.locator('#ai-top-stories')).toContainText('Generated story from scheduler');
+  await expect(page.locator('#ai-top-stories')).toContainText('Confirms separate generated JSON read-path.');
+});
+
+test('AI News view falls back to embedded sample data when generated JSON fails', async ({ page }) => {
+  await page.route('**/data/ai-news.generated.json', route => route.abort());
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  await expect(page.locator('#ai-top-stories .ai-story').first()).toBeVisible();
+});
+
 test('AI News view renders why-it-matters and watchlist', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
