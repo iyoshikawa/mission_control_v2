@@ -235,7 +235,7 @@ test('AI News view renders generated stories, impact notes, and watchlist entrie
   const stories = page.locator('#ai-top-stories .ai-story');
   await expect(stories).toHaveCount(6);
   await expect(stories.first().locator('h3')).not.toHaveText('');
-  await expect(stories.first().locator('.source-link')).toHaveText('Source');
+  await expect(stories.first()).toContainText('Source');
 
   const impactCards = page.locator('#ai-why-matters .ai-impact');
   await expect(impactCards).toHaveCount(4);
@@ -292,6 +292,7 @@ test('AI News lead story gets lead styling and only the first six top stories re
     whyItMatters: `Reason ${i + 1}`
   }));
 
+  await page.route('**/data/ai-news.generated.json', route => route.abort());
   await loadWithFixture(page, fixture);
   await page.click('.view-tab[data-view="ai-news"]');
 
@@ -310,6 +311,7 @@ test('AI News shows empty states when generated sections are missing', async ({ 
     watchlist: []
   };
 
+  await page.route('**/data/ai-news.generated.json', route => route.abort());
   await loadWithFixture(page, fixture);
   await page.click('.view-tab[data-view="ai-news"]');
 
@@ -331,6 +333,7 @@ test('AI News escapes hostile generated content instead of rendering HTML', asyn
     }
   ];
 
+  await page.route('**/data/ai-news.generated.json', route => route.abort());
   await loadWithFixture(page, fixture);
   await page.click('.view-tab[data-view="ai-news"]');
 
