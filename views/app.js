@@ -411,7 +411,6 @@ function renderNewsFeed(items = []) {
     return;
   }
 
-  // Group by source, Rundown first
   const groups = {};
   for (const item of items) {
     const src = item.source || 'Other';
@@ -419,19 +418,14 @@ function renderNewsFeed(items = []) {
     groups[src].push(item);
   }
 
-  const sourceOrder = Object.keys(groups).sort((a, b) => {
-    if (a === 'The Rundown AI') return -1;
-    if (b === 'The Rundown AI') return 1;
-    return a.localeCompare(b);
-  });
+  const sourceOrder = Object.keys(groups).sort((a, b) => a.localeCompare(b));
 
   el.innerHTML = sourceOrder.map(src => {
-    const isRundown = src === 'The Rundown AI';
     const srcItems = groups[src];
     return `
-      <div class="news-source-group${isRundown ? ' news-rundown' : ''}">
+      <div class="news-source-group">
         <div class="news-source-header">
-          <span class="news-source-name${isRundown ? ' news-rundown-name' : ''}">${escapeHtml(src)}</span>
+          <span class="news-source-name">${escapeHtml(src)}</span>
           <span class="news-source-count">${srcItems.length} item${srcItems.length !== 1 ? 's' : ''}</span>
         </div>
         ${srcItems.map(item => `
@@ -442,6 +436,7 @@ function renderNewsFeed(items = []) {
               <div class="news-meta">
                 ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
                 <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+                ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
               </div>
             </div>
             ${item.impact ? badge(item.impact) : ''}
@@ -466,6 +461,7 @@ function renderAiTopStories(items = []) {
         <div class="news-meta">
           <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
           <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+          ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
         </div>
       </div>
       ${item.impact ? badge(item.impact) : ''}
@@ -546,11 +542,28 @@ function renderMacroCalendar(items = []) {
   `;
 }
 
+async function loadJson(path) {
+  const response = await fetch(path);
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
+
 async function loadDashboard() {
   try {
-    const response = await fetch('./sample-data.json');
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
+    const data = await loadJson('./sample-data.json');
+
+    try {
+      const generatedNews = await loadJson('../data/ai-news.generated.json');
+      data.newsFeed = generatedNews.newsFeed || data.newsFeed;
+      data.aiNews = generatedNews.aiNews || data.aiNews;
+      data.meta = {
+        ...data.meta,
+        aiNewsRefreshCadence: generatedNews.meta?.refreshCadence,
+        aiNewsLastGeneratedAt: generatedNews.meta?.generatedAt
+      };
+    } catch (generatedError) {
+      console.warn('Falling back to bundled AI news sample data.', generatedError);
+    }
 
     setMeta(data.meta);
     renderPriorityStack(data.priorityStack);
