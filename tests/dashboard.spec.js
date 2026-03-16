@@ -217,12 +217,45 @@ test('AI News tab switches to AI News view', async ({ page }) => {
   await expect(page.locator('#view-mission-control')).not.toBeVisible();
 });
 
-test('AI News view renders top stories', async ({ page }) => {
+test('AI News view renders top stories from generated data', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
   const stories = page.locator('#ai-top-stories .ai-story');
   await expect(stories).toHaveCount(5);
   await expect(stories.first()).toContainText('Anthropic releases Claude 4.5');
+  await expect(stories.first()).toContainText('Anthropic');
+});
+
+test('AI News view prefers generated JSON when available', async ({ page }) => {
+  await page.route('**/generated/ai-news.json', async route => {
+    await route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify({
+        topStories: [{
+          headline: 'Generated story from scheduler',
+          source: 'OpenAI',
+          timestamp: '2026-03-15T09:00:00-07:00',
+          impact: 'HIGH',
+          summary: 'Freshly generated payload.',
+          whyItMatters: 'Confirms separate generated JSON read-path.'
+        }],
+        whyItMatters: [],
+        watchlist: []
+      })
+    });
+  });
+
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  await expect(page.locator('#ai-top-stories')).toContainText('Generated story from scheduler');
+  await expect(page.locator('#ai-top-stories')).toContainText('Confirms separate generated JSON read-path.');
+});
+
+test('AI News view falls back to embedded sample data when generated JSON fails', async ({ page }) => {
+  await page.route('**/generated/ai-news.json', route => route.abort());
+  await page.goto('/');
+  await page.click('.view-tab[data-view="ai-news"]');
+  await expect(page.locator('#ai-top-stories')).toContainText('Anthropic releases Claude 4.5');
 });
 
 test('AI News view renders why-it-matters and watchlist', async ({ page }) => {

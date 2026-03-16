@@ -510,6 +510,17 @@ function renderAiNews(aiNews = {}) {
   renderAiWatchlist(aiNews.watchlist);
 }
 
+async function loadGeneratedAiNews(fallback = {}) {
+  try {
+    const response = await fetch('./generated/ai-news.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return await response.json();
+  } catch (error) {
+    console.warn('Falling back to embedded AI news data.', error);
+    return fallback;
+  }
+}
+
 // --- Macro calendar rendering ---
 function renderMacroCalendar(items = []) {
   const el = document.getElementById('macro-calendar');
@@ -551,6 +562,7 @@ async function loadDashboard() {
     const response = await fetch('./sample-data.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
+    const generatedAiNews = await loadGeneratedAiNews(data.aiNews || {});
 
     setMeta(data.meta);
     renderPriorityStack(data.priorityStack);
@@ -605,7 +617,7 @@ async function loadDashboard() {
     });
     renderXFeed(data.xFeed || {});
     renderNewsFeed(data.newsFeed || []);
-    renderAiNews(data.aiNews || {});
+    renderAiNews(generatedAiNews || {});
     renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);

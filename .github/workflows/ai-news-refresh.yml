@@ -1,0 +1,38 @@
+name: AI News Refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  refresh-ai-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh generated AI news file
+        run: npm run generate:ai-news
+
+      - name: Commit generated data when changed
+        run: |
+          if git diff --quiet; then
+            echo "No generated AI news changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add views/generated/ai-news.json
+          git commit -m "chore: refresh AI news generated data"
+          git push origin HEAD:dev
