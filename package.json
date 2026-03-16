@@ -5,6 +5,7 @@
     "refresh:ai-news": "node scripts/refresh-ai-news.mjs",
     "generate:ai-news": "node scripts/refresh-ai-news.mjs",
     "build:ai-news": "node scripts/build-ai-news.js",
+    "validate:ai-news": "node scripts/validate-ai-news.mjs",
     "test": "npx playwright test",
     "test:ci": "npx playwright test --reporter=github"
   },

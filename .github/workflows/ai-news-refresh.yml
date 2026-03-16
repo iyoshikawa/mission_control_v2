@@ -5,9 +5,14 @@ on:
   schedule:
     - cron: '0 * * * *'
 
+concurrency:
+  group: ai-news-refresh
+  cancel-in-progress: true
+
 jobs:
   refresh-ai-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -18,12 +23,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
 
       - name: Refresh generated AI news file
         run: npm run generate:ai-news
+
+      - name: Validate generated AI news payload
+        run: npm run validate:ai-news
 
       - name: Commit generated data when changed
         run: |
