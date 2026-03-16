@@ -527,7 +527,7 @@ function renderXFeed(xFeed = {}) {
 function renderNewsFeed(items = []) {
   const el = document.getElementById('news-feed');
   if (!items.length) {
-    el.innerHTML = emptyState('No AI news items loaded.');
+    el.innerHTML = emptyState('No global news items loaded.');
     return;
   }
 
@@ -545,31 +545,27 @@ function renderNewsFeed(items = []) {
     return a.localeCompare(b);
   });
 
-  el.innerHTML = sourceOrder.map(src => {
-    const isRundown = src === 'The Rundown AI';
-    const srcItems = groups[src];
-    return `
-      <div class="news-source-group${isRundown ? ' news-rundown' : ''}">
-        <div class="news-source-header">
-          <span class="news-source-name${isRundown ? ' news-rundown-name' : ''}">${escapeHtml(src)}</span>
-          <span class="news-source-count">${srcItems.length} item${srcItems.length !== 1 ? 's' : ''}</span>
+  const sorted = [...items]
+    .sort((a, b) => new Date(b.timestamp || 0) - new Date(a.timestamp || 0))
+    .slice(0, 8);
+
+  el.innerHTML = sorted.map((item, i) => `
+    <article class="status-row news-item${i === 0 || item.impact === 'HIGH' ? ' news-item-lead' : ''}">
+      <div>
+        <h3>${escapeHtml(item.headline)}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        ${item.whyItMatters ? `<p class="action-hint">Why it matters: ${escapeHtml(item.whyItMatters)}</p>` : ''}
+        <div class="news-meta">
+          ${item.region ? `<span class="news-category">${escapeHtml(item.region)}</span>` : ''}
+          ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
+          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+          <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+          ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
         </div>
-        ${srcItems.map(item => `
-          <article class="status-row news-item">
-            <div>
-              <h3>${escapeHtml(item.headline)}</h3>
-              ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
-              <div class="news-meta">
-                ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
-                <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
-              </div>
-            </div>
-            ${item.impact ? badge(item.impact) : ''}
-          </article>
-        `).join('')}
       </div>
-    `;
-  }).join('');
+      ${item.impact ? badge(item.impact) : ''}
+    </article>
+  `).join('');
 }
 
 // --- AI News rendering ---

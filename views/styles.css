@@ -846,66 +846,19 @@ h1 {
 .span-8 { grid-column: span 8; }
 .span-12 { grid-column: span 12; }
 
-/* News feed — source grouping */
-.news-source-group {
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 14px;
-  margin-bottom: 14px;
+/* Global news */
+.news-item {
+  border-left: 3px solid transparent;
 }
 
-.news-source-group:last-child {
-  margin-bottom: 0;
+.news-item-lead {
+  border-left-color: var(--watch);
+  background: rgba(232, 176, 75, 0.04);
 }
 
-.news-source-group .status-row {
-  border: none;
-  border-bottom: 1px solid var(--border-subtle);
-  border-radius: 0;
-  padding: 10px 0;
-}
-
-.news-source-group .status-row:last-child {
-  border-bottom: none;
-  padding-bottom: 0;
-}
-
-.news-source-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 10px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid var(--border);
-}
-
-.news-source-name {
-  font-size: 0.82rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--text);
-}
-
-.news-source-count {
-  font-size: 0.72rem;
+.news-source {
+  font-size: 0.78rem;
   color: var(--muted);
-  letter-spacing: 0.02em;
-}
-
-/* The Rundown AI — distinct treatment */
-.news-rundown {
-  border-color: rgba(111, 179, 255, 0.3);
-  border-left: 3px solid var(--decision);
-  background: rgba(111, 179, 255, 0.03);
-}
-
-.news-rundown .news-source-header {
-  border-bottom-color: rgba(111, 179, 255, 0.2);
-}
-
-.news-rundown-name {
-  color: var(--decision);
 }
 
 .news-meta {
