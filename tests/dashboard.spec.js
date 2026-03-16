@@ -1,5 +1,16 @@
 const { test, expect } = require('@playwright/test');
 
+async function loadWithFixture(page, fixture) {
+  await page.route('**/sample-data.json', async route => {
+    await route.fulfill({
+      status: 200,
+      contentType: 'application/json',
+      body: JSON.stringify(fixture)
+    });
+  });
+  await page.goto('/');
+}
+
 // --- App loads ---
 
 test('page loads with correct title', async ({ page }) => {
@@ -217,19 +228,84 @@ test('AI News tab switches to AI News view', async ({ page }) => {
   await expect(page.locator('#view-mission-control')).not.toBeVisible();
 });
 
-test('AI News view renders top stories', async ({ page }) => {
+test('AI News view renders generated stories, impact notes, and watchlist entries from loaded data', async ({ page }) => {
   await page.goto('/');
   await page.click('.view-tab[data-view="ai-news"]');
+
   const stories = page.locator('#ai-top-stories .ai-story');
   await expect(stories).toHaveCount(5);
   await expect(stories.first()).toContainText('Anthropic releases Claude 4.5');
+  await expect(stories.first()).toContainText('Direct impact on current tooling stack.');
+  await expect(stories.first()).toContainText('The Verge');
+
+  const impactCards = page.locator('#ai-why-matters .ai-impact');
+  await expect(impactCards).toHaveCount(3);
+  await expect(impactCards.first()).toContainText('Model pricing compression');
+  await expect(impactCards.first()).toContainText('Benchmark current usage against new pricing tiers before next billing cycle');
+
+  const watchItems = page.locator('#ai-watchlist .ai-watch-item');
+  await expect(watchItems).toHaveCount(5);
+  await expect(watchItems.first()).toContainText('Anthropic');
+  await expect(watchItems.first()).toContainText('Primary model provider.');
 });
 
-test('AI News view renders why-it-matters and watchlist', async ({ page }) => {
-  await page.goto('/');
+test('AI News lead story gets lead styling and only the first six top stories render', async ({ page }) => {
+  const fixture = JSON.parse(JSON.stringify(require('../views/sample-data.json')));
+  fixture.aiNews.topStories = Array.from({ length: 7 }, (_, i) => ({
+    headline: `Story ${i + 1}`,
+    source: `Source ${i + 1}`,
+    timestamp: '2026-03-15T08:00:00-07:00',
+    impact: i === 0 ? 'HIGH' : 'LOW',
+    summary: `Summary ${i + 1}`,
+    whyItMatters: `Reason ${i + 1}`
+  }));
+
+  await loadWithFixture(page, fixture);
   await page.click('.view-tab[data-view="ai-news"]');
-  await expect(page.locator('#ai-why-matters .ai-impact')).toHaveCount(3);
-  await expect(page.locator('#ai-watchlist .ai-watch-item')).toHaveCount(5);
+
+  const stories = page.locator('#ai-top-stories .ai-story');
+  await expect(stories).toHaveCount(6);
+  await expect(stories.first()).toHaveClass(/ai-story-lead/);
+  await expect(stories.nth(5)).toContainText('Story 6');
+  await expect(page.locator('#ai-top-stories')).not.toContainText('Story 7');
+});
+
+test('AI News shows empty states when generated sections are missing', async ({ page }) => {
+  const fixture = JSON.parse(JSON.stringify(require('../views/sample-data.json')));
+  fixture.aiNews = {
+    topStories: [],
+    whyItMatters: [],
+    watchlist: []
+  };
+
+  await loadWithFixture(page, fixture);
+  await page.click('.view-tab[data-view="ai-news"]');
+
+  await expect(page.locator('#ai-top-stories .empty-state')).toHaveText('No AI news loaded.');
+  await expect(page.locator('#ai-why-matters .empty-state')).toHaveText('No impact assessments loaded.');
+  await expect(page.locator('#ai-watchlist .empty-state')).toHaveText('No watchlist items.');
+});
+
+test('AI News escapes hostile generated content instead of rendering HTML', async ({ page }) => {
+  const fixture = JSON.parse(JSON.stringify(require('../views/sample-data.json')));
+  fixture.aiNews.topStories = [
+    {
+      headline: '<script>window.pwned = true</script>',
+      source: 'Injected <b>Source</b>',
+      timestamp: '2026-03-15T08:00:00-07:00',
+      impact: 'HIGH',
+      summary: '<img src=x onerror="window.pwned = true">',
+      whyItMatters: 'Keep raw HTML out of the dashboard.'
+    }
+  ];
+
+  await loadWithFixture(page, fixture);
+  await page.click('.view-tab[data-view="ai-news"]');
+
+  await expect(page.locator('#ai-top-stories')).toContainText('<script>window.pwned = true</script>');
+  await expect(page.locator('#ai-top-stories script')).toHaveCount(0);
+  await expect(page.locator('#ai-top-stories img')).toHaveCount(0);
+  await expect(page.evaluate(() => window.pwned)).resolves.toBeUndefined();
 });
 
 // --- Macro view renders ---
