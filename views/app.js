@@ -638,6 +638,25 @@ function renderAiNews(aiNews = {}) {
   renderAiWatchlist(aiNews.watchlist);
 }
 
+function renderCostMantras() {
+  const el = document.getElementById('cost-mantras');
+  if (!el) return;
+
+  const mantras = [
+    'Value comes from clarity and fast scanning, not engineering weight.',
+    'Keep the first pass static/lightweight until the information model is stable.',
+    'Manual high-signal inputs are currently more valuable than noisy automation.',
+    'Automate only after recurring manual pain is obvious.'
+  ];
+
+  el.innerHTML = mantras.map((text, index) => `
+    <article class="status-row mantra-row">
+      <h3>Mantra ${index + 1}</h3>
+      <p>${escapeHtml(text)}</p>
+    </article>
+  `).join('');
+}
+
 // --- Macro calendar rendering ---
 function renderMacroCalendar(items = []) {
   const el = document.getElementById('macro-calendar');
@@ -760,6 +779,7 @@ async function loadDashboard() {
       quietStatuses: ['LEAN', 'HEALTHY'],
       allClearMessage: 'No cost exceptions.'
     });
+    renderCostMantras();
     renderAlerts(data.alerts);
     renderCompactPreview('projects-preview', data.projects, {
       emptyMessage: 'No active projects.',
