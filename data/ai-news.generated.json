@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-17T19:09:14.022Z",
+    "generatedAt": "2026-03-17T20:45:50.429Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,29 @@
   },
   "newsFeed": [
     {
+      "headline": "Trump’s other war: on Anthropic - Politico",
+      "source": "Politico",
+      "timestamp": "2026-03-17T20:34:30.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Trump’s other war: on Anthropic &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDRuelhWa3Frb0FRaEpPNmluMEswbm5OV29VTGFtaktDWGVlUFJjYWJELWRZb0lTc20taENyeFJ6RHg4VHhLQXZuQ25SNHBrRHZSTVR3UGN0Y1RvTW1rdklnT3Npc05DbnFXWnVQOHcyTk9ycUstbWlQX2xWU1VNRjk2cFJSUUgtNm5GMk5yeEF3SkV1ZmtQWmZKN2RGTHZhYnpIZEFCcmMyN0toY01v?oc=5"
+    },
+    {
+      "headline": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-03-17T19:38:25.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjA0R05NbGVLbV8zNFNybGhxdzZQZEJhVElqdVktYjhLV1dKd2dkd1dzdERRWDliXzBnamdLeURBRlNCNG1qTElWdFYtR3hxdFNleFVIT1RqNmtPSWlwUDJhSks5S2ZacWwwTFhCN2dUZjUtY0dWSnJzd2w3LTc1S0hB?oc=5"
+    },
+    {
       "headline": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-03-17T16:29:00.000Z",
+      "timestamp": "2026-03-17T19:01:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan &nbsp;&nbsp; The Guardian",
@@ -22,14 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ?oc=5"
     },
     {
-      "headline": "Why everyone is talking about Andrej Karpathy's autonomous AI research agent - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-03-17T08:30:00.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "Why everyone is talking about Andrej Karpathy's autonomous AI research agent &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDR3c3g2OURHdllfRU9pUHBMclNkV0hQVG5UdUVRWmJ6eGxzVXhwY010djRhczU4QWd4TDRGYnI2ODJPSzAxaFlldUN2OXl2b3liWXhkRkVDNlgzV0ZfLUVLUUhlYzIxYWNfVUhEekJBZ2EtcWlyektCNnE2cnVTdVBIbGY0Vjg?oc=5"
+      "headline": "Pentagon Moving to Replace Anthropic Amid AI Feud, Official Says - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-03-17T15:57:59.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Pentagon Moving to Replace Anthropic Amid AI Feud, Official Says &nbsp;&nbsp; Bloomberg.com Anthropic-Pentagon battle shows how big tech has reversed course on AI and war | AI (artificial intelligence) &nbsp;&nbsp; The Guardian How Anthropic may benefit from its fight with Trump &nbsp;&nbsp; CNN",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmhLcW15ejZ1bGpDZHpfajV1V3pMM0M1TEJWMlZjdFpoWFZkNURSR2pvejRrelNZQUd0a0lSeWg0S3ZjbkZRcTNjLUs5ZWkyNkVLM0E2VmYtaURwVF9xeVRqME5NUkVfVnJ4SjFLNE9Ud3JDanVsd0Rna0FvSGQ2OVcwSXBJQzJZb1pyRGxSYm8xeThRZlJaREluVVAwb0ZaWG95bEZmLVR1RWF6bk84MFl1ZFA?oc=5"
+    },
+    {
+      "headline": "OpenAI Clinches AWS Deal in Bid to Win Government Contracts - The Information",
+      "source": "The Information",
+      "timestamp": "2026-03-17T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI Clinches AWS Deal in Bid to Win Government Contracts &nbsp;&nbsp; The Information",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjNoaGJUakVubFlVT29ZQzZnNmFPYTNCU2ZlT0MxQWxrUDB4S1dMOGVDeENTZDlTYUdYSWdaTHBHbFJmLVI3ejF4Q0FYQS1PM0dYS1RfNUR3LXptT0ZVaUtsZ0ZqaG1VNUJsM002bV9KRFJhYUY3NVkzVlVta0licGZqNUtpOWUzSHNqdTNBTklkTkhobC1rMA?oc=5"
     },
     {
       "headline": "Google DeepMind launches free AI curriculum across Africa - The Tech Buzz",
@@ -69,7 +99,7 @@
       "category": "ecosystem",
       "summary": "Exclusive | OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxObkdPYkhpaS1yTi1QRWl2bE5janFQVXppVFgzZ1RzbzZ3TEt5aDQ0SHR4dHVrR2czVWJtQUFTQ0IzWG1mSVJQdzhWNG9nZEg1U0pGUlJkY3JVUVR6QjhsUkRvdmFlbUVkNUkzS0tJanhwaDJzZ1FJNDR1SHA1N2wwYkVNXzB1Z2w4ZDRDUEhhS2pYdUlBX0M4TDJfZU1jYW0yNzk2c0dOQ043QjMxZ0NzQzFmR0JrdWxrbGtJQ1p2dkx6OG90S3BscG1QWmx4Rm5mVERxaWwyRG5HdmdDWXFrXzBlR2J5MXRpMjFsQzNTMFRhV0NwNUZ6VlRSWm9ZeTVfNTBUWkVPSVhlQ1puZmZUOS0tY2RyaVhfdVFQa0ZDbDJzX0dFaTBMNHBQUmp5cEZucjF0aFBENWp5WVBPWnoteDdyN2lRU3owSG9qaTBrOWQ2NS0yMDFIMlpQVkFkbDdrZlF5Z2VuQmtwcXpWVEQ3VGJFQlh1SUV6?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPdktYUDVpTFZxbzl2MjJjS05GR2VCbFlWMS1wTG5jelJ2VkYxTkVETmRxR2VuM0FOQ2JhOTMtVVJ2Q3ZIdkFJck9ncF9QQWM0TnVlcHJJYndONFhBcHNNWE44cnRwZlN0eXFFVXcwQzNyN1dPcTY0a0pKeWFmT3NfdTh6NnNnT2Q1MUphb2VER1FsNlU1VzZleDJzVktvUXA2UWpURUpIc2htZDhVUWduMUhyRXJZenFMVHBFcThjRDhNdVo1aDBSLTlnM3IwckxRa0t5emJvQ2h5VHFqQjVvQk1LamlEclVKNXVFdWhNcWpvUnVDN1U4cXpnMkVuMm9La1owVS02S3BYdXE2cy1aM3hhU1JMQUk3RDBDZmVJX3llSGNOYVZ6bFJ2X2JPRWwwRnNPaER3aTQ3Y0Y1OTJJVEdRZXdESWFtUDZGS3YwYlBfYjlud0RneE5yNDRubmpNSEFpQ0dIdG9FdDFUUDdaVjIySHNTSzVa?oc=5"
     },
     {
       "headline": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI - The Official Microsoft Blog",
@@ -80,57 +110,54 @@
       "summary": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI &nbsp;&nbsp; The Official Microsoft Blog",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbzk0dWNiMkRrUHZtWURtdzBEUjJscWJ1aDZ0b3pxYWlBS2RuQkhpWFhEZngtV05EeEVwdGtzNGhmQllFZFY4MThYUUZaU0txY2ZERlNfSUgzSWVfQ3hjX3BUWi1KWjZXcWJtYlJlY0N1UmEtRzk4NjFrZnRPRExXUkd4TjdwT0wtOUZBM0xFMDI3NllCclNSTGZLSllEZ2pBcW03TzVoRmFEQms5QTB1b2dZd0cyVVJSeFZJT1ZHWjBOTUQxRWdxT1M2dmNucnY0QWp6YkRIUWRUd29k?oc=5"
-    },
-    {
-      "headline": "The dictionary sues OpenAI - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-16T17:38:34.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The dictionary sues OpenAI &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMVRaR2kxZE4xZ3dXNUVBM1Q1bUVKM2dtVTJrRWdoLTltMzk5ZFZraXNxYjc5N0lYVWNjdHpwdXFxeXRpRXlVQUJDdVVLdVdLdTZSMUx5YW1IanJOdENGaUk1MFh6WXFub3ktV0VBOENwNFZnMGxLZU9DZV9SSXU5NDJfNVZsOUh3SV9wUU00MEJNSk0?oc=5"
-    },
-    {
-      "headline": "Startups accuse Microsoft of ‘billing trap’ in Azure AI Foundry after unexpected charges - InfoWorld",
-      "source": "InfoWorld",
-      "timestamp": "2026-03-16T15:49:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Startups accuse Microsoft of ‘billing trap’ in Azure AI Foundry after unexpected charges &nbsp;&nbsp; InfoWorld",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1N3WV9OajVyZDdtWVdXZGJtMTQxNEliRWJYaldic1RpeXZmVkZCYlRTSENUTVV0bXpDUTZqaWUtVWtqVVFITkplUUFuNWlHY20wMVg4TTQxTXZlNEVtcUJkV0FibzdkVEtaOWtOc3VTSFdRWWtKNDlEUGtkR21VdFdGNnVJSkt3ME5zMmdGdFR6T2hzcFVPZjk1MnNQaURmMnFfdTFhM0YyV2hKaWZabl9zS2IwbGIwUkdocnBxYVlqLXFFWDR0aE9MajJkUQ?oc=5"
-    },
-    {
-      "headline": "Private equity is partnering with Big AI - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-16T14:46:35.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Private equity is partnering with Big AI &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jeTVPSFhnMVdYV2JkdGN0OVEzd3ZCTFo0OUpmd09Kalc4QnpPRmRydjdxSTVRRk9WeW5OSW8wWTBLUGVQWWpuQzNXelZZM1RybnlWc3kxM2xHVTk0VlY1ZllsZnphZUZHdlNGVktiSkc5Zw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Trump’s other war: on Anthropic - Politico",
+        "source": "Politico",
+        "timestamp": "2026-03-17T20:34:30.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDRuelhWa3Frb0FRaEpPNmluMEswbm5OV29VTGFtaktDWGVlUFJjYWJELWRZb0lTc20taENyeFJ6RHg4VHhLQXZuQ25SNHBrRHZSTVR3UGN0Y1RvTW1rdklnT3Npc05DbnFXWnVQOHcyTk9ycUstbWlQX2xWU1VNRjk2cFJSUUgtNm5GMk5yeEF3SkV1ZmtQWmZKN2RGTHZhYnpIZEFCcmMyN0toY01v?oc=5",
+        "summary": "Trump’s other war: on Anthropic &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-03-17T19:38:25.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjA0R05NbGVLbV8zNFNybGhxdzZQZEJhVElqdVktYjhLV1dKd2dkd1dzdERRWDliXzBnamdLeURBRlNCNG1qTElWdFYtR3hxdFNleFVIT1RqNmtPSWlwUDJhSks5S2ZacWwwTFhCN2dUZjUtY0dWSnJzd2w3LTc1S0hB?oc=5",
+        "summary": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus &nbsp;&nbsp; The New York Times"
+      },
+      {
         "headline": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-03-17T16:29:00.000Z",
+        "timestamp": "2026-03-17T19:01:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ?oc=5",
         "summary": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Why everyone is talking about Andrej Karpathy's autonomous AI research agent - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-03-17T08:30:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDR3c3g2OURHdllfRU9pUHBMclNkV0hQVG5UdUVRWmJ6eGxzVXhwY010djRhczU4QWd4TDRGYnI2ODJPSzAxaFlldUN2OXl2b3liWXhkRkVDNlgzV0ZfLUVLUUhlYzIxYWNfVUhEekJBZ2EtcWlyektCNnE2cnVTdVBIbGY0Vjg?oc=5",
-        "summary": "Why everyone is talking about Andrej Karpathy's autonomous AI research agent &nbsp;&nbsp; Fortune"
+        "headline": "Pentagon Moving to Replace Anthropic Amid AI Feud, Official Says - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-03-17T15:57:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmhLcW15ejZ1bGpDZHpfajV1V3pMM0M1TEJWMlZjdFpoWFZkNURSR2pvejRrelNZQUd0a0lSeWg0S3ZjbkZRcTNjLUs5ZWkyNkVLM0E2VmYtaURwVF9xeVRqME5NUkVfVnJ4SjFLNE9Ud3JDanVsd0Rna0FvSGQ2OVcwSXBJQzJZb1pyRGxSYm8xeThRZlJaREluVVAwb0ZaWG95bEZmLVR1RWF6bk84MFl1ZFA?oc=5",
+        "summary": "Pentagon Moving to Replace Anthropic Amid AI Feud, Official Says &nbsp;&nbsp; Bloomberg.com Anthropic-Pentagon battle shows how big tech has reversed course on AI and war | AI (artificial intelligence) &nbsp;&nbsp; The Guardian How Anthropic may benefit from its fight with Trump &nbsp;&nbsp; CNN"
+      },
+      {
+        "headline": "OpenAI Clinches AWS Deal in Bid to Win Government Contracts - The Information",
+        "source": "The Information",
+        "timestamp": "2026-03-17T13:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjNoaGJUakVubFlVT29ZQzZnNmFPYTNCU2ZlT0MxQWxrUDB4S1dMOGVDeENTZDlTYUdYSWdaTHBHbFJmLVI3ejF4Q0FYQS1PM0dYS1RfNUR3LXptT0ZVaUtsZ0ZqaG1VNUJsM002bV9KRFJhYUY3NVkzVlVta0licGZqNUtpOWUzSHNqdTNBTklkTkhobC1rMA?oc=5",
+        "summary": "OpenAI Clinches AWS Deal in Bid to Win Government Contracts &nbsp;&nbsp; The Information"
       },
       {
         "headline": "Google DeepMind launches free AI curriculum across Africa - The Tech Buzz",
@@ -140,33 +167,6 @@
         "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTJjOUVIM21jbll3cTctNjd1bEpyWUdrVEpoYk1YMUIxQWtIbEhnRDd1NW9BTjc4eFhYRUxid1o0cUZmM3MzNFprMmJzQ0g0YnFDVzNBbkxOWHd6b3AxZTJLektrbmhDMTVUenJNTGgtYnVteU1aLXgwRDFLVjFLMzNKRktfS2NKSzB2Ri1HQUVVUm1q?oc=5",
         "summary": "Google DeepMind launches free AI curriculum across Africa &nbsp;&nbsp; The Tech Buzz"
-      },
-      {
-        "headline": "Broadening advanced AI education across Africa - blog.google",
-        "source": "blog.google",
-        "timestamp": "2026-03-17T08:06:39.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FVcHI1NGZnTW9tdHh6dWNhR2JDVW4yY3h6T1F4UXA3bUF1d3ctbGN5ZjFleTVvazdNd0ppcHlkb0pqLXotRnNyWWRDX2hOZnNLVkl3WEhBQ0ZobktZeHhlbW9kUmFwN1JHZV9wX1h3N2JkMUpGMlNKMHBndjRzM1RyVFMwVjNBTGptaGJDeXlCakdOMTdmbUNpYkZTR3pnZTlJZA?oc=5",
-        "summary": "Broadening advanced AI education across Africa &nbsp;&nbsp; blog.google"
-      },
-      {
-        "headline": "AI firm Anthropic seeks weapons expert to stop users from 'misuse' - BBC",
-        "source": "BBC",
-        "timestamp": "2026-03-17T00:08:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90R0lhMGY2S0V4MFY3UWdJc19UTncwYl8tR3prS3pkemJSdGxvcU5FaUhZUzRwbHdleURJenR6OHJZQlRTNEtrUkJvLS1WR2k5R1NhbGRYTW9kQQ?oc=5",
-        "summary": "AI firm Anthropic seeks weapons expert to stop users from 'misuse' &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Exclusive | OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-03-16T23:41:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxObkdPYkhpaS1yTi1QRWl2bE5janFQVXppVFgzZ1RzbzZ3TEt5aDQ0SHR4dHVrR2czVWJtQUFTQ0IzWG1mSVJQdzhWNG9nZEg1U0pGUlJkY3JVUVR6QjhsUkRvdmFlbUVkNUkzS0tJanhwaDJzZ1FJNDR1SHA1N2wwYkVNXzB1Z2w4ZDRDUEhhS2pYdUlBX0M4TDJfZU1jYW0yNzk2c0dOQ043QjMxZ0NzQzFmR0JrdWxrbGtJQ1p2dkx6OG90S3BscG1QWmx4Rm5mVERxaWwyRG5HdmdDWXFrXzBlR2J5MXRpMjFsQzNTMFRhV0NwNUZ6VlRSWm9ZeTVfNTBUWkVPSVhlQ1puZmZUOS0tY2RyaVhfdVFQa0ZDbDJzX0dFaTBMNHBQUmp5cEZucjF0aFBENWp5WVBPWnoteDdyN2lRU3owSG9qaTBrOWQ2NS0yMDFIMlpQVkFkbDdrZlF5Z2VuQmtwcXpWVEQ3VGJFQlh1SUV6?oc=5",
-        "summary": "Exclusive | OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
