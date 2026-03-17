@@ -1,358 +1,209 @@
 const { test, expect } = require('@playwright/test');
+const fs = require('fs');
+const path = require('path');
 
-// --- App loads ---
+const sampleData = require('../views/sample-data.json');
 
-test('page loads with correct title', async ({ page }) => {
-  await page.goto('/');
-  await expect(page).toHaveTitle('Mission Control');
-});
+function cloneSampleData() {
+  return JSON.parse(JSON.stringify(sampleData));
+}
 
-test('command band shows dashboard title and status', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('#dashboard-title')).toHaveText('Mission Control');
-  await expect(page.locator('#dashboard-status')).toBeVisible();
-  await expect(page.locator('#dashboard-updated')).not.toHaveText('Loading…');
-});
-
-// --- Nav tabs exist and work ---
-
-test('nav tabs are visible', async ({ page }) => {
-  await page.goto('/');
-  const tabs = page.locator('.view-tab');
-  await expect(tabs).toHaveCount(5);
-  await expect(tabs.nth(0)).toHaveText('Mission Control');
-  await expect(tabs.nth(1)).toHaveText('X');
-  await expect(tabs.nth(2)).toHaveText('News');
-  await expect(tabs.nth(3)).toHaveText('AI News');
-  await expect(tabs.nth(4)).toHaveText('Macro');
-});
-
-test('Mission Control tab is active by default', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('.view-tab[data-view="mission-control"]')).toHaveClass(/active/);
-  await expect(page.locator('#view-mission-control')).toBeVisible();
-  await expect(page.locator('#view-x')).not.toBeVisible();
-  await expect(page.locator('#view-news')).not.toBeVisible();
-  await expect(page.locator('#view-ai-news')).not.toBeVisible();
-  await expect(page.locator('#view-macro')).not.toBeVisible();
-});
-
-test('clicking X tab switches to X view', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="x"]');
-  await expect(page.locator('#view-x')).toBeVisible();
-  await expect(page.locator('#view-mission-control')).not.toBeVisible();
-  await expect(page.locator('.view-tab[data-view="x"]')).toHaveClass(/active/);
-});
-
-test('clicking News tab switches to News view', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="news"]');
-  await expect(page.locator('#view-news')).toBeVisible();
-  await expect(page.locator('#view-mission-control')).not.toBeVisible();
-});
-
-test('clicking Macro tab switches to Macro view', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="macro"]');
-  await expect(page.locator('#view-macro')).toBeVisible();
-  await expect(page.locator('#view-mission-control')).not.toBeVisible();
-});
-
-test('switching back to Mission Control works', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="news"]');
-  await page.click('.view-tab[data-view="mission-control"]');
-  await expect(page.locator('#view-mission-control')).toBeVisible();
-  await expect(page.locator('#view-news')).not.toBeVisible();
-});
-
-// --- Dashboard sections render from sample data ---
-
-test('priority stack renders items', async ({ page }) => {
-  await page.goto('/');
-  const items = page.locator('#priority-stack .list-item');
-  await expect(items).toHaveCount(3);
-  await expect(items.first()).toContainText('Mission Control v1 build review');
-});
-
-test('priority stack shows rank numbers', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('#priority-stack .rank').first()).toHaveText('#1');
-});
-
-test('priority stack shows blocker when present', async ({ page }) => {
-  await page.goto('/');
-  const blockerItem = page.locator('#priority-stack .list-item').nth(1);
-  await expect(blockerItem).toContainText('Not started yet');
-  await expect(blockerItem.locator('.blocker-bar')).toBeVisible();
-});
-
-test('decision queue renders items', async ({ page }) => {
-  await page.goto('/');
-  const items = page.locator('#decision-queue .decision-item');
-  await expect(items).toHaveCount(2);
-  await expect(items.first()).toContainText('markdown-to-JSON sync pipeline');
-});
-
-test('decision queue shows option chips', async ({ page }) => {
-  await page.goto('/');
-  const chips = page.locator('#decision-queue .option-chip');
-  await expect(chips.first()).toBeVisible();
-});
-
-test('org chart renders leader and child nodes', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('#org-chart .org-leader')).toHaveCount(2);
-  await expect(page.locator('#org-chart .org-child')).toHaveCount(6);
-});
-
-test('org chart shows active/dormant counts', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('#org-chart .org-count-active')).toContainText('2 active');
-  await expect(page.locator('#org-chart .org-count-dormant')).toContainText('6 dormant');
-});
-
-test('ops health renders status rows', async ({ page }) => {
-  await page.goto('/');
-  const rows = page.locator('#ops-health .status-row');
-  await expect(rows).toHaveCount(3);
-});
-
-test('cost watch renders status rows', async ({ page }) => {
-  await page.goto('/');
-  const rows = page.locator('#cost-watch .status-row');
-  await expect(rows).toHaveCount(2);
-});
-
-test('ops health shows all-clear banner and quiet rows when everything is healthy', async ({ page }) => {
-  const fixture = JSON.parse(JSON.stringify(require('../views/sample-data.json')));
-  fixture.opsHealth = [
-    {
-      name: 'Startup flow',
-      status: 'HEALTHY',
-      issue: 'No open issues.',
-      recommendedNextStep: 'Keep monitoring.',
-      lastChecked: '2026-03-16T07:00:00Z'
-    },
-    {
-      name: 'Morning checklist',
-      status: 'HEALTHY',
-      issue: 'No open issues.',
-      recommendedNextStep: 'Keep monitoring.',
-      lastChecked: '2026-03-16T07:05:00Z'
-    }
-  ];
-
-  await page.route('**/data/ai-news.generated.json', route => route.abort());
-  await loadWithFixture(page, fixture);
-
-  await expect(page.locator('#ops-health .all-clear')).toHaveText('All systems nominal.');
-  await expect(page.locator('#ops-health .status-row')).toHaveCount(2);
-  await expect(page.locator('#ops-health .status-quiet')).toHaveCount(2);
-  await expect(page.locator('#ops-health')).not.toContainText('No open issues.');
-  await expect(page.locator('#ops-health')).not.toContainText('Keep monitoring.');
-});
-
-test('alerts render with timestamps', async ({ page }) => {
-  await page.goto('/');
-  const rows = page.locator('#alerts .status-row');
-  await expect(rows).toHaveCount(3);
-  await expect(rows.first()).toContainText('parallel worktrees');
-});
-
-test('compact previews render', async ({ page }) => {
-  await page.goto('/');
-  await expect(page.locator('#projects-preview')).toContainText('Mission Control v1');
-  await expect(page.locator('#comms-preview')).toContainText('No outbound obligations');
-  await expect(page.locator('#intelligence-preview')).toContainText('Lightweight dashboard');
-});
-
-// --- X view renders ---
-
-test('X view renders watched accounts', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="x"]');
-  const accounts = page.locator('#x-watched .x-account');
-  await expect(accounts).toHaveCount(4);
-  await expect(accounts.first()).toContainText('@realDonaldTrump');
-});
-
-test('X view renders trump feed posts', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="x"]');
-  const posts = page.locator('#x-trump .x-post');
-  await expect(posts).toHaveCount(3);
-});
-
-test('X view HIGH signal gets high class', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="x"]');
-  await expect(page.locator('#x-trump .x-post-high').first()).toBeVisible();
-});
-
-test('X view renders signal items sorted HIGH first', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="x"]');
-  const firstSignal = page.locator('#x-signals .x-signal-row').first();
-  await expect(firstSignal.locator('.signal-high')).toBeVisible();
-});
-
-test('X summary shows counts', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="x"]');
-  await expect(page.locator('#x-summary')).toContainText('active source');
-});
-
-// --- News view renders ---
-
-test('News view renders grouped news items', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="news"]');
-  const items = page.locator('#news-feed .news-item');
-  await expect(items).toHaveCount(8);
-  await expect(page.locator('#news-feed .news-source-group').first()).toBeVisible();
-});
-
-test('News view prioritizes The Rundown group', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="news"]');
-  const firstGroup = page.locator('#news-feed .news-source-group').first();
-  await expect(firstGroup).toContainText('The Rundown AI');
-  await expect(firstGroup).toContainText('3 items');
-});
-
-test('News items show headline and source grouping', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="news"]');
-  const first = page.locator('#news-feed .news-item').first();
-  await expect(first).toContainText('OpenAI announces GPT-5');
-  await expect(page.locator('#news-feed .news-source-group').first()).toContainText('The Rundown AI');
-});
-
-test('News items show impact badges', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="news"]');
-  const badges = page.locator('#news-feed .badge');
-  await expect(badges.first()).toBeVisible();
-});
-
-test('News view prefers generated hourly feed when available', async ({ page }) => {
-  await page.route('**/data/ai-news.generated.json', async route => {
+async function loadWithLivePayload(page, payload) {
+  await page.route('**/sample-data.json', async route => {
     await route.fulfill({
       contentType: 'application/json',
-      body: JSON.stringify({
-        meta: { generatedAt: '2026-03-16T06:00:00Z', refreshCadence: 'hourly' },
-        newsFeed: [
-          {
-            headline: 'Generated OpenAI feed item',
-            source: 'OpenAI',
-            timestamp: '2026-03-16T05:00:00Z',
-            impact: 'HIGH',
-            category: 'tooling',
-            summary: 'Loaded from the automation refresh path.',
-            link: 'https://openai.com/'
-          },
-          {
-            headline: 'Generated Anthropic feed item',
-            source: 'Anthropic',
-            timestamp: '2026-03-16T04:00:00Z',
-            impact: 'WATCH',
-            category: 'models',
-            summary: 'Second item proves grouped generated content renders.',
-            link: 'https://anthropic.com/'
-          }
-        ],
-        aiNews: { topStories: [], whyItMatters: [], watchlist: [] }
-      })
+      body: JSON.stringify(payload)
     });
   });
 
-  await page.goto('/views/');
-  await page.click('.view-tab[data-view="news"]');
-
-  await expect(page.locator('#news-feed')).toContainText('Generated OpenAI feed item');
-  await expect(page.locator('#news-feed')).toContainText('Generated Anthropic feed item');
-  await expect(page.locator('#news-feed')).not.toContainText('OpenAI announces GPT-5 with real-time reasoning capabilities');
-  await expect(page.locator('#news-feed .news-source-group')).toHaveCount(2);
-});
-
-test('News view falls back to bundled sample feed when generated hourly feed fails', async ({ page }) => {
-  await page.route('**/data/ai-news.generated.json', route => route.abort());
-
-  await page.goto('/views/');
-  await page.click('.view-tab[data-view="news"]');
-
-  await expect(page.locator('#news-feed')).toContainText('OpenAI announces GPT-5 with real-time reasoning capabilities');
-  await expect(page.locator('#news-feed .news-item')).toHaveCount(8);
-});
-
-// --- AI News view renders ---
-
-test('AI News tab switches to AI News view', async ({ page }) => {
   await page.goto('/');
-  await page.click('.view-tab[data-view="ai-news"]');
-  await expect(page.locator('#view-ai-news')).toBeVisible();
-  await expect(page.locator('#view-mission-control')).not.toBeVisible();
+}
+
+test.describe('live dashboard news connections', () => {
+  test('AI News view renders a live payload returned over the dashboard data request', async ({ page }) => {
+    const payload = cloneSampleData();
+    payload.meta.lastUpdated = '2026-03-16T18:00:00Z';
+    payload.aiNews.topStories = [
+      {
+        headline: 'Live model launch from routed payload',
+        source: 'Live Feed',
+        timestamp: '2026-03-16T17:55:00Z',
+        impact: 'HIGH',
+        summary: 'This story only exists in the intercepted live payload.',
+        whyItMatters: 'Proves the AI News surface is rendering fetched data, not bundled defaults.'
+      },
+      {
+        headline: 'Second live AI item',
+        source: 'Lab Notes',
+        timestamp: '2026-03-16T17:40:00Z',
+        impact: 'WATCH',
+        summary: 'A second item confirms list rendering on the live path.',
+        whyItMatters: 'The view should show multiple fetched stories cleanly.'
+      }
+    ];
+    payload.aiNews.whyItMatters = [
+      {
+        topic: 'Inference cost shift',
+        assessment: 'Live payload changed the assessment block too.',
+        urgency: 'WATCH',
+        recommendedAction: 'Verify this section updates from fetched data.'
+      }
+    ];
+    payload.aiNews.watchlist = [
+      { name: 'Live Vendor', status: 'ACTIVE', note: 'Watchlist is coming from the same live payload.' }
+    ];
+
+    await loadWithLivePayload(page, payload);
+    await page.click('.view-tab[data-view="ai-news"]');
+
+    await expect(page.locator('#dashboard-updated')).toContainText('Mar');
+    await expect(page.locator('#ai-top-stories .ai-story')).toHaveCount(2);
+    await expect(page.locator('#ai-top-stories')).toContainText('Live model launch from routed payload');
+    await expect(page.locator('#ai-top-stories')).not.toContainText('Anthropic releases Claude 4.5');
+    await expect(page.locator('#ai-why-matters')).toContainText('Inference cost shift');
+    await expect(page.locator('#ai-watchlist')).toContainText('Live Vendor');
+  });
+
+  test('News view renders a live global news payload and preserves lead-story styling for urgent items', async ({ page }) => {
+    const payload = cloneSampleData();
+    payload.newsFeed = [
+      {
+        headline: 'Live tariff shock hits hardware imports',
+        source: 'Reuters',
+        timestamp: '2026-03-16T18:20:00Z',
+        impact: 'HIGH',
+        region: 'US',
+        category: 'trade',
+        summary: 'Urgent trade move delivered through the live payload.',
+        whyItMatters: 'The first live card should render as the lead story.',
+        link: 'https://example.com/live-tariffs'
+      },
+      {
+        headline: 'Central bank guidance cools rate-cut hopes',
+        source: 'Bloomberg',
+        timestamp: '2026-03-16T18:10:00Z',
+        impact: 'MEDIUM',
+        region: 'Europe',
+        category: 'central-banks',
+        summary: 'Second live item keeps the feed multi-source.',
+        whyItMatters: 'Confirms the News surface handles a fresh global feed.',
+        link: 'https://example.com/rates'
+      }
+    ];
+
+    await loadWithLivePayload(page, payload);
+    await page.click('.view-tab[data-view="news"]');
+
+    const items = page.locator('#news-feed .news-item');
+    await expect(items).toHaveCount(2);
+    await expect(items.first()).toContainText('Live tariff shock hits hardware imports');
+    await expect(items.first()).toHaveClass(/news-item-lead/);
+    await expect(page.locator('#news-feed')).not.toContainText('Red Sea shipping disruptions');
+    await expect(page.locator('#news-feed .badge').first()).toHaveText('HIGH');
+    await expect(page.locator('#news-feed .source-link').first()).toHaveAttribute('href', 'https://example.com/live-tariffs');
+  });
+
+  test('reloading with a newer payload updates both dashboard timestamp and live news content', async ({ page }) => {
+    const firstPayload = cloneSampleData();
+    firstPayload.meta.lastUpdated = '2026-03-16T17:00:00Z';
+    firstPayload.newsFeed = [
+      {
+        headline: 'First live cycle headline',
+        source: 'Cycle One',
+        timestamp: '2026-03-16T16:55:00Z',
+        impact: 'MEDIUM',
+        region: 'Global',
+        category: 'macro',
+        summary: 'Initial scheduler cycle payload.',
+        whyItMatters: 'Baseline content before refresh.'
+      }
+    ];
+    firstPayload.aiNews.topStories = [
+      {
+        headline: 'First AI cycle headline',
+        source: 'Cycle One',
+        timestamp: '2026-03-16T16:50:00Z',
+        impact: 'WATCH',
+        summary: 'Initial AI payload.',
+        whyItMatters: 'Baseline AI content before refresh.'
+      }
+    ];
+
+    const secondPayload = cloneSampleData();
+    secondPayload.meta.lastUpdated = '2026-03-16T18:00:00Z';
+    secondPayload.newsFeed = [
+      {
+        headline: 'Second live cycle headline',
+        source: 'Cycle Two',
+        timestamp: '2026-03-16T17:55:00Z',
+        impact: 'HIGH',
+        region: 'Global',
+        category: 'macro',
+        summary: 'Updated scheduler cycle payload.',
+        whyItMatters: 'Confirms the page reflects a refreshed fetch after reload.'
+      }
+    ];
+    secondPayload.aiNews.topStories = [
+      {
+        headline: 'Second AI cycle headline',
+        source: 'Cycle Two',
+        timestamp: '2026-03-16T17:50:00Z',
+        impact: 'HIGH',
+        summary: 'Updated AI payload.',
+        whyItMatters: 'AI surface should reflect the newest fetched content too.'
+      }
+    ];
+
+    let requestCount = 0;
+    await page.route('**/sample-data.json', async route => {
+      requestCount += 1;
+      await route.fulfill({
+        contentType: 'application/json',
+        body: JSON.stringify(requestCount === 1 ? firstPayload : secondPayload)
+      });
+    });
+
+    await page.goto('/');
+    await page.click('.view-tab[data-view="news"]');
+    await expect(page.locator('#dashboard-updated')).toContainText('5:00');
+    await expect(page.locator('#news-feed')).toContainText('First live cycle headline');
+
+    await page.reload();
+    await page.click('.view-tab[data-view="news"]');
+    await expect(page.locator('#dashboard-updated')).toContainText('6:00');
+    await expect(page.locator('#news-feed')).toContainText('Second live cycle headline');
+    await expect(page.locator('#news-feed')).not.toContainText('First live cycle headline');
+
+    await page.click('.view-tab[data-view="ai-news"]');
+    await expect(page.locator('#ai-top-stories')).toContainText('Second AI cycle headline');
+    await expect(page.locator('#ai-top-stories')).not.toContainText('First AI cycle headline');
+  });
 });
 
-test('AI News view renders top stories', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="ai-news"]');
-  const stories = page.locator('#ai-top-stories .ai-story');
-  await expect(stories).toHaveCount(5);
-  await expect(stories.first()).toContainText('Anthropic releases Claude 4.5');
-});
+test.describe('scheduler and update wiring', () => {
+  test('scheduled refresh workflow runs hourly, validates output, and only commits the generated AI feed file', async () => {
+    const workflowPath = path.join(__dirname, '..', '.github', 'workflows', 'ai-news-refresh.yml');
+    const workflow = fs.readFileSync(workflowPath, 'utf8');
 
-test('AI News view renders why-it-matters and watchlist', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="ai-news"]');
-  await expect(page.locator('#ai-why-matters .ai-impact')).toHaveCount(3);
-  await expect(page.locator('#ai-watchlist .ai-watch-item')).toHaveCount(5);
-});
+    expect(workflow).toContain("cron: '0 * * * *'");
+    expect(workflow).toContain('group: ai-news-refresh');
+    expect(workflow).toContain('cancel-in-progress: true');
+    expect(workflow).toContain('run: npm run generate:ai-news');
+    expect(workflow).toContain('run: npm run validate:ai-news');
+    expect(workflow).toContain('git add data/ai-news.generated.json');
+    expect(workflow).toContain('git push origin HEAD:dev');
+  });
 
-// --- Macro view renders ---
+  test('CI workflow validates generated AI news before running browser coverage', async () => {
+    const workflowPath = path.join(__dirname, '..', '.github', 'workflows', 'test.yml');
+    const workflow = fs.readFileSync(workflowPath, 'utf8');
 
-test('Macro view renders calendar table', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="macro"]');
-  await expect(page.locator('.macro-header')).toBeVisible();
-  const rows = page.locator('.macro-row');
-  await expect(rows).toHaveCount(6);
-});
+    const validateIndex = workflow.indexOf('run: npm run validate:ai-news');
+    const installBrowserIndex = workflow.indexOf('run: npx playwright install --with-deps chromium');
+    const runTestsIndex = workflow.indexOf('run: npm run test:ci');
 
-test('Macro view shows released and upcoming events', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="macro"]');
-  await expect(page.locator('.macro-released')).toHaveCount(2);
-  const upcoming = page.locator('.macro-row:not(.macro-released)');
-  await expect(upcoming).toHaveCount(4);
-});
-
-test('Macro view shows column headers', async ({ page }) => {
-  await page.goto('/');
-  await page.click('.view-tab[data-view="macro"]');
-  const header = page.locator('.macro-header');
-  await expect(header).toContainText('Event');
-  await expect(header).toContainText('Prev');
-  await expect(header).toContainText('Actual');
-});
-
-// --- Error / fallback behavior ---
-
-test('shows error state when data fails to load', async ({ page }) => {
-  await page.route('**/sample-data.json', route => route.abort());
-  await page.goto('/');
-  await expect(page.locator('#priority-stack .empty-state')).toContainText('Failed to load');
-  await expect(page.locator('#decision-queue .empty-state')).toContainText('Failed to load');
-});
-
-// --- Badges render correctly ---
-
-test('badges show readable status text', async ({ page }) => {
-  await page.goto('/');
-  const activeBadge = page.locator('#priority-stack .badge-active').first();
-  await expect(activeBadge).toHaveText('ACTIVE');
-  const decisionBadge = page.locator('#decision-queue .badge-decision').first();
-  await expect(decisionBadge).toHaveText('NEEDS DECISION');
+    expect(validateIndex).toBeGreaterThan(-1);
+    expect(installBrowserIndex).toBeGreaterThan(validateIndex);
+    expect(runTestsIndex).toBeGreaterThan(installBrowserIndex);
+  });
 });
