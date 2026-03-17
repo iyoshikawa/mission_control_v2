@@ -531,13 +531,16 @@ function renderNewsFeed(items = []) {
     return;
   }
 
-  // Group by source, Rundown first
-  const groups = {};
-  for (const item of items) {
-    const src = item.source || 'Other';
-    if (!groups[src]) groups[src] = [];
-    groups[src].push(item);
-  }
+  const sorted = [...items]
+    .sort((a, b) => new Date(b.timestamp || 0) - new Date(a.timestamp || 0))
+    .slice(0, 8);
+
+  const groups = sorted.reduce((acc, item) => {
+    const key = item.source || 'Other';
+    if (!acc[key]) acc[key] = [];
+    acc[key].push(item);
+    return acc;
+  }, {});
 
   const sourceOrder = Object.keys(groups).sort((a, b) => {
     if (a === 'The Rundown AI') return -1;
@@ -545,27 +548,34 @@ function renderNewsFeed(items = []) {
     return a.localeCompare(b);
   });
 
-  const sorted = [...items]
-    .sort((a, b) => new Date(b.timestamp || 0) - new Date(a.timestamp || 0))
-    .slice(0, 8);
-
-  el.innerHTML = sorted.map((item, i) => `
-    <article class="status-row news-item${i === 0 || item.impact === 'HIGH' ? ' news-item-lead' : ''}">
-      <div>
-        <h3>${escapeHtml(item.headline)}</h3>
-        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
-        ${item.whyItMatters ? `<p class="action-hint">Why it matters: ${escapeHtml(item.whyItMatters)}</p>` : ''}
-        <div class="news-meta">
-          ${item.region ? `<span class="news-category">${escapeHtml(item.region)}</span>` : ''}
-          ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
-          <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
-          <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
-          ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
+  el.innerHTML = sourceOrder.map(source => {
+    const groupItems = groups[source];
+    return `
+      <section class="news-source-group">
+        <div class="news-source-group-head">
+          <h3>${escapeHtml(source)}</h3>
+          <span class="news-group-count">${groupItems.length} item${groupItems.length === 1 ? '' : 's'}</span>
         </div>
-      </div>
-      ${item.impact ? badge(item.impact) : ''}
-    </article>
-  `).join('');
+        ${groupItems.map((item, i) => `
+          <article class="status-row news-item${i === 0 || item.impact === 'HIGH' ? ' news-item-lead' : ''}">
+            <div>
+              <h3>${escapeHtml(item.headline)}</h3>
+              ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+              ${item.whyItMatters ? `<p class="action-hint">Why it matters: ${escapeHtml(item.whyItMatters)}</p>` : ''}
+              <div class="news-meta">
+                ${item.region ? `<span class="news-category">${escapeHtml(item.region)}</span>` : ''}
+                ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
+                <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+                <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+                ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
+              </div>
+            </div>
+            ${item.impact ? badge(item.impact) : ''}
+          </article>
+        `).join('')}
+      </section>
+    `;
+  }).join('');
 }
 
 // --- AI News rendering ---
@@ -664,9 +674,31 @@ function renderMacroCalendar(items = []) {
 
 async function loadDashboard() {
   try {
-    const response = await fetch('./sample-data.json');
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
+    const baseResponse = await fetch('./sample-data.json');
+    if (!baseResponse.ok) throw new Error(`HTTP ${baseResponse.status}`);
+    const baseData = await baseResponse.json();
+
+    let generatedData = null;
+    try {
+      const generatedResponse = await fetch('../data/ai-news.generated.json');
+      if (generatedResponse.ok) {
+        generatedData = await generatedResponse.json();
+      }
+    } catch (error) {
+      console.warn('AI news generated feed unavailable, using bundled sample data.', error);
+    }
+
+    const data = generatedData
+      ? {
+          ...baseData,
+          newsFeed: Array.isArray(generatedData.newsFeed) ? generatedData.newsFeed : baseData.newsFeed,
+          aiNews: generatedData.aiNews && typeof generatedData.aiNews === 'object' ? generatedData.aiNews : baseData.aiNews,
+          meta: {
+            ...baseData.meta,
+            lastUpdated: generatedData.meta?.generatedAt || baseData.meta?.lastUpdated
+          }
+        }
+      : baseData;
 
     setMeta(data.meta);
     renderOperationalPulse(data);
