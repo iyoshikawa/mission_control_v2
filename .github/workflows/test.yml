@@ -24,6 +24,9 @@ jobs:
       - name: Validate generated AI news payload
         run: npm run validate:ai-news
 
+      - name: Validate generated task payload
+        run: npm run validate:tasks
+
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
