@@ -662,11 +662,32 @@ function renderMacroCalendar(items = []) {
   `;
 }
 
+async function loadGeneratedGlobalNews() {
+  try {
+    const response = await fetch('./data/global-news.generated.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    if (!Array.isArray(payload?.newsFeed) || !payload.newsFeed.length) return null;
+    return payload;
+  } catch {
+    return null;
+  }
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch('./sample-data.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
+    const generatedGlobalNews = await loadGeneratedGlobalNews();
+
+    if (generatedGlobalNews?.newsFeed?.length) {
+      data.newsFeed = generatedGlobalNews.newsFeed;
+      data.meta = {
+        ...data.meta,
+        lastUpdated: generatedGlobalNews.meta?.generatedAt || data.meta?.lastUpdated
+      };
+    }
 
     setMeta(data.meta);
     renderOperationalPulse(data);
