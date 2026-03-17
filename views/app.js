@@ -72,6 +72,126 @@ function setMeta(meta = {}) {
   document.getElementById('dashboard-updated').textContent = formatTimestamp(meta.lastUpdated) || 'Unknown';
 }
 
+function renderOperationalPulse(data = {}) {
+  const el = document.getElementById('operational-pulse');
+  if (!el) return;
+
+  const priorities = Array.isArray(data.priorityStack) ? data.priorityStack : [];
+  const decisions = Array.isArray(data.decisionQueue) ? data.decisionQueue : [];
+  const opsRisks = Array.isArray(data.opsHealth) ? data.opsHealth.filter(item => item.status && item.status !== 'HEALTHY') : [];
+  const costRisks = Array.isArray(data.costWatch) ? data.costWatch.filter(item => !['LEAN', 'HEALTHY'].includes(item.status)) : [];
+  const alerts = Array.isArray(data.alerts) ? data.alerts : [];
+
+  const topPriority = priorities[0];
+  const latestAlert = alerts[0];
+  const attentionCount = decisions.length + opsRisks.length + costRisks.length;
+  const healthyCount = (Array.isArray(data.opsHealth) ? data.opsHealth.filter(item => item.status === 'HEALTHY').length : 0)
+    + (Array.isArray(data.costWatch) ? data.costWatch.filter(item => ['LEAN', 'HEALTHY'].includes(item.status)).length : 0);
+
+  el.innerHTML = [
+    {
+      label: 'Top Priority',
+      value: priorities.length ? `#1` : '—',
+      tone: topPriority?.blocker ? 'watch' : 'good',
+      note: topPriority?.title || 'No active priorities.'
+    },
+    {
+      label: 'Owner Decisions',
+      value: String(decisions.length),
+      tone: decisions.length ? 'issue' : 'good',
+      note: decisions.length ? 'Items waiting on judgment.' : 'Nothing queued for Owner review.'
+    },
+    {
+      label: 'Active Exceptions',
+      value: String(attentionCount),
+      tone: attentionCount > 2 ? 'issue' : attentionCount ? 'watch' : 'good',
+      note: attentionCount ? 'Operational or cost items need attention.' : 'No active operational exceptions.'
+    },
+    {
+      label: 'Latest Alert',
+      value: latestAlert ? relativeTime(latestAlert.timestamp) : 'Quiet',
+      tone: latestAlert ? 'watch' : 'good',
+      note: latestAlert?.summary || `${healthyCount} monitored areas are quiet.`
+    }
+  ].map(item => `
+    <article class="snapshot-tile">
+      <div class="snapshot-label">${escapeHtml(item.label)}</div>
+      <div class="snapshot-value ${item.tone}">${escapeHtml(item.value)}</div>
+      <p class="snapshot-note">${escapeHtml(item.note)}</p>
+    </article>
+  `).join('');
+}
+
+function buildAttentionItems(data = {}) {
+  const items = [];
+
+  (data.priorityStack || []).forEach((item, index) => {
+    if (!item?.blocker && index > 0) return;
+    items.push({
+      kicker: index === 0 ? 'Top priority' : 'Priority blocker',
+      title: item.title,
+      summary: item.blocker || item.summary,
+      nextAction: item.nextAction,
+      status: item.blocker ? 'WATCH' : (item.status || 'ACTIVE')
+    });
+  });
+
+  (data.decisionQueue || []).forEach(item => {
+    items.push({
+      kicker: 'Owner decision',
+      title: item.decision,
+      summary: item.whyItMatters,
+      nextAction: item.recommendation ? `Recommended: ${item.recommendation}` : '',
+      status: item.status || 'NEEDS_DECISION'
+    });
+  });
+
+  (data.opsHealth || []).filter(item => item.status && item.status !== 'HEALTHY').forEach(item => {
+    items.push({
+      kicker: 'Ops risk',
+      title: item.name,
+      summary: item.issue,
+      nextAction: item.recommendedNextStep,
+      status: item.status
+    });
+  });
+
+  (data.costWatch || []).filter(item => !['LEAN', 'HEALTHY'].includes(item.status)).forEach(item => {
+    items.push({
+      kicker: 'Cost watch',
+      title: item.name,
+      summary: item.utilizationNote,
+      nextAction: item.actionRecommendation,
+      status: item.status
+    });
+  });
+
+  return items.slice(0, 6);
+}
+
+function renderAttentionNow(data = {}) {
+  const el = document.getElementById('attention-now');
+  if (!el) return;
+
+  const items = buildAttentionItems(data);
+  if (!items.length) {
+    el.innerHTML = emptyState('No immediate pressure points loaded.');
+    return;
+  }
+
+  el.innerHTML = items.map(item => `
+    <article class="attention-item">
+      <div>
+        <div class="attention-kicker">${escapeHtml(item.kicker)}</div>
+        <h3>${escapeHtml(item.title || 'Untitled')}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        ${item.nextAction ? `<p class="action-hint">Next: ${escapeHtml(item.nextAction)}</p>` : ''}
+      </div>
+      ${item.status ? badge(item.status) : ''}
+    </article>
+  `).join('');
+}
+
 function renderPriorityStack(items = []) {
   const el = document.getElementById('priority-stack');
   if (!items.length) {
@@ -407,24 +527,113 @@ function renderXFeed(xFeed = {}) {
 function renderNewsFeed(items = []) {
   const el = document.getElementById('news-feed');
   if (!items.length) {
-    el.innerHTML = emptyState('No news items loaded.');
+    el.innerHTML = emptyState('No global news items loaded.');
     return;
   }
 
-  el.innerHTML = items.slice(0, 10).map(item => `
-    <article class="status-row news-item">
+  const sorted = [...items]
+    .sort((a, b) => new Date(b.timestamp || 0) - new Date(a.timestamp || 0))
+    .slice(0, 8);
+
+  const groups = sorted.reduce((acc, item) => {
+    const key = item.source || 'Other';
+    if (!acc[key]) acc[key] = [];
+    acc[key].push(item);
+    return acc;
+  }, {});
+
+  const sourceOrder = Object.keys(groups).sort((a, b) => {
+    if (a === 'The Rundown AI') return -1;
+    if (b === 'The Rundown AI') return 1;
+    return a.localeCompare(b);
+  });
+
+  el.innerHTML = sourceOrder.map(source => {
+    const groupItems = groups[source];
+    return `
+      <section class="news-source-group">
+        <div class="news-source-group-head">
+          <h3>${escapeHtml(source)}</h3>
+          <span class="news-group-count">${groupItems.length} item${groupItems.length === 1 ? '' : 's'}</span>
+        </div>
+        ${groupItems.map((item, i) => `
+          <article class="status-row news-item${i === 0 || item.impact === 'HIGH' ? ' news-item-lead' : ''}">
+            <div>
+              <h3>${escapeHtml(item.headline)}</h3>
+              ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+              ${item.whyItMatters ? `<p class="action-hint">Why it matters: ${escapeHtml(item.whyItMatters)}</p>` : ''}
+              <div class="news-meta">
+                ${item.region ? `<span class="news-category">${escapeHtml(item.region)}</span>` : ''}
+                ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
+                <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+                <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
+                ${item.link ? `<a class="source-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">Source</a>` : ''}
+              </div>
+            </div>
+            ${item.impact ? badge(item.impact) : ''}
+          </article>
+        `).join('')}
+      </section>
+    `;
+  }).join('');
+}
+
+// --- AI News rendering ---
+function renderAiTopStories(items = []) {
+  const el = document.getElementById('ai-top-stories');
+  if (!items.length) { el.innerHTML = emptyState('No AI news loaded.'); return; }
+
+  el.innerHTML = items.slice(0, 6).map((item, i) => `
+    <article class="status-row ai-story${i === 0 ? ' ai-story-lead' : ''}">
       <div>
         <h3>${escapeHtml(item.headline)}</h3>
         ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        ${item.whyItMatters ? `<p class="action-hint">${escapeHtml(item.whyItMatters)}</p>` : ''}
         <div class="news-meta">
           <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
-          ${item.category ? `<span class="news-category">${escapeHtml(item.category)}</span>` : ''}
           <span class="timestamp">${escapeHtml(relativeTime(item.timestamp))}</span>
         </div>
       </div>
       ${item.impact ? badge(item.impact) : ''}
     </article>
   `).join('');
+}
+
+function renderAiWhyMatters(items = []) {
+  const el = document.getElementById('ai-why-matters');
+  if (!items.length) { el.innerHTML = emptyState('No impact assessments loaded.'); return; }
+
+  el.innerHTML = items.map(item => `
+    <article class="status-row ai-impact">
+      <div>
+        <h3>${escapeHtml(item.topic)}</h3>
+        <p>${escapeHtml(item.assessment)}</p>
+        ${item.recommendedAction ? `<p class="action-hint">Action: ${escapeHtml(item.recommendedAction)}</p>` : ''}
+      </div>
+      ${item.urgency ? badge(item.urgency) : ''}
+    </article>
+  `).join('');
+}
+
+function renderAiWatchlist(items = []) {
+  const el = document.getElementById('ai-watchlist');
+  if (!items.length) { el.innerHTML = emptyState('No watchlist items.'); return; }
+
+  el.innerHTML = items.map(item => `
+    <div class="ai-watch-item${item.status === 'DORMANT' ? ' ai-watch-dormant' : ''}">
+      <div class="ai-watch-header">
+        <span class="ai-watch-name">${escapeHtml(item.name)}</span>
+        ${badge(item.status)}
+      </div>
+      ${item.note ? `<p class="ai-watch-note">${escapeHtml(item.note)}</p>` : ''}
+    </div>
+  `).join('');
+}
+
+function renderAiNews(aiNews = {}) {
+  renderAiTopStories(aiNews.topStories);
+  renderAiWhyMatters(aiNews.whyItMatters);
+  renderAiWatchlist(aiNews.watchlist);
 }
 
 // --- Macro calendar rendering ---
@@ -463,13 +672,51 @@ function renderMacroCalendar(items = []) {
   `;
 }
 
+async function loadGeneratedGlobalNews() {
+  try {
+    const response = await fetch('./data/global-news.generated.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    if (!Array.isArray(payload?.newsFeed) || !payload.newsFeed.length) return null;
+    return payload;
+  } catch {
+    return null;
+  }
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch('./sample-data.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
 
+    try {
+      const generatedAiResponse = await fetch('../data/ai-news.generated.json', { cache: 'no-store' });
+      if (generatedAiResponse.ok) {
+        const generatedAi = await generatedAiResponse.json();
+        if (Array.isArray(generatedAi.newsFeed)) data.newsFeed = generatedAi.newsFeed;
+        if (generatedAi.aiNews && typeof generatedAi.aiNews === 'object') data.aiNews = generatedAi.aiNews;
+        data.meta = {
+          ...data.meta,
+          lastUpdated: generatedAi.meta?.generatedAt || data.meta?.lastUpdated
+        };
+      }
+    } catch (error) {
+      console.warn('AI news generated feed unavailable, using bundled sample data.', error);
+    }
+
+    const generatedGlobalNews = await loadGeneratedGlobalNews();
+    if (generatedGlobalNews?.newsFeed?.length) {
+      data.newsFeed = generatedGlobalNews.newsFeed;
+      data.meta = {
+        ...data.meta,
+        lastUpdated: generatedGlobalNews.meta?.generatedAt || data.meta?.lastUpdated
+      };
+    }
+
     setMeta(data.meta);
+    renderOperationalPulse(data);
+    renderAttentionNow(data);
     renderPriorityStack(data.priorityStack);
     renderDecisionQueue(data.decisionQueue);
     renderOrg(data.org);
@@ -522,9 +769,12 @@ async function loadDashboard() {
     });
     renderXFeed(data.xFeed || {});
     renderNewsFeed(data.newsFeed || []);
+    renderAiNews(data.aiNews || {});
     renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);
+    document.getElementById('operational-pulse').innerHTML = emptyState('Failed to load sample-data.json.');
+    document.getElementById('attention-now').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('priority-stack').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('decision-queue').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('org-chart').innerHTML = emptyState('Failed to load sample-data.json.');

@@ -20,6 +20,11 @@ coverage/
 # Logs
 *.log
 
+# Playwright
+test-results/
+playwright-report/
+
 # agent info
 *.md
+!README.md
 *.git

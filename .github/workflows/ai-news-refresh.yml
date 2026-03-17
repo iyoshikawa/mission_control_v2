@@ -1,0 +1,48 @@
+name: AI News Refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+concurrency:
+  group: ai-news-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh-ai-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh generated AI news file
+        run: npm run generate:ai-news
+
+      - name: Validate generated AI news payload
+        run: npm run validate:ai-news
+
+      - name: Commit generated data when changed
+        run: |
+          if git diff --quiet; then
+            echo "No generated AI news changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ai-news.generated.json
+          git commit -m "chore: refresh AI news generated data"
+          git pull --rebase origin dev
+          git push origin HEAD:dev

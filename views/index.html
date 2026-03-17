@@ -28,11 +28,28 @@
     <nav class="view-nav">
       <button class="view-tab active" data-view="mission-control">Mission Control</button>
       <button class="view-tab" data-view="x">X</button>
-      <button class="view-tab" data-view="news">News</button>
+      <button class="view-tab" data-view="news">Global News</button>
+      <button class="view-tab" data-view="ai-news">AI News</button>
       <button class="view-tab" data-view="macro">Macro</button>
     </nav>
 
     <main id="view-mission-control" class="grid">
+      <section class="card span-12 snapshot-band">
+        <div class="card-head">
+          <h2>Operational Pulse</h2>
+          <span class="card-note">Fast read on what matters right now</span>
+        </div>
+        <div id="operational-pulse" class="snapshot-grid"></div>
+      </section>
+
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Attention Now</h2>
+          <span class="card-note">Immediate actions and pressure points</span>
+        </div>
+        <div id="attention-now" class="attention-list"></div>
+      </section>
+
       <section class="card card-priority span-7">
         <div class="card-head">
           <h2>Priority Stack</h2>
@@ -140,10 +157,36 @@
     <main id="view-news" class="grid" style="display:none;">
       <section class="card span-12">
         <div class="card-head">
-          <h2>News Feed</h2>
-          <span class="card-note">Key headlines by source</span>
+          <h2>Global News</h2>
+          <span class="card-note">Compact world headlines that may affect decisions</span>
         </div>
         <div id="news-feed" class="status-list"></div>
+      </section>
+    </main>
+
+    <main id="view-ai-news" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Top Stories</h2>
+          <span class="card-note">AI developments that matter now</span>
+        </div>
+        <div id="ai-top-stories" class="status-list"></div>
+      </section>
+
+      <section class="card span-7">
+        <div class="card-head">
+          <h2>Why It Matters</h2>
+          <span class="card-note">Impact assessment for current operations</span>
+        </div>
+        <div id="ai-why-matters" class="status-list"></div>
+      </section>
+
+      <section class="card span-5">
+        <div class="card-head">
+          <h2>Watchlist</h2>
+          <span class="card-note">Companies and topics to track</span>
+        </div>
+        <div id="ai-watchlist" class="ai-watchlist"></div>
       </section>
     </main>
 
