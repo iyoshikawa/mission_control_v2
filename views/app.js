@@ -6,6 +6,8 @@ const STATUS_CLASS_MAP = {
   WATCH: 'badge-watch',
   ISSUE: 'badge-issue',
   BLOCKED: 'badge-issue',
+  BACKLOG: 'badge-dormant',
+  DONE: 'badge-healthy',
   NEEDS_DECISION: 'badge-decision',
   READY: 'badge-dormant',
   NEXT: 'badge-watch',
@@ -684,6 +686,18 @@ async function loadGeneratedGlobalNews() {
   }
 }
 
+async function loadGeneratedTasks() {
+  try {
+    const response = await fetch('./data/tasks.generated.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    if (!payload?.views || typeof payload.views !== 'object') return null;
+    return payload;
+  } catch {
+    return null;
+  }
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch('./sample-data.json');
@@ -711,6 +725,17 @@ async function loadDashboard() {
       data.meta = {
         ...data.meta,
         lastUpdated: generatedGlobalNews.meta?.generatedAt || data.meta?.lastUpdated
+      };
+    }
+
+    const generatedTasks = await loadGeneratedTasks();
+    if (generatedTasks?.views) {
+      if (Array.isArray(generatedTasks.views.projects)) data.projects = generatedTasks.views.projects;
+      if (Array.isArray(generatedTasks.views.commsQueue)) data.commsQueue = generatedTasks.views.commsQueue;
+      if (Array.isArray(generatedTasks.views.intelligenceQueue)) data.intelligenceQueue = generatedTasks.views.intelligenceQueue;
+      data.meta = {
+        ...data.meta,
+        lastUpdated: generatedTasks.meta?.generatedAt || data.meta?.lastUpdated
       };
     }
 

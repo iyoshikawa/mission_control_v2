@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Mission Control Tasks",
+    "source": "canonical-task-list",
+    "lastUpdated": "2026-03-16T23:20:00-07:00"
+  },
+  "tasks": [
+    {
+      "id": "task-mc-phase-8-ui",
+      "title": "Wire dashboard task views to generated task data",
+      "status": "active",
+      "area": "projects",
+      "summary": "Connect the visible task cards to a generated feed so refreshes show current task state.",
+      "owner": "Saidee",
+      "detail": "Keep a single canonical task source and avoid parallel hand-maintained views.",
+      "nextAction": "Finish task generator and connect dashboard fetch path.",
+      "updatedAt": "2026-03-16T23:10:00-07:00"
+    },
+    {
+      "id": "task-mc-phase-8-validation",
+      "title": "Verify generated task cards reload cleanly",
+      "status": "blocked",
+      "area": "projects",
+      "summary": "Functional verification depends on the generated file being in place and read with cache bypass on refresh.",
+      "owner": "Saidee",
+      "detail": "Browser should show the latest generated content after page reload without needing bundled fallbacks.",
+      "nextAction": "Run the task generator, then reload and verify card output.",
+      "updatedAt": "2026-03-16T23:08:00-07:00"
+    },
+    {
+      "id": "task-mc-owner-brief",
+      "title": "Prepare phase 8 owner brief",
+      "status": "backlog",
+      "area": "communications",
+      "summary": "Summarize the new canonical task flow and any remaining risks once the wiring is merged.",
+      "owner": "Saidee",
+      "detail": "Keep the brief short and focused on data flow, not implementation trivia.",
+      "nextAction": "Draft after implementation and verification are complete.",
+      "updatedAt": "2026-03-16T22:55:00-07:00"
+    },
+    {
+      "id": "task-mc-monitor-generated-feeds",
+      "title": "Monitor generated feed freshness",
+      "status": "active",
+      "area": "intelligence",
+      "summary": "Generated surfaces should stay easy to audit so stale task data is obvious.",
+      "owner": "Saidee",
+      "detail": "Use generated timestamps so refresh behavior is visible at a glance.",
+      "nextAction": "Expose generated timestamp in the dashboard metadata path.",
+      "updatedAt": "2026-03-16T23:00:00-07:00"
+    },
+    {
+      "id": "task-mc-task-sprawl",
+      "title": "Avoid second task source",
+      "status": "done",
+      "area": "intelligence",
+      "summary": "Phase 8 explicitly closes the door on duplicate task truth living in separate view payloads.",
+      "owner": "Saidee",
+      "detail": "Task rendering should be driven from generated data derived from the canonical source only.",
+      "nextAction": "Keep future task edits in data/tasks.json.",
+      "updatedAt": "2026-03-16T22:40:00-07:00"
+    }
+  ]
+}
