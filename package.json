@@ -2,6 +2,9 @@
   "name": "mission-control",
   "private": true,
   "scripts": {
+    "refresh:global-news": "node scripts/refresh-global-news.mjs",
+    "generate:global-news": "node scripts/refresh-global-news.mjs",
+    "validate:global-news": "node scripts/validate-global-news.mjs",
     "refresh:ai-news": "node scripts/refresh-ai-news.mjs",
     "generate:ai-news": "node scripts/refresh-ai-news.mjs",
     "build:ai-news": "node scripts/build-ai-news.js",
