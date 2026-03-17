@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-17T13:51:48.202Z",
+    "sourcePath": "data/tasks.json",
+    "sourceUpdatedAt": "2026-03-16T23:12:00-07:00",
+    "statuses": [
+      "active",
+      "blocked",
+      "backlog",
+      "done"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "mission-control-v1-build-review",
+      "title": "Mission Control v1 build review",
+      "status": "active",
+      "lane": "projects",
+      "owner": "Saidee",
+      "summary": "Review the current build for drift from the executive operating model.",
+      "nextAction": "Review first build pass for spec drift and rendering quality",
+      "blocker": null,
+      "priority": 1,
+      "reviewDate": "2026-03-16",
+      "dueTiming": null,
+      "cadence": null,
+      "lastUpdate": null,
+      "phase": "build / review"
+    },
+    {
+      "id": "populate-operating-data",
+      "title": "Populate real Mission Control operating data",
+      "status": "active",
+      "lane": "projects",
+      "owner": "Saidee",
+      "summary": "Replace placeholder content with real priorities, decisions, risks, and cost signals.",
+      "nextAction": "Finish priority and decision queue lanes, then ops health and cost watch",
+      "blocker": null,
+      "priority": 3,
+      "reviewDate": "2026-03-16",
+      "dueTiming": null,
+      "cadence": null,
+      "lastUpdate": null,
+      "phase": "data population"
+    },
+    {
+      "id": "startup-relaunch-hardening",
+      "title": "Startup / relaunch hardening",
+      "status": "blocked",
+      "lane": "projects",
+      "owner": "Saidee",
+      "summary": "Startup flow still needs dedicated tmux session handling and stale-window cleanup.",
+      "nextAction": "Implement startup improvements in a lean, non-brittle way",
+      "blocker": "Hardening work not started yet",
+      "priority": 2,
+      "reviewDate": "2026-03-16",
+      "dueTiming": null,
+      "cadence": null,
+      "lastUpdate": null,
+      "phase": "hardening"
+    },
+    {
+      "id": "owner-followup-dashboard-review",
+      "title": "Owner follow-up on dashboard review",
+      "status": "backlog",
+      "lane": "commsQueue",
+      "owner": "Saidee",
+      "summary": "Prepare a concise review note once the first stable dashboard pass is ready.",
+      "nextAction": "Draft the review note after the first stable pass lands",
+      "blocker": null,
+      "priority": 4,
+      "reviewDate": null,
+      "dueTiming": "after first stable pass",
+      "cadence": null,
+      "lastUpdate": null,
+      "phase": null
+    },
+    {
+      "id": "track-dashboard-complexity-options",
+      "title": "Lightweight dashboard implementation options",
+      "status": "backlog",
+      "lane": "intelligenceQueue",
+      "owner": "Saidee",
+      "summary": "Keep implementation options handy if builders start adding unnecessary complexity.",
+      "nextAction": "Refresh tradeoff notes only if implementation drifts",
+      "blocker": null,
+      "priority": 5,
+      "reviewDate": null,
+      "dueTiming": null,
+      "cadence": "ad hoc",
+      "lastUpdate": "2026-03-16T23:12:00-07:00",
+      "phase": null
+    },
+    {
+      "id": "archive-task-source-sprawl",
+      "title": "Collapse task sprawl into one canonical source",
+      "status": "done",
+      "lane": "projects",
+      "owner": "Saidee",
+      "summary": "Replace scattered task lists with one canonical task source plus generated dashboard projections.",
+      "nextAction": "Keep dashboard projections generated from the canonical source only",
+      "blocker": null,
+      "priority": 6,
+      "reviewDate": "2026-03-16",
+      "dueTiming": null,
+      "cadence": null,
+      "lastUpdate": null,
+      "phase": "task system"
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "byStatus": {
+      "active": 2,
+      "blocked": 1,
+      "backlog": 2,
+      "done": 1
+    }
+  },
+  "dashboard": {
+    "projects": [
+      {
+        "id": "mission-control-v1-build-review",
+        "name": "Mission Control v1 build review",
+        "phase": "build / review",
+        "owner": "Saidee",
+        "nextMilestone": "Review first build pass for spec drift and rendering quality",
+        "blockerSummary": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "populate-operating-data",
+        "name": "Populate real Mission Control operating data",
+        "phase": "data population",
+        "owner": "Saidee",
+        "nextMilestone": "Finish priority and decision queue lanes, then ops health and cost watch",
+        "blockerSummary": null,
+        "status": "ACTIVE"
+      },
+      {
+        "id": "startup-relaunch-hardening",
+        "name": "Startup / relaunch hardening",
+        "phase": "hardening",
+        "owner": "Saidee",
+        "nextMilestone": "Implement startup improvements in a lean, non-brittle way",
+        "blockerSummary": "Hardening work not started yet",
+        "status": "BLOCKED"
+      },
+      {
+        "id": "archive-task-source-sprawl",
+        "name": "Collapse task sprawl into one canonical source",
+        "phase": "task system",
+        "owner": "Saidee",
+        "nextMilestone": "Keep dashboard projections generated from the canonical source only",
+        "blockerSummary": null,
+        "status": "HEALTHY"
+      }
+    ],
+    "commsQueue": [
+      {
+        "id": "owner-followup-dashboard-review",
+        "item": "Owner follow-up on dashboard review",
+        "context": "Prepare a concise review note once the first stable dashboard pass is ready.",
+        "dueTiming": "after first stable pass",
+        "status": "DORMANT"
+      }
+    ],
+    "intelligenceQueue": [
+      {
+        "id": "track-dashboard-complexity-options",
+        "topic": "Lightweight dashboard implementation options",
+        "whyItMatters": "Keep implementation options handy if builders start adding unnecessary complexity.",
+        "cadence": "ad hoc",
+        "owner": "Saidee",
+        "lastUpdate": "2026-03-16T23:12:00-07:00",
+        "status": "DORMANT"
+      }
+    ]
+  }
+}

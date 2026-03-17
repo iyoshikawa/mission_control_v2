@@ -6,6 +6,8 @@ const STATUS_CLASS_MAP = {
   WATCH: 'badge-watch',
   ISSUE: 'badge-issue',
   BLOCKED: 'badge-issue',
+  BACKLOG: 'badge-dormant',
+  DONE: 'badge-healthy',
   NEEDS_DECISION: 'badge-decision',
   READY: 'badge-dormant',
   NEXT: 'badge-watch',
@@ -636,6 +638,25 @@ function renderAiNews(aiNews = {}) {
   renderAiWatchlist(aiNews.watchlist);
 }
 
+function renderCostMantras() {
+  const el = document.getElementById('cost-mantras');
+  if (!el) return;
+
+  const mantras = [
+    'Value comes from clarity and fast scanning, not engineering weight.',
+    'Keep the first pass static/lightweight until the information model is stable.',
+    'Manual high-signal inputs are currently more valuable than noisy automation.',
+    'Automate only after recurring manual pain is obvious.'
+  ];
+
+  el.innerHTML = mantras.map((text, index) => `
+    <article class="status-row mantra-row">
+      <h3>Mantra ${index + 1}</h3>
+      <p>${escapeHtml(text)}</p>
+    </article>
+  `).join('');
+}
+
 // --- Macro calendar rendering ---
 function renderMacroCalendar(items = []) {
   const el = document.getElementById('macro-calendar');
@@ -684,6 +705,18 @@ async function loadGeneratedGlobalNews() {
   }
 }
 
+async function loadGeneratedTasks() {
+  try {
+    const response = await fetch('./data/tasks.generated.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    if (!payload?.dashboard || typeof payload.dashboard !== 'object') return null;
+    return payload;
+  } catch {
+    return null;
+  }
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch('./sample-data.json');
@@ -714,6 +747,17 @@ async function loadDashboard() {
       };
     }
 
+    const generatedTasks = await loadGeneratedTasks();
+    if (generatedTasks?.dashboard) {
+      if (Array.isArray(generatedTasks.dashboard.projects)) data.projects = generatedTasks.dashboard.projects;
+      if (Array.isArray(generatedTasks.dashboard.commsQueue)) data.commsQueue = generatedTasks.dashboard.commsQueue;
+      if (Array.isArray(generatedTasks.dashboard.intelligenceQueue)) data.intelligenceQueue = generatedTasks.dashboard.intelligenceQueue;
+      data.meta = {
+        ...data.meta,
+        lastUpdated: generatedTasks.meta?.generatedAt || data.meta?.lastUpdated
+      };
+    }
+
     setMeta(data.meta);
     renderOperationalPulse(data);
     renderAttentionNow(data);
@@ -735,6 +779,7 @@ async function loadDashboard() {
       quietStatuses: ['LEAN', 'HEALTHY'],
       allClearMessage: 'No cost exceptions.'
     });
+    renderCostMantras();
     renderAlerts(data.alerts);
     renderCompactPreview('projects-preview', data.projects, {
       emptyMessage: 'No active projects.',
