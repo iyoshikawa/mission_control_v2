@@ -16,7 +16,9 @@ const STATUS_CLASS_MAP = {
   MEDIUM: 'badge-watch',
   LOW: 'badge-dormant',
   RELEASED: 'badge-active',
-  UPCOMING: 'badge-watch'
+  UPCOMING: 'badge-watch',
+  BACKLOG: 'badge-dormant',
+  DONE: 'badge-healthy'
 };
 
 function escapeHtml(value) {
@@ -29,8 +31,9 @@ function escapeHtml(value) {
 }
 
 function badge(status) {
+  const normalized = String(status || 'UNKNOWN').toUpperCase();
   const safeStatus = escapeHtml(status || 'UNKNOWN');
-  const cls = STATUS_CLASS_MAP[status] || 'badge-dormant';
+  const cls = STATUS_CLASS_MAP[normalized] || 'badge-dormant';
   return `<span class="badge ${cls}">${safeStatus.replaceAll('_', ' ')}</span>`;
 }
 
@@ -636,6 +639,38 @@ function renderAiNews(aiNews = {}) {
   renderAiWatchlist(aiNews.watchlist);
 }
 
+// --- Tasks rendering ---
+function renderTasks(items = []) {
+  const el = document.getElementById('tasks-view');
+  if (!el) return;
+  if (!items.length) {
+    el.innerHTML = emptyState('No generated tasks loaded.');
+    return;
+  }
+
+  const order = { active: 0, blocked: 1, backlog: 2, done: 3 };
+  const sorted = [...items].sort((a, b) => {
+    return (order[a.status] ?? 99) - (order[b.status] ?? 99)
+      || new Date(b.updatedAt || 0) - new Date(a.updatedAt || 0);
+  });
+
+  el.innerHTML = sorted.map(item => `
+    <article class="status-row">
+      <div>
+        <h3>${escapeHtml(item.title)}</h3>
+        ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
+        ${item.nextAction ? `<p class="action-hint">Next: ${escapeHtml(item.nextAction)}</p>` : ''}
+        <div class="item-meta">
+          ${item.owner ? `<span>Owner: ${escapeHtml(item.owner)}</span>` : ''}
+          ${item.blocker ? `<span class="meta-blocker">Blocker: ${escapeHtml(item.blocker)}</span>` : ''}
+          ${item.updatedAt ? `<span class="timestamp">Updated: ${escapeHtml(formatTimestamp(item.updatedAt))}</span>` : ''}
+        </div>
+      </div>
+      ${badge(item.status)}
+    </article>
+  `).join('');
+}
+
 // --- Macro calendar rendering ---
 function renderMacroCalendar(items = []) {
   const el = document.getElementById('macro-calendar');
@@ -684,6 +719,18 @@ async function loadGeneratedGlobalNews() {
   }
 }
 
+async function loadGeneratedTasks() {
+  try {
+    const response = await fetch('./data/tasks.generated.json', { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    if (!Array.isArray(payload?.tasks) || !payload.tasks.length) return null;
+    return payload;
+  } catch {
+    return null;
+  }
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch('./sample-data.json');
@@ -711,6 +758,15 @@ async function loadDashboard() {
       data.meta = {
         ...data.meta,
         lastUpdated: generatedGlobalNews.meta?.generatedAt || data.meta?.lastUpdated
+      };
+    }
+
+    const generatedTasks = await loadGeneratedTasks();
+    if (generatedTasks?.tasks?.length) {
+      data.tasks = generatedTasks.tasks;
+      data.meta = {
+        ...data.meta,
+        lastUpdated: generatedTasks.meta?.generatedAt || data.meta?.lastUpdated
       };
     }
 
@@ -770,6 +826,7 @@ async function loadDashboard() {
     renderXFeed(data.xFeed || {});
     renderNewsFeed(data.newsFeed || []);
     renderAiNews(data.aiNews || {});
+    renderTasks(data.tasks || []);
     renderMacroCalendar(data.macroCalendar || []);
   } catch (error) {
     console.error(error);
@@ -784,6 +841,7 @@ async function loadDashboard() {
     document.getElementById('projects-preview').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('comms-preview').innerHTML = emptyState('Failed to load sample-data.json.');
     document.getElementById('intelligence-preview').innerHTML = emptyState('Failed to load sample-data.json.');
+    document.getElementById('tasks-view').innerHTML = emptyState('Failed to load sample-data.json.');
   }
 }
 

@@ -501,6 +501,26 @@
       { "name": "Meta AI", "status": "DORMANT", "note": "Agent frameworks and LLaMA. Background monitoring only." }
     ]
   },
+  "tasks": [
+    {
+      "id": "sample-review",
+      "title": "Review Mission Control sample task view",
+      "status": "active",
+      "summary": "Fallback task data used when generated task payload is unavailable.",
+      "owner": "Saidee",
+      "nextAction": "Confirm generated task data overrides this sample on refresh.",
+      "updatedAt": "2026-03-16T18:00:00Z"
+    },
+    {
+      "id": "sample-backlog",
+      "title": "Backlog placeholder task",
+      "status": "backlog",
+      "summary": "Example backlog item for the static fallback payload.",
+      "owner": "Saidee",
+      "nextAction": "Replace with generated task view when available.",
+      "updatedAt": "2026-03-15T18:00:00Z"
+    }
+  ],
   "macroCalendar": [
     {
       "event": "FOMC Rate Decision",

@@ -19,6 +19,16 @@ async function loadWithLivePayload(page, payload) {
   await page.goto('/');
 }
 
+async function routeGeneratedTasks(page, payloadFactory) {
+  await page.route('**/data/tasks.generated.json', async route => {
+    const payload = typeof payloadFactory === 'function' ? payloadFactory() : payloadFactory;
+    await route.fulfill({
+      contentType: 'application/json',
+      body: JSON.stringify(payload)
+    });
+  });
+}
+
 test.describe('live dashboard news connections', () => {
   test('AI News view renders a live payload returned over the dashboard data request', async ({ page }) => {
     const payload = cloneSampleData();
@@ -180,6 +190,108 @@ test.describe('live dashboard news connections', () => {
   });
 });
 
+test.describe('generated task view connections', () => {
+  test('Tasks view renders the generated task payload from the canonical source output', async ({ page }) => {
+    const payload = cloneSampleData();
+    payload.meta.lastUpdated = '2026-03-16T17:00:00Z';
+
+    await routeGeneratedTasks(page, {
+      meta: {
+        generatedAt: '2026-03-16T18:05:00Z',
+        sourcePath: 'data/tasks.json',
+        taskCount: 2,
+        statuses: ['active', 'blocked', 'backlog', 'done']
+      },
+      tasks: [
+        {
+          id: 'live-active',
+          title: 'Live generated task item',
+          status: 'active',
+          summary: 'This task only exists in the generated payload.',
+          owner: 'Automation',
+          nextAction: 'Verify generated task rendering.',
+          updatedAt: '2026-03-16T18:04:00Z'
+        },
+        {
+          id: 'live-blocked',
+          title: 'Blocked generated task item',
+          status: 'blocked',
+          summary: 'Second generated task confirms multi-row rendering.',
+          owner: 'Automation',
+          blocker: 'Waiting on review',
+          updatedAt: '2026-03-16T18:03:00Z'
+        }
+      ]
+    });
+
+    await loadWithLivePayload(page, payload);
+    await page.click('.view-tab[data-view="tasks"]');
+
+    await expect(page.locator('#dashboard-updated')).toContainText('6:05');
+    await expect(page.locator('#tasks-view .status-row')).toHaveCount(2);
+    await expect(page.locator('#tasks-view')).toContainText('Live generated task item');
+    await expect(page.locator('#tasks-view')).toContainText('Waiting on review');
+    await expect(page.locator('#tasks-view')).not.toContainText('Review Mission Control sample task view');
+  });
+
+  test('reloading the page picks up the newest generated task view payload', async ({ page }) => {
+    const payload = cloneSampleData();
+    let requestCount = 0;
+
+    await routeGeneratedTasks(page, () => {
+      requestCount += 1;
+      return requestCount === 1
+        ? {
+            meta: {
+              generatedAt: '2026-03-16T18:10:00Z',
+              sourcePath: 'data/tasks.json',
+              taskCount: 1,
+              statuses: ['active', 'blocked', 'backlog', 'done']
+            },
+            tasks: [
+              {
+                id: 'cycle-one',
+                title: 'First generated cycle task',
+                status: 'backlog',
+                summary: 'Initial generated task payload.',
+                owner: 'Automation',
+                updatedAt: '2026-03-16T18:09:00Z'
+              }
+            ]
+          }
+        : {
+            meta: {
+              generatedAt: '2026-03-16T19:20:00Z',
+              sourcePath: 'data/tasks.json',
+              taskCount: 1,
+              statuses: ['active', 'blocked', 'backlog', 'done']
+            },
+            tasks: [
+              {
+                id: 'cycle-two',
+                title: 'Second generated cycle task',
+                status: 'done',
+                summary: 'Updated generated task payload after refresh.',
+                owner: 'Automation',
+                updatedAt: '2026-03-16T19:19:00Z'
+              }
+            ]
+          };
+    });
+
+    await loadWithLivePayload(page, payload);
+    await page.click('.view-tab[data-view="tasks"]');
+    await expect(page.locator('#dashboard-updated')).toContainText('6:10');
+    await expect(page.locator('#tasks-view')).toContainText('First generated cycle task');
+
+    await page.reload();
+    await page.click('.view-tab[data-view="tasks"]');
+    await expect(page.locator('#dashboard-updated')).toContainText('7:20');
+    await expect(page.locator('#tasks-view')).toContainText('Second generated cycle task');
+    await expect(page.locator('#tasks-view')).not.toContainText('First generated cycle task');
+  });
+});
+
 test.describe('scheduler and update wiring', () => {
   test('scheduled refresh workflow runs hourly, validates output, and only commits the generated AI feed file', async () => {
     const workflowPath = path.join(__dirname, '..', '.github', 'workflows', 'ai-news-refresh.yml');
@@ -194,16 +306,31 @@ test.describe('scheduler and update wiring', () => {
     expect(workflow).toContain('git push origin HEAD:dev');
   });
 
-  test('CI workflow validates generated AI news before running browser coverage', async () => {
+  test('task refresh workflow regenerates and validates generated task data from the canonical task source', async () => {
+    const workflowPath = path.join(__dirname, '..', '.github', 'workflows', 'tasks-refresh.yml');
+    const workflow = fs.readFileSync(workflowPath, 'utf8');
+
+    expect(workflow).toContain("paths:");
+    expect(workflow).toContain("- 'data/tasks.json'");
+    expect(workflow).toContain('group: tasks-refresh');
+    expect(workflow).toContain('run: npm run generate:tasks');
+    expect(workflow).toContain('run: npm run validate:tasks');
+    expect(workflow).toContain('git add views/data/tasks.generated.json');
+    expect(workflow).toContain('git push origin HEAD:dev');
+  });
+
+  test('CI workflow validates generated AI news and generated tasks before running browser coverage', async () => {
     const workflowPath = path.join(__dirname, '..', '.github', 'workflows', 'test.yml');
     const workflow = fs.readFileSync(workflowPath, 'utf8');
 
-    const validateIndex = workflow.indexOf('run: npm run validate:ai-news');
+    const validateAiIndex = workflow.indexOf('run: npm run validate:ai-news');
+    const validateTasksIndex = workflow.indexOf('run: npm run validate:tasks');
     const installBrowserIndex = workflow.indexOf('run: npx playwright install --with-deps chromium');
     const runTestsIndex = workflow.indexOf('run: npm run test:ci');
 
-    expect(validateIndex).toBeGreaterThan(-1);
-    expect(installBrowserIndex).toBeGreaterThan(validateIndex);
+    expect(validateAiIndex).toBeGreaterThan(-1);
+    expect(validateTasksIndex).toBeGreaterThan(validateAiIndex);
+    expect(installBrowserIndex).toBeGreaterThan(validateTasksIndex);
     expect(runTestsIndex).toBeGreaterThan(installBrowserIndex);
   });
 });

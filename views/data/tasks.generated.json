@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-17T06:16:52.493Z",
+    "sourcePath": "data/tasks.json",
+    "taskCount": 4,
+    "statuses": [
+      "active",
+      "blocked",
+      "backlog",
+      "done"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "mc-v1-review",
+      "title": "Review Mission Control v1 build output",
+      "status": "active",
+      "summary": "Check the current dashboard build for drift from the executive operating model.",
+      "owner": "Saidee",
+      "nextAction": "Review latest build pass and flag rendering or workflow drift.",
+      "blocker": "",
+      "updatedAt": "2026-03-16T22:45:00Z"
+    },
+    {
+      "id": "startup-hardening",
+      "title": "Finish startup and relaunch hardening",
+      "status": "blocked",
+      "summary": "Startup still needs dedicated tmux handling and stale-window cleanup.",
+      "owner": "Saidee",
+      "nextAction": "Implement a lean startup hardening pass.",
+      "blocker": "Implementation work has not started yet.",
+      "updatedAt": "2026-03-16T22:30:00Z"
+    },
+    {
+      "id": "operating-data",
+      "title": "Populate real Mission Control operating data",
+      "status": "backlog",
+      "summary": "Replace placeholder dashboard content with real priorities, decisions, and risk signals.",
+      "owner": "Saidee",
+      "nextAction": "Stage the next data-population pass after task system automation lands.",
+      "blocker": "",
+      "updatedAt": "2026-03-16T21:50:00Z"
+    },
+    {
+      "id": "task-automation",
+      "title": "Wire canonical task generation into dashboard refresh flow",
+      "status": "done",
+      "summary": "Generated task view should refresh from a single canonical source.",
+      "owner": "Phase 8",
+      "nextAction": "Keep validation in CI so generated task payload stays trustworthy.",
+      "blocker": "",
+      "updatedAt": "2026-03-16T23:00:00Z"
+    }
+  ]
+}
