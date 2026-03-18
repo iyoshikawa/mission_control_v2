@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-18T08:57:19.879Z",
+    "generatedAt": "2026-03-18T10:03:53.145Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "The AI spending flip - Axios",
+      "source": "Axios",
+      "timestamp": "2026-03-18T09:01:52.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The AI spending flip &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5"
+    },
     {
       "headline": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze - CNBC",
       "source": "CNBC",
@@ -30,16 +40,6 @@
       "summary": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVowZEdGSDlWam96cHFIRjVXUFNQZ0w5R3g5MXQzRldicS1BaUlMS1IzMGN1RkZxbFRkenczdVdmdEhrSnRKelRNa2NDTUdnYWNIQVloMXRGLS1jYzFXYmxsTk1sbDlpOHBheEJwaXJhSXBzb0xnak1sZ1o5OFRnRG1zNGk0dnlta3JMTXg1azBYMncxZTFF?oc=5"
-    },
-    {
-      "headline": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label - CNN",
-      "source": "CNN",
-      "timestamp": "2026-03-18T02:09:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label &nbsp;&nbsp; CNN",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15Y2hxV091eDE0c1ZhRms2cnRVZU01YjNVZjJFM1BRcE9PbTVFVUFjNEl4MzRTd1l2YU8wZmwxU3kwUnlrTV96VW1Bei0zbjNiM1BkYjZQeExDdURLdzYtbGZ6ei11VmVNNHZCMGw3VzlQemZncnc?oc=5"
     },
     {
       "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED",
@@ -82,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVlENEI4SzNkRDZaNVg2aWllWnRpU1FhVXZKQXdGaG9hc1NFU2c3RXRVdElYdk9FRmU0azFRWll1NHRNcU5IdVRXRGplRkhhOEZtenBJYVA4RUpsd0FGQXZ2UTdIU1dwTlZldktBZ2tmU0ZmRFVoaWlHbnMzanVuY0tUS0I1VWxfOFNHc0h4OEsxTHd5WVhQclU2VG5jVnlSc3FiTTQ1UdIBrAFBVV95cUxPTEtiWXBCaWVOZkJlSW5KVkNldEotS19WaEZiTWx4bXAzUHEtZnFKR2VYc1Q3b3lTQTdLR21pMU9CT1JLWHd4WUthay1VUEFLQmtVX0dTTnVKSmdhdUpmTHFlNTdJeEthQ1RzM2gzdXVWaktPaWVmRUlyampTWU5GMm5VUGJBSkV5R05GRXV6b2JkTHBRV0I5c1FZamtuNzd6VGNLRlJUb2dZYXRl?oc=5"
     },
     {
-      "headline": "OpenAI inks deal with Amazon to sell AI models to US government agencies - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-03-17T17:00:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI inks deal with Amazon to sell AI models to US government agencies &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSU0zbWlfWk1ndVdzR1FIVGNSODlwWTMtRXAwY2p0cDdMRFI3cS1qekY3WW94MmVYWHNGaXBmRU9WcWlVYVYwRGV3Zy1EWk1jVFd6VE5jVmxsYzk4SDY3Y3hsY25xRjB6UmRDUjhtSWdjUjgtbENYWHAwM2xlVzA?oc=5"
-    },
-    {
       "headline": "Measuring Progress Towards AGI: A Cognitive Framework - blog.google",
       "source": "blog.google",
       "timestamp": "2026-03-17T16:08:38.000Z",
@@ -110,10 +100,29 @@
       "summary": "Broadening advanced AI education across Africa &nbsp;&nbsp; blog.google",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2FVcHI1NGZnTW9tdHh6dWNhR2JDVW4yY3h6T1F4UXA3bUF1d3ctbGN5ZjFleTVvazdNd0ppcHlkb0pqLXotRnNyWWRDX2hOZnNLVkl3WEhBQ0ZobktZeHhlbW9kUmFwN1JHZV9wX1h3N2JkMUpGMlNKMHBndjRzM1RyVFMwVjNBTGptaGJDeXlCakdOMTdmbUNpYkZTR3pnZTlJZA?oc=5"
+    },
+    {
+      "headline": "AI firm Anthropic seeks weapons expert to stop users from 'misuse' - BBC",
+      "source": "BBC",
+      "timestamp": "2026-03-17T00:08:32.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AI firm Anthropic seeks weapons expert to stop users from 'misuse' &nbsp;&nbsp; BBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90R0lhMGY2S0V4MFY3UWdJc19UTncwYl8tR3prS3pkemJSdGxvcU5FaUhZUzRwbHdleURJenR6OHJZQlRTNEtrUkJvLS1WR2k5R1NhbGRYTW9kQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "The AI spending flip - Axios",
+        "source": "Axios",
+        "timestamp": "2026-03-18T09:01:52.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5",
+        "summary": "The AI spending flip &nbsp;&nbsp; Axios"
+      },
       {
         "headline": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze - CNBC",
         "source": "CNBC",
@@ -131,15 +140,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVowZEdGSDlWam96cHFIRjVXUFNQZ0w5R3g5MXQzRldicS1BaUlMS1IzMGN1RkZxbFRkenczdVdmdEhrSnRKelRNa2NDTUdnYWNIQVloMXRGLS1jYzFXYmxsTk1sbDlpOHBheEJwaXJhSXBzb0xnak1sZ1o5OFRnRG1zNGk0dnlta3JMTXg1azBYMncxZTFF?oc=5",
         "summary": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label - CNN",
-        "source": "CNN",
-        "timestamp": "2026-03-18T02:09:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15Y2hxV091eDE0c1ZhRms2cnRVZU01YjNVZjJFM1BRcE9PbTVFVUFjNEl4MzRTd1l2YU8wZmwxU3kwUnlrTV96VW1Bei0zbjNiM1BkYjZQeExDdURLdzYtbGZ6ei11VmVNNHZCMGw3VzlQemZncnc?oc=5",
-        "summary": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label &nbsp;&nbsp; CNN"
       },
       {
         "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
