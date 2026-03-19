@@ -78,11 +78,336 @@ const TradeJournal = (() => {
     });
   }
 
+  const ARCHIVE_CHECK_KEY = 'tradeJournal_lastArchiveCheck';
+
+  // --- Minimal ZIP file builder (STORE method, no compression, no dependencies) ---
+  function buildZip(files) {
+    // files: [{ name: string, data: Uint8Array }]
+    const centralDir = [];
+    const parts = [];
+    let offset = 0;
+
+    for (const file of files) {
+      const nameBytes = new TextEncoder().encode(file.name);
+      const localHeader = new ArrayBuffer(30 + nameBytes.length);
+      const lv = new DataView(localHeader);
+      lv.setUint32(0, 0x04034b50, true);   // local file header signature
+      lv.setUint16(4, 20, true);            // version needed
+      lv.setUint16(6, 0, true);             // flags
+      lv.setUint16(8, 0, true);             // compression: STORE
+      lv.setUint16(10, 0, true);            // mod time
+      lv.setUint16(12, 0, true);            // mod date
+      lv.setUint32(14, crc32(file.data), true); // crc-32
+      lv.setUint32(18, file.data.length, true); // compressed size
+      lv.setUint32(22, file.data.length, true); // uncompressed size
+      lv.setUint16(26, nameBytes.length, true); // file name length
+      lv.setUint16(28, 0, true);            // extra field length
+      new Uint8Array(localHeader).set(nameBytes, 30);
+
+      // Central directory entry
+      const cdHeader = new ArrayBuffer(46 + nameBytes.length);
+      const cv = new DataView(cdHeader);
+      cv.setUint32(0, 0x02014b50, true);    // central dir signature
+      cv.setUint16(4, 20, true);            // version made by
+      cv.setUint16(6, 20, true);            // version needed
+      cv.setUint16(8, 0, true);             // flags
+      cv.setUint16(10, 0, true);            // compression: STORE
+      cv.setUint16(12, 0, true);            // mod time
+      cv.setUint16(14, 0, true);            // mod date
+      cv.setUint32(16, crc32(file.data), true);
+      cv.setUint32(20, file.data.length, true);
+      cv.setUint32(24, file.data.length, true);
+      cv.setUint16(28, nameBytes.length, true);
+      cv.setUint16(30, 0, true);            // extra field length
+      cv.setUint16(32, 0, true);            // comment length
+      cv.setUint16(34, 0, true);            // disk number start
+      cv.setUint16(36, 0, true);            // internal attrs
+      cv.setUint32(38, 0, true);            // external attrs
+      cv.setUint32(42, offset, true);       // offset of local header
+      new Uint8Array(cdHeader).set(nameBytes, 46);
+      centralDir.push(new Uint8Array(cdHeader));
+
+      parts.push(new Uint8Array(localHeader));
+      parts.push(file.data);
+      offset += localHeader.byteLength + file.data.length;
+    }
+
+    const cdOffset = offset;
+    let cdSize = 0;
+    for (const cd of centralDir) { cdSize += cd.length; }
+
+    // End of central directory
+    const eocd = new ArrayBuffer(22);
+    const ev = new DataView(eocd);
+    ev.setUint32(0, 0x06054b50, true);
+    ev.setUint16(4, 0, true);
+    ev.setUint16(6, 0, true);
+    ev.setUint16(8, files.length, true);
+    ev.setUint16(10, files.length, true);
+    ev.setUint32(12, cdSize, true);
+    ev.setUint32(16, cdOffset, true);
+    ev.setUint16(20, 0, true);
+
+    const allParts = [...parts, ...centralDir, new Uint8Array(eocd)];
+    const totalSize = allParts.reduce((s, p) => s + p.length, 0);
+    const result = new Uint8Array(totalSize);
+    let pos = 0;
+    for (const p of allParts) { result.set(p, pos); pos += p.length; }
+    return result;
+  }
+
+  // CRC-32 lookup table
+  const crc32Table = (() => {
+    const table = new Uint32Array(256);
+    for (let i = 0; i < 256; i++) {
+      let c = i;
+      for (let j = 0; j < 8; j++) {
+        c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      }
+      table[i] = c;
+    }
+    return table;
+  })();
+
+  function crc32(data) {
+    let crc = 0xFFFFFFFF;
+    for (let i = 0; i < data.length; i++) {
+      crc = crc32Table[(crc ^ data[i]) & 0xFF] ^ (crc >>> 8);
+    }
+    return (crc ^ 0xFFFFFFFF) >>> 0;
+  }
+
+  // --- Archive functions ---
+  function getExpiredData() {
+    const cutoff = Date.now() - ONE_YEAR_MS;
+    const expiredTrades = trades.filter(t => new Date(t.date).getTime() <= cutoff);
+    const expiredJournals = {};
+    for (const [key, entry] of Object.entries(journalEntries)) {
+      if (new Date(key + 'T23:59:59').getTime() <= cutoff) {
+        expiredJournals[key] = entry;
+      }
+    }
+    return { expiredTrades, expiredJournals };
+  }
+
+  function getAllScreenshotKeys() {
+    return new Promise((resolve, reject) => {
+      if (!db) { resolve([]); return; }
+      const tx = db.transaction(SCREENSHOT_STORE, 'readonly');
+      const store = tx.objectStore(SCREENSHOT_STORE);
+      const request = store.getAllKeys();
+      request.onsuccess = () => resolve(request.result || []);
+      request.onerror = (e) => reject(e.target.error);
+    });
+  }
+
+  function getAllScreenshotEntries(keys) {
+    return new Promise((resolve, reject) => {
+      if (!db) { resolve([]); return; }
+      const tx = db.transaction(SCREENSHOT_STORE, 'readonly');
+      const store = tx.objectStore(SCREENSHOT_STORE);
+      const results = [];
+      let pending = keys.length;
+      if (pending === 0) { resolve([]); return; }
+      for (const key of keys) {
+        const req = store.get(key);
+        req.onsuccess = () => {
+          if (req.result) results.push(req.result);
+          if (--pending === 0) resolve(results);
+        };
+        req.onerror = () => { if (--pending === 0) resolve(results); };
+      }
+    });
+  }
+
+  function deleteScreenshotKeys(keys) {
+    return new Promise((resolve, reject) => {
+      if (!db || keys.length === 0) { resolve(); return; }
+      const tx = db.transaction(SCREENSHOT_STORE, 'readwrite');
+      const store = tx.objectStore(SCREENSHOT_STORE);
+      for (const key of keys) { store.delete(key); }
+      tx.oncomplete = () => resolve();
+      tx.onerror = (e) => reject(e.target.error);
+    });
+  }
+
+  async function buildArchiveZip(archiveTrades, archiveJournals, screenshotDateKeys) {
+    const files = [];
+    const enc = new TextEncoder();
+
+    // trades.json
+    files.push({
+      name: 'trades.json',
+      data: enc.encode(JSON.stringify(archiveTrades, null, 2))
+    });
+
+    // journals.json
+    files.push({
+      name: 'journals.json',
+      data: enc.encode(JSON.stringify(archiveJournals, null, 2))
+    });
+
+    // summary.json with stats
+    const stats = calcStats(archiveTrades);
+    const dateRange = archiveTrades.length
+      ? { from: archiveTrades[0]?.date, to: archiveTrades[archiveTrades.length - 1]?.date }
+      : { from: null, to: null };
+    files.push({
+      name: 'summary.json',
+      data: enc.encode(JSON.stringify({
+        exportedAt: new Date().toISOString(),
+        dateRange,
+        totalTrades: stats.totalTrades,
+        totalPnl: stats.totalPnl,
+        winRate: stats.winRate,
+        profitFactor: stats.profitFactor,
+        wins: stats.wins,
+        losses: stats.losses,
+        grossWin: stats.grossWin,
+        grossLoss: stats.grossLoss,
+        totalCommission: stats.totalCommission
+      }, null, 2))
+    });
+
+    // Screenshots as individual files
+    if (screenshotDateKeys.length > 0) {
+      const entries = await getAllScreenshotEntries(screenshotDateKeys);
+      for (const entry of entries) {
+        if (!entry.images) continue;
+        for (let i = 0; i < entry.images.length; i++) {
+          const dataUrl = entry.images[i];
+          const base64 = dataUrl.split(',')[1];
+          if (!base64) continue;
+          const binary = atob(base64);
+          const bytes = new Uint8Array(binary.length);
+          for (let j = 0; j < binary.length; j++) bytes[j] = binary.charCodeAt(j);
+          const ext = dataUrl.startsWith('data:image/png') ? 'png' : 'jpg';
+          files.push({
+            name: `screenshots/${entry.id}_${i + 1}.${ext}`,
+            data: bytes
+          });
+        }
+      }
+    }
+
+    return buildZip(files);
+  }
+
+  function downloadBlob(blob, filename) {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 100);
+  }
+
+  async function exportArchive(onlyExpired = false) {
+    let archiveTrades, archiveJournals, ssKeys;
+
+    if (onlyExpired) {
+      const { expiredTrades, expiredJournals } = getExpiredData();
+      archiveTrades = expiredTrades;
+      archiveJournals = expiredJournals;
+      const cutoff = Date.now() - ONE_YEAR_MS;
+      const allKeys = await getAllScreenshotKeys();
+      ssKeys = allKeys.filter(k => new Date(k + 'T23:59:59').getTime() <= cutoff);
+    } else {
+      archiveTrades = [...trades];
+      archiveJournals = { ...journalEntries };
+      ssKeys = await getAllScreenshotKeys();
+    }
+
+    if (archiveTrades.length === 0 && Object.keys(archiveJournals).length === 0) {
+      showToast('No data to archive', true);
+      return;
+    }
+
+    showToast('Building archive...');
+    const zipData = await buildArchiveZip(archiveTrades, archiveJournals, ssKeys);
+    const blob = new Blob([zipData], { type: 'application/zip' });
+
+    const now = new Date();
+    const dateStr = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+    const filename = `trade-journal-archive_${dateStr}.zip`;
+
+    downloadBlob(blob, filename);
+    showToast(`Archive downloaded: ${filename}`);
+    return { archiveTrades, archiveJournals, ssKeys };
+  }
+
+  async function archiveAndPurgeExpired() {
+    const result = await exportArchive(true);
+    if (!result) return;
+
+    // Remove archived trades
+    const cutoff = Date.now() - ONE_YEAR_MS;
+    trades = trades.filter(t => new Date(t.date).getTime() > cutoff);
+    saveTrades();
+
+    // Remove archived journals
+    for (const key of Object.keys(result.archiveJournals)) {
+      delete journalEntries[key];
+    }
+    saveJournalEntries();
+
+    // Remove archived screenshots
+    await deleteScreenshotKeys(result.ssKeys);
+
+    localStorage.setItem(ARCHIVE_CHECK_KEY, new Date().toISOString());
+    showToast('Expired data archived and removed');
+    render();
+  }
+
+  async function checkForExpiredData() {
+    // Only check once per day
+    const lastCheck = localStorage.getItem(ARCHIVE_CHECK_KEY);
+    if (lastCheck) {
+      const lastDate = new Date(lastCheck);
+      const now = new Date();
+      if (now - lastDate < 24 * 60 * 60 * 1000) return;
+    }
+
+    const { expiredTrades, expiredJournals } = getExpiredData();
+    const hasExpired = expiredTrades.length > 0 || Object.keys(expiredJournals).length > 0;
+    if (!hasExpired) {
+      localStorage.setItem(ARCHIVE_CHECK_KEY, new Date().toISOString());
+      return;
+    }
+
+    // Show archive prompt banner
+    const el = document.getElementById('tj-content');
+    if (!el) return;
+    const banner = document.createElement('div');
+    banner.className = 'tj-archive-banner';
+    banner.innerHTML = `
+      <div class="tj-archive-banner-content">
+        <div>
+          <strong>Year-old data detected</strong>
+          <p>${expiredTrades.length} trades and ${Object.keys(expiredJournals).length} journal entries are older than 1 year.</p>
+        </div>
+        <div class="tj-archive-banner-actions">
+          <button class="tj-archive-btn" id="tj-archive-now">Archive &amp; Remove</button>
+          <button class="tj-archive-dismiss" id="tj-archive-dismiss">Dismiss</button>
+        </div>
+      </div>
+    `;
+    el.prepend(banner);
+
+    document.getElementById('tj-archive-now').addEventListener('click', async () => {
+      banner.remove();
+      await archiveAndPurgeExpired();
+    });
+
+    document.getElementById('tj-archive-dismiss').addEventListener('click', () => {
+      banner.remove();
+      localStorage.setItem(ARCHIVE_CHECK_KEY, new Date().toISOString());
+    });
+  }
+
   // --- LocalStorage ---
   function saveTrades() {
-    const cutoff = Date.now() - ONE_YEAR_MS;
-    const filtered = trades.filter(t => new Date(t.date).getTime() > cutoff);
-    trades = filtered;
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(trades));
     } catch (e) {
@@ -375,6 +700,7 @@ const TradeJournal = (() => {
               <input type="file" accept=".csv" id="tj-csv-input" style="display:none" />
               Import CSV
             </label>
+            <button class="tj-export-btn" id="tj-export-archive" title="Export all data as ZIP">Export Archive</button>
             <button class="tj-clear-btn" id="tj-clear-data">Clear Data</button>
           </div>
         </div>
@@ -699,6 +1025,12 @@ const TradeJournal = (() => {
       });
     }
 
+    // Export archive
+    const exportBtn = document.getElementById('tj-export-archive');
+    if (exportBtn) {
+      exportBtn.addEventListener('click', () => exportArchive(false));
+    }
+
     // Clear data
     const clearBtn = document.getElementById('tj-clear-data');
     if (clearBtn) {
@@ -854,6 +1186,7 @@ const TradeJournal = (() => {
     loadTrades();
     loadJournalEntries();
     render();
+    await checkForExpiredData();
   }
 
   return { init, render };
