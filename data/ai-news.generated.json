@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-19T17:09:09.576Z",
+    "generatedAt": "2026-03-19T19:05:07.885Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Pentagon Labels Anthropic AI a National Security Risk Amid Ongoing Legal Dispute - AI Insider",
-      "source": "AI Insider",
-      "timestamp": "2026-03-19T14:41:19.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Pentagon Labels Anthropic AI a National Security Risk Amid Ongoing Legal Dispute &nbsp;&nbsp; AI Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXNRWV9SZ25kemNSZ1o4V29yRnhPQTFjYzVwcTNnUnJwaml2U0hjSkRTQzNtcHJxYUtYazEzN0NlaDNpbVZfRTUxNml3X3lpcTU3aTBFOUhKY2U0eXFRT18wdDgyMkhFMGFOLUJvVVNGYmQ1SDRVU1hfZFlCMXllQ1BjYjV6cnVEbDBPVDM5T205RjRnWDN6MDRQNGc4M3Jyc2dJUDhVdjVJS2ZzdF8yT0tYbUdVS3VMSEE?oc=5"
-    },
-    {
-      "headline": "OpenAI to buy Python toolmaker Astral to take on Anthropic - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-19T14:16:10.000Z",
+      "headline": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-03-19T18:03:13.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "OpenAI to buy Python toolmaker Astral to take on Anthropic &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTNzQ1R6MDVNVnR0Y3V0eThTZDJRZXdsVm5VU1lyVmQ1RktIVUU5R3RDSl9OMGozSlVYa3REVDR0d2o2eDNCZ0ttZHVYUHIySHBlOFpBLTdWN2k4dm1MNzMwb09GN2dNenA3eXoza2FKVC1UbmFmMWZjRG4tX2Q1OXhaUW11QzVpRWVSWFM5U2VFMnlKZWNtMkM0UkE?oc=5"
+      "summary": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEYyYXI2MVJudkZxaTRFN0FhSFNFTWhxQ2wycDFvbWZWOGpINE9rVEYyRFBPdE9kWHFXR1M3Z1MxQ1gxZVA5ZVE2QTJleF9XNWloakt6UlJxaWNkZ3NES0NxVGVkcHgyVXdvdkYtUHlyRVBQN2N3Q3E5VGZYeUtLdmplRS1GSEwzd0ZyVTNoM0RtWEp4ejZfRGJYMlZUcjNxaXhYYjE2N090V2NRaC15clpwZlZ5M0l0cVE?oc=5"
+    },
+    {
+      "headline": "AI Coding Startup Cursor Plans New Model to Rival Anthropic, OpenAI - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-03-19T15:00:05.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "AI Coding Startup Cursor Plans New Model to Rival Anthropic, OpenAI &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjkxS3BGMC1NSVRFaS1mdzhtMTI5cF9DQjhucDMtd3QwTC1UY3ZrRVpLLVZWaHRtRHlMUzNTNzFXWGtoWEdLbmRMb3BFN3RIczQ2MlowT0VhYXdKbWVkNDRVc3B5ZXpGNXpteV93OHRiWGlqODBDcDh0VEVNT1p4UUFvMUV5X0V4dzZhVHcxZzRPbGY3RWJ5a2xyZm9EUjYxNDZIRk0wRjhvamNtd3NPU2N5YTJnWHgt?oc=5"
+    },
+    {
+      "headline": "OpenAI to acquire developer tooling startup Astral in boost for Codex team - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-19T14:34:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI to acquire developer tooling startup Astral in boost for Codex team &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPek9FNExmLXpmSF83SWlTTWtqSUJDeDl0VkFFTkpqWVZxZlJDTVVydDE5WHJPcmF5al9VVTRrcTcxTjlxOHRreFotZTZBUWpLcXl1emw1eXNlcF9KY3ctYmVBTEM3ckdtQ1BLMGVzMXVXbUtocmVTWjFKZktlUkFkSGstT1ZuVjc5OEp0OWNWUm_SAZYBQVVfeXFMTkJJVlNkVi0xVVBfRUJ1azVSWGRrNEJwcGlaZG4tNTd3elNIeUJ1LW1qVjJRVF9JdzVvY250cW80NXd1UXVfdlRUTnp4QkFEaG9KbTVTak81LXpPSHVxQ0hPRXdwSFMwaWo0emxsUlY4YU5QTV9YZ3B1eDZIdDJIOHU5ejBzSEI1Z1pza21ObVRZSWdzcFZ3?oc=5"
     },
     {
       "headline": "Signal’s Creator Is Helping Encrypt Meta AI - WIRED",
@@ -42,19 +52,9 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JT3Q3NWg5RXV5YTZWZGtPTmlOUVZ5SWtVOWJ0Y0REZ016d0tZRFA4WUFzMUd5QS04SW56N1hfR3lkaFFoaEpmQkV2blQzN1kxSmZjRTlFX2djN3VkTTJSWGlrbkJCSVcxb29USmZtRk9RdndiMWQzMmdGSQ?oc=5"
     },
     {
-      "headline": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-03-19T13:00:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1RieHpQSGlGclVWWGRHYjBaUlhiNlAtcFFLRWtjUWFONm84bnZYWmM4THhoWExhRENLSzNObXI0aTA0M3JXQUZHOE03dThSSmR2bXVIZVFvXzNsVWdJTndjVHNOQUctM3NzZ0JWZ3dDbWU0M0dVVjVpUExXLVZrODQ2a0VnY1I1OVNrNlV3bHoyVnRhb2FhMWJwX3ZJVGJ4eUFqVEdjcjEzX2RRWXA0SDF0YnlxelBr?oc=5"
-    },
-    {
       "headline": "Microsoft startup credits are the gift that keeps on billing unsuspecting users - theregister.com",
       "source": "theregister.com",
-      "timestamp": "2026-03-19T11:00:00.000Z",
+      "timestamp": "2026-03-19T12:24:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Microsoft startup credits are the gift that keeps on billing unsuspecting users &nbsp;&nbsp; theregister.com",
@@ -62,24 +62,34 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSUw0MVVUYmxlZlZWc2k4Y2dqeUM0S1BoZ05sLXRkUnVzbW5ycFJKSUk3b2JJMHhVVHlIa05QLTFmWVVNU3o5NklUOTZJcDNnZWFCMXE3VTBDVXVhY1RmOXlwQmstT0hwWkRldXJGVXNfUnc?oc=5"
     },
     {
-      "headline": "Wall Street Is Wrong About This AI Cloud Stock for 2026 - The Motley Fool",
-      "source": "The Motley Fool",
-      "timestamp": "2026-03-19T04:00:00.000Z",
+      "headline": "Microsoft at NVIDIA GTC: AI Agents, Physical AI and More - Technology Magazine",
+      "source": "Technology Magazine",
+      "timestamp": "2026-03-19T11:02:13.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Wall Street Is Wrong About This AI Cloud Stock for 2026 &nbsp;&nbsp; The Motley Fool",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXVTYjU3RVB5aHRSNzJYWGpHb1otUXdGaHc5NkpGQV90SDFIMXdrbG1FZGRHcVJzdVEyNG5WSnN0b3dWN2xGVVUwNGZ0U3NmdlJvaXNQTjQ4c3E5WW9XaC1NcUNhbG44aXhPaEdvSzhtSzhhUEN5ZDQ4eXFMLUY2X01WQ3gwaEhMV3oyOGNPOXhLM3A1RkxqeQ?oc=5"
+      "category": "models",
+      "summary": "Microsoft at NVIDIA GTC: AI Agents, Physical AI and More &nbsp;&nbsp; Technology Magazine",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQk0za0hYVkpzNHN5Skt5eHBrQUJjTlEzbjdxUTJVc2l5c0NuTnBTd1FQM0x2R0pGNV9Pcko2NnZXQUNzMVBtLUhxSFFBQ3FjTFJIM09SOS1KU0ZPR0Y5T3ZQa244ckgxSjBITXdzZTZ6em9mSFFtNkxGRGxyM2VwYWxzeTJqQTJYMHVUZTdDY19tUVRp?oc=5"
     },
     {
       "headline": "Anthropic turns the tables on OpenAI in critical revenue category - Axios",
       "source": "Axios",
-      "timestamp": "2026-03-18T23:23:27.000Z",
+      "timestamp": "2026-03-19T02:39:37.000Z",
       "impact": "LOW",
       "category": "market",
       "summary": "Anthropic turns the tables on OpenAI in critical revenue category &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5"
+    },
+    {
+      "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-18T23:42:46.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5"
     },
     {
       "headline": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
@@ -100,37 +110,36 @@
       "summary": "Inside Meta, a Rogue AI Agent Triggers Security Alert &nbsp;&nbsp; The Information",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3BBa01JQ29qT2JRZmRjZGtxNDZPSWpmSjNJQV9QRWg5WjRqWUhnTnZlWWViZ0hIbHpvUVlTYWNzN2JoUDhUR3g2QUduVXJvVXhqZHl6Z1VSQ3E2Q3NYUGx2RXMxSG50b0lYU0o1c0ZndTctQ3lCdVE3VkRleXJwMXZVNG1ORlJaZFZlTE9sZVctQmhC?oc=5"
-    },
-    {
-      "headline": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-03-18T18:01:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal &nbsp;&nbsp; WIRED",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMC05MExiVXJDMEtRcUVpeUhYRHVHLXBpOWpmUzV5MmlIV3FxbUNZMlZRYVloWm5yMHI5Z1c5QzdWdG1qelkzMl9PM1VVdWVrc0lyUVZwVElseFdTd1F1dVB6TEFOLVZVcFJlYktDaHk3Z3FJSHBZX0NrLWtfMjgwY2w2bWpRQlNmWDhF?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Pentagon Labels Anthropic AI a National Security Risk Amid Ongoing Legal Dispute - AI Insider",
-        "source": "AI Insider",
-        "timestamp": "2026-03-19T14:41:19.000Z",
+        "headline": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-03-19T18:03:13.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXNRWV9SZ25kemNSZ1o4V29yRnhPQTFjYzVwcTNnUnJwaml2U0hjSkRTQzNtcHJxYUtYazEzN0NlaDNpbVZfRTUxNml3X3lpcTU3aTBFOUhKY2U0eXFRT18wdDgyMkhFMGFOLUJvVVNGYmQ1SDRVU1hfZFlCMXllQ1BjYjV6cnVEbDBPVDM5T205RjRnWDN6MDRQNGc4M3Jyc2dJUDhVdjVJS2ZzdF8yT0tYbUdVS3VMSEE?oc=5",
-        "summary": "Pentagon Labels Anthropic AI a National Security Risk Amid Ongoing Legal Dispute &nbsp;&nbsp; AI Insider"
+        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEYyYXI2MVJudkZxaTRFN0FhSFNFTWhxQ2wycDFvbWZWOGpINE9rVEYyRFBPdE9kWHFXR1M3Z1MxQ1gxZVA5ZVE2QTJleF9XNWloakt6UlJxaWNkZ3NES0NxVGVkcHgyVXdvdkYtUHlyRVBQN2N3Q3E5VGZYeUtLdmplRS1GSEwzd0ZyVTNoM0RtWEp4ejZfRGJYMlZUcjNxaXhYYjE2N090V2NRaC15clpwZlZ5M0l0cVE?oc=5",
+        "summary": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "OpenAI to buy Python toolmaker Astral to take on Anthropic - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-03-19T14:16:10.000Z",
+        "headline": "AI Coding Startup Cursor Plans New Model to Rival Anthropic, OpenAI - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-03-19T15:00:05.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjkxS3BGMC1NSVRFaS1mdzhtMTI5cF9DQjhucDMtd3QwTC1UY3ZrRVpLLVZWaHRtRHlMUzNTNzFXWGtoWEdLbmRMb3BFN3RIczQ2MlowT0VhYXdKbWVkNDRVc3B5ZXpGNXpteV93OHRiWGlqODBDcDh0VEVNT1p4UUFvMUV5X0V4dzZhVHcxZzRPbGY3RWJ5a2xyZm9EUjYxNDZIRk0wRjhvamNtd3NPU2N5YTJnWHgt?oc=5",
+        "summary": "AI Coding Startup Cursor Plans New Model to Rival Anthropic, OpenAI &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "OpenAI to acquire developer tooling startup Astral in boost for Codex team - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-19T14:34:02.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTNzQ1R6MDVNVnR0Y3V0eThTZDJRZXdsVm5VU1lyVmQ1RktIVUU5R3RDSl9OMGozSlVYa3REVDR0d2o2eDNCZ0ttZHVYUHIySHBlOFpBLTdWN2k4dm1MNzMwb09GN2dNenA3eXoza2FKVC1UbmFmMWZjRG4tX2Q1OXhaUW11QzVpRWVSWFM5U2VFMnlKZWNtMkM0UkE?oc=5",
-        "summary": "OpenAI to buy Python toolmaker Astral to take on Anthropic &nbsp;&nbsp; Reuters"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPek9FNExmLXpmSF83SWlTTWtqSUJDeDl0VkFFTkpqWVZxZlJDTVVydDE5WHJPcmF5al9VVTRrcTcxTjlxOHRreFotZTZBUWpLcXl1emw1eXNlcF9KY3ctYmVBTEM3ckdtQ1BLMGVzMXVXbUtocmVTWjFKZktlUkFkSGstT1ZuVjc5OEp0OWNWUm_SAZYBQVVfeXFMTkJJVlNkVi0xVVBfRUJ1azVSWGRrNEJwcGlaZG4tNTd3elNIeUJ1LW1qVjJRVF9JdzVvY250cW80NXd1UXVfdlRUTnp4QkFEaG9KbTVTak81LXpPSHVxQ0hPRXdwSFMwaWo0emxsUlY4YU5QTV9YZ3B1eDZIdDJIOHU5ejBzSEI1Z1pza21ObVRZSWdzcFZ3?oc=5",
+        "summary": "OpenAI to acquire developer tooling startup Astral in boost for Codex team &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Signal’s Creator Is Helping Encrypt Meta AI - WIRED",
@@ -142,45 +151,36 @@
         "summary": "Signal’s Creator Is Helping Encrypt Meta AI &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-03-19T13:00:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1RieHpQSGlGclVWWGRHYjBaUlhiNlAtcFFLRWtjUWFONm84bnZYWmM4THhoWExhRENLSzNObXI0aTA0M3JXQUZHOE03dThSSmR2bXVIZVFvXzNsVWdJTndjVHNOQUctM3NzZ0JWZ3dDbWU0M0dVVjVpUExXLVZrODQ2a0VnY1I1OVNrNlV3bHoyVnRhb2FhMWJwX3ZJVGJ4eUFqVEdjcjEzX2RRWXA0SDF0YnlxelBr?oc=5",
-        "summary": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
         "headline": "Microsoft startup credits are the gift that keeps on billing unsuspecting users - theregister.com",
         "source": "theregister.com",
-        "timestamp": "2026-03-19T11:00:00.000Z",
+        "timestamp": "2026-03-19T12:24:52.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSUw0MVVUYmxlZlZWc2k4Y2dqeUM0S1BoZ05sLXRkUnVzbW5ycFJKSUk3b2JJMHhVVHlIa05QLTFmWVVNU3o5NklUOTZJcDNnZWFCMXE3VTBDVXVhY1RmOXlwQmstT0hwWkRldXJGVXNfUnc?oc=5",
         "summary": "Microsoft startup credits are the gift that keeps on billing unsuspecting users &nbsp;&nbsp; theregister.com"
       },
       {
-        "headline": "Wall Street Is Wrong About This AI Cloud Stock for 2026 - The Motley Fool",
-        "source": "The Motley Fool",
-        "timestamp": "2026-03-19T04:00:00.000Z",
+        "headline": "Microsoft at NVIDIA GTC: AI Agents, Physical AI and More - Technology Magazine",
+        "source": "Technology Magazine",
+        "timestamp": "2026-03-19T11:02:13.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXVTYjU3RVB5aHRSNzJYWGpHb1otUXdGaHc5NkpGQV90SDFIMXdrbG1FZGRHcVJzdVEyNG5WSnN0b3dWN2xGVVUwNGZ0U3NmdlJvaXNQTjQ4c3E5WW9XaC1NcUNhbG44aXhPaEdvSzhtSzhhUEN5ZDQ4eXFMLUY2X01WQ3gwaEhMV3oyOGNPOXhLM3A1RkxqeQ?oc=5",
-        "summary": "Wall Street Is Wrong About This AI Cloud Stock for 2026 &nbsp;&nbsp; The Motley Fool"
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQk0za0hYVkpzNHN5Skt5eHBrQUJjTlEzbjdxUTJVc2l5c0NuTnBTd1FQM0x2R0pGNV9Pcko2NnZXQUNzMVBtLUhxSFFBQ3FjTFJIM09SOS1KU0ZPR0Y5T3ZQa244ckgxSjBITXdzZTZ6em9mSFFtNkxGRGxyM2VwYWxzeTJqQTJYMHVUZTdDY19tUVRp?oc=5",
+        "summary": "Microsoft at NVIDIA GTC: AI Agents, Physical AI and More &nbsp;&nbsp; Technology Magazine"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
