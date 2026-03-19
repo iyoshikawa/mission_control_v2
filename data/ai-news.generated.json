@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-19T19:05:07.885Z",
+    "generatedAt": "2026-03-19T20:43:54.162Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,26 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI is acquiring open source Python tool-maker Astral - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-03-19T18:44:58.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "OpenAI is acquiring open source Python tool-maker Astral &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjFRMUppeFczLUV6b3lFcktaYjJ6UjRVVUZYV29oR2pRcXJRc0VhUmxNZlg1b0c0b0U5b0JWRWxtYTFlUmdGbnJoSXlvS0lQdWUwWnRNWVBYMG1LRnc5QTFYc1lYX1N6Zks1MF9Ram9SNWd3LURMbk1kYktYQ3dia05IZU9lMWRwSmhuZV9KQ1pvazk4Njh3?oc=5"
+    },
+    {
+      "headline": "A rogue AI led to a serious security incident at Meta - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-03-19T18:20:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A rogue AI led to a serious security incident at Meta &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXE5OUtCa1hILWJaU1RuMHAxM2MxTlNOQmZ0UzlGRWV0RWFXVnVnT21YYkVZaTBKR0JoQU9sRHBjQkxmd2R6bjBxcWdUSDN5Nkt6d1VIYlBRTTRvYlNTbk9rZ0RtWktIampsOVlYV1BfUHM1TzlBdy1iUXVhLS1ubVpRZzIyemYtS25VVHhlX1B6R2h2OW5HT2dtYTc?oc=5"
+    },
     {
       "headline": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts - Business Insider",
       "source": "Business Insider",
@@ -72,48 +92,46 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQk0za0hYVkpzNHN5Skt5eHBrQUJjTlEzbjdxUTJVc2l5c0NuTnBTd1FQM0x2R0pGNV9Pcko2NnZXQUNzMVBtLUhxSFFBQ3FjTFJIM09SOS1KU0ZPR0Y5T3ZQa244ckgxSjBITXdzZTZ6em9mSFFtNkxGRGxyM2VwYWxzeTJqQTJYMHVUZTdDY19tUVRp?oc=5"
     },
     {
+      "headline": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-19T10:02:21.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy &nbsp;&nbsp; Reuters U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk &nbsp;&nbsp; The New York Times Pentagon: Anthropic's foreign workforce poses security risks &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM?oc=5"
+    },
+    {
       "headline": "Anthropic turns the tables on OpenAI in critical revenue category - Axios",
       "source": "Axios",
       "timestamp": "2026-03-19T02:39:37.000Z",
       "impact": "LOW",
       "category": "market",
       "summary": "Anthropic turns the tables on OpenAI in critical revenue category &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5"
-    },
-    {
-      "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-18T23:42:46.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5"
-    },
-    {
-      "headline": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-18T22:55:44.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHoxWWEtRHhLNXJwOUcyY3R3ZDFvYUtXTEllSnpYcldXbmM3WXpIQWgyTkluTmRQOUxZYjM1OGl1QTI1czE4aUt5b2VNZ05tbU82VEdTQnp6U201UFJXSlAxT1YwcjNpTHJCR2pKTkZrZHFBVk5wcEd1TXNpcDdKSWFMZVloTjdPcnlfVEtQWXpSWExtQ1A3VkxPbGRkeTl6SXB4SVNURkk4dlFXbXZCWk04R3hGX29xa1E?oc=5"
-    },
-    {
-      "headline": "Inside Meta, a Rogue AI Agent Triggers Security Alert - The Information",
-      "source": "The Information",
-      "timestamp": "2026-03-18T21:31:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Inside Meta, a Rogue AI Agent Triggers Security Alert &nbsp;&nbsp; The Information",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3BBa01JQ29qT2JRZmRjZGtxNDZPSWpmSjNJQV9QRWg5WjRqWUhnTnZlWWViZ0hIbHpvUVlTYWNzN2JoUDhUR3g2QUduVXJvVXhqZHl6Z1VSQ3E2Q3NYUGx2RXMxSG50b0lYU0o1c0ZndTctQ3lCdVE3VkRleXJwMXZVNG1ORlJaZFZlTE9sZVctQmhC?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI is acquiring open source Python tool-maker Astral - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-03-19T18:44:58.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjFRMUppeFczLUV6b3lFcktaYjJ6UjRVVUZYV29oR2pRcXJRc0VhUmxNZlg1b0c0b0U5b0JWRWxtYTFlUmdGbnJoSXlvS0lQdWUwWnRNWVBYMG1LRnc5QTFYc1lYX1N6Zks1MF9Ram9SNWd3LURMbk1kYktYQ3dia05IZU9lMWRwSmhuZV9KQ1pvazk4Njh3?oc=5",
+        "summary": "OpenAI is acquiring open source Python tool-maker Astral &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "A rogue AI led to a serious security incident at Meta - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-03-19T18:20:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXE5OUtCa1hILWJaU1RuMHAxM2MxTlNOQmZ0UzlGRWV0RWFXVnVnT21YYkVZaTBKR0JoQU9sRHBjQkxmd2R6bjBxcWdUSDN5Nkt6d1VIYlBRTTRvYlNTbk9rZ0RtWktIampsOVlYV1BfUHM1TzlBdy1iUXVhLS1ubVpRZzIyemYtS25VVHhlX1B6R2h2OW5HT2dtYTc?oc=5",
+        "summary": "A rogue AI led to a serious security incident at Meta &nbsp;&nbsp; The Verge"
+      },
       {
         "headline": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts - Business Insider",
         "source": "Business Insider",
@@ -149,24 +167,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JT3Q3NWg5RXV5YTZWZGtPTmlOUVZ5SWtVOWJ0Y0REZ016d0tZRFA4WUFzMUd5QS04SW56N1hfR3lkaFFoaEpmQkV2blQzN1kxSmZjRTlFX2djN3VkTTJSWGlrbkJCSVcxb29USmZtRk9RdndiMWQzMmdGSQ?oc=5",
         "summary": "Signal’s Creator Is Helping Encrypt Meta AI &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Microsoft startup credits are the gift that keeps on billing unsuspecting users - theregister.com",
-        "source": "theregister.com",
-        "timestamp": "2026-03-19T12:24:52.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSUw0MVVUYmxlZlZWc2k4Y2dqeUM0S1BoZ05sLXRkUnVzbW5ycFJKSUk3b2JJMHhVVHlIa05QLTFmWVVNU3o5NklUOTZJcDNnZWFCMXE3VTBDVXVhY1RmOXlwQmstT0hwWkRldXJGVXNfUnc?oc=5",
-        "summary": "Microsoft startup credits are the gift that keeps on billing unsuspecting users &nbsp;&nbsp; theregister.com"
-      },
-      {
-        "headline": "Microsoft at NVIDIA GTC: AI Agents, Physical AI and More - Technology Magazine",
-        "source": "Technology Magazine",
-        "timestamp": "2026-03-19T11:02:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQk0za0hYVkpzNHN5Skt5eHBrQUJjTlEzbjdxUTJVc2l5c0NuTnBTd1FQM0x2R0pGNV9Pcko2NnZXQUNzMVBtLUhxSFFBQ3FjTFJIM09SOS1KU0ZPR0Y5T3ZQa244ckgxSjBITXdzZTZ6em9mSFFtNkxGRGxyM2VwYWxzeTJqQTJYMHVUZTdDY19tUVRp?oc=5",
-        "summary": "Microsoft at NVIDIA GTC: AI Agents, Physical AI and More &nbsp;&nbsp; Technology Magazine"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
