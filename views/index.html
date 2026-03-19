@@ -31,6 +31,7 @@
       <button class="view-tab" data-view="news">Global News</button>
       <button class="view-tab" data-view="ai-news">AI News</button>
       <button class="view-tab" data-view="macro">Macro</button>
+      <button class="view-tab" data-view="trades">Trades</button>
     </nav>
 
     <main id="view-mission-control" class="grid">
@@ -205,6 +206,36 @@
           <span class="card-note">Economic events and releases</span>
         </div>
         <div id="macro-calendar"></div>
+      </section>
+    </main>
+
+    <main id="view-trades" class="grid" style="display:none;">
+      <section class="card span-12">
+        <div class="card-head">
+          <h2>Trade Calendar</h2>
+          <span class="card-note">Import Tradovate CSV to track trades and P&L</span>
+        </div>
+        <div class="trade-toolbar">
+          <label class="trade-upload-btn">
+            Import Tradovate CSV
+            <input type="file" id="trade-file-input" accept=".csv" style="display:none;" />
+          </label>
+          <button class="trade-clear-btn" id="trade-clear-btn">Clear Data</button>
+          <div class="trade-nav">
+            <button class="trade-nav-btn" id="trade-prev-month">&larr;</button>
+            <span id="trade-month-label" class="trade-month-label"></span>
+            <button class="trade-nav-btn" id="trade-next-month">&rarr;</button>
+          </div>
+        </div>
+        <div id="trade-summary" class="trade-summary"></div>
+        <div id="trade-calendar" class="trade-calendar"></div>
+      </section>
+      <section class="card span-12" id="trade-detail-section" style="display:none;">
+        <div class="card-head">
+          <h2 id="trade-detail-title">Trade Details</h2>
+          <span class="card-note" id="trade-detail-note"></span>
+        </div>
+        <div id="trade-detail" class="trade-detail"></div>
       </section>
     </main>
   </div>
