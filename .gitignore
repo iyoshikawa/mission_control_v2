@@ -17,6 +17,9 @@ dist/
 build/
 coverage/
 
+# Secrets / env
+.env*
+
 # Logs
 *.log
 
