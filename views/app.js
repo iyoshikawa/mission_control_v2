@@ -396,6 +396,8 @@ function renderCompactPreview(targetId, items = [], config = {}) {
 }
 
 // --- View navigation ---
+let tradeJournalInitialized = false;
+
 function initViewNav() {
   const tabs = document.querySelectorAll('.view-tab');
   const viewIds = Array.from(tabs).map(t => 'view-' + t.dataset.view);
@@ -408,6 +410,12 @@ function initViewNav() {
         const el = document.getElementById(id);
         if (el) el.style.display = id === target ? '' : 'none';
       });
+      if (tab.dataset.view === 'trade-journal' && !tradeJournalInitialized) {
+        tradeJournalInitialized = true;
+        if (typeof TradeJournal !== 'undefined') TradeJournal.init();
+      } else if (tab.dataset.view === 'trade-journal' && typeof TradeJournal !== 'undefined') {
+        TradeJournal.render();
+      }
     });
   });
 }

@@ -31,6 +31,7 @@
       <button class="view-tab" data-view="news">Global News</button>
       <button class="view-tab" data-view="ai-news">AI News</button>
       <button class="view-tab" data-view="macro">Macro</button>
+      <button class="view-tab" data-view="trade-journal">Trade Journal</button>
     </nav>
 
     <main id="view-mission-control" class="grid">
@@ -207,8 +208,12 @@
         <div id="macro-calendar"></div>
       </section>
     </main>
+    <main id="view-trade-journal" class="grid" style="display:none;">
+      <div id="tj-content"></div>
+    </main>
   </div>
 
+  <script src="./trade-journal.js"></script>
   <script src="./app.js"></script>
 </body>
 </html>
