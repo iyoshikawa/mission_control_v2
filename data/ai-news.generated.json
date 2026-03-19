@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-19T06:04:12.502Z",
+    "generatedAt": "2026-03-19T07:50:39.087Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta is killing off the metaverse as it pivots to AI - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-03-19T03:30:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta is killing off the metaverse as it pivots to AI &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HMHg3VEpiX1RVd3JCTVFpVTRSYnVvT3l4Mmlkb2xEczVpUi0yQnJwQjVnZmhlSVJqLW5MeTVPN0ZuRXlheUtwS2R1aHUyTEhVWnZhZUZZVGRIS3lfSnZiMzJPWWlHcUFWYU1EZ2lCeWY?oc=5"
-    },
-    {
       "headline": "OpenAI’s $50B AWS deal puts its Microsoft alliance to the test - Network World",
       "source": "Network World",
       "timestamp": "2026-03-19T00:59:07.000Z",
@@ -30,6 +20,16 @@
       "summary": "OpenAI’s $50B AWS deal puts its Microsoft alliance to the test &nbsp;&nbsp; Network World",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWZWSm1aWXBBMTdaXzN5Z2tzOHN4ODdwc2NqZF9tNm02dWxzWDg0cWN4b0hILXBrWFlFZmo3R0xnSFJPSVVXa1Q1eTlBZXBOZjRUYnZST3RlM2NBU0FpbnEwZUVsV1hGTlVZZlYwS01ZeC1HbUVST0JiR2JFV3FnM01ndTc1eGZoaGpmNzVvREVoMTluZEp6THVKVnp2TGdvRF9qX24zeElQekF5RmhZ?oc=5"
+    },
+    {
+      "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-18T23:42:46.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5"
     },
     {
       "headline": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
@@ -92,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5"
     },
     {
-      "headline": "The Myspace Dilemma Facing ChatGPT - The Atlantic",
-      "source": "The Atlantic",
+      "headline": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. - Vanity Fair",
+      "source": "Vanity Fair",
       "timestamp": "2026-03-18T11:00:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "The Myspace Dilemma Facing ChatGPT &nbsp;&nbsp; The Atlantic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjA2N0tLZExtTE5fZUQtQTR3VmMxQ18zQUNHLU5nMFFOVFVMMkhic2VaWVFBM1JwaU90X2RkQ2R0Q2Zsay02WWVDclpsdFZRUkpENjlkVW53VUlLWGlGa1NmVmpLdzdIcC1TU2dOLWtrbVhDR2kyOXNOUHhQMEhMWkg2NDgtRkNPYUs4OGtuOA?oc=5"
+      "category": "ecosystem",
+      "summary": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. &nbsp;&nbsp; Vanity Fair",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91U1pCZXpJQzV5cnU1YWRIODRNOGk1QkVpeEFWOE5MZ3RwbFhaRjJGUlN5dzBfcmNKdWRqd0xHMURpM1ZOcHBjT1NlN2lGR2xZeWw4RXBJOUhQVFhhbDdWajBXblJCaXMtbTVaVGliSmc?oc=5"
     },
     {
       "headline": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze - CNBC",
@@ -115,15 +115,6 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta is killing off the metaverse as it pivots to AI - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-03-19T03:30:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HMHg3VEpiX1RVd3JCTVFpVTRSYnVvT3l4Mmlkb2xEczVpUi0yQnJwQjVnZmhlSVJqLW5MeTVPN0ZuRXlheUtwS2R1aHUyTEhVWnZhZUZZVGRIS3lfSnZiMzJPWWlHcUFWYU1EZ2lCeWY?oc=5",
-        "summary": "Meta is killing off the metaverse as it pivots to AI &nbsp;&nbsp; qz.com"
-      },
-      {
         "headline": "OpenAI’s $50B AWS deal puts its Microsoft alliance to the test - Network World",
         "source": "Network World",
         "timestamp": "2026-03-19T00:59:07.000Z",
@@ -131,6 +122,15 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWZWSm1aWXBBMTdaXzN5Z2tzOHN4ODdwc2NqZF9tNm02dWxzWDg0cWN4b0hILXBrWFlFZmo3R0xnSFJPSVVXa1Q1eTlBZXBOZjRUYnZST3RlM2NBU0FpbnEwZUVsV1hGTlVZZlYwS01ZeC1HbUVST0JiR2JFV3FnM01ndTc1eGZoaGpmNzVvREVoMTluZEp6THVKVnp2TGdvRF9qX24zeElQekF5RmhZ?oc=5",
         "summary": "OpenAI’s $50B AWS deal puts its Microsoft alliance to the test &nbsp;&nbsp; Network World"
+      },
+      {
+        "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-18T23:42:46.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5",
+        "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
