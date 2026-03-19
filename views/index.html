@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Mission Control</title>
   <link rel="stylesheet" href="./styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 </head>
 <body>
   <div class="app-shell">
@@ -209,34 +210,147 @@
       </section>
     </main>
 
-    <main id="view-trades" class="grid" style="display:none;">
-      <section class="card span-12">
-        <div class="card-head">
-          <h2>Trade Calendar</h2>
-          <span class="card-note">Import Tradovate CSV to track trades and P&L</span>
-        </div>
-        <div class="trade-toolbar">
-          <label class="trade-upload-btn">
-            Import Tradovate CSV
-            <input type="file" id="trade-file-input" accept=".csv" style="display:none;" />
+    <main id="view-trades" style="display:none;">
+      <!-- Top toolbar -->
+      <div class="tj-toolbar">
+        <div class="tj-toolbar-left">
+          <label class="tj-import-btn">
+            Manual Import
+            <input type="file" id="trade-file-input" accept=".csv" multiple style="display:none;" />
           </label>
-          <button class="trade-clear-btn" id="trade-clear-btn">Clear Data</button>
-          <div class="trade-nav">
-            <button class="trade-nav-btn" id="trade-prev-month">&larr;</button>
-            <span id="trade-month-label" class="trade-month-label"></span>
-            <button class="trade-nav-btn" id="trade-next-month">&rarr;</button>
+          <button class="tj-clear-btn" id="trade-clear-btn">Clear Data</button>
+        </div>
+        <div class="tj-toolbar-right">
+          <div class="tj-time-filters" id="tj-time-filters">
+            <button class="tj-filter-btn" data-range="week">Week</button>
+            <button class="tj-filter-btn" data-range="month">Month</button>
+            <button class="tj-filter-btn" data-range="year">Year</button>
+            <button class="tj-filter-btn active" data-range="all">All Time</button>
           </div>
         </div>
-        <div id="trade-summary" class="trade-summary"></div>
-        <div id="trade-calendar" class="trade-calendar"></div>
-      </section>
-      <section class="card span-12" id="trade-detail-section" style="display:none;">
-        <div class="card-head">
-          <h2 id="trade-detail-title">Trade Details</h2>
-          <span class="card-note" id="trade-detail-note"></span>
+      </div>
+
+      <!-- Stat cards row -->
+      <div class="tj-stats-row">
+        <div class="tj-stat-card">
+          <span class="tj-stat-title">PNL</span>
+          <div class="tj-stat-body">
+            <div>
+              <span class="tj-stat-value" id="tj-pnl-value">+$0</span>
+              <span class="tj-stat-sub" id="tj-pnl-sub">0 trades</span>
+            </div>
+          </div>
         </div>
-        <div id="trade-detail" class="trade-detail"></div>
-      </section>
+        <div class="tj-stat-card">
+          <span class="tj-stat-title">Profit Factor</span>
+          <div class="tj-stat-body">
+            <span class="tj-stat-value" id="tj-pf-value">0.00</span>
+            <span class="tj-stat-sub" id="tj-pf-sub">No data</span>
+          </div>
+        </div>
+        <div class="tj-stat-card">
+          <span class="tj-stat-title">Win Rate</span>
+          <div class="tj-stat-body">
+            <span class="tj-stat-value" id="tj-wr-value">0.0%</span>
+            <span class="tj-stat-sub" id="tj-wr-sub">0W - 0L</span>
+          </div>
+        </div>
+        <div class="tj-stat-card">
+          <span class="tj-stat-title">Day Win %</span>
+          <div class="tj-stat-body">
+            <div>
+              <span class="tj-stat-value" id="tj-dw-value">0.0%</span>
+              <span class="tj-stat-sub" id="tj-dw-sub">0W - 0L</span>
+            </div>
+            <div class="tj-winloss-bar" id="tj-winloss-bar"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Charts row -->
+      <div class="tj-charts-row">
+        <div class="tj-chart-card">
+          <span class="tj-chart-title">Trade Score</span>
+          <div class="tj-chart-body tj-radar-body">
+            <canvas id="tj-radar-chart"></canvas>
+          </div>
+          <div class="tj-score-footer" id="tj-score-footer">
+            <span class="tj-score-num">0</span><span class="tj-score-max"> / 100</span>
+            <div class="tj-score-bar"><div class="tj-score-fill" id="tj-score-fill"></div></div>
+          </div>
+        </div>
+        <div class="tj-chart-card">
+          <span class="tj-chart-title">Daily Cumulative PNL</span>
+          <div class="tj-chart-body">
+            <canvas id="tj-cum-pnl-chart"></canvas>
+          </div>
+        </div>
+        <div class="tj-chart-card">
+          <span class="tj-chart-title">Drawdown</span>
+          <div class="tj-chart-body">
+            <canvas id="tj-drawdown-chart"></canvas>
+          </div>
+          <div class="tj-drawdown-footer" id="tj-drawdown-footer">Current: <span class="tj-dd-value">$0.00</span></div>
+        </div>
+        <div class="tj-chart-card">
+          <span class="tj-chart-title">PNL</span>
+          <div class="tj-chart-body">
+            <canvas id="tj-pnl-chart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- Calendar section -->
+      <div class="tj-calendar-section">
+        <div class="tj-cal-header-bar">
+          <h2 class="tj-cal-title">Trade Calendar</h2>
+          <div class="tj-cal-controls">
+            <button class="tj-nav-btn" id="trade-prev-month">&larr;</button>
+            <span id="trade-month-label" class="tj-month-label"></span>
+            <button class="tj-nav-btn" id="trade-next-month">&rarr;</button>
+            <button class="tj-journal-btn" id="tj-journal-btn">Journal Card</button>
+          </div>
+        </div>
+        <div id="trade-calendar" class="tj-cal-grid-wrap"></div>
+      </div>
+
+      <!-- Day detail / journal modal -->
+      <div class="tj-detail-overlay" id="tj-detail-overlay" style="display:none;">
+        <div class="tj-detail-panel">
+          <div class="tj-detail-header">
+            <h2 id="trade-detail-title">Trade Details</h2>
+            <button class="tj-detail-close" id="tj-detail-close">&times;</button>
+          </div>
+          <div class="tj-detail-tabs">
+            <button class="tj-dtab active" data-tab="trades">Trades</button>
+            <button class="tj-dtab" data-tab="journal">Journal</button>
+          </div>
+          <div id="tj-detail-trades" class="tj-detail-content"></div>
+          <div id="tj-detail-journal" class="tj-detail-content" style="display:none;">
+            <div class="tj-journal-form">
+              <label class="tj-journal-label">Notes</label>
+              <textarea id="tj-journal-notes" class="tj-journal-textarea" placeholder="What went well? What could improve?"></textarea>
+              <label class="tj-journal-label">Tags</label>
+              <div class="tj-tag-bar">
+                <button class="tj-tag" data-tag="disciplined">Disciplined</button>
+                <button class="tj-tag" data-tag="revenge">Revenge Trade</button>
+                <button class="tj-tag" data-tag="fomo">FOMO</button>
+                <button class="tj-tag" data-tag="plan">Followed Plan</button>
+                <button class="tj-tag" data-tag="oversize">Oversized</button>
+                <button class="tj-tag" data-tag="early-exit">Early Exit</button>
+                <button class="tj-tag" data-tag="late-entry">Late Entry</button>
+              </div>
+              <label class="tj-journal-label">Screenshots</label>
+              <label class="tj-screenshot-upload">
+                + Add Screenshot
+                <input type="file" id="tj-screenshot-input" accept="image/*" multiple style="display:none;" />
+              </label>
+              <div id="tj-screenshot-gallery" class="tj-screenshot-gallery"></div>
+              <button class="tj-journal-save" id="tj-journal-save">Save Journal</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
   </div>
 

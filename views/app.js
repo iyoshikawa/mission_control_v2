@@ -832,67 +832,27 @@ async function loadDashboard() {
   }
 }
 
-// --- Trade Calendar ---
+// --- Trade Journal Dashboard ---
 const TradeCalendar = (() => {
   const STORAGE_KEY = 'tradovate_trades';
+  const JOURNAL_KEY = 'trade_journal';
   let trades = [];
+  let journals = {};
   let currentMonth = new Date().getMonth();
   let currentYear = new Date().getFullYear();
+  let activeRange = 'all';
+  let selectedDateKey = null;
+  let charts = { radar: null, cumPnl: null, drawdown: null, pnl: null };
 
+  // --- Storage ---
   function loadFromStorage() {
-    try {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored) trades = JSON.parse(stored);
-    } catch { trades = []; }
+    try { trades = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); } catch { trades = []; }
+    try { journals = JSON.parse(localStorage.getItem(JOURNAL_KEY) || '{}'); } catch { journals = {}; }
   }
+  function saveToStorage() { localStorage.setItem(STORAGE_KEY, JSON.stringify(trades)); }
+  function saveJournals() { localStorage.setItem(JOURNAL_KEY, JSON.stringify(journals)); }
 
-  function saveToStorage() {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(trades));
-  }
-
-  function parseTradovateCSV(text) {
-    const lines = text.split(/\r?\n/).filter(l => l.trim());
-    if (lines.length < 2) return [];
-
-    const headerLine = lines[0];
-    const headers = parseCSVRow(headerLine).map(h => h.trim().toLowerCase());
-
-    // Auto-detect column mappings for common Tradovate export formats
-    const colMap = detectColumns(headers);
-    if (!colMap.timestamp) return [];
-
-    const parsed = [];
-    for (let i = 1; i < lines.length; i++) {
-      const cols = parseCSVRow(lines[i]);
-      if (cols.length < headers.length - 2) continue;
-
-      const get = (key) => key != null ? (cols[key] || '').trim() : '';
-
-      const timestamp = get(colMap.timestamp);
-      if (!timestamp) continue;
-
-      const date = parseDate(timestamp);
-      if (!date) continue;
-
-      const trade = {
-        date: date.toISOString(),
-        dateKey: formatDateKey(date),
-        contract: get(colMap.contract) || get(colMap.product) || 'Unknown',
-        action: get(colMap.action) || '',
-        qty: parseFloat(get(colMap.qty)) || 0,
-        price: parseFloat(get(colMap.price)) || 0,
-        pnl: parseFloat(get(colMap.pnl)) || 0,
-        commission: parseFloat(get(colMap.commission)) || 0,
-        fees: parseFloat(get(colMap.fees)) || 0,
-      };
-
-      trade.netPnl = trade.pnl - trade.commission - trade.fees;
-      parsed.push(trade);
-    }
-
-    return parsed;
-  }
-
+  // --- CSV Parsing ---
   function parseCSVRow(line) {
     const result = [];
     let current = '';
@@ -922,7 +882,6 @@ const TradeCalendar = (() => {
       }
       return null;
     };
-
     map.timestamp = find('fill time', 'timestamp', 'date/time', 'datetime', 'time', 'date', 'filltime');
     map.contract = find('contract', 'contractspec', 'symbol', 'instrument');
     map.product = find('product description', 'product', 'productdescription');
@@ -932,27 +891,16 @@ const TradeCalendar = (() => {
     map.pnl = find('net p/l', 'p/l', 'p&l', 'pnl', 'net p&l', 'profit/loss', 'realized p/l', 'bought p/l', 'sold p/l');
     map.commission = find('commission', 'comm');
     map.fees = find('fee', 'fees');
-
     return map;
   }
 
   function parseDate(str) {
     if (!str) return null;
-    // Handle various Tradovate date formats
-    // "MM/DD/YYYY HH:MM:SS", "YYYY-MM-DDTHH:MM:SS", "MM/DD/YYYY", etc.
-    try {
-      const d = new Date(str);
-      if (!isNaN(d.getTime())) return d;
-    } catch { /* fall through */ }
-    // Try MM/DD/YYYY HH:MM:SS AM/PM
+    try { const d = new Date(str); if (!isNaN(d.getTime())) return d; } catch {}
     const parts = str.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})\s*(.*)?/);
     if (parts) {
       const [, m, d, y, time] = parts;
-      const dateStr = `${y}-${m.padStart(2,'0')}-${d.padStart(2,'0')}${time ? 'T' + time.trim() : ''}`;
-      try {
-        const parsed = new Date(dateStr);
-        if (!isNaN(parsed.getTime())) return parsed;
-      } catch { /* fall through */ }
+      try { const p = new Date(`${y}-${m.padStart(2,'0')}-${d.padStart(2,'0')}${time ? 'T' + time.trim() : ''}`); if (!isNaN(p.getTime())) return p; } catch {}
     }
     return null;
   }
@@ -961,107 +909,268 @@ const TradeCalendar = (() => {
     return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;
   }
 
-  function aggregateByDay() {
-    const days = {};
-    for (const t of trades) {
-      if (!days[t.dateKey]) {
-        days[t.dateKey] = { trades: [], totalPnl: 0, totalCommission: 0, totalFees: 0, netPnl: 0 };
+  function parseTradovateCSV(text) {
+    const lines = text.split(/\r?\n/).filter(l => l.trim());
+    if (lines.length < 2) return [];
+    const headers = parseCSVRow(lines[0]).map(h => h.trim().toLowerCase());
+    const colMap = detectColumns(headers);
+    if (!colMap.timestamp) return [];
+    const parsed = [];
+    for (let i = 1; i < lines.length; i++) {
+      const cols = parseCSVRow(lines[i]);
+      if (cols.length < headers.length - 2) continue;
+      const get = (key) => key != null ? (cols[key] || '').trim() : '';
+      const timestamp = get(colMap.timestamp);
+      if (!timestamp) continue;
+      const date = parseDate(timestamp);
+      if (!date) continue;
+      const trade = {
+        date: date.toISOString(), dateKey: formatDateKey(date),
+        contract: get(colMap.contract) || get(colMap.product) || 'Unknown',
+        action: get(colMap.action) || '',
+        qty: parseFloat(get(colMap.qty)) || 0,
+        price: parseFloat(get(colMap.price)) || 0,
+        pnl: parseFloat(get(colMap.pnl)) || 0,
+        commission: parseFloat(get(colMap.commission)) || 0,
+        fees: parseFloat(get(colMap.fees)) || 0,
+      };
+      trade.netPnl = trade.pnl - trade.commission - trade.fees;
+      parsed.push(trade);
+    }
+    return parsed;
+  }
+
+  // --- Data helpers ---
+  function getFilteredTrades() {
+    const now = new Date();
+    return trades.filter(t => {
+      const d = new Date(t.date);
+      if (activeRange === 'week') {
+        const weekAgo = new Date(now); weekAgo.setDate(weekAgo.getDate() - 7);
+        return d >= weekAgo;
       }
+      if (activeRange === 'month') return d.getMonth() === now.getMonth() && d.getFullYear() === now.getFullYear();
+      if (activeRange === 'year') return d.getFullYear() === now.getFullYear();
+      return true;
+    });
+  }
+
+  function aggregateByDay(tradeList) {
+    const days = {};
+    for (const t of (tradeList || trades)) {
+      if (!days[t.dateKey]) days[t.dateKey] = { trades: [], totalPnl: 0, totalCommission: 0, totalFees: 0, netPnl: 0 };
       const d = days[t.dateKey];
-      d.trades.push(t);
-      d.totalPnl += t.pnl;
-      d.totalCommission += t.commission;
-      d.totalFees += t.fees;
-      d.netPnl += t.netPnl;
+      d.trades.push(t); d.totalPnl += t.pnl; d.totalCommission += t.commission; d.totalFees += t.fees; d.netPnl += t.netPnl;
     }
     return days;
   }
 
-  function getMonthStats() {
-    const days = aggregateByDay();
-    const monthDays = Object.entries(days).filter(([key]) => {
-      const [y, m] = key.split('-').map(Number);
-      return y === currentYear && m === currentMonth + 1;
-    });
-
-    let totalPnl = 0, winDays = 0, lossDays = 0, totalTrades = 0;
-    let grossWins = 0, grossLosses = 0;
-
-    for (const [, day] of monthDays) {
-      totalPnl += day.netPnl;
-      totalTrades += day.trades.length;
+  function computeStats(tradeList) {
+    const days = aggregateByDay(tradeList);
+    const dayEntries = Object.values(days);
+    let totalPnl = 0, winDays = 0, lossDays = 0, totalTrades = 0, grossWins = 0, grossLosses = 0;
+    let winTrades = 0, lossTrades = 0;
+    for (const day of dayEntries) {
+      totalPnl += day.netPnl; totalTrades += day.trades.length;
       if (day.netPnl > 0) { winDays++; grossWins += day.netPnl; }
-      else if (day.netPnl < 0) { lossDays++; grossLosses += day.netPnl; }
+      else if (day.netPnl < 0) { lossDays++; grossLosses += Math.abs(day.netPnl); }
+      for (const t of day.trades) { if (t.netPnl > 0) winTrades++; else if (t.netPnl < 0) lossTrades++; }
     }
-
     const tradingDays = winDays + lossDays;
+    const totalDecided = winTrades + lossTrades;
     return {
-      totalPnl,
-      winDays,
-      lossDays,
-      tradingDays,
-      totalTrades,
-      winRate: tradingDays ? ((winDays / tradingDays) * 100).toFixed(1) : '0.0',
-      avgWin: winDays ? grossWins / winDays : 0,
-      avgLoss: lossDays ? grossLosses / lossDays : 0,
-      profitFactor: grossLosses !== 0 ? Math.abs(grossWins / grossLosses) : grossWins > 0 ? Infinity : 0,
+      totalPnl, winDays, lossDays, tradingDays, totalTrades, grossWins, grossLosses,
+      winTrades, lossTrades,
+      winRate: totalDecided ? (winTrades / totalDecided * 100) : 0,
+      dayWinRate: tradingDays ? (winDays / tradingDays * 100) : 0,
+      profitFactor: grossLosses > 0 ? grossWins / grossLosses : (grossWins > 0 ? Infinity : 0),
+      days,
     };
   }
 
   function formatCurrency(val) {
-    const sign = val >= 0 ? '+' : '';
+    const sign = val >= 0 ? '+' : '-';
     return sign + '$' + Math.abs(val).toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
   }
 
-  function renderSummary() {
-    const el = document.getElementById('trade-summary');
-    if (!trades.length) {
-      el.innerHTML = emptyState('No trades imported. Upload a Tradovate CSV to get started.');
-      return;
-    }
+  function formatShortCurrency(val) {
+    const sign = val >= 0 ? '+' : '-';
+    const abs = Math.abs(val);
+    if (abs >= 1000) return sign + '$' + (abs / 1000).toFixed(1) + 'k';
+    return sign + '$' + abs.toFixed(0);
+  }
 
-    const stats = getMonthStats();
-    const pnlClass = stats.totalPnl >= 0 ? 'good' : 'issue';
+  // --- Stat Cards ---
+  function renderStatCards() {
+    const filtered = getFilteredTrades();
+    const stats = computeStats(filtered);
+    const pnlClass = stats.totalPnl >= 0 ? 'tj-positive' : 'tj-negative';
+
+    document.getElementById('tj-pnl-value').textContent = formatCurrency(stats.totalPnl);
+    document.getElementById('tj-pnl-value').className = `tj-stat-value ${pnlClass}`;
+    document.getElementById('tj-pnl-sub').textContent = `${stats.totalTrades} trades`;
+
     const pf = stats.profitFactor === Infinity ? '\u221E' : stats.profitFactor.toFixed(2);
+    document.getElementById('tj-pf-value').textContent = pf;
+    document.getElementById('tj-pf-sub').textContent = stats.totalTrades ? `${stats.grossWins.toFixed(0)} / ${stats.grossLosses.toFixed(0)}` : 'No data';
 
-    el.innerHTML = `
-      <div class="trade-stats-grid">
-        <div class="trade-stat">
-          <span class="trade-stat-label">Month P&L</span>
-          <span class="trade-stat-value ${pnlClass}">${formatCurrency(stats.totalPnl)}</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Trading Days</span>
-          <span class="trade-stat-value">${stats.tradingDays}</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Win Rate</span>
-          <span class="trade-stat-value">${escapeHtml(stats.winRate)}%</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Total Trades</span>
-          <span class="trade-stat-value">${stats.totalTrades}</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Avg Win Day</span>
-          <span class="trade-stat-value good">${formatCurrency(stats.avgWin)}</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Avg Loss Day</span>
-          <span class="trade-stat-value issue">${formatCurrency(stats.avgLoss)}</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Profit Factor</span>
-          <span class="trade-stat-value">${escapeHtml(pf)}</span>
-        </div>
-        <div class="trade-stat">
-          <span class="trade-stat-label">Win/Loss</span>
-          <span class="trade-stat-value"><span class="good">${stats.winDays}W</span> / <span class="issue">${stats.lossDays}L</span></span>
-        </div>
+    document.getElementById('tj-wr-value').textContent = stats.winRate.toFixed(1) + '%';
+    document.getElementById('tj-wr-sub').textContent = `${stats.winTrades}W - ${stats.lossTrades}L`;
+
+    document.getElementById('tj-dw-value').textContent = stats.dayWinRate.toFixed(1) + '%';
+    document.getElementById('tj-dw-sub').textContent = `${stats.winDays}W - ${stats.lossDays}L`;
+
+    // Win/loss bar
+    const total = stats.winDays + stats.lossDays;
+    const winPct = total ? (stats.winDays / total * 100) : 50;
+    document.getElementById('tj-winloss-bar').innerHTML = `
+      <div class="tj-wl-track">
+        <div class="tj-wl-win" style="width:${winPct}%"></div>
+        <div class="tj-wl-loss" style="width:${100 - winPct}%"></div>
       </div>
+      <div class="tj-wl-labels"><span class="tj-positive">${stats.winDays} win</span><span class="tj-negative">${stats.lossDays} loss</span></div>
     `;
   }
 
+  // --- Charts ---
+  function chartDefaults() {
+    return {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#7c8597', font: { size: 10 } } },
+        y: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#7c8597', font: { size: 10 } } },
+      }
+    };
+  }
+
+  function renderCharts() {
+    const filtered = getFilteredTrades();
+    const stats = computeStats(filtered);
+    const dayKeys = Object.keys(stats.days).sort();
+
+    renderRadarChart(stats);
+    renderCumPnlChart(dayKeys, stats.days);
+    renderDrawdownChart(dayKeys, stats.days);
+    renderPnlChart(dayKeys, stats.days);
+  }
+
+  function renderRadarChart(stats) {
+    const ctx = document.getElementById('tj-radar-chart');
+    if (charts.radar) charts.radar.destroy();
+
+    // Normalize values to 0-100 scale
+    const winPct = Math.min(stats.winRate, 100);
+    const wlRatio = stats.lossTrades > 0 ? stats.winTrades / stats.lossTrades : stats.winTrades > 0 ? 3 : 0;
+    const wlScore = Math.min(wlRatio / 3 * 100, 100);
+    const pfScore = Math.min((stats.profitFactor === Infinity ? 3 : stats.profitFactor) / 3 * 100, 100);
+
+    const overallScore = Math.round((winPct + wlScore + pfScore) / 3);
+    document.querySelector('.tj-score-num').textContent = overallScore;
+    document.getElementById('tj-score-fill').style.width = overallScore + '%';
+
+    charts.radar = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: ['Win %', 'Win/Loss', 'Profit Factor'],
+        datasets: [{
+          data: [winPct, wlScore, pfScore],
+          backgroundColor: 'rgba(79, 209, 139, 0.15)',
+          borderColor: 'rgba(79, 209, 139, 0.6)',
+          pointBackgroundColor: 'rgba(79, 209, 139, 0.8)',
+          borderWidth: 2, pointRadius: 3,
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: { legend: { display: false } },
+        scales: {
+          r: {
+            beginAtZero: true, max: 100,
+            grid: { color: 'rgba(255,255,255,0.08)' },
+            angleLines: { color: 'rgba(255,255,255,0.08)' },
+            pointLabels: { color: '#a3adb8', font: { size: 11 } },
+            ticks: { display: false },
+          }
+        }
+      }
+    });
+  }
+
+  function renderCumPnlChart(dayKeys, days) {
+    const ctx = document.getElementById('tj-cum-pnl-chart');
+    if (charts.cumPnl) charts.cumPnl.destroy();
+    let cum = 0;
+    const data = dayKeys.map(k => { cum += days[k].netPnl; return cum; });
+    const labels = dayKeys.map(k => { const d = new Date(k + 'T12:00:00'); return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); });
+
+    charts.cumPnl = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [{
+          data, fill: true,
+          borderColor: cum >= 0 ? '#4fd18b' : '#d86d6d',
+          backgroundColor: cum >= 0 ? 'rgba(79,209,139,0.08)' : 'rgba(216,109,109,0.08)',
+          borderWidth: 2, tension: 0.3, pointRadius: 0,
+        }]
+      },
+      options: { ...chartDefaults(), plugins: { legend: { display: false } } }
+    });
+  }
+
+  function renderDrawdownChart(dayKeys, days) {
+    const ctx = document.getElementById('tj-drawdown-chart');
+    if (charts.drawdown) charts.drawdown.destroy();
+    let cum = 0, peak = 0;
+    const data = dayKeys.map(k => {
+      cum += days[k].netPnl;
+      if (cum > peak) peak = cum;
+      return cum - peak;
+    });
+    const labels = dayKeys.map(k => { const d = new Date(k + 'T12:00:00'); return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); });
+    const currentDD = data.length ? data[data.length - 1] : 0;
+
+    document.getElementById('tj-drawdown-footer').innerHTML = `Current: <span class="tj-dd-value ${currentDD < 0 ? 'tj-negative' : ''}">${formatCurrency(currentDD)}</span>`;
+
+    charts.drawdown = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [{
+          data, fill: true,
+          borderColor: '#d86d6d', backgroundColor: 'rgba(216,109,109,0.1)',
+          borderWidth: 2, tension: 0.3, pointRadius: 0,
+        }]
+      },
+      options: { ...chartDefaults(), plugins: { legend: { display: false } } }
+    });
+  }
+
+  function renderPnlChart(dayKeys, days) {
+    const ctx = document.getElementById('tj-pnl-chart');
+    if (charts.pnl) charts.pnl.destroy();
+    const data = dayKeys.map(k => days[k].netPnl);
+    const colors = data.map(v => v >= 0 ? '#4fd18b' : '#d86d6d');
+    const labels = dayKeys.map(k => { const d = new Date(k + 'T12:00:00'); return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); });
+
+    charts.pnl = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [{ data, backgroundColor: colors, borderRadius: 3, barPercentage: 0.7 }]
+      },
+      options: {
+        ...chartDefaults(),
+        plugins: {
+          legend: { display: false },
+          annotation: { annotations: { zero: { type: 'line', yMin: 0, yMax: 0, borderColor: 'rgba(255,255,255,0.15)', borderDash: [4,4] } } }
+        }
+      }
+    });
+  }
+
+  // --- Calendar ---
   function renderCalendar() {
     const el = document.getElementById('trade-calendar');
     const label = document.getElementById('trade-month-label');
@@ -1072,73 +1181,105 @@ const TradeCalendar = (() => {
     const firstDay = new Date(currentYear, currentMonth, 1).getDay();
     const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
 
-    let html = '<div class="cal-grid">';
-    html += ['Sun','Mon','Tue','Wed','Thu','Fri','Sat']
-      .map(d => `<div class="cal-header">${d}</div>`).join('');
-
-    // Empty cells before first day
-    for (let i = 0; i < firstDay; i++) {
-      html += '<div class="cal-cell cal-empty"></div>';
-    }
-
+    // Build weeks for weekly summary
+    const weeks = [];
+    let weekDays = [];
+    for (let i = 0; i < firstDay; i++) weekDays.push(null);
     for (let d = 1; d <= daysInMonth; d++) {
-      const key = formatDateKey(new Date(currentYear, currentMonth, d));
-      const dayData = days[key];
-      let cellClass = 'cal-cell';
-      let content = `<span class="cal-day">${d}</span>`;
+      weekDays.push(d);
+      if (weekDays.length === 7) { weeks.push(weekDays); weekDays = []; }
+    }
+    if (weekDays.length) { while (weekDays.length < 7) weekDays.push(null); weeks.push(weekDays); }
 
-      if (dayData) {
-        const pnl = dayData.netPnl;
-        cellClass += pnl > 0 ? ' cal-win' : pnl < 0 ? ' cal-loss' : ' cal-flat';
-        content += `<span class="cal-pnl ${pnl >= 0 ? 'cal-pnl-pos' : 'cal-pnl-neg'}">${formatCurrency(pnl)}</span>`;
-        content += `<span class="cal-trades">${dayData.trades.length} trade${dayData.trades.length !== 1 ? 's' : ''}</span>`;
+    let html = '<div class="tj-cal-grid">';
+    // Header row with Weekly
+    html += ['Sun','Mon','Tue','Wed','Thu','Fri','Sat','Weekly']
+      .map(d => `<div class="tj-cal-hdr">${d}</div>`).join('');
+
+    for (const week of weeks) {
+      let weekPnl = 0;
+      let hasTradesInWeek = false;
+      for (const d of week) {
+        if (d == null) {
+          html += '<div class="tj-cal-cell tj-cal-empty"></div>';
+          continue;
+        }
+        const key = formatDateKey(new Date(currentYear, currentMonth, d));
+        const dayData = days[key];
+        const journal = journals[key];
+        let cls = 'tj-cal-cell';
+        let inner = `<span class="tj-cal-day">${d}</span>`;
+
+        if (dayData) {
+          const pnl = dayData.netPnl;
+          weekPnl += pnl;
+          hasTradesInWeek = true;
+          cls += pnl > 0 ? ' tj-cal-win' : pnl < 0 ? ' tj-cal-loss' : ' tj-cal-flat';
+          inner += `<span class="tj-cal-pnl ${pnl >= 0 ? 'tj-positive' : 'tj-negative'}">${formatShortCurrency(pnl)}</span>`;
+          inner += `<span class="tj-cal-count">${dayData.trades.length} trade${dayData.trades.length !== 1 ? 's' : ''}</span>`;
+        }
+        if (journal) {
+          inner += '<span class="tj-cal-journal-dot"></span>';
+        }
+        html += `<div class="${cls}" data-date="${escapeHtml(key)}">${inner}</div>`;
       }
-
-      html += `<div class="${cellClass}" data-date="${escapeHtml(key)}">${content}</div>`;
+      // Weekly summary cell
+      const wpClass = weekPnl >= 0 ? 'tj-positive' : 'tj-negative';
+      html += `<div class="tj-cal-cell tj-cal-weekly">${hasTradesInWeek ? `<span class="${wpClass}">${formatShortCurrency(weekPnl)}</span>` : ''}</div>`;
     }
 
     html += '</div>';
     el.innerHTML = html;
 
-    // Click handlers
-    el.querySelectorAll('.cal-cell[data-date]').forEach(cell => {
-      cell.addEventListener('click', () => {
-        const dateKey = cell.dataset.date;
-        renderDayDetail(dateKey, days[dateKey]);
-      });
+    el.querySelectorAll('.tj-cal-cell[data-date]').forEach(cell => {
+      cell.addEventListener('click', () => openDayDetail(cell.dataset.date));
     });
   }
 
-  function renderDayDetail(dateKey, dayData) {
-    const section = document.getElementById('trade-detail-section');
-    const titleEl = document.getElementById('trade-detail-title');
-    const noteEl = document.getElementById('trade-detail-note');
-    const el = document.getElementById('trade-detail');
+  // --- Day detail / Journal overlay ---
+  function openDayDetail(dateKey) {
+    selectedDateKey = dateKey;
+    const overlay = document.getElementById('tj-detail-overlay');
+    overlay.style.display = 'flex';
+
+    const date = new Date(dateKey + 'T12:00:00');
+    document.getElementById('trade-detail-title').textContent =
+      date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+
+    // Show trades tab by default
+    switchDetailTab('trades');
+    renderTradesTab(dateKey);
+    loadJournalForDay(dateKey);
+  }
+
+  function closeDetail() {
+    document.getElementById('tj-detail-overlay').style.display = 'none';
+    selectedDateKey = null;
+  }
+
+  function switchDetailTab(tab) {
+    document.querySelectorAll('.tj-dtab').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
+    document.getElementById('tj-detail-trades').style.display = tab === 'trades' ? '' : 'none';
+    document.getElementById('tj-detail-journal').style.display = tab === 'journal' ? '' : 'none';
+  }
+
+  function renderTradesTab(dateKey) {
+    const el = document.getElementById('tj-detail-trades');
+    const days = aggregateByDay();
+    const dayData = days[dateKey];
 
     if (!dayData || !dayData.trades.length) {
-      section.style.display = 'none';
+      el.innerHTML = '<div class="empty-state">No trades on this day.</div>';
       return;
     }
 
-    section.style.display = '';
-    const date = new Date(dateKey + 'T12:00:00');
-    titleEl.textContent = date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
-    const pnlClass = dayData.netPnl >= 0 ? 'good' : 'issue';
-    noteEl.innerHTML = `Day P&L: <span class="snapshot-value ${pnlClass}" style="font-size:1rem;">${formatCurrency(dayData.netPnl)}</span>`;
-
-    // Group trades by contract
-    const byContract = {};
-    for (const t of dayData.trades) {
-      if (!byContract[t.contract]) byContract[t.contract] = [];
-      byContract[t.contract].push(t);
-    }
-
+    const pnlClass = dayData.netPnl >= 0 ? 'tj-positive' : 'tj-negative';
     el.innerHTML = `
-      <div class="trade-day-summary">
+      <div class="tj-day-summary">
         <span>Gross P&L: ${formatCurrency(dayData.totalPnl)}</span>
-        <span>Commissions: -$${dayData.totalCommission.toFixed(2)}</span>
+        <span>Commission: -$${dayData.totalCommission.toFixed(2)}</span>
         <span>Fees: -$${dayData.totalFees.toFixed(2)}</span>
-        <span>Net P&L: <strong class="${pnlClass}">${formatCurrency(dayData.netPnl)}</strong></span>
+        <span>Net: <strong class="${pnlClass}">${formatCurrency(dayData.netPnl)}</strong></span>
       </div>
       <div class="trade-table">
         <div class="trade-table-header">
@@ -1150,89 +1291,181 @@ const TradeCalendar = (() => {
           <span class="trade-col-pnl">P&L</span>
           <span class="trade-col-net">Net</span>
         </div>
-        ${dayData.trades
-          .sort((a, b) => new Date(a.date) - new Date(b.date))
-          .map(t => {
-            const time = new Date(t.date).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', second: '2-digit' });
-            const actionClass = (t.action || '').toLowerCase().startsWith('b') ? 'trade-buy' : 'trade-sell';
-            const actionLabel = (t.action || '').toLowerCase().startsWith('b') ? 'BUY' : 'SELL';
-            const pnlCls = t.netPnl >= 0 ? 'cal-pnl-pos' : 'cal-pnl-neg';
-            return `
-              <div class="trade-table-row">
-                <span class="trade-col-time">${escapeHtml(time)}</span>
-                <span class="trade-col-contract">${escapeHtml(t.contract)}</span>
-                <span class="trade-col-action ${actionClass}">${actionLabel}</span>
-                <span class="trade-col-qty">${t.qty}</span>
-                <span class="trade-col-price">${t.price.toFixed(2)}</span>
-                <span class="trade-col-pnl ${pnlCls}">${formatCurrency(t.pnl)}</span>
-                <span class="trade-col-net ${pnlCls}">${formatCurrency(t.netPnl)}</span>
-              </div>`;
-          }).join('')}
-      </div>
-    `;
-
-    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        ${dayData.trades.sort((a, b) => new Date(a.date) - new Date(b.date)).map(t => {
+          const time = new Date(t.date).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', second: '2-digit' });
+          const isBuy = (t.action || '').toLowerCase().startsWith('b');
+          return `
+            <div class="trade-table-row">
+              <span class="trade-col-time">${escapeHtml(time)}</span>
+              <span class="trade-col-contract">${escapeHtml(t.contract)}</span>
+              <span class="trade-col-action ${isBuy ? 'trade-buy' : 'trade-sell'}">${isBuy ? 'BUY' : 'SELL'}</span>
+              <span class="trade-col-qty">${t.qty}</span>
+              <span class="trade-col-price">${t.price.toFixed(2)}</span>
+              <span class="trade-col-pnl ${t.pnl >= 0 ? 'tj-positive' : 'tj-negative'}">${formatCurrency(t.pnl)}</span>
+              <span class="trade-col-net ${t.netPnl >= 0 ? 'tj-positive' : 'tj-negative'}">${formatCurrency(t.netPnl)}</span>
+            </div>`;
+        }).join('')}
+      </div>`;
   }
 
-  function handleFileUpload(e) {
-    const file = e.target.files[0];
-    if (!file) return;
+  function loadJournalForDay(dateKey) {
+    const journal = journals[dateKey] || { notes: '', tags: [], screenshots: [] };
+    document.getElementById('tj-journal-notes').value = journal.notes;
 
-    const reader = new FileReader();
-    reader.onload = (ev) => {
-      const newTrades = parseTradovateCSV(ev.target.result);
-      if (!newTrades.length) {
-        alert('No trades found in CSV. Check that the file is a Tradovate export.');
-        return;
-      }
-      trades = trades.concat(newTrades);
-      saveToStorage();
+    document.querySelectorAll('.tj-tag').forEach(btn => {
+      btn.classList.toggle('active', journal.tags.includes(btn.dataset.tag));
+    });
 
-      // Navigate to the month of the first imported trade
-      const firstDate = new Date(newTrades[0].date);
-      currentMonth = firstDate.getMonth();
-      currentYear = firstDate.getFullYear();
+    renderScreenshots(journal.screenshots || []);
+  }
 
-      renderSummary();
-      renderCalendar();
-    };
-    reader.readAsText(file);
+  function renderScreenshots(screenshots) {
+    const gallery = document.getElementById('tj-screenshot-gallery');
+    if (!screenshots.length) { gallery.innerHTML = ''; return; }
+    gallery.innerHTML = screenshots.map((src, i) => `
+      <div class="tj-ss-item">
+        <img src="${escapeHtml(src)}" class="tj-ss-img" />
+        <button class="tj-ss-remove" data-idx="${i}">&times;</button>
+      </div>
+    `).join('');
+    gallery.querySelectorAll('.tj-ss-remove').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const idx = parseInt(btn.dataset.idx);
+        const journal = journals[selectedDateKey] || { notes: '', tags: [], screenshots: [] };
+        journal.screenshots.splice(idx, 1);
+        journals[selectedDateKey] = journal;
+        saveJournals();
+        renderScreenshots(journal.screenshots);
+      });
+    });
+  }
+
+  function saveJournal() {
+    if (!selectedDateKey) return;
+    const notes = document.getElementById('tj-journal-notes').value;
+    const tags = [];
+    document.querySelectorAll('.tj-tag.active').forEach(b => tags.push(b.dataset.tag));
+    const existing = journals[selectedDateKey] || {};
+    journals[selectedDateKey] = { notes, tags, screenshots: existing.screenshots || [] };
+    saveJournals();
+    renderCalendar();
+  }
+
+  function handleScreenshotUpload(e) {
+    const files = Array.from(e.target.files);
+    if (!files.length || !selectedDateKey) return;
+    const journal = journals[selectedDateKey] || { notes: '', tags: [], screenshots: [] };
+
+    let loaded = 0;
+    files.forEach(file => {
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        journal.screenshots.push(ev.target.result);
+        loaded++;
+        if (loaded === files.length) {
+          journals[selectedDateKey] = journal;
+          saveJournals();
+          renderScreenshots(journal.screenshots);
+        }
+      };
+      reader.readAsDataURL(file);
+    });
     e.target.value = '';
   }
 
+  // --- File Upload ---
+  function handleFileUpload(e) {
+    const files = Array.from(e.target.files);
+    if (!files.length) return;
+    let totalNew = 0;
+    let loaded = 0;
+    files.forEach(file => {
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        const newTrades = parseTradovateCSV(ev.target.result);
+        totalNew += newTrades.length;
+        trades = trades.concat(newTrades);
+        loaded++;
+        if (loaded === files.length) {
+          if (!totalNew) { alert('No trades found. Check CSV format.'); return; }
+          saveToStorage();
+          const firstDate = new Date(trades[trades.length - 1].date);
+          currentMonth = firstDate.getMonth();
+          currentYear = firstDate.getFullYear();
+          renderAll();
+        }
+      };
+      reader.readAsText(file);
+    });
+    e.target.value = '';
+  }
+
+  // --- Render all ---
+  function renderAll() {
+    renderStatCards();
+    renderCharts();
+    renderCalendar();
+  }
+
+  // --- Init ---
   function init() {
     loadFromStorage();
 
     document.getElementById('trade-file-input').addEventListener('change', handleFileUpload);
-
     document.getElementById('trade-clear-btn').addEventListener('click', () => {
-      if (!trades.length || confirm('Clear all trade data?')) {
-        trades = [];
-        localStorage.removeItem(STORAGE_KEY);
-        document.getElementById('trade-detail-section').style.display = 'none';
-        renderSummary();
-        renderCalendar();
+      if (!trades.length || confirm('Clear all trade data and journals?')) {
+        trades = []; journals = {};
+        localStorage.removeItem(STORAGE_KEY); localStorage.removeItem(JOURNAL_KEY);
+        closeDetail(); renderAll();
       }
     });
 
+    // Time filters
+    document.querySelectorAll('.tj-filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.tj-filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeRange = btn.dataset.range;
+        renderStatCards(); renderCharts();
+      });
+    });
+
+    // Month nav
     document.getElementById('trade-prev-month').addEventListener('click', () => {
-      currentMonth--;
-      if (currentMonth < 0) { currentMonth = 11; currentYear--; }
-      renderSummary();
+      currentMonth--; if (currentMonth < 0) { currentMonth = 11; currentYear--; }
       renderCalendar();
-      document.getElementById('trade-detail-section').style.display = 'none';
     });
-
     document.getElementById('trade-next-month').addEventListener('click', () => {
-      currentMonth++;
-      if (currentMonth > 11) { currentMonth = 0; currentYear++; }
-      renderSummary();
+      currentMonth++; if (currentMonth > 11) { currentMonth = 0; currentYear++; }
       renderCalendar();
-      document.getElementById('trade-detail-section').style.display = 'none';
     });
 
-    renderSummary();
-    renderCalendar();
+    // Detail overlay
+    document.getElementById('tj-detail-close').addEventListener('click', closeDetail);
+    document.getElementById('tj-detail-overlay').addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeDetail();
+    });
+
+    // Detail tabs
+    document.querySelectorAll('.tj-dtab').forEach(btn => {
+      btn.addEventListener('click', () => switchDetailTab(btn.dataset.tab));
+    });
+
+    // Journal
+    document.querySelectorAll('.tj-tag').forEach(btn => {
+      btn.addEventListener('click', () => btn.classList.toggle('active'));
+    });
+    document.getElementById('tj-journal-save').addEventListener('click', saveJournal);
+    document.getElementById('tj-screenshot-input').addEventListener('change', handleScreenshotUpload);
+
+    // Journal card button opens journal for today
+    document.getElementById('tj-journal-btn').addEventListener('click', () => {
+      const today = formatDateKey(new Date());
+      openDayDetail(today);
+      switchDetailTab('journal');
+    });
+
+    renderAll();
   }
 
   return { init };
