@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-18T23:34:50.829Z",
+    "generatedAt": "2026-03-19T02:41:23.022Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "BMG Sues Anthropic for Alleged Training of Chatbot With Justin Bieber, Bruno Mars, Rolling Stones Lyrics - Rolling Stone",
-      "source": "Rolling Stone",
-      "timestamp": "2026-03-18T23:08:39.000Z",
+      "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-18T23:42:46.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "BMG Sues Anthropic for Alleged Training of Chatbot With Justin Bieber, Bruno Mars, Rolling Stones Lyrics &nbsp;&nbsp; Rolling Stone",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpydXFLSkdGMVB1YnhCSG1OX05TOEZzQzcyRWdaU3hOVldKTkgtX0ZMcWJ0TWxudWJadWtTWTZkc1JCcXdqN1pkZXdQUUJiOXRaak9CUUs2QjFUblJzT3d5eTZyYUZCVlNMUER0VUh1dTdNRk9CeFBtbEtjc0N5MUdEbmpTRmk0a0RuMzl5cGQzdl81N1l0Y2o4M1BKcno0anRjWm1sMzBQTHZkM0d5ZUpraGY?oc=5"
+      "category": "models",
+      "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5"
     },
     {
       "headline": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
@@ -32,14 +32,14 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHoxWWEtRHhLNXJwOUcyY3R3ZDFvYUtXTEllSnpYcldXbmM3WXpIQWgyTkluTmRQOUxZYjM1OGl1QTI1czE4aUt5b2VNZ05tbU82VEdTQnp6U201UFJXSlAxT1YwcjNpTHJCR2pKTkZrZHFBVk5wcEd1TXNpcDdKSWFMZVloTjdPcnlfVEtQWXpSWExtQ1A3VkxPbGRkeTl6SXB4SVNURkk4dlFXbXZCWk04R3hGX29xa1E?oc=5"
     },
     {
-      "headline": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-03-18T16:08:46.000Z",
+      "headline": "How much energy does AI really need? Anthropic official weighs in at CMU Energy Week - TribLIVE.com",
+      "source": "TribLIVE.com",
+      "timestamp": "2026-03-18T21:26:54.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training &nbsp;&nbsp; Yahoo Finance",
+      "summary": "How much energy does AI really need? Anthropic official weighs in at CMU Energy Week &nbsp;&nbsp; TribLIVE.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkw3X3lRQzlZWkVsWktheUY2UTU5M19ZdGZIOGJPYU82aEJwSDFfWUhfUEtMTHdvcDFTcUxBNEthVUdzamh6V3JOaXo3Ym11UElXaHpRYVJLbl95bE5GTEFaUlJ1NU84aXBRUzdsVDdkU1BXSEVyaGo2cWRUdkx3cFdB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlhBaGVicGFGRDg1ZFhjOFZMUHFGZl9rcDFmRE80WjY1RlBXSDMtRzBsdU82ZkJZZndub2pXMGItSmZFYlBYYmFLQ0FUZmRkWDAwR1I1LXFPM2JOQzI4QmVzbGxVMFJEUkFIZ0xxeC1jQXAyZWZVek9aWEtZNU0tWHRseVBUZDg4N1czNmNWQ0Fha1dmcEdBbGdDdUhYdFlVcTRMb3l2anhRdnZSOHdpSl9XNUo?oc=5"
     },
     {
       "headline": "Microsoft Considers Suing to Halt Amazon-OpenAI Cloud Deal - PYMNTS.com",
@@ -62,33 +62,23 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObi1wMWNZSGhKSlplcUd6eEl0NnpuWlR5Q2NJLVg4bWNLX2pYUWFDMHVtb1lFeE9hb3ctVktMUHJ2bE91b1lsM2gwWHA5aDFLOWtOSE95QzV1UXFaYkFlSjZkQ0lmZUdVcklvWTZERmc2eEdKMm44ZGY3ZnV6M1k4amE4dEhZNFkyM3ZNM2lQLW1XSWhZUDRsck45amg3aGFwOUdV?oc=5"
     },
     {
-      "headline": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. - Vanity Fair",
-      "source": "Vanity Fair",
-      "timestamp": "2026-03-18T11:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. &nbsp;&nbsp; Vanity Fair",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91U1pCZXpJQzV5cnU1YWRIODRNOGk1QkVpeEFWOE5MZ3RwbFhaRjJGUlN5dzBfcmNKdWRqd0xHMURpM1ZOcHBjT1NlN2lGR2xZeWw4RXBJOUhQVFhhbDdWajBXblJCaXMtbTVaVGliSmc?oc=5"
-    },
-    {
       "headline": "The Myspace Dilemma Facing ChatGPT - The Atlantic",
       "source": "The Atlantic",
       "timestamp": "2026-03-18T11:00:00.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "The Myspace Dilemma Facing ChatGPT &nbsp;&nbsp; The Atlantic",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjA2N0tLZExtTE5fZUQtQTR3VmMxQ18zQUNHLU5nMFFOVFVMMkhic2VaWVFBM1JwaU90X2RkQ2R0Q2Zsay02WWVDclpsdFZRUkpENjlkVW53VUlLWGlGa1NmVmpLdzdIcC1TU2dOLWtrbVhDR2kyOXNOUHhQMEhMWkg2NDgtRkNPYUs4OGtuOA?oc=5"
     },
     {
       "headline": "Anthropic turns the tables on OpenAI in critical revenue category - Axios",
       "source": "Axios",
-      "timestamp": "2026-03-18T09:01:52.000Z",
+      "timestamp": "2026-03-18T09:47:34.000Z",
       "impact": "LOW",
       "category": "market",
       "summary": "Anthropic turns the tables on OpenAI in critical revenue category &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5"
     },
     {
@@ -110,18 +100,28 @@
       "summary": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports &nbsp;&nbsp; Reuters",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFQ4bDFHenlqSFctZWJoMVFBeG54NGlPeXdpNkNGbHVfLXRiLV9VQ0RjMWozRTZWbDBwemoxN0FoUEtJdVF6WkZidDlZQlc5c05Ba09RN2o2U2taejRSMk9NcGc5enVkZGpZU2cyalBrRjJNMTdmSVpRdF96dXRjTkxLbDhHOFFpalVoYUp0LWJtdGE1bnhvcUhQa2g3TVdFWVlRam8zcE5aNS1MTy1vbUhRV1pXQzlDcWFLLQ?oc=5"
+    },
+    {
+      "headline": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label - CNN",
+      "source": "CNN",
+      "timestamp": "2026-03-18T02:09:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Former judges side with Anthropic and raise concerns about Pentagon’s use of supply chain risk label &nbsp;&nbsp; CNN Trump administration argues Pentagon’s Anthropic ban is justified, lawful &nbsp;&nbsp; The Hill Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15Y2hxV091eDE0c1ZhRms2cnRVZU01YjNVZjJFM1BRcE9PbTVFVUFjNEl4MzRTd1l2YU8wZmwxU3kwUnlrTV96VW1Bei0zbjNiM1BkYjZQeExDdURLdzYtbGZ6ei11VmVNNHZCMGw3VzlQemZncnc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "BMG Sues Anthropic for Alleged Training of Chatbot With Justin Bieber, Bruno Mars, Rolling Stones Lyrics - Rolling Stone",
-        "source": "Rolling Stone",
-        "timestamp": "2026-03-18T23:08:39.000Z",
+        "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-18T23:42:46.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHpydXFLSkdGMVB1YnhCSG1OX05TOEZzQzcyRWdaU3hOVldKTkgtX0ZMcWJ0TWxudWJadWtTWTZkc1JCcXdqN1pkZXdQUUJiOXRaak9CUUs2QjFUblJzT3d5eTZyYUZCVlNMUER0VUh1dTdNRk9CeFBtbEtjc0N5MUdEbmpTRmk0a0RuMzl5cGQzdl81N1l0Y2o4M1BKcno0anRjWm1sMzBQTHZkM0d5ZUpraGY?oc=5",
-        "summary": "BMG Sues Anthropic for Alleged Training of Chatbot With Justin Bieber, Bruno Mars, Rolling Stones Lyrics &nbsp;&nbsp; Rolling Stone"
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5",
+        "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit - Reuters",
@@ -133,13 +133,13 @@
         "summary": "Exclusive: Bridgewater's chief scientist Sekhon to join Google's DeepMind AI unit &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-03-18T16:08:46.000Z",
+        "headline": "How much energy does AI really need? Anthropic official weighs in at CMU Energy Week - TribLIVE.com",
+        "source": "TribLIVE.com",
+        "timestamp": "2026-03-18T21:26:54.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkw3X3lRQzlZWkVsWktheUY2UTU5M19ZdGZIOGJPYU82aEJwSDFfWUhfUEtMTHdvcDFTcUxBNEthVUdzamh6V3JOaXo3Ym11UElXaHpRYVJLbl95bE5GTEFaUlJ1NU84aXBRUzdsVDdkU1BXSEVyaGo2cWRUdkx3cFdB?oc=5",
-        "summary": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training &nbsp;&nbsp; Yahoo Finance"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlhBaGVicGFGRDg1ZFhjOFZMUHFGZl9rcDFmRE80WjY1RlBXSDMtRzBsdU82ZkJZZndub2pXMGItSmZFYlBYYmFLQ0FUZmRkWDAwR1I1LXFPM2JOQzI4QmVzbGxVMFJEUkFIZ0xxeC1jQXAyZWZVek9aWEtZNU0tWHRseVBUZDg4N1czNmNWQ0Fha1dmcEdBbGdDdUhYdFlVcTRMb3l2anhRdnZSOHdpSl9XNUo?oc=5",
+        "summary": "How much energy does AI really need? Anthropic official weighs in at CMU Energy Week &nbsp;&nbsp; TribLIVE.com"
       },
       {
         "headline": "Microsoft Considers Suing to Halt Amazon-OpenAI Cloud Deal - PYMNTS.com",
@@ -160,21 +160,21 @@
         "summary": "Cisco and Microsoft: Co-engineering Security for Cloud and AI Journeys &nbsp;&nbsp; Cisco Blogs"
       },
       {
-        "headline": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. - Vanity Fair",
-        "source": "Vanity Fair",
+        "headline": "The Myspace Dilemma Facing ChatGPT - The Atlantic",
+        "source": "The Atlantic",
         "timestamp": "2026-03-18T11:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91U1pCZXpJQzV5cnU1YWRIODRNOGk1QkVpeEFWOE5MZ3RwbFhaRjJGUlN5dzBfcmNKdWRqd0xHMURpM1ZOcHBjT1NlN2lGR2xZeWw4RXBJOUhQVFhhbDdWajBXblJCaXMtbTVaVGliSmc?oc=5",
-        "summary": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. &nbsp;&nbsp; Vanity Fair"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjA2N0tLZExtTE5fZUQtQTR3VmMxQ18zQUNHLU5nMFFOVFVMMkhic2VaWVFBM1JwaU90X2RkQ2R0Q2Zsay02WWVDclpsdFZRUkpENjlkVW53VUlLWGlGa1NmVmpLdzdIcC1TU2dOLWtrbVhDR2kyOXNOUHhQMEhMWkg2NDgtRkNPYUs4OGtuOA?oc=5",
+        "summary": "The Myspace Dilemma Facing ChatGPT &nbsp;&nbsp; The Atlantic"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
