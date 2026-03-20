@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T15:49:36.154Z",
+    "generatedAt": "2026-03-20T16:52:07.108Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "More! More! More! Tech Workers Max Out Their A.I. Use - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-03-20T15:55:34.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "More! More! More! Tech Workers Max Out Their A.I. Use &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
+    },
+    {
       "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
       "source": "SingularityHub",
       "timestamp": "2026-03-20T14:00:00.000Z",
@@ -20,16 +30,6 @@
       "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5"
-    },
-    {
-      "headline": "xAI Sends Engineers to Client Sites to Win Business from OpenAI - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-03-20T13:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "xAI Sends Engineers to Client Sites to Win Business from OpenAI &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBKUU9iRzZPdnJmYlQydGYtdUJMN01GWERRZFlNTkQ4Xy1KOXFzdDhVZW9WU2NIOUVEQnFHUlRmZGUydmxoNWZSeUU3MklnLWtjb2NQMWZ5RGNsclN6YjU2TkNyS1pEV2EydVU3VW5kaVlGSl9iWkpIWUdyeWtnWjFmYnNsZnE1cjVTbncxY1hOS1l3LXJmU1hMdXdWVGJiZEtCMkVNMkl0S01kSWUzTlNnZ0s?oc=5"
     },
     {
       "headline": "Who's most optimistic about AI — and who isn't, according to Anthropic - CNBC",
@@ -74,7 +74,7 @@
     {
       "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
       "source": "Axios",
-      "timestamp": "2026-03-19T22:02:22.000Z",
+      "timestamp": "2026-03-19T22:40:47.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Scoop: Anthropic meets with House Homeland Security behind closed doors &nbsp;&nbsp; Axios",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "More! More! More! Tech Workers Max Out Their A.I. Use - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-03-20T15:55:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
+        "summary": "More! More! More! Tech Workers Max Out Their A.I. Use &nbsp;&nbsp; The New York Times"
+      },
+      {
         "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
         "source": "SingularityHub",
         "timestamp": "2026-03-20T14:00:00.000Z",
@@ -122,15 +131,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5",
         "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub"
-      },
-      {
-        "headline": "xAI Sends Engineers to Client Sites to Win Business from OpenAI - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-03-20T13:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBKUU9iRzZPdnJmYlQydGYtdUJMN01GWERRZFlNTkQ4Xy1KOXFzdDhVZW9WU2NIOUVEQnFHUlRmZGUydmxoNWZSeUU3MklnLWtjb2NQMWZ5RGNsclN6YjU2TkNyS1pEV2EydVU3VW5kaVlGSl9iWkpIWUdyeWtnWjFmYnNsZnE1cjVTbncxY1hOS1l3LXJmU1hMdXdWVGJiZEtCMkVNMkl0S01kSWUzTlNnZ0s?oc=5",
-        "summary": "xAI Sends Engineers to Client Sites to Win Business from OpenAI &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "Who's most optimistic about AI — and who isn't, according to Anthropic - CNBC",
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
