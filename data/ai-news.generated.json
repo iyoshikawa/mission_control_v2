@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T04:50:46.388Z",
+    "generatedAt": "2026-03-20T05:55:56.567Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "From rising tensions between the Pentagon & Anthropic to Nvidia’s massive GPU deal with Amazon, the AI race is accelerating on all fronts. Micron warns of a prolonged memory shortage, OpenAI moves to unify its ecosystem into a super app, and Google’s St - LinkedIn",
+      "source": "LinkedIn",
+      "timestamp": "2026-03-20T05:51:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "From rising tensions between the Pentagon & Anthropic to Nvidia’s massive GPU deal with Amazon, the AI race is accelerating on all fronts. Micron warns of a prolonged memory shortage, OpenAI moves to unify its ecosystem into a super app, and Google’s St &nbsp;&nbsp; LinkedIn",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjZ6YzhEdDFabERSdmtDNW9CRVVJUVozM255Z1VFcmktOGVLMXI0dlFmSVFRaUZHSHVRUlVyM0pJUGFLdTVkakN5QW9sNHlkYVY1XzliSG41dGJ3Um9tZ0FfWndlRmxnTnA0dWNRcUQ5Mnc1Vm1FV24ySDMxZjVQN0VTN2RabklJRjRCMmRyQjFuMmV0?oc=5"
+    },
     {
       "headline": "OpenAI is planning a desktop ‘superapp’ - The Verge",
       "source": "The Verge",
@@ -40,16 +50,6 @@
       "summary": "A rogue AI led to a serious security incident at Meta &nbsp;&nbsp; The Verge",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXE5OUtCa1hILWJaU1RuMHAxM2MxTlNOQmZ0UzlGRWV0RWFXVnVnT21YYkVZaTBKR0JoQU9sRHBjQkxmd2R6bjBxcWdUSDN5Nkt6d1VIYlBRTTRvYlNTbk9rZ0RtWktIampsOVlYV1BfUHM1TzlBdy1iUXVhLS1ubVpRZzIyemYtS25VVHhlX1B6R2h2OW5HT2dtYTc?oc=5"
-    },
-    {
-      "headline": "Informatica Deepens Microsoft Fabric Integration, Brings IDMC Azure Deployment to Switzerland - HPCwire",
-      "source": "HPCwire",
-      "timestamp": "2026-03-19T17:34:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Informatica Deepens Microsoft Fabric Integration, Brings IDMC Azure Deployment to Switzerland &nbsp;&nbsp; HPCwire",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWExoMUlpYlc4V0xvd2V3UDlTdXppdlBjbTJzUzg5dmVoWFpZc2FLSWlBaEI0Z2hFNGhJanhWVkNDdjdNUmRrUWdZUVpOMVBoekFJMm0xLXpoaFJvRUs3MS1SWUlpeGhMQ1RWTkJEREJzR2NZWjFoQl9qa0RqYzhpaTkwRlVzRFRkVU9JNWl4dDM4TG1kRUtiSlFLamRmM2llVi0zS3gzSFhOV1U5N0F3eUhMc1JBQk5TX29weHQ3b3lQTWN1My11cDVET1puTHVhdkxZZTcxSHRKZw?oc=5"
     },
     {
       "headline": "How we monitor internal coding agents for misalignment - OpenAI",
@@ -88,7 +88,7 @@
       "impact": "LOW",
       "category": "regulation",
       "summary": "OpenAI to buy Python toolmaker Astral to take on Anthropic &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTNzQ1R6MDVNVnR0Y3V0eThTZDJRZXdsVm5VU1lyVmQ1RktIVUU5R3RDSl9OMGozSlVYa3REVDR0d2o2eDNCZ0ttZHVYUHIySHBlOFpBLTdWN2k4dm1MNzMwb09GN2dNenA3eXoza2FKVC1UbmFmMWZjRG4tX2Q1OXhaUW11QzVpRWVSWFM5U2VFMnlKZWNtMkM0UkE?oc=5"
     },
     {
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JT3Q3NWg5RXV5YTZWZGtPTmlOUVZ5SWtVOWJ0Y0REZ016d0tZRFA4WUFzMUd5QS04SW56N1hfR3lkaFFoaEpmQkV2blQzN1kxSmZjRTlFX2djN3VkTTJSWGlrbkJCSVcxb29USmZtRk9RdndiMWQzMmdGSQ?oc=5"
     },
     {
-      "headline": "Meta is having trouble with rogue AI agents - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-18T23:42:46.000Z",
+      "headline": "Delivering more cost-efficient healthcare with Epic on Azure - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-03-19T13:21:43.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Meta is having trouble with rogue AI agents &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3VqSTlFUEFLSzBpY0dQSWhmenJFNXpUYUxOTFlQdFRZbGVobmR4RHB6aVV1QWR2WXBDMy0wU0Rlb203OV9rWVc3WHl3OU41dXV5bnJXMXhPek5xdFh6UjZRQzcwY1phdHBYS1p4MDZtX0w0Um52OF9yajduY0dRX3pUdHg?oc=5"
+      "category": "ecosystem",
+      "summary": "Delivering more cost-efficient healthcare with Epic on Azure &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaXFweGR4djRkNzcxQnp6UEY3UTVWbE9ubWQtWk50SFhGSklTZnduaTg5YlFZaGdMWnNWeVlNZFJDVXpuTC1GYl9SeVF3VVhpQVR5eG0wSEdicDFhYnFwUmVYU2lINVNmU2pzX0NDRjloaUY4OWJ1dldyTkRLb0dNU2xaLUJqalVoeEdpWl83MVNCLUFINWlHU3pnZ1VvQ3lRODVfb1NfYTNfMGFKWXgyLXl5UjFsZ3RCUGFxTXZqSjRRUFZCUEtZX1lZbGJlUjU2ZlFnLUlKeExvaXV0cFBoOXUwTC1UeEN1YmVITGRVNzk?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "From rising tensions between the Pentagon & Anthropic to Nvidia’s massive GPU deal with Amazon, the AI race is accelerating on all fronts. Micron warns of a prolonged memory shortage, OpenAI moves to unify its ecosystem into a super app, and Google’s St - LinkedIn",
+        "source": "LinkedIn",
+        "timestamp": "2026-03-20T05:51:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjZ6YzhEdDFabERSdmtDNW9CRVVJUVozM255Z1VFcmktOGVLMXI0dlFmSVFRaUZHSHVRUlVyM0pJUGFLdTVkakN5QW9sNHlkYVY1XzliSG41dGJ3Um9tZ0FfWndlRmxnTnA0dWNRcUQ5Mnc1Vm1FV24ySDMxZjVQN0VTN2RabklJRjRCMmRyQjFuMmV0?oc=5",
+        "summary": "From rising tensions between the Pentagon & Anthropic to Nvidia’s massive GPU deal with Amazon, the AI race is accelerating on all fronts. Micron warns of a prolonged memory shortage, OpenAI moves to unify its ecosystem into a super app, and Google’s St &nbsp;&nbsp; LinkedIn"
+      },
       {
         "headline": "OpenAI is planning a desktop ‘superapp’ - The Verge",
         "source": "The Verge",
@@ -140,15 +149,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXE5OUtCa1hILWJaU1RuMHAxM2MxTlNOQmZ0UzlGRWV0RWFXVnVnT21YYkVZaTBKR0JoQU9sRHBjQkxmd2R6bjBxcWdUSDN5Nkt6d1VIYlBRTTRvYlNTbk9rZ0RtWktIampsOVlYV1BfUHM1TzlBdy1iUXVhLS1ubVpRZzIyemYtS25VVHhlX1B6R2h2OW5HT2dtYTc?oc=5",
         "summary": "A rogue AI led to a serious security incident at Meta &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Informatica Deepens Microsoft Fabric Integration, Brings IDMC Azure Deployment to Switzerland - HPCwire",
-        "source": "HPCwire",
-        "timestamp": "2026-03-19T17:34:50.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWExoMUlpYlc4V0xvd2V3UDlTdXppdlBjbTJzUzg5dmVoWFpZc2FLSWlBaEI0Z2hFNGhJanhWVkNDdjdNUmRrUWdZUVpOMVBoekFJMm0xLXpoaFJvRUs3MS1SWUlpeGhMQ1RWTkJEREJzR2NZWjFoQl9qa0RqYzhpaTkwRlVzRFRkVU9JNWl4dDM4TG1kRUtiSlFLamRmM2llVi0zS3gzSFhOV1U5N0F3eUhMc1JBQk5TX29weHQ3b3lQTWN1My11cDVET1puTHVhdkxZZTcxSHRKZw?oc=5",
-        "summary": "Informatica Deepens Microsoft Fabric Integration, Brings IDMC Azure Deployment to Switzerland &nbsp;&nbsp; HPCwire"
       },
       {
         "headline": "How we monitor internal coding agents for misalignment - OpenAI",
