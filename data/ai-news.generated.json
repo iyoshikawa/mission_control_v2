@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T16:52:07.108Z",
+    "generatedAt": "2026-03-20T17:38:57.550Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,22 @@
   },
   "newsFeed": [
     {
-      "headline": "More! More! More! Tech Workers Max Out Their A.I. Use - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-03-20T15:55:34.000Z",
+      "headline": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-20T17:18:25.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "More! More! More! Tech Workers Max Out Their A.I. Use &nbsp;&nbsp; The New York Times",
+      "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5"
+    },
+    {
+      "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-03-20T16:51:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
     },
@@ -60,16 +70,6 @@
       "summary": "Microsoft at NVIDIA GTC: New Solutions for Microsoft Foundry, Azure AI Infrastructure and Physical AI &nbsp;&nbsp; HPCwire",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUV1X0V0Skw5clNra1ZOSzQybmRTaHB1MGoyMTZ3MmQtbUpBcFp0N3hkODdMeVNtaDlnWjc5VUQ2R0xDX29sd21uOEhJbjJYT0RMUEc1SFYwcVk4cENUMUNYWnNJTUtlcE40MHpxc3poVnBwX2Rmc1V0ZlMxbUtDYU84YTBkdHF0MDV4bGlPUmJRVERnelB2RzhCYVl2d1U2akJkWFNzYS1xTGxJcWtreXB5WmJXNmhTR2xWVDdvZVlfZWZXZlZJNU5TZ1ZVNTNzc0JF?oc=5"
-    },
-    {
-      "headline": "OpenAI plans desktop 'superapp' to streamline user experience - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-19T22:51:27.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI plans desktop 'superapp' to streamline user experience &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5"
     },
     {
       "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
@@ -115,13 +115,22 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "More! More! More! Tech Workers Max Out Their A.I. Use - The New York Times",
+        "headline": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-20T17:18:25.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5",
+        "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-03-20T15:55:34.000Z",
+        "timestamp": "2026-03-20T16:51:15.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
-        "summary": "More! More! More! Tech Workers Max Out Their A.I. Use &nbsp;&nbsp; The New York Times"
+        "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
@@ -158,15 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUV1X0V0Skw5clNra1ZOSzQybmRTaHB1MGoyMTZ3MmQtbUpBcFp0N3hkODdMeVNtaDlnWjc5VUQ2R0xDX29sd21uOEhJbjJYT0RMUEc1SFYwcVk4cENUMUNYWnNJTUtlcE40MHpxc3poVnBwX2Rmc1V0ZlMxbUtDYU84YTBkdHF0MDV4bGlPUmJRVERnelB2RzhCYVl2d1U2akJkWFNzYS1xTGxJcWtreXB5WmJXNmhTR2xWVDdvZVlfZWZXZlZJNU5TZ1ZVNTNzc0JF?oc=5",
         "summary": "Microsoft at NVIDIA GTC: New Solutions for Microsoft Foundry, Azure AI Infrastructure and Physical AI &nbsp;&nbsp; HPCwire"
-      },
-      {
-        "headline": "OpenAI plans desktop 'superapp' to streamline user experience - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-03-19T22:51:27.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5",
-        "summary": "OpenAI plans desktop 'superapp' to streamline user experience &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
