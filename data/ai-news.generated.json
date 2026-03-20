@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T17:38:57.550Z",
+    "generatedAt": "2026-03-20T18:57:19.381Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -24,12 +24,22 @@
     {
       "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-03-20T16:51:15.000Z",
+      "timestamp": "2026-03-20T15:55:35.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
+    },
+    {
+      "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
+      "source": "Axios",
+      "timestamp": "2026-03-20T14:40:47.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Scoop: Anthropic meets with House Homeland Security behind closed doors &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5"
     },
     {
       "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
@@ -40,6 +50,16 @@
       "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5"
+    },
+    {
+      "headline": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
+      "source": "MIT Technology Review",
+      "timestamp": "2026-03-20T11:57:16.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "OpenAI is throwing everything into building a fully automated researcher &nbsp;&nbsp; MIT Technology Review",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5"
     },
     {
       "headline": "Who's most optimistic about AI — and who isn't, according to Anthropic - CNBC",
@@ -72,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUV1X0V0Skw5clNra1ZOSzQybmRTaHB1MGoyMTZ3MmQtbUpBcFp0N3hkODdMeVNtaDlnWjc5VUQ2R0xDX29sd21uOEhJbjJYT0RMUEc1SFYwcVk4cENUMUNYWnNJTUtlcE40MHpxc3poVnBwX2Rmc1V0ZlMxbUtDYU84YTBkdHF0MDV4bGlPUmJRVERnelB2RzhCYVl2d1U2akJkWFNzYS1xTGxJcWtreXB5WmJXNmhTR2xWVDdvZVlfZWZXZlZJNU5TZ1ZVNTNzc0JF?oc=5"
     },
     {
-      "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-19T22:40:47.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scoop: Anthropic meets with House Homeland Security behind closed doors &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5"
-    },
-    {
       "headline": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-03-19T18:56:00.000Z",
@@ -90,16 +100,6 @@
       "summary": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEYyYXI2MVJudkZxaTRFN0FhSFNFTWhxQ2wycDFvbWZWOGpINE9rVEYyRFBPdE9kWHFXR1M3Z1MxQ1gxZVA5ZVE2QTJleF9XNWloakt6UlJxaWNkZ3NES0NxVGVkcHgyVXdvdkYtUHlyRVBQN2N3Q3E5VGZYeUtLdmplRS1GSEwzd0ZyVTNoM0RtWEp4ejZfRGJYMlZUcjNxaXhYYjE2N090V2NRaC15clpwZlZ5M0l0cVE?oc=5"
-    },
-    {
-      "headline": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why - VentureBeat",
-      "source": "VentureBeat",
-      "timestamp": "2026-03-19T18:29:33.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why &nbsp;&nbsp; VentureBeat",
-      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzZpNWNOR1F1cVZIVmhzeDFob3dRVXphbTJBbHpqQVNuSFJxVmlvUXBkV2Qweko2RGtNVU1PTWwzXzJSdlBTQ1BVekU5eGpIaUZjT1BjWmg4Nm42VlV3V0w0OUJmZWF5ZDc1MEdaNDkxSDBrU182SklPRVZuQlNwc3Y5NlZ0dHRnM1J4eHo2RjRCMWNINEd2ZTJLMm9mNWdo?oc=5"
     },
     {
       "headline": "How we monitor internal coding agents for misalignment - OpenAI",
@@ -126,11 +126,20 @@
       {
         "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-03-20T16:51:15.000Z",
+        "timestamp": "2026-03-20T15:55:35.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
         "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
+        "source": "Axios",
+        "timestamp": "2026-03-20T14:40:47.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5",
+        "summary": "Scoop: Anthropic meets with House Homeland Security behind closed doors &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
@@ -142,6 +151,15 @@
         "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub"
       },
       {
+        "headline": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
+        "source": "MIT Technology Review",
+        "timestamp": "2026-03-20T11:57:16.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
+        "summary": "OpenAI is throwing everything into building a fully automated researcher &nbsp;&nbsp; MIT Technology Review"
+      },
+      {
         "headline": "Who's most optimistic about AI — and who isn't, according to Anthropic - CNBC",
         "source": "CNBC",
         "timestamp": "2026-03-20T10:15:00.000Z",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGlMbXpMSWJvMVk3RWNxREJ2ZWpPb2FCSnlKX1VkM0xqUEFlMGJGS1ZmSl85RzlQNzM0MGx1Y3htelpMYl9tYlB6ZEpZS3I4a081aWp4bGk4WE1saUhSY3ZVdEIzaUVpR0hpV2VlampyUFpyOUlJWHloZ1g0NzVJMkVMaW55ellLUTEtSGJSWmU1X2PSAZgBQVVfeXFMTmpwenNXRjNDR01SLVMzd3B1VGYxY1lXa29MR2t3aXBzVWQ0cklWUmxUQjIwaE5LVkwtdmhyanlWb19zUWdic0t0a0RxSjVtLXgyel9LTno5eWFxbzJBalFrN2MtekczNTZnUldRTVZabUdmV19nUmI3N1VnMF91MEp6NEtxWUVoQWJ0ZVhUUDNDcmE3YUMyUWE?oc=5",
         "summary": "Who's most optimistic about AI — and who isn't, according to Anthropic &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-03-20T07:03:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2ZBcWFRTHVaS0NEZm16enJ6MEF2azJGdW14c21xbnVjQmRmbEJqQWNBWFZwZUNrS1RWUGJLNjRMaERCSUpmczhvSVJtTkJnOE1pSFM2Ulh0V2ljdmZGM3E2cHhHcW11LUpCUXN2ZzM0WGxxcDJKSzkzc2l3M0duZDVXQ1dIY0tnMkNGQ3ppNGRUWWxhUmV4emh2M0c1S2RIVldJVlhoZXMxRXpzQnoyUEZiSl9ScnVrR2tlRmZ5Ry0?oc=5",
-        "summary": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Microsoft at NVIDIA GTC: New Solutions for Microsoft Foundry, Azure AI Infrastructure and Physical AI - HPCwire",
-        "source": "HPCwire",
-        "timestamp": "2026-03-20T05:28:26.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUV1X0V0Skw5clNra1ZOSzQybmRTaHB1MGoyMTZ3MmQtbUpBcFp0N3hkODdMeVNtaDlnWjc5VUQ2R0xDX29sd21uOEhJbjJYT0RMUEc1SFYwcVk4cENUMUNYWnNJTUtlcE40MHpxc3poVnBwX2Rmc1V0ZlMxbUtDYU84YTBkdHF0MDV4bGlPUmJRVERnelB2RzhCYVl2d1U2akJkWFNzYS1xTGxJcWtreXB5WmJXNmhTR2xWVDdvZVlfZWZXZlZJNU5TZ1ZVNTNzc0JF?oc=5",
-        "summary": "Microsoft at NVIDIA GTC: New Solutions for Microsoft Foundry, Azure AI Infrastructure and Physical AI &nbsp;&nbsp; HPCwire"
       }
     ],
     "whyItMatters": [
