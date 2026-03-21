@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-21T19:29:21.679Z",
+    "generatedAt": "2026-03-21T20:33:14.307Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "How the FBI can conduct mass surveillance – even without AI - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-03-21T14:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How the FBI can conduct mass surveillance – even without AI &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0VwSXR4Z0JWcE8xXzNXSTBKNXJsVFRSclJ5QjJKTU1Wb2lJVDVmODEtaEViaXJOcUZNUTlUbFh6NURQSmNvWVM5VE1ha0xJcnBnb0ZDZ3dKeDFQWjg4aVhyb0VKSEU2UHVkakdjLUhTWTRMdURhcml4N0xRTVIta3BiT3YwQ2VBalVOeUk1c1ZDanYwc1BENFVnVWw5VGtlN1k0?oc=5"
+    },
     {
       "headline": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup - Fortune",
       "source": "Fortune",
@@ -100,20 +110,19 @@
       "summary": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) &nbsp;&nbsp; The Guardian",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2ZBcWFRTHVaS0NEZm16enJ6MEF2azJGdW14c21xbnVjQmRmbEJqQWNBWFZwZUNrS1RWUGJLNjRMaERCSUpmczhvSVJtTkJnOE1pSFM2Ulh0V2ljdmZGM3E2cHhHcW11LUpCUXN2ZzM0WGxxcDJKSzkzc2l3M0duZDVXQ1dIY0tnMkNGQ3ppNGRUWWxhUmV4emh2M0c1S2RIVldJVlhoZXMxRXpzQnoyUEZiSl9ScnVrR2tlRmZ5Ry0?oc=5"
-    },
-    {
-      "headline": "Microsoft at NVIDIA GTC: New Solutions for Microsoft Foundry, Azure AI Infrastructure and Physical AI - HPCwire",
-      "source": "HPCwire",
-      "timestamp": "2026-03-20T05:28:26.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft at NVIDIA GTC: New Solutions for Microsoft Foundry, Azure AI Infrastructure and Physical AI &nbsp;&nbsp; HPCwire",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUV1X0V0Skw5clNra1ZOSzQybmRTaHB1MGoyMTZ3MmQtbUpBcFp0N3hkODdMeVNtaDlnWjc5VUQ2R0xDX29sd21uOEhJbjJYT0RMUEc1SFYwcVk4cENUMUNYWnNJTUtlcE40MHpxc3poVnBwX2Rmc1V0ZlMxbUtDYU84YTBkdHF0MDV4bGlPUmJRVERnelB2RzhCYVl2d1U2akJkWFNzYS1xTGxJcWtreXB5WmJXNmhTR2xWVDdvZVlfZWZXZlZJNU5TZ1ZVNTNzc0JF?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "How the FBI can conduct mass surveillance – even without AI - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-03-21T14:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0VwSXR4Z0JWcE8xXzNXSTBKNXJsVFRSclJ5QjJKTU1Wb2lJVDVmODEtaEViaXJOcUZNUTlUbFh6NURQSmNvWVM5VE1ha0xJcnBnb0ZDZ3dKeDFQWjg4aVhyb0VKSEU2UHVkakdjLUhTWTRMdURhcml4N0xRTVIta3BiT3YwQ2VBalVOeUk1c1ZDanYwc1BENFVnVWw5VGtlN1k0?oc=5",
+        "summary": "How the FBI can conduct mass surveillance – even without AI &nbsp;&nbsp; The Guardian"
+      },
       {
         "headline": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup - Fortune",
         "source": "Fortune",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5",
         "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
-        "source": "SingularityHub",
-        "timestamp": "2026-03-20T14:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5",
-        "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub"
       }
     ],
     "whyItMatters": [
