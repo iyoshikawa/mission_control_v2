@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-21T17:30:12.585Z",
+    "generatedAt": "2026-03-21T18:42:23.039Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says - Bloomberg",
-      "source": "Bloomberg",
-      "timestamp": "2026-03-21T13:20:14.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says &nbsp;&nbsp; Bloomberg",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUtLMHdidXJBQ054TWpaY2thSTNFb0kyaFc5eDRwQW1FX3lkSWkyZndaLXB0UXVOaFE5NkpBdGhqY01Ob2dnZDMxUURrS1RoUW1ab2g2VjZ6TzRCdTVROV9DOUU0TXNBQy1vM3RvZGpreWVmUV9wUlZfaEhaQjdwRjlyelZoMzdWNFpCcG5zOEVBWVF0b0R2RVVncUZtc2czOVN2b0hETlN1em9fa2U1SmV3?oc=5"
-    },
     {
       "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
       "source": "The Times of India",
@@ -37,7 +27,7 @@
       "timestamp": "2026-03-21T00:03:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times Pentagon: Anthropic's foreign workforce poses security risks &nbsp;&nbsp; Axios",
+      "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy &nbsp;&nbsp; Federal News Network",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5"
     },
@@ -54,12 +44,22 @@
     {
       "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-03-20T15:55:35.000Z",
+      "timestamp": "2026-03-20T18:06:03.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
+    },
+    {
+      "headline": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-20T17:18:25.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5"
     },
     {
       "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
@@ -115,15 +115,6 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-03-21T13:20:14.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUtLMHdidXJBQ054TWpaY2thSTNFb0kyaFc5eDRwQW1FX3lkSWkyZndaLXB0UXVOaFE5NkpBdGhqY01Ob2dnZDMxUURrS1RoUW1ab2g2VjZ6TzRCdTVROV9DOUU0TXNBQy1vM3RvZGpreWVmUV9wUlZfaEhaQjdwRjlyelZoMzdWNFpCcG5zOEVBWVF0b0R2RVVncUZtc2czOVN2b0hETlN1em9fa2U1SmV3?oc=5",
-        "summary": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says &nbsp;&nbsp; Bloomberg"
-      },
-      {
         "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
         "source": "The Times of India",
         "timestamp": "2026-03-21T10:46:00.000Z",
@@ -139,7 +130,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5",
-        "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times Pentagon: Anthropic's foreign workforce poses security risks &nbsp;&nbsp; Axios"
+        "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy &nbsp;&nbsp; Federal News Network"
       },
       {
         "headline": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge - Reuters",
@@ -153,11 +144,20 @@
       {
         "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-03-20T15:55:35.000Z",
+        "timestamp": "2026-03-20T18:06:03.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
         "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-20T17:18:25.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5",
+        "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
