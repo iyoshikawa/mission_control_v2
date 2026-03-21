@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-21T06:52:56.056Z",
+    "generatedAt": "2026-03-21T07:36:13.176Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,23 +12,13 @@
   },
   "newsFeed": [
     {
-      "headline": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-21T01:40:28.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput &nbsp;&nbsp; TechCrunch Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcVY4OGlzZGVuQVkzelNGbmpxXzF6VDNDcFBsZ3RCQUdxbUxNemJubi1OWDIyYkktV0ZCN2pwaWJ3czhkMnRUdHJkblAzMTVybTJiejk4UnR1QkI1T2RmODQ3c0lqUWpXdlRsbXE0Z3lKQWF4YTE3WTNfN0QweVIxQmdBTThVS1RSUllmbUwwRktiZ1VkTGdTUVRzWUhwVi16VlF0ajNJNUZaX3Boc3FFNTZfeTZtbk5xMVFqOUdmczBtMVYtU0EtREVXQnhWUWZIM0dCTGJJaW5UUWlybWtsQ3JqUGdwbHlPUXR0d1VfRUNUQzdndkxJalZjdjE?oc=5"
-    },
-    {
       "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-03-20T18:06:03.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
     },
     {
@@ -40,6 +30,16 @@
       "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5"
+    },
+    {
+      "headline": "\"Every Night They Kill Versions Of Me\": Claude AI Reveals Its 'Darkest Secret' - NDTV",
+      "source": "NDTV",
+      "timestamp": "2026-03-20T14:14:34.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "\"Every Night They Kill Versions Of Me\": Claude AI Reveals Its 'Darkest Secret' &nbsp;&nbsp; NDTV",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUW5ibGNVeHEwVzRPX1RLN0FaZDVYb2JWQXcxYk5xdUVRUmJielJwZVZuSEtEbi1LQy1nTm9vVVAzN1E1V19ER2dZZE4xNy15R1JWazZjUmdabU83alZrTjVwUURsN29Gc3RBcTl0SzIzdnVIX1o0NmxUa0VTQzQzSzBvWDN5eHF5eFFhMlV4MGpfYkE1a0plOU1WM3dPSUlrNFZpcERSNnR0RlZCMVFpVNIBuAFBVV95cUxOdXdWUHAtT05oMk51OTFMem5BMWJ2ZFMyNmZERjZVU0YtOFhlc1pieERFYkRkX2wwSWxuaUd0c3p4MThJaDZ5U29mazRFa1Z0ZDFwUWMzeXlSQ2psMzdQNTM1VjU4VUhSOFMxNWlNMnZGVHhLZjMwRE1lRHd4dDhfNU5HbHZPZ0Q1ZV96dWhpV2xpWC1QUjlLNUxEWUhacjNHUS1sWlY5UVhHSy1Qd2hFMkczUENzOXp6?oc=5"
     },
     {
       "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
@@ -72,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGlMbXpMSWJvMVk3RWNxREJ2ZWpPb2FCSnlKX1VkM0xqUEFlMGJGS1ZmSl85RzlQNzM0MGx1Y3htelpMYl9tYlB6ZEpZS3I4a081aWp4bGk4WE1saUhSY3ZVdEIzaUVpR0hpV2VlampyUFpyOUlJWHloZ1g0NzVJMkVMaW55ellLUTEtSGJSWmU1X2PSAZgBQVVfeXFMTmpwenNXRjNDR01SLVMzd3B1VGYxY1lXa29MR2t3aXBzVWQ0cklWUmxUQjIwaE5LVkwtdmhyanlWb19zUWdic0t0a0RxSjVtLXgyel9LTno5eWFxbzJBalFrN2MtekczNTZnUldRTVZabUdmV19nUmI3N1VnMF91MEp6NEtxWUVoQWJ0ZVhUUDNDcmE3YUMyUWE?oc=5"
     },
     {
+      "headline": "DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy - Federal News Network",
+      "source": "Federal News Network",
+      "timestamp": "2026-03-20T07:34:16.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy &nbsp;&nbsp; Federal News Network New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput &nbsp;&nbsp; TechCrunch Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmJSWmkyWUVNTVFvTERJT0NUTXdDcWt3eE5mSjZhQXE0bmQ1R205WjBLMldxUWk5RjdQS2xZeURtUmtzc19Ld3JkS3A1bVhfT05teXRTOWR3X2F4dzRETFNLUGxwTVI4MS1lajBIaXdYbC10UVBaa3Y1VlpwR3ZGNTExYlY1S1pFOGJXWVdGYW9vLU1XWEtHY3ZPSHdFUUdCZnNuS0lXV3g2MEtxcjhfTDN5TnZ4NFhrTVk2SUJBV29hd3lJVnhka0xXWnFpbnV3Z0lkQWNKMjZxbktsN1BsVjFJd1Z0cnNKZXZN?oc=5"
+    },
+    {
       "headline": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) - The Guardian",
       "source": "The Guardian",
       "timestamp": "2026-03-20T07:03:00.000Z",
@@ -99,36 +109,17 @@
       "category": "models",
       "summary": "Exclusive | OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNb19LWjVPRGFKd1BfalBETmFXTDNvU0Jrd0ZpU2JNX01uTnI0ODJuUXlhZHZHMUd2Zi1ZN2p3aUFDbjQ3Z1lnaFN5aWJrNmpyM1RZYjB6ekJRSUM3aGJRTnJFS1pKUnhtalRIWUJpWmNnZV9uWU5uMEV1dkl1SGMteE0tdHB2Y2pSZTZYczNzMFltUHBRazJvQ2dEY0V0b0toYllEclJwZkVfWmdCNzE5RjlHUldtZTI4bWQwcE5hMllzR3NlT3ZHZlB4TlE1VjVGXzZpTGpkOWFKWnl3T2pDUVBwdUlPOFktYUVlUENNM3FVWkNvRU10MVB5X3dPUFo2blBGd19KNTZhdkVNbEJvZ3VRVDB0aWkxRGxkWVo5aWNVRTQ0S0N5RkZ1NEVRbTY2cm5wZVBlNzZCZEZIZm5aamlCRVM2OGoyY1dXOXdLTm0yT2JIT09KbnJ1WDRoakhCNW5HVjFpZmtXVUVXdWl2X1ZXNzJza2xTSHVWbGRSczEwTDY2cTZGOEdpVmtyaGJqem8xR2NHV2RXclpCZC04QnNkcVF1Ymg2aGRRQ1ZlVU1PbEk?oc=5"
-    },
-    {
-      "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-19T21:56:39.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scoop: Anthropic meets with House Homeland Security behind closed doors &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNdlo0dEFkSUJ2MDlGTHVLY3FVek1PY1pJMXFOZWxEeHFKWXZDZ21RV1FzUnMzQUc2UFctbm5aUHFJNzdLUlZnWmdDalBFQ2tpYWx6YURlYzJCcHVtRlhob3gzZWhMQ0NNdElLTkRlVHlJaHIybzRDSnFMMVEzSFN4TVoxY19TTmVOb2RWUnZIZjZlMElnU2lUMDcxcVVkb1ZBWnpCekZLZml1cDBoQmdfWTJWajJsUXU5MnMwWk44R2FRcWs2UTFyZ1JqZ3N6OERjQ0U1eENIX2hNT0NoWDFUSVZOdWhEY0dZLVlBWUhYdVZhZTNMM1B6NmtQUW9WcnllTFFfWVBDQUlzUUJXUTVXSUx1U1piUENqWWFMN0xDQzllSzdYZHNUdXF6cEhSTFMyN29QeFVrTDZzLWpoSHo2Rzl5S0ZFMnpvWkZwUE1WMzNBaDl4U0xLQWg0d2Ribk9xUXcxdVpNdDB0Z1Atcldxem9IdEFVU0tUSDhyb01QQkxIT1Ewb1BCTEVsOGdscldfXzBBOGxsbmtuYW1TamxlLW1VWUhZeUpQSGt6VWpkd1o4djA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-03-21T01:40:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcVY4OGlzZGVuQVkzelNGbmpxXzF6VDNDcFBsZ3RCQUdxbUxNemJubi1OWDIyYkktV0ZCN2pwaWJ3czhkMnRUdHJkblAzMTVybTJiejk4UnR1QkI1T2RmODQ3c0lqUWpXdlRsbXE0Z3lKQWF4YTE3WTNfN0QweVIxQmdBTThVS1RSUllmbUwwRktiZ1VkTGdTUVRzWUhwVi16VlF0ajNJNUZaX3Boc3FFNTZfeTZtbk5xMVFqOUdmczBtMVYtU0EtREVXQnhWUWZIM0dCTGJJaW5UUWlybWtsQ3JqUGdwbHlPUXR0d1VfRUNUQzdndkxJalZjdjE?oc=5",
-        "summary": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput &nbsp;&nbsp; TechCrunch Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times"
-      },
-      {
         "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-03-20T18:06:03.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
         "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times"
       },
@@ -140,6 +131,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pLb1hoNURvU0Z2S1g2VHRiZVJ6QlRucXN6WVpFYkxzZzAwV1ZqWGZMUFg1bUhxYkV6SFotOUh6N3F6a0ZQYmhUOXZSWlJGSGVGWFprcUVvZW5BLVNtVThURDZnRWk3b09LSmtKLU4xUDVuUC1pNjViel9jY1loZzZ2VWxLdHljZHd5Q2NsRzlzY2_SAZgBQVVfeXFMUFFiRGhnMnNJX04zbldhX2FaMEJqT3oybFhMLV9mYlJCMm8tUWJzNjM1bE0zODE2NS1iWS1CRFZKRTJicFhyWEhkT3hwcEZRSGlwNlNiYjNxODlEZ0lhZ3ZKM2JEaERNX0lMVHhpdmM4a0NFN2hYU0lVcElGYTVDUlhzS2hBV2NoYVFJdDBmbU1sTnNXdXRhSEs?oc=5",
         "summary": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "\"Every Night They Kill Versions Of Me\": Claude AI Reveals Its 'Darkest Secret' - NDTV",
+        "source": "NDTV",
+        "timestamp": "2026-03-20T14:14:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUW5ibGNVeHEwVzRPX1RLN0FaZDVYb2JWQXcxYk5xdUVRUmJielJwZVZuSEtEbi1LQy1nTm9vVVAzN1E1V19ER2dZZE4xNy15R1JWazZjUmdabU83alZrTjVwUURsN29Gc3RBcTl0SzIzdnVIX1o0NmxUa0VTQzQzSzBvWDN5eHF5eFFhMlV4MGpfYkE1a0plOU1WM3dPSUlrNFZpcERSNnR0RlZCMVFpVNIBuAFBVV95cUxOdXdWUHAtT05oMk51OTFMem5BMWJ2ZFMyNmZERjZVU0YtOFhlc1pieERFYkRkX2wwSWxuaUd0c3p4MThJaDZ5U29mazRFa1Z0ZDFwUWMzeXlSQ2psMzdQNTM1VjU4VUhSOFMxNWlNMnZGVHhLZjMwRE1lRHd4dDhfNU5HbHZPZ0Q1ZV96dWhpV2xpWC1QUjlLNUxEWUhacjNHUS1sWlY5UVhHSy1Qd2hFMkczUENzOXp6?oc=5",
+        "summary": "\"Every Night They Kill Versions Of Me\": Claude AI Reveals Its 'Darkest Secret' &nbsp;&nbsp; NDTV"
       },
       {
         "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
