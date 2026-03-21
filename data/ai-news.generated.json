@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T23:34:18.370Z",
+    "generatedAt": "2026-03-21T02:26:46.469Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-20T21:47:24.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHlGQS10ZEtsaW1XWndnTDQ2TDFzMEZURUpoYmZvYmJ6WDV1SDZvRGw5b2NKcEMycUh1V2tiVGFWMGM3TmdMZ0k4Ql9VcjFBM0RDNFozNkljY1pJOEo1aEUxYVRSMnVCUzRWNDZkam45S0Rmd2l1aFZaVnk4NkdVeGlDVXROMnJoLUJHNU5IaUtnRzgwNHh6SHhwNDZrazJPNmRuTzllaWRJRkp3RmFKVlY4S3B4dUNDUUJIS3BIMHVOX1MxZlNR?oc=5"
-    },
     {
       "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
       "source": "The New York Times",
@@ -110,19 +100,20 @@
       "summary": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEYyYXI2MVJudkZxaTRFN0FhSFNFTWhxQ2wycDFvbWZWOGpINE9rVEYyRFBPdE9kWHFXR1M3Z1MxQ1gxZVA5ZVE2QTJleF9XNWloakt6UlJxaWNkZ3NES0NxVGVkcHgyVXdvdkYtUHlyRVBQN2N3Q3E5VGZYeUtLdmplRS1GSEwzd0ZyVTNoM0RtWEp4ejZfRGJYMlZUcjNxaXhYYjE2N090V2NRaC15clpwZlZ5M0l0cVE?oc=5"
+    },
+    {
+      "headline": "How we monitor internal coding agents for misalignment - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-03-19T17:11:46.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "How we monitor internal coding agents for misalignment &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHFLeldXYmZZOXBBQXhJZlVVYmU1T2NobkJxcG1xTlJFMF80S2VLcjYwNEpuSEtsOWR2V2MtS3laMndVQ2pCVXVVOXc3RDVZSDVmdmNISVNoc0dGQlFYUGlGd1ZZbldSSEItdU9hVkdpVzRUSHlnODdvZ0FTZk9oclZn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-03-20T21:47:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHlGQS10ZEtsaW1XWndnTDQ2TDFzMEZURUpoYmZvYmJ6WDV1SDZvRGw5b2NKcEMycUh1V2tiVGFWMGM3TmdMZ0k4Ql9VcjFBM0RDNFozNkljY1pJOEo1aEUxYVRSMnVCUzRWNDZkam45S0Rmd2l1aFZaVnk4NkdVeGlDVXROMnJoLUJHNU5IaUtnRzgwNHh6SHhwNDZrazJPNmRuTzllaWRJRkp3RmFKVlY4S3B4dUNDUUJIS3BIMHVOX1MxZlNR?oc=5",
-        "summary": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge &nbsp;&nbsp; Reuters"
-      },
       {
         "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
         "source": "The New York Times",
@@ -167,6 +158,15 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGlMbXpMSWJvMVk3RWNxREJ2ZWpPb2FCSnlKX1VkM0xqUEFlMGJGS1ZmSl85RzlQNzM0MGx1Y3htelpMYl9tYlB6ZEpZS3I4a081aWp4bGk4WE1saUhSY3ZVdEIzaUVpR0hpV2VlampyUFpyOUlJWHloZ1g0NzVJMkVMaW55ellLUTEtSGJSWmU1X2PSAZgBQVVfeXFMTmpwenNXRjNDR01SLVMzd3B1VGYxY1lXa29MR2t3aXBzVWQ0cklWUmxUQjIwaE5LVkwtdmhyanlWb19zUWdic0t0a0RxSjVtLXgyel9LTno5eWFxbzJBalFrN2MtekczNTZnUldRTVZabUdmV19nUmI3N1VnMF91MEp6NEtxWUVoQWJ0ZVhUUDNDcmE3YUMyUWE?oc=5",
         "summary": "Who's most optimistic about AI — and who isn't, according to Anthropic &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-03-20T07:03:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2ZBcWFRTHVaS0NEZm16enJ6MEF2azJGdW14c21xbnVjQmRmbEJqQWNBWFZwZUNrS1RWUGJLNjRMaERCSUpmczhvSVJtTkJnOE1pSFM2Ulh0V2ljdmZGM3E2cHhHcW11LUpCUXN2ZzM0WGxxcDJKSzkzc2l3M0duZDVXQ1dIY0tnMkNGQ3ppNGRUWWxhUmV4emh2M0c1S2RIVldJVlhoZXMxRXpzQnoyUEZiSl9ScnVrR2tlRmZ5Ry0?oc=5",
+        "summary": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) &nbsp;&nbsp; The Guardian"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
