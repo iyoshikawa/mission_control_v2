@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-21T18:42:23.039Z",
+    "generatedAt": "2026-03-21T19:29:21.679Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-03-21T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1RXMzVZRnU1LWQ3WkhuWDdTa2tfdkhRWFBuWUxZZkI1TjU2cGJsdDU4b0hSRHk0aHh1bTVja2lkbmNVWUotUTFiWkU2RVZrdUNybmJSaUp4Qnd5TGZhYkFWVVdiaGRiUnA4bG1tc3FBZm54RFJ6VEhLdFdrY1g3YWtraUp5Y0VZQVl6cEpBTlNtbnZsVVdfOExKX2psY0Zad1E?oc=5"
+    },
     {
       "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
       "source": "The Times of India",
@@ -30,16 +40,6 @@
       "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy &nbsp;&nbsp; Federal News Network",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5"
-    },
-    {
-      "headline": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-20T21:47:24.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHlGQS10ZEtsaW1XWndnTDQ2TDFzMEZURUpoYmZvYmJ6WDV1SDZvRGw5b2NKcEMycUh1V2tiVGFWMGM3TmdMZ0k4Ql9VcjFBM0RDNFozNkljY1pJOEo1aEUxYVRSMnVCUzRWNDZkam45S0Rmd2l1aFZaVnk4NkdVeGlDVXROMnJoLUJHNU5IaUtnRzgwNHh6SHhwNDZrazJPNmRuTzllaWRJRkp3RmFKVlY4S3B4dUNDUUJIS3BIMHVOX1MxZlNR?oc=5"
     },
     {
       "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-21T13:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1RXMzVZRnU1LWQ3WkhuWDdTa2tfdkhRWFBuWUxZZkI1TjU2cGJsdDU4b0hSRHk0aHh1bTVja2lkbmNVWUotUTFiWkU2RVZrdUNybmJSaUp4Qnd5TGZhYkFWVVdiaGRiUnA4bG1tc3FBZm54RFJ6VEhLdFdrY1g3YWtraUp5Y0VZQVl6cEpBTlNtbnZsVVdfOExKX2psY0Zad1E?oc=5",
+        "summary": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup &nbsp;&nbsp; Fortune"
+      },
+      {
         "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
         "source": "The Times of India",
         "timestamp": "2026-03-21T10:46:00.000Z",
@@ -131,15 +140,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5",
         "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy &nbsp;&nbsp; Federal News Network"
-      },
-      {
-        "headline": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-03-20T21:47:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHlGQS10ZEtsaW1XWndnTDQ2TDFzMEZURUpoYmZvYmJ6WDV1SDZvRGw5b2NKcEMycUh1V2tiVGFWMGM3TmdMZ0k4Ql9VcjFBM0RDNFozNkljY1pJOEo1aEUxYVRSMnVCUzRWNDZkam45S0Rmd2l1aFZaVnk4NkdVeGlDVXROMnJoLUJHNU5IaUtnRzgwNHh6SHhwNDZrazJPNmRuTzllaWRJRkp3RmFKVlY4S3B4dUNDUUJIS3BIMHVOX1MxZlNR?oc=5",
-        "summary": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
