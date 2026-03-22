@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-22T08:40:45.046Z",
+    "generatedAt": "2026-03-22T09:38:27.658Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-03-22T00:26:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdMcjhwbDM1bmFyQjFYTzN1cVlzUWJna1B3cUVtbTJZT3NKcEp5VW54Q1VsN0s0Z3FwY1hxXzA3UzVjbkF5b1c2NW04dDM0SFB3QlJNSWtZU0tFQkc3cGFwRkpXaG1kV1FiYzh2VVhycXBPRGhCQXEzUDJORDdfVnNvWVhnZE5TZnlLajVKZjViSlhvR3Z5Mw?oc=5"
+    },
     {
       "headline": "OpenAI plans to almost double its headcount this year, FT says - Fortune",
       "source": "Fortune",
@@ -30,16 +40,6 @@
       "summary": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' &nbsp;&nbsp; Fortune",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUhNLWNtcjE2Vi1lY1dtY1MyS2lPR182Yi1VU0lsY2RRSGVVbEJHZ1lDNEd6NXNUWi1CWThTYkJQMnhCcHNIMkUxb0pGajAzZm14cTBIZmp4aXhjQnVUT3FuMUlkRUp4WVpVYUhzTWM1TlZiRWJzRy1mYWQyS2tIUlhWN2JzYXB0YW5ERTZnTkZ2TV9ERkhxVVNTLUxJWmF6M19rY1h2V08wYm5VVXc?oc=5"
-    },
-    {
-      "headline": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen - The New Stack",
-      "source": "The New Stack",
-      "timestamp": "2026-03-21T17:03:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen &nbsp;&nbsp; The New Stack",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ScW04eDFJQTJnZjdKQ3J6NE50SmlqOWZ6Mkg2QkhFenJCTmw4aG4ybkdfd0dVcXVFY3VVTHRJa3dDQzF0RjNUR3lkb1BWd0VNQnYybENVUThLZnV3UFBkd2VRd0RnZw?oc=5"
     },
     {
       "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
@@ -69,7 +69,7 @@
       "category": "ecosystem",
       "summary": "The Trillion Dollar Race to Automate Our Entire Lives &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOY2RKU3RwVS1feFFiVzBDODctZ1MtSjJlRHlXelEwa3ZYOXd0V1ZLbVhhTk5jTy15dlVYYnZpUWFQU1MwTURySm03ZG42U2FNa2pHT3dZX2xQbnUxZEJPQWxPQjlZTVBwVldLYWpqNWdnaExtNUU2bTRjc0xWZUZaeEZVZktjWmdEb2NNRV9kTVZHUm5rTFlwWWM4SmxVWmZ1azNuSVpwalZybm1PX2FLSnpLQlRsWE1SZGFfa2hqLUNSZ2dVZFVPRXVsZ2J3WjdXbzFaNGs1YjhfRXBvbjBUazFnc1l1clhXejN3NFZ0M0R1UlFmNWV3ZkpsZUlZSHNYZU1nYkNRX1d3SFlHeDVCZ0Q4UC1Mc3V5NVdBOHdsTFZJRjZwM1o1OFdlbUZlZFNZc1FmSG1NdGNHTTNIMDRrRDBnbVdyNUI4bk1tb2t1MHo2bDVCeW9XVmVheDFrRmlvQUxDbURKV196TU1fQ1VIXzVBNDU1S2ZOQUhnVHlncURZOE0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPbGxNb2V4UVlqRDdodFRLdE1Zay1HczR1Ml96dkZJVk0yWWJ3eWM3RU9JQjVDMU82V2JaRWZ3a1BTeldta0RZTmxrVmp5ME1OZThZSW9iYXRCcTY0WncwNVpidXhYaVY2emZJeTExTG9pRy1JZkVWX0hVRmNVMmtDZkhWdXRSN1BXelNPbFRqZFBTU3B5UFRVZUE3WjdMWmVsbHlZR0VmZzlZUWZNRmRwaG5MNTY4a2FlTXdkZTMtR0RfSnd4UXRSbXFLeXJZelU3c0tJem4zZ2VZVTVuSkVxMERJQ0dKbzRkX09WOU9PWlhET05SOElacm5zY0lQUjJHYnB6c3llR0NHYWQzMWRLd2dIQ010SG5TRXNtQWRscDNFVjQwUm1qT1dNcEVOMnR2NDRCR1ZqUzZ2T1ZyUnB4NGNUaWlxaUs1QmI2dnVUenhtMlRYbHl3aXNSN0d5c2xkNml6cnFwR09tN3NvaWlvMjF5UGl1NjFNREpfcUlQakU3S28?oc=5"
     },
     {
       "headline": "Anthropic Denies It Could Sabotage AI Tools During War - WIRED",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-03-22T00:26:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdMcjhwbDM1bmFyQjFYTzN1cVlzUWJna1B3cUVtbTJZT3NKcEp5VW54Q1VsN0s0Z3FwY1hxXzA3UzVjbkF5b1c2NW04dDM0SFB3QlJNSWtZU0tFQkc3cGFwRkpXaG1kV1FiYzh2VVhycXBPRGhCQXEzUDJORDdfVnNvWVhnZE5TZnlLajVKZjViSlhvR3Z5Mw?oc=5",
+        "summary": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. &nbsp;&nbsp; Business Insider"
+      },
+      {
         "headline": "OpenAI plans to almost double its headcount this year, FT says - Fortune",
         "source": "Fortune",
         "timestamp": "2026-03-22T00:21:00.000Z",
@@ -131,15 +140,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUhNLWNtcjE2Vi1lY1dtY1MyS2lPR182Yi1VU0lsY2RRSGVVbEJHZ1lDNEd6NXNUWi1CWThTYkJQMnhCcHNIMkUxb0pGajAzZm14cTBIZmp4aXhjQnVUT3FuMUlkRUp4WVpVYUhzTWM1TlZiRWJzRy1mYWQyS2tIUlhWN2JzYXB0YW5ERTZnTkZ2TV9ERkhxVVNTLUxJWmF6M19rY1h2V08wYm5VVXc?oc=5",
         "summary": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen - The New Stack",
-        "source": "The New Stack",
-        "timestamp": "2026-03-21T17:03:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ScW04eDFJQTJnZjdKQ3J6NE50SmlqOWZ6Mkg2QkhFenJCTmw4aG4ybkdfd0dVcXVFY3VVTHRJa3dDQzF0RjNUR3lkb1BWd0VNQnYybENVUThLZnV3UFBkd2VRd0RnZw?oc=5",
-        "summary": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen &nbsp;&nbsp; The New Stack"
       },
       {
         "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
@@ -165,7 +165,7 @@
         "timestamp": "2026-03-21T03:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOY2RKU3RwVS1feFFiVzBDODctZ1MtSjJlRHlXelEwa3ZYOXd0V1ZLbVhhTk5jTy15dlVYYnZpUWFQU1MwTURySm03ZG42U2FNa2pHT3dZX2xQbnUxZEJPQWxPQjlZTVBwVldLYWpqNWdnaExtNUU2bTRjc0xWZUZaeEZVZktjWmdEb2NNRV9kTVZHUm5rTFlwWWM4SmxVWmZ1azNuSVpwalZybm1PX2FLSnpLQlRsWE1SZGFfa2hqLUNSZ2dVZFVPRXVsZ2J3WjdXbzFaNGs1YjhfRXBvbjBUazFnc1l1clhXejN3NFZ0M0R1UlFmNWV3ZkpsZUlZSHNYZU1nYkNRX1d3SFlHeDVCZ0Q4UC1Mc3V5NVdBOHdsTFZJRjZwM1o1OFdlbUZlZFNZc1FmSG1NdGNHTTNIMDRrRDBnbVdyNUI4bk1tb2t1MHo2bDVCeW9XVmVheDFrRmlvQUxDbURKV196TU1fQ1VIXzVBNDU1S2ZOQUhnVHlncURZOE0?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPbGxNb2V4UVlqRDdodFRLdE1Zay1HczR1Ml96dkZJVk0yWWJ3eWM3RU9JQjVDMU82V2JaRWZ3a1BTeldta0RZTmxrVmp5ME1OZThZSW9iYXRCcTY0WncwNVpidXhYaVY2emZJeTExTG9pRy1JZkVWX0hVRmNVMmtDZkhWdXRSN1BXelNPbFRqZFBTU3B5UFRVZUE3WjdMWmVsbHlZR0VmZzlZUWZNRmRwaG5MNTY4a2FlTXdkZTMtR0RfSnd4UXRSbXFLeXJZelU3c0tJem4zZ2VZVTVuSkVxMERJQ0dKbzRkX09WOU9PWlhET05SOElacm5zY0lQUjJHYnB6c3llR0NHYWQzMWRLd2dIQ010SG5TRXNtQWRscDNFVjQwUm1qT1dNcEVOMnR2NDRCR1ZqUzZ2T1ZyUnB4NGNUaWlxaUs1QmI2dnVUenhtMlRYbHl3aXNSN0d5c2xkNml6cnFwR09tN3NvaWlvMjF5UGl1NjFNREpfcUlQakU3S28?oc=5",
         "summary": "The Trillion Dollar Race to Automate Our Entire Lives &nbsp;&nbsp; WSJ"
       }
     ],
