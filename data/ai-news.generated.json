@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-22T11:28:23.947Z",
+    "generatedAt": "2026-03-22T13:02:03.351Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-03-22T10:09:00.000Z",
+      "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-22T12:00:00.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3BySFJsWWVrSnVTTlRSejZTX0JpNjMtTkVkX0RSaS1CcTdwbEJXbW5oNl9WRkxUbGlZOEdEVGEwT0hJZ0pnNTFMM3FibGZYRkNsMGpqTzBPNHd2bmdmUjVFcnpZN2tDbG5QSTFYZGxGN20zWEIySGtnLUZGUldVRUJoaHRtZ2w0NnRwTGh6eWx6cEpO?oc=5"
-    },
-    {
-      "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-03-22T00:26:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdMcjhwbDM1bmFyQjFYTzN1cVlzUWJna1B3cUVtbTJZT3NKcEp5VW54Q1VsN0s0Z3FwY1hxXzA3UzVjbkF5b1c2NW04dDM0SFB3QlJNSWtZU0tFQkc3cGFwRkpXaG1kV1FiYzh2VVhycXBPRGhCQXEzUDJORDdfVnNvWVhnZE5TZnlLajVKZjViSlhvR3Z5Mw?oc=5"
+      "category": "ecosystem",
+      "summary": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzFFazRYU3dlZjlwOUVvNTBEeEFlRjNmYVVfLVNmNk9jVktDTGViMUphMHFEc0RpTUFPREI0ZDBYYThqRGoyRzRMNmlSNF92TE9XT09jVkF3Y2FGSUZxVGU2SExRNnJ1em5Pc3RKQTRmeWl2SXpmMktGNjZDekE1VVNvc2NjOWJHd215UlhfVXBwVjNtN2Nzc19vQ1dFSzJxZm83aDBoUTR1Rk5ZQ2EwSlVQN1FEOFNYamNtdUh3aVdzVVdCcjlF?oc=5"
     },
     {
       "headline": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' - Fortune",
@@ -72,12 +62,22 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0NsUHVMREFmYVVKVFZ6T0NUME9KaXJ3WFd0cmNldExZNnNXc2c3TFBZQllDb3dZaEozU0VrWG01QldwUktCVk9zU1FVQ0NiZkYtbllhemdVSFgyc0NNZk1kWFZHWXI1SEc4d3p5bTJjeUlpekcybmtydE1ZTXEwTDhJbks4NG5qNEdaWTd1QQ?oc=5"
     },
     {
+      "headline": "The Trillion Dollar Race to Automate Our Entire Lives - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-03-21T03:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Trillion Dollar Race to Automate Our Entire Lives &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPQzd5b3l3WWZhZWtWaFdtRm5aMGpnRUdCTWdiNFFvb2NjUEM0NXBiWWxLdXdkbWdTSGVQOTVtbVlhNFkyeUUySzA5NWdHZzFUZmZ3aTF5c3RRNjhpYV80dzJNZ2hjb2dmMnNwYTYyUkZzQlh4d1pRNWxGOUpZaTBkMFZWS3hlQnNhWVNhVE5nT3Y3RWYtMzZRQnJUMkpEVlpnR3RkTF9FUHo1aW1WTVBFeWpqb2E3S2lOS0pCVVFndE95RURtZDF4TFljYUZhSUF1dExvd3h3VGlfeW1KcVQ5MmtoWWtGM3hzOGFZclBEMThpMVFYeUg1TEN4SHdTcjRkNi12VFhIaUhMOXFUVUhqZzNPMVZEcGZfdTEyeVYxczRpOVNvZHFZUlBDQm91TE4xb0RzWi1mTzlUUnVQLXp6eE93MjV2Z2Zsa3JCcVUyZzZkTzJRV2dBc3NsTi1Hdmh6elp4NTM5aXdXSElmeDZvbmpTMGZpbXVYOWsxTGJ1bHN3dFU?oc=5"
+    },
+    {
       "headline": "Anthropic Denies It Could Sabotage AI Tools During War - WIRED",
       "source": "WIRED",
       "timestamp": "2026-03-21T00:03:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Silicon Valley Musters Behind-the-Scenes Support for Anthropic &nbsp;&nbsp; The New York Times Sorry Anthropic, the drone wars don’t wait for ethics &nbsp;&nbsp; AFR",
+      "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy &nbsp;&nbsp; Reuters Sorry Anthropic, the drone wars don’t wait for ethics &nbsp;&nbsp; AFR",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5"
     },
@@ -115,22 +115,13 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-03-22T10:09:00.000Z",
+        "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-22T12:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3BySFJsWWVrSnVTTlRSejZTX0JpNjMtTkVkX0RSaS1CcTdwbEJXbW5oNl9WRkxUbGlZOEdEVGEwT0hJZ0pnNTFMM3FibGZYRkNsMGpqTzBPNHd2bmdmUjVFcnpZN2tDbG5QSTFYZGxGN20zWEIySGtnLUZGUldVRUJoaHRtZ2w0NnRwTGh6eWx6cEpO?oc=5",
-        "summary": "Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-03-22T00:26:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdMcjhwbDM1bmFyQjFYTzN1cVlzUWJna1B3cUVtbTJZT3NKcEp5VW54Q1VsN0s0Z3FwY1hxXzA3UzVjbkF5b1c2NW04dDM0SFB3QlJNSWtZU0tFQkc3cGFwRkpXaG1kV1FiYzh2VVhycXBPRGhCQXEzUDJORDdfVnNvWVhnZE5TZnlLajVKZjViSlhvR3Z5Mw?oc=5",
-        "summary": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. &nbsp;&nbsp; Business Insider"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzFFazRYU3dlZjlwOUVvNTBEeEFlRjNmYVVfLVNmNk9jVktDTGViMUphMHFEc0RpTUFPREI0ZDBYYThqRGoyRzRMNmlSNF92TE9XT09jVkF3Y2FGSUZxVGU2SExRNnJ1em5Pc3RKQTRmeWl2SXpmMktGNjZDekE1VVNvc2NjOWJHd215UlhfVXBwVjNtN2Nzc19vQ1dFSzJxZm83aDBoUTR1Rk5ZQ2EwSlVQN1FEOFNYamNtdUh3aVdzVVdCcjlF?oc=5",
+        "summary": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' - Fortune",
@@ -167,6 +158,15 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0NsUHVMREFmYVVKVFZ6T0NUME9KaXJ3WFd0cmNldExZNnNXc2c3TFBZQllDb3dZaEozU0VrWG01QldwUktCVk9zU1FVQ0NiZkYtbllhemdVSFgyc0NNZk1kWFZHWXI1SEc4d3p5bTJjeUlpekcybmtydE1ZTXEwTDhJbks4NG5qNEdaWTd1QQ?oc=5",
         "summary": "Rogue AI Agent Triggers Emergency at Meta &nbsp;&nbsp; Futurism"
+      },
+      {
+        "headline": "The Trillion Dollar Race to Automate Our Entire Lives - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-03-21T03:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPQzd5b3l3WWZhZWtWaFdtRm5aMGpnRUdCTWdiNFFvb2NjUEM0NXBiWWxLdXdkbWdTSGVQOTVtbVlhNFkyeUUySzA5NWdHZzFUZmZ3aTF5c3RRNjhpYV80dzJNZ2hjb2dmMnNwYTYyUkZzQlh4d1pRNWxGOUpZaTBkMFZWS3hlQnNhWVNhVE5nT3Y3RWYtMzZRQnJUMkpEVlpnR3RkTF9FUHo1aW1WTVBFeWpqb2E3S2lOS0pCVVFndE95RURtZDF4TFljYUZhSUF1dExvd3h3VGlfeW1KcVQ5MmtoWWtGM3hzOGFZclBEMThpMVFYeUg1TEN4SHdTcjRkNi12VFhIaUhMOXFUVUhqZzNPMVZEcGZfdTEyeVYxczRpOVNvZHFZUlBDQm91TE4xb0RzWi1mTzlUUnVQLXp6eE93MjV2Z2Zsa3JCcVUyZzZkTzJRV2dBc3NsTi1Hdmh6elp4NTM5aXdXSElmeDZvbmpTMGZpbXVYOWsxTGJ1bHN3dFU?oc=5",
+        "summary": "The Trillion Dollar Race to Automate Our Entire Lives &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
