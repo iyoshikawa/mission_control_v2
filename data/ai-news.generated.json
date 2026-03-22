@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-22T21:31:34.654Z",
+    "generatedAt": "2026-03-22T22:31:02.026Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Chatbot Makers Try Sex Appeal - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-03-22T12:25:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Chatbot Makers Try Sex Appeal &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPcVZXdWJkdTU1ZW01VTJ1MHFCMlRmTzBERGdVdTgzSWRzN2wteW9RNUVjWW9qaU5vNTZwR0FTX2UtaWU2elFSdXFGM2E4eUFBY1NWSXVzVkRVWEtXeWNLWDlFMVpCbEthOWwyem9ydHVWWUlGM2dBX0Ntb2RPRjdsd25DWWxwdE92MEo3bDlJQmlBb3dLUVBWNy0yR3M1c3NGZllvZUFXZUtVY2NSdXpXWjdZM2dhRE5iaVViV0Z2RkxzbkZ1d0xFZS1DOV9aSlAweHBqSi1NWlZaQmpvX200VU4zY0RBZkdnUVdtRVlQUTdZUGtzM3YtTU5ETGV5MXhWLTl2Umd3NUViZTVZV3RfZVF0TlkxeHB6SzAtbHBYQ2pGQmRwQlF5cFJlZVdpdUd3S2s1VWk5aFFVSXg5RUd3WHlOTHV5WnV1NDhla2trUjEwVzJETmV2Q0o5NjkxYW0xbmNNTWVaZTZ4ZlNWZTlWbnNDQXFrTFVvT3c?oc=5"
+    },
     {
       "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
       "source": "CNBC",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0NsUHVMREFmYVVKVFZ6T0NUME9KaXJ3WFd0cmNldExZNnNXc2c3TFBZQllDb3dZaEozU0VrWG01QldwUktCVk9zU1FVQ0NiZkYtbllhemdVSFgyc0NNZk1kWFZHWXI1SEc4d3p5bTJjeUlpekcybmtydE1ZTXEwTDhJbks4NG5qNEdaWTd1QQ?oc=5"
     },
     {
-      "headline": "The Trillion Dollar Race to Automate Our Entire Lives - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-03-21T03:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Trillion Dollar Race to Automate Our Entire Lives &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNZXJlRlNIbENkVU5ScmFBalRfWHl6N1I3V3lKaTB3bkhSVlFUa19mVlFoZEYwaUw3djkzdEFHb3dhZUwyMFpDZ3JYYkFnbWxXNDJTRkxra1pNV3FkbjgwbVJZT0IzYVRaMVRQTDVrSFFDbklaOGJNdHZURzM0TXV4VEw0M05lQkFxdlZtRUEyZzduWGJNYWtqNklLM050YTBaNjhMYnVpN1ZqV1J6RUc5dENmcUd0ME5DVGdyUlpRWkpnRW0yZlp4UnJEcmZodnJsWmJvUTVqbG9jazh4aVBhVV9melpVZHJJMHBRNFIyb0JKSFpQQWtiQWtDUHU4RjRPczl0Qk5WcWhZUURhbTk2TTJzUVRER0x2UjlPdnFWNVR4UE1yWS1selhnYnlEN3d3clBUTkdmU1dSbWlONW82UjZ2cFFxbHp6ZWh4eUtPNm5MUDFoSGR5blJKNTZlajI0Y3BEOWszTC1saFZqT1JsYUxMRWUzX2U5QVpVX2V5cktwdWc?oc=5"
-    },
-    {
       "headline": "Anthropic Denies It Could Sabotage AI Tools During War - WIRED",
       "source": "WIRED",
       "timestamp": "2026-03-21T00:03:00.000Z",
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Chatbot Makers Try Sex Appeal - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-03-22T12:25:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPcVZXdWJkdTU1ZW01VTJ1MHFCMlRmTzBERGdVdTgzSWRzN2wteW9RNUVjWW9qaU5vNTZwR0FTX2UtaWU2elFSdXFGM2E4eUFBY1NWSXVzVkRVWEtXeWNLWDlFMVpCbEthOWwyem9ydHVWWUlGM2dBX0Ntb2RPRjdsd25DWWxwdE92MEo3bDlJQmlBb3dLUVBWNy0yR3M1c3NGZllvZUFXZUtVY2NSdXpXWjdZM2dhRE5iaVViV0Z2RkxzbkZ1d0xFZS1DOV9aSlAweHBqSi1NWlZaQmpvX200VU4zY0RBZkdnUVdtRVlQUTdZUGtzM3YtTU5ETGV5MXhWLTl2Umd3NUViZTVZV3RfZVF0TlkxeHB6SzAtbHBYQ2pGQmRwQlF5cFJlZVdpdUd3S2s1VWk5aFFVSXg5RUd3WHlOTHV5WnV1NDhla2trUjEwVzJETmV2Q0o5NjkxYW0xbmNNTWVaZTZ4ZlNWZTlWbnNDQXFrTFVvT3c?oc=5",
+        "summary": "Chatbot Makers Try Sex Appeal &nbsp;&nbsp; WSJ"
+      },
       {
         "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
         "source": "CNBC",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1RXMzVZRnU1LWQ3WkhuWDdTa2tfdkhRWFBuWUxZZkI1TjU2cGJsdDU4b0hSRHk0aHh1bTVja2lkbmNVWUotUTFiWkU2RVZrdUNybmJSaUp4Qnd5TGZhYkFWVVdiaGRiUnA4bG1tc3FBZm54RFJ6VEhLdFdrY1g3YWtraUp5Y0VZQVl6cEpBTlNtbnZsVVdfOExKX2psY0Zad1E?oc=5",
         "summary": "Cursor’s crossroads: The rapid rise, and very uncertain future, of a $30 billion AI startup &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-03-21T10:46:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTmVUZjRjaHM1dnhQdmJqdXlNWGR3MS1pNm51VE1UUER5bFFmc2tuYTZfaW91TTcteHlTYVdiUnl4eFlYRk1vNlRtVDJXY1M2Yl8wTzRfSERvd2U2X2NzdFJsSU95NFhjdExlb0YzRHJmX1VWQVd5OExKNmMxRW5Sc096ZVFkcUNMMkdsREx4Rm0yWThEZml0bjZwcmFXckpvTFdVWjlFNGdmSXZtYU5rampGeUVFdkx5OF9LZEY4Mm5RVjB4NGNoaTVKMHYzVVJ4ak1fMFJQYU5QZWtkUG14WlpKc3B4ZWpLdGRXdWJYUUlmZklJUkoyV196SUdEc1c3d3lfMmMzczMzZ3BHc0M3bDJGT2ZGc29aWTNVRE1iSW1yRThsdFhWTlJSUm9ic2ZadHhJQTVodVVKR3BxZjNJMGduckhJd03SAcwCQVVfeXFMUHpzMnV0ZVYtVXltb0ZpRlU2SHN1YUdPS1hLaEl6WjJfVzBaUWlaSF9wVDBNS1kydkdYcUplSmhKamdHZFN1NDdVRXEzalNRZldkWGJlNE9KUUcweWVkMFJHVFdiYlpLbVVkLS1YYUV0Q004dTBhOHZrWmNNdy1rVENpNjJUWUoxbEY1SWRpQUhZX2JiZVhMck9DU2VDdDc1OGU2UC0yOVMyX1d6d1lFeVpWNlVhV0wyNkRXZkxuZUpHTzJWdmZ1Qnl1SVBRazNfOTc5WDQzOTBIVDVaaGREOW9jVUZuUzlzX0Y0Z3gzbHg2eHdFbG04cVRYOHN6SzJFRWZYLVI4RGhHUFZIUWRwY3d3OWtYcGlmeUo2MWhFYk90M0lpYmNpeWVZOHNPbkN3V3dDbllkZVFPQjZLdFZPQlFoNjRtRWxxSlpzNHY?oc=5",
-        "summary": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab &nbsp;&nbsp; The Times of India"
       }
     ],
     "whyItMatters": [
