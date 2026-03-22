@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-22T14:33:24.377Z",
+    "generatedAt": "2026-03-22T15:31:29.726Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-22T12:00:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5"
+    },
     {
       "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
       "source": "TechCrunch",
@@ -72,22 +82,12 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0NsUHVMREFmYVVKVFZ6T0NUME9KaXJ3WFd0cmNldExZNnNXc2c3TFBZQllDb3dZaEozU0VrWG01QldwUktCVk9zU1FVQ0NiZkYtbllhemdVSFgyc0NNZk1kWFZHWXI1SEc4d3p5bTJjeUlpekcybmtydE1ZTXEwTDhJbks4NG5qNEdaWTd1QQ?oc=5"
     },
     {
-      "headline": "The Trillion Dollar Race to Automate Our Entire Lives - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-03-21T03:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Trillion Dollar Race to Automate Our Entire Lives &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPbTB4bHZUQ2otVm5mVGRVWDhxVWtsTW1SbGpSS3VITW1QNWVMb2NaWXNtYU9BRExVVFZoMlFNRzl3LUYxci04bkh2Y19uSVRFb21YTnVwbDRURDBoSGJDeFZzSG9oNkUyN1RMT1BIUUtLM3UtdjR0VUFHcU1JQi12Ql9NZWV3V3M2R0FXRlFXb0pSXzBSN2FJdmNFempWUlpYWm1wUlJjbFZkQ3g5a1hPel9tbkl5ekpaWEFVQmJLdVhZT2NEUVFGQ1pqcnA4cVVrZmNpTnlfbW8yU2x0QmlpeW91VnlPdkI5ZHVEVGhYSHNnZUVsUjlvaUNobi05amNMTjFNZUJxTm44Mmw4c2o0RUNOcWNVenZDZlhkVUNpWmo3TUkyTmhYbzJPZi1YUzNKQmliREh3cUJWY0ZHOTlVdEluaTRQVEFCakZwQ0FrbTBFd1RqaVVJLXhXcmNuVjN5S0FXT0RfMGQtYjhUdmNQZkpERUxvZkZxV2ZjRzQ5ZkkwZEk?oc=5"
-    },
-    {
       "headline": "Anthropic Denies It Could Sabotage AI Tools During War - WIRED",
       "source": "WIRED",
       "timestamp": "2026-03-21T00:03:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy &nbsp;&nbsp; Reuters Sorry Anthropic, the drone wars don’t wait for ethics &nbsp;&nbsp; AFR",
+      "summary": "Anthropic Denies It Could Sabotage AI Tools During War &nbsp;&nbsp; WIRED",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5"
     },
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-22T12:00:01.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5",
+        "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC"
+      },
       {
         "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
         "source": "TechCrunch",
@@ -158,15 +167,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTmVUZjRjaHM1dnhQdmJqdXlNWGR3MS1pNm51VE1UUER5bFFmc2tuYTZfaW91TTcteHlTYVdiUnl4eFlYRk1vNlRtVDJXY1M2Yl8wTzRfSERvd2U2X2NzdFJsSU95NFhjdExlb0YzRHJmX1VWQVd5OExKNmMxRW5Sc096ZVFkcUNMMkdsREx4Rm0yWThEZml0bjZwcmFXckpvTFdVWjlFNGdmSXZtYU5rampGeUVFdkx5OF9LZEY4Mm5RVjB4NGNoaTVKMHYzVVJ4ak1fMFJQYU5QZWtkUG14WlpKc3B4ZWpLdGRXdWJYUUlmZklJUkoyV196SUdEc1c3d3lfMmMzczMzZ3BHc0M3bDJGT2ZGc29aWTNVRE1iSW1yRThsdFhWTlJSUm9ic2ZadHhJQTVodVVKR3BxZjNJMGduckhJd03SAcwCQVVfeXFMUHpzMnV0ZVYtVXltb0ZpRlU2SHN1YUdPS1hLaEl6WjJfVzBaUWlaSF9wVDBNS1kydkdYcUplSmhKamdHZFN1NDdVRXEzalNRZldkWGJlNE9KUUcweWVkMFJHVFdiYlpLbVVkLS1YYUV0Q004dTBhOHZrWmNNdy1rVENpNjJUWUoxbEY1SWRpQUhZX2JiZVhMck9DU2VDdDc1OGU2UC0yOVMyX1d6d1lFeVpWNlVhV0wyNkRXZkxuZUpHTzJWdmZ1Qnl1SVBRazNfOTc5WDQzOTBIVDVaaGREOW9jVUZuUzlzX0Y0Z3gzbHg2eHdFbG04cVRYOHN6SzJFRWZYLVI4RGhHUFZIUWRwY3d3OWtYcGlmeUo2MWhFYk90M0lpYmNpeWVZOHNPbkN3V3dDbllkZVFPQjZLdFZPQlFoNjRtRWxxSlpzNHY?oc=5",
         "summary": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab &nbsp;&nbsp; The Times of India"
-      },
-      {
-        "headline": "Rogue AI Agent Triggers Emergency at Meta - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-03-21T10:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0NsUHVMREFmYVVKVFZ6T0NUME9KaXJ3WFd0cmNldExZNnNXc2c3TFBZQllDb3dZaEozU0VrWG01QldwUktCVk9zU1FVQ0NiZkYtbllhemdVSFgyc0NNZk1kWFZHWXI1SEc4d3p5bTJjeUlpekcybmtydE1ZTXEwTDhJbks4NG5qNEdaWTd1QQ?oc=5",
-        "summary": "Rogue AI Agent Triggers Emergency at Meta &nbsp;&nbsp; Futurism"
       }
     ],
     "whyItMatters": [
