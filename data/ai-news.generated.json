@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-22T18:44:08.283Z",
+    "generatedAt": "2026-03-22T19:30:50.374Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "Chatbot Makers Try Sex Appeal - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-03-22T12:25:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Chatbot Makers Try Sex Appeal &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNeEdWMWhqN0pzdTl3a1YwLTFPUEd0WWw5c1lDVWlKa1BhQ1BkOXdzdGlscThRSXhaQllESDd2N0NYdEZ4SjNVeGRodDVIUklvc3Y4ZkpmVDlKWkVaMlVrSms2cXplc2VOTGN5WlZGNFoxUlJsX29kWmFLbHlGWWMtdTlZZ3NyUkFONlhyZjlEbTJoOGg2Q3ZiY0VyQW5HNlBwamJQNlpmRTFEUmxnTXdMaml6enFocjMwM285NmJNemhSbm1QX3RYVktkNC00ZU9xVnNhcG85TjNMU1hZbTd0OUZjRTBrLURNMklYMEZmRW9Zc1l2cF82MW1ndEtqY25LaVQ4M0kzcmI0RG1KbS1vRXhyM0ctcEJPdHJuQjhFZ3BSQTMwOVlTVzNlX1lGczdvYkFWdkNNNE40MmpKbnZEaUhtTDFibGtQOWFjclc4cktEejFqUXRzcGhJb3RNV1YzVDVKRW0wQXJMRkIxNVlQUWhoX1BJaU40aHc?oc=5"
-    },
-    {
       "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
       "source": "CNBC",
       "timestamp": "2026-03-22T12:00:01.000Z",
@@ -30,6 +20,16 @@
       "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5"
+    },
+    {
+      "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-22T12:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzFFazRYU3dlZjlwOUVvNTBEeEFlRjNmYVVfLVNmNk9jVktDTGViMUphMHFEc0RpTUFPREI0ZDBYYThqRGoyRzRMNmlSNF92TE9XT09jVkF3Y2FGSUZxVGU2SExRNnJ1em5Pc3RKQTRmeWl2SXpmMktGNjZDekE1VVNvc2NjOWJHd215UlhfVXBwVjNtN2Nzc19vQ1dFSzJxZm83aDBoUTR1Rk5ZQ2EwSlVQN1FEOFNYamNtdUh3aVdzVVdCcjlF?oc=5"
     },
     {
       "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
@@ -102,27 +102,18 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHZwRGJQV2J1SlJMQTh6b3FGeWw2ckN3TVo3eUhwQlRMWEc0T3I1RTI0U3VwOEJTVzRjaDJzS0tnMjhfVk9jbHpibzV0cnFMNFVRZHRlMU9QelN3eU9oelBVM3paTEZpamVjLWVOaE5UQlNaS0g0cU9JeXNPVGMtcHRWVHJvTThRcU44SDBma1QycE9JM2VTMkJ3dTdKMmdGemdQY0tTQTJCVlVZQUlpWnJvWHNGRUxtdzVUUTRkM19PUnQtRUN30gHMAUFVX3lxTFBzLWx2bGRiUzd5Wjd3M3V6WllxdGk1Y3EwazF4VGFsZFpxUjRNd0FvbjRnTWRGTnhVS0I3cmNtMXczeUJwcTJwbUJNbjdONTYtWWdoSFFadmVsRG1ObVZ2dmNkNWF2OFBQUFBVcFRJaHhGY3FRcUJwWENGdTY2TXFPbXU2NzZOdVp5R01RaU5EVU5RZ2hsYmRHS0c5OUJHV3p2WnpKem1iVGw3MjJFVDcxdjRCaWVHRDk0QVZkNXFxV2FCRzY1ZTBZN1p5NQ?oc=5"
     },
     {
-      "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
-      "source": "SingularityHub",
-      "timestamp": "2026-03-20T14:00:00.000Z",
+      "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-03-20T15:55:35.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5"
+      "summary": "More! More! More! Tech Workers Max Out Their A.I. Use. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Chatbot Makers Try Sex Appeal - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-03-22T12:25:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNeEdWMWhqN0pzdTl3a1YwLTFPUEd0WWw5c1lDVWlKa1BhQ1BkOXdzdGlscThRSXhaQllESDd2N0NYdEZ4SjNVeGRodDVIUklvc3Y4ZkpmVDlKWkVaMlVrSms2cXplc2VOTGN5WlZGNFoxUlJsX29kWmFLbHlGWWMtdTlZZ3NyUkFONlhyZjlEbTJoOGg2Q3ZiY0VyQW5HNlBwamJQNlpmRTFEUmxnTXdMaml6enFocjMwM285NmJNemhSbm1QX3RYVktkNC00ZU9xVnNhcG85TjNMU1hZbTd0OUZjRTBrLURNMklYMEZmRW9Zc1l2cF82MW1ndEtqY25LaVQ4M0kzcmI0RG1KbS1vRXhyM0ctcEJPdHJuQjhFZ3BSQTMwOVlTVzNlX1lGczdvYkFWdkNNNE40MmpKbnZEaUhtTDFibGtQOWFjclc4cktEejFqUXRzcGhJb3RNV1YzVDVKRW0wQXJMRkIxNVlQUWhoX1BJaU40aHc?oc=5",
-        "summary": "Chatbot Makers Try Sex Appeal &nbsp;&nbsp; WSJ"
-      },
       {
         "headline": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
         "source": "CNBC",
@@ -131,6 +122,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5",
         "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-22T12:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzFFazRYU3dlZjlwOUVvNTBEeEFlRjNmYVVfLVNmNk9jVktDTGViMUphMHFEc0RpTUFPREI0ZDBYYThqRGoyRzRMNmlSNF92TE9XT09jVkF3Y2FGSUZxVGU2SExRNnJ1em5Pc3RKQTRmeWl2SXpmMktGNjZDekE1VVNvc2NjOWJHd215UlhfVXBwVjNtN2Nzc19vQ1dFSzJxZm83aDBoUTR1Rk5ZQ2EwSlVQN1FEOFNYamNtdUh3aVdzVVdCcjlF?oc=5",
+        "summary": "An exclusive tour of Amazon's Trainium lab, the chip that's won over Anthropic, OpenAI, even Apple &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
