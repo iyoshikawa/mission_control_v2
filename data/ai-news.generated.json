@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-23T11:50:09.607Z",
+    "generatedAt": "2026-03-23T13:18:54.889Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "CU Boulder professors raise concerns over ChatGPT deal - Axios",
+      "source": "Axios",
+      "timestamp": "2026-03-23T12:24:37.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "CU Boulder professors raise concerns over ChatGPT deal &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2hBQlJKZFNNODh6Y0U3OEQ4a2lpTmRoRWlHRVF2c0o1R2ctYmMzS3ZPWUZzT0M4eVVZaUNiUW1ERmx3aG55YzNEd2l2Y2xaaXBadHdqckw3RW1jOUdhRVpNZlZtdFFaUmNJcEJyNFk0QWJTRHJmQnk3V3hmcTVGOFpiS3ZXQi1nM1ptSjlGa01kVms4aTBPa1o3WmxNQQ?oc=5"
+    },
     {
       "headline": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake - Axios",
       "source": "Axios",
@@ -100,20 +110,19 @@
       "summary": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcVY4OGlzZGVuQVkzelNGbmpxXzF6VDNDcFBsZ3RCQUdxbUxNemJubi1OWDIyYkktV0ZCN2pwaWJ3czhkMnRUdHJkblAzMTVybTJiejk4UnR1QkI1T2RmODQ3c0lqUWpXdlRsbXE0Z3lKQWF4YTE3WTNfN0QweVIxQmdBTThVS1RSUllmbUwwRktiZ1VkTGdTUVRzWUhwVi16VlF0ajNJNUZaX3Boc3FFNTZfeTZtbk5xMVFqOUdmczBtMVYtU0EtREVXQnhWUWZIM0dCTGJJaW5UUWlybWtsQ3JqUGdwbHlPUXR0d1VfRUNUQzdndkxJalZjdjE?oc=5"
-    },
-    {
-      "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
-      "source": "SingularityHub",
-      "timestamp": "2026-03-20T14:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "CU Boulder professors raise concerns over ChatGPT deal - Axios",
+        "source": "Axios",
+        "timestamp": "2026-03-23T12:24:37.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2hBQlJKZFNNODh6Y0U3OEQ4a2lpTmRoRWlHRVF2c0o1R2ctYmMzS3ZPWUZzT0M4eVVZaUNiUW1ERmx3aG55YzNEd2l2Y2xaaXBadHdqckw3RW1jOUdhRVpNZlZtdFFaUmNJcEJyNFk0QWJTRHJmQnk3V3hmcTVGOFpiS3ZXQi1nM1ptSjlGa01kVms4aTBPa1o3WmxNQQ?oc=5",
+        "summary": "CU Boulder professors raise concerns over ChatGPT deal &nbsp;&nbsp; Axios"
+      },
       {
         "headline": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake - Axios",
         "source": "Axios",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUhNLWNtcjE2Vi1lY1dtY1MyS2lPR182Yi1VU0lsY2RRSGVVbEJHZ1lDNEd6NXNUWi1CWThTYkJQMnhCcHNIMkUxb0pGajAzZm14cTBIZmp4aXhjQnVUT3FuMUlkRUp4WVpVYUhzTWM1TlZiRWJzRy1mYWQyS2tIUlhWN2JzYXB0YW5ERTZnTkZ2TV9ERkhxVVNTLUxJWmF6M19rY1h2V08wYm5VVXc?oc=5",
         "summary": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "OpenAI reportedly plans to double its workforce to 8,000 employees - Engadget",
-        "source": "Engadget",
-        "timestamp": "2026-03-21T16:10:28.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3dTVVliV0tBZGtveFNCTVVlcU9IQ01TaGJCVk9sTzIxQ0twWGZfaE42SktQZ0lOLUFkZXppUkU4SWdpNXZwbm93VDRPYVZJNGN4eUZkLXBHVTVaN013QjFFTllyOFNjNE5nNlRQVWV1T0hDTTRjOUdzSHNMVTdHSWt4NUFPRTFCSGZzaGw3YTFiTUJubmxHel9qV191LTVqZjNTbEI4NWhFS2VG?oc=5",
-        "summary": "OpenAI reportedly plans to double its workforce to 8,000 employees &nbsp;&nbsp; Engadget"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
