@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-23T20:41:30.403Z",
+    "generatedAt": "2026-03-23T21:41:52.404Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Microsoft stock is cheap now but the risks are real - Rolling Out",
+      "headline": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-03-23T21:15:42.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQklVUFF2OFpXVE5oRXE5dnIxTTR1WldLRDlUT016NWM5d3BObVBTWG5sbGthZTJjUlYybFhJeUhURjVKUm11bU9kSDhXY01BMjdLeEpQWnItY1F5dU4ta254dllTdFRGdXplZUFCUXVlR0tUYzV6a202VU1pOHZuYmc3cy1nRjVLTl9UcklBZWRDbTY4N1pqbXh6M1BId0JocWR1czRXbmE4WERfQ0ZtTldiZmM?oc=5"
+    },
+    {
+      "headline": "Microsoft drops 25% and something big may be brewing - Rolling Out",
       "source": "Rolling Out",
       "timestamp": "2026-03-23T14:51:13.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft stock is cheap now but the risks are real &nbsp;&nbsp; Rolling Out",
+      "summary": "Microsoft drops 25% and something big may be brewing &nbsp;&nbsp; Rolling Out",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0VQaVN1dHJ3WnBpUE1UT2k3UWtsY1NxSmNodW15aVQ5WWdlOWN5dnNSRXVtSkdmN1hseW1pcTF0Qm5ZUlN3RjBYUmFnYjdFMkViTHlmSGdLSkFEMjdmOVFPNV9mQ2F2Tmd1SV9RcHdrN3UxZkc1YWpncC1SdHVUbw?oc=5"
     },
     {
-      "headline": "Why AI chatbots are getting more political - Salon.com",
-      "source": "Salon.com",
-      "timestamp": "2026-03-23T10:30:47.000Z",
+      "headline": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-03-23T12:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Why AI chatbots are getting more political &nbsp;&nbsp; Salon.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2QyaTJ3b1RYczNIdXZlaWlfLVBvTkRELU1nUDlwM0FZdGsxaTQ2aWtxSTJLdm5VSVpOTzhRNU5ZT2lVNXVoWFRVMU92Wm9hNDltTFR5VmczLWtEQktLVFAxa1BDZmpoeHd5RGcweDktRHdKVWFUVXR0QzVGNGZKaW5R?oc=5"
+      "summary": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNM0x3YjdfZkt3ZUlvLXBDaTQwSHlxTklXNnFqdkhSSXlFQ1B3dnE5RlFZYko0VHhQUjdPZ09UekdWdTBRZkJPLWpDNjVmSTh0R0c2SGI5Qzh4X0lVVER4dmlpdkpxc18wOWh4VVpiWV9YVnBRbU1hLWR4M0pxd2MxVFZlRDIzWG0zMGxXWVEycURicWxBWUhveDFKc19yb0t5RE4zbl9PTWgwWWJWeWw5M2tLZ29xQjlGTmx3Z1RiMjhyVS1FVVZLM0Q1Q0lBcDkyNGtDRENZV0s4MDdjZHRxOEtfUUxJdzBZMWwzUXBSd2taQ0p0MTRNb2FJMTBYN2h2aDlHNUlWX3RFeDlNS1JlSDNmbVlhMTBEYUpkREs1ZFpZZ0tqSkstcjBjNW5mLWRYcUlCUjdWdjVGal93RTgzZ3dwaXhCR3Vnd3BZNXFjQ3o1cm9PbWJ1UlFuam9DSGFqUjFlYTNnTWFXb2FCbGpwaV83a2pad1dxQkFIR3YzUFdQWlMwck9PMmxZa2NPTmFQRzlVZA?oc=5"
     },
     {
       "headline": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake - Axios",
@@ -92,45 +102,44 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUhNLWNtcjE2Vi1lY1dtY1MyS2lPR182Yi1VU0lsY2RRSGVVbEJHZ1lDNEd6NXNUWi1CWThTYkJQMnhCcHNIMkUxb0pGajAzZm14cTBIZmp4aXhjQnVUT3FuMUlkRUp4WVpVYUhzTWM1TlZiRWJzRy1mYWQyS2tIUlhWN2JzYXB0YW5ERTZnTkZ2TV9ERkhxVVNTLUxJWmF6M19rY1h2V08wYm5VVXc?oc=5"
     },
     {
-      "headline": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-03-21T10:46:00.000Z",
+      "headline": "OpenAI to double workforce as business push intensifies - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-03-21T12:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Jasjeet Sekhon joins Google DeepMind as Chief Strategy Officer; gets a welcome note from CEO Demis Hassab &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTmVUZjRjaHM1dnhQdmJqdXlNWGR3MS1pNm51VE1UUER5bFFmc2tuYTZfaW91TTcteHlTYVdiUnl4eFlYRk1vNlRtVDJXY1M2Yl8wTzRfSERvd2U2X2NzdFJsSU95NFhjdExlb0YzRHJmX1VWQVd5OExKNmMxRW5Sc096ZVFkcUNMMkdsREx4Rm0yWThEZml0bjZwcmFXckpvTFdVWjlFNGdmSXZtYU5rampGeUVFdkx5OF9LZEY4Mm5RVjB4NGNoaTVKMHYzVVJ4ak1fMFJQYU5QZWtkUG14WlpKc3B4ZWpLdGRXdWJYUUlmZklJUkoyV196SUdEc1c3d3lfMmMzczMzZ3BHc0M3bDJGT2ZGc29aWTNVRE1iSW1yRThsdFhWTlJSUm9ic2ZadHhJQTVodVVKR3BxZjNJMGduckhJd03SAcwCQVVfeXFMUHpzMnV0ZVYtVXltb0ZpRlU2SHN1YUdPS1hLaEl6WjJfVzBaUWlaSF9wVDBNS1kydkdYcUplSmhKamdHZFN1NDdVRXEzalNRZldkWGJlNE9KUUcweWVkMFJHVFdiYlpLbVVkLS1YYUV0Q004dTBhOHZrWmNNdy1rVENpNjJUWUoxbEY1SWRpQUhZX2JiZVhMck9DU2VDdDc1OGU2UC0yOVMyX1d6d1lFeVpWNlVhV0wyNkRXZkxuZUpHTzJWdmZ1Qnl1SVBRazNfOTc5WDQzOTBIVDVaaGREOW9jVUZuUzlzX0Y0Z3gzbHg2eHdFbG04cVRYOHN6SzJFRWZYLVI4RGhHUFZIUWRwY3d3OWtYcGlmeUo2MWhFYk90M0lpYmNpeWVZOHNPbkN3V3dDbllkZVFPQjZLdFZPQlFoNjRtRWxxSlpzNHY?oc=5"
-    },
-    {
-      "headline": "Rogue AI Agent Triggers Emergency at Meta - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-03-21T10:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Rogue AI Agent Triggers Emergency at Meta &nbsp;&nbsp; Futurism",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0NsUHVMREFmYVVKVFZ6T0NUME9KaXJ3WFd0cmNldExZNnNXc2c3TFBZQllDb3dZaEozU0VrWG01QldwUktCVk9zU1FVQ0NiZkYtbllhemdVSFgyc0NNZk1kWFZHWXI1SEc4d3p5bTJjeUlpekcybmtydE1ZTXEwTDhJbks4NG5qNEdaWTd1QQ?oc=5"
+      "summary": "OpenAI to double workforce as business push intensifies &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjlRbHRfbm9jRUkxdlcxQWpac0gtd3dZZDBzQzJfWDJrN3F0Z05Bb0pHUDRqWDRMbEY0aHNKcmtlSlJuTFMyaWtTTnZCYlNoT0U0Nlg1QS1mRkNrSk8tWG9QdDdwS0plTU01UW51WjNTQWZxMmo4MHhsVjZDTldKSXRLbXM?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Microsoft stock is cheap now but the risks are real - Rolling Out",
+        "headline": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-03-23T21:15:42.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQklVUFF2OFpXVE5oRXE5dnIxTTR1WldLRDlUT016NWM5d3BObVBTWG5sbGthZTJjUlYybFhJeUhURjVKUm11bU9kSDhXY01BMjdLeEpQWnItY1F5dU4ta254dllTdFRGdXplZUFCUXVlR0tUYzV6a202VU1pOHZuYmc3cy1nRjVLTl9UcklBZWRDbTY4N1pqbXh6M1BId0JocWR1czRXbmE4WERfQ0ZtTldiZmM?oc=5",
+        "summary": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Microsoft drops 25% and something big may be brewing - Rolling Out",
         "source": "Rolling Out",
         "timestamp": "2026-03-23T14:51:13.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0VQaVN1dHJ3WnBpUE1UT2k3UWtsY1NxSmNodW15aVQ5WWdlOWN5dnNSRXVtSkdmN1hseW1pcTF0Qm5ZUlN3RjBYUmFnYjdFMkViTHlmSGdLSkFEMjdmOVFPNV9mQ2F2Tmd1SV9RcHdrN3UxZkc1YWpncC1SdHVUbw?oc=5",
-        "summary": "Microsoft stock is cheap now but the risks are real &nbsp;&nbsp; Rolling Out"
+        "summary": "Microsoft drops 25% and something big may be brewing &nbsp;&nbsp; Rolling Out"
       },
       {
-        "headline": "Why AI chatbots are getting more political - Salon.com",
-        "source": "Salon.com",
-        "timestamp": "2026-03-23T10:30:47.000Z",
+        "headline": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-03-23T12:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2QyaTJ3b1RYczNIdXZlaWlfLVBvTkRELU1nUDlwM0FZdGsxaTQ2aWtxSTJLdm5VSVpOTzhRNU5ZT2lVNXVoWFRVMU92Wm9hNDltTFR5VmczLWtEQktLVFAxa1BDZmpoeHd5RGcweDktRHdKVWFUVXR0QzVGNGZKaW5R?oc=5",
-        "summary": "Why AI chatbots are getting more political &nbsp;&nbsp; Salon.com"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNM0x3YjdfZkt3ZUlvLXBDaTQwSHlxTklXNnFqdkhSSXlFQ1B3dnE5RlFZYko0VHhQUjdPZ09UekdWdTBRZkJPLWpDNjVmSTh0R0c2SGI5Qzh4X0lVVER4dmlpdkpxc18wOWh4VVpiWV9YVnBRbU1hLWR4M0pxd2MxVFZlRDIzWG0zMGxXWVEycURicWxBWUhveDFKc19yb0t5RE4zbl9PTWgwWWJWeWw5M2tLZ29xQjlGTmx3Z1RiMjhyVS1FVVZLM0Q1Q0lBcDkyNGtDRENZV0s4MDdjZHRxOEtfUUxJdzBZMWwzUXBSd2taQ0p0MTRNb2FJMTBYN2h2aDlHNUlWX3RFeDlNS1JlSDNmbVlhMTBEYUpkREs1ZFpZZ0tqSkstcjBjNW5mLWRYcUlCUjdWdjVGal93RTgzZ3dwaXhCR3Vnd3BZNXFjQ3o1cm9PbWJ1UlFuam9DSGFqUjFlYTNnTWFXb2FCbGpwaV83a2pad1dxQkFIR3YzUFdQWlMwck9PMmxZa2NPTmFQRzlVZA?oc=5",
+        "summary": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake - Axios",
@@ -158,15 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkw2TXhlcWtKNndCWE5WNTBIcXZSUE5QYzhIRWRMYlcyTktxYzZnOU5Pb2Y1cEpYeTU4NDI3WUd3ajg5UklJdDRHV3NOT0djXy1ZcDhXbU1FUHpvWkR2bVNPNEdKLVpRdGZ2RHluTnN4Z1ZvUkNOVG1PMmxfQXo1NDN6aks0eTRXYW1HZVBvOTRzaHhzeXVtU2RaeEI5SmJaNHQwMy1mS0FZWjFkUFdtMkFGUQ?oc=5",
         "summary": "Microsoft’s Expanding AI Security Partnerships Deepen Azure And Copilot Workflows &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Meta faces fresh storm as moderators complain over content from AI glasses - Daily Nation",
-        "source": "Daily Nation",
-        "timestamp": "2026-03-23T03:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXotV0V6ekxDMklRT1pRek1GampuNmJkMEhRdG93bmhCOHhWMWc2QzMySVBWb3ZYZGVyU2xLVW5wVmJTVFR2NjlfeDhuRUNDZ0VOYlJodGVzU1lYQklnazVWaXNwNkxrS05EQUpJTlRYT3RyR0NjZjJPN05fRElzM2JxSDRDQVFtLXJVZC1KT1ROVjlSSEp2cnlJNUZ3RkJtRUk2LVROeFVJVWROcUt5SnFkZ2VaZw?oc=5",
-        "summary": "Meta faces fresh storm as moderators complain over content from AI glasses &nbsp;&nbsp; Daily Nation"
       }
     ],
     "whyItMatters": [
