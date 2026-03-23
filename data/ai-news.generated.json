@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-23T10:56:57.980Z",
+    "generatedAt": "2026-03-23T11:50:09.607Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "Why AI chatbots are getting more political - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-03-23T10:30:47.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why AI chatbots are getting more political &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGZXS3ZwdnNXazd3QTNKR3NrUkpRUi1WNFVhNUo4dlpCRjlHWWxxS3l0RnBmclI1NmNtQ2NyNEx2b21IaUZTODEta2JaaDk1dnZtRDBSTnVsVlMxTTlWQkc1ZWg5QWE5SGZDTmF3T09lUE9nVFpDc0ZFRmpUdURDcFlHUzlyUQ?oc=5"
-    },
-    {
       "headline": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake - Axios",
       "source": "Axios",
       "timestamp": "2026-03-23T10:02:07.000Z",
@@ -30,6 +20,16 @@
       "summary": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGQzM2VxczhKQ1l6ZTRZbFVFSmpFM1JXMDRXcWU0M3p3LUJ0MmNLVmlvTEw3TDZHSnBjc2dKRW55RHB3ZUx4clpORmEwVkN3c2RCd2g4MlR2YWpyMW9aeEJTaERpbmNwUlVvYXdXU2V0WDFreFM0MnE1RnRrdG9CRUtB?oc=5"
+    },
+    {
+      "headline": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-23T10:01:21.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5"
     },
     {
       "headline": "Microsoft’s Massive AI Campus Highlights Growing Azure Infrastructure And Valuation Gap - simplywall.st",
@@ -50,16 +50,6 @@
       "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5"
-    },
-    {
-      "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-03-22T00:26:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdMcjhwbDM1bmFyQjFYTzN1cVlzUWJna1B3cUVtbTJZT3NKcEp5VW54Q1VsN0s0Z3FwY1hxXzA3UzVjbkF5b1c2NW04dDM0SFB3QlJNSWtZU0tFQkc3cGFwRkpXaG1kV1FiYzh2VVhycXBPRGhCQXEzUDJORDdfVnNvWVhnZE5TZnlLajVKZjViSlhvR3Z5Mw?oc=5"
     },
     {
       "headline": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' - Fortune",
@@ -110,19 +100,20 @@
       "summary": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcVY4OGlzZGVuQVkzelNGbmpxXzF6VDNDcFBsZ3RCQUdxbUxNemJubi1OWDIyYkktV0ZCN2pwaWJ3czhkMnRUdHJkblAzMTVybTJiejk4UnR1QkI1T2RmODQ3c0lqUWpXdlRsbXE0Z3lKQWF4YTE3WTNfN0QweVIxQmdBTThVS1RSUllmbUwwRktiZ1VkTGdTUVRzWUhwVi16VlF0ajNJNUZaX3Boc3FFNTZfeTZtbk5xMVFqOUdmczBtMVYtU0EtREVXQnhWUWZIM0dCTGJJaW5UUWlybWtsQ3JqUGdwbHlPUXR0d1VfRUNUQzdndkxJalZjdjE?oc=5"
+    },
+    {
+      "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
+      "source": "SingularityHub",
+      "timestamp": "2026-03-20T14:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence &nbsp;&nbsp; SingularityHub",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Why AI chatbots are getting more political - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-03-23T10:30:47.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGZXS3ZwdnNXazd3QTNKR3NrUkpRUi1WNFVhNUo4dlpCRjlHWWxxS3l0RnBmclI1NmNtQ2NyNEx2b21IaUZTODEta2JaaDk1dnZtRDBSTnVsVlMxTTlWQkc1ZWg5QWE5SGZDTmF3T09lUE9nVFpDc0ZFRmpUdURDcFlHUzlyUQ?oc=5",
-        "summary": "Why AI chatbots are getting more political &nbsp;&nbsp; Yahoo"
-      },
       {
         "headline": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake - Axios",
         "source": "Axios",
@@ -131,6 +122,15 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGQzM2VxczhKQ1l6ZTRZbFVFSmpFM1JXMDRXcWU0M3p3LUJ0MmNLVmlvTEw3TDZHSnBjc2dKRW55RHB3ZUx4clpORmEwVkN3c2RCd2g4MlR2YWpyMW9aeEJTaERpbmNwUlVvYXdXU2V0WDFreFM0MnE1RnRrdG9CRUtB?oc=5",
         "summary": "OpenClaw craze inspires Nvidia, Anthropic, Perplexity, Snowflake &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-03-23T10:01:21.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5",
+        "summary": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "Microsoft’s Massive AI Campus Highlights Growing Azure Infrastructure And Valuation Gap - simplywall.st",
@@ -151,15 +151,6 @@
         "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-03-22T00:26:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdMcjhwbDM1bmFyQjFYTzN1cVlzUWJna1B3cUVtbTJZT3NKcEp5VW54Q1VsN0s0Z3FwY1hxXzA3UzVjbkF5b1c2NW04dDM0SFB3QlJNSWtZU0tFQkc3cGFwRkpXaG1kV1FiYzh2VVhycXBPRGhCQXEzUDJORDdfVnNvWVhnZE5TZnlLajVKZjViSlhvR3Z5Mw?oc=5",
-        "summary": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else. &nbsp;&nbsp; Business Insider"
-      },
-      {
         "headline": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' - Fortune",
         "source": "Fortune",
         "timestamp": "2026-03-21T19:18:00.000Z",
@@ -167,20 +158,29 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUhNLWNtcjE2Vi1lY1dtY1MyS2lPR182Yi1VU0lsY2RRSGVVbEJHZ1lDNEd6NXNUWi1CWThTYkJQMnhCcHNIMkUxb0pGajAzZm14cTBIZmp4aXhjQnVUT3FuMUlkRUp4WVpVYUhzTWM1TlZiRWJzRy1mYWQyS2tIUlhWN2JzYXB0YW5ERTZnTkZ2TV9ERkhxVVNTLUxJWmF6M19rY1h2V08wYm5VVXc?oc=5",
         "summary": "OpenAI cofounder says he hasn't written a line of code in months and is in a 'state of psychosis' &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "OpenAI reportedly plans to double its workforce to 8,000 employees - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-03-21T16:10:28.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3dTVVliV0tBZGtveFNCTVVlcU9IQ01TaGJCVk9sTzIxQ0twWGZfaE42SktQZ0lOLUFkZXppUkU4SWdpNXZwbm93VDRPYVZJNGN4eUZkLXBHVTVaN013QjFFTllyOFNjNE5nNlRQVWV1T0hDTTRjOUdzSHNMVTdHSWt4NUFPRTFCSGZzaGw3YTFiTUJubmxHel9qV191LTVqZjNTbEI4NWhFS2VG?oc=5",
+        "summary": "OpenAI reportedly plans to double its workforce to 8,000 employees &nbsp;&nbsp; Engadget"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
