@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-24T09:01:56.772Z",
+    "generatedAt": "2026-03-24T10:55:34.944Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Microsoft Unveils New GenAI Security Protections in Azure AI Foundry - gbhackers.com",
-      "source": "gbhackers.com",
-      "timestamp": "2026-03-24T07:23:48.000Z",
+      "headline": "Behind the Curtain: America's next class war will be over AI fluency - Axios",
+      "source": "Axios",
+      "timestamp": "2026-03-24T10:13:30.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft Unveils New GenAI Security Protections in Azure AI Foundry &nbsp;&nbsp; gbhackers.com",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTN1Rza2dJb3luNjgtX2FLWVFGRGtGTDBoYXZBM0Q3cFpXZU41aXJXTHdOTmhQVUtaOFlBdXZWdDhZM3lwdWVfVEZBckpfS3kz?oc=5"
+      "summary": "Behind the Curtain: America's next class war will be over AI fluency &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xZ21DRFBNZDlFb0pWRXNTRHYzamdiTTk1MGdadTZOZmZuRklVTzc5UlU0bnZEN0R1bWRxc0NTSkVxUVFqdUdoRkROOUIyLXlnUUJOak1hblFQZXMteDEtWGhQSGMwVUk?oc=5"
+    },
+    {
+      "headline": "Why cutting Anthropic from government could be harder than expected - The Hill",
+      "source": "The Hill",
+      "timestamp": "2026-03-24T10:09:02.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Why cutting Anthropic from government could be harder than expected &nbsp;&nbsp; The Hill Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' &nbsp;&nbsp; CNBC Does A.I. Need a Constitution? &nbsp;&nbsp; The New Yorker",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkFWYnZ2a2FCNENKT3pJXzZMaEYxTjl2WjZmbF9haWQtTWNuMmU4REM4Zmw1dTl0WWpVdzZFcTRDcXo3NFloa0g0VURfeDFfVHhuRldRbF9DZU8tQjNtRUpBTDB5SWdSd0UtcFdFWVM1VG5JbDBLa0ptLWtTZnFTakpzM0tHZ2VF0gGOAUFVX3lxTFBWNzVaZURYTnNWRU85SlVEV3ptQ2J2MElKYTVXXzZrRWFkcXRZNzVJMFJad2lXaVNzSDUtdlg4ZVJvdjJVS0Nyal8zRUJaaVMwaFJDT3A5NWZfdE9jZkpuUTFJR3dXcmt0VlBHRWxSTWctQzdTT0llZ1Q0a00wVUZlNUwxZzRxdFdvRldfUnc?oc=5"
     },
     {
       "headline": "SoftBank tests its own borrowing limits with $30bn bet on OpenAI - Financial Times",
@@ -57,29 +67,19 @@
       "timestamp": "2026-03-23T22:00:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic's Claude Can Now Control Your Computer &nbsp;&nbsp; CNET",
+      "summary": "Anthropic's Claude Can Now Control Your Computer &nbsp;&nbsp; CNET Anthropic says Claude can now use your computer to finish tasks for you in AI agent push &nbsp;&nbsp; CNBC Long-running Claude for scientific computing &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXk1YUhOTmNiUlJtd2h3UDJDMGFzY2MzUnNocndOZWRHcWJuZ0FyQWNnMC1ROFFOMk1falB1bE0wQk1yTUpmTURwMWl1Q2dJOVJZVXFBbmU5UXdNUk5tTC1VZlgtSnpKUmJfbko0dzRmaENpZUxwLUpTRHlZaVdrLTVwYUQ0czJHUXNmQ2dnNXU0TE00RW9qYWNB?oc=5"
     },
     {
-      "headline": "Long-running Claude for scientific computing - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-03-23T19:46:36.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Long-running Claude for scientific computing &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qVHdwODZzd291WGF2emtGbDRMTk9KSWlKbVRVMWR6THZMaFJlRlJOeTE2MWEtYU1RdU9rYnA4RUp6Y2ZPaWoyMGVpMV9qRjRmODlKMDlleFhYWEw4WUdwaXJ6Yks?oc=5"
-    },
-    {
-      "headline": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-03-23T12:08:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' &nbsp;&nbsp; CNBC Dragos Chief Says He Won’t Stop Using Anthropic Unless Ordered &nbsp;&nbsp; Bloomberg.com Does A.I. Need a Constitution? &nbsp;&nbsp; The New Yorker",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjJLT2Z1LUFxdG5oeC1OUXp1TzVFNzNaWkxWdk9BcGIyOEh1bFR6VS0xTl9qRU0zVzZtYTRHbHZGbldtWVlSRHZzc3VCcjllbVEtY0ozQTVPVjRLa0dwMHQ3QVpsY2g3cDVFVGFjWkhPZmUyWmNOcHY3ZjFqcmRoYW41dlZBUdIBiwFBVV95cUxQZjlYeld3RHN0akJxM0Z5ZWROOGU5bTlUUmZ6UWZRYTZWT0Jrd2V5Ykt0UktOdG5SeFRoY0VUQXBBbTdCSGJMTUNIVnJ1dFhVNmhNdTBkMHdWbmlnaGo5akFXY2hBNzlPVC1LaXh1Wnk0STBKcDY3V3hOazkwaTN6V0ZXZk91bUN5bmRB?oc=5"
+      "headline": "Evercore highlights potential upside to Microsoft's Azure revenue, discusses 365 E7, Copilot - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-03-23T18:09:17.000Z",
+      "impact": "WATCH",
+      "category": "market",
+      "summary": "Evercore highlights potential upside to Microsoft's Azure revenue, discusses 365 E7, Copilot &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnJ1QXpiem82MkpmcHdjTjhhVE94eUFEQ2xvXzg2eTlUekRfUDhENXVuWTdRS251dUpWMklFYVBNZ2NwcXBKcW01Tl9KZ2c0NUg1eGw4SkVwZnVkNUJ3M2l5WXRyX3hha1g1cGY3b2dnS0VwaDZGZTdBUGlZSXV2VXlhTUI4ejV2T1BKc3ZsSkVzZ0hEd1VzYmNpMjJXTktxcFhpaFJBSUdJbERORDIwOVpDNFltaGdLR2taUENDdmszRUIyWkE?oc=5"
     },
     {
       "headline": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push - WSJ",
@@ -89,7 +89,7 @@
       "category": "ecosystem",
       "summary": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOSk5sbXZtM3o5RkxOQW1NcnZhSWljVVRaVnZhRTkwNGZoYk0wZGFlNEs4YThsUldxM3A4QmZ6ZTlmNEg1TnNkX24tcm9yVzJMenktX25CZm9wSlhMV2pTSE5DTFI0SlhwQmctV2dvbUhMdlBGLXNFR0JJYV9INkMzUk5xVHZfVDJvdFdYMENDTlR2MGYwaHBLYzF5T2FQdTg0N3hMNWRiTmtnLVVpWFU3R0p2bHphZV8xa3pubWNqUVVlY3R3Tm5KQlBPLWhJOWVxYzE1WEVtMGhhbkRkdVdyZUp4SjZNWl9BSHlwMHBiQ2JhLVJaUVdrVW9LakNaRzItcWRXNnNpUTNMbXlkWllMbllodVgtR1RHQzdzdlRBYmIwWkd0TFVaMkF4Yi1yRHhVMk1yblZ1YkEwbkFXZmZIQWY1UjRWZUNKdVdCa3VJRmhnbDFjOEhoRUpYQTM4UWMxazBqdy1LY3E1R3R2blJlZ25odW1ubkZCWjA2V1BpcTN6bERwVVBWTXM4cXN4MDNGOGRFZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQa1dpUjlmTS1Pb3RYN2VtNnl2UDF6engxcXV4TTBuUHFydm9CVU1fWVV5WDJxVDhMblpPb1VXLS1iamszVURQdlRHbDc2M0Y0NTJKQWxNeU43Zl9uMXNWUEc1UG9PVGk3UURTaDFaMVk1M2pNdVBIam84TGk1ckUtRW84Z1oxTVBjNG11N0dVWnFaOGw3dmQzUVM1OFNNMXVfc045NjFsQVFFNlNPbldLOUZXS0I5WDJvbk1lV2dCYVJYaklabG9aLUlKTEFaVXQ4bWZIRDNfN3RfMHZjakhWSFJGS3VjRTlqb1VXa2pIRERvblMzd3JZUS16ZVJWaFh4R1I3bV90Yi16NGk2VnEzYmJKSkVVb1lNNGpsSFp1WG1sdDEyVEJlTFFIMExkSlo5ZVk0dUFXYm5QOGJFOU9SdTduZmZwZWRIYXI5V1g5eEc4TGIxM19yamNjNVRuTFBEVVpDTkg4TEozVVBiZFFBMUUxMHdEV1JSbHJTZmxyYUhQbUROczc5bHNXSUNRcW41MGFTTA?oc=5"
     },
     {
       "headline": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
@@ -102,26 +102,35 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5"
     },
     {
-      "headline": "Microsoft’s Expanding AI Security Partnerships Deepen Azure And Copilot Workflows - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-03-23T04:23:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Microsoft’s Expanding AI Security Partnerships Deepen Azure And Copilot Workflows &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkw2TXhlcWtKNndCWE5WNTBIcXZSUE5QYzhIRWRMYlcyTktxYzZnOU5Pb2Y1cEpYeTU4NDI3WUd3ajg5UklJdDRHV3NOT0djXy1ZcDhXbU1FUHpvWkR2bVNPNEdKLVpRdGZ2RHluTnN4Z1ZvUkNOVG1PMmxfQXo1NDN6aks0eTRXYW1HZVBvOTRzaHhzeXVtU2RaeEI5SmJaNHQwMy1mS0FZWjFkUFdtMkFGUQ?oc=5"
+      "headline": "Google DeepMind hires Bridgewater AI chief Jasjeet Sekhon as strategy role expands - EdTech Innovation Hub",
+      "source": "EdTech Innovation Hub",
+      "timestamp": "2026-03-23T03:01:50.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Google DeepMind hires Bridgewater AI chief Jasjeet Sekhon as strategy role expands &nbsp;&nbsp; EdTech Innovation Hub",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHRqQjdraUlJcUo1MVlEQ2hXZHB4a0tkbzI4Q3ZVY0llTnY3eWJEZ0dHcG94eG1LVUVHRF9hbEFoU19ucXdMalpYVGxFM1N3dml6N1FnUUNKYkdjYzJhNk04S0ZmS3NQQjFac2J0bnVwXzRrVW1pN2lGMnI2U28xd3ZYMTZNdlpiMXVtNEtGTG9HTzNZbnJydFQyZENSX0VrQUwzaWZSZ1l5QWFkbWZndmg1OEg1QUZqRjl6bHdkLVI?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Microsoft Unveils New GenAI Security Protections in Azure AI Foundry - gbhackers.com",
-        "source": "gbhackers.com",
-        "timestamp": "2026-03-24T07:23:48.000Z",
+        "headline": "Behind the Curtain: America's next class war will be over AI fluency - Axios",
+        "source": "Axios",
+        "timestamp": "2026-03-24T10:13:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTN1Rza2dJb3luNjgtX2FLWVFGRGtGTDBoYXZBM0Q3cFpXZU41aXJXTHdOTmhQVUtaOFlBdXZWdDhZM3lwdWVfVEZBckpfS3kz?oc=5",
-        "summary": "Microsoft Unveils New GenAI Security Protections in Azure AI Foundry &nbsp;&nbsp; gbhackers.com"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xZ21DRFBNZDlFb0pWRXNTRHYzamdiTTk1MGdadTZOZmZuRklVTzc5UlU0bnZEN0R1bWRxc0NTSkVxUVFqdUdoRkROOUIyLXlnUUJOak1hblFQZXMteDEtWGhQSGMwVUk?oc=5",
+        "summary": "Behind the Curtain: America's next class war will be over AI fluency &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Why cutting Anthropic from government could be harder than expected - The Hill",
+        "source": "The Hill",
+        "timestamp": "2026-03-24T10:09:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkFWYnZ2a2FCNENKT3pJXzZMaEYxTjl2WjZmbF9haWQtTWNuMmU4REM4Zmw1dTl0WWpVdzZFcTRDcXo3NFloa0g0VURfeDFfVHhuRldRbF9DZU8tQjNtRUpBTDB5SWdSd0UtcFdFWVM1VG5JbDBLa0ptLWtTZnFTakpzM0tHZ2VF0gGOAUFVX3lxTFBWNzVaZURYTnNWRU85SlVEV3ptQ2J2MElKYTVXXzZrRWFkcXRZNzVJMFJad2lXaVNzSDUtdlg4ZVJvdjJVS0Nyal8zRUJaaVMwaFJDT3A5NWZfdE9jZkpuUTFJR3dXcmt0VlBHRWxSTWctQzdTT0llZ1Q0a00wVUZlNUwxZzRxdFdvRldfUnc?oc=5",
+        "summary": "Why cutting Anthropic from government could be harder than expected &nbsp;&nbsp; The Hill Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' &nbsp;&nbsp; CNBC Does A.I. Need a Constitution? &nbsp;&nbsp; The New Yorker"
       },
       {
         "headline": "SoftBank tests its own borrowing limits with $30bn bet on OpenAI - Financial Times",
@@ -157,16 +166,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXk1YUhOTmNiUlJtd2h3UDJDMGFzY2MzUnNocndOZWRHcWJuZ0FyQWNnMC1ROFFOMk1falB1bE0wQk1yTUpmTURwMWl1Q2dJOVJZVXFBbmU5UXdNUk5tTC1VZlgtSnpKUmJfbko0dzRmaENpZUxwLUpTRHlZaVdrLTVwYUQ0czJHUXNmQ2dnNXU0TE00RW9qYWNB?oc=5",
-        "summary": "Anthropic's Claude Can Now Control Your Computer &nbsp;&nbsp; CNET"
-      },
-      {
-        "headline": "Long-running Claude for scientific computing - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-03-23T19:46:36.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qVHdwODZzd291WGF2emtGbDRMTk9KSWlKbVRVMWR6THZMaFJlRlJOeTE2MWEtYU1RdU9rYnA4RUp6Y2ZPaWoyMGVpMV9qRjRmODlKMDlleFhYWEw4WUdwaXJ6Yks?oc=5",
-        "summary": "Long-running Claude for scientific computing &nbsp;&nbsp; Anthropic"
+        "summary": "Anthropic's Claude Can Now Control Your Computer &nbsp;&nbsp; CNET Anthropic says Claude can now use your computer to finish tasks for you in AI agent push &nbsp;&nbsp; CNBC Long-running Claude for scientific computing &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
