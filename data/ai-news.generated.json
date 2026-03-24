@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-24T02:33:48.775Z",
+    "generatedAt": "2026-03-24T04:58:05.266Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Microsoft Shares Fall 25%: AI Costs and Azure Slowdown Drive Investor Reassessment - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "timestamp": "2026-03-24T02:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Shares Fall 25%: AI Costs and Azure Slowdown Drive Investor Reassessment - News and Statistics &nbsp;&nbsp; IndexBox",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHdZdUR1ajNrbEFwT2hkRUVjV3dodEZqU0dPaS1JSDZFZVJnVlg0S3dWMHUyQjRmSlVvc1hiZ3p3dzZtRldxaFZhdjRKOWpCNTZZWmdQTHcwQUVTUXpvUDhPM0RHakNCdFVabU1OOURmemVyci1Cb2I1aG9iN0RmdWZ5eEZ2OVZnWEYtMll3bW93ZlhUTlB3ZVpiZlI?oc=5"
+    },
+    {
       "headline": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-03-23T23:03:00.000Z",
@@ -22,24 +32,34 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQklVUFF2OFpXVE5oRXE5dnIxTTR1WldLRDlUT016NWM5d3BObVBTWG5sbGthZTJjUlYybFhJeUhURjVKUm11bU9kSDhXY01BMjdLeEpQWnItY1F5dU4ta254dllTdFRGdXplZUFCUXVlR0tUYzV6a202VU1pOHZuYmc3cy1nRjVLTl9UcklBZWRDbTY4N1pqbXh6M1BId0JocWR1czRXbmE4WERfQ0ZtTldiZmM?oc=5"
     },
     {
-      "headline": "Dragos Chief Says He Won’t Stop Using Anthropic Unless Ordered - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-03-23T22:22:24.000Z",
+      "headline": "Mark Zuckerberg Is Building an AI CEO. Will He Lay Himself Off? - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-03-23T22:00:07.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Dragos Chief Says He Won’t Stop Using Anthropic Unless Ordered &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDI3aHQ1c19LbXhVTjZabWVJVmdMSzktRGR3cGsxS3VaTEJZYzBMN0h2S0xVTDdBa0NUYTVlZFh3YVpTZ2ZJcnhzQ0tTVjFZakZUS3BkUk9ISXdacHdMUFZmT3k4RUR3dzladFNNdEpfeHFVeFdRSTRoMVJzWnJhYXEzYkJrYkw4Q1FSWk1ERGdCZ2J1VVU3WDlCUXJlMzJQV1ctc25HOHlsTTA0bW5DM3FJOA?oc=5"
+      "summary": "Mark Zuckerberg Is Building an AI CEO. Will He Lay Himself Off? &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVW1yczRReVFGeGVyWVNZRGE4bnQtdllUV0hkR0xTV0lYZkJaSjJnNnFjQmFoYzNsbkE4Zk4zMThCVXMzN2QyLVY0RGNMbEdfV3dBLU8zN2lxSG45QjhMWTdWTlhycVdIbHpGeldOTFc3RHhDRmtEeWVfb1p6OVRPWTc0bkpuUXB5TGdhRmtZZ1h3R2pmSVdV?oc=5"
     },
     {
-      "headline": "Microsoft drops 25% and something big may be brewing - Rolling Out",
-      "source": "Rolling Out",
-      "timestamp": "2026-03-23T14:51:13.000Z",
+      "headline": "Anthropic's Claude Can Now Control Your Computer - CNET",
+      "source": "CNET",
+      "timestamp": "2026-03-23T22:00:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft drops 25% and something big may be brewing &nbsp;&nbsp; Rolling Out",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0VQaVN1dHJ3WnBpUE1UT2k3UWtsY1NxSmNodW15aVQ5WWdlOWN5dnNSRXVtSkdmN1hseW1pcTF0Qm5ZUlN3RjBYUmFnYjdFMkViTHlmSGdLSkFEMjdmOVFPNV9mQ2F2Tmd1SV9RcHdrN3UxZkc1YWpncC1SdHVUbw?oc=5"
+      "category": "models",
+      "summary": "Anthropic's Claude Can Now Control Your Computer &nbsp;&nbsp; CNET",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXk1YUhOTmNiUlJtd2h3UDJDMGFzY2MzUnNocndOZWRHcWJuZ0FyQWNnMC1ROFFOMk1falB1bE0wQk1yTUpmTURwMWl1Q2dJOVJZVXFBbmU5UXdNUk5tTC1VZlgtSnpKUmJfbko0dzRmaENpZUxwLUpTRHlZaVdrLTVwYUQ0czJHUXNmQ2dnNXU0TE00RW9qYWNB?oc=5"
+    },
+    {
+      "headline": "Long-running Claude for scientific computing - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-03-23T19:46:36.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Long-running Claude for scientific computing &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qVHdwODZzd291WGF2emtGbDRMTk9KSWlKbVRVMWR6THZMaFJlRlJOeTE2MWEtYU1RdU9rYnA4RUp6Y2ZPaWoyMGVpMV9qRjRmODlKMDlleFhYWEw4WUdwaXJ6Yks?oc=5"
     },
     {
       "headline": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' - CNBC",
@@ -59,17 +79,7 @@
       "category": "ecosystem",
       "summary": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNNHkxX25OR1VFSUkzdnh3U05NektYV0FpTS1pb1dGdWhic05idUh1SDMwR3N1dE5PYlBQM1NUSGV1cVRGSDB0WTdxSElJS0pZWWpMZEVyNzB0dHFlT1pCcF8tQmQwQ19idVhPQTZ2eG1BUmRCUkVyZDhOUnRtMmtwVDlUOG56clpJeGMtcHpLM09adWtIVVkxODE5SXk5T3pnWk9XS0VtY2MzN2VmdkJCbG1nZDNpcUFkeGhzTXpRcGFTMURKNWl5YjBJR0E4R3RxYk5yY3N1VXMzNkphT2sxMHVNSFM4LWM3Qld2NENtMGZqZzV5d3NWVGVIazZzYm02cmY3MllERkVyQmNid1dBSWNDbElGZFV5Q1IzY0ZLM25Ed3pDclIyUmtuRm4wREFySXo1bldvdkJhaTc3ZUVDaXp2NkdZYlpyN2pSN1YwdGVrQUVSWGpqZUFyZTB3czMzRjBPazVwTU5iTG5HYVl5THVNSnFWT1ZCT2hBWGtTelVNQktBcnlQUmNsRWtOU3dTMFJNYg?oc=5"
-    },
-    {
-      "headline": "Zuckerberg builds his own AI CEO as Meta eyes mass layoffs - Cybernews",
-      "source": "Cybernews",
-      "timestamp": "2026-03-23T10:34:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zuckerberg builds his own AI CEO as Meta eyes mass layoffs &nbsp;&nbsp; Cybernews",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HajduSWM2OExaRUdQMDRGLURlaS1KN3RIazBRVVUxTHV3OVdSMXdueUhpUmppOXdxU0VGVXlMSGV5S2g4cHNfcXA4Z3pfZVc3WEtuckE5bUZTYW9tYzI5NGx1eERpQ2pLMmJ4bm9Nb0FsUkVOZ0U1aEVR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNdWR6cTJjMUhKdUJWSkFCQ2lYVjFYVm1kdnhXRTgxeFhEVGlVanV1ZDNLU042Sk5vcVRNbUUzSmRlM0tyT3JnTHNTQVlncS1uXzd3Q1Y4RGFNQ1IzNGhxWU56LWhISU1rNFFJaDdZUEoycFBHdnFHQnpKZTM3Qm9BNVVyczJtVkhORmN0RXR1V0JBQ1hJa2RldzFtNGI0NmNPa1dzNXd4RlBsMFR1MzA4bWgwaEVibktuUGxSWjNnb0dFcl91VFpjNnoyV2NNSTR1ZDcyODc2TlBCT0dDQXNINWM1TDF1SHphVDNIOENITDNVQ25VZEFjZERyVHFMVDJBS21lU2xnYm5lLTBuOHhHaWVGeHo1S0FBMks2YXhGTWpTTUl5QTVON1p1RGF2Z1lZa1NKM1RFdWF5Mk5RR1E2TXdrMzlkVnIwdHdHT1ZnallYLXhLX2lZY2VjLUF5YUoyOE9UZ2RfWkMyd3d4aVRfSXV1VnFWUThCNGJvNE40d2t3bzJ1cjdtS2lvTUF2X1hNMjNjdw?oc=5"
     },
     {
       "headline": "Exclusive: OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say - Reuters",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW56SUFMaVJjWHF5dExwaENQLXFNT0tYYVhOdEhvdzl4WDFMbUhJZmNmWmZSTkp1U2xaOUotM24zTEVDdmF6NjNqRUJMX09HWV9EdkFNcDdNQlZtLXV0bXN1eFlaaGp4dG93RWVnWlVJckwtOXdYS0lySTRZVzdkS0ViRlVUbWM1ZGZ4d2VYM3lYSFdzUENfUFZBTDdtdzRBVi1hWEhURWhsZUFhY2J4NWlTTU41REdZbm0zVWhB?oc=5"
     },
     {
-      "headline": "Does A.I. Need a Constitution? - The New Yorker",
-      "source": "The New Yorker",
-      "timestamp": "2026-03-23T10:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Does A.I. Need a Constitution? &nbsp;&nbsp; The New Yorker",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RTUp5VVQ2SlRhdzVtUGdPWHlhS0dxU0x1VEk2YlBYR3ZadnpCRGVpY1paWmpIdEVVc0hYU0ZxRVc0N0dUNmotVTJlWGp2OVRxUkVLOVc0LUZKeW4xejV3bXRyTjFfLW5QbnNoOVdoRHpiOXZ0U3p1eTFkeHFxZw?oc=5"
-    },
-    {
       "headline": "Microsoft’s Expanding AI Security Partnerships Deepen Azure And Copilot Workflows - Yahoo Finance",
       "source": "Yahoo Finance",
       "timestamp": "2026-03-23T04:23:00.000Z",
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkw2TXhlcWtKNndCWE5WNTBIcXZSUE5QYzhIRWRMYlcyTktxYzZnOU5Pb2Y1cEpYeTU4NDI3WUd3ajg5UklJdDRHV3NOT0djXy1ZcDhXbU1FUHpvWkR2bVNPNEdKLVpRdGZ2RHluTnN4Z1ZvUkNOVG1PMmxfQXo1NDN6aks0eTRXYW1HZVBvOTRzaHhzeXVtU2RaeEI5SmJaNHQwMy1mS0FZWjFkUFdtMkFGUQ?oc=5"
     },
     {
-      "headline": "Meta faces fresh storm as moderators complain over content from AI glasses - Daily Nation",
-      "source": "Daily Nation",
-      "timestamp": "2026-03-23T03:00:00.000Z",
+      "headline": "Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-03-22T22:37:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta faces fresh storm as moderators complain over content from AI glasses &nbsp;&nbsp; Daily Nation",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXotV0V6ekxDMklRT1pRek1GampuNmJkMEhRdG93bmhCOHhWMWc2QzMySVBWb3ZYZGVyU2xLVW5wVmJTVFR2NjlfeDhuRUNDZ0VOYlJodGVzU1lYQklnazVWaXNwNkxrS05EQUpJTlRYT3RyR0NjZjJPN05fRElzM2JxSDRDQVFtLXJVZC1KT1ROVjlSSEp2cnlJNUZ3RkJtRUk2LVROeFVJVWROcUt5SnFkZ2VaZw?oc=5"
+      "category": "models",
+      "summary": "Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPWk9ZT2JET3U5eThLOWoxaEpLWGYyNVY3SUhxaEw1dWZyZjBmdThBUWt0WjZfcHRWQ2ZuZk1sMm10eU5ORnBQcGxHOTdQTVc4MWpZMXo2SXRfbHJPaFFnUDRfRVd0TkVSV3U5cm1rRVhjckRTbExQa2dLWFg1UUdHU1F5TlFGZ1MzaHZVdUEtVlNEN05TbWpuUFVIaXdhMzB6WFVRcEd1Mi1HNURNbVdTNUg1OGZ0MHNIUXotMGp4NThhcUhrZkluOUVNakFPQll5MmwzamZ6NEF3UFZJbkNPMEZoWGJDYWpsQ0lCLTJjMTljam52S2ZiX082bkxvU3hFU1FqbVdlVml4bjFINHJzSThYSEdIZjFLZGhoTUE5UmdzWUpkZEx0WEFaM0ZaNXlRLXRSX1JuWjNYNG1VRDhfNFFQR2JJWnhyRlcxRlV5bWVTZzM5d3F0M1pjcWNwUXBjN2F2Zkl0RkVyN18tUDhrV1NfUmpDcFFhZ3ZsV1dsMUFSNVBXaFRvTUdGblVBb3F4Mm5SSHZ5ZVZxRnRlRnJxaA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Microsoft Shares Fall 25%: AI Costs and Azure Slowdown Drive Investor Reassessment - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "timestamp": "2026-03-24T02:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHdZdUR1ajNrbEFwT2hkRUVjV3dodEZqU0dPaS1JSDZFZVJnVlg0S3dWMHUyQjRmSlVvc1hiZ3p3dzZtRldxaFZhdjRKOWpCNTZZWmdQTHcwQUVTUXpvUDhPM0RHakNCdFVabU1OOURmemVyci1Cb2I1aG9iN0RmdWZ5eEZ2OVZnWEYtMll3bW93ZlhUTlB3ZVpiZlI?oc=5",
+        "summary": "Microsoft Shares Fall 25%: AI Costs and Azure Slowdown Drive Investor Reassessment - News and Statistics &nbsp;&nbsp; IndexBox"
+      },
       {
         "headline": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer - Bloomberg.com",
         "source": "Bloomberg.com",
@@ -124,22 +133,31 @@
         "summary": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "Dragos Chief Says He Won’t Stop Using Anthropic Unless Ordered - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-03-23T22:22:24.000Z",
+        "headline": "Mark Zuckerberg Is Building an AI CEO. Will He Lay Himself Off? - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-03-23T22:00:07.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDI3aHQ1c19LbXhVTjZabWVJVmdMSzktRGR3cGsxS3VaTEJZYzBMN0h2S0xVTDdBa0NUYTVlZFh3YVpTZ2ZJcnhzQ0tTVjFZakZUS3BkUk9ISXdacHdMUFZmT3k4RUR3dzladFNNdEpfeHFVeFdRSTRoMVJzWnJhYXEzYkJrYkw4Q1FSWk1ERGdCZ2J1VVU3WDlCUXJlMzJQV1ctc25HOHlsTTA0bW5DM3FJOA?oc=5",
-        "summary": "Dragos Chief Says He Won’t Stop Using Anthropic Unless Ordered &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVW1yczRReVFGeGVyWVNZRGE4bnQtdllUV0hkR0xTV0lYZkJaSjJnNnFjQmFoYzNsbkE4Zk4zMThCVXMzN2QyLVY0RGNMbEdfV3dBLU8zN2lxSG45QjhMWTdWTlhycVdIbHpGeldOTFc3RHhDRmtEeWVfb1p6OVRPWTc0bkpuUXB5TGdhRmtZZ1h3R2pmSVdV?oc=5",
+        "summary": "Mark Zuckerberg Is Building an AI CEO. Will He Lay Himself Off? &nbsp;&nbsp; Gizmodo"
       },
       {
-        "headline": "Microsoft drops 25% and something big may be brewing - Rolling Out",
-        "source": "Rolling Out",
-        "timestamp": "2026-03-23T14:51:13.000Z",
+        "headline": "Anthropic's Claude Can Now Control Your Computer - CNET",
+        "source": "CNET",
+        "timestamp": "2026-03-23T22:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0VQaVN1dHJ3WnBpUE1UT2k3UWtsY1NxSmNodW15aVQ5WWdlOWN5dnNSRXVtSkdmN1hseW1pcTF0Qm5ZUlN3RjBYUmFnYjdFMkViTHlmSGdLSkFEMjdmOVFPNV9mQ2F2Tmd1SV9RcHdrN3UxZkc1YWpncC1SdHVUbw?oc=5",
-        "summary": "Microsoft drops 25% and something big may be brewing &nbsp;&nbsp; Rolling Out"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXk1YUhOTmNiUlJtd2h3UDJDMGFzY2MzUnNocndOZWRHcWJuZ0FyQWNnMC1ROFFOMk1falB1bE0wQk1yTUpmTURwMWl1Q2dJOVJZVXFBbmU5UXdNUk5tTC1VZlgtSnpKUmJfbko0dzRmaENpZUxwLUpTRHlZaVdrLTVwYUQ0czJHUXNmQ2dnNXU0TE00RW9qYWNB?oc=5",
+        "summary": "Anthropic's Claude Can Now Control Your Computer &nbsp;&nbsp; CNET"
+      },
+      {
+        "headline": "Long-running Claude for scientific computing - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-03-23T19:46:36.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qVHdwODZzd291WGF2emtGbDRMTk9KSWlKbVRVMWR6THZMaFJlRlJOeTE2MWEtYU1RdU9rYnA4RUp6Y2ZPaWoyMGVpMV9qRjRmODlKMDlleFhYWEw4WUdwaXJ6Yks?oc=5",
+        "summary": "Long-running Claude for scientific computing &nbsp;&nbsp; Anthropic"
       },
       {
         "headline": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' - CNBC",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjJLT2Z1LUFxdG5oeC1OUXp1TzVFNzNaWkxWdk9BcGIyOEh1bFR6VS0xTl9qRU0zVzZtYTRHbHZGbldtWVlSRHZzc3VCcjllbVEtY0ozQTVPVjRLa0dwMHQ3QVpsY2g3cDVFVGFjWkhPZmUyWmNOcHY3ZjFqcmRoYW41dlZBUdIBiwFBVV95cUxQZjlYeld3RHN0akJxM0Z5ZWROOGU5bTlUUmZ6UWZRYTZWT0Jrd2V5Ykt0UktOdG5SeFRoY0VUQXBBbTdCSGJMTUNIVnJ1dFhVNmhNdTBkMHdWbmlnaGo5akFXY2hBNzlPVC1LaXh1Wnk0STBKcDY3V3hOazkwaTN6V0ZXZk91bUN5bmRB?oc=5",
         "summary": "Sen. Warren questions DOD about Anthropic blacklist that 'appears to be retaliation' &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-03-23T12:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNNHkxX25OR1VFSUkzdnh3U05NektYV0FpTS1pb1dGdWhic05idUh1SDMwR3N1dE5PYlBQM1NUSGV1cVRGSDB0WTdxSElJS0pZWWpMZEVyNzB0dHFlT1pCcF8tQmQwQ19idVhPQTZ2eG1BUmRCUkVyZDhOUnRtMmtwVDlUOG56clpJeGMtcHpLM09adWtIVVkxODE5SXk5T3pnWk9XS0VtY2MzN2VmdkJCbG1nZDNpcUFkeGhzTXpRcGFTMURKNWl5YjBJR0E4R3RxYk5yY3N1VXMzNkphT2sxMHVNSFM4LWM3Qld2NENtMGZqZzV5d3NWVGVIazZzYm02cmY3MllERkVyQmNid1dBSWNDbElGZFV5Q1IzY0ZLM25Ed3pDclIyUmtuRm4wREFySXo1bldvdkJhaTc3ZUVDaXp2NkdZYlpyN2pSN1YwdGVrQUVSWGpqZUFyZTB3czMzRjBPazVwTU5iTG5HYVl5THVNSnFWT1ZCT2hBWGtTelVNQktBcnlQUmNsRWtOU3dTMFJNYg?oc=5",
-        "summary": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Zuckerberg builds his own AI CEO as Meta eyes mass layoffs - Cybernews",
-        "source": "Cybernews",
-        "timestamp": "2026-03-23T10:34:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HajduSWM2OExaRUdQMDRGLURlaS1KN3RIazBRVVUxTHV3OVdSMXdueUhpUmppOXdxU0VGVXlMSGV5S2g4cHNfcXA4Z3pfZVc3WEtuckE5bUZTYW9tYzI5NGx1eERpQ2pLMmJ4bm9Nb0FsUkVOZ0U1aEVR?oc=5",
-        "summary": "Zuckerberg builds his own AI CEO as Meta eyes mass layoffs &nbsp;&nbsp; Cybernews"
       }
     ],
     "whyItMatters": [
