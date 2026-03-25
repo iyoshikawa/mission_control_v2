@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-25T19:02:16.541Z",
+    "generatedAt": "2026-03-25T20:45:25.202Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Elon Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-03-25T17:20:50.000Z",
+      "headline": "OpenAI pivots from consumer hype to business reality - Axios",
+      "source": "Axios",
+      "timestamp": "2026-03-25T19:29:45.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Elon Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora &nbsp;&nbsp; Bloomberg.com",
+      "summary": "OpenAI pivots from consumer hype to business reality &nbsp;&nbsp; Axios",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHl3SkQ0MUM5UkxYSjI1bnhsdHZubTZYV3ZoMXNpOWhWbTM0VkNJdHJYcVJ6aVRzWVlXT3hyWkJIaXdvNGhNNDJSbUtHQXJ6X25Ia3F6M0xDU2htX0ktd2NFaGZsa1J0Y182WE5VN3lvaWhoaXphcXNRQm55aVJPVWNyQVdMcmhZdl81WnpBVHZuQzhVdy1vbnN4cnp3WjV3VFFkWHdDNmtFdl9mQmpFU2lB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWdsZGk2MmtlM21FZ3J4c2hTN1kySGlUSy1jNVM3RnVkT3VEY0dnSms5ZU1HUXNsRVZDTV8tX19DcTZCTmRPbEdsR29ObFdQSWJiLTlLeFI5M1FjSlZUZDlwYnJ1NDdPSlpaaDRDbnB4enQ4VFZfVUFDZVZRR29Lb1lYd3EyaklEOTBnT0tB?oc=5"
+    },
+    {
+      "headline": "Google DeepMind, Agile Robots Team Up to Boost Data Center Demand - Data Center Knowledge",
+      "source": "Data Center Knowledge",
+      "timestamp": "2026-03-25T19:07:58.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind, Agile Robots Team Up to Boost Data Center Demand &nbsp;&nbsp; Data Center Knowledge",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTVMR0xuMk9Hd1RockZGS05WdExVTkc1OXlKRGhIZlRYRHU2aHNMNDhSNG5iN01nMDJzQnMxN3Q3SE1ZRGR0amhVMmtnNVdTMmY1UExMZXZ0Nk5GLVNpdndGUjJ3eXRPWEhjOWYwQlFUR1c1VHh5WV9BRWxDWGMzc0tDM1RtNDBXdTc3a3FWeTh3YXN6MEJzWGJPMjlvaGd6OXlfWFpSM2tialktQmUwQi1OY0NudHhaSS1TZVByUXI3Nng2RWc?oc=5"
+    },
+    {
+      "headline": "Introducing the OpenAI Safety Bug Bounty program - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-03-25T17:34:03.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Introducing the OpenAI Safety Bug Bounty program &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85MmN6RUx0b2dfb2ttOUFRSDhDZDJJY2xSejZHNnkwVF92cm5WUGM1RGMwMVU2RkpBTHVVdVhTMzN3cjhEOUV1VlpybTI5TE44OGtIdXNB?oc=5"
     },
     {
       "headline": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind - WSJ",
@@ -29,27 +49,17 @@
       "category": "ecosystem",
       "summary": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind &nbsp;&nbsp; WSJ",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNdnhkdXhSRkJLV3Vmd1VuN2JDUS1fZFRueEVZVXFVMllodlhMeTQzMGRiMnpXMTVHeEI3dEI5LXdJcDFmRTNMUGhYOEMyMWtZZk1UMm01dFluNlhoYl9ZOHBSYzRUSnFEWDd6cGQ2dU9pbDJvVUNMa2VKbjFvXzB4S0lZWFN1elZ2aGFjQ3FvNlZvaDlGSHNJcF9GRldZTFNwNE9DYk5jVldZWDhrOWRIeTBBZVBnZXRjTmhNSXlvd2Vza1VsWlhPNHVPU2NwVTlLYmc5QjVtNWxfaFFRN1I1Y2hhemcyVmVrancwWHpvanJERnhGd0hsS2tYSWZOVnY5a2VXdjhiT293SEoyQjFvM3IzME42aVhkRWd5TEdjQTRuX09VSXdSTEM4ZUxhcnZMTmpGbWtrYkt3bVRkQnV5c1RXMGJuUUdra0FoQWF0emF4VDI5X0tWRVNRdmtNZHZrMmtNLVRnV2tkOGF0SnN3MlFOZ1ZQdzYyRVFj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQWGRPMVo2N2Y4bWxHTF9XaHB6NE5CY0hEU2xDcWNxblBvbkJtN1lScEYxTXp5dWFvQlpMT3dOZUpqMlZkRDBxbFFDSXVqTDJTUDNFOGRUd1ExcE1FQjJhOWtuUzVxZ3dZTFQxSTc1LXF2azFLd3hfR05IVkhLdG9yU0tQUzI0MkRiOHIwWHpNZE00eXF4cnNPeE4ydEhCTXNjZHJlQVFDcDc2dloyZmhVa25wOGctYTBPeTdXUkVmdHNFTmJsSkxncENnMlA0NnhLNmFBeDlsdFk3cmpBTmdraXhQMTNzSEVxV2w3VGVtSVJRd3ZPZW5EbUxkendPVFU1YTNKV0NvRXVBVFVnNmhxNkZULTlETVVBYWZWcG5JcjE4aHR2MEtfZHAxLWdKcE9QUWdEZnZRRHdiSzJncU4wUU9UT1o2SnMxTXM3cENmaHZVSEE1RElRcl9lY0VmWE9WMXpmdGQ0NFl4bDl1RGd4LXdDcVZSSXdEVXBF?oc=5"
     },
     {
-      "headline": "OpenAI Just Spiked Bob Iger’s Final Big Strategic Deal. For Disney, Maybe That’s Lucky - Variety",
-      "source": "Variety",
-      "timestamp": "2026-03-25T16:50:00.000Z",
+      "headline": "Lyria 3 Pro: Create longer tracks in more Google products - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-03-25T16:06:18.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Just Spiked Bob Iger’s Final Big Strategic Deal. For Disney, Maybe That’s Lucky &nbsp;&nbsp; Variety",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0RlRjl5QnB4NE43RzhKcGRuWEpabnE0V3RlelpHdm1yVmVkWm41VlB6aWhvQjVtVFE2RERIUElwNVdfMGRuQzB1ZHlEYS1iVHBwSkEzWHE2MDB2c2tZejJ6Nmdpb0p6YllZenUwYUpROWZNTDVvWXdiRE5BUHFOWUdYZTl0cER2OHBjWmk2dS0xU0tYZ04w?oc=5"
-    },
-    {
-      "headline": "Judge questions Pentagon's \"troubling\" Anthropic actions - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-25T15:00:35.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Judge questions Pentagon's \"troubling\" Anthropic actions &nbsp;&nbsp; Axios Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says &nbsp;&nbsp; WIRED Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2TFZUQ00tX1FwMjA5YWdQellfbm1aa3B5ajJaTVJGQ1pDeThUb1FvMmIwSmgwVTMtTWtwZHJlMllIaVFLVXFVSUFacHFLNE1pTzFaOWdrU0VkZDRWTnlSc01INUEyMkFUQ3NQV1c1ZmpfNG5UZlE?oc=5"
+      "summary": "Lyria 3 Pro: Create longer tracks in more Google products &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhZEJqbzA0UHR3QjREOHJFS1RUM1RSbHZHcGNQeVNuMUd3Q21Wbk9HN3VRczNXRExfLWZJNEtib0xxdHRDbnJWSnV2c3dWSHgxeVpBd0IzNXc3em9ScE1VOWd1SkdQVlNnNEVFVHRBNVVXZw?oc=5"
     },
     {
       "headline": "Hugo Barra's return to Meta 5 years after exit underscores Zuckerberg's AI urgency - CNBC",
@@ -72,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NhcnJtYWFoZko0UmN5QmRVakV5eEdLb0dkQ25GYTlqaE4xS1BtTjUyb0JBdk1wNFdEUHNBU2NfMmRYWm9TRUp3N2gzbjl0Sy1Ed3lEVG1WRGMybDR4WXI0Yy1UcVFJMTVVNjJ5VmlWdmpsR2ZqQ0NpVU04RDB3Z3FqR3otdHdacXVOclZ2dnBoVDdiblRVSDlYSnM2ZmpZazFSZNIBqgFBVV95cUxPMmVaWDBnUjBOalFpb3I1UENYcWhHSnl1d1owZUY1SFJ5dFczRjBvZlZROG02NDQzU1J5c0RUOWJOd2huQlpvTlBLUmRFRUtva29nNVNHYlViMjVFVGhMUUtOVDdCTmVfZTJkYWtFdWFBX0pIWW5pbmpQS2xqak1oOTllcVZxbTEtUG00QU1NYnlUNW9qS2hUQ1ZFNWEyNEVFVVFqNUdZZDhxUQ?oc=5"
     },
     {
+      "headline": "Judge calls Pentagon's moves against AI firm Anthropic \"troubling\": \"It looks like an attempt to cripple Anthropic\" - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-03-24T23:46:06.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Judge calls Pentagon's moves against AI firm Anthropic \"troubling\": \"It looks like an attempt to cripple Anthropic\" &nbsp;&nbsp; CBS News Judge questions Pentagon's \"troubling\" Anthropic actions &nbsp;&nbsp; Axios Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyakx2WV9iX0ZjeS1zYmFvVzF5WGNjUU85YkJ2NU1qSlVmbE5GOGlNakFvakZ3RkxZRDNfT0tEcFJUaEdRMTRJbEFWbUZGeWJMUmdNNFVEVmVTUEg1Z3JOVldRZV92bkJ5ODZ5MjdNYTZ1NHZDSGpXdWdaaG7SAYIBQVVfeXFMTTRlM1BhR2NrSUR4YUdPTjB0cjRoZHo1ZU1XNHphQUNiU04zdjRQRVVOckVZVzhDc25qd3hsN2RkbUtjWndXZEt2Y0NVTHJ0TGM4RlJYdWFaOU9JQ0l3VURSNGctLWdYMVNOSmlWWnVqRmZydm1WVlg1QXVZYUtYWGQtUQ?oc=5"
+    },
+    {
       "headline": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ",
       "source": "WSJ",
       "timestamp": "2026-03-24T21:56:00.000Z",
@@ -79,7 +99,7 @@
       "category": "models",
       "summary": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOWlNTazVROFMyVkZlZmlWaTVheWM5N1NqQUFBQ2kzWTBQVEwwamtrNmZjSTRxUlFDeEpFTkV1X0FvaXFKcjdBQXRGM2I3bzA4NmtScDVCWjBYS1VLV0pMM093RFIzVnYxVnN5VGVyNHRYZ0ladUR3el9KMzljZWNwRUFIX3NielNweXJDTndMVkcyOTJDa3ZpcHBvWnVUUUtOUm5INnVkV0hDUXJBT1FvcXYwWW5LdHNORi1hR1RjMXRJWkI3SzM2T2liQURwSER3aTE1YzhaX3EzbTIyM25HT3ZxanFNNHdKbUkxQlI5emFZQURxeGVrd3JKZTNzUnRQR2hhOE1EaEFPWkg2OG9xM3JUdXdJNFBYYlh1dEpXWGNvVFhPbVVmSDlCMXlyVHFWRGxzczQ2bVBCb19lLUxSb3ZUZmVRMkYyWnlCY2wyMlFCSlBwdG50a2NXM1ZWUkRIMUhRWXg0ZERBSkJLdnh5bG9yZlZYcjNEc0dfYlRYelJRN2NuTUZJR216S0JoczhWYWh3TQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcTRHZ2ZPWVFGMFQ0QnJQVVE0OGp1bDN1SFlhNGZlakRuMGhGc3VfaU5IMzJtUF9hbHlldE9pWnZua1dGUjdoSVBOREdOemtScHgyRjJRTDdMYURCN0gwYVdKSkpUU1dFNWRnTHhoVWgyN3JtYUhCcl9pSDFjRjZMQ2JHUnc3LTRKVFd5SVhiTXJoeWNsLUk3WmhJMzMyYUoxODVLaFBhSW4xRG5Da2twWnFuVE5kaEZGNExzc2EzRVZfTGdYZ1lndW1jelQwS1pfLTFMVXQtek5xMXpEZmVMdWRyMlVwZ2JQTTRSYlBTZHl4WUU0MXhDYWFEOGVnYk9kQUdaSDREMnpXbEtyaEZYaThMVEFrT2NHWFJmQUVfVEZaWjJTSnVIeVBjb0VkMlp3eGwwbW5IV3NoaW5XajAxNGtoejQwWDg0cEFuTmV3a28zQTE5NkEzcFpxeWZYWXJpcWxxV25TeGRCQ3lMQkhfQUV4N0M0VEwzeHQ0czg2MjJGNW5sVnluTVFfc180TE5RRFFuQQ?oc=5"
     },
     {
       "headline": "Anthropic hands Claude Code more control, but keeps it on a leash - TechCrunch",
@@ -90,38 +110,36 @@
       "summary": "Anthropic hands Claude Code more control, but keeps it on a leash &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5"
-    },
-    {
-      "headline": "Disney Exits OpenAI Deal After AI Giant Shutters Sora - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "timestamp": "2026-03-24T20:55:29.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Disney Exits OpenAI Deal After AI Giant Shutters Sora &nbsp;&nbsp; The Hollywood Reporter",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVNvaXRtYUlmY1RWZkFoc29rc3dFU2xpSUJZRHpwcmwyQXE0bmMzbEttN0ZVVHdaaTBNcFJjWFBzckROa0FDSlFaYUotZy1sOHVLaHhGbjhMZzduLTBNdWRHdVdQNnFZd3NoX2IyR3B6Q1dMNXprQWNyUTl5R09LU0FqWVhMem5WMU5ycWpKb0hYR3NDdVlQNlNveFZESWhTc1U0?oc=5"
-    },
-    {
-      "headline": "Google partners with Agile Robots, growing its AI robotics footprint - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-03-24T19:44:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google partners with Agile Robots, growing its AI robotics footprint &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQmgtaUN6OUp1T3JpZEJ2RXRvVEd6ZnNaWklySC1mQUN0YlZPSUlIemZiSFFaVU1qQ3JqNzQxeF9teHhFQnhnZXRsNW1ZWngxbVlzMmZHWVdSOVhBcnhLaWg2LWpDRGZ1REFkTk9xYmdZeWIyOXJB0gF8QVVfeXFMT05tMXRJeVFzUXJmaVdFM2c3Wl94NHVmYWpLUXhtZlI3clZLdEpOMkwwM2w0eUFET29GTFhEa2oyRlhhck81OVVCbWJqbmlaX2tWeHMtSlk5ZmN4d1A0enJjd2ZkYm1IblNhaGVjNWdqbHFGOVE0ZFAtd2cxVA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Elon Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-03-25T17:20:50.000Z",
+        "headline": "OpenAI pivots from consumer hype to business reality - Axios",
+        "source": "Axios",
+        "timestamp": "2026-03-25T19:29:45.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHl3SkQ0MUM5UkxYSjI1bnhsdHZubTZYV3ZoMXNpOWhWbTM0VkNJdHJYcVJ6aVRzWVlXT3hyWkJIaXdvNGhNNDJSbUtHQXJ6X25Ia3F6M0xDU2htX0ktd2NFaGZsa1J0Y182WE5VN3lvaWhoaXphcXNRQm55aVJPVWNyQVdMcmhZdl81WnpBVHZuQzhVdy1vbnN4cnp3WjV3VFFkWHdDNmtFdl9mQmpFU2lB?oc=5",
-        "summary": "Elon Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWdsZGk2MmtlM21FZ3J4c2hTN1kySGlUSy1jNVM3RnVkT3VEY0dnSms5ZU1HUXNsRVZDTV8tX19DcTZCTmRPbEdsR29ObFdQSWJiLTlLeFI5M1FjSlZUZDlwYnJ1NDdPSlpaaDRDbnB4enQ4VFZfVUFDZVZRR29Lb1lYd3EyaklEOTBnT0tB?oc=5",
+        "summary": "OpenAI pivots from consumer hype to business reality &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Google DeepMind, Agile Robots Team Up to Boost Data Center Demand - Data Center Knowledge",
+        "source": "Data Center Knowledge",
+        "timestamp": "2026-03-25T19:07:58.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTVMR0xuMk9Hd1RockZGS05WdExVTkc1OXlKRGhIZlRYRHU2aHNMNDhSNG5iN01nMDJzQnMxN3Q3SE1ZRGR0amhVMmtnNVdTMmY1UExMZXZ0Nk5GLVNpdndGUjJ3eXRPWEhjOWYwQlFUR1c1VHh5WV9BRWxDWGMzc0tDM1RtNDBXdTc3a3FWeTh3YXN6MEJzWGJPMjlvaGd6OXlfWFpSM2tialktQmUwQi1OY0NudHhaSS1TZVByUXI3Nng2RWc?oc=5",
+        "summary": "Google DeepMind, Agile Robots Team Up to Boost Data Center Demand &nbsp;&nbsp; Data Center Knowledge"
+      },
+      {
+        "headline": "Introducing the OpenAI Safety Bug Bounty program - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-03-25T17:34:03.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85MmN6RUx0b2dfb2ttOUFRSDhDZDJJY2xSejZHNnkwVF92cm5WUGM1RGMwMVU2RkpBTHVVdVhTMzN3cjhEOUV1VlpybTI5TE44OGtIdXNB?oc=5",
+        "summary": "Introducing the OpenAI Safety Bug Bounty program &nbsp;&nbsp; OpenAI"
       },
       {
         "headline": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind - WSJ",
@@ -129,26 +147,17 @@
         "timestamp": "2026-03-25T17:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNdnhkdXhSRkJLV3Vmd1VuN2JDUS1fZFRueEVZVXFVMllodlhMeTQzMGRiMnpXMTVHeEI3dEI5LXdJcDFmRTNMUGhYOEMyMWtZZk1UMm01dFluNlhoYl9ZOHBSYzRUSnFEWDd6cGQ2dU9pbDJvVUNMa2VKbjFvXzB4S0lZWFN1elZ2aGFjQ3FvNlZvaDlGSHNJcF9GRldZTFNwNE9DYk5jVldZWDhrOWRIeTBBZVBnZXRjTmhNSXlvd2Vza1VsWlhPNHVPU2NwVTlLYmc5QjVtNWxfaFFRN1I1Y2hhemcyVmVrancwWHpvanJERnhGd0hsS2tYSWZOVnY5a2VXdjhiT293SEoyQjFvM3IzME42aVhkRWd5TEdjQTRuX09VSXdSTEM4ZUxhcnZMTmpGbWtrYkt3bVRkQnV5c1RXMGJuUUdra0FoQWF0emF4VDI5X0tWRVNRdmtNZHZrMmtNLVRnV2tkOGF0SnN3MlFOZ1ZQdzYyRVFj?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQWGRPMVo2N2Y4bWxHTF9XaHB6NE5CY0hEU2xDcWNxblBvbkJtN1lScEYxTXp5dWFvQlpMT3dOZUpqMlZkRDBxbFFDSXVqTDJTUDNFOGRUd1ExcE1FQjJhOWtuUzVxZ3dZTFQxSTc1LXF2azFLd3hfR05IVkhLdG9yU0tQUzI0MkRiOHIwWHpNZE00eXF4cnNPeE4ydEhCTXNjZHJlQVFDcDc2dloyZmhVa25wOGctYTBPeTdXUkVmdHNFTmJsSkxncENnMlA0NnhLNmFBeDlsdFk3cmpBTmdraXhQMTNzSEVxV2w3VGVtSVJRd3ZPZW5EbUxkendPVFU1YTNKV0NvRXVBVFVnNmhxNkZULTlETVVBYWZWcG5JcjE4aHR2MEtfZHAxLWdKcE9QUWdEZnZRRHdiSzJncU4wUU9UT1o2SnMxTXM3cENmaHZVSEE1RElRcl9lY0VmWE9WMXpmdGQ0NFl4bDl1RGd4LXdDcVZSSXdEVXBF?oc=5",
         "summary": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "OpenAI Just Spiked Bob Iger’s Final Big Strategic Deal. For Disney, Maybe That’s Lucky - Variety",
-        "source": "Variety",
-        "timestamp": "2026-03-25T16:50:00.000Z",
+        "headline": "Lyria 3 Pro: Create longer tracks in more Google products - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-03-25T16:06:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0RlRjl5QnB4NE43RzhKcGRuWEpabnE0V3RlelpHdm1yVmVkWm41VlB6aWhvQjVtVFE2RERIUElwNVdfMGRuQzB1ZHlEYS1iVHBwSkEzWHE2MDB2c2tZejJ6Nmdpb0p6YllZenUwYUpROWZNTDVvWXdiRE5BUHFOWUdYZTl0cER2OHBjWmk2dS0xU0tYZ04w?oc=5",
-        "summary": "OpenAI Just Spiked Bob Iger’s Final Big Strategic Deal. For Disney, Maybe That’s Lucky &nbsp;&nbsp; Variety"
-      },
-      {
-        "headline": "Judge questions Pentagon's \"troubling\" Anthropic actions - Axios",
-        "source": "Axios",
-        "timestamp": "2026-03-25T15:00:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2TFZUQ00tX1FwMjA5YWdQellfbm1aa3B5ajJaTVJGQ1pDeThUb1FvMmIwSmgwVTMtTWtwZHJlMllIaVFLVXFVSUFacHFLNE1pTzFaOWdrU0VkZDRWTnlSc01INUEyMkFUQ3NQV1c1ZmpfNG5UZlE?oc=5",
-        "summary": "Judge questions Pentagon's \"troubling\" Anthropic actions &nbsp;&nbsp; Axios Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says &nbsp;&nbsp; WIRED Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC"
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhZEJqbzA0UHR3QjREOHJFS1RUM1RSbHZHcGNQeVNuMUd3Q21Wbk9HN3VRczNXRExfLWZJNEtib0xxdHRDbnJWSnV2c3dWSHgxeVpBd0IzNXc3em9ScE1VOWd1SkdQVlNnNEVFVHRBNVVXZw?oc=5",
+        "summary": "Lyria 3 Pro: Create longer tracks in more Google products &nbsp;&nbsp; blog.google"
       },
       {
         "headline": "Hugo Barra's return to Meta 5 years after exit underscores Zuckerberg's AI urgency - CNBC",
@@ -158,15 +167,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWpwN19jNTZRR2pzZ3lPVmdQQkZnWFJJdTJ0U3N6YWlTa2NsU3dwVWtzZGxiMmRQak9oZ2xqajZ3bVVlS3BWUDVJV2U2NHRMclZJUFNRa1ZZaWNjN3ZXMnZzNmJPZWk4ei1uWHpUX2dzVk81amo5M01IR1pkX0o1LW5xSjhLcDFxN3lTV2xQc1Z4bklWV2ZpcC0wNElwb2pZem4yMUVWZ1fSAa4BQVVfeXFMTWdVQjdHWm53by01VDNYd0IteWFocDhWNU83SzBhTVVxa0lLOXdmOW1kWmN0WlVWajBlbklXbGhDTTNscllyaHZTTnNrenZEUVNnNXM2ODgtNUhUOFNvOW55c0FTeEphNFA1ZkN0WHVKWmt4TUJDR0swQzV0UmR1YU1HQmlYQTYzT1NLVkV2ZUVyektBSkg1c3I0T09kTTBNVnQxRkNxc2dYYUZSWXN3?oc=5",
         "summary": "Hugo Barra's return to Meta 5 years after exit underscores Zuckerberg's AI urgency &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Meta makes 'big bet' on top leaders with stock options as pressure builds to catch up in AI - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-03-25T02:44:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3NhcnJtYWFoZko0UmN5QmRVakV5eEdLb0dkQ25GYTlqaE4xS1BtTjUyb0JBdk1wNFdEUHNBU2NfMmRYWm9TRUp3N2gzbjl0Sy1Ed3lEVG1WRGMybDR4WXI0Yy1UcVFJMTVVNjJ5VmlWdmpsR2ZqQ0NpVU04RDB3Z3FqR3otdHdacXVOclZ2dnBoVDdiblRVSDlYSnM2ZmpZazFSZNIBqgFBVV95cUxPMmVaWDBnUjBOalFpb3I1UENYcWhHSnl1d1owZUY1SFJ5dFczRjBvZlZROG02NDQzU1J5c0RUOWJOd2huQlpvTlBLUmRFRUtva29nNVNHYlViMjVFVGhMUUtOVDdCTmVfZTJkYWtFdWFBX0pIWW5pbmpQS2xqak1oOTllcVZxbTEtUG00QU1NYnlUNW9qS2hUQ1ZFNWEyNEVFVVFqNUdZZDhxUQ?oc=5",
-        "summary": "Meta makes 'big bet' on top leaders with stock options as pressure builds to catch up in AI &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
