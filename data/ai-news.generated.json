@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-25T04:58:38.380Z",
+    "generatedAt": "2026-03-25T06:08:22.166Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI CFO Friar: People believe in AI and want to put their money behind it - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-03-24T23:10:05.000Z",
+      "headline": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - NPR",
+      "source": "NPR",
+      "timestamp": "2026-03-25T05:34:01.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI CFO Friar: People believe in AI and want to put their money behind it &nbsp;&nbsp; CNBC",
+      "summary": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns &nbsp;&nbsp; NPR",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDM1OVdnMUlMaFdsY2VCNHB3YllvU21PM2R5ZG40dE5KN3BnSWlDNlRyZnY4cURoZ1Y1SnYyVUQ2aVhRTzJBeDlDT0lLWFdSYWp1UEhibllQcmdlOWRrUE5ZMVQ4Z3NVN05ubmI1T09lVHpRS184bFVWS0Etd1Z2S3JFS3d2SHI5X21QU0VCU291eDBvZ2NZcUF4dGZpLWoxVEh6WDVuVnJSUjBsZk1qZGJWRkJ3c09IUUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXNqYVpXc2FsNlhIMzZDRUQxNFVhYzFlRDdDQlJHS0ZibHRMQmVITnUyMDZja29DemZ2UktkX040V1kweHh4cUFXWVJQTTNPbi1pSzhYTHMzeGQ5R2U4MWF2SWJQLXlhQW45RkM0TUptVUhueEJzQkRua0huS2FIZWZIOVVuYmtVd1F5ZWFVZTMxejZlOTNzcG9IbEU0YV9JYVdKVjJMbHg0VmtLakJlaFhkTHA0WjQ3eHFBSVlZSGlaQjlv?oc=5"
+    },
+    {
+      "headline": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos - Al Jazeera",
+      "source": "Al Jazeera",
+      "timestamp": "2026-03-25T05:02:32.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos &nbsp;&nbsp; Al Jazeera",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZG1iaV82QURpTm02OHhPaE96dVNOTjdjMmdEUUtQdldjQXVUQ3I4c2ZNTFRKaGZhWFFuTUlORHd4NThRNkVrb0hrSkJnX0dwTGwyYW5BX1dua2k2ZzNac3hEWWZ2MU9GZXNCTVFSTFY2RS1ZNGZ5TzduMU9uU1lBSjRwMXBQQ2JMNXVtVzBPeW5aLXEzMmVXQ2JsRVJKdEdxTGs0U1Zld0ZZNW5YYXNV0gG0AUFVX3lxTE01VlY4NEUyeVFtRzVmWVpWR1dubGlWOEM4UWtpM1kxZ2RkYXNKTkpCQmE1ek9sc0tiTTllS3pLZ2tHakdZMXAwaDNQNXJuX0hKU1cwOUE5TDBjeEpWbFpYTWRrc1oxbnRPOGp3d0tKLTJiSnJOVjRrSDh5bGtmSE9vcmtxNUt1dlZsVG1fa21aZEhxdmUyNW14Wk1kT3Vua2N3VDE3QWtMZ0dXb3JPQzNaU1lldg?oc=5"
+    },
+    {
+      "headline": "Judge says government's Anthropic ban looks like punishment - NPR",
+      "source": "NPR",
+      "timestamp": "2026-03-25T00:12:28.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Judge says government's Anthropic ban looks like punishment &nbsp;&nbsp; NPR Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says &nbsp;&nbsp; WIRED Judge questions Pentagon's \"troubling\" Anthropic actions &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVhLZlN5RVVtWnB3MEkwdnkwX3ByekZfSnBXVnZxV3Nva3I2ZFNYN05yOGh6bW1tVEwwaTBha0V2Q0NjM3hMVHVSTDI3bHY0d2ZoaGhNazdmNTktWkFrbzV6MnZPTUlkTDNsUUM3YjRra2pMTWp5a3FRY2JoRlljYkhfS1VFOE5zYWxyaG9JTE9vbkRXRWQtaDBIMnQwdlRjUHNR?oc=5"
     },
     {
       "headline": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ",
@@ -29,7 +49,7 @@
       "category": "models",
       "summary": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOGFLcnY1S055VUVSVEZaWEgtUndFbUtFcFpnVmk0NTlWYXBLcWRETkpsMENfMTVpZ0duZGhDUldWd1BDNHdiTGRvQk1HT1V6eDdFaXI0NGNDNmZqXzlzVU8talVKWFJrbV8zLVBZQzVvRFYzWjQxWURTRW41YTRLc19JS3pWa0ZtT25CRTVzYnpHa29DNnZiU2hTQ2hTamM0SWdYaFprVTRXeEZ0WHA3ZGk3b0dxS0FLUEhWRFV2dGhUTkQ1MlNwZWlOYjhjYXBRSWMwWWZYTDJEaHdhTGlEa0ctR2NORmRRUWgyeTEwX3J4MjhEZ2pnSkNBdW1CSWNRZVp0TEFKUFVENTZjemtUOXkxX3Z4SlVWdE8wdkFaVl91RTlqd09RSzZzLVdCa3BONFprTzh1SkRCRVlTVlRTU2dzdXZfai0tMDBXMmtURTM2U18zbVFCZElWMmlOeWVpT296aDQtaUx3ZzgwMzM5SzFfQkRIVmVTWmtoV0NyempKc2lwUnFoZWhxZ0dYOFF1VXRFZA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQa0VtTXNMTUZ3aXhCQ012MU0xN3Jtakl5cWRSSkF1S3ZYT0p5ZTAwUkM2RDI4c1Faby0zOS1STS1Udm1zUURnRncwQlhYeGlPb1gyR3FxX2cweENaVzRwX3NYV01WRk5BUzkyUm5PWndjcDNQYU5MRzhsSkNiUlJmS3l6OS1LeFZFamZId3JONlJKMG1tQ1RPWU9VT1JDUDdaMHhFYnBkVHNKWXMyUk9CaUNOZnFLMGFtd3Q4NG5tYXk1S21PZUx6TmxBeVRWMFptc0VHdXdFcTVGZGhpVkNNNktUSDktaHpyckxRb0l1RnN5bUtyNllvbXJGVF9hZmVVdko0MFhENGpIdjFtdnpiSGVKd29qNG93RF9WRVFsNWZOUGZib1l4SkUybkJUTThHRTI1ZWtNRHUtTHRyRUlJUlFqZjZHb09VUDNZdzJXTVdYOGp5WDliRzFUWUdkd1JURXB1aHRLN2RaQmNTV3pqbGNxTi1aQml0Q2lURUVWQlduSFc4Z2tEM0xETWdxeS1WVUU1Qw?oc=5"
     },
     {
       "headline": "Tech stocks today: Anthropic announces new Claude capability, Nvidia's Jensen Huang says AGI era is here - Yahoo Finance",
@@ -62,26 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VNME1tdEZmVldoZmZFM1FsRUVTTUNzZHpzVUEzS2xKMFlCOFRhSmV0aWMweWFram9WNXI4TjFEamFnTzhIcEhrLUJPX2E3X1VEZU45akJLTlV3SUNZT2gxNnY0X3lHSmI3Zm5LZUlGZzczTFBTVmJ3T080cTJqdg?oc=5"
     },
     {
-      "headline": "Software stocks fall as fear of AI disruption is back in full force - MarketWatch",
-      "source": "MarketWatch",
-      "timestamp": "2026-03-24T19:59:00.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Software stocks fall as fear of AI disruption is back in full force &nbsp;&nbsp; MarketWatch",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPWElGdS03ZDRMRlhGT195Q3lDdFZKVVg0UGpKQTYyNWZLdXV5TDVVQUhWSGo3RVM5RG5USy1nSmZqSml3THN0cWVvV3RpSXFPbl9zb2J6bnIzTUZZb0NyTUsyUEt1YTBTWFBoM2VQNTNUVHQxYldrYU5nSzFjazVaUWJfemRRTk1sVXFrTGM5WEZ4dHlPaHV0MlFNOEhJbE85QjkxQ0dJZ2NfU2lvaE1VYVJNbFQzSGFEQ2hZTUlyRjJpY3pQRVh5X3pfVS1PZDRLYWtZX0JUUU5FQ3IzNE9vcm9xZjhBblcwTHNkaDVJVnlWQk5tU3JGN0dsUERfN0NvX1lBTEw0UUJJZk9SYlMyak1yNWhWUmEtZW1HbWxRYXpyV1E1LTJBdkl4Uy1NYnFUY3AtbThWWTlhOUMxYUtSY2gzbk04dWlIUmVWcnhhWWw3WmNhbDdPdzVUR09QR1FoNExzQmo0SmdydDFBYmF0dVh4QXA0aWt0UDdkRmEtZlFYZnpGQk1Jek5NWlpzMmduR0NiUy1xR09GaFRRcmVaVlNVTFZybmM0WmVRMEZUU1ZBdUFB?oc=5"
-    },
-    {
-      "headline": "OpenAI CEO Shifts Responsibilities, Preps ‘Spud’ AI Model - The Information",
-      "source": "The Information",
-      "timestamp": "2026-03-24T19:58:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI CEO Shifts Responsibilities, Preps ‘Spud’ AI Model &nbsp;&nbsp; The Information",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUE1vTE9GNkRUeTN1SlJBT0RPOTA1ME1QemtFa3lLMHhLaTNiVVlnSXA3dDJ6VFRwdlJFaE5HMS14RFhLTnFULW9zbmliNm1EN1BQSGc3OW9uaEt4WHkySlVIMU0xRDJvTlpmS1NxTDh0R3ozTnZiWDk0ekxmcncxT2lreEN4NFRybHJncTNuN2ZWUEN3LXk4X2t3?oc=5"
-    },
-    {
       "headline": "Google partners with Agile Robots, growing its AI robotics footprint - CNBC",
       "source": "CNBC",
       "timestamp": "2026-03-24T19:44:28.000Z",
@@ -92,36 +92,54 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQmgtaUN6OUp1T3JpZEJ2RXRvVEd6ZnNaWklySC1mQUN0YlZPSUlIemZiSFFaVU1qQ3JqNzQxeF9teHhFQnhnZXRsNW1ZWngxbVlzMmZHWVdSOVhBcnhLaWg2LWpDRGZ1REFkTk9xYmdZeWIyOXJB0gF8QVVfeXFMT05tMXRJeVFzUXJmaVdFM2c3Wl94NHVmYWpLUXhtZlI3clZLdEpOMkwwM2w0eUFET29GTFhEa2oyRlhhck81OVVCbWJqbmlaX2tWeHMtSlk5ZmN4d1A0enJjd2ZkYm1IblNhaGVjNWdqbHFGOVE0ZFAtd2cxVA?oc=5"
     },
     {
-      "headline": "Exclusive | Meta Executive Will Spearhead Push to Get Employees Using More AI - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-03-24T17:18:00.000Z",
+      "headline": "Harness design for long-running application development - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-03-24T16:43:36.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Exclusive | Meta Executive Will Spearhead Push to Get Employees Using More AI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNblpKM1dUR0pvVUdKajltT2xoUlhJLWFvUmsyeUpYRy1VcjlhN2VGbjVfVmJrdTRMREdwVVpsdjU5NFdLRWZWRVJUSmQ1cDV1ZWQ1YnZaYnIyZS1XUjYtQlVfOHo2NXJQaGd4UFVZOWZjeFhXMGw3eURJUVc2YmxCVm5QWGpQM2lELTMybDhUdjlBalhZRXczeDQwdUI3UEJFZFdqclJ6R0hIbzJOWTl2WENQQVU3RGMxMkFBTVg1cHBZUFVYLWRGcGVhS1V4YzQxNWJJLXVfWVFCekhGUm9iSWZhMmhuVmpXTkUwUzYtaXdmNUdJUkI1VkNpYWI2WnBBM1pDdlJGZkstN1Q3Y25ILWtRbURjekRHdnc0amdremstbmxiV3dpODFrNWFPRXRFN2tzT2UyNTd2UUdmUXNnUUQ0UjJreF9fdWpfaDhPQ2htM0dXQXJvaFh1b0Rna1hNMURpSkRFT1RuWjFYQjhZdEpOMTJYZ0J3R1QxX1lXdmZSUmtSVHhHQTBxTlR2MWV2Q3RRLTVVbkxTVHVMOTgzay04ZjY?oc=5"
+      "summary": "Harness design for long-running application development &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTVhZVkFSR3BSeURxci1ESVA3MzNFQzlNRDY1YTV1ZFh6ZElYWEtRcllsN0ZVZk9HOTNCQ2drdWFzWV9RTm9IZVNWajJmSmw1c0t1LXJTZGpWOEZBYkFQS3ctVFJfRnJrWlJHNTZyV2dvRk5Bblp3RjBR?oc=5"
     },
     {
-      "headline": "Arm releases first in-house chip, with Meta as debut customer - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-03-24T17:00:01.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Arm releases first in-house chip, with Meta as debut customer &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZDh0bjJoSUF3V2F3SzdTMEFETHBBbEd3Zjg0RUdHc2VyTjdxUk5wY3hHRnpKRGhZMWRYM0FTUUZKSzdBWkEwNjFDS1ZZTWt5ODYyQnpMalRTQ01hblo2a29ydGhPNjNWOE9pVmFQVEpaUDQzei1saGhfcThRUjRqUjBoS2lYbG1FU2UwUlFDb0xuMTTSAZgBQVVfeXFMTlM1bTQ0cjZnRHNaSHJBMzBqUGF6MDd2YnJLTURwUVhSNm1aeXVENFFsZFpiVmRKeXk0MnBKM1BkSWlhRE5zd1l0YXNKNE9ITkV6SUlpZlR5VkczZ0RQc0l3TzRNUXRValpnOVJoRmptREl1ZEZOMENDRW5zMnllNzNndFBxTThqWk1kUl82Q0NYM0ZnUUZQT3Y?oc=5"
+      "headline": "Agile Robots becomes the latest robotics company to partner with Google DeepMind - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-24T12:05:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Agile Robots becomes the latest robotics company to partner with Google DeepMind &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTZpdjV3YTlTWTJXc1lvZ0d6RGktMHozYzZ3dzFRMzZUcWF4bGN2YWJLaV9IZnp6TW5FNHoxaDBOa2QxMk1WUkxoekZ2YXZ4dWVfMTdiSFdzMUNXS2tJQUdUWnJ1VTVDekYwakI0UmZJQkwzMS1KQlBPd0xjYjBqMEtpaEdYeTk0RHdwRnN2NlhvX0xwR1RBb29obnU2YmVhOVM2Xzd4M2NYa19zQ0FPSGV3d3BQZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI CFO Friar: People believe in AI and want to put their money behind it - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-03-24T23:10:05.000Z",
+        "headline": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - NPR",
+        "source": "NPR",
+        "timestamp": "2026-03-25T05:34:01.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDM1OVdnMUlMaFdsY2VCNHB3YllvU21PM2R5ZG40dE5KN3BnSWlDNlRyZnY4cURoZ1Y1SnYyVUQ2aVhRTzJBeDlDT0lLWFdSYWp1UEhibllQcmdlOWRrUE5ZMVQ4Z3NVN05ubmI1T09lVHpRS184bFVWS0Etd1Z2S3JFS3d2SHI5X21QU0VCU291eDBvZ2NZcUF4dGZpLWoxVEh6WDVuVnJSUjBsZk1qZGJWRkJ3c09IUUE?oc=5",
-        "summary": "OpenAI CFO Friar: People believe in AI and want to put their money behind it &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXNqYVpXc2FsNlhIMzZDRUQxNFVhYzFlRDdDQlJHS0ZibHRMQmVITnUyMDZja29DemZ2UktkX040V1kweHh4cUFXWVJQTTNPbi1pSzhYTHMzeGQ5R2U4MWF2SWJQLXlhQW45RkM0TUptVUhueEJzQkRua0huS2FIZWZIOVVuYmtVd1F5ZWFVZTMxejZlOTNzcG9IbEU0YV9JYVdKVjJMbHg0VmtLakJlaFhkTHA0WjQ3eHFBSVlZSGlaQjlv?oc=5",
+        "summary": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns &nbsp;&nbsp; NPR"
+      },
+      {
+        "headline": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos - Al Jazeera",
+        "source": "Al Jazeera",
+        "timestamp": "2026-03-25T05:02:32.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZG1iaV82QURpTm02OHhPaE96dVNOTjdjMmdEUUtQdldjQXVUQ3I4c2ZNTFRKaGZhWFFuTUlORHd4NThRNkVrb0hrSkJnX0dwTGwyYW5BX1dua2k2ZzNac3hEWWZ2MU9GZXNCTVFSTFY2RS1ZNGZ5TzduMU9uU1lBSjRwMXBQQ2JMNXVtVzBPeW5aLXEzMmVXQ2JsRVJKdEdxTGs0U1Zld0ZZNW5YYXNV0gG0AUFVX3lxTE01VlY4NEUyeVFtRzVmWVpWR1dubGlWOEM4UWtpM1kxZ2RkYXNKTkpCQmE1ek9sc0tiTTllS3pLZ2tHakdZMXAwaDNQNXJuX0hKU1cwOUE5TDBjeEpWbFpYTWRrc1oxbnRPOGp3d0tKLTJiSnJOVjRrSDh5bGtmSE9vcmtxNUt1dlZsVG1fa21aZEhxdmUyNW14Wk1kT3Vua2N3VDE3QWtMZ0dXb3JPQzNaU1lldg?oc=5",
+        "summary": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos &nbsp;&nbsp; Al Jazeera"
+      },
+      {
+        "headline": "Judge says government's Anthropic ban looks like punishment - NPR",
+        "source": "NPR",
+        "timestamp": "2026-03-25T00:12:28.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVhLZlN5RVVtWnB3MEkwdnkwX3ByekZfSnBXVnZxV3Nva3I2ZFNYN05yOGh6bW1tVEwwaTBha0V2Q0NjM3hMVHVSTDI3bHY0d2ZoaGhNazdmNTktWkFrbzV6MnZPTUlkTDNsUUM3YjRra2pMTWp5a3FRY2JoRlljYkhfS1VFOE5zYWxyaG9JTE9vbkRXRWQtaDBIMnQwdlRjUHNR?oc=5",
+        "summary": "Judge says government's Anthropic ban looks like punishment &nbsp;&nbsp; NPR Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says &nbsp;&nbsp; WIRED Judge questions Pentagon's \"troubling\" Anthropic actions &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ",
@@ -129,7 +147,7 @@
         "timestamp": "2026-03-24T21:56:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOOGFLcnY1S055VUVSVEZaWEgtUndFbUtFcFpnVmk0NTlWYXBLcWRETkpsMENfMTVpZ0duZGhDUldWd1BDNHdiTGRvQk1HT1V6eDdFaXI0NGNDNmZqXzlzVU8talVKWFJrbV8zLVBZQzVvRFYzWjQxWURTRW41YTRLc19JS3pWa0ZtT25CRTVzYnpHa29DNnZiU2hTQ2hTamM0SWdYaFprVTRXeEZ0WHA3ZGk3b0dxS0FLUEhWRFV2dGhUTkQ1MlNwZWlOYjhjYXBRSWMwWWZYTDJEaHdhTGlEa0ctR2NORmRRUWgyeTEwX3J4MjhEZ2pnSkNBdW1CSWNRZVp0TEFKUFVENTZjemtUOXkxX3Z4SlVWdE8wdkFaVl91RTlqd09RSzZzLVdCa3BONFprTzh1SkRCRVlTVlRTU2dzdXZfai0tMDBXMmtURTM2U18zbVFCZElWMmlOeWVpT296aDQtaUx3ZzgwMzM5SzFfQkRIVmVTWmtoV0NyempKc2lwUnFoZWhxZ0dYOFF1VXRFZA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQa0VtTXNMTUZ3aXhCQ012MU0xN3Jtakl5cWRSSkF1S3ZYT0p5ZTAwUkM2RDI4c1Faby0zOS1STS1Udm1zUURnRncwQlhYeGlPb1gyR3FxX2cweENaVzRwX3NYV01WRk5BUzkyUm5PWndjcDNQYU5MRzhsSkNiUlJmS3l6OS1LeFZFamZId3JONlJKMG1tQ1RPWU9VT1JDUDdaMHhFYnBkVHNKWXMyUk9CaUNOZnFLMGFtd3Q4NG5tYXk1S21PZUx6TmxBeVRWMFptc0VHdXdFcTVGZGhpVkNNNktUSDktaHpyckxRb0l1RnN5bUtyNllvbXJGVF9hZmVVdko0MFhENGpIdjFtdnpiSGVKd29qNG93RF9WRVFsNWZOUGZib1l4SkUybkJUTThHRTI1ZWtNRHUtTHRyRUlJUlFqZjZHb09VUDNZdzJXTVdYOGp5WDliRzFUWUdkd1JURXB1aHRLN2RaQmNTV3pqbGNxTi1aQml0Q2lURUVWQlduSFc4Z2tEM0xETWdxeS1WVUU1Qw?oc=5",
         "summary": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch &nbsp;&nbsp; WSJ"
       },
       {
@@ -149,24 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVNvaXRtYUlmY1RWZkFoc29rc3dFU2xpSUJZRHpwcmwyQXE0bmMzbEttN0ZVVHdaaTBNcFJjWFBzckROa0FDSlFaYUotZy1sOHVLaHhGbjhMZzduLTBNdWRHdVdQNnFZd3NoX2IyR3B6Q1dMNXprQWNyUTl5R09LU0FqWVhMem5WMU5ycWpKb0hYR3NDdVlQNlNveFZESWhTc1U0?oc=5",
         "summary": "Disney Exits OpenAI Deal After AI Giant Shutters Sora &nbsp;&nbsp; The Hollywood Reporter"
-      },
-      {
-        "headline": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-03-24T20:43:14.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VNME1tdEZmVldoZmZFM1FsRUVTTUNzZHpzVUEzS2xKMFlCOFRhSmV0aWMweWFram9WNXI4TjFEamFnTzhIcEhrLUJPX2E3X1VEZU45akJLTlV3SUNZT2gxNnY0X3lHSmI3Zm5LZUlGZzczTFBTVmJ3T080cTJqdg?oc=5",
-        "summary": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Software stocks fall as fear of AI disruption is back in full force - MarketWatch",
-        "source": "MarketWatch",
-        "timestamp": "2026-03-24T19:59:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPWElGdS03ZDRMRlhGT195Q3lDdFZKVVg0UGpKQTYyNWZLdXV5TDVVQUhWSGo3RVM5RG5USy1nSmZqSml3THN0cWVvV3RpSXFPbl9zb2J6bnIzTUZZb0NyTUsyUEt1YTBTWFBoM2VQNTNUVHQxYldrYU5nSzFjazVaUWJfemRRTk1sVXFrTGM5WEZ4dHlPaHV0MlFNOEhJbE85QjkxQ0dJZ2NfU2lvaE1VYVJNbFQzSGFEQ2hZTUlyRjJpY3pQRVh5X3pfVS1PZDRLYWtZX0JUUU5FQ3IzNE9vcm9xZjhBblcwTHNkaDVJVnlWQk5tU3JGN0dsUERfN0NvX1lBTEw0UUJJZk9SYlMyak1yNWhWUmEtZW1HbWxRYXpyV1E1LTJBdkl4Uy1NYnFUY3AtbThWWTlhOUMxYUtSY2gzbk04dWlIUmVWcnhhWWw3WmNhbDdPdzVUR09QR1FoNExzQmo0SmdydDFBYmF0dVh4QXA0aWt0UDdkRmEtZlFYZnpGQk1Jek5NWlpzMmduR0NiUy1xR09GaFRRcmVaVlNVTFZybmM0WmVRMEZUU1ZBdUFB?oc=5",
-        "summary": "Software stocks fall as fear of AI disruption is back in full force &nbsp;&nbsp; MarketWatch"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
