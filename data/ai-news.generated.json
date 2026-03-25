@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-25T08:59:45.199Z",
+    "generatedAt": "2026-03-25T10:03:08.093Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI kills Sora - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-03-25T09:52:12.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI kills Sora &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjQ5ZDBrR1VsMXQ0cGZYaW9VUVJvMkdoc2Mxa3NKbm80TlhKUHU0RnJMUmVQbXc4ZDV6ZVU5YkRaRzJxemg4c1NiUVUza3BlbjFNNVp5bVNjV3RHUC1yQm9nWm5Ubk5VV1lEa09HamQxVnpZOVZ1WTd2S0dONTBRQXJseEN5QnlsTFJjZENR?oc=5"
+    },
     {
       "headline": "Meta makes 'big bet' on top leaders with stock options as pressure builds to catch up in AI - CNBC",
       "source": "CNBC",
@@ -24,7 +34,7 @@
     {
       "headline": "OpenAI shutters AI video generator Sora in abrupt announcement - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-03-24T23:47:00.000Z",
+      "timestamp": "2026-03-24T22:34:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI shutters AI video generator Sora in abrupt announcement &nbsp;&nbsp; The Guardian",
@@ -39,7 +49,7 @@
       "category": "models",
       "summary": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUy1hQXFWUHlBQjVlRFcwaUhNUlRrQTNwOUNOc2dUTmRIZlE1cDU0NWY0ODFCdVVPTWFMOFhud0M2T201WjAxZGlsMm1GSFF1QjhSd1ROVHlkX3dFYzhhaFFLano4NG50TTJfOHpXdjh5X3dsaUtBbXVNZE1wVGJYV1l3Vnhlbk9SbGNSVGxIeXhiN0NMMHM4RjVGZGNaTHNONldIUUZqQ1g3R2VxY2hpOXc0el93LUxwVkQxYnR2NmxENm5KVmoxNjhRaHJ2ejhham9OU2d1b2Zuek92eHVvUy1WNlBsdE5pSXpsZFZMSE9ycWV0NXFvb1c4QnNCbGF2R0pyS3F5TmVVNFk4VUtPMkVNTlVlUlJ1WGVWWm1fOUo2dzhMc0x3ZFRnYjZPcWJ2UjdObU9JcEo3X21xM1pramw4M1E2eUxZUGIyNi04bmZKY1l3MkNqTlVQcF9Xc2FhcC00WDRuUF85SWQ3V3l6OTlWUms1RkNTbEZyRjh0MUd1TjJqczlIUXMzSHlzTldOY1J5Tg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQVmQxYUc1bXdCdEZaUk9mV2JFdlNFaC1xOEc2Sk9vWVZaWEtzVV90dVlPdHVkNUtYTjZiYUNpNFpsTUdVeXU5RENDVzJ4VTg2QVZpampsZVhjcThhbDdlSF96MGxBOFN4NVc2M1pmOVF3bHNQcU8zOFhsTTlmZENmNWRrbmVwRU02dXlDV1NQTGV4RHhMWE1qY2FfSzRaR3BpOEN6cDVJbXJTZ3JZWTJOUWkyaFFRSGZwV1liYWoxdnk2OWxWMmxkc1k1M3hBSGlVWEg1MmNhZHV2SF84cnRjY0x2UzhIazFFaWhqMko5VmFOM01KN25Rb2ZaYmVLX2JTamQ1eGFUWFc4RjdrZ1JENUJRS2tHRklzVTNtN3R2MEE2NmV4a3M2OVltV1NLeUZINmY1VlE1TVNSRGFMXzFzZFdlSkVYMnpGYVcya1pNbXE2eWJtY0c3RjFCU3hwa2dSU1pHM1BxOVdSQkNVc3RMYlVlYzEzTDBJaEprbklvdVJNeGRId2VpR25LeWhHMFpycXZ6TQ?oc=5"
     },
     {
       "headline": "Tech stocks today: Anthropic announces new Claude capability, Nvidia's Jensen Huang says AGI era is here - Yahoo Finance",
@@ -52,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVXVzb1RqakFFRUM5OGhTR2ozUnFOYTk0UV9BOG5xZGFUUTVzaEdoUjAtOUxJMzkwUDNacGJ4S3dnUmhpWXVlWXpQaEoySmpvOGE0M0QzbHdjcWpKOVJKU1V5dDczdjJHSDViYmdaLVpHVDBoUnVaVHFpaDdHWmY2LXp4MDZ0aE5QVkJaYkVnMkItbk9FcXZ5b3pEdTVyZmlhdGxPZVNfTmhQVERXWk1leDNzNmZQMzg2dUZMd1Y1VFJCV2JIUnF4SkwzcDVnRHBySC1KeHpiZTR5WEdKbUJEdlp6aTFUY00?oc=5"
     },
     {
+      "headline": "Anthropic hands Claude Code more control, but keeps it on a leash - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-24T21:00:30.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic hands Claude Code more control, but keeps it on a leash &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5"
+    },
+    {
       "headline": "Disney Exits OpenAI Deal After AI Giant Shutters Sora - The Hollywood Reporter",
       "source": "The Hollywood Reporter",
       "timestamp": "2026-03-24T20:55:29.000Z",
@@ -62,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVNvaXRtYUlmY1RWZkFoc29rc3dFU2xpSUJZRHpwcmwyQXE0bmMzbEttN0ZVVHdaaTBNcFJjWFBzckROa0FDSlFaYUotZy1sOHVLaHhGbjhMZzduLTBNdWRHdVdQNnFZd3NoX2IyR3B6Q1dMNXprQWNyUTl5R09LU0FqWVhMem5WMU5ycWpKb0hYR3NDdVlQNlNveFZESWhTc1U0?oc=5"
     },
     {
-      "headline": "Software stocks fall as fear of AI disruption is back in full force - MarketWatch",
-      "source": "MarketWatch",
-      "timestamp": "2026-03-24T19:59:00.000Z",
+      "headline": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-03-24T20:43:14.000Z",
       "impact": "LOW",
-      "category": "market",
-      "summary": "Software stocks fall as fear of AI disruption is back in full force &nbsp;&nbsp; MarketWatch",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPa05MS1VVcEQzbnhmV2FXM2JWa1dRbHVlMDJGbUl6bllVNDRqU3lIVjVDdmY4UDY4ZjE4dWxIRGRBTXA1NU43MjgycWc2Q1lpeDNiWEVOTko3U2lZMEM1MXpkanZ1TmVnSDE1SnBGOFloQU4xeUNraURNQzlzVDdTMF9zRlVzTHVIR2Q5NF9xZldldEhHNHhETFl0N2EzR0NrYURKRXNWTGlWQVZWX1EzY1d5NkhnSTZhMWkwRDd4aE81ZnZ5RXhKNUt2QVFOa3ZUTkRpbzVVdFR5eHhmek5RRWQwUHNRcVp0WVF1MFFpelNybFI3SmlRRnYyZ1Q3NUFGZnJabnZBdjZUb2RlUVFJTGlaWE5UODY1T0JCQng1amltZlNFb1d3MV9od0t4TV8tYWQ5LTlXUEE0aXY3RnkxYi0zSkROOHlqcFB6VFY3cUVlYVVoWTB1SE5xTXN2Qk4zMTRTbmEyUDBBV216cDlWTlZmWjgxYWNpeXd6LXZnVEV0emp2SHMzbk1zaHpkZHJ6QXgtRXAtMEtJalV2TDYxWUN1bVV4R25CV0xnMjA1ZWItRjZh?oc=5"
+      "category": "ecosystem",
+      "summary": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VNME1tdEZmVldoZmZFM1FsRUVTTUNzZHpzVUEzS2xKMFlCOFRhSmV0aWMweWFram9WNXI4TjFEamFnTzhIcEhrLUJPX2E3X1VEZU45akJLTlV3SUNZT2gxNnY0X3lHSmI3Zm5LZUlGZzczTFBTVmJ3T080cTJqdg?oc=5"
     },
     {
       "headline": "Google partners with Agile Robots, growing its AI robotics footprint - CNBC",
@@ -82,38 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CQmgtaUN6OUp1T3JpZEJ2RXRvVEd6ZnNaWklySC1mQUN0YlZPSUlIemZiSFFaVU1qQ3JqNzQxeF9teHhFQnhnZXRsNW1ZWngxbVlzMmZHWVdSOVhBcnhLaWg2LWpDRGZ1REFkTk9xYmdZeWIyOXJB0gF8QVVfeXFMT05tMXRJeVFzUXJmaVdFM2c3Wl94NHVmYWpLUXhtZlI3clZLdEpOMkwwM2w0eUFET29GTFhEa2oyRlhhck81OVVCbWJqbmlaX2tWeHMtSlk5ZmN4d1A0enJjd2ZkYm1IblNhaGVjNWdqbHFGOVE0ZFAtd2cxVA?oc=5"
     },
     {
-      "headline": "Harness design for long-running application development - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-03-24T16:43:36.000Z",
+      "headline": "Exclusive | Meta Executive Will Spearhead Push to Get Employees Using More AI - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-03-24T17:18:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Harness design for long-running application development &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTVhZVkFSR3BSeURxci1ESVA3MzNFQzlNRDY1YTV1ZFh6ZElYWEtRcllsN0ZVZk9HOTNCQ2drdWFzWV9RTm9IZVNWajJmSmw1c0t1LXJTZGpWOEZBYkFQS3ctVFJfRnJrWlJHNTZyV2dvRk5Bblp3RjBR?oc=5"
-    },
-    {
-      "headline": "Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-03-24T15:47:35.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC Judge says government's Anthropic ban looks like punishment &nbsp;&nbsp; NPR Judge questions Pentagon's \"troubling\" Anthropic actions &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjRTT1g1YTNkV0lPeEJ0NUZVb1BYekNuNUxjbW1PUXA0QXRkc0dRUXhWcnR6ZnlLNXJ6OUZyTEwyQ1RDdHphWGRSSnlVQmRQY0hKeGVfNmo0LTlmQjRNckpLVFVDTjhqMzVhT21WNjFVX1h5ZFpRd2NYN01aMlpvbzZIV2tvWXFTZlJObEQtYXNzZ9IBlwFBVV95cUxONWRHS09tcVFZNGtaWmphdnFhcFNKTF92VmRDZWpnaXpLbG50a2lDeGFkWjlCYzJmbmloOS1VVjB6ZkJ4ZDVmOGNXSy14dXBDQlE4MVpabmVMajIxZHYzNGEyVlFFblJOakk1OXhWYlBKd3FoTWRZeXd5RFcycWo0N2RUcl9ld3VnTHVkYUo0T05JZFZ5RjJB?oc=5"
-    },
-    {
-      "headline": "Agile Robots becomes the latest robotics company to partner with Google DeepMind - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-24T12:05:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Agile Robots becomes the latest robotics company to partner with Google DeepMind &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTZpdjV3YTlTWTJXc1lvZ0d6RGktMHozYzZ3dzFRMzZUcWF4bGN2YWJLaV9IZnp6TW5FNHoxaDBOa2QxMk1WUkxoekZ2YXZ4dWVfMTdiSFdzMUNXS2tJQUdUWnJ1VTVDekYwakI0UmZJQkwzMS1KQlBPd0xjYjBqMEtpaEdYeTk0RHdwRnN2NlhvX0xwR1RBb29obnU2YmVhOVM2Xzd4M2NYa19zQ0FPSGV3d3BQZw?oc=5"
+      "summary": "Exclusive | Meta Executive Will Spearhead Push to Get Employees Using More AI &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPa1Z5NlpvWVYzcGZwdmdJMmoxajBZaVlTMDBLZUN5RjFtTTFhN2pIY1BUbnQwWnEyYTdWa3dQUlFfdHRKeDkyM3I3eGZ2ckFpdkNVWk9jaGJvN1ljUkRIb2dOZXVHM1ZoU2Y5a0E2LVVieWlrZDVDd3AyNUgyTnd0bU9UTXBYYnNSa09FemViOHA1MWZPMlRfYTlvdDRXRC1Wbldqa2FXeGZKSFdxcGFVQzIwNllmRmZXU0lTajdSLVlSdEZIempFV2JYZ0p1MTF2bVFaMXhpUDlLQ2ZtTWlDUnBkd0RUdFVmM2MtbDhMTXBxQk9YejMza2pIWVdNcFFRd2dXTWZqX0FWYTlUbzlUcE9BSHRzdV9mV0dnVEdCc2xYWFBOUlcwUklHb0RFNFN4MlVBQmR3V3RVbUZoSnJUQ1h5QnJpT29mY1diLXN6WkZtdnAyYTZIdjN4eElMUFF4Qy1MblNsMjJ6LWdWTXZZTGFUUUxvaFJQb1JrZVhweDdqMG5xRTg3dnBPb0NCT0JCTlhTNXNad3hKOUJRUVBBTEZXUjk?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI kills Sora - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-25T09:52:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjQ5ZDBrR1VsMXQ0cGZYaW9VUVJvMkdoc2Mxa3NKbm80TlhKUHU0RnJMUmVQbXc4ZDV6ZVU5YkRaRzJxemg4c1NiUVUza3BlbjFNNVp5bVNjV3RHUC1yQm9nWm5Ubk5VV1lEa09HamQxVnpZOVZ1WTd2S0dONTBRQXJseEN5QnlsTFJjZENR?oc=5",
+        "summary": "OpenAI kills Sora &nbsp;&nbsp; Fortune"
+      },
       {
         "headline": "Meta makes 'big bet' on top leaders with stock options as pressure builds to catch up in AI - CNBC",
         "source": "CNBC",
@@ -126,7 +135,7 @@
       {
         "headline": "OpenAI shutters AI video generator Sora in abrupt announcement - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-03-24T23:47:00.000Z",
+        "timestamp": "2026-03-24T22:34:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSjhhNmprLUw4djBMbENiYnlqSjZ0c2lBR3ZEazNkMnlyTWFJZmlHWU1PLVdlRWx2enNxNkFOS041SWNfRTVsVHpnY2lJUVR6MFVISnU1MkI3dTJnWVVTb01ObDRPR3YwdTVHaTRDVnVWRUE3cVdnSUpTTQ?oc=5",
@@ -138,7 +147,7 @@
         "timestamp": "2026-03-24T21:56:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNUy1hQXFWUHlBQjVlRFcwaUhNUlRrQTNwOUNOc2dUTmRIZlE1cDU0NWY0ODFCdVVPTWFMOFhud0M2T201WjAxZGlsMm1GSFF1QjhSd1ROVHlkX3dFYzhhaFFLano4NG50TTJfOHpXdjh5X3dsaUtBbXVNZE1wVGJYV1l3Vnhlbk9SbGNSVGxIeXhiN0NMMHM4RjVGZGNaTHNONldIUUZqQ1g3R2VxY2hpOXc0el93LUxwVkQxYnR2NmxENm5KVmoxNjhRaHJ2ejhham9OU2d1b2Zuek92eHVvUy1WNlBsdE5pSXpsZFZMSE9ycWV0NXFvb1c4QnNCbGF2R0pyS3F5TmVVNFk4VUtPMkVNTlVlUlJ1WGVWWm1fOUo2dzhMc0x3ZFRnYjZPcWJ2UjdObU9JcEo3X21xM1pramw4M1E2eUxZUGIyNi04bmZKY1l3MkNqTlVQcF9Xc2FhcC00WDRuUF85SWQ3V3l6OTlWUms1RkNTbEZyRjh0MUd1TjJqczlIUXMzSHlzTldOY1J5Tg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQVmQxYUc1bXdCdEZaUk9mV2JFdlNFaC1xOEc2Sk9vWVZaWEtzVV90dVlPdHVkNUtYTjZiYUNpNFpsTUdVeXU5RENDVzJ4VTg2QVZpampsZVhjcThhbDdlSF96MGxBOFN4NVc2M1pmOVF3bHNQcU8zOFhsTTlmZENmNWRrbmVwRU02dXlDV1NQTGV4RHhMWE1qY2FfSzRaR3BpOEN6cDVJbXJTZ3JZWTJOUWkyaFFRSGZwV1liYWoxdnk2OWxWMmxkc1k1M3hBSGlVWEg1MmNhZHV2SF84cnRjY0x2UzhIazFFaWhqMko5VmFOM01KN25Rb2ZaYmVLX2JTamQ1eGFUWFc4RjdrZ1JENUJRS2tHRklzVTNtN3R2MEE2NmV4a3M2OVltV1NLeUZINmY1VlE1TVNSRGFMXzFzZFdlSkVYMnpGYVcya1pNbXE2eWJtY0c3RjFCU3hwa2dSU1pHM1BxOVdSQkNVc3RMYlVlYzEzTDBJaEprbklvdVJNeGRId2VpR25LeWhHMFpycXZ6TQ?oc=5",
         "summary": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch &nbsp;&nbsp; WSJ"
       },
       {
@@ -151,22 +160,13 @@
         "summary": "Tech stocks today: Anthropic announces new Claude capability, Nvidia's Jensen Huang says AGI era is here &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "Disney Exits OpenAI Deal After AI Giant Shutters Sora - The Hollywood Reporter",
-        "source": "The Hollywood Reporter",
-        "timestamp": "2026-03-24T20:55:29.000Z",
+        "headline": "Anthropic hands Claude Code more control, but keeps it on a leash - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-24T21:00:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVNvaXRtYUlmY1RWZkFoc29rc3dFU2xpSUJZRHpwcmwyQXE0bmMzbEttN0ZVVHdaaTBNcFJjWFBzckROa0FDSlFaYUotZy1sOHVLaHhGbjhMZzduLTBNdWRHdVdQNnFZd3NoX2IyR3B6Q1dMNXprQWNyUTl5R09LU0FqWVhMem5WMU5ycWpKb0hYR3NDdVlQNlNveFZESWhTc1U0?oc=5",
-        "summary": "Disney Exits OpenAI Deal After AI Giant Shutters Sora &nbsp;&nbsp; The Hollywood Reporter"
-      },
-      {
-        "headline": "Software stocks fall as fear of AI disruption is back in full force - MarketWatch",
-        "source": "MarketWatch",
-        "timestamp": "2026-03-24T19:59:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPa05MS1VVcEQzbnhmV2FXM2JWa1dRbHVlMDJGbUl6bllVNDRqU3lIVjVDdmY4UDY4ZjE4dWxIRGRBTXA1NU43MjgycWc2Q1lpeDNiWEVOTko3U2lZMEM1MXpkanZ1TmVnSDE1SnBGOFloQU4xeUNraURNQzlzVDdTMF9zRlVzTHVIR2Q5NF9xZldldEhHNHhETFl0N2EzR0NrYURKRXNWTGlWQVZWX1EzY1d5NkhnSTZhMWkwRDd4aE81ZnZ5RXhKNUt2QVFOa3ZUTkRpbzVVdFR5eHhmek5RRWQwUHNRcVp0WVF1MFFpelNybFI3SmlRRnYyZ1Q3NUFGZnJabnZBdjZUb2RlUVFJTGlaWE5UODY1T0JCQng1amltZlNFb1d3MV9od0t4TV8tYWQ5LTlXUEE0aXY3RnkxYi0zSkROOHlqcFB6VFY3cUVlYVVoWTB1SE5xTXN2Qk4zMTRTbmEyUDBBV216cDlWTlZmWjgxYWNpeXd6LXZnVEV0emp2SHMzbk1zaHpkZHJ6QXgtRXAtMEtJalV2TDYxWUN1bVV4R25CV0xnMjA1ZWItRjZh?oc=5",
-        "summary": "Software stocks fall as fear of AI disruption is back in full force &nbsp;&nbsp; MarketWatch"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHJiUVFhX0dvRUNOeUFFZk1naTNLLTJQcS1CSTI1a3BCQzBUQWZjWThDcF9NX0FDWVIyYjgtOWVmX3ZKN2hSMlZhbENROVY2MVdpT3VVanp2UlhfYjV1Y0MyV2otNlc5UVRfaUxpd0VLbzNTUkg5eHJkcURJLXl1X2xLZFM0Vm84Y0lSZUpuZlRFOUZTOFJ2dWFHRFg2YWdn?oc=5",
+        "summary": "Anthropic hands Claude Code more control, but keeps it on a leash &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
