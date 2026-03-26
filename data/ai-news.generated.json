@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-26T10:57:17.697Z",
+    "generatedAt": "2026-03-26T11:55:33.436Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "OpenAI thought it could own AI videos. The reality was too expensive - CNN",
-      "source": "CNN",
-      "timestamp": "2026-03-26T09:00:54.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI thought it could own AI videos. The reality was too expensive &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4SkZnQmZvWHhEcHhOWF9ySm5hOWdoQzJvT25wZjJxREpiLUljcHYxMHNLYW1xZnVCeFdxZFVfWU01U2xFaHgxZEhON1JRTUdnSUo2T1B2SFVoZk9WMUdMc1JyS0dmVEJIeEVRUXg4VDVobDNJb2Fv?oc=5"
-    },
     {
       "headline": "Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods - Business Insider",
       "source": "Business Insider",
@@ -72,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTNxUGlBc3IyNHVIUnpDN2QyUWE4TldqN3RGSTkyVWlzZUxUSnctUmNjekRxX29jeHhiYVZPU1dBUm91N2xhZ2tKQlhmZEowajNwdUpRODREOEtVcndBd3NWSnYweDVGU0x3d2w1TDhXMVhtY0MtblVsVUNXZ1hOZ1pTcw?oc=5"
     },
     {
+      "headline": "Inside our approach to the Model Spec - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-03-25T17:18:14.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Inside our approach to the Model Spec &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5"
+    },
+    {
       "headline": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind - WSJ",
       "source": "WSJ",
       "timestamp": "2026-03-25T17:00:00.000Z",
@@ -79,7 +79,7 @@
       "category": "ecosystem",
       "summary": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind &nbsp;&nbsp; WSJ",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPSnV5WkZ5Z0owRF91TWprMS1TTnpyTzRaMFBlb1E0blVjaGE0dFFLb1hya19feHVwdnNFUVNhdHIyYUFUMHZCbmJzLWlXRVN5MEJQb0FZcWhJQnFHUVU5d0pQWjZrbFhBQ2lSRlNPNm9uSzAydkhTOHUzZGdsU3d6SmVsdnlwbzVnQWdQQW9tWTZFaXRYRlAwcUdvc2RQNTBKQnRtSXJRYWZMUEVQb0VKV19BU2U4aGtYeXo0eXNqTGJrdVVXSFo5dmlLZVpTLWhkeXNweHZPTElXWGRvRGhZQ0tvYWFzTVhfOVBSeFZ1dGEtRXY5MWxuanEyWHQ4NkRrdFN3cjJabkRnTkJVVC1CNmNJMjJ5SWRKYU5jZ0dJYzVHYXFiSWhfWDRVa0lrVldjdW1zaGFxRkl6TGI5UGFmbjdJN3QwTVhJeC01N2l1OW53UDBWYTVOdHhhb2x0dWhoczRVRUtTTlNINFRtVU5XdG0ycnVwRXN2RlRF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOY1RwV3pZc05TanhYS2ZPVzlESHg3dFVxMk44SFB3dXVzTGFaM1B6eERhOXg4N1NmN0FaUTd2bGlXUWFjMjJOXzRldGpKdms1aDN5aHA5OUtfd0Vic001Z0dVNVh2aVVqWlhhQ09Ibk5fdDJ5OHV4dDB5X2xGWFREOGpJYW9ESWN1Z2xmU194RnBwc3ZoSmhJdjJBMXlTeVZHa09JMEJQUUxjZDh0Z2lGX25tWktvc01IT3RSYS1UZXE2dWZrdklRZ2tZbUpMb1Q0cldXZk5Mang3amNpV2VzWm05dU05ZkNGSElNN1BaaWVzRV91RU9LOW1LcHIyRW1BOU1BZWl4NWVyZmFWek9PQTdDQWlRaGpsVmFwblIwMERMVG1LT1VKanlpVVdJV1l5blY4eGthY1NlTG9MSl9BbWREUmtKWml5TlQ1cnRVVWtaaW81MU11ak5iaHlpY1VrN21HbHQ1WkctbEZQQTM3bGJQR2ZCdC10N3Bn?oc=5"
     },
     {
       "headline": "Meta launches new initiative to support entrepreneurship, drive AI adoption - TechCrunch",
@@ -92,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkZnZy02THBTZDZVRm9ONGNYQkhtdzhEZ09hcWsxZFNaUFVZTzlJWlJFS2d4QlpEUVZ5SXM4cmhjY2h6NnZUZWFDY3VmQkk4cVF0a3VJVWV4M19zdldqOC1IcUtUaDhZTnBuSUlrbTVwa2F3aWV1eWg1dzViTVpWaEpqZjZvNmxYXzc2Z3A1V3pGY21jUHFEck9SQzVUdmo5SkR2RXdvVWpfQ0pEYWc?oc=5"
     },
     {
+      "headline": "Anthropic’s case against the Pentagon could open space for AI regulation - Al Jazeera",
+      "source": "Al Jazeera",
+      "timestamp": "2026-03-25T14:44:29.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic’s case against the Pentagon could open space for AI regulation &nbsp;&nbsp; Al Jazeera Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC Behind the Curtain: How Anthropic's Pentagon deal could get revived &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjlNQU1zMThTN2gtV2tnRzFPaGlrTTJiVTltTTA1MkxXZGZrWkVzazhrVnJLcU41eG5nUnRGYTBtN3RPemN0ZmJXWWVLZWJXY2N0Wm1sTHJ4UVJSalBzaTVJNGRxNTdhTkx6dFNWNVZsWHVQSkdyVm1fRTdWT3NOUVltazNlNFFsSmwxMnEyYkVQQlRPeTI1YXh5b2ZDVzJlV1JxSG16ZkNhbFFjQXpOQ2lacy10d9IBuwFBVV95cUxPTGE5eThrUFlVRjBXQmxfZ1BDUHlLX3NrRHpIZ1NOZXdabi15ZlJlWnFTRlpnZjZ5bEFaeXNKalJVOEpQWDNFekxJdnpfazRndWI2aEhQcjZ3b1lmWG5LT2wtVXNXRERGZ2VuMEZtczNUdUhKOUlfdTJ4OFhzWVdBU2hGeEdjay1yV0w2RjRtcDJ1TzNfUmU5VDhnUTJRWTlld2czclF6S0I0SExIZ1dDelZhNWxWczljajNB?oc=5"
+    },
+    {
       "headline": "Anthropic releases safer Claude Code 'auto mode' to avoid mass file deletions and other AI snafus - Engadget",
       "source": "Engadget",
       "timestamp": "2026-03-25T14:25:00.000Z",
@@ -100,29 +110,10 @@
       "summary": "Anthropic releases safer Claude Code 'auto mode' to avoid mass file deletions and other AI snafus &nbsp;&nbsp; Engadget",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS09KSWxTdWRvUXBTSEhGUVVUZHpROUw2WkptVnhrT2NPeGdWYi1LQlB0X3VyRjZZNWFkTGN4VVpLTzBHLXdyQ3RNVXBEVFBvZFBaNExjd3hhUWJPT1JvOFRXYnZ6ZGRDNHZxclhyX2Nld2RRS2d3TmZYOC11S1ZySFdTdUVEclFJeVpUUGJGbXd6d2ZaSjZWNXlXOTNYN1Q5dTdKS2JISVdVYVY3WlJadUV4a1d6N3Job3JWaUFUTnloN2xoX1BEbkxJOHhYVE1SaHpXYg?oc=5"
-    },
-    {
-      "headline": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-03-24T21:56:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Exclusive | OpenAI Scraps Sora Video Platform Months After Launch &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOY0hmT1VhNGZ4Ty1paE1BajhCSWFiNVZNNUxkcElqQk04eDRfeDJOM3RoLVNDUGo4a0MyVGF0LVZqUnFBdzhfNW53bHZmYS10R3dIYjBQUGl3OWZTazFMbnJPNjFmZU1HVVVQQjJJQ3BOMDVpZnI3SEI3YWlsNFFYVk1ZVHd2MWItMU9UZHpUY2JoV3dDNFpITVNpRDV2bklxNW1ZQmpGYlZZWkloMEwxU2gzYXE1RGNxYjcwc0F4cHQwNGNqYmxWc29sbnpnb3p5QWE0c3dpbG9hRjZWd3hjQlJEVnY3aGU4YkNHV0IwU09tOWp5WnY2WTFOQzdDMlJZZjJpczZBeDhTSjlMNUJRZlV3eWVXSG5saWx2bEF5YXdHSTRrWmtEd3ZBQnNtWFpDOFluVVFsUGNQdTJBVjAtWFoyXzRoQUNNSEdyc1VEVk1aY005N1dnX0hFS3JSUzVCdEs2b3Zpek51UWRjbWtuT1YxQlBKN2tMMDZTaFhYUDg0dndkQjlsTU9UOFlNZlVocVRaTA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "OpenAI thought it could own AI videos. The reality was too expensive - CNN",
-        "source": "CNN",
-        "timestamp": "2026-03-26T09:00:54.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4SkZnQmZvWHhEcHhOWF9ySm5hOWdoQzJvT25wZjJxREpiLUljcHYxMHNLYW1xZnVCeFdxZFVfWU01U2xFaHgxZEhON1JRTUdnSUo2T1B2SFVoZk9WMUdMc1JyS0dmVEJIeEVRUXg4VDVobDNJb2Fv?oc=5",
-        "summary": "OpenAI thought it could own AI videos. The reality was too expensive &nbsp;&nbsp; CNN"
-      },
       {
         "headline": "Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods - Business Insider",
         "source": "Business Insider",
@@ -167,19 +158,28 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTNxUGlBc3IyNHVIUnpDN2QyUWE4TldqN3RGSTkyVWlzZUxUSnctUmNjekRxX29jeHhiYVZPU1dBUm91N2xhZ2tKQlhmZEowajNwdUpRODREOEtVcndBd3NWSnYweDVGU0x3d2w1TDhXMVhtY0MtblVsVUNXZ1hOZ1pTcw?oc=5",
         "summary": "Meta Lays Off 700 Employees, While Rewarding Top Executives &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Inside our approach to the Model Spec - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-03-25T17:18:14.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5",
+        "summary": "Inside our approach to the Model Spec &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
