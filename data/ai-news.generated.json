@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-26T11:55:33.436Z",
+    "generatedAt": "2026-03-26T13:41:27.598Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,46 @@
   },
   "newsFeed": [
     {
+      "headline": "WhatsApp can now draft AI-generated responses based on your conversations - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-26T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "WhatsApp can now draft AI-generated responses based on your conversations &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnNGRVU0YTFhaFdiTG95QkVqeUJ2Y0huMGxDVDZmMnBaQnpvUl9hUWN2WlJhS1YwSi04N0tJOENFMnRBa05DQmg4aDROcnN3bXZRSGs4WFg1NVA0M2ViMk04V3NhWXdRaWRhMy1GeDhiR3BlQkgzWmFKN1Zpb1dSdFlDdlR0am9POUFkMzVhR1NaUUtINzZJUjZublhIQWlKN2FoUklRUHdBek4t?oc=5"
+    },
+    {
+      "headline": "I built a web page with OpenAI’s Codex in 5 minutes. Here’s how - PCWorld",
+      "source": "PCWorld",
+      "timestamp": "2026-03-26T12:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "I built a web page with OpenAI’s Codex in 5 minutes. Here’s how &nbsp;&nbsp; PCWorld",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE5tbERwbUlOdDgtVkh6Zk9PNnlxSnRPdHhydW5PNDNHWkRJazlJQm1BRkZkN3hIeDZTTmxKZGg2T01qU3JjV2w2bzVObGNBRUs0RUN3aEFGTEhLVS02bFluUUEza0hhV3o2YVd5dHczMzhONHJjSmdNbTdrX19uWFhKZHVwSVdyRVF0RlRGalhiU2tXd3V6T0ppdw?oc=5"
+    },
+    {
+      "headline": "VCX vs. DXYZ – Check Out these Proxies for SpaceX, Anthropic Investments - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-03-26T10:09:29.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "VCX vs. DXYZ – Check Out these Proxies for SpaceX, Anthropic Investments &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3d0T0E3SDc0M1hlMVBxcDlPZmxyNDdpWWM1VUtOa25pRUNMN05HYkxxaEpZcmsxRGJoZldWMGNaa1pXa3k5Q1JSbVdmbTZWdnMwS3NQOTVCdGdjbXFOQlRQR2VLdXFSYkJxbjRHY1o0MS10YXRrcjBIcXZiakIwc0xnNFpNc1Z2T0puMV8zSThwTWdO?oc=5"
+    },
+    {
+      "headline": "Omdia: Global cloud infrastructure spending rose 29% in Q4 2025 as hyperscalers scaled AI infrastructure investment - Omdia",
+      "source": "Omdia",
+      "timestamp": "2026-03-26T09:35:50.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Omdia: Global cloud infrastructure spending rose 29% in Q4 2025 as hyperscalers scaled AI infrastructure investment &nbsp;&nbsp; Omdia",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN0ZEdTVvQ2V1UlJwS0tydi04RmxiX0ZtamJULWt3cDlYUG1xdXVLdGgxbjFLTW9FMmhrSUxNTDFVdU5fRERDZE5fSGNybXdTN3B6OF9VZ0FVQTBsU2RtUUw3MEN1eVBiXzNmVWNCM1RsYXdXc19xdGYtV2xvWmsxVmpHMXVFLWh5QVlLbkZoS3JIckFzV09vYnZsSy1STHFPbDFtRElBa0V3ekpZd29SVlNKYVI4TzhLWU81bzZMcm45bmN1bmNJSmNCVHVQZmFQcF9jWTlUdEpta2hfZWZVeXZBTi15cXJpM0l5bjZR?oc=5"
+    },
+    {
       "headline": "Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-03-26T00:39:00.000Z",
@@ -20,36 +60,6 @@
       "summary": "Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2dHRy1KYlNQaTh0N2xOVWpudEpHemEyaERtMnFwWWJ6UG9JZ1RvWUIxcWs0d3duVndmTFAxN0xKRDBIZGdidDZYLThQcFh1OW50eXk5TG1BclZlZ0JzV1lPaEpyWVl5bnJRT1pIakFLUGhOdWlMLV9wRk5BZ2w4b2k5Z250bVJveXM2Vkt5aWxsQXJvbUQwRA?oc=5"
-    },
-    {
-      "headline": "OpenAI Is Doing Everything … Poorly - The Atlantic",
-      "source": "The Atlantic",
-      "timestamp": "2026-03-25T23:52:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Is Doing Everything … Poorly &nbsp;&nbsp; The Atlantic",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXRZYmdPbDd1bmFob1A4bEJCaVYtUEl2dmpobENHV0RhMjVmY0F0UjU1NC1NY2RFRno3ZHhwNjA3dnVDQVNVa0FDMEtyUkhyd2xMdU9mZ2dremM4Umc0bTFaNVhNenpOMEdhY21IaUw4aWd3MEJVbG5QdThvY1hsTEUxYnQ4V3Q2X2c?oc=5"
-    },
-    {
-      "headline": "OpenAI drops AI video tool Sora, startling Disney, sources say - KSL.com",
-      "source": "KSL.com",
-      "timestamp": "2026-03-25T23:44:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI drops AI video tool Sora, startling Disney, sources say &nbsp;&nbsp; KSL.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWJEeTR6VzRoenJ2eGVSZjBqQ0MtZUtkd3NwNksxVW51U3ZTeVV2NkQ5emxhQVREOEY5X2lzeGpGSGhjNTdFcXpkY2VrTldYblpLSmNuSGdyV0NFbjFRSjRMeF9SaUNwNnJUMEVIM0RNZWNfelN5d3VNY3pUcjloMkpGSDdhNVl3WmppY2wxeWQ1aEhUZVJSSXlPdEkxQQ?oc=5"
-    },
-    {
-      "headline": "Meta lays off hundreds amid AI spending, fizzled metaverse plans - The Seattle Times",
-      "source": "The Seattle Times",
-      "timestamp": "2026-03-25T23:32:40.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta lays off hundreds amid AI spending, fizzled metaverse plans &nbsp;&nbsp; The Seattle Times",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2NoYzhxb3NVYmZmblA4ZjkyejItcjM3eUNhUWZJV3N3SHk2by1fNndZQTBzRzFSRzZSWWVybURhSENYSGswbl9qM2Z4bU9HU2xPalpZY3JoNFZnOW5FZVhQQXZBVlBybzU2NktnVHpiU0doN3NjZzJXTDFNZm4wN1BwQ2NsWF9aSVduNHRJV3p5QWpNejY1azhGLUYxSlhIdFA2SXkxY3dVZkVQcG1pTzdqYw?oc=5"
     },
     {
       "headline": "Meta Lays Off 700 Employees, While Rewarding Top Executives - The New York Times",
@@ -62,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTNxUGlBc3IyNHVIUnpDN2QyUWE4TldqN3RGSTkyVWlzZUxUSnctUmNjekRxX29jeHhiYVZPU1dBUm91N2xhZ2tKQlhmZEowajNwdUpRODREOEtVcndBd3NWSnYweDVGU0x3d2w1TDhXMVhtY0MtblVsVUNXZ1hOZ1pTcw?oc=5"
     },
     {
-      "headline": "Inside our approach to the Model Spec - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-03-25T17:18:14.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Inside our approach to the Model Spec &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5"
-    },
-    {
       "headline": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind - WSJ",
       "source": "WSJ",
       "timestamp": "2026-03-25T17:00:00.000Z",
@@ -79,41 +79,77 @@
       "category": "ecosystem",
       "summary": "The Inside Story of the Greatest Deal Google Ever Made: Buying DeepMind &nbsp;&nbsp; WSJ",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOY1RwV3pZc05TanhYS2ZPVzlESHg3dFVxMk44SFB3dXVzTGFaM1B6eERhOXg4N1NmN0FaUTd2bGlXUWFjMjJOXzRldGpKdms1aDN5aHA5OUtfd0Vic001Z0dVNVh2aVVqWlhhQ09Ibk5fdDJ5OHV4dDB5X2xGWFREOGpJYW9ESWN1Z2xmU194RnBwc3ZoSmhJdjJBMXlTeVZHa09JMEJQUUxjZDh0Z2lGX25tWktvc01IT3RSYS1UZXE2dWZrdklRZ2tZbUpMb1Q0cldXZk5Mang3amNpV2VzWm05dU05ZkNGSElNN1BaaWVzRV91RU9LOW1LcHIyRW1BOU1BZWl4NWVyZmFWek9PQTdDQWlRaGpsVmFwblIwMERMVG1LT1VKanlpVVdJV1l5blY4eGthY1NlTG9MSl9BbWREUmtKWml5TlQ1cnRVVWtaaW81MU11ak5iaHlpY1VrN21HbHQ1WkctbEZQQTM3bGJQR2ZCdC10N3Bn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQZUNoby1VSDJxYXZNSWlNNDU4UnZjR2llcmptWmx2bXdDQVpyTWt1cGc4d0F4RWc5RGZFVXlvSXlTTDdlTHh4Sk03YjdVTndxVEcxaUxsZ0Z2TVY3SnRPTDFOMUFkcDVCX21NdXhmTkg0SUR3MHBCQWhlOE13a2hYcUNEanVSSHNsQ1p4RW9ZU2NwM2tXdzZHTjY2T3pkV0NtZ1NLUzJZRDlTU3lVOHUxWFZyOGZnSXVGaHpjVzEyeGJBWFZRQ3luVGo1c2lhMnI0SWxfSm5zT2U2WnVXQXRLRFRicnp1N2F1dUdtWC1TS3J5dlQtZ0V0LS1fWEI0aVRvSkx1cUs4OWJwdThCN0plVThDTzZkeGQ5ZE9qeFRWWkphM19ieUQ1azNIR1V0MGRUcnVUSV9PbHNJTk9VaG1EclpESUxJRzZnczB4ekR1enYzYzJjNjlMczZWdGxJd01vaEpkclFhMWladTdSUWRHOXlxMU1NQ2lHR0ow?oc=5"
     },
     {
-      "headline": "Meta launches new initiative to support entrepreneurship, drive AI adoption - TechCrunch",
+      "headline": "Meta turns to AI to make shopping easier on Instagram and Facebook - TechCrunch",
       "source": "TechCrunch",
-      "timestamp": "2026-03-25T14:45:20.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Meta launches new initiative to support entrepreneurship, drive AI adoption &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkZnZy02THBTZDZVRm9ONGNYQkhtdzhEZ09hcWsxZFNaUFVZTzlJWlJFS2d4QlpEUVZ5SXM4cmhjY2h6NnZUZWFDY3VmQkk4cVF0a3VJVWV4M19zdldqOC1IcUtUaDhZTnBuSUlrbTVwa2F3aWV1eWg1dzViTVpWaEpqZjZvNmxYXzc2Z3A1V3pGY21jUHFEck9SQzVUdmo5SkR2RXdvVWpfQ0pEYWc?oc=5"
+      "timestamp": "2026-03-25T14:16:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta turns to AI to make shopping easier on Instagram and Facebook &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObTNIRGRQOXQwR1BLeWhoeURPVUYtS29rNFhTVVM5NDAtZEIzNTJYeFJwd0ZuZDJzQ0hLT0xHOVhKektSeTZLZVU4STFqUS0ySVpudVgwbUZQUjlNeFdabjNMYU40aDNuODlwY29wUUdXYlpJSXQzcHlqeXF2TnByX0tTY2pCVmhVNlltbmtwclBIaUNSOVpRTGVzUk9KTU03ODRn?oc=5"
     },
     {
-      "headline": "Anthropic’s case against the Pentagon could open space for AI regulation - Al Jazeera",
-      "source": "Al Jazeera",
-      "timestamp": "2026-03-25T14:44:29.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic’s case against the Pentagon could open space for AI regulation &nbsp;&nbsp; Al Jazeera Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC Behind the Curtain: How Anthropic's Pentagon deal could get revived &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjlNQU1zMThTN2gtV2tnRzFPaGlrTTJiVTltTTA1MkxXZGZrWkVzazhrVnJLcU41eG5nUnRGYTBtN3RPemN0ZmJXWWVLZWJXY2N0Wm1sTHJ4UVJSalBzaTVJNGRxNTdhTkx6dFNWNVZsWHVQSkdyVm1fRTdWT3NOUVltazNlNFFsSmwxMnEyYkVQQlRPeTI1YXh5b2ZDVzJlV1JxSG16ZkNhbFFjQXpOQ2lacy10d9IBuwFBVV95cUxPTGE5eThrUFlVRjBXQmxfZ1BDUHlLX3NrRHpIZ1NOZXdabi15ZlJlWnFTRlpnZjZ5bEFaeXNKalJVOEpQWDNFekxJdnpfazRndWI2aEhQcjZ3b1lmWG5LT2wtVXNXRERGZ2VuMEZtczNUdUhKOUlfdTJ4OFhzWVdBU2hGeEdjay1yV0w2RjRtcDJ1TzNfUmU5VDhnUTJRWTlld2czclF6S0I0SExIZ1dDelZhNWxWczljajNB?oc=5"
+      "headline": "OpenAI closes Sora video-making app and cancels $1bn Disney deal - BBC",
+      "source": "BBC",
+      "timestamp": "2026-03-25T04:48:56.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI closes Sora video-making app and cancels $1bn Disney deal &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13Y2g4d0sxSGwxaEF4UkY4ZjZwelRCWFB0anAtRXdmVUY3c0ZwQjhBWkVqWHVIdC1VelM2TWMzY0p1SWEySW5zSHYyWjlmWHhyNHJ6c0R4YlJjUQ?oc=5"
     },
     {
-      "headline": "Anthropic releases safer Claude Code 'auto mode' to avoid mass file deletions and other AI snafus - Engadget",
-      "source": "Engadget",
-      "timestamp": "2026-03-25T14:25:00.000Z",
+      "headline": "Judge calls Pentagon's moves against AI firm Anthropic \"troubling\": \"It looks like an attempt to cripple Anthropic\" - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-03-24T23:46:06.000Z",
       "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic releases safer Claude Code 'auto mode' to avoid mass file deletions and other AI snafus &nbsp;&nbsp; Engadget",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS09KSWxTdWRvUXBTSEhGUVVUZHpROUw2WkptVnhrT2NPeGdWYi1LQlB0X3VyRjZZNWFkTGN4VVpLTzBHLXdyQ3RNVXBEVFBvZFBaNExjd3hhUWJPT1JvOFRXYnZ6ZGRDNHZxclhyX2Nld2RRS2d3TmZYOC11S1ZySFdTdUVEclFJeVpUUGJGbXd6d2ZaSjZWNXlXOTNYN1Q5dTdKS2JISVdVYVY3WlJadUV4a1d6N3Job3JWaUFUTnloN2xoX1BEbkxJOHhYVE1SaHpXYg?oc=5"
+      "category": "ecosystem",
+      "summary": "Judge calls Pentagon's moves against AI firm Anthropic \"troubling\": \"It looks like an attempt to cripple Anthropic\" &nbsp;&nbsp; CBS News Anthropic’s case against the Pentagon could open space for AI regulation &nbsp;&nbsp; Al Jazeera Behind the Curtain: How Anthropic's Pentagon deal could get revived &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyakx2WV9iX0ZjeS1zYmFvVzF5WGNjUU85YkJ2NU1qSlVmbE5GOGlNakFvakZ3RkxZRDNfT0tEcFJUaEdRMTRJbEFWbUZGeWJMUmdNNFVEVmVTUEg1Z3JOVldRZV92bkJ5ODZ5MjdNYTZ1NHZDSGpXdWdaaG7SAYIBQVVfeXFMTTRlM1BhR2NrSUR4YUdPTjB0cjRoZHo1ZU1XNHphQUNiU04zdjRQRVVOckVZVzhDc25qd3hsN2RkbUtjWndXZEt2Y0NVTHJ0TGM4RlJYdWFaOU9JQ0l3VURSNGctLWdYMVNOSmlWWnVqRmZydm1WVlg1QXVZYUtYWGQtUQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "WhatsApp can now draft AI-generated responses based on your conversations - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-26T13:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnNGRVU0YTFhaFdiTG95QkVqeUJ2Y0huMGxDVDZmMnBaQnpvUl9hUWN2WlJhS1YwSi04N0tJOENFMnRBa05DQmg4aDROcnN3bXZRSGs4WFg1NVA0M2ViMk04V3NhWXdRaWRhMy1GeDhiR3BlQkgzWmFKN1Zpb1dSdFlDdlR0am9POUFkMzVhR1NaUUtINzZJUjZublhIQWlKN2FoUklRUHdBek4t?oc=5",
+        "summary": "WhatsApp can now draft AI-generated responses based on your conversations &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "I built a web page with OpenAI’s Codex in 5 minutes. Here’s how - PCWorld",
+        "source": "PCWorld",
+        "timestamp": "2026-03-26T12:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZE5tbERwbUlOdDgtVkh6Zk9PNnlxSnRPdHhydW5PNDNHWkRJazlJQm1BRkZkN3hIeDZTTmxKZGg2T01qU3JjV2w2bzVObGNBRUs0RUN3aEFGTEhLVS02bFluUUEza0hhV3o2YVd5dHczMzhONHJjSmdNbTdrX19uWFhKZHVwSVdyRVF0RlRGalhiU2tXd3V6T0ppdw?oc=5",
+        "summary": "I built a web page with OpenAI’s Codex in 5 minutes. Here’s how &nbsp;&nbsp; PCWorld"
+      },
+      {
+        "headline": "VCX vs. DXYZ – Check Out these Proxies for SpaceX, Anthropic Investments - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-03-26T10:09:29.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3d0T0E3SDc0M1hlMVBxcDlPZmxyNDdpWWM1VUtOa25pRUNMN05HYkxxaEpZcmsxRGJoZldWMGNaa1pXa3k5Q1JSbVdmbTZWdnMwS3NQOTVCdGdjbXFOQlRQR2VLdXFSYkJxbjRHY1o0MS10YXRrcjBIcXZiakIwc0xnNFpNc1Z2T0puMV8zSThwTWdO?oc=5",
+        "summary": "VCX vs. DXYZ – Check Out these Proxies for SpaceX, Anthropic Investments &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Omdia: Global cloud infrastructure spending rose 29% in Q4 2025 as hyperscalers scaled AI infrastructure investment - Omdia",
+        "source": "Omdia",
+        "timestamp": "2026-03-26T09:35:50.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN0ZEdTVvQ2V1UlJwS0tydi04RmxiX0ZtamJULWt3cDlYUG1xdXVLdGgxbjFLTW9FMmhrSUxNTDFVdU5fRERDZE5fSGNybXdTN3B6OF9VZ0FVQTBsU2RtUUw3MEN1eVBiXzNmVWNCM1RsYXdXc19xdGYtV2xvWmsxVmpHMXVFLWh5QVlLbkZoS3JIckFzV09vYnZsSy1STHFPbDFtRElBa0V3ekpZd29SVlNKYVI4TzhLWU81bzZMcm45bmN1bmNJSmNCVHVQZmFQcF9jWTlUdEpta2hfZWZVeXZBTi15cXJpM0l5bjZR?oc=5",
+        "summary": "Omdia: Global cloud infrastructure spending rose 29% in Q4 2025 as hyperscalers scaled AI infrastructure investment &nbsp;&nbsp; Omdia"
+      },
       {
         "headline": "Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods - Business Insider",
         "source": "Business Insider",
@@ -124,33 +160,6 @@
         "summary": "Inside Meta's push to turn employees into 'AI builders' and reorganize teams around small pods &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "OpenAI Is Doing Everything … Poorly - The Atlantic",
-        "source": "The Atlantic",
-        "timestamp": "2026-03-25T23:52:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXRZYmdPbDd1bmFob1A4bEJCaVYtUEl2dmpobENHV0RhMjVmY0F0UjU1NC1NY2RFRno3ZHhwNjA3dnVDQVNVa0FDMEtyUkhyd2xMdU9mZ2dremM4Umc0bTFaNVhNenpOMEdhY21IaUw4aWd3MEJVbG5QdThvY1hsTEUxYnQ4V3Q2X2c?oc=5",
-        "summary": "OpenAI Is Doing Everything … Poorly &nbsp;&nbsp; The Atlantic"
-      },
-      {
-        "headline": "OpenAI drops AI video tool Sora, startling Disney, sources say - KSL.com",
-        "source": "KSL.com",
-        "timestamp": "2026-03-25T23:44:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWJEeTR6VzRoenJ2eGVSZjBqQ0MtZUtkd3NwNksxVW51U3ZTeVV2NkQ5emxhQVREOEY5X2lzeGpGSGhjNTdFcXpkY2VrTldYblpLSmNuSGdyV0NFbjFRSjRMeF9SaUNwNnJUMEVIM0RNZWNfelN5d3VNY3pUcjloMkpGSDdhNVl3WmppY2wxeWQ1aEhUZVJSSXlPdEkxQQ?oc=5",
-        "summary": "OpenAI drops AI video tool Sora, startling Disney, sources say &nbsp;&nbsp; KSL.com"
-      },
-      {
-        "headline": "Meta lays off hundreds amid AI spending, fizzled metaverse plans - The Seattle Times",
-        "source": "The Seattle Times",
-        "timestamp": "2026-03-25T23:32:40.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2NoYzhxb3NVYmZmblA4ZjkyejItcjM3eUNhUWZJV3N3SHk2by1fNndZQTBzRzFSRzZSWWVybURhSENYSGswbl9qM2Z4bU9HU2xPalpZY3JoNFZnOW5FZVhQQXZBVlBybzU2NktnVHpiU0doN3NjZzJXTDFNZm4wN1BwQ2NsWF9aSVduNHRJV3p5QWpNejY1azhGLUYxSlhIdFA2SXkxY3dVZkVQcG1pTzdqYw?oc=5",
-        "summary": "Meta lays off hundreds amid AI spending, fizzled metaverse plans &nbsp;&nbsp; The Seattle Times"
-      },
-      {
         "headline": "Meta Lays Off 700 Employees, While Rewarding Top Executives - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-03-25T19:22:34.000Z",
@@ -158,28 +167,19 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTNxUGlBc3IyNHVIUnpDN2QyUWE4TldqN3RGSTkyVWlzZUxUSnctUmNjekRxX29jeHhiYVZPU1dBUm91N2xhZ2tKQlhmZEowajNwdUpRODREOEtVcndBd3NWSnYweDVGU0x3d2w1TDhXMVhtY0MtblVsVUNXZ1hOZ1pTcw?oc=5",
         "summary": "Meta Lays Off 700 Employees, While Rewarding Top Executives &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Inside our approach to the Model Spec - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-03-25T17:18:14.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReXBhMS1ONTNtWWtRVDN0aVRkMThHS3NjV1dNRFNaR0J2TDdHdWFLRkw5ZGdNcGR0OEpJV05QSGJONjBXVncyZ3RURzg1WFpmblBtb21JMDBPWk9rRmNGOTk0bTlYTzQ?oc=5",
-        "summary": "Inside our approach to the Model Spec &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,15 +190,15 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
