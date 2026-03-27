@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-26T23:37:38.930Z",
+    "generatedAt": "2026-03-27T02:48:27.450Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic Supply-Chain Risk Designation Halted By Judge - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-03-26T23:33:00.000Z",
+      "headline": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-03-27T02:46:50.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5"
+    },
+    {
+      "headline": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind - The Times of India",
+      "source": "The Times of India",
+      "timestamp": "2026-03-27T02:27:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Supply-Chain Risk Designation Halted By Judge &nbsp;&nbsp; WIRED",
+      "summary": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind &nbsp;&nbsp; The Times of India",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZWxrcV83M0dGUUFhaTZzd01aQUEzSTdhbzlobUhHM1YtN1pmeUJpQjh4V3BRRUNjMkJNdHE5Z0Q5NllZSUdSUVF0NzdVM1lJbURfWDZnbnVqQzl6MHZ3RGdfc2pacnVmYV9oZEhtUGZUcTA0eXF0RmlJRDFFWm5QU0xkSEowMlNvTlBWWmt4NWRGeUtDa2JIb1Rfa19NTnhadnBReXlIcWRBUE5YTFAxd25iVlZEYXd3LVczYWFvbFRHU002MWtQc0lVVmtzVzNaYTlSLWpRd2dDcFJfU1M3X01pajU5ay1OWWw4TzFfRWs2SlFqampkc19CaVpzdEdva09GNNIBigJBVV95cUxObG9aYUZ0azNTV0d4djBqUWt1T1kwOTJVRkRXcWZGZUdVb0hhUWNxclk5dU5CMWVMNFdHUTdTdEVMam9odVNCMXNKVGhXQ3ZTUnYzTF9XNndNVFExM3lqT0xIZmx3dGp6aFhoWjJMRVRGdHlkWXhPNkczMUU3UVZKQnFPY1Y4MzBqbTcwa3FlZ2xFaHA5cFJxRFd2Zy01Z0FlUlpRcVJ5QlNyOVc5UExhYkNFWGZyNkNyVE5uZnZnYlA4VXVzNkFzT0o0X0owQWdvOEVVeWVYRXRZbUFiMUJZd1ZkNlBmZWUzQXVEVzZMaEJ5Y1JrSC1RZlptcGFXb3RBeVltb0tjNkpvZw?oc=5"
+    },
+    {
+      "headline": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-03-27T01:05:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWZoQnUwWUVycUZyck1FcEREV2MwVklxOUZ0bnlqTlFkbG1aY2g4Zmd0SFJ0ZVc5dUtwVVlycWtHZEdvVmVBalJURnlHMjkzRjVnUk1hRkxxZ2FKUGpVM0JOZHVzOVVwZ29wN2lSYS12TDNnSzNEZXN2b1dDWFJrTmpDa21ENFh2UDRnaHBPSFMzekJydVE2ZnpydkdGRUFYZDdwMktla0VFaDZjOUlaeE5TRQ?oc=5"
+    },
+    {
+      "headline": "Federal judge sides with Anthropic in first round of standoff with Pentagon - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-03-26T23:19:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Federal judge sides with Anthropic in first round of standoff with Pentagon &nbsp;&nbsp; The Guardian Judge blocks Pentagon from labeling Anthropic AI a \"supply chain risk\" and halts Trump's ban on federal use &nbsp;&nbsp; CBS News Judge blocks Pentagon order branding Anthropic a national security risk &nbsp;&nbsp; The Washington Post Judge blocks Pentagon’s effort to ‘punish’ Anthropic by labeling it a supply chain risk &nbsp;&nbsp; CNN Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation' &nbsp;&nbsp; CNBC Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’ &nbsp;&nbsp; The New York Times Judge temporarily blocks Trump administration's Anthropic ban &nbsp;&nbsp; NPR Judge blocks Trump administration from limiting Anthropic's contracts with federal government &nbsp;&nbsp; NBC News Behind the Curtain: How Anthropic's Pentagon deal could get revived &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3pWUUxOZ1VRcFRxa0tCYXlQbkFUcUVEVXVKaS0wZExUUkc1dTNYb2l3dnJDVzlTMUczNEluSFZlVnlsNU1fLW5tazI0VkQtbmRUbUVHRVJJYlFpUGhIZGh2cUFwX0Y4WXlwNXliR2VnNnF1MGc1dUxQUW5YRU1hcGFZaElsZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zVnRSeGhWWjU3QWhRNEJZdzU1TTdYUWFua04wRHo4YURodWMxdWxqUTZpNUdHWkF4eUJqVFZUWE96dGtBRWxwRWRkX2I2b09jVTc5UnhkVE1EOFRQeWowUjNmVUJ2c291bHFGZEZwblZFWTNkaFUwZw?oc=5"
     },
     {
       "headline": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months - CNBC",
@@ -32,34 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDRtZVFRY2ZIQVFRdmFDZzIzODUtMG5XZ2oxT3IxRjVBakxtVldRek84b2x2V0prdVd3dloxVThvZ1hYOXo0aFJXR3d6SVVCWmw0Ukh6aVpfM3VxdGM1ZnFHd0g1ZjdrekxIYlVERGg2S3hsRUJVTG1EejhvWHZTM2YybnZOTUllVFlkTE11RWt6MlJhbVRfcENsb9IBoAFBVV95cUxOUU01SlRyNXd2R2Ztc0dJbGRrMS1kVm9UVUc2cmlDUmdMM3Z1M3QxRXI3N1BYd3g2dVBqTy1jUmxtX2dBTmthOE1UTEZxSG5TRTBsdWZyU0RNSzU3VHV0SDZYMGZ5dTNRWGNYNXdTVFlVYXlDVkxqcmFxVkRyLXg0LVgtUzZYckRTWHpCNFhsX01meGJtVkhMSVJRVHBzU0kz?oc=5"
     },
     {
-      "headline": "Anthropic Discusses Going Public as Soon as the Fourth Quarter - The Information",
-      "source": "The Information",
-      "timestamp": "2026-03-26T22:10:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Discusses Going Public as Soon as the Fourth Quarter &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5"
-    },
-    {
       "headline": "Meta is pushing employees to use AI, and this doc shows how much - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-03-26T21:09:47.000Z",
+      "timestamp": "2026-03-26T22:05:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Meta is pushing employees to use AI, and this doc shows how much &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2VHVGpvN2dqOXY3Nm9ZX1ZFeHFSbFpFb3psSnJQeWhvQjJNNmdIRlRjWjFZemJDcGxNVklZaThXZWVic3lxTGtHYTNRYzBwLXAtWHB6ekhwbGZOSzdmSjNvYmtCNXkyQWtKaU84T3lUNFJPSEdXMnN1QUFnSVBzNnR0dUMySEV3?oc=5"
-    },
-    {
-      "headline": "Apple Gives iPhone Designers Rare Bonuses to Fight OpenAI Poaching - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-03-26T20:36:23.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Apple Gives iPhone Designers Rare Bonuses to Fight OpenAI Poaching &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2tLa1AxUmlub3B5eWp1OHRiVndYbE1DclNBTW9QaUdjVWVuSGF2SE1LcEt3cmFqR2s2ai1mb0J0bWZIWmxONUw4RnlTVUUwYXlwY3Y3NW5Ka20tOUpTblpiZ3VocUdhSXlKT2tadWNyMjNLMzVvd0NwWElVNTZQNVZ4anRZNnd3cnV2ekdWZFVLOGtZbzduNDQ0Ty1jY3AwUENVWkZuVDhHRnk2NkNrX19IUXhxMUpB?oc=5"
     },
     {
       "headline": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion - CNBC",
@@ -72,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzlUNzhaWENtQV9WLW1FTVBXYTVJT1JXWUY2VGdyQTBDak5feTBqdXJYWWlMVE1ubDJZSGpzVno3dEZ0TVpkYkNzS2F2Z0NMd2Q1V2h0UURmRjRueXhZOUdZSHRrV2tENWRDNlJyWnpMaUpjQTdXVlIxbHpVcEJWc2RfZnh6UkJsOU02ajV6QVpTZkpIUTJVTWdOYzNGaFp2NVJnZdIBqgFBVV95cUxPQ3dkTE9xS3oySy1mOW02T0swWDlieDRsRkgxVGk5RG1JSzNnUXJrTU9IQS1GNVdLeGhxallaN3dya1Q3ZF9rbG9QWDBqeHB0TG5LYkt6MVd5WHo1YktqcnNac2FKdzRZOWNYNHEyNGlNdVdXTEszVmZnWU1VRnlBZzBHN1ZQXzNtdFhBOWdiTWh2UTBONmJaQndNWlBIQ1dQaXdiN0dNZmc0Zw?oc=5"
     },
     {
-      "headline": "Google’s Lyria 3 Pro brings full-length AI music generation to Gemini - Chrome Unboxed",
-      "source": "Chrome Unboxed",
-      "timestamp": "2026-03-26T18:42:52.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Google’s Lyria 3 Pro brings full-length AI music generation to Gemini &nbsp;&nbsp; Chrome Unboxed",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVGR0E1d3lIclNBYm1JNFhQRzJCZkxqTmZhSFkxVXZaWXNHNTZkSUdpbW9ndzVNODVwWF9HQS1iV1FlRjlxSEEtZFFxMWFUanhLdS1Od2JoMGdPUzZZMVhmZGwxTGZLeG9FaE1DcU41QlotamNXaGJfcktrTnZ2UVFfZURQRUhwZkhiczVQWmhjdnlqYXBxYzlqNA?oc=5"
-    },
-    {
       "headline": "Protecting People from Harmful Manipulation - Google DeepMind",
       "source": "Google DeepMind",
       "timestamp": "2026-03-26T13:02:55.000Z",
@@ -92,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13dVpfS191ZnVBWjNWVmFGU2FocW8zVHJCSElkX3ZUNWIzaHVGSWlRTjIwMmpiMzl2T0xOMmRMdGF5MEhDQzJESWJ0dGZPdGgxTjhyNF91aTBwQ21BQXl5b1hPYTVRekV4UzdJQlFUQkZMeENodTVZMVJJc1poZw?oc=5"
     },
     {
-      "headline": "Behind the Curtain: How Anthropic's Pentagon deal could get revived - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-26T10:07:10.000Z",
+      "headline": "OpenAI thought it could own AI videos. The reality was too expensive | CNN Business - CNN",
+      "source": "CNN",
+      "timestamp": "2026-03-26T09:01:21.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Behind the Curtain: How Anthropic's Pentagon deal could get revived &nbsp;&nbsp; Axios Judge presses DOD on why Anthropic was blacklisted: 'That seems a pretty low bar' &nbsp;&nbsp; CNBC Federal judge sides with Anthropic in first round of standoff with Pentagon &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Z2wtNWd6RzNERDVfX1o5SUwxTFdNMjR0b0RmRjhOTC16RHY4QmcyNEJtbnlKdFpyTmJBWlptOWJVMDJUQ0tOZm9iVGdaX1Y0UXY1NkFza2cyVWY0c185QU8wWlNCY24wdkZB?oc=5"
+      "summary": "OpenAI thought it could own AI videos. The reality was too expensive | CNN Business &nbsp;&nbsp; CNN",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4SkZnQmZvWHhEcHhOWF9ySm5hOWdoQzJvT25wZjJxREpiLUljcHYxMHNLYW1xZnVCeFdxZFVfWU01U2xFaHgxZEhON1JRTUdnSUo2T1B2SFVoZk9WMUdMc1JyS0dmVEJIeEVRUXg4VDVobDNJb2Fv?oc=5"
     },
     {
       "headline": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana - Fortune",
@@ -115,13 +115,40 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic Supply-Chain Risk Designation Halted By Judge - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-03-26T23:33:00.000Z",
+        "headline": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-27T02:46:50.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5",
+        "summary": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind - The Times of India",
+        "source": "The Times of India",
+        "timestamp": "2026-03-27T02:27:00.000Z",
         "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZWxrcV83M0dGUUFhaTZzd01aQUEzSTdhbzlobUhHM1YtN1pmeUJpQjh4V3BRRUNjMkJNdHE5Z0Q5NllZSUdSUVF0NzdVM1lJbURfWDZnbnVqQzl6MHZ3RGdfc2pacnVmYV9oZEhtUGZUcTA0eXF0RmlJRDFFWm5QU0xkSEowMlNvTlBWWmt4NWRGeUtDa2JIb1Rfa19NTnhadnBReXlIcWRBUE5YTFAxd25iVlZEYXd3LVczYWFvbFRHU002MWtQc0lVVmtzVzNaYTlSLWpRd2dDcFJfU1M3X01pajU5ay1OWWw4TzFfRWs2SlFqampkc19CaVpzdEdva09GNNIBigJBVV95cUxObG9aYUZ0azNTV0d4djBqUWt1T1kwOTJVRkRXcWZGZUdVb0hhUWNxclk5dU5CMWVMNFdHUTdTdEVMam9odVNCMXNKVGhXQ3ZTUnYzTF9XNndNVFExM3lqT0xIZmx3dGp6aFhoWjJMRVRGdHlkWXhPNkczMUU3UVZKQnFPY1Y4MzBqbTcwa3FlZ2xFaHA5cFJxRFd2Zy01Z0FlUlpRcVJ5QlNyOVc5UExhYkNFWGZyNkNyVE5uZnZnYlA4VXVzNkFzT0o0X0owQWdvOEVVeWVYRXRZbUFiMUJZd1ZkNlBmZWUzQXVEVzZMaEJ5Y1JrSC1RZlptcGFXb3RBeVltb0tjNkpvZw?oc=5",
+        "summary": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind &nbsp;&nbsp; The Times of India"
+      },
+      {
+        "headline": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-03-27T01:05:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWZoQnUwWUVycUZyck1FcEREV2MwVklxOUZ0bnlqTlFkbG1aY2g4Zmd0SFJ0ZVc5dUtwVVlycWtHZEdvVmVBalJURnlHMjkzRjVnUk1hRkxxZ2FKUGpVM0JOZHVzOVVwZ29wN2lSYS12TDNnSzNEZXN2b1dDWFJrTmpDa21ENFh2UDRnaHBPSFMzekJydVE2ZnpydkdGRUFYZDdwMktla0VFaDZjOUlaeE5TRQ?oc=5",
+        "summary": "Claude AI Maker Anthropic Said to Weigh IPO as Soon as October &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Federal judge sides with Anthropic in first round of standoff with Pentagon - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-03-26T23:19:00.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3pWUUxOZ1VRcFRxa0tCYXlQbkFUcUVEVXVKaS0wZExUUkc1dTNYb2l3dnJDVzlTMUczNEluSFZlVnlsNU1fLW5tazI0VkQtbmRUbUVHRVJJYlFpUGhIZGh2cUFwX0Y4WXlwNXliR2VnNnF1MGc1dUxQUW5YRU1hcGFZaElsZw?oc=5",
-        "summary": "Anthropic Supply-Chain Risk Designation Halted By Judge &nbsp;&nbsp; WIRED"
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zVnRSeGhWWjU3QWhRNEJZdzU1TTdYUWFua04wRHo4YURodWMxdWxqUTZpNUdHWkF4eUJqVFZUWE96dGtBRWxwRWRkX2I2b09jVTc5UnhkVE1EOFRQeWowUjNmVUJ2c291bHFGZEZwblZFWTNkaFUwZw?oc=5",
+        "summary": "Federal judge sides with Anthropic in first round of standoff with Pentagon &nbsp;&nbsp; The Guardian Judge blocks Pentagon from labeling Anthropic AI a \"supply chain risk\" and halts Trump's ban on federal use &nbsp;&nbsp; CBS News Judge blocks Pentagon order branding Anthropic a national security risk &nbsp;&nbsp; The Washington Post Judge blocks Pentagon’s effort to ‘punish’ Anthropic by labeling it a supply chain risk &nbsp;&nbsp; CNN Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation' &nbsp;&nbsp; CNBC Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’ &nbsp;&nbsp; The New York Times Judge temporarily blocks Trump administration's Anthropic ban &nbsp;&nbsp; NPR Judge blocks Trump administration from limiting Anthropic's contracts with federal government &nbsp;&nbsp; NBC News Behind the Curtain: How Anthropic's Pentagon deal could get revived &nbsp;&nbsp; Axios"
       },
       {
         "headline": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months - CNBC",
@@ -133,48 +160,21 @@
         "summary": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Anthropic Discusses Going Public as Soon as the Fourth Quarter - The Information",
-        "source": "The Information",
-        "timestamp": "2026-03-26T22:10:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
-        "summary": "Anthropic Discusses Going Public as Soon as the Fourth Quarter &nbsp;&nbsp; The Information"
-      },
-      {
         "headline": "Meta is pushing employees to use AI, and this doc shows how much - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-03-26T21:09:47.000Z",
+        "timestamp": "2026-03-26T22:05:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2VHVGpvN2dqOXY3Nm9ZX1ZFeHFSbFpFb3psSnJQeWhvQjJNNmdIRlRjWjFZemJDcGxNVklZaThXZWVic3lxTGtHYTNRYzBwLXAtWHB6ekhwbGZOSzdmSjNvYmtCNXkyQWtKaU84T3lUNFJPSEdXMnN1QUFnSVBzNnR0dUMySEV3?oc=5",
         "summary": "Meta is pushing employees to use AI, and this doc shows how much &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Apple Gives iPhone Designers Rare Bonuses to Fight OpenAI Poaching - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-03-26T20:36:23.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2tLa1AxUmlub3B5eWp1OHRiVndYbE1DclNBTW9QaUdjVWVuSGF2SE1LcEt3cmFqR2s2ai1mb0J0bWZIWmxONUw4RnlTVUUwYXlwY3Y3NW5Ka20tOUpTblpiZ3VocUdhSXlKT2tadWNyMjNLMzVvd0NwWElVNTZQNVZ4anRZNnd3cnV2ekdWZFVLOGtZbzduNDQ0Ty1jY3AwUENVWkZuVDhHRnk2NkNrX19IUXhxMUpB?oc=5",
-        "summary": "Apple Gives iPhone Designers Rare Bonuses to Fight OpenAI Poaching &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-03-26T19:00:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzlUNzhaWENtQV9WLW1FTVBXYTVJT1JXWUY2VGdyQTBDak5feTBqdXJYWWlMVE1ubDJZSGpzVno3dEZ0TVpkYkNzS2F2Z0NMd2Q1V2h0UURmRjRueXhZOUdZSHRrV2tENWRDNlJyWnpMaUpjQTdXVlIxbHpVcEJWc2RfZnh6UkJsOU02ajV6QVpTZkpIUTJVTWdOYzNGaFp2NVJnZdIBqgFBVV95cUxPQ3dkTE9xS3oySy1mOW02T0swWDlieDRsRkgxVGk5RG1JSzNnUXJrTU9IQS1GNVdLeGhxallaN3dya1Q3ZF9rbG9QWDBqeHB0TG5LYkt6MVd5WHo1YktqcnNac2FKdzRZOWNYNHEyNGlNdVdXTEszVmZnWU1VRnlBZzBHN1ZQXzNtdFhBOWdiTWh2UTBONmJaQndNWlBIQ1dQaXdiN0dNZmc0Zw?oc=5",
-        "summary": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
