@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-27T17:04:30.459Z",
+    "generatedAt": "2026-03-27T19:02:01.023Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,54 @@
   },
   "newsFeed": [
     {
+      "headline": "Microsoft is picking up a Texas data center project OpenAI didn't want, in a telling sign of how far they've drifted apart - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-03-27T18:52:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft is picking up a Texas data center project OpenAI didn't want, in a telling sign of how far they've drifted apart &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUS1lcE91ZHVZNnhNYVN0T1lXNS0yTlV0X0lrQm1MQnVUYVZjSmRPdnBWYVRJTlZfTFBIYk9PYnp3UHh4VUx3NjJmSkV1QVNnWHZMaERnYjV4MnZPS0Z1R3Z5aUtmeldzSWNJNnM1TDNDdnQ5MFIwUnRQNUhZekp1dElfYnhneG01RzBhdTg4eDFsMklTWlNyT0pEU29mUQ?oc=5"
+    },
+    {
       "headline": "Tech stocks today: Big Tech stocks sell off, Anthropic considers IPO as soon as Q4 - Yahoo Finance",
       "source": "Yahoo Finance",
-      "timestamp": "2026-03-27T16:37:40.000Z",
+      "timestamp": "2026-03-27T18:44:10.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Tech stocks today: Big Tech stocks sell off, Anthropic considers IPO as soon as Q4 &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTBWS0dCb2I2aVdoNUdHMHY4cVRoTU1udkFRT2N6MFFHS0tLZWFzZzdid3VWOVdKRGtVVVVJZzdfT0NkNmJMVS1lbVlReVFFOTF5Y2FaZVYzSnBaR3pEQnJUb0YxUm1NTUM5d216cHRYd3p4Z0MzanRjTC1nMGMwa0E4anpwUTFXRS0zUFVPSk9Ea2I5cGE3WXhzUTVqSHVOV2p1Y3NBN2tRVFF4eFhBeTJhOHhMVUxGbkpWNUg5THJGVjhRYUloalZfSQ?oc=5"
+    },
+    {
+      "headline": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-03-27T17:43:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUN4NzZnZzc4RzFPWnF1QVgwRzVjdmZOb3ZJakFtaFVrS0VySjFhQkFhSENHeThFbVdCbm9kalF0VzVZWXJvNDBfa2kzbVRJNjhrUDJqbnFjUWtLb0xjQ0I3NDNRWjJ1YUdVNHp2S0tWZjNaRnh5YW85Z09feHJHR2tfeEU?oc=5"
+    },
+    {
+      "headline": "Xero partners Anthropic to add financial data and tools to Claude AI - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-03-27T16:33:31.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Xero partners Anthropic to add financial data and tools to Claude AI &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFE4YU8yeUR1QXhGVldsQlh1UmZvUFFyamNOaVVDdTYtMUJOMTEtVUxwdVNyX19US3FFM3pNNXlTdm1lUnVXOXE4RE1MVklTenU4RmVhNVIyQU1XR3Jybm9FZkxSb3hHVVRPYlhNRlUxU1BNOVhHYkpzU2V3TjdrT1JYS0haamZfTDZRMGRCU0JXVHFjMVN3WnFhbHB5bGtSUVg5NThKZXhtQQ?oc=5"
+    },
+    {
+      "headline": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-27T15:24:52.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model &nbsp;&nbsp; CNBC Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ &nbsp;&nbsp; Fortune Cyber Stocks Sink on Report Anthropic AI Model Poses Security Risks &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU3Q0cHFkbzhaMUs0dFEzTGJ1RE9kQ2RSTDFxV25OSC1lRmU2N2lqZlZ5Ujh1OWdYWnA3X24zbG1kTEVPTG1tTkJULWlQMFd2UGFWbnBaSmZIUEk0STV4Qk9XWm1Tc0U2cjIzTzRudHdvS3dZZXJ3UFFKdlpaZXdhNE1qUdIBiAFBVV95cUxPVm9pMXNBdExlYnNzQ3pVLTlJa2pmTWRLM3dKZ2s4bWFDSzVmU3N4cGtXZFBLNWJUb0k3QWxLRzJueTE5UmthNm1JYjFVWF95RjZ3SWJuY0lXS1NJVUh6RGJtODdVVW1Pd3d2a1F0NGV3ak1rRWxjaGlHRGRLb0pvRDNZQlhnOTVv?oc=5"
     },
     {
       "headline": "US DOE Successfully Demonstrates How AI Can Streamline Nuclear Regulation - NucNet",
@@ -32,44 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm56VTlsODFIOVQ2d0tvZWtKNERRMi1wQXZBQkgzWU9RTlVkMnpoc1BlSk1Fa2lhUzdpQ0JOUGdVYUxQbXJLRTlteHlBZmFZUlNKLUdrOF90U0VjV0RxWlRBZkRJZUh6Y1poSURDbEdsU0ZVRUgzdkZoTmpvWTkwS29XWWtQd2RJenNzUDEzNHQwUDFvY3JOS0t6YW1Id3ZYUkhNektSY3doaGZpanFz?oc=5"
     },
     {
-      "headline": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-03-27T03:27:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ &nbsp;&nbsp; Fortune Bitcoin price (BTC) slides alongside software stocks following leak of new Anthropic model &nbsp;&nbsp; CoinDesk Cybersecurity stocks fall on report Anthropic is testing a powerful new model &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5"
-    },
-    {
-      "headline": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind - The Times of India",
-      "source": "The Times of India",
+      "headline": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "timestamp": "2026-03-27T02:27:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind &nbsp;&nbsp; The Times of India",
+      "summary": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind &nbsp;&nbsp; timesofindia.indiatimes.com",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZWxrcV83M0dGUUFhaTZzd01aQUEzSTdhbzlobUhHM1YtN1pmeUJpQjh4V3BRRUNjMkJNdHE5Z0Q5NllZSUdSUVF0NzdVM1lJbURfWDZnbnVqQzl6MHZ3RGdfc2pacnVmYV9oZEhtUGZUcTA0eXF0RmlJRDFFWm5QU0xkSEowMlNvTlBWWmt4NWRGeUtDa2JIb1Rfa19NTnhadnBReXlIcWRBUE5YTFAxd25iVlZEYXd3LVczYWFvbFRHU002MWtQc0lVVmtzVzNaYTlSLWpRd2dDcFJfU1M3X01pajU5ay1OWWw4TzFfRWs2SlFqampkc19CaVpzdEdva09GNNIBigJBVV95cUxObG9aYUZ0azNTV0d4djBqUWt1T1kwOTJVRkRXcWZGZUdVb0hhUWNxclk5dU5CMWVMNFdHUTdTdEVMam9odVNCMXNKVGhXQ3ZTUnYzTF9XNndNVFExM3lqT0xIZmx3dGp6aFhoWjJMRVRGdHlkWXhPNkczMUU3UVZKQnFPY1Y4MzBqbTcwa3FlZ2xFaHA5cFJxRFd2Zy01Z0FlUlpRcVJ5QlNyOVc5UExhYkNFWGZyNkNyVE5uZnZnYlA4VXVzNkFzT0o0X0owQWdvOEVVeWVYRXRZbUFiMUJZd1ZkNlBmZWUzQXVEVzZMaEJ5Y1JrSC1RZlptcGFXb3RBeVltb0tjNkpvZw?oc=5"
-    },
-    {
-      "headline": "Claude AI Maker Anthropic Considers IPO as Soon as October - Bloomberg",
-      "source": "Bloomberg",
-      "timestamp": "2026-03-27T01:05:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude AI Maker Anthropic Considers IPO as Soon as October &nbsp;&nbsp; Bloomberg",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWZoQnUwWUVycUZyck1FcEREV2MwVklxOUZ0bnlqTlFkbG1aY2g4Zmd0SFJ0ZVc5dUtwVVlycWtHZEdvVmVBalJURnlHMjkzRjVnUk1hRkxxZ2FKUGpVM0JOZHVzOVVwZ29wN2lSYS12TDNnSzNEZXN2b1dDWFJrTmpDa21ENFh2UDRnaHBPSFMzekJydVE2ZnpydkdGRUFYZDdwMktla0VFaDZjOUlaeE5TRQ?oc=5"
-    },
-    {
-      "headline": "Judge blocks Pentagon from labeling Anthropic AI a \"supply chain risk\" and halts Trump's ban on federal use - CBS News",
-      "source": "CBS News",
-      "timestamp": "2026-03-26T23:41:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Judge blocks Pentagon from labeling Anthropic AI a \"supply chain risk\" and halts Trump's ban on federal use &nbsp;&nbsp; CBS News Judge temporarily blocks Trump administration's Anthropic ban &nbsp;&nbsp; NPR San Francisco federal judge temporarily blocks Pentagon's 'supply-chain risk' designation for SF-based AI company Anthropic &nbsp;&nbsp; ABC7 Los Angeles",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQNENwOEdPa1puWS1QTm9KMHJSNTAyeVk5WVJPLUt6SWRkd1hHcUdZaHhfekxMQnI4X1k5M0NEZ0htLURFUE9kc2t0dU0xV2Q3XzR2NVFsbXlNamRxRGRDVWpibzdUNDhtWmMxU3pnRUNFQVhUOExjbkZ30gF_QVVfeXFMTm82OHVHM2laRi13UjJDXzhtZXI4NjczVVRyZklYTzBsdFU1NjJxLWRSS2lQYjZ6Z0NmUFI1NHZ1NEI4X1lnN2xNcjZKemk2dFdTbVIzeXpaZGtCUWxvdVlBcFItd202bTVxblgxR2RXcWJrRXUzX25lYk56TVExSQ?oc=5"
     },
     {
       "headline": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months - CNBC",
@@ -99,29 +109,55 @@
       "category": "ecosystem",
       "summary": "OpenAI Shelves Plans For Erotic Chatbot &nbsp;&nbsp; Barron's",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPd0t2M01oWkF2OWk1aFVONm53WEVYdFMteDMzTTZlbWs3YUlzNTNsWnRnR21CWUUxaXVnUlhWck9hVWFhalZHYVU5dXJFMGdiUENrSDVwN2dSVWRZRzM1QUdPdG9QMU5wOXBfMWpPZFhyc3NSeUVnTVo2RWR5ODFCd3drZ0FYMXpEMnoxVmp6N0toN1VFWFBCRmI5NDJCbE5TeDM1ejlVMzNjd2hlWkprSnVJdmR1NW40M1AzWjEyWnUwbDRrREtBQ1JXLVdPOE5FTkFTUTJtSklVTk5qckdUekUxX2pENldYNmV6U2RCSFFwTUstTkRud1hmSnhKeDVmQXVFU0dyTlZiUENsSEk2WE5MVkU2S0s5VTkza0FVVDAySklHMVVDTUVUSDBPcENxRVlHOEExOVNDLVlESGhrNXBza3k2dlQ5aDhOaDZwd1ctQXhweGJDbTBKbXcybGtiRUFuMEFzZG1yREJ2ZDk3amNWcXBQeC1SWFNILWZJQkt6X0ZJUmJMcg?oc=5"
-    },
-    {
-      "headline": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-03-26T19:00:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzlUNzhaWENtQV9WLW1FTVBXYTVJT1JXWUY2VGdyQTBDak5feTBqdXJYWWlMVE1ubDJZSGpzVno3dEZ0TVpkYkNzS2F2Z0NMd2Q1V2h0UURmRjRueXhZOUdZSHRrV2tENWRDNlJyWnpMaUpjQTdXVlIxbHpVcEJWc2RfZnh6UkJsOU02ajV6QVpTZkpIUTJVTWdOYzNGaFp2NVJnZdIBqgFBVV95cUxPQ3dkTE9xS3oySy1mOW02T0swWDlieDRsRkgxVGk5RG1JSzNnUXJrTU9IQS1GNVdLeGhxallaN3dya1Q3ZF9rbG9QWDBqeHB0TG5LYkt6MVd5WHo1YktqcnNac2FKdzRZOWNYNHEyNGlNdVdXTEszVmZnWU1VRnlBZzBHN1ZQXzNtdFhBOWdiTWh2UTBONmJaQndNWlBIQ1dQaXdiN0dNZmc0Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxONTg0aFRGeEhaX2JrOWFZOHIxMkNZdFA0VmJmT3VaZW5kVzJ5NG9kRktBYkdCNXk5Z2lTVVUwSGh2YnR4UlRWclBqNnYwNTVUTDVteFlWMmtfS1RXcnhUVUtnb0pnQUJOaXg4blRmbjFPZURMN1htMWh2MTVsQkJ3T3FsbkVSdlk0d1hTZWlqdkZYUFRXY2t2a1M5RHBNdmdyQ2ZvOHV5UndTbHhSSHp1Sl8tZW1STkJaZC1ub0JSZE5HZS12T3k0Ulh0X1FkanpUNTNXSHRzT05CQkluSW9oZGJaM3VtcURnbklqUHdDT2JYdW51U240aV9oeG45Q3lrYTg2cEFTa0xwT19ITEpkYU5iOG1sTnFEcy1sYjZrZjAzalJxX0FRd0dGaUlvYW9JdW80ZkI1MFdhZllHUTRBeGxmdGFvSVVIbzJrR0lhM0dxZjd2NTMyNVVEZG5oOGs5cGdPdFpoaFRpcjNzeDFWdlVsLU5mRTRyTm8wa29JbkJOOXBFWExNVA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Microsoft is picking up a Texas data center project OpenAI didn't want, in a telling sign of how far they've drifted apart - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-27T18:52:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUS1lcE91ZHVZNnhNYVN0T1lXNS0yTlV0X0lrQm1MQnVUYVZjSmRPdnBWYVRJTlZfTFBIYk9PYnp3UHh4VUx3NjJmSkV1QVNnWHZMaERnYjV4MnZPS0Z1R3Z5aUtmeldzSWNJNnM1TDNDdnQ5MFIwUnRQNUhZekp1dElfYnhneG01RzBhdTg4eDFsMklTWlNyT0pEU29mUQ?oc=5",
+        "summary": "Microsoft is picking up a Texas data center project OpenAI didn't want, in a telling sign of how far they've drifted apart &nbsp;&nbsp; Fortune"
+      },
+      {
         "headline": "Tech stocks today: Big Tech stocks sell off, Anthropic considers IPO as soon as Q4 - Yahoo Finance",
         "source": "Yahoo Finance",
-        "timestamp": "2026-03-27T16:37:40.000Z",
+        "timestamp": "2026-03-27T18:44:10.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTBWS0dCb2I2aVdoNUdHMHY4cVRoTU1udkFRT2N6MFFHS0tLZWFzZzdid3VWOVdKRGtVVVVJZzdfT0NkNmJMVS1lbVlReVFFOTF5Y2FaZVYzSnBaR3pEQnJUb0YxUm1NTUM5d216cHRYd3p4Z0MzanRjTC1nMGMwa0E4anpwUTFXRS0zUFVPSk9Ea2I5cGE3WXhzUTVqSHVOV2p1Y3NBN2tRVFF4eFhBeTJhOHhMVUxGbkpWNUg5THJGVjhRYUloalZfSQ?oc=5",
         "summary": "Tech stocks today: Big Tech stocks sell off, Anthropic considers IPO as soon as Q4 &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-03-27T17:43:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUN4NzZnZzc4RzFPWnF1QVgwRzVjdmZOb3ZJakFtaFVrS0VySjFhQkFhSENHeThFbVdCbm9kalF0VzVZWXJvNDBfa2kzbVRJNjhrUDJqbnFjUWtLb0xjQ0I3NDNRWjJ1YUdVNHp2S0tWZjNaRnh5YW85Z09feHJHR2tfeEU?oc=5",
+        "summary": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "Xero partners Anthropic to add financial data and tools to Claude AI - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-03-27T16:33:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFE4YU8yeUR1QXhGVldsQlh1UmZvUFFyamNOaVVDdTYtMUJOMTEtVUxwdVNyX19US3FFM3pNNXlTdm1lUnVXOXE4RE1MVklTenU4RmVhNVIyQU1XR3Jybm9FZkxSb3hHVVRPYlhNRlUxU1BNOVhHYkpzU2V3TjdrT1JYS0haamZfTDZRMGRCU0JXVHFjMVN3WnFhbHB5bGtSUVg5NThKZXhtQQ?oc=5",
+        "summary": "Xero partners Anthropic to add financial data and tools to Claude AI &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-27T15:24:52.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU3Q0cHFkbzhaMUs0dFEzTGJ1RE9kQ2RSTDFxV25OSC1lRmU2N2lqZlZ5Ujh1OWdYWnA3X24zbG1kTEVPTG1tTkJULWlQMFd2UGFWbnBaSmZIUEk0STV4Qk9XWm1Tc0U2cjIzTzRudHdvS3dZZXJ3UFFKdlpaZXdhNE1qUdIBiAFBVV95cUxPVm9pMXNBdExlYnNzQ3pVLTlJa2pmTWRLM3dKZ2s4bWFDSzVmU3N4cGtXZFBLNWJUb0k3QWxLRzJueTE5UmthNm1JYjFVWF95RjZ3SWJuY0lXS1NJVUh6RGJtODdVVW1Pd3d2a1F0NGV3ak1rRWxjaGlHRGRLb0pvRDNZQlhnOTVv?oc=5",
+        "summary": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model &nbsp;&nbsp; CNBC Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ &nbsp;&nbsp; Fortune Cyber Stocks Sink on Report Anthropic AI Model Poses Security Risks &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "US DOE Successfully Demonstrates How AI Can Streamline Nuclear Regulation - NucNet",
@@ -131,49 +167,13 @@
         "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm56VTlsODFIOVQ2d0tvZWtKNERRMi1wQXZBQkgzWU9RTlVkMnpoc1BlSk1Fa2lhUzdpQ0JOUGdVYUxQbXJLRTlteHlBZmFZUlNKLUdrOF90U0VjV0RxWlRBZkRJZUh6Y1poSURDbEdsU0ZVRUgzdkZoTmpvWTkwS29XWWtQd2RJenNzUDEzNHQwUDFvY3JOS0t6YW1Id3ZYUkhNektSY3doaGZpanFz?oc=5",
         "summary": "US DOE Successfully Demonstrates How AI Can Streamline Nuclear Regulation &nbsp;&nbsp; NucNet"
-      },
-      {
-        "headline": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-03-27T03:27:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5",
-        "summary": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ &nbsp;&nbsp; Fortune Bitcoin price (BTC) slides alongside software stocks following leak of new Anthropic model &nbsp;&nbsp; CoinDesk Cybersecurity stocks fall on report Anthropic is testing a powerful new model &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-03-27T02:27:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZWxrcV83M0dGUUFhaTZzd01aQUEzSTdhbzlobUhHM1YtN1pmeUJpQjh4V3BRRUNjMkJNdHE5Z0Q5NllZSUdSUVF0NzdVM1lJbURfWDZnbnVqQzl6MHZ3RGdfc2pacnVmYV9oZEhtUGZUcTA0eXF0RmlJRDFFWm5QU0xkSEowMlNvTlBWWmt4NWRGeUtDa2JIb1Rfa19NTnhadnBReXlIcWRBUE5YTFAxd25iVlZEYXd3LVczYWFvbFRHU002MWtQc0lVVmtzVzNaYTlSLWpRd2dDcFJfU1M3X01pajU5ay1OWWw4TzFfRWs2SlFqampkc19CaVpzdEdva09GNNIBigJBVV95cUxObG9aYUZ0azNTV0d4djBqUWt1T1kwOTJVRkRXcWZGZUdVb0hhUWNxclk5dU5CMWVMNFdHUTdTdEVMam9odVNCMXNKVGhXQ3ZTUnYzTF9XNndNVFExM3lqT0xIZmx3dGp6aFhoWjJMRVRGdHlkWXhPNkczMUU3UVZKQnFPY1Y4MzBqbTcwa3FlZ2xFaHA5cFJxRFd2Zy01Z0FlUlpRcVJ5QlNyOVc5UExhYkNFWGZyNkNyVE5uZnZnYlA4VXVzNkFzT0o0X0owQWdvOEVVeWVYRXRZbUFiMUJZd1ZkNlBmZWUzQXVEVzZMaEJ5Y1JrSC1RZlptcGFXb3RBeVltb0tjNkpvZw?oc=5",
-        "summary": "How one question from Google co-founder Larry Page 'convinced' Demis Hassbis to sell DeepMind &nbsp;&nbsp; The Times of India"
-      },
-      {
-        "headline": "Claude AI Maker Anthropic Considers IPO as Soon as October - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-03-27T01:05:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWZoQnUwWUVycUZyck1FcEREV2MwVklxOUZ0bnlqTlFkbG1aY2g4Zmd0SFJ0ZVc5dUtwVVlycWtHZEdvVmVBalJURnlHMjkzRjVnUk1hRkxxZ2FKUGpVM0JOZHVzOVVwZ29wN2lSYS12TDNnSzNEZXN2b1dDWFJrTmpDa21ENFh2UDRnaHBPSFMzekJydVE2ZnpydkdGRUFYZDdwMktla0VFaDZjOUlaeE5TRQ?oc=5",
-        "summary": "Claude AI Maker Anthropic Considers IPO as Soon as October &nbsp;&nbsp; Bloomberg"
-      },
-      {
-        "headline": "Judge blocks Pentagon from labeling Anthropic AI a \"supply chain risk\" and halts Trump's ban on federal use - CBS News",
-        "source": "CBS News",
-        "timestamp": "2026-03-26T23:41:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQNENwOEdPa1puWS1QTm9KMHJSNTAyeVk5WVJPLUt6SWRkd1hHcUdZaHhfekxMQnI4X1k5M0NEZ0htLURFUE9kc2t0dU0xV2Q3XzR2NVFsbXlNamRxRGRDVWpibzdUNDhtWmMxU3pnRUNFQVhUOExjbkZ30gF_QVVfeXFMTm82OHVHM2laRi13UjJDXzhtZXI4NjczVVRyZklYTzBsdFU1NjJxLWRSS2lQYjZ6Z0NmUFI1NHZ1NEI4X1lnN2xNcjZKemk2dFdTbVIzeXpaZGtCUWxvdVlBcFItd202bTVxblgxR2RXcWJrRXUzX25lYk56TVExSQ?oc=5",
-        "summary": "Judge blocks Pentagon from labeling Anthropic AI a \"supply chain risk\" and halts Trump's ban on federal use &nbsp;&nbsp; CBS News Judge temporarily blocks Trump administration's Anthropic ban &nbsp;&nbsp; NPR San Francisco federal judge temporarily blocks Pentagon's 'supply-chain risk' designation for SF-based AI company Anthropic &nbsp;&nbsp; ABC7 Los Angeles"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
