@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-27T05:05:51.291Z",
+    "generatedAt": "2026-03-27T07:05:47.774Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,26 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "Asian stocks extend global rout; bonds hammered as war drags on",
-      "summary": "Asian stocks extend global rout; bonds hammered as war drags on &nbsp;&nbsp; Reuters",
+      "headline": "China stations jets-turned-drones at bases near Taiwan Strait, report says",
+      "summary": "China stations jets-turned-drones at bases near Taiwan Strait, report says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-03-27T02:23:00.000Z",
+      "timestamp": "2026-03-27T05:08:00.000Z",
       "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMC05b2dRM21tR1hDUUgzWEx0aUZKMkgteDBFUDhEcTV4ZVlkOW1Wc2RXOTZ2dzBBTW9jcWdCeVBGdl90QURFTmxiall3M1RWckcxVkZVSDV1alMyR1NfSDN2ekZPTnlLbExIX0VoZkptMkZlMzBvNC16RnhMYjZmNEVvQUxPeDZq?oc=5"
-    },
-    {
-      "headline": "Trump weighs sending another 10,000 ground troops to the Middle East, WSJ reports",
-      "summary": "Trump weighs sending another 10,000 ground troops to the Middle East, WSJ reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-27T00:24:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
+      "region": "China",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWpQOHFsdDR6cG1NOHpmYmhrWnc4Q1cwYy1wQVNaSV9Ha2VFZTRONFdHLXlYdzRlMldxMVE3aGIwMlczVlpmcVdURVBoM2dkSTg3Q0hSZkJGdVRGYlU5YUhPRkRnWGxST2NqdEU2QnFaQ1pfRXBmT0w4YVZtQ3dVVXpidWd0UUh6clhsc05WZGhvLXZLNXZQOW5DOElBYmtFSkc1dkRrWmg1dnZPNjFYTE1YYkk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDFfVTQ1UTBjQTU1NDdLTWU1Z00tQlZfZU9YYW8tZ0c3ek4ydXpaTmdRSGNmcU1nQ3VkOE9sQlRsVl85a3ZiUVhscy1NZjUxbjZuc0dDRklFOEpyOWt1d0xMdWVJS0lSRk5hWkhJVGFkWi1ncnJyUy0wR3l6OW9SbjZUVGhXcnFtNlJVeDY5Y2M2RWx5MVBQbndNREFYTzY3UDJqWGtFNFBBMjJlaDI5LUJsVDR0N3dDdVE?oc=5"
+    },
+    {
+      "headline": "India cuts special excise duties on petrol, diesel",
+      "summary": "India cuts special excise duties on petrol, diesel &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-27T02:44:00.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVJFWGpfamNSRUNkckNWNHNCdHhONFgzT3VJV0NYX3FUS3ZnQVBvOGVQbFB2QUhjc2hucl9IZjNnT0xySU9BR1c0czJ0N0JiZ2tZekdrZUdYbi01S1BLTkw4MmFxTzdXLW80YnRrejR4cUUyNTVSWGVnd2pEOVpUb0JRckx1aWc1R0dZbTFZbVRpem1xOE1Vb3hVdEtnV05ubUtVRVlWaWk?oc=5"
+    },
+    {
+      "headline": "Indian shares fall on global risk-off as Iran war drags on",
+      "summary": "Indian shares fall on global risk-off as Iran war drags on &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-27T02:38:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFpTSFA5Y3p6NDZ0TWx3M3ZzdkxoNUtRck1oR0MxY0xSc1FmcW5sZHVETkF6NkVJR2NDNG9YT0dDSjV6ZXBvZ0tBMk9GaEo5Q1FDbEU4QnZyRUNMN2dyQWJrME5YRFpHZUhub3R1MXU0NUNhRS1xRW90dUFMcGlGSWNOR0hoMVBjQVp0Y0hGeDQ1QQ?oc=5"
     },
     {
       "headline": "Exclusive: China's top chipmaker has supplied chipmaking tech to Iran military, US officials say",
@@ -76,17 +87,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcVJ0NXNadUlXWGZZUHh1UFdCcHdRcVZXUkVhRVhFUFZHMFBxZE5PdVlQc2w5d1NXV1hJZHFnMV9NbW9oZW9ORGYzTlFvZ0J0SXdtaVZ5RFJOQmJmRmdmZXlLM0ppY0E4LWgwUQ?oc=5"
-    },
-    {
-      "headline": "Chevron reports outage at Australian gas facilities due to cyclone",
-      "summary": "Chevron reports outage at Australian gas facilities due to cyclone &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-26T23:39:28.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSk5SVDZTcHlBZWlKNVJiZFVXLUthZDI0LTJwMUg1VmM4TnZkMjNNQzJXb0J3dDZDRkRJeWxjNWNSSUgxejRvcUdpV1plcXJtMkVzVk45RnZERjlYOEtUUzJfT3RiZDQ3QnVBMGdmZkJheDg3aEh3dFJ3M2dZTWlTQXBaSTY4eXNqUHlCQ0dwZFFHRWtTT2tscktOUTUzLWE5Ul83MHJYV2hXN3lMdXJtalNB?oc=5"
     },
     {
       "headline": "Undeterred by war, South Korean day traders double down on world-beating KOSPI",
