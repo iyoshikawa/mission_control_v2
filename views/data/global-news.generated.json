@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-28T22:28:11.967Z",
+    "generatedAt": "2026-03-28T23:29:50.715Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Iran-linked hackers breach FBI director's personal email, publish photos and documents",
+      "summary": "Iran-linked hackers breach FBI director's personal email, publish photos and documents &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-28T23:14:28.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnl4Mkp5MnI3ZDg3X1RYMk1aX1JpWkhKLUN5czJlUGtoaU9NZE9RM2dQZlJkMXNQMWtfRElSU0tjMTdZaWN2UnNUb0dIcEZLZjB0RThIdEpQMW5WWkxWblMzNmszZElmcjE2WXNnMXBjNHA0NE15V0dYMVZhYmNjcm8ySjlUZkVIaWZURW1aQmhLNEk4TDV6d1g3SXpJV1psSTBxZTViRE5iSU9WYzRXbjhrUDZ2Um93MDFYNkpDUQ?oc=5"
+    },
     {
       "headline": "Israeli airstrike kills three Lebanese journalists, Israel says it targeted one",
       "summary": "Israeli airstrike kills three Lebanese journalists, Israel says it targeted one &nbsp;&nbsp; Reuters",
@@ -34,15 +45,15 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3JXLTE5ejVPRHFJUHg4Nzc4T2VPWHhnVzhUTVd3d2dCSjViMUwyTjJsOEtrLXNuNFJRdXoyR3pidlYwY09tSkg3b0tWNFBvX29sSUNwMWx4UVkyeDAxLXRreF9NTGh3ZzZ1M2dGUlVSSDNDSUxacUhtVHp5MFZySXMzWVFvWnhVLXY2eFExV1FodHFmWThXMmp1UkZiWWVLbFJFR1NmdWdCY3p5azFTZkxIdzdIZG9qRlRFbDhaSy1KTkgxelBFTkJyX0Y3Z3c?oc=5"
     },
     {
-      "headline": "WTO members try to close gap between US, India on e-commerce tariff moratorium",
-      "summary": "WTO members try to close gap between US, India on e-commerce tariff moratorium &nbsp;&nbsp; Reuters",
+      "headline": "WHO says attacks in southern Lebanon kill nine paramedics",
+      "summary": "WHO says attacks in southern Lebanon kill nine paramedics &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-03-28T19:49:10.000Z",
+      "timestamp": "2026-03-28T17:49:38.000Z",
       "impact": "HIGH",
-      "region": "India",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXZ6M2Zsd08yMnk3aWh3ZWhZcDc5Y0VkRFlFaGZYQjlRRjllMk90Z0UyazhubFpjQ082ZEs5cWY5UUFIdGJQREZmZnhwR0Vmc2RLMTN4R1REem92UTdnNXA2aEJUbV94eThnc29TeTJWZE1jaFlaS2MwdnJoZXpKeEp2bW8zQy1wOThrMTl1ODdrV3FPMTd2MlVIQS1oWnFpS1FXT21SeFQ3UGxLazZrQ0lXU2ppQVZ2b3R0ck5LZVg4RDg?oc=5"
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmRyT1d6ak5LX29GUFVaWmppU25naC1kQlIyTHNUM2haSVFQVDdjTGtzdFpQUFFvUWRoNUkzVjZtMll0NWo0OS1IYkVNTXhiNUdJeUs1VEhuVUdZcGRQak5BejRJZkxoYUFHNTdPV3hKdGg5eTFWTDdqSHN5OGFFRUNWaDdCZFpyMnpaVC11LWhVNWxybkgyUmJzQi1PMjlycXl3YTBkR3BsaEIy?oc=5"
     },
     {
       "headline": "One month into Iran war, only hard choices for Trump",
@@ -87,17 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjc2d1JvUWlhWmR5dV9DcmhtRmIyZ3AwazBJUzYzU1Q5aFRsYVhWX1FNdHI3VkhjR0YxOEktRmM1THJfQ0pDWDBVMl9ZaGNBVVVPcnpXbFZiLVhkcUdVSHBuRVdySW0xcEI2UDYtWXl2MzdneWo5MVF5WlR0RzRIdG52OFlnYTZFdUU5RTdlU2FqY3lXUC0xYmlNUHNRTmk1U2FJX25tYmFIVEhINm1ZTW92RDdCRE5VenZ3dkVHOHh4d0VsT3czQQ?oc=5"
-    },
-    {
-      "headline": "Emirates Global Aluminium reports 'significant damage' from Iranian strikes",
-      "summary": "Emirates Global Aluminium reports 'significant damage' from Iranian strikes &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-28T15:03:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeVlXMm1salRYUzVodlRtY3JWeHItekRGTFRiTjhHRnBXWWV3aGVsYTVRY1V3UWNObjFiNHZJbzd4aFg4OEdKcnRGNDNHc2djeklLOV9kRGxWRTRXeURMYkU0ZDFKYVpRTktPSllPLXVycWpRYjNRR0o5dWNzRU5nM3RmeDJRTWMwdnVkeTVOeFZxWU5PMlhnZU1XeWVMVTZYVGhhblUwSXlKZk9lU3VoMWNYN0V3TEYzRkd1QkV2aw?oc=5"
     }
   ]
 }
