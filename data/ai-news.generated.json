@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-29T09:42:34.133Z",
+    "generatedAt": "2026-03-29T10:39:57.318Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "The Man Who Thought He Could Keep AI Safe - The Atlantic",
+      "source": "The Atlantic",
+      "timestamp": "2026-03-29T10:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Man Who Thought He Could Keep AI Safe &nbsp;&nbsp; The Atlantic",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjFGSnFFWG44MHAyZEZZVVJDN0tQdXk0amNKMVBfYmlCZ0NnbHRTN01oR2kyVFlLaUNNZGRNUkNIWW1fQ1pFNEQ0bEtYTXMzdW9hMnRRTGZURC1nWkdzVEJGWFd6Tm8wVnNRVTJpOW1jaXVSS1l2VnRfZTByZW1fWmpac3M?oc=5"
+    },
     {
       "headline": "The Pentagon-Anthropic dispute is a test of control - Financial Times",
       "source": "Financial Times",
@@ -32,12 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkpMU19Yb2M1Z0xpazgxNjNhMFpnNVZkQ1BQeHJrSVhuX1ZjcGRyNGY1OWVZZVJNVEg1MjIzbEZvNTZONVA2bFA1b29jYngxbDJBbHlxRDhMYmo4TnRFWlc3Ny1qVkFiYWNnZlBId2Y5TnNXQ3lfYTRTLWt0UVpwVlVjQ3o?oc=5"
     },
     {
-      "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing - techcrunch.com",
-      "source": "techcrunch.com",
+      "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing - TechCrunch",
+      "source": "TechCrunch",
       "timestamp": "2026-03-28T14:15:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic’s Claude popularity with paying consumers is skyrocketing &nbsp;&nbsp; techcrunch.com",
+      "summary": "Anthropic’s Claude popularity with paying consumers is skyrocketing &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2tpQmVpOXRQNDdSM3pLVkhJazlYdTExdGJFTDhWcHljcm1aY3drNmRUU2tkRzUwZzNCdlJoakNZejVpS3B0bDBia21ZMTNuZUxUZC03dUlsQVI1SGpMdnpoV0prajJuWHh3RzNUTzE5T3M2RWNEWjg1amFBN2U4bFVBclZlUnZXT2JMbWFTMkhpOEpBZnMyNXNIOWl4WjJMSGFJ?oc=5"
     },
@@ -92,28 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTBQY2RiVXp0RE85Y2lwYmVOOTEzMUdQTFVuVmZTSmxrcDc2Yk1PNm11RHdxUUxQYWh5MFc3bXUtdHNvV25oUC1ob3BVR29TRHc1WUMwTW9mN0FreUVPd0lESWxzLVdQeEJLVVdscW16VzRXUEZFdHBfMTdobk1ub2V4THItaW5sN3BtQmNjZGRzVlNiN0E?oc=5"
     },
     {
-      "headline": "Entergy seeks to boost power capacity for Louisiana’s Meta AI data center in huge expansion - NOLA.com",
-      "source": "NOLA.com",
-      "timestamp": "2026-03-27T13:55:00.000Z",
+      "headline": "Meta is running intensive AI training weeks to get employees testing agents and coding with Claude - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-03-27T20:05:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Entergy seeks to boost power capacity for Louisiana’s Meta AI data center in huge expansion &nbsp;&nbsp; NOLA.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZExHV0h3aXMwZmVuSl9ITWlhNkZLRFlsUURIWWZRcnBscXVPakU2VTFYdUVrSUdSbVp4Y2dZbkU3cF9oSTVsNzBDUmxOenZrNTZMRWhvQ2xabjgwbDZyNVN0Y1ctRGZkcjJIVTU2eldpQmk5R3YxOVZDNlM2Y0xiREYtbnVHRXJOUGFkZ2JVRkwyUzRGZWppYzdRd1ZXY09XNENUM2Mxa3F2Z2EtTHVuVXNucFFOZDhpcUHSAb8BQVVfeXFMTVM2N2hiRDg4enE4TnBBWlBGekdPVW1YajNBbEQzVUZCN0prYWQwcml5aExrbi1GMEk4NGMwMHcySEJhamZLT2VQenM2NGZPZGJXY1ZwWTB5ejBSY21UT0czdGprVlJxRGdVU01ZbTJ2djduV3N5emlON1UxRVFqbTdRdW1SMlBDeDhtRHVxbGREcy1KU3kzck1hb0NjVFN4cFkzdXNLREdWeF9FTHVRTDNsVURYX1FnZFJ2emZYWjQ?oc=5"
-    },
-    {
-      "headline": "Agile humanoid robots with Google brain to undergo industrial testing - Interesting Engineering",
-      "source": "Interesting Engineering",
-      "timestamp": "2026-03-27T10:55:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Agile humanoid robots with Google brain to undergo industrial testing &nbsp;&nbsp; Interesting Engineering",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTk3X21pZW1IZkMyVEZrT0ZXbHhkSk5JZmlXMklBdExLNFRqVXVta052SDNzMGZpZHBUd0w3X1h6a3oxcHVJQ2lQcmZHRGZfYzAteUY2TGJRcEg2Q3pLbHRGUlQwQzhqbEc4OXRsQS1ZWnJWNlloZ2RlZEdwUFcwd2xkZ3RmU2xNdHF5WHhybnIwUQ?oc=5"
+      "category": "models",
+      "summary": "Meta is running intensive AI training weeks to get employees testing agents and coding with Claude &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHdUUHFONXQ3elRuWlVyQ0FSOWplTi1NVHM3cWZfWFlkcThXeGowNDFzODh4UEF6OTU4NEUwTVJHTEZSOWxjLWRGSW9nRTBaWkdqUUl0U2dZYVU2ZF8wTzIwbXZfOFVvRTMzRW1qQUUxc0JMTmU4S29hM2I1TVZqTHhVdVMteFlPXzRYdVBTY183ZWN6VlFERlppOA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "The Man Who Thought He Could Keep AI Safe - The Atlantic",
+        "source": "The Atlantic",
+        "timestamp": "2026-03-29T10:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjFGSnFFWG44MHAyZEZZVVJDN0tQdXk0amNKMVBfYmlCZ0NnbHRTN01oR2kyVFlLaUNNZGRNUkNIWW1fQ1pFNEQ0bEtYTXMzdW9hMnRRTGZURC1nWkdzVEJGWFd6Tm8wVnNRVTJpOW1jaXVSS1l2VnRfZTByZW1fWmpac3M?oc=5",
+        "summary": "The Man Who Thought He Could Keep AI Safe &nbsp;&nbsp; The Atlantic"
+      },
       {
         "headline": "The Pentagon-Anthropic dispute is a test of control - Financial Times",
         "source": "Financial Times",
@@ -133,13 +142,13 @@
         "summary": "OpenAI investor says AI requires an income tax overhaul &nbsp;&nbsp; Financial Times"
       },
       {
-        "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing - techcrunch.com",
-        "source": "techcrunch.com",
+        "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing - TechCrunch",
+        "source": "TechCrunch",
         "timestamp": "2026-03-28T14:15:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2tpQmVpOXRQNDdSM3pLVkhJazlYdTExdGJFTDhWcHljcm1aY3drNmRUU2tkRzUwZzNCdlJoakNZejVpS3B0bDBia21ZMTNuZUxUZC03dUlsQVI1SGpMdnpoV0prajJuWHh3RzNUTzE5T3M2RWNEWjg1amFBN2U4bFVBclZlUnZXT2JMbWFTMkhpOEpBZnMyNXNIOWl4WjJMSGFJ?oc=5",
-        "summary": "Anthropic’s Claude popularity with paying consumers is skyrocketing &nbsp;&nbsp; techcrunch.com"
+        "summary": "Anthropic’s Claude popularity with paying consumers is skyrocketing &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "Why OpenAI killed Sora - The Verge",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY01OYk5udUdOWWhXelRqVDU5Ylp5S0Z6a3B4a2VBR0d2VTctNVUxZ1FxRzZZVkJyODN1T2xleFFqYmQtWFNGVDlhcjFuTzlBUkxkSGd5NkotY2xFQ0ZTX0JRZXJTTXVPc3VETTluTXRmVGRtamdmSXpiNTlnbkFsWm5nZF9DQQ?oc=5",
         "summary": "The contradiction at the heart of OpenAI’s restructuring &nbsp;&nbsp; Vox"
-      },
-      {
-        "headline": "OpenAI is narrowing its focus on things that make money - Axios",
-        "source": "Axios",
-        "timestamp": "2026-03-28T10:43:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbUJMd3dNZzJEU3FvUkdReG5tclRCakwxSkdlVjZWRWJnb21taERpUnNQaV9ma2hzXzZEWW1VcHp6ZTVuYlJMZFJsNUJiT1FDMWFodi1vOWh5Z0xuYmJ3Q1FCS3I4SWUtVkpj?oc=5",
-        "summary": "OpenAI is narrowing its focus on things that make money &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
