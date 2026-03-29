@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-29T02:52:17.119Z",
+    "generatedAt": "2026-03-29T05:15:31.742Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-03-28T14:15:00.000Z",
+      "headline": "OpenAI is narrowing its focus on things that make money - axios.com",
+      "source": "axios.com",
+      "timestamp": "2026-03-28T14:43:01.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic’s Claude popularity with paying consumers is skyrocketing &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2tpQmVpOXRQNDdSM3pLVkhJazlYdTExdGJFTDhWcHljcm1aY3drNmRUU2tkRzUwZzNCdlJoakNZejVpS3B0bDBia21ZMTNuZUxUZC03dUlsQVI1SGpMdnpoV0prajJuWHh3RzNUTzE5T3M2RWNEWjg1amFBN2U4bFVBclZlUnZXT2JMbWFTMkhpOEpBZnMyNXNIOWl4WjJMSGFJ?oc=5"
+      "category": "ecosystem",
+      "summary": "OpenAI is narrowing its focus on things that make money &nbsp;&nbsp; axios.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbUJMd3dNZzJEU3FvUkdReG5tclRCakwxSkdlVjZWRWJnb21taERpUnNQaV9ma2hzXzZEWW1VcHp6ZTVuYlJMZFJsNUJiT1FDMWFodi1vOWh5Z0xuYmJ3Q1FCS3I4SWUtVkpj?oc=5"
     },
     {
       "headline": "Why OpenAI killed Sora - The Verge",
@@ -42,16 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY01OYk5udUdOWWhXelRqVDU5Ylp5S0Z6a3B4a2VBR0d2VTctNVUxZ1FxRzZZVkJyODN1T2xleFFqYmQtWFNGVDlhcjFuTzlBUkxkSGd5NkotY2xFQ0ZTX0JRZXJTTXVPc3VETTluTXRmVGRtamdmSXpiNTlnbkFsWm5nZF9DQQ?oc=5"
     },
     {
-      "headline": "OpenAI is narrowing its focus on things that make money - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-28T10:40:36.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI is narrowing its focus on things that make money &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbUJMd3dNZzJEU3FvUkdReG5tclRCakwxSkdlVjZWRWJnb21taERpUnNQaV9ma2hzXzZEWW1VcHp6ZTVuYlJMZFJsNUJiT1FDMWFodi1vOWh5Z0xuYmJ3Q1FCS3I4SWUtVkpj?oc=5"
-    },
-    {
       "headline": "Meta to Launch New AI Glasses Aimed at Prescription Wearers - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-03-27T22:29:52.000Z",
@@ -60,16 +50,6 @@
       "summary": "Meta to Launch New AI Glasses Aimed at Prescription Wearers &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdW1jT21EOFNTZlZ6ZnFFVjZBQlRWUko2WE1rOGE5Zldoa1NEMGh2QkZVNjBydEZTck9feEhHcWhKNkt3VFluSUM5ZDVjN29Zd1VYT28tS1VQRmlBN3lCekY0bUd2bWk2TjlzYlFzcG5NdGdPTEdfOU54WXRSUGpWMDliZzg5LWYtOFRSWXBaVm9qNkYwTC1Xc3VuYVdFYzZQLUVDaFNlMl9BcGpwT1lr?oc=5"
-    },
-    {
-      "headline": "‘Premature’: Anthropic still in trouble despite court win, lawyers and lobbyists say - Politico",
-      "source": "Politico",
-      "timestamp": "2026-03-27T22:05:28.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "‘Premature’: Anthropic still in trouble despite court win, lawyers and lobbyists say &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTY3bHR1MVRHS2FBMUZ6UkhRRHJWQ25UcTFBOXFaVG5TczhucnJURVh5VmdKQ2xJNkI2NWdqZUJqazV4dFNlSlp4RXpPeUI1TVlpd2I3TjVJQTRVaC1wa2M2cVg1Ri1BUmwwd1JrNVNpMVJGTkpTSXRMR1BCWVd3ak5OUzlFN3BFQnRjZlM0bVU1OE5qdGEyc2JjUzV1RTI1SXZfcFo0cHUxZlBMdjZKNGFCUFV0MG1hTzk2R0Z4dGNUUVlEUS05ZU9R?oc=5"
     },
     {
       "headline": "Meta promised it wouldn’t spy on you with its AI smart glasses. A lawsuit says humans are watching you, actually - Fortune",
@@ -92,12 +72,22 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUS1lcE91ZHVZNnhNYVN0T1lXNS0yTlV0X0lrQm1MQnVUYVZjSmRPdnBWYVRJTlZfTFBIYk9PYnp3UHh4VUx3NjJmSkV1QVNnWHZMaERnYjV4MnZPS0Z1R3Z5aUtmeldzSWNJNnM1TDNDdnQ5MFIwUnRQNUhZekp1dElfYnhneG01RzBhdTg4eDFsMklTWlNyT0pEU29mUQ?oc=5"
     },
     {
-      "headline": "Entergy seeks to boost power capacity for Louisiana’s Meta AI data center in huge expansion - NOLA.com",
-      "source": "NOLA.com",
+      "headline": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-27T15:24:52.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU3Q0cHFkbzhaMUs0dFEzTGJ1RE9kQ2RSTDFxV25OSC1lRmU2N2lqZlZ5Ujh1OWdYWnA3X24zbG1kTEVPTG1tTkJULWlQMFd2UGFWbnBaSmZIUEk0STV4Qk9XWm1Tc0U2cjIzTzRudHdvS3dZZXJ3UFFKdlpaZXdhNE1qUdIBiAFBVV95cUxPVm9pMXNBdExlYnNzQ3pVLTlJa2pmTWRLM3dKZ2s4bWFDSzVmU3N4cGtXZFBLNWJUb0k3QWxLRzJueTE5UmthNm1JYjFVWF95RjZ3SWJuY0lXS1NJVUh6RGJtODdVVW1Pd3d2a1F0NGV3ak1rRWxjaGlHRGRLb0pvRDNZQlhnOTVv?oc=5"
+    },
+    {
+      "headline": "Entergy seeks to boost power capacity for Louisiana’s Meta AI data center in huge expansion - nola.com",
+      "source": "nola.com",
       "timestamp": "2026-03-27T13:55:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Entergy seeks to boost power capacity for Louisiana’s Meta AI data center in huge expansion &nbsp;&nbsp; NOLA.com",
+      "summary": "Entergy seeks to boost power capacity for Louisiana’s Meta AI data center in huge expansion &nbsp;&nbsp; nola.com",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZExHV0h3aXMwZmVuSl9ITWlhNkZLRFlsUURIWWZRcnBscXVPakU2VTFYdUVrSUdSbVp4Y2dZbkU3cF9oSTVsNzBDUmxOenZrNTZMRWhvQ2xabjgwbDZyNVN0Y1ctRGZkcjJIVTU2eldpQmk5R3YxOVZDNlM2Y0xiREYtbnVHRXJOUGFkZ2JVRkwyUzRGZWppYzdRd1ZXY09XNENUM2Mxa3F2Z2EtTHVuVXNucFFOZDhpcUHSAb8BQVVfeXFMTVM2N2hiRDg4enE4TnBBWlBGekdPVW1YajNBbEQzVUZCN0prYWQwcml5aExrbi1GMEk4NGMwMHcySEJhamZLT2VQenM2NGZPZGJXY1ZwWTB5ejBSY21UT0czdGprVlJxRGdVU01ZbTJ2djduV3N5emlON1UxRVFqbTdRdW1SMlBDeDhtRHVxbGREcy1KU3kzck1hb0NjVFN4cFkzdXNLREdWeF9FTHVRTDNsVURYX1FnZFJ2emZYWjQ?oc=5"
     },
@@ -110,18 +100,28 @@
       "summary": "Agile humanoid robots with Google brain to undergo industrial testing &nbsp;&nbsp; Interesting Engineering",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTk3X21pZW1IZkMyVEZrT0ZXbHhkSk5JZmlXMklBdExLNFRqVXVta052SDNzMGZpZHBUd0w3X1h6a3oxcHVJQ2lQcmZHRGZfYzAteUY2TGJRcEg2Q3pLbHRGUlQwQzhqbEc4OXRsQS1ZWnJWNlloZ2RlZEdwUFcwd2xkZ3RmU2xNdHF5WHhybnIwUQ?oc=5"
+    },
+    {
+      "headline": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-03-27T03:27:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive: Anthropic is testing ‘Mythos,’ its ‘most powerful AI model ever developed’ &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEVBdDhIajZlV21pdUwwaktqc0tnSWdqRUhzS3Q5RGktMEsxSndfazRFd29zZ3pZMjROa0ZfTGw1dnJyekswcFpxeTBaTmk2c21ZUFdBeGVmQjdtWXhVTFd3SGdrXzRsaEtmXzJFMnJmcGo5aklUbGJFNk94ZERMcGdWdndxVkxYX25zRVlDcDNLcksxSi1UaEMtTXd2REU0X1FEUnk5QlVvalB4Ymw4M0plR2pOZUhwcGluRjFLY0lYRnJEU1RNR0NZQ2VWSkNDSVBwb0tRWnExTDhpcjAybWNfOA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic’s Claude popularity with paying consumers is skyrocketing - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-03-28T14:15:00.000Z",
+        "headline": "OpenAI is narrowing its focus on things that make money - axios.com",
+        "source": "axios.com",
+        "timestamp": "2026-03-28T14:43:01.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2tpQmVpOXRQNDdSM3pLVkhJazlYdTExdGJFTDhWcHljcm1aY3drNmRUU2tkRzUwZzNCdlJoakNZejVpS3B0bDBia21ZMTNuZUxUZC03dUlsQVI1SGpMdnpoV0prajJuWHh3RzNUTzE5T3M2RWNEWjg1amFBN2U4bFVBclZlUnZXT2JMbWFTMkhpOEpBZnMyNXNIOWl4WjJMSGFJ?oc=5",
-        "summary": "Anthropic’s Claude popularity with paying consumers is skyrocketing &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbUJMd3dNZzJEU3FvUkdReG5tclRCakwxSkdlVjZWRWJnb21taERpUnNQaV9ma2hzXzZEWW1VcHp6ZTVuYlJMZFJsNUJiT1FDMWFodi1vOWh5Z0xuYmJ3Q1FCS3I4SWUtVkpj?oc=5",
+        "summary": "OpenAI is narrowing its focus on things that make money &nbsp;&nbsp; axios.com"
       },
       {
         "headline": "Why OpenAI killed Sora - The Verge",
@@ -142,15 +142,6 @@
         "summary": "The contradiction at the heart of OpenAI’s restructuring &nbsp;&nbsp; Vox"
       },
       {
-        "headline": "OpenAI is narrowing its focus on things that make money - Axios",
-        "source": "Axios",
-        "timestamp": "2026-03-28T10:40:36.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbUJMd3dNZzJEU3FvUkdReG5tclRCakwxSkdlVjZWRWJnb21taERpUnNQaV9ma2hzXzZEWW1VcHp6ZTVuYlJMZFJsNUJiT1FDMWFodi1vOWh5Z0xuYmJ3Q1FCS3I4SWUtVkpj?oc=5",
-        "summary": "OpenAI is narrowing its focus on things that make money &nbsp;&nbsp; Axios"
-      },
-      {
         "headline": "Meta to Launch New AI Glasses Aimed at Prescription Wearers - Bloomberg.com",
         "source": "Bloomberg.com",
         "timestamp": "2026-03-27T22:29:52.000Z",
@@ -160,20 +151,29 @@
         "summary": "Meta to Launch New AI Glasses Aimed at Prescription Wearers &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "‘Premature’: Anthropic still in trouble despite court win, lawyers and lobbyists say - Politico",
-        "source": "Politico",
-        "timestamp": "2026-03-27T22:05:28.000Z",
+        "headline": "Meta promised it wouldn’t spy on you with its AI smart glasses. A lawsuit says humans are watching you, actually - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-27T22:02:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTBQY2RiVXp0RE85Y2lwYmVOOTEzMUdQTFVuVmZTSmxrcDc2Yk1PNm11RHdxUUxQYWh5MFc3bXUtdHNvV25oUC1ob3BVR29TRHc1WUMwTW9mN0FreUVPd0lESWxzLVdQeEJLVVdscW16VzRXUEZFdHBfMTdobk1ub2V4THItaW5sN3BtQmNjZGRzVlNiN0E?oc=5",
+        "summary": "Meta promised it wouldn’t spy on you with its AI smart glasses. A lawsuit says humans are watching you, actually &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Microsoft is picking up a Texas data center project OpenAI didn't want, in a telling sign of how far they've drifted apart - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-27T19:42:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTY3bHR1MVRHS2FBMUZ6UkhRRHJWQ25UcTFBOXFaVG5TczhucnJURVh5VmdKQ2xJNkI2NWdqZUJqazV4dFNlSlp4RXpPeUI1TVlpd2I3TjVJQTRVaC1wa2M2cVg1Ri1BUmwwd1JrNVNpMVJGTkpTSXRMR1BCWVd3ak5OUzlFN3BFQnRjZlM0bVU1OE5qdGEyc2JjUzV1RTI1SXZfcFo0cHUxZlBMdjZKNGFCUFV0MG1hTzk2R0Z4dGNUUVlEUS05ZU9R?oc=5",
-        "summary": "‘Premature’: Anthropic still in trouble despite court win, lawyers and lobbyists say &nbsp;&nbsp; Politico"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUS1lcE91ZHVZNnhNYVN0T1lXNS0yTlV0X0lrQm1MQnVUYVZjSmRPdnBWYVRJTlZfTFBIYk9PYnp3UHh4VUx3NjJmSkV1QVNnWHZMaERnYjV4MnZPS0Z1R3Z5aUtmeldzSWNJNnM1TDNDdnQ5MFIwUnRQNUhZekp1dElfYnhneG01RzBhdTg4eDFsMklTWlNyT0pEU29mUQ?oc=5",
+        "summary": "Microsoft is picking up a Texas data center project OpenAI didn't want, in a telling sign of how far they've drifted apart &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,7 +196,7 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
