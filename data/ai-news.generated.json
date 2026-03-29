@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-29T17:36:43.610Z",
+    "generatedAt": "2026-03-29T18:51:34.102Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
+      "headline": "Yahoo CEO Jim Lanzone on 'the white whale of turnarounds' and turning to AI—licensed from Anthropic - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-03-29T15:32:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Yahoo CEO Jim Lanzone on 'the white whale of turnarounds' and turning to AI—licensed from Anthropic &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVN5Z2pxMWVaaTc1VHVzVVBpSGhoMjVjcy1UT0IweGJ4OE1RTnBNbGpCWEo2dGRVQURGdm5XbXpiS1pNTmgwMVI3M0pXT0c3MXRKQTRvVXJSaXVZQThLOFdzSEtVTV9QS0w1am9FNy02WXBEeWVBZlFKa0Q0elF4YXhLVXRVZkdPNnlScTkzT0ZOaGxvOF9JN19zaw?oc=5"
+    },
+    {
+      "headline": "Meta's court losses spell potential trouble for AI research, consumer safety - cnbc.com",
+      "source": "cnbc.com",
+      "timestamp": "2026-03-29T12:00:01.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Meta's court losses spell potential trouble for AI research, consumer safety &nbsp;&nbsp; cnbc.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakRqaGcyRHl5Zlg4eVZMbUNEZ3ZUU1E1TWlHZTE0S2gwQmhWaVBKanA1QmJtbTJaOVEzYXVmWGdGUEFMMkxCVVNCeHc3SjktYUN3R3lZS1NjZXV2Tl9sRW5mMy1YNWtoWWs0LTFUTW9mc3pUdXdPZWp5YUNURGZjQ01LV3hBMTZGb0lxb2c3N2NMclBMWnA3MXR4RFJ1YU5WRGpF0gGoAUFVX3lxTE1pV1BKbXdQWmNZRmpiLUlCelZraEdWbkhQM210cGUyN01XQ3pCcGtldnhWVjdVekdleEp4NFJLLWRCcDRibzYzT29tZEhnU21pWV9GQ2djUmRpeVkzMEdyTDV2QmlfVVJhY05JQ21HaVRzY3RPMVVEUTROQ0F4SjVmM3hKWXF5VEk4aEl3MWNSUktpS3NVT0JCa0s2NmQyMEsyZGJyejZVRw?oc=5"
+    },
+    {
       "headline": "The Decadelong Feud Shaping the Future of AI - WSJ",
       "source": "WSJ",
-      "timestamp": "2026-03-29T16:02:27.000Z",
+      "timestamp": "2026-03-29T10:31:59.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "The Decadelong Feud Shaping the Future of AI &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPc0JlZFJ2b1Y1MHFLaVhhdzRqa1NGUzZCS0FGRVV6N1VDVXVELWVwVFBpWjZmcmwwaksya25EM2Y3cnM3NVU2NG1YbEtiWDc0azJfbE5aZGxuc0RoYmlIeF90WXR6STI2alY1TnFmUjF5ZHMxMFVtVWtGemZ0UjN0NHloMXg4TWdJak5USERVQ3R1RVNSaTdBZ0NjalVUaEJ3R3NOWFFVdFlnblhoOWpUUFJfdVgweVJ3RkFqRmk3V21vU0tZZkxYamNmV0FYcHFDbEFvSnRBZkpnYWdINFIxdnBUbTNtVkFlYzA3bVBnY2thWThKeWxTdHpZTmFkWnM0VHFJRDNEdVFHMkw0aWRBQlRiT0xhU0t3MjFqOG0waHRsbU56REJTNmdmSDBKdnFHWlhRS3Rma25GOVpMa3gwYmViZEUtU2dVVmUtdHppVXh1Mlg1UG1BT2JBbGJzRGtCbFh5OE11RDVabF81aF8zTDhpNlg4RlhReGFaQmdrZkhXRk9MUTBPV2ZaRm9ndw?oc=5"
-    },
-    {
-      "headline": "Everyone's worried that AI's newest models are a hacker's dream weapon - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-29T12:57:36.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Everyone's worried that AI's newest models are a hacker's dream weapon &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHBBQmloYWRWYWVTUWNaZGJaSU1kMnY3dXR2OTNTbk4wMlRxaTQ2ejJSVjNaXzhHalk4eXUxcG5EdXBjVHpKOVRBOFZFbjhLbl9ERDlOaWhiRzVGUzJ3Q1ZFLU1DSWJ2TlkyZUk5S045elEzaVdBanlwVVU3dXBMeDNXdHI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOdFlrLVRnOGR6Y25LeEVmU1JMdGlBV2FhNzFtU3ZMbnFQcFV2YkpHak9zUnJkSUhwZzEwMmprbEZqTHRvVjk4RjVsMW9mYkpITFUwZnA0bW5xeDl4ckpXcHM3NkhEWHJyRWhBakR2VHFhQUNhaWFISUlFTW16SnlWQzZlcjVHV2phUlRleVd1QkZEbW1hYTlzTVkzdjgteEJxZ1MtUGFvU2lNSThCV3ZIOHdxQWFTN2VyU1dqMDNoSXlyc0hXQzdOajhXaU5qUEtZQW4taXVIRm0wOHpUVUpueHdnZmQ3YnlRUURaYzFUQ19POFBJNHp0SVBLNFEyWDNhOXZBVUpCRHlkRE5ZVi04clJVY05lczJITldRUzZNblBtZTA5b2NEdTk2U1dQWm5PeC1nRmZzREJWcUlyYmJvUmMtM2hkaU1JMm1yM1ptVTloNDVTdlJiT0gyWTlpeHNYMzFhZFo4WWpkMjNqdXp5RjdPZ0Vzb0RiQ0VmdzZkS0FHVkpDaG1pdzcwTzRWQQ?oc=5"
     },
     {
       "headline": "The Man Who Thought He Could Keep AI Safe - The Atlantic",
@@ -50,16 +60,6 @@
       "summary": "Before Google deal, Mark Zuckerberg wanted to buy DeepMind: CEO Demis Hassabis shares what went wrong &nbsp;&nbsp; The Times of India",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWRZRVAzMTRYYVY5ZEVqZ3lVcGphMkctblJmdE5rZVM3ZXRJb0hKQjloWXZOVVM1N2dINy1tNWlNbVVnOVBiYUVvUzFORDFkNTFZR1AybEFmU2NJSmNZODh6SlU1MXEwWnkwVjhwUlFoZUo5U0cwS0tSS0lzV0h6ZkhFOFIyUHRzd3dmM1dCWGd3VEZCWXhmS0RFMTZubU04U2xkTUgtQUJHS3dtVVZDWUF6SF9TTlVleVhaVVVhMVdPemx2MmhGU2c0RjE1MmZKcnBCbVl4NkVtaXowQVNObGVKTlA3SDJKbmVvSUxMZmpvOG9ESVlyU00zM3MwUlhuMjdRLXdtdjI5S3lqdUxn0gGUAkFVX3lxTE9PcnZjTlBCTGw3MFM4RUNvRDdrN3UzSjFEb0NfS3A0WFVyYVRXNkhwdmg4NV9xRUFyemY5NENhVl9pcDVXSkoxMkdSejZyOFJla2dZN3ZMcVlMb1hVYUhmUVI0dHFTLXpWMzk4UzZkcGY0Z0RCYmtHS1ItcERfOUxta1l0Qmw1a1F0VThYeFg2c3VySm42X0VWbE9hR1JMTnR1bVRYM0cySG55SFpNbVhEMVB4WTFDbkF3eW5WNUM0eVIwVGlBUGhmd19FUXRLR1lZdndRZS1McVU4anNSTU5JYnRib0YzVEVpT1FPTGc3Ylk4Q3ZYNk9NUE15Sm1iU0wyV1B3SVdKZ29SRnNTdjFCVk9sSA?oc=5"
-    },
-    {
-      "headline": "Amid layoffs, Mark Zuckerberg's Meta is asking engineers to use AI for… - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-03-29T06:39:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Amid layoffs, Mark Zuckerberg's Meta is asking engineers to use AI for… &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVNvTDdhbFo5SGRmM2Zpc2VfOGtlWWs2RUhwS2FhN05HTF9na1A3MEp1SnBKMjEwQUNoMEVlclFsM2RWWldaSFI1N1NJLUxHZXh6OHVGLUYxdmg1VzFDVjNlZzJndVZQWWdVNGxQejhGV2puZThqaVZpcmFia2tpRm1xQ3BZeHAzOExBUHRkcHg2QjBfUExRWGd1OUVIbnZ5Y21KQU9kZ0VvcUV4dWNqZHZ5OVphYW9PMnZHbi10a0RncS1yeW9LS29GUTFaTG56Yng4b08zMVdEM0dtSlQ5VzlzeW44Z9IB6wFBVV95cUxNOG1nVGxoUXpPRE9aLU9rY2FLSTg3Q2NHNUdhUlBxTVVkV2Jxa2c3Q1VjR2s1VzAtNW00OFRSZnY4TDY1X241NW1FRlF4aGtYalZnNHV2VC13Qm9tTXlfTVBDMkZTN2hiNklWSWhkcXJoYV8wdDBkWldCX2lFUDBMX0Y2YnpLcmdaR3dURnhPb0pBOE9TeE5hWmVvWmdHdGdJbWxtVjNRZFZZU1JpOWV0SG5UQjFXYWFNZzVNckM4S0FLMGZNSmpVbHVheElJSU1XYjBoSHJCVUtMSkRrUFA3RFlzcXNWRzVBRWpJ?oc=5"
     },
     {
       "headline": "OpenAI investor says AI requires an income tax overhaul - Financial Times",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "The Decadelong Feud Shaping the Future of AI - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-03-29T16:02:27.000Z",
+        "headline": "Yahoo CEO Jim Lanzone on 'the white whale of turnarounds' and turning to AI—licensed from Anthropic - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-03-29T15:32:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPc0JlZFJ2b1Y1MHFLaVhhdzRqa1NGUzZCS0FGRVV6N1VDVXVELWVwVFBpWjZmcmwwaksya25EM2Y3cnM3NVU2NG1YbEtiWDc0azJfbE5aZGxuc0RoYmlIeF90WXR6STI2alY1TnFmUjF5ZHMxMFVtVWtGemZ0UjN0NHloMXg4TWdJak5USERVQ3R1RVNSaTdBZ0NjalVUaEJ3R3NOWFFVdFlnblhoOWpUUFJfdVgweVJ3RkFqRmk3V21vU0tZZkxYamNmV0FYcHFDbEFvSnRBZkpnYWdINFIxdnBUbTNtVkFlYzA3bVBnY2thWThKeWxTdHpZTmFkWnM0VHFJRDNEdVFHMkw0aWRBQlRiT0xhU0t3MjFqOG0waHRsbU56REJTNmdmSDBKdnFHWlhRS3Rma25GOVpMa3gwYmViZEUtU2dVVmUtdHppVXh1Mlg1UG1BT2JBbGJzRGtCbFh5OE11RDVabF81aF8zTDhpNlg4RlhReGFaQmdrZkhXRk9MUTBPV2ZaRm9ndw?oc=5",
-        "summary": "The Decadelong Feud Shaping the Future of AI &nbsp;&nbsp; WSJ"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVN5Z2pxMWVaaTc1VHVzVVBpSGhoMjVjcy1UT0IweGJ4OE1RTnBNbGpCWEo2dGRVQURGdm5XbXpiS1pNTmgwMVI3M0pXT0c3MXRKQTRvVXJSaXVZQThLOFdzSEtVTV9QS0w1am9FNy02WXBEeWVBZlFKa0Q0elF4YXhLVXRVZkdPNnlScTkzT0ZOaGxvOF9JN19zaw?oc=5",
+        "summary": "Yahoo CEO Jim Lanzone on 'the white whale of turnarounds' and turning to AI—licensed from Anthropic &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "Everyone's worried that AI's newest models are a hacker's dream weapon - Axios",
-        "source": "Axios",
-        "timestamp": "2026-03-29T12:57:36.000Z",
+        "headline": "Meta's court losses spell potential trouble for AI research, consumer safety - cnbc.com",
+        "source": "cnbc.com",
+        "timestamp": "2026-03-29T12:00:01.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHBBQmloYWRWYWVTUWNaZGJaSU1kMnY3dXR2OTNTbk4wMlRxaTQ2ejJSVjNaXzhHalk4eXUxcG5EdXBjVHpKOVRBOFZFbjhLbl9ERDlOaWhiRzVGUzJ3Q1ZFLU1DSWJ2TlkyZUk5S045elEzaVdBanlwVVU3dXBMeDNXdHI?oc=5",
-        "summary": "Everyone's worried that AI's newest models are a hacker's dream weapon &nbsp;&nbsp; Axios"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakRqaGcyRHl5Zlg4eVZMbUNEZ3ZUU1E1TWlHZTE0S2gwQmhWaVBKanA1QmJtbTJaOVEzYXVmWGdGUEFMMkxCVVNCeHc3SjktYUN3R3lZS1NjZXV2Tl9sRW5mMy1YNWtoWWs0LTFUTW9mc3pUdXdPZWp5YUNURGZjQ01LV3hBMTZGb0lxb2c3N2NMclBMWnA3MXR4RFJ1YU5WRGpF0gGoAUFVX3lxTE1pV1BKbXdQWmNZRmpiLUlCelZraEdWbkhQM210cGUyN01XQ3pCcGtldnhWVjdVekdleEp4NFJLLWRCcDRibzYzT29tZEhnU21pWV9GQ2djUmRpeVkzMEdyTDV2QmlfVVJhY05JQ21HaVRzY3RPMVVEUTROQ0F4SjVmM3hKWXF5VEk4aEl3MWNSUktpS3NVT0JCa0s2NmQyMEsyZGJyejZVRw?oc=5",
+        "summary": "Meta's court losses spell potential trouble for AI research, consumer safety &nbsp;&nbsp; cnbc.com"
+      },
+      {
+        "headline": "The Decadelong Feud Shaping the Future of AI - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-03-29T10:31:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOdFlrLVRnOGR6Y25LeEVmU1JMdGlBV2FhNzFtU3ZMbnFQcFV2YkpHak9zUnJkSUhwZzEwMmprbEZqTHRvVjk4RjVsMW9mYkpITFUwZnA0bW5xeDl4ckpXcHM3NkhEWHJyRWhBakR2VHFhQUNhaWFISUlFTW16SnlWQzZlcjVHV2phUlRleVd1QkZEbW1hYTlzTVkzdjgteEJxZ1MtUGFvU2lNSThCV3ZIOHdxQWFTN2VyU1dqMDNoSXlyc0hXQzdOajhXaU5qUEtZQW4taXVIRm0wOHpUVUpueHdnZmQ3YnlRUURaYzFUQ19POFBJNHp0SVBLNFEyWDNhOXZBVUpCRHlkRE5ZVi04clJVY05lczJITldRUzZNblBtZTA5b2NEdTk2U1dQWm5PeC1nRmZzREJWcUlyYmJvUmMtM2hkaU1JMm1yM1ptVTloNDVTdlJiT0gyWTlpeHNYMzFhZFo4WWpkMjNqdXp5RjdPZ0Vzb0RiQ0VmdzZkS0FHVkpDaG1pdzcwTzRWQQ?oc=5",
+        "summary": "The Decadelong Feud Shaping the Future of AI &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "The Man Who Thought He Could Keep AI Safe - The Atlantic",
@@ -151,15 +160,6 @@
         "summary": "Before Google deal, Mark Zuckerberg wanted to buy DeepMind: CEO Demis Hassabis shares what went wrong &nbsp;&nbsp; The Times of India"
       },
       {
-        "headline": "Amid layoffs, Mark Zuckerberg's Meta is asking engineers to use AI for… - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-03-29T06:39:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVNvTDdhbFo5SGRmM2Zpc2VfOGtlWWs2RUhwS2FhN05HTF9na1A3MEp1SnBKMjEwQUNoMEVlclFsM2RWWldaSFI1N1NJLUxHZXh6OHVGLUYxdmg1VzFDVjNlZzJndVZQWWdVNGxQejhGV2puZThqaVZpcmFia2tpRm1xQ3BZeHAzOExBUHRkcHg2QjBfUExRWGd1OUVIbnZ5Y21KQU9kZ0VvcUV4dWNqZHZ5OVphYW9PMnZHbi10a0RncS1yeW9LS29GUTFaTG56Yng4b08zMVdEM0dtSlQ5VzlzeW44Z9IB6wFBVV95cUxNOG1nVGxoUXpPRE9aLU9rY2FLSTg3Q2NHNUdhUlBxTVVkV2Jxa2c3Q1VjR2s1VzAtNW00OFRSZnY4TDY1X241NW1FRlF4aGtYalZnNHV2VC13Qm9tTXlfTVBDMkZTN2hiNklWSWhkcXJoYV8wdDBkWldCX2lFUDBMX0Y2YnpLcmdaR3dURnhPb0pBOE9TeE5hWmVvWmdHdGdJbWxtVjNRZFZZU1JpOWV0SG5UQjFXYWFNZzVNckM4S0FLMGZNSmpVbHVheElJSU1XYjBoSHJCVUtMSkRrUFA3RFlzcXNWRzVBRWpJ?oc=5",
-        "summary": "Amid layoffs, Mark Zuckerberg's Meta is asking engineers to use AI for… &nbsp;&nbsp; The Times of India"
-      },
-      {
         "headline": "OpenAI investor says AI requires an income tax overhaul - Financial Times",
         "source": "Financial Times",
         "timestamp": "2026-03-29T04:00:45.000Z",
@@ -172,8 +172,8 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
