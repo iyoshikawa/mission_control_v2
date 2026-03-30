@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-30T21:40:53.980Z",
+    "generatedAt": "2026-03-30T22:34:12.665Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,10 +12,21 @@
   },
   "newsFeed": [
     {
-      "headline": "Wall Street indexes end mostly lower as investors weigh Middle East conflict outlook",
-      "summary": "Wall Street indexes end mostly lower as investors weigh Middle East conflict outlook &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-03-30T20:14:19.000Z",
+      "headline": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
+      "summary": "Israel passes death penalty law for Palestinians convicted of lethal attacks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-30T22:10:06.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlctb25FbVE1QVVLWTl5cG5tMVBSdHN0RXh2LUJhTm5xUE1vT3BOQ1JJMVBfSE1mZ2NCU1E4U1hkRThBcWxPS0ZYbXRMUUNiMHhEZmd0UUpQZVcwSzdXSmxCbWRzLWF2Y1NpSXlMc1NkM3dhc1lSWVlLM3ZYeGxRVmp3Y3lHbVV0S1daLUxuQ1Z0TE0ya0JUWTRSWE1RdHNKUWtpbzhhamFMRjlBdXlJSXhZd3BwbHFEZFBv?oc=5"
+    },
+    {
+      "headline": "Wall Street indexes mostly fall as Iran war widens",
+      "summary": "Wall Street indexes mostly fall as Iran war widens &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-30T21:29:34.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -24,8 +35,8 @@
     },
     {
       "headline": "Global bonds stagger toward steep monthly losses as war's economic toll mounts",
-      "summary": "Global bonds stagger toward steep monthly losses as war's economic toll mounts &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Global bonds stagger toward steep monthly losses as war's economic toll mounts &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-03-30T20:09:23.000Z",
       "impact": "HIGH",
       "region": "Global",
@@ -34,9 +45,20 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWRMdGlxdk45V24tQ3BiUjVYbHpBT1FBdmV5eU9BUlN0VDdDZHJPa2o4RTNWMFh5cUVESW5OdkJtcVo2Q0VaekZTalFSb2hpeEcyLTdQZ295WEl1ci1PTkdGU0dpMi1UeXJkU0NjN0xyU1hfbDBQemJuemR1dVN0T09lb2djeVllYl9Kd0JaVFZhY0diWXNTLWJZc016dlpULXZWX2ItS3duUFBQSHhrX0tkczdVbmJ3ZzBnUjZ3eWkyQlNxVHVoMTd3SlM?oc=5"
     },
     {
+      "headline": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic'",
+      "summary": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-30T19:46:36.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHlrYWItR0JXcENnOEtGYkd4Uk1FRkdNN3BlVEN5bTRkbEd2VjF3YjNZMWlPTkp2Q21lSGM5TDVwbFJLQmp2aDRva3hxSUQ4U0JtYVYwTDlRdHhpQ0RXSkpGSDVjeUo0TFY5dmNJY0NuS1RmT3lPTEt3YVRQUHFSYWRQb3diZGlqMG9VeExPeUlaTXF0UU0zQU1Cc1FhUUlkZnhscXlZRUhVWkMtR285ZmhBWkZJV2M4c05DXzJ3U3JnTmI5eXVnbHl3NFhrZw?oc=5"
+    },
+    {
       "headline": "Euro dips as Iran conflict stirs growth fears",
-      "summary": "Euro dips as Iran conflict stirs growth fears &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Euro dips as Iran conflict stirs growth fears &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-03-30T19:40:42.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -45,20 +67,9 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjFULThjcUo0VndpbEU2S2RMN29yVEVIR2NaVkRXcG9UWTRjeWtzX0R5X1d0ZElDT0loQktwVlhtNWRvbzhRY3ZHLTNuNWRqZmVUdGNCLUVKeHcwQlNlT1J6TVltQnQ5a1I3NEFOd1ZydS1FdU43WElJc2dRdkNPQ2dlNkV3Z3FpQVZfLWFOVXBLV3NiSS1HaHRKZkFtLXdpdlcxVjdWaDcyd1NfTWp4V2pETUxoQkpudWdB?oc=5"
     },
     {
-      "headline": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
-      "summary": "Israel passes death penalty law for Palestinians convicted of lethal attacks &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-03-30T19:26:57.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlctb25FbVE1QVVLWTl5cG5tMVBSdHN0RXh2LUJhTm5xUE1vT3BOQ1JJMVBfSE1mZ2NCU1E4U1hkRThBcWxPS0ZYbXRMUUNiMHhEZmd0UUpQZVcwSzdXSmxCbWRzLWF2Y1NpSXlMc1NkM3dhc1lSWVlLM3ZYeGxRVmp3Y3lHbVV0S1daLUxuQ1Z0TE0ya0JUWTRSWE1RdHNKUWtpbzhhamFMRjlBdXlJSXhZd3BwbHFEZFBv?oc=5"
-    },
-    {
       "headline": "Trump interested in calling on Arab states to help pay for Iran war, White House says",
-      "summary": "Trump interested in calling on Arab states to help pay for Iran war, White House says &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Trump interested in calling on Arab states to help pay for Iran war, White House says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-03-30T19:01:41.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -67,37 +78,26 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXg1X09GZWRmYUg4T2JiMUJ6MUk5REFQTHNZd1lNNmQtcFBQaUEtVW0zX1NvODJxWWhXeTQ1RGVEZkdBMlZHdDg3TmM4c09STEh3WVgwdGdlRm5ReXlDSWZQUm4wTEJPellOc3ExZWVadzZKT0p5dUJaZi04UGktQkZRazJ2TFkzbWxlVnVUazJDNEd3YW0zcWZ6dXpCa0VETXlvQURqZ0hpQnhkVzZ5LTRGajQxUGZZeVdIZTFCbHdpd0k?oc=5"
     },
     {
+      "headline": "Crypto fuels drone purchases in Russia and Iran, report says",
+      "summary": "Crypto fuels drone purchases in Russia and Iran, report says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-30T18:46:37.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdkRYaXowSzU4X0x2NnVINWpLVVRVc19nbkNUV1NIOEh3UHFEdE4xa05Vb1lPNUtiQ1Z2bko5OHNUOU1XN0prNlFmS0QzUUhYOVVKY2NxOEstU3dLYktxNG5ZUnBRaUZqMHNPQVRwSW54MjAxZU5hS1BScjhLYVEtNm9BM3dZaVJKVlVOU0ltb2JUWGRuX2Zuc0I4V1FSV2oy?oc=5"
+    },
+    {
       "headline": "Fearing economic collapse after war, Iran cracks down on dissent",
-      "summary": "Fearing economic collapse after war, Iran cracks down on dissent &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Fearing economic collapse after war, Iran cracks down on dissent &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-03-30T17:53:41.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcjJRSUUwMUw5T3BQNzJOaFRNVmZ5U1RDbThjOHV5dEZlOUFqTVBZRmJPMFIycnBKM24yV3EtWXVjWDZvMERMWTNRcFRuLThFMlRTSy05NEhMcDlOOEVuT1IxVzAzaHdjV0lieDIxUWdtR2hVVi1acTNzeFd3X0cwd2I1X1VNYWJiR3RPd09VUl9Bbmh1OVZhbkJmMExDaUxJbzZLOWNjSnozY254Qm1HMzVPVDM?oc=5"
-    },
-    {
-      "headline": "Turkey says NATO defences down missile from Iran",
-      "summary": "Turkey says NATO defences down missile from Iran &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-03-30T17:03:57.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXJtWko5UE1RTFU0QjBBMWZPa0VxU2IxWk41bXkyRzh6cThsN2h3Qkk1dUNRQ05ZZzJ1Zko0NU9JZzRmaDdXTWNReHZWUndZSHBoQndxaTZCczBvdG9HT1VjdzdnYUI5ZTg4TDN1TWE3NUV0dGxGV0pfd1pEREtzMmt1Nl81RFk2Rk5Kam5yclZ1c3g0ekNkdGNjU0xTNkJ4ajlfOXZEMUlEYTVZMWR5MjZxS2N5M0xE?oc=5"
-    },
-    {
-      "headline": "Democratic lawmakers seek data on US gun exports linked to cartels, criminal violence",
-      "summary": "Democratic lawmakers seek data on US gun exports linked to cartels, criminal violence &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-03-30T16:30:47.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaE5pMnd3SnBTQkhhSmpnWGxING5QQ0RiQ284cHYyX21tdng0djVQcllqdXpCMXV5dmdoZDd2WlltWUNGNUJPWjZrS0VxMU8tRWw0QkdPaHBpY2pzWmNEbV9ZWUhKT1d1X014Ty1mTDhWb0JwTE5jYktTQlVwSjM1ZkNPOXNxYkF1MFJKbUFablBJUVRBNkNWSU1odktVWkNzLVJVdkJaMHhDVFgxUDEwcXhtQlE3eXc5dkUzMDkxNzd5a2tEZ3o0b25Odw?oc=5"
     }
   ]
 }
