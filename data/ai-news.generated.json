@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T05:13:51.143Z",
+    "generatedAt": "2026-03-31T07:23:26.101Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,26 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "Where the Collapse of Sora Leaves This Crazy AI Moment - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "timestamp": "2026-03-30T21:11:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Where the Collapse of Sora Leaves This Crazy AI Moment &nbsp;&nbsp; The Hollywood Reporter",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFdwLWdIanVxclgxZWVOUVJMcV9GOERwS0tSQTFDTklEQlVkSmN2YVkzN1Z4Slh3N1E4ek5uX1E4Yk11aGV1NEMtOFhzaVoxd0JEVjdERUlCQTg1ZzlBQ3dPamlnR3JMZVRBc3plQ3p6MUY1U29NWEF5YjVEcEliLThLQXdWa2JpU21jLWNVLTRZM09hOVlkaktqX05jVDNSZ2tIYVdDNVVlZw?oc=5"
-    },
-    {
-      "headline": "AI distances itself from adult content that once drove the tech revolution - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-30T17:38:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI distances itself from adult content that once drove the tech revolution &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81ckN5V1VFV3FySk0wRjZNS2dPWjctVVV2MElrMmtRV2xUb2dUSHZDVmVpdTE0VTVKYmRqOWxlMkJiN3I3NlFWenpPZlJXTE1xQndfM29vN0FCWEhmbThWWkpiNDI0LXVWdzF6WWhTRXBoaGtZTVMtazFZdw?oc=5"
-    },
     {
       "headline": "AI for American-Produced Cement and Concrete - Engineering at Meta Blog",
       "source": "Engineering at Meta Blog",
@@ -77,7 +57,7 @@
       "timestamp": "2026-03-30T11:52:58.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases &nbsp;&nbsp; csoonline.com Why Anthropic's leaked AI model 'Mythos' poses cybersecurity risks &nbsp;&nbsp; Euronews.com Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database &nbsp;&nbsp; Fortune",
+      "summary": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases &nbsp;&nbsp; csoonline.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3l1RnREY19ydUR2RkQ1b21QT2NhdDZoOFFOUlc0Z29mT1VwTUhxdmNtcXNsWllVNVAtVF9HMWx1VU5ZeDl3V1llbGdISmU4cmg0cDRBQUNrd3o1ZUVKUS11VzVXczY0cG1jbkxidWN5ZXlOVTlrdF9JWWp5RVVGcGt2c0o1aHpUUDZocDRhTEptYl9WLVoyQ2VtZHNuem4ycHE2REx5emU4RVlZbzR5OUxFUmFkemwwY18wbHRHQkIycWI4ekYtSnpR?oc=5"
     },
@@ -110,28 +90,30 @@
       "summary": "Helping disaster response teams turn AI into action across Asia &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85YWV2U25oNU5XcjYtdHY0dHoySWVjMnB3QWJOT2kzQXNPMmg3ZVRZM1FpYXJ2WHpFaTJRWmVPWk1iYXRuejRmTFVDOG1XMUExdTdYT2RDY3hDWTV0RmstMDBMSlpoMHpRMzljWVpzbw?oc=5"
+    },
+    {
+      "headline": "Why OpenAI really shut down Sora - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-30T03:09:38.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why OpenAI really shut down Sora &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TbUJqcTctU2FDNEpFenF2TzVSczFjN1ZoRU84X3BYV1pyMjZSZlBTeDBNZTdocTJ1V2VqUnptNG1LV3JTVjN2bXdReWtwWTg4V1NEUndDV2s5SEdUUnpoaloxR09DaGJQaVlyOVU2d1doYVVQV0E?oc=5"
+    },
+    {
+      "headline": "Exclusive | The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-03-30T02:16:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Exclusive | The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQaDZBNE11ZTA5Q1ZJUlFmUTBXV1dnWXpIam1GVzRBdHhSZFI2NGVxRmctcS0wTXpaQV9taUxQcEF5OE9sYlU0OWhWdnFINFQ5TDBkZmpWZHhQRlV4MEdnckl6b2xzQVoxTWhpTFd5eDkwRDJydWg5SHF4dlhnaWFpVUN6UlBPTklZbG53VHZWTE9icW1Od2M1Si1IVTMydThCRDZ2cGFTSnJUYlFoNTI2WTVFMzNQbnZmVFNqR0tKbktGR3ZCTGlORE8wdGxVSF8xMnVlV1hqQUk0Z19GOERQcWRQNHREaWFFSnBHWEo2ZDdKTjFodHNROWltXzZlTGdVa0lOYzhDYzRqOEtfQzNadURDZ0p0dDJfSlJqOTZaR20tbEFROU93Tmh6MmUzaklGZEgtOEREbE91M0pvbEhUVjhKYWs4a2FjV2JXcnFabFBIZmF4SV9NUUhlTEUxOXJUQjhsOE9hbDBpQWx2bldheXlJbjY4YnJIUEFjWENvb3BXZFFFZEVYNmE2TVJ0c1lRVGxZc1d1dnlVSU81U3Nia1NR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Where the Collapse of Sora Leaves This Crazy AI Moment - The Hollywood Reporter",
-        "source": "The Hollywood Reporter",
-        "timestamp": "2026-03-30T21:11:50.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFdwLWdIanVxclgxZWVOUVJMcV9GOERwS0tSQTFDTklEQlVkSmN2YVkzN1Z4Slh3N1E4ek5uX1E4Yk11aGV1NEMtOFhzaVoxd0JEVjdERUlCQTg1ZzlBQ3dPamlnR3JMZVRBc3plQ3p6MUY1U29NWEF5YjVEcEliLThLQXdWa2JpU21jLWNVLTRZM09hOVlkaktqX05jVDNSZ2tIYVdDNVVlZw?oc=5",
-        "summary": "Where the Collapse of Sora Leaves This Crazy AI Moment &nbsp;&nbsp; The Hollywood Reporter"
-      },
-      {
-        "headline": "AI distances itself from adult content that once drove the tech revolution - Axios",
-        "source": "Axios",
-        "timestamp": "2026-03-30T17:38:57.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81ckN5V1VFV3FySk0wRjZNS2dPWjctVVV2MElrMmtRV2xUb2dUSHZDVmVpdTE0VTVKYmRqOWxlMkJiN3I3NlFWenpPZlJXTE1xQndfM29vN0FCWEhmbThWWkpiNDI0LXVWdzF6WWhTRXBoaGtZTVMtazFZdw?oc=5",
-        "summary": "AI distances itself from adult content that once drove the tech revolution &nbsp;&nbsp; Axios"
-      },
       {
         "headline": "AI for American-Produced Cement and Concrete - Engineering at Meta Blog",
         "source": "Engineering at Meta Blog",
@@ -167,6 +149,24 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTViU2ZGeHgxQUFQN1M4OVdaN1FRUTgtYUpXazhKazdvcEdvODdac3pFWlJBT3AzdmZLMXdud0hqQ0VMVEw3WUIxdFNWV3pmdjk3TmxsTFgzejNNdkxXRnpsTG9VSTJIMUx5dGRLREpDWE02Y2FYQzlOTmU1dXl3UThpVFl2MVlXbko1ZEJudjJWMEVBZWVZ?oc=5",
         "summary": "Anthropic’s Success Sparks Server Crunch &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases - csoonline.com",
+        "source": "csoonline.com",
+        "timestamp": "2026-03-30T11:52:58.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3l1RnREY19ydUR2RkQ1b21QT2NhdDZoOFFOUlc0Z29mT1VwTUhxdmNtcXNsWllVNVAtVF9HMWx1VU5ZeDl3V1llbGdISmU4cmg0cDRBQUNrd3o1ZUVKUS11VzVXczY0cG1jbkxidWN5ZXlOVTlrdF9JWWp5RVVGcGt2c0o1aHpUUDZocDRhTEptYl9WLVoyQ2VtZHNuem4ycHE2REx5emU4RVlZbzR5OUxFUmFkemwwY18wbHRHQkIycWI4ekYtSnpR?oc=5",
+        "summary": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases &nbsp;&nbsp; csoonline.com"
+      },
+      {
+        "headline": "Masayoshi Son represents fragile link in AI chain - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-03-30T08:43:14.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWhveEx5QnNDMU5ha3huUXljSXlHdVd1bFU2QmxtSlBPSkRlTkpLUGNFNjdrV09TWFQtQmRub0ctUXBkZ0VTN2JaZWVmTjVMQkJOdXNDYzZoREFXdERxdWtTUVdTbV9vTFVHRjh3cG02aVZCeEd2bG1UZUhRLXZQSTBEWEJybF8xM08xTWJES1R1dG5VSEJvY1JIMA?oc=5",
+        "summary": "Masayoshi Son represents fragile link in AI chain &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
