@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T13:51:27.778Z",
+    "generatedAt": "2026-03-31T15:07:06.562Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Microsoft's Anthropic Brief Is About More Than AI -- It's About Democratic Norms - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-03-31T13:12:48.000Z",
+      "headline": "Anthropic Accidentally Leaks Claude Code Source Code - Analytics India Magazine",
+      "source": "Analytics India Magazine",
+      "timestamp": "2026-03-31T14:13:16.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft's Anthropic Brief Is About More Than AI -- It's About Democratic Norms &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVS1BV01NMkJwMjFzTDFhdmZLYS1CYkFKSWQyM0JHaWtmRkdzU3AxZVJrMzl4LWs5OFA0MUEyMUhxZDd0M3lNRi1rS0VJeDdORGZscENiZ29xVk5acUNFT2lzamN6UDNPdm9HRE01VF9yQ2tIa2ZWVm5mRXZfd05MXzdBal9ndDFkbVgyempXQ0FHZUplQ1JjWUZfWURpWHZzdG9DS0ZxNEpkbVRWUVpwSXhtaWZyZlJnS0lYQndmNWdVb0lfcGhXOA?oc=5"
+      "category": "models",
+      "summary": "Anthropic Accidentally Leaks Claude Code Source Code &nbsp;&nbsp; Analytics India Magazine",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmg1cjFjVU5ySnpBc19uU3lheW5TcENMYk41VVJMRlRmYnJOTVM1UU1nWHRJcWs3RzlnU1A2TG0zU1NjX0twckpiRE5tMm44UzE2QzJWbDg0THFfMWNjZmFRc21rdVBVRDdlN1YzcmpKVjVsMm4wb3RvYlpBNlM5RWlPZktrVVhieWEyZ0w2UHFzbGx6?oc=5"
     },
     {
       "headline": "How Google DeepMind is winning the AI financing race - Axios",
@@ -32,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1VPRE9mTzFlTW9XbVJueC1xbHU5MDZGYkJuZ2ctRzhTOXNfUG9oOThFOGxUZWp5SWNnejNkU2NuZ3d0SlFBS1RrXzR4SndWODFEd3FoeDVaLXhRTFhaX2dRNWlDMVpNNjUzSnBLcE9FWU1UMUlqeWtfZ3h2bVhBNk5majBua25BLWdpMQ?oc=5"
     },
     {
+      "headline": "Anthropic admits Claude Code quotas running out too fast - theregister.com",
+      "source": "theregister.com",
+      "timestamp": "2026-03-31T11:45:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic admits Claude Code quotas running out too fast &nbsp;&nbsp; theregister.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91RlF4NUZTWnZrWUtvZ1h1RkRzRGNiWnA3aEhWTDFxeHBnN1lOajRsQkw0eVhzeGVYUXRvQkl3NUVadlFla1RVc1lJNGxxUHg3R2wwUW1pZWQ5ZHQ0U0RRQkhDMS1NYzVoY3E5dnFGMHowamFXVGtB?oc=5"
+    },
+    {
       "headline": "Microsoft’s Azure Maia chief on the complex future of AI compute - Techzine Global",
       "source": "Techzine Global",
       "timestamp": "2026-03-31T11:00:00.000Z",
@@ -40,6 +50,16 @@
       "summary": "Microsoft’s Azure Maia chief on the complex future of AI compute &nbsp;&nbsp; Techzine Global",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0VCemxpaHUzRXNIVGtwOUlSOVFjVFc1cUpBbWplX2dCM3NSMDFleUdJbWc5dElDSzZrSW9RTF9PYkt0UC1NQkpvNllVXy1ZclVkWUxmaE1jZGVOUktTMUcxRUFLamFrRkQ1ZmtPUTlvUDlTWUxfX3Fvd0p4Z0ZST01BUno0cDE2SmkxQjlyMWJRSUdGdE1uZmphelFwZFFENVVPN1N2Ym81RjdsT1E?oc=5"
+    },
+    {
+      "headline": "Kenya joins UK, US in probing controversial Ray-Ban Meta AI glasses - nation.africa",
+      "source": "nation.africa",
+      "timestamp": "2026-03-31T09:35:58.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Kenya joins UK, US in probing controversial Ray-Ban Meta AI glasses &nbsp;&nbsp; nation.africa",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjFLLTlEUlBFQkRCODFoaWpYNURKMExHdncxT2lqRmg0a01sckdZUXFCaTY0a0txSElEeVZnS1dSS3Z0WjhVQUZpend4dFU4NXJkcXJmZTFVa2hGRWV2VlU5R1JBdGJzMFg0dVJyd3pia195QUVPWS1ZUVZ4MlZ6dEVLWWhvUUVOTVJQcHRqZXlTTTE3ZTFrd1ZVLUhDbmk4ekFJLTFuelRPTTg?oc=5"
     },
     {
       "headline": "Azure’s new AI modernization tools - InfoWorld",
@@ -72,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0VmVV8yMkI4VWg2cy1EVjBGbWkwR21aQ0pBV3lodzVBS2xOQVdTQWtYV0Q5a1V5bHh6MWVaVTNKS1B1ZlVyNTZOaTVyR1pfclZWN2Nib1QxLWNkT2N4TG5ST3hINmUtMURPLVplb0MtbHh5MVV0Q3c4OEVFd2Vta0JlYVVPbEZjckl0d3laUmgzS1RkdkRjcU0tamRjODY4ZzlZRjBTVXVMZk1Wa3N3?oc=5"
     },
     {
-      "headline": "Government Actions Against Anthropic Are 'Classic First Amendment Retaliation' - AOL.com",
-      "source": "AOL.com",
-      "timestamp": "2026-03-30T16:11:13.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Government Actions Against Anthropic Are 'Classic First Amendment Retaliation' &nbsp;&nbsp; AOL.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWs5dHJORzlsdU9SU3dCZTQtbmI3NTJlaXhUNncxRXZ6Wnd5Uy1vaUxSTl9sOFczbUVpOFR4Ni1JbHB4TEF5Nkp0VG56aUR4U3JXV1hzZXF0Q3dBZ1RTMDUxbndtdG1MVWVtMWdOZkctZHF4X2lGcDhjb2NRai1ucm9wZXhJYXZFeHBQXw?oc=5"
-    },
-    {
       "headline": "AI for American-Produced Cement and Concrete - Engineering at Meta Blog",
       "source": "Engineering at Meta Blog",
       "timestamp": "2026-03-30T16:02:40.000Z",
@@ -92,36 +102,26 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1ExMm5jd3Mzci1MV2Y0eU9nZi1qVk16bk05ZlFSRkVyM0Vfc0hzWFRLTDVnX3BNNS14X19QdXV3NElwMzlIMkNWRlNvUXR6YjM3M2ZhbFd4QWxBczNVZkxRb2lqS1p0c1IwUnlfckZxUWN5Qk1CbjlqQ19KalFvbTV4WUFKV0NDSDJJUm9RaTFNTmZ6TFRWZkh2NFJUeXp5eGltM01ZRGlFdjA?oc=5"
     },
     {
-      "headline": "The Pentagon’s culture war tactic against Anthropic has backfired - MIT Technology Review",
-      "source": "MIT Technology Review",
-      "timestamp": "2026-03-30T15:42:50.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "The Pentagon’s culture war tactic against Anthropic has backfired &nbsp;&nbsp; MIT Technology Review",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcE5pX3ZEMGZGd1hkLVRNcVBhNkVmMy1WcUtNc3Ayd195dW9hN0g1TWtzSFFNeHNkYlBBQzZnekUzVjlBY1lBOEtpaGN2UmdYNkNCeTkwalBiWURJMU9GOVROZ0VMQkpjdkczNlZ3c1MzbXVXYzRWRE5WVDVibWppN195LXRSUldPTDdydkw1ZjAyRHBOb2hCOHBLdV9hWlNlbHVYa3Y5MXk5QUpORldTaDhod1VIX2Vn0gG-AUFVX3lxTE8yVnVCME56MUJfRWlsZVFYeWt5cUN4YncyNzJ1bVhsNWRNOUlNNXFtWUUtbUh5TGFrMXFCNXA0RkxZelFRaWVvMkdVaDVmRnI2Uy1COXM2RGE3aXBicHdfXzNaeFM5R2JsTFlDc244OWNzR3NhU3ZJM2V0ZXFHMTNGOVFfTW1yQk5zckJ6UmtWMjBIZFFLbHB1b2tYcWlGTzR2LXFydG12QnVSWE5QaHRDUy00aVJQRTdNeV8xeVE?oc=5"
-    },
-    {
-      "headline": "Why Google's AI CEO Demis Hassabis said no to Mark Zuckerberg and yes to Larry Page despite Facebook offe - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-03-30T06:06:00.000Z",
+      "headline": "Why cloud migration is key to realizing AI value in financial services - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-03-30T16:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Why Google's AI CEO Demis Hassabis said no to Mark Zuckerberg and yes to Larry Page despite Facebook offe &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRFBSeWYzRFVIOFBoQ3N3YlNuc24xTGp0TUlNYUF5V2M3eTZkRHZ5dzN2YnZtbkFudWZENUpJZWFZYnlyQzU5ZDJSQ3U4a0VnV3lPZEJDSXhKWFpLUmFqaG1FRVNyaTVLS0U1N29MVWRlNjNfQWZCVlN1d1M2S2lPQVRrc1RiNzBBV3BLSWo3UFVLWm5hRldsUzVERDc5U1JaUFEtX2hIMG5UcnlWaDhjSW9hMDNIekxEcGFMV0s1WTNDbjNwUWxLelVIdmJaQWxmRGdBSzY1MlZTYUpqUmVaUE9GSWlkbl9EM2YzSzZRS3dyYnU4a0o5ekR0cHhNR0RXZEhXWXM2LTgycFZJTkhKZDBucUI2d9IBmwJBVV95cUxQd1NOSFJGTnJ4b05ISjdZZHdfV2g4Wktfd0VVVzVWTmNWTndnNFZPc2pwTGc4VHZ4S3dubVcxNUczN2N6VEpGRjE3cmhoVVdLVTRheWdBbUJLemUyalhLV3pmLTJ4QmRJZWpBQlczbVVmaC1JVUl4a3dJbnJBS2x1OWJUTm9RcFIxTHJEazVidTlUSC1IWTVFX1YxYU9fT0pBQnhNM3Z5cHltZy01LVlwWXk1VDhZaWJ0T1Z6S1BZMGpfMkc2VkNHTG12dGtvbkRGRzVsVTNZdmNnT01vNDhQdWd0UWZXSk5YYzdnN3J3WGNDY2NwN0FWN0EwRW40RllLY01Rd1Byb2RmRm84T2MxQ2tOelFVb19LbEJv?oc=5"
+      "summary": "Why cloud migration is key to realizing AI value in financial services &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPejRHVUMxMHp3MGY0dnJrZ09aVGVOV09NdkFrc2pmTkhEcHF3XzF4QVg5TExVVkM0YmdqMnFiY0ptU3Vkc24yRm1YUy02UkEyclBJaWdrQ3REcmUyM0Rmb1Nfc1lOSzQ4LTVrZ2szaVp3anBrOW9VT0xwUW1QVUY4UVl6Mk10N3F0QWttcmYyT2hjYV84Qm5jSWo3ekc0WUhZY1NmY0tLQVhaelNELVJtZVY2WGZ0MkdhMmNQSFViT3FfVEgyLW9OV19BMmhIR0FDbEVQcGZ3SF9ENVRZbm1sTQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Microsoft's Anthropic Brief Is About More Than AI -- It's About Democratic Norms - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-03-31T13:12:48.000Z",
+        "headline": "Anthropic Accidentally Leaks Claude Code Source Code - Analytics India Magazine",
+        "source": "Analytics India Magazine",
+        "timestamp": "2026-03-31T14:13:16.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVS1BV01NMkJwMjFzTDFhdmZLYS1CYkFKSWQyM0JHaWtmRkdzU3AxZVJrMzl4LWs5OFA0MUEyMUhxZDd0M3lNRi1rS0VJeDdORGZscENiZ29xVk5acUNFT2lzamN6UDNPdm9HRE01VF9yQ2tIa2ZWVm5mRXZfd05MXzdBal9ndDFkbVgyempXQ0FHZUplQ1JjWUZfWURpWHZzdG9DS0ZxNEpkbVRWUVpwSXhtaWZyZlJnS0lYQndmNWdVb0lfcGhXOA?oc=5",
-        "summary": "Microsoft's Anthropic Brief Is About More Than AI -- It's About Democratic Norms &nbsp;&nbsp; Forbes"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmg1cjFjVU5ySnpBc19uU3lheW5TcENMYk41VVJMRlRmYnJOTVM1UU1nWHRJcWs3RzlnU1A2TG0zU1NjX0twckpiRE5tMm44UzE2QzJWbDg0THFfMWNjZmFRc21rdVBVRDdlN1YzcmpKVjVsMm4wb3RvYlpBNlM5RWlPZktrVVhieWEyZ0w2UHFzbGx6?oc=5",
+        "summary": "Anthropic Accidentally Leaks Claude Code Source Code &nbsp;&nbsp; Analytics India Magazine"
       },
       {
         "headline": "How Google DeepMind is winning the AI financing race - Axios",
@@ -133,6 +133,15 @@
         "summary": "How Google DeepMind is winning the AI financing race &nbsp;&nbsp; Axios"
       },
       {
+        "headline": "Anthropic admits Claude Code quotas running out too fast - theregister.com",
+        "source": "theregister.com",
+        "timestamp": "2026-03-31T11:45:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91RlF4NUZTWnZrWUtvZ1h1RkRzRGNiWnA3aEhWTDFxeHBnN1lOajRsQkw0eVhzeGVYUXRvQkl3NUVadlFla1RVc1lJNGxxUHg3R2wwUW1pZWQ5ZHQ0U0RRQkhDMS1NYzVoY3E5dnFGMHowamFXVGtB?oc=5",
+        "summary": "Anthropic admits Claude Code quotas running out too fast &nbsp;&nbsp; theregister.com"
+      },
+      {
         "headline": "Microsoft’s Azure Maia chief on the complex future of AI compute - Techzine Global",
         "source": "Techzine Global",
         "timestamp": "2026-03-31T11:00:00.000Z",
@@ -142,6 +151,15 @@
         "summary": "Microsoft’s Azure Maia chief on the complex future of AI compute &nbsp;&nbsp; Techzine Global"
       },
       {
+        "headline": "Kenya joins UK, US in probing controversial Ray-Ban Meta AI glasses - nation.africa",
+        "source": "nation.africa",
+        "timestamp": "2026-03-31T09:35:58.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjFLLTlEUlBFQkRCODFoaWpYNURKMExHdncxT2lqRmg0a01sckdZUXFCaTY0a0txSElEeVZnS1dSS3Z0WjhVQUZpend4dFU4NXJkcXJmZTFVa2hGRWV2VlU5R1JBdGJzMFg0dVJyd3pia195QUVPWS1ZUVZ4MlZ6dEVLWWhvUUVOTVJQcHRqZXlTTTE3ZTFrd1ZVLUhDbmk4ekFJLTFuelRPTTg?oc=5",
+        "summary": "Kenya joins UK, US in probing controversial Ray-Ban Meta AI glasses &nbsp;&nbsp; nation.africa"
+      },
+      {
         "headline": "Azure’s new AI modernization tools - InfoWorld",
         "source": "InfoWorld",
         "timestamp": "2026-03-31T09:05:45.000Z",
@@ -149,24 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnhKRDVPXzFSdTQ3dEY2RzI3VVpRd3ozMTVhQ0ZyRTBlQWlBa19xckxNUERVekQ4a1hKRTRjdmoyZ0hnT2VscHN2SkZwOF9VVkhnbHNRaXd6SkVTaVZ0eWdIYUgxSVA0T3Zmby1aN2MyVmZxbXQ2WEtGOUFHWEdVU2l3OV8wT3M?oc=5",
         "summary": "Azure’s new AI modernization tools &nbsp;&nbsp; InfoWorld"
-      },
-      {
-        "headline": "If OpenAI is to float on the stock market this year, it needs to start turning a profit - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-03-30T21:52:21.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQndhUV9LZVoydjd6OHFlUXFna0F0WUJOTEJjV1REeVpiMTBnUlo0ZTFCZ016cEp5Zzg5M0lncmt5by1VQjJKdS0wTVM2MEdtUGRoWFBCZkI4dlI4UklkRFUtdGhWQ2dRTkYwdW5xQlAtNjE1U1hBLW5KaElKaFNHNGtrRjBvZ05YR2RMeHhVOVc?oc=5",
-        "summary": "If OpenAI is to float on the stock market this year, it needs to start turning a profit &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-03-30T16:38:54.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0VmVV8yMkI4VWg2cy1EVjBGbWkwR21aQ0pBV3lodzVBS2xOQVdTQWtYV0Q5a1V5bHh6MWVaVTNKS1B1ZlVyNTZOaTVyR1pfclZWN2Nib1QxLWNkT2N4TG5ST3hINmUtMURPLVplb0MtbHh5MVV0Q3c4OEVFd2Vta0JlYVVPbEZjckl0d3laUmgzS1RkdkRjcU0tamRjODY4ZzlZRjBTVXVMZk1Wa3N3?oc=5",
-        "summary": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
@@ -190,14 +190,14 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
