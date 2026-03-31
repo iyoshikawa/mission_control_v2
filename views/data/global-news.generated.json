@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T17:56:21.705Z",
+    "generatedAt": "2026-03-31T19:04:41.110Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Europe pushes back on some US military operations as concerns over Iran war mount",
+      "summary": "Europe pushes back on some US military operations as concerns over Iran war mount &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-31T18:00:29.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGI1RDRzSnZ0MW9jTlhyd0tGNFdjQk5EQkwtS3U3UjJXUzFxR05NRVlmT01WLUtEeGlTZzhiUExVbEpENElQT05YckFqcS1URTRZQUZtMzZ1UF9YSXFUYVNlT2ttbjRaTFlhUXVkQmJHVV9oUUFtNjA2N1VzVFpOS0QxNFkzeWozYmFOYWx0bFZ3YzJESUtxZ2RfREtYR2RiaWFQS2VBRzdhcUpUNTBVRGQyMkYweHFHd0Ew?oc=5"
+    },
     {
       "headline": "Israel to destroy 'all houses' near Lebanon border, defence minister says",
       "summary": "Israel to destroy 'all houses' near Lebanon border, defence minister says &nbsp;&nbsp; Reuters",
@@ -23,15 +34,15 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXBnQ3FqdTFMSUdIYnlMdDdJd19ucDRmckhFT3E4SThnUG1nTllUcWdJMUgteEFwdllqcmhBVkZMajJJbExRMTFNMk5xVUdkbFRMZzk1Vi12V0dELTBpVnZFYVBUMlZobHM1QVFNZTRXRVFWUktLVGNnWDRWQkN2bnZYRFd1azVTejE3SjQ3MWVSZmdOeko0a3BjaTJtd09rQ041VVVqTVY1T3JmTjhsWXRxQU1JaG94YWhOcUxB?oc=5"
     },
     {
-      "headline": "Europe pushes back on some US military operations as concerns over Iran war mount",
-      "summary": "Europe pushes back on some US military operations as concerns over Iran war mount &nbsp;&nbsp; Reuters",
+      "headline": "Orphaned by Israeli strike, Syrian girl in Beirut wants to return to friends and school",
+      "summary": "Orphaned by Israeli strike, Syrian girl in Beirut wants to return to friends and school &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-03-31T16:06:29.000Z",
+      "timestamp": "2026-03-31T17:13:10.000Z",
       "impact": "HIGH",
-      "region": "Europe",
+      "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGI1RDRzSnZ0MW9jTlhyd0tGNFdjQk5EQkwtS3U3UjJXUzFxR05NRVlmT01WLUtEeGlTZzhiUExVbEpENElQT05YckFqcS1URTRZQUZtMzZ1UF9YSXFUYVNlT2ttbjRaTFlhUXVkQmJHVV9oUUFtNjA2N1VzVFpOS0QxNFkzeWozYmFOYWx0bFZ3YzJESUtxZ2RfREtYR2RiaWFQS2VBRzdhcUpUNTBVRGQyMkYweHFHd0Ew?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd29fT3I5V3g3ZDV2WEZMczM2bVlnQ0VOcTJ5cUdITEk2OU9KMEZqWGJRNUFTRlhFNGJINXMxeFpwN09qLTBybGRZTUN2TURaenBBczhKOGlIY2pUNTNtR29KVmJqRWJodTBONGp0Nks4TVRPRWh3Qzlydkg3ZHV4SzcxajBLekJBTzVKVWIxejBxT3hfZW95d1NjOWRYckFNVHFGXzVMQm95R3JfcUFaVGVEM0dvY212anB4bXY3TXlLdUMyaHc?oc=5"
     },
     {
       "headline": "OPEC oil output plunges in March as war forces export cuts, Reuters survey finds",
@@ -67,6 +78,17 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOUNqSmJQMWdIbV9RVEVYVFN0UVcwZm5DT0g0WUs2ejQ3ckV0RmdDTFpFZWprS0pldldmb051U05vXzRCZWhOU2FtaERDbV80QUVnM3g2SVZMd2JaY3puQU1zaE1DcmZJam5nQkZ5TVVPbVVpN01WZ3djRHE3RTBMNTBYRHZjNVo2eUxSS2JBcHlyQ3FqUVNHR2NVdDZuSXF4Y3FUWVRkbGRvc2ZuaFZjU0xacmVlRE51UHpLdklqR2lfZG5Za092WVo2OA?oc=5"
     },
     {
+      "headline": "Indonesia to limit fuel sales to counter Iran war impact",
+      "summary": "Indonesia to limit fuel sales to counter Iran war impact &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-31T13:44:17.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1kxVThrNHpDUHRGeUZoV2QyMFJoVUZ2ZjA2RVI3aTlfWFpNaF81UVNtakprNmdYVEpHcHlJb0pzeVZGS3hNeWlBVG8wZXFndHZvRWpJVlFRUVdvd2ZJbEN4S0pXN2pFei1MaDhfYmRyN05aSFF1bWlWUEMxUWp4Q0xacWtUMHR4aDJXTFFrbDhDNTlScGhDWjFRS1kxSGMydjdYcnZucFpFLTRXWGZwMmZLNV9iSl85UzIxdlVkM0tPbmhuMlhn?oc=5"
+    },
+    {
       "headline": "Countries need to step up on Strait of Hormuz, says Hegseth",
       "summary": "Countries need to step up on Strait of Hormuz, says Hegseth &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -76,28 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWlILVQ4WW1OUE1rZ1VFUS1DcVJrUS05dlUxdEY2MWtNLTJlLXIyb0xGWEhmNHlna3MyODVjT2kyZVFKZmRCQ0tLMjhRUUdBcjJ2b3d4MG81Z2todEwxWEIxdEktWXU0Uk5XUFQ4YjRyOWVkdFYzT0FLcWthSGNLbFZlSE9yQ1AyM09pX2UyRlV6N2xfV21pLVZJLUV2d1RN?oc=5"
-    },
-    {
-      "headline": "At least 25 sanctioned Russian ships pass through UK waters after boarding threat",
-      "summary": "At least 25 sanctioned Russian ships pass through UK waters after boarding threat &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-31T12:57:37.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzNCOEd4X1VLdWVhbGxsanJkXy1ZSWc2eHBEa3JZdklMWHJSTVJseU93a1ROM3ppbkNEcXRmUS1udFEzOHZnX25Razg3M09ybjdQSER0SlJaUDI4LW12MGVGMk5RNVBVUXZCbktFamJDVHVoMVhlS2NtTHYzTnNmR1hUUlB2aVBEQkRWb0htS0gtbUR3bEl4VGVzMmRiNFBib1FtNTRzNkc5cXhDOGlzUWd4Q3dWUU95NTkyVmhWLS0?oc=5"
-    },
-    {
-      "headline": "France refused Israel use of its air space to transfer US weapons for Iran war - sources",
-      "summary": "France refused Israel use of its air space to transfer US weapons for Iran war - sources &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-31T12:34:10.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTy1kWVVzSmFtQU5rX2lUcERsQUphZFZZckZHZW8xRzdiYXVUSDd0RFNEV1RfYmpYOTQwakR0ZkVsMjVUTTVmQ1JhS1podXA3aUhJVGJrcUtycURqS2dCMWVMUlBsVlhsVWp6OVppOXhWZmM4czVabF9wZHd6eGJmRFhyUnFISlh2ck9vTEMySF9LS0lnOTBULTZxRDhzVU1sTGV1MmRoOGstVm9zN00wdE4ybWlDeDVaMEQ5RjZVdUl5QQ?oc=5"
     }
   ]
 }
