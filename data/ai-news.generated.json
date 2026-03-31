@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T09:07:11.071Z",
+    "generatedAt": "2026-03-31T10:58:32.408Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,22 @@
   },
   "newsFeed": [
     {
-      "headline": "Azure’s new AI modernization tools - infoworld.com",
-      "source": "infoworld.com",
+      "headline": "Microsoft research tools uses Anthropic and OpenAI models - Axios",
+      "source": "Axios",
+      "timestamp": "2026-03-31T09:09:31.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Microsoft research tools uses Anthropic and OpenAI models &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93bFNCRmZVbEYwZVlCNE1CekUxWFhUQVBZNnMxakJ5NXcybUt6SnA0TXJSZlpVbDRVT0dnRDdhRXZxUTdWNlY3bXRjY3d6VUFuWkd4TDhKVkdkMWZESDJfMzFkTEl2OVNDOHFoUDAxYUtIOGtjY2ZZ?oc=5"
+    },
+    {
+      "headline": "Azure’s new AI modernization tools - InfoWorld",
+      "source": "InfoWorld",
       "timestamp": "2026-03-31T09:05:45.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Azure’s new AI modernization tools &nbsp;&nbsp; infoworld.com",
+      "summary": "Azure’s new AI modernization tools &nbsp;&nbsp; InfoWorld",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnhKRDVPXzFSdTQ3dEY2RzI3VVpRd3ozMTVhQ0ZyRTBlQWlBa19xckxNUERVekQ4a1hKRTRjdmoyZ0hnT2VscHN2SkZwOF9VVkhnbHNRaXd6SkVTaVZ0eWdIYUgxSVA0T3Zmby1aN2MyVmZxbXQ2WEtGOUFHWEdVU2l3OV8wT3M?oc=5"
     },
@@ -42,12 +52,22 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQndhUV9LZVoydjd6OHFlUXFna0F0WUJOTEJjV1REeVpiMTBnUlo0ZTFCZ016cEp5Zzg5M0lncmt5by1VQjJKdS0wTVM2MEdtUGRoWFBCZkI4dlI4UklkRFUtdGhWQ2dRTkYwdW5xQlAtNjE1U1hBLW5KaElKaFNHNGtrRjBvZ05YR2RMeHhVOVc?oc=5"
     },
     {
-      "headline": "AI for American-Produced Cement and Concrete - engineering.fb.com",
-      "source": "engineering.fb.com",
+      "headline": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-03-30T16:38:54.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0VmVV8yMkI4VWg2cy1EVjBGbWkwR21aQ0pBV3lodzVBS2xOQVdTQWtYV0Q5a1V5bHh6MWVaVTNKS1B1ZlVyNTZOaTVyR1pfclZWN2Nib1QxLWNkT2N4TG5ST3hINmUtMURPLVplb0MtbHh5MVV0Q3c4OEVFd2Vta0JlYVVPbEZjckl0d3laUmgzS1RkdkRjcU0tamRjODY4ZzlZRjBTVXVMZk1Wa3N3?oc=5"
+    },
+    {
+      "headline": "AI for American-Produced Cement and Concrete - Engineering at Meta Blog",
+      "source": "Engineering at Meta Blog",
       "timestamp": "2026-03-30T16:02:40.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AI for American-Produced Cement and Concrete &nbsp;&nbsp; engineering.fb.com",
+      "summary": "AI for American-Produced Cement and Concrete &nbsp;&nbsp; Engineering at Meta Blog",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1ExMm5jd3Mzci1MV2Y0eU9nZi1qVk16bk05ZlFSRkVyM0Vfc0hzWFRLTDVnX3BNNS14X19QdXV3NElwMzlIMkNWRlNvUXR6YjM3M2ZhbFd4QWxBczNVZkxRb2lqS1p0c1IwUnlfckZxUWN5Qk1CbjlqQ19KalFvbTV4WUFKV0NDSDJJUm9RaTFNTmZ6TFRWZkh2NFJUeXp5eGltM01ZRGlFdjA?oc=5"
     },
@@ -72,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRFBSeWYzRFVIOFBoQ3N3YlNuc24xTGp0TUlNYUF5V2M3eTZkRHZ5dzN2YnZtbkFudWZENUpJZWFZYnlyQzU5ZDJSQ3U4a0VnV3lPZEJDSXhKWFpLUmFqaG1FRVNyaTVLS0U1N29MVWRlNjNfQWZCVlN1d1M2S2lPQVRrc1RiNzBBV3BLSWo3UFVLWm5hRldsUzVERDc5U1JaUFEtX2hIMG5UcnlWaDhjSW9hMDNIekxEcGFMV0s1WTNDbjNwUWxLelVIdmJaQWxmRGdBSzY1MlZTYUpqUmVaUE9GSWlkbl9EM2YzSzZRS3dyYnU4a0o5ekR0cHhNR0RXZEhXWXM2LTgycFZJTkhKZDBucUI2d9IBmwJBVV95cUxQd1NOSFJGTnJ4b05ISjdZZHdfV2g4Wktfd0VVVzVWTmNWTndnNFZPc2pwTGc4VHZ4S3dubVcxNUczN2N6VEpGRjE3cmhoVVdLVTRheWdBbUJLemUyalhLV3pmLTJ4QmRJZWpBQlczbVVmaC1JVUl4a3dJbnJBS2x1OWJUTm9RcFIxTHJEazVidTlUSC1IWTVFX1YxYU9fT0pBQnhNM3Z5cHltZy01LVlwWXk1VDhZaWJ0T1Z6S1BZMGpfMkc2VkNHTG12dGtvbkRGRzVsVTNZdmNnT01vNDhQdWd0UWZXSk5YYzdnN3J3WGNDY2NwN0FWN0EwRW40RllLY01Rd1Byb2RmRm84T2MxQ2tOelFVb19LbEJv?oc=5"
     },
     {
-      "headline": "Helping disaster response teams turn AI into action across Asia - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-03-30T05:49:04.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Helping disaster response teams turn AI into action across Asia &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85YWV2U25oNU5XcjYtdHY0dHoySWVjMnB3QWJOT2kzQXNPMmg3ZVRZM1FpYXJ2WHpFaTJRWmVPWk1iYXRuejRmTFVDOG1XMUExdTdYT2RDY3hDWTV0RmstMDBMSlpoMHpRMzljWVpzbw?oc=5"
-    },
-    {
       "headline": "Why OpenAI really shut down Sora - TechCrunch",
       "source": "TechCrunch",
       "timestamp": "2026-03-30T03:09:38.000Z",
@@ -99,29 +109,28 @@
       "category": "models",
       "summary": "Exclusive | The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNSVVyVTZab1RUdVJiUjRNTmhxcHZCdXJIV2doZFVkNXhrTTk3emY4RzlHOERRZXRjVFl0X2JoeDNUYWdsX1plQmozYktGaHd5bWhXZ3NQRjZ2NkVybkxHd3puMHZuUWdmVWltWWNEMzFYanNrM2ZvM2cxaWl1di1rUFc0ZmlPVXNqNDRxNFdBeHhZaVhTaElUeUkxS2JSQkdiaVdkZHpKbFgzWHliSUY1d2FXYVdWQ2Fja0N2WmZFX2Y1cHhoTUFDUUU1Y21fZHdqN1E2R3pYOEk2NlBjQ19sOWxyTFg1VFN5R3ZNUnprZnpyTnZ6V3lBMU1nWjdGUkdsT0tTbXRzN0oxdjFEbk5xS1dnQ0ZwelRxOGpyeEsxSHFrSVEtQXJkSWY1V2VncnlaSW9Xc0VIc0RRUGNCUzltNmFSRWRYcGw1QV8wYjBPd2U0VHprSjd1R21UeEFCMFVoY0tzdVB1TjFvR0VKbENUaExxWHBSR0R2NDdPRmt1dllyQUI1Qm5NenZDNUlOUzh4TUI0TDVkQ1VmRklGTFlPel9R?oc=5"
-    },
-    {
-      "headline": "Meta's court losses spell potential trouble for AI research, consumer safety - cnbc.com",
-      "source": "cnbc.com",
-      "timestamp": "2026-03-29T12:00:01.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Meta's court losses spell potential trouble for AI research, consumer safety &nbsp;&nbsp; cnbc.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakRqaGcyRHl5Zlg4eVZMbUNEZ3ZUU1E1TWlHZTE0S2gwQmhWaVBKanA1QmJtbTJaOVEzYXVmWGdGUEFMMkxCVVNCeHc3SjktYUN3R3lZS1NjZXV2Tl9sRW5mMy1YNWtoWWs0LTFUTW9mc3pUdXdPZWp5YUNURGZjQ01LV3hBMTZGb0lxb2c3N2NMclBMWnA3MXR4RFJ1YU5WRGpF0gGoAUFVX3lxTE1pV1BKbXdQWmNZRmpiLUlCelZraEdWbkhQM210cGUyN01XQ3pCcGtldnhWVjdVekdleEp4NFJLLWRCcDRibzYzT29tZEhnU21pWV9GQ2djUmRpeVkzMEdyTDV2QmlfVVJhY05JQ21HaVRzY3RPMVVEUTROQ0F4SjVmM3hKWXF5VEk4aEl3MWNSUktpS3NVT0JCa0s2NmQyMEsyZGJyejZVRw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOR1JnLUhVdldUNW1SelVnSjVOUVhwa05zaTgtNEp1OTNPcUk0aWsyWVpYWmNjSTlGSkppWVUzOENiSmdMVlYxUjlybXMyYTBHRTRfVUZRV3Z2aGdXTnBPYmNJX0RObzJySktFTFhMNENLSnBwOHdJYXNkdEw2ZW8xVmRMM3VsNExQOUJUS0R1VHRDQklhYWpHYk9aWTQzTjMtNmZTQTJZcU1fOVhETGxDeXFUSjVxWkxRdFlpaVI4S2ZDWGZmMTdVSVdHOUtfVWltVXZZY1V3ZjhFb2lXVHlTZmxmcldpQ3NNVjZLNy1xemY3ZU9YeWhGazZTR1plZ2pleUVpT2FjWXA3S3hyNXF0dmlxbGttOVhIOXhJMVFxLVo0MlFjanV5NUZvOEx1MV9EaWxicEFIN2FTREhZYmhDVFk0OVBROTN2N1h3YkJVcnBPX2lDSGp2bUdRQlFPeWJOd05BRFg5eGhOQ3gwZklEblpCTGN5UDZuamFTSUx0b1JFWHpJb1YzeExNenlscFkyMXU1MlNwQTZab1lfMjFidjVR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Azure’s new AI modernization tools - infoworld.com",
-        "source": "infoworld.com",
+        "headline": "Microsoft research tools uses Anthropic and OpenAI models - Axios",
+        "source": "Axios",
+        "timestamp": "2026-03-31T09:09:31.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93bFNCRmZVbEYwZVlCNE1CekUxWFhUQVBZNnMxakJ5NXcybUt6SnA0TXJSZlpVbDRVT0dnRDdhRXZxUTdWNlY3bXRjY3d6VUFuWkd4TDhKVkdkMWZESDJfMzFkTEl2OVNDOHFoUDAxYUtIOGtjY2ZZ?oc=5",
+        "summary": "Microsoft research tools uses Anthropic and OpenAI models &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Azure’s new AI modernization tools - InfoWorld",
+        "source": "InfoWorld",
         "timestamp": "2026-03-31T09:05:45.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnhKRDVPXzFSdTQ3dEY2RzI3VVpRd3ozMTVhQ0ZyRTBlQWlBa19xckxNUERVekQ4a1hKRTRjdmoyZ0hnT2VscHN2SkZwOF9VVkhnbHNRaXd6SkVTaVZ0eWdIYUgxSVA0T3Zmby1aN2MyVmZxbXQ2WEtGOUFHWEdVU2l3OV8wT3M?oc=5",
-        "summary": "Azure’s new AI modernization tools &nbsp;&nbsp; infoworld.com"
+        "summary": "Azure’s new AI modernization tools &nbsp;&nbsp; InfoWorld"
       },
       {
         "headline": "Government Actions Against Anthropic Are 'Classic First Amendment Retaliation' - AOL.com",
@@ -142,31 +151,22 @@
         "summary": "If OpenAI is to float on the stock market this year, it needs to start turning a profit &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "AI for American-Produced Cement and Concrete - engineering.fb.com",
-        "source": "engineering.fb.com",
+        "headline": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-03-30T16:38:54.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0VmVV8yMkI4VWg2cy1EVjBGbWkwR21aQ0pBV3lodzVBS2xOQVdTQWtYV0Q5a1V5bHh6MWVaVTNKS1B1ZlVyNTZOaTVyR1pfclZWN2Nib1QxLWNkT2N4TG5ST3hINmUtMURPLVplb0MtbHh5MVV0Q3c4OEVFd2Vta0JlYVVPbEZjckl0d3laUmgzS1RkdkRjcU0tamRjODY4ZzlZRjBTVXVMZk1Wa3N3?oc=5",
+        "summary": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions &nbsp;&nbsp; Bloomberg"
+      },
+      {
+        "headline": "AI for American-Produced Cement and Concrete - Engineering at Meta Blog",
+        "source": "Engineering at Meta Blog",
         "timestamp": "2026-03-30T16:02:40.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1ExMm5jd3Mzci1MV2Y0eU9nZi1qVk16bk05ZlFSRkVyM0Vfc0hzWFRLTDVnX3BNNS14X19QdXV3NElwMzlIMkNWRlNvUXR6YjM3M2ZhbFd4QWxBczNVZkxRb2lqS1p0c1IwUnlfckZxUWN5Qk1CbjlqQ19KalFvbTV4WUFKV0NDSDJJUm9RaTFNTmZ6TFRWZkh2NFJUeXp5eGltM01ZRGlFdjA?oc=5",
-        "summary": "AI for American-Produced Cement and Concrete &nbsp;&nbsp; engineering.fb.com"
-      },
-      {
-        "headline": "The Pentagon’s culture war tactic against Anthropic has backfired - MIT Technology Review",
-        "source": "MIT Technology Review",
-        "timestamp": "2026-03-30T15:42:50.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcE5pX3ZEMGZGd1hkLVRNcVBhNkVmMy1WcUtNc3Ayd195dW9hN0g1TWtzSFFNeHNkYlBBQzZnekUzVjlBY1lBOEtpaGN2UmdYNkNCeTkwalBiWURJMU9GOVROZ0VMQkpjdkczNlZ3c1MzbXVXYzRWRE5WVDVibWppN195LXRSUldPTDdydkw1ZjAyRHBOb2hCOHBLdV9hWlNlbHVYa3Y5MXk5QUpORldTaDhod1VIX2Vn0gG-AUFVX3lxTE8yVnVCME56MUJfRWlsZVFYeWt5cUN4YncyNzJ1bVhsNWRNOUlNNXFtWUUtbUh5TGFrMXFCNXA0RkxZelFRaWVvMkdVaDVmRnI2Uy1COXM2RGE3aXBicHdfXzNaeFM5R2JsTFlDc244OWNzR3NhU3ZJM2V0ZXFHMTNGOVFfTW1yQk5zckJ6UmtWMjBIZFFLbHB1b2tYcWlGTzR2LXFydG12QnVSWE5QaHRDUy00aVJQRTdNeV8xeVE?oc=5",
-        "summary": "The Pentagon’s culture war tactic against Anthropic has backfired &nbsp;&nbsp; MIT Technology Review"
-      },
-      {
-        "headline": "Why Google's AI CEO Demis Hassabis said no to Mark Zuckerberg and yes to Larry Page despite Facebook offe - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-03-30T06:06:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRFBSeWYzRFVIOFBoQ3N3YlNuc24xTGp0TUlNYUF5V2M3eTZkRHZ5dzN2YnZtbkFudWZENUpJZWFZYnlyQzU5ZDJSQ3U4a0VnV3lPZEJDSXhKWFpLUmFqaG1FRVNyaTVLS0U1N29MVWRlNjNfQWZCVlN1d1M2S2lPQVRrc1RiNzBBV3BLSWo3UFVLWm5hRldsUzVERDc5U1JaUFEtX2hIMG5UcnlWaDhjSW9hMDNIekxEcGFMV0s1WTNDbjNwUWxLelVIdmJaQWxmRGdBSzY1MlZTYUpqUmVaUE9GSWlkbl9EM2YzSzZRS3dyYnU4a0o5ekR0cHhNR0RXZEhXWXM2LTgycFZJTkhKZDBucUI2d9IBmwJBVV95cUxQd1NOSFJGTnJ4b05ISjdZZHdfV2g4Wktfd0VVVzVWTmNWTndnNFZPc2pwTGc4VHZ4S3dubVcxNUczN2N6VEpGRjE3cmhoVVdLVTRheWdBbUJLemUyalhLV3pmLTJ4QmRJZWpBQlczbVVmaC1JVUl4a3dJbnJBS2x1OWJUTm9RcFIxTHJEazVidTlUSC1IWTVFX1YxYU9fT0pBQnhNM3Z5cHltZy01LVlwWXk1VDhZaWJ0T1Z6S1BZMGpfMkc2VkNHTG12dGtvbkRGRzVsVTNZdmNnT01vNDhQdWd0UWZXSk5YYzdnN3J3WGNDY2NwN0FWN0EwRW40RllLY01Rd1Byb2RmRm84T2MxQ2tOelFVb19LbEJv?oc=5",
-        "summary": "Why Google's AI CEO Demis Hassabis said no to Mark Zuckerberg and yes to Larry Page despite Facebook offe &nbsp;&nbsp; The Times of India"
+        "summary": "AI for American-Produced Cement and Concrete &nbsp;&nbsp; Engineering at Meta Blog"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
