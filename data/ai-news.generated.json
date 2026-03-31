@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T21:44:42.671Z",
+    "generatedAt": "2026-03-31T22:39:20.110Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic leaks part of Claude Code's internal source code - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-31T20:56:15.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; VentureBeat Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUtWbk9lazVTQ3V0ZDhZZG5rWFViSjQ0aTlGT0E5NGJrWGd0UEEwWUgwOExLMXRiclZqZ3ZPa0gwaHlhTnp5T21ESU1jSTAzTU1ncV9odVlqMThDYXI4a2lpcS1fQ1UzdE8tcHlEVENQSHVzdDVKUk5FVGFaclQ0WWN0N1Nyd9IBiwFBVV95cUxPUVpsaFdUX3g0VjRxNnN3Ny1fZThyMVJlWVYzN19HTTVEdUdxQ1RVR3FLaUJUQVRrSWxHcjEwY0FNSm50bWt4NjJDQTVDSW1fTzhPYVM2cFktZUZHTzVSdWJPSW42VTlmUHlhU0xfdDhESk5QQmlkQjRyeHdFWVdJaGFzRkFPM0poNVlB?oc=5"
+    },
+    {
       "headline": "OpenAI raises $122 billion to accelerate the next phase of AI - OpenAI",
       "source": "OpenAI",
       "timestamp": "2026-03-31T20:07:12.000Z",
@@ -22,14 +32,14 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bDc0Y3Myc2RjdHlZVUNEdVN4SjMzZVJlcjRVR3V1UzRCT3NqRHdkbXp5dFdUdUpUcUdGYVVoNS1DX0xUbHJSYXpDbkRTYnpGbGVwMFl2RTFsWmp2N0RvYjhZOW1NWTg?oc=5"
     },
     {
-      "headline": "OpenAI opens the door to individual investors - Axios",
-      "source": "Axios",
-      "timestamp": "2026-03-31T20:06:39.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI opens the door to individual investors &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1URFJST3NCMmNCZXVLQTlIYXExamlHaVpVdzB5WnNaODRCZzZId09hTGFDcU4tWHl6cF9XOWdsV21BQlZSTzZVNXFvRlQ1a1ZaREFISUJXejU0c1VNUy1rVnZ0VHZva1VOakJ2ZmFZbw?oc=5"
+      "headline": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-03-31T20:05:02.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQdGpYaWFOM1pPUEpvckhWbHpJbXNTUzI4ajRHRTlOdXJjdzZOSzJQd0NzVjNaOWVtdGQ4Q0R3WWZxRjZpb1BHVmxadllqSU9STEZBU3p2YUVhSkE3bnI5cWQzOGpSTGcwMkU3UThB0gFzQVVfeXFMT2l5MW95UndVNWdBZldmVzBFWFpFWEpUUTNBZHlaaTdBMGZyQkRFWUJKV1A4NDlhai1ySEFuaVI3UERnRFhGMU55c0sxRlV4UEcwdjNxendlamtTd3p5dm5zV0hvcFM5VUJQNGJIeFR0bkxiMA?oc=5"
     },
     {
       "headline": "Opinion | A ‘post-human’ vision of AI is already causing problems - The Washington Post",
@@ -50,16 +60,6 @@
       "summary": "Penguin to sue OpenAI over ChatGPT version of German children’s book &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5"
-    },
-    {
-      "headline": "Claude Code's source code appears to have leaked: here's what we know - venturebeat.com",
-      "source": "venturebeat.com",
-      "timestamp": "2026-03-31T16:22:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; venturebeat.com Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakEtRTZ1UjF0LXdCWDRNSHh0cGFhMWhubEtwTG1wcmlNeFVCcW9fS1U4Q2o4ZUhNWjRXdFRCUld5TVUzZ21ac1BHcXpGQk9HUkF4WXZnRld2WURzMUpSTzhnZDN2NjRGcFNQUzFBX2VZTkxQRWUtUFA5NWEwV2d6VEt2NEdSQTV2Q0ljUzMwMlhZdHlOMUx6UFp5MlZXWWhCWHRF?oc=5"
     },
     {
       "headline": "Build with Veo 3.1 Lite, our most cost-effective video generation model - blog.google",
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5WnpLaVhoRXMwZS1FblcxOHVsVl9lSDJSVjhUYlBjUUQ1NEpZaEJaTWFadXZVUmlTbEE3dy1mdmJvT2diM3YwY1FYVVo0Y2RaU3doRVRjTUVxNzRiWk9CS3VuOEJXQTZpYWJrRktxRlhQWGdx?oc=5"
     },
     {
-      "headline": "Introducing Our First AI Glasses Built For Prescriptions - about.fb.com",
-      "source": "about.fb.com",
+      "headline": "Introducing Our First AI Glasses Built For Prescriptions - meta.com",
+      "source": "meta.com",
       "timestamp": "2026-03-31T13:00:01.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Introducing Our First AI Glasses Built For Prescriptions &nbsp;&nbsp; about.fb.com",
+      "summary": "Introducing Our First AI Glasses Built For Prescriptions &nbsp;&nbsp; meta.com",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QZzMwTmJFYnVUWm9XWWlSTUk1VTU4aXB3SDlmU2xQdDM4aXdzeElhYUg1cjVrTEVTNE1YVFd4ZjJZM1BEd3IxaWZpYlF5ZVdXYzdBLVRlRFFqUkIxMldldmcwVzVmc01pZlBnU1lZck9zd2xrTEtmeHZ0N0ttREXSAYQBQVVfeXFMT1RrQXlYbWxjRFpJdmREcGRWSE5zX1RjZkZLR2xGNERQbFFSZkNDaGFMQTVVYXdSUnpDYU1VZ1k1c1ZNcUQyZDM2eFFDdHVnSk9kbUw0UHpzSFduQUd5UHowYmlkQUt2QzFpenNSV3lDLXVRZVdLUzdEbkJ1SnJEY0EzcmVU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic leaks part of Claude Code's internal source code - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-31T20:56:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUtWbk9lazVTQ3V0ZDhZZG5rWFViSjQ0aTlGT0E5NGJrWGd0UEEwWUgwOExLMXRiclZqZ3ZPa0gwaHlhTnp5T21ESU1jSTAzTU1ncV9odVlqMThDYXI4a2lpcS1fQ1UzdE8tcHlEVENQSHVzdDVKUk5FVGFaclQ0WWN0N1Nyd9IBiwFBVV95cUxPUVpsaFdUX3g0VjRxNnN3Ny1fZThyMVJlWVYzN19HTTVEdUdxQ1RVR3FLaUJUQVRrSWxHcjEwY0FNSm50bWt4NjJDQTVDSW1fTzhPYVM2cFktZUZHTzVSdWJPSW42VTlmUHlhU0xfdDhESk5QQmlkQjRyeHdFWVdJaGFzRkFPM0poNVlB?oc=5",
+        "summary": "Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; VentureBeat Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune"
+      },
       {
         "headline": "OpenAI raises $122 billion to accelerate the next phase of AI - OpenAI",
         "source": "OpenAI",
@@ -124,13 +133,13 @@
         "summary": "OpenAI raises $122 billion to accelerate the next phase of AI &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "OpenAI opens the door to individual investors - Axios",
-        "source": "Axios",
-        "timestamp": "2026-03-31T20:06:39.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1URFJST3NCMmNCZXVLQTlIYXExamlHaVpVdzB5WnNaODRCZzZId09hTGFDcU4tWHl6cF9XOWdsV21BQlZSTzZVNXFvRlQ1a1ZaREFISUJXejU0c1VNUy1rVnZ0VHZva1VOakJ2ZmFZbw?oc=5",
-        "summary": "OpenAI opens the door to individual investors &nbsp;&nbsp; Axios"
+        "headline": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-03-31T20:05:02.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQdGpYaWFOM1pPUEpvckhWbHpJbXNTUzI4ajRHRTlOdXJjdzZOSzJQd0NzVjNaOWVtdGQ4Q0R3WWZxRjZpb1BHVmxadllqSU9STEZBU3p2YUVhSkE3bnI5cWQzOGpSTGcwMkU3UThB0gFzQVVfeXFMT2l5MW95UndVNWdBZldmVzBFWFpFWEpUUTNBZHlaaTdBMGZyQkRFWUJKV1A4NDlhai1ySEFuaVI3UERnRFhGMU55c0sxRlV4UEcwdjNxendlamtTd3p5dm5zV0hvcFM5VUJQNGJIeFR0bkxiMA?oc=5",
+        "summary": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Opinion | A ‘post-human’ vision of AI is already causing problems - The Washington Post",
@@ -151,15 +160,6 @@
         "summary": "Penguin to sue OpenAI over ChatGPT version of German children’s book &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Claude Code's source code appears to have leaked: here's what we know - venturebeat.com",
-        "source": "venturebeat.com",
-        "timestamp": "2026-03-31T16:22:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakEtRTZ1UjF0LXdCWDRNSHh0cGFhMWhubEtwTG1wcmlNeFVCcW9fS1U4Q2o4ZUhNWjRXdFRCUld5TVUzZ21ac1BHcXpGQk9HUkF4WXZnRld2WURzMUpSTzhnZDN2NjRGcFNQUzFBX2VZTkxQRWUtUFA5NWEwV2d6VEt2NEdSQTV2Q0ljUzMwMlhZdHlOMUx6UFp5MlZXWWhCWHRF?oc=5",
-        "summary": "Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; venturebeat.com Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC"
-      },
-      {
         "headline": "Build with Veo 3.1 Lite, our most cost-effective video generation model - blog.google",
         "source": "blog.google",
         "timestamp": "2026-03-31T16:21:45.000Z",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
