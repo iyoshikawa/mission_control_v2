@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T07:12:14.376Z",
+    "generatedAt": "2026-03-31T08:58:05.888Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,21 +12,65 @@
   },
   "newsFeed": [
     {
-      "headline": "Dollar surges in Asia as war's safe-haven shelter",
-      "summary": "Dollar surges in Asia as war's safe-haven shelter &nbsp;&nbsp; Reuters",
+      "headline": "UK economy limped into the end of last year before Iran war",
+      "summary": "UK economy limped into the end of last year before Iran war &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-03-31T05:39:28.000Z",
+      "timestamp": "2026-03-31T06:07:00.000Z",
       "impact": "HIGH",
-      "region": "Global",
+      "region": "Europe",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2F5bG96OGpYbE5VcHhaVkx6NUZ1aWhaUmRBTVd0YU1oOW5BeVdQcHI4eUhTZ21GNW5hdVl0UEVicXlfODltYWMwYkZFUVZJY1o5aUxycm1JSzVLN3FGTlVDXzlRbXpUd09zTVVCT0hBay1CdXJCWVlnSkgxZjhTd094SGc5LWl4eVhfbFJBTDBuNjNSYnBaMVhDaUFjQ1l6NHRNUVdCdGgteVMyMmxSbThHUF9yWkU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2NaWHFwb2o2bFhPdk92Zkp3cFFUOWZkTmNDbmxGamk0S1hVekZwQk44R2RMVUFUbmkxbUV0T1F4bDZjTXdRYWszUDQ1RWVDMmwzQzQ2c0tFR254SU1XV2FFYUc2YkI3MDU0dmgtRURXcENCekJfZS1pMGFNTUVhUWtBTjViX2trNlFSVktPQkJhUQ?oc=5"
+    },
+    {
+      "headline": "Global banks seek refuge in China stocks as Iran war drags on",
+      "summary": "Global banks seek refuge in China stocks as Iran war drags on &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-31T05:15:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2JhM0Zpc01qbW01dVF3X0hqNDBMVTM4VHE1WDI1b1RaS2NMaTczTFpQTG5iYmFLM2xoRUE4YzJncVh4MUMyaUJfMDZ2bW1wV0FocFEzSVpqSVVaVlgzOVExU3h6SEt2M1JmWGdxVm1Rd0lBYlRiWkxQRkZqQmV0Y0V2ampDd0IyVlVMRGxNXzFUMjdGaWZZdDNGYVI4VW12WkFJZGcyTXRLRlk?oc=5"
+    },
+    {
+      "headline": "Ukrainian drones damage Russia's Ust-Luga port again, governor says",
+      "summary": "Ukrainian drones damage Russia's Ust-Luga port again, governor says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-31T05:05:00.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblhFRTdZZUFaZ1lyR01WVXdPTWo5anhKSFZFUC1Yb1Nrb2h5dDB0Ymh0MWE3VHd6TERFcEJYTDJubDBpa3dOZVQ1R0k4a3ZSaGJjdmdmSmtfV0tGNVRIeVdSR3RQMzkyUTBaV3VmRDBQY2ZBV2xPMk9OLXU2OW5IeUZrdExjTVctN0pvc2NuUWRqbm1sNm9oMlhRVWtuanJaTWtmT3FOd2NZNjJ1UjZXRVln?oc=5"
+    },
+    {
+      "headline": "BlackRock weighs HSBC's Canary Wharf tower for new London headquarters, FT reports",
+      "summary": "BlackRock weighs HSBC's Canary Wharf tower for new London headquarters, FT reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-31T04:46:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlVmeC1oaF9rM0p1RXV0VkN3bHRvMURIN1pReEh6OExBTkpXU1NMdEVqd1ZBbEo0OTlxY2tDR0MwRk5pMlV3S1phQkdtZ0VqTGJOT01zRE9fZzNvR1ZfU1k2OEVFaUxILWlQRjdQSzdVYnU3c0tJTnc3emw1c0ZxdTd1TkMxb3ZwaWVFZlBYQ3RCLTVIel9SRnJxM2xneXh3OFN1WlFsTWRRbEtTT3F5dmdVRDFhM3lKdGhSVHVSaXRsTGtwcnhrQQ?oc=5"
+    },
+    {
+      "headline": "Japan brands yen falls as 'speculative' as Iran war ignites sell-off",
+      "summary": "Japan brands yen falls as 'speculative' as Iran war ignites sell-off &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-03-31T04:32:00.000Z",
+      "impact": "HIGH",
+      "region": "Japan",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUG5NUDVtYUVxYVV6UEN2ajd2ZWE2dEt3XzE1OEtNUllvSlN0WjZsUmkzMHItQzZIY25wRE1zRXUzN2N3dlFfRkxVeUY3Um5rRHE3RXY2bXZ1UGdOS2hWa01PWkNqZzhCeXBqVVlZN3FUNEJjMW8yODBCZkVtYWFCZzNtY2pzZENfSzd5MXRLcUhuaDYxbGVwMU5hSVJhMFdkRU8zbll0MDh5Ynk0YzR6bjcweFZZZw?oc=5"
     },
     {
       "headline": "China's top airlines cautious on outlook as Iran war raises fuel costs",
       "summary": "China's top airlines cautious on outlook as Iran war raises fuel costs &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-03-31T04:21:00.000Z",
+      "timestamp": "2026-03-31T04:22:09.000Z",
       "impact": "HIGH",
       "region": "China",
       "category": "conflict",
@@ -45,59 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQi1nS0NzRzRGWnJFTUx6ZTJGN0lPWW1ISHhvWi0wcUhZNHpmOHdrSnNrQlNwXy11UzFsYVZ1MjFpWmRrZjlJaDBhWkM2Q0hxZjB3d00yNkdjOVFuOW1DNEN6MDVrRTY1RXVzbFZDMnJJWTZkU00wemd5eUZFZWtON2J4WWwwMzRuNkIwRWVsTEpjUXl4YzN3UWxBWDJEcDVYckFidVVyVDZrdVVjMTNDbjZmcng?oc=5"
     },
     {
-      "headline": "Israel passes death penalty law for Palestinians convicted of lethal attacks",
-      "summary": "Israel passes death penalty law for Palestinians convicted of lethal attacks &nbsp;&nbsp; Reuters",
+      "headline": "Dollar surges in Asia as war's safe-haven shelter",
+      "summary": "Dollar surges in Asia as war's safe-haven shelter &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-03-30T23:45:48.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlctb25FbVE1QVVLWTl5cG5tMVBSdHN0RXh2LUJhTm5xUE1vT3BOQ1JJMVBfSE1mZ2NCU1E4U1hkRThBcWxPS0ZYbXRMUUNiMHhEZmd0UUpQZVcwSzdXSmxCbWRzLWF2Y1NpSXlMc1NkM3dhc1lSWVlLM3ZYeGxRVmp3Y3lHbVV0S1daLUxuQ1Z0TE0ya0JUWTRSWE1RdHNKUWtpbzhhamFMRjlBdXlJSXhZd3BwbHFEZFBv?oc=5"
-    },
-    {
-      "headline": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic'",
-      "summary": "Trump issues new warning to Tehran, Iran calls US peace proposals 'unrealistic' &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-30T23:44:07.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHlrYWItR0JXcENnOEtGYkd4Uk1FRkdNN3BlVEN5bTRkbEd2VjF3YjNZMWlPTkp2Q21lSGM5TDVwbFJLQmp2aDRva3hxSUQ4U0JtYVYwTDlRdHhpQ0RXSkpGSDVjeUo0TFY5dmNJY0NuS1RmT3lPTEt3YVRQUHFSYWRQb3diZGlqMG9VeExPeUlaTXF0UU0zQU1Cc1FhUUlkZnhscXlZRUhVWkMtR285ZmhBWkZJV2M4c05DXzJ3U3JnTmI5eXVnbHl3NFhrZw?oc=5"
-    },
-    {
-      "headline": "Railroad trade group sues New Jersey to block safety law",
-      "summary": "Railroad trade group sues New Jersey to block safety law &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-30T23:19:00.000Z",
+      "timestamp": "2026-03-31T00:36:00.000Z",
       "impact": "HIGH",
       "region": "Global",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1lRVW1pMzZLZVZPeGZ0NjhORWR3d3A5c1h6dVdqMlJEREZoU3hCVFhDYzFsbGJrX1ljSDVUaUx2dVFQYmxjcUxwdTJJLUtzak9kZlZCeWRpZFBIdTFzaExtLUFDTC0zcTBFWEZDcm5aVkJwTDNsenp0amlZYWRDN2czUTBIeWVsSDhaaGl4Zndab0toR3J0RnJ6N1hMUUlLeXIyUW8zWFRqQQ?oc=5"
-    },
-    {
-      "headline": "US Defense Secretary Hegseth's broker looked to buy defense fund before Iran attack, FT reports",
-      "summary": "US Defense Secretary Hegseth's broker looked to buy defense fund before Iran attack, FT reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-30T22:51:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY2lyNHI2SUZYY190aG1XcHVIakxaem1JZ01pWDViUHBNdlRPQzZWZDhSLXVtY204dUQxcHl4eUlFQ1VteXFZaDRmdkFPSktBbHRLWk5mUFFCc3E1dHE5MHdCVHJiT3ZscDRmaTVtaVYyeWRTeDV0U3Qwb1ZpVVJyQUltZ25ndU0zb25EajY0VUhuQTJZeEQ4cU5aTVZDam1vODh2T1NWamJsVjk4VVJ4R0VQT25Nck9IdE9hclFQQ0Z3TGpvTnRIUE9hQWQ?oc=5"
-    },
-    {
-      "headline": "Wall Street indexes mostly fall as Iran war widens",
-      "summary": "Wall Street indexes mostly fall as Iran war widens &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-30T22:48:11.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjVKZ1MxTHUzdFg3VlRLdjdIcXF4WnVqcXpKdTBDU3JyOVBZc243cXkwZDJkYWRWZTlaQ2VSY2ZDbk5HdjNCbXpPa3pBQVRmWUFfN1dHZ05FT2VzTC0xQ0w4WUFtb3haNjk2MzNZMmpsZmI0QkJHUHR0QVJncDg5ZFM1VWZIZ2hJZm0wcUxzNTJvSUtHaTk2UXlYSThlWjl3UC14LUw1Wk1QdkVDamZZakEwQUozMTAwVkszdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2F5bG96OGpYbE5VcHhaVkx6NUZ1aWhaUmRBTVd0YU1oOW5BeVdQcHI4eUhTZ21GNW5hdVl0UEVicXlfODltYWMwYkZFUVZJY1o5aUxycm1JSzVLN3FGTlVDXzlRbXpUd09zTVVCT0hBay1CdXJCWVlnSkgxZjhTd094SGc5LWl4eVhfbFJBTDBuNjNSYnBaMVhDaUFjQ1l6NHRNUVdCdGgteVMyMmxSbThHUF9yWkU?oc=5"
     }
   ]
 }
