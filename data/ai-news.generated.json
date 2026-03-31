@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T17:04:32.744Z",
+    "generatedAt": "2026-03-31T19:08:39.378Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,19 +12,19 @@
   },
   "newsFeed": [
     {
-      "headline": "Opinion | AI is a tool, not a new species - The Washington Post",
+      "headline": "Opinion | A ‘post-human’ vision of AI is already causing problems - The Washington Post",
       "source": "The Washington Post",
-      "timestamp": "2026-03-31T17:01:57.000Z",
+      "timestamp": "2026-03-31T18:00:57.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Opinion | AI is a tool, not a new species &nbsp;&nbsp; The Washington Post",
+      "summary": "Opinion | A ‘post-human’ vision of AI is already causing problems &nbsp;&nbsp; The Washington Post",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWY5UlR3N3h4SzhUYkNsSjlDamh4VmhuV29iMVV5M0NEMVJnZG8tMDFOaGMyZHBPdzBSaHpWWnczbkNaelRIY2ozNjhyUE84N3NQUkpXTEM2a0oxWWNJblNZcGhRQm5xa1lacFNxR2paWFd5OGdCVTF1Uks5Qm9nZGI2bURWZ0xMZXRhMVVNSQ?oc=5"
     },
     {
       "headline": "Penguin to sue OpenAI over ChatGPT version of German children’s book - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-03-31T16:34:00.000Z",
+      "timestamp": "2026-03-31T16:55:00.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Penguin to sue OpenAI over ChatGPT version of German children’s book &nbsp;&nbsp; The Guardian",
@@ -37,7 +37,7 @@
       "timestamp": "2026-03-31T16:22:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; VentureBeat Anthropic's AI Coding Tool Leaks Its Own Source Code For The Second Time In A Year &nbsp;&nbsp; NDTV Anthropic admits Claude Code quotas running out too fast &nbsp;&nbsp; theregister.com",
+      "summary": "Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; VentureBeat Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune Anthropic's AI Coding Tool Leaks Its Own Source Code For The Second Time In A Year &nbsp;&nbsp; NDTV",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakEtRTZ1UjF0LXdCWDRNSHh0cGFhMWhubEtwTG1wcmlNeFVCcW9fS1U4Q2o4ZUhNWjRXdFRCUld5TVUzZ21ac1BHcXpGQk9HUkF4WXZnRld2WURzMUpSTzhnZDN2NjRGcFNQUzFBX2VZTkxQRWUtUFA5NWEwV2d6VEt2NEdSQTV2Q0ljUzMwMlhZdHlOMUx6UFp5MlZXWWhCWHRF?oc=5"
     },
@@ -52,24 +52,34 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3NFTFp5T2ZtbFVXQjBXRWlUMGVCMmR0cE1vc0J3SFBaMTFRYkVwbzNfRVVJS1JVTGROZlBiVnB2NFdxelBhSFdrMmV0NGZ5RmN3dlRiMG9wX3ZzWEtaVnZXWG9vWi1qRDhrel9MNDV2SDdYVDVUMGdpTzNjbVd0WlhOX25DVHc0R1hVLVIxYkFQSThVYlVvUGVucFU1RDhxR2hn?oc=5"
     },
     {
-      "headline": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market? - Ars Technica",
-      "source": "Ars Technica",
-      "timestamp": "2026-03-31T14:01:33.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market? &nbsp;&nbsp; Ars Technica",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODQ4ZzVxVnAxT1QyZm4weWg3WndKN18zM3RQQnlPbTc0YXRrZElaT2h6eDJMWEFCcGNxSzNBczhvVUd3bURvamotaVdLNmF2RDBQYXBER0t5NnAtOGhCZkxuMmRMZ0NVLUlEdlFCeEtXV1BlN0hmbVlQTkxVUFNMM012SkVKUk9vZnYtNTk2MWVOQnlsLXhFS1ZmakZiY3RieG1qczRnM0EwVEs5?oc=5"
-    },
-    {
       "headline": "How Google DeepMind is winning the AI financing race - Axios",
       "source": "Axios",
-      "timestamp": "2026-03-31T13:02:42.000Z",
+      "timestamp": "2026-03-31T13:05:24.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "How Google DeepMind is winning the AI financing race &nbsp;&nbsp; Axios",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1VPRE9mTzFlTW9XbVJueC1xbHU5MDZGYkJuZ2ctRzhTOXNfUG9oOThFOGxUZWp5SWNnejNkU2NuZ3d0SlFBS1RrXzR4SndWODFEd3FoeDVaLXhRTFhaX2dRNWlDMVpNNjUzSnBLcE9FWU1UMUlqeWtfZ3h2bVhBNk5majBua25BLWdpMQ?oc=5"
+    },
+    {
+      "headline": "Introducing Our First AI Glasses Built For Prescriptions - meta.com",
+      "source": "meta.com",
+      "timestamp": "2026-03-31T13:00:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Introducing Our First AI Glasses Built For Prescriptions &nbsp;&nbsp; meta.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QZzMwTmJFYnVUWm9XWWlSTUk1VTU4aXB3SDlmU2xQdDM4aXdzeElhYUg1cjVrTEVTNE1YVFd4ZjJZM1BEd3IxaWZpYlF5ZVdXYzdBLVRlRFFqUkIxMldldmcwVzVmc01pZlBnU1lZck9zd2xrTEtmeHZ0N0ttREXSAYQBQVVfeXFMT1RrQXlYbWxjRFpJdmREcGRWSE5zX1RjZkZLR2xGNERQbFFSZkNDaGFMQTVVYXdSUnpDYU1VZ1k1c1ZNcUQyZDM2eFFDdHVnSk9kbUw0UHpzSFduQUd5UHowYmlkQUt2QzFpenNSV3lDLXVRZVdLUzdEbkJ1SnJEY0EzcmVU?oc=5"
+    },
+    {
+      "headline": "Anthropic admits Claude Code quotas running out too fast - theregister.com",
+      "source": "theregister.com",
+      "timestamp": "2026-03-31T11:45:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic admits Claude Code quotas running out too fast &nbsp;&nbsp; theregister.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91RlF4NUZTWnZrWUtvZ1h1RkRzRGNiWnA3aEhWTDFxeHBnN1lOajRsQkw0eVhzeGVYUXRvQkl3NUVadlFla1RVc1lJNGxxUHg3R2wwUW1pZWQ5ZHQ0U0RRQkhDMS1NYzVoY3E5dnFGMHowamFXVGtB?oc=5"
     },
     {
       "headline": "Microsoft’s Azure Maia chief on the complex future of AI compute - Techzine Global",
@@ -82,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0VCemxpaHUzRXNIVGtwOUlSOVFjVFc1cUpBbWplX2dCM3NSMDFleUdJbWc5dElDSzZrSW9RTF9PYkt0UC1NQkpvNllVXy1ZclVkWUxmaE1jZGVOUktTMUcxRUFLamFrRkQ1ZmtPUTlvUDlTWUxfX3Fvd0p4Z0ZST01BUno0cDE2SmkxQjlyMWJRSUdGdE1uZmphelFwZFFENVVPN1N2Ym81RjdsT1E?oc=5"
     },
     {
-      "headline": "If OpenAI is to float on the stock market this year, it needs to start turning a profit - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-03-31T10:40:58.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "If OpenAI is to float on the stock market this year, it needs to start turning a profit &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQndhUV9LZVoydjd6OHFlUXFna0F0WUJOTEJjV1REeVpiMTBnUlo0ZTFCZ016cEp5Zzg5M0lncmt5by1VQjJKdS0wTVM2MEdtUGRoWFBCZkI4dlI4UklkRFUtdGhWQ2dRTkYwdW5xQlAtNjE1U1hBLW5KaElKaFNHNGtrRjBvZ05YR2RMeHhVOVc?oc=5"
+      "headline": "Kenya joins UK, US in probing controversial Ray-Ban Meta AI glasses - Daily Nation",
+      "source": "Daily Nation",
+      "timestamp": "2026-03-31T09:35:58.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Kenya joins UK, US in probing controversial Ray-Ban Meta AI glasses &nbsp;&nbsp; Daily Nation",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjFLLTlEUlBFQkRCODFoaWpYNURKMExHdncxT2lqRmg0a01sckdZUXFCaTY0a0txSElEeVZnS1dSS3Z0WjhVQUZpend4dFU4NXJkcXJmZTFVa2hGRWV2VlU5R1JBdGJzMFg0dVJyd3pia195QUVPWS1ZUVZ4MlZ6dEVLWWhvUUVOTVJQcHRqZXlTTTE3ZTFrd1ZVLUhDbmk4ekFJLTFuelRPTTg?oc=5"
     },
     {
       "headline": "Azure’s new AI modernization tools - InfoWorld",
@@ -100,33 +110,23 @@
       "summary": "Azure’s new AI modernization tools &nbsp;&nbsp; InfoWorld",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnhKRDVPXzFSdTQ3dEY2RzI3VVpRd3ozMTVhQ0ZyRTBlQWlBa19xckxNUERVekQ4a1hKRTRjdmoyZ0hnT2VscHN2SkZwOF9VVkhnbHNRaXd6SkVTaVZ0eWdIYUgxSVA0T3Zmby1aN2MyVmZxbXQ2WEtGOUFHWEdVU2l3OV8wT3M?oc=5"
-    },
-    {
-      "headline": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-03-30T16:38:54.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta’s $280 Billion Tailspin Sparks ‘Tobacco Moment’ Questions &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0VmVV8yMkI4VWg2cy1EVjBGbWkwR21aQ0pBV3lodzVBS2xOQVdTQWtYV0Q5a1V5bHh6MWVaVTNKS1B1ZlVyNTZOaTVyR1pfclZWN2Nib1QxLWNkT2N4TG5ST3hINmUtMURPLVplb0MtbHh5MVV0Q3c4OEVFd2Vta0JlYVVPbEZjckl0d3laUmgzS1RkdkRjcU0tamRjODY4ZzlZRjBTVXVMZk1Wa3N3?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Opinion | AI is a tool, not a new species - The Washington Post",
+        "headline": "Opinion | A ‘post-human’ vision of AI is already causing problems - The Washington Post",
         "source": "The Washington Post",
-        "timestamp": "2026-03-31T17:01:57.000Z",
+        "timestamp": "2026-03-31T18:00:57.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWY5UlR3N3h4SzhUYkNsSjlDamh4VmhuV29iMVV5M0NEMVJnZG8tMDFOaGMyZHBPdzBSaHpWWnczbkNaelRIY2ozNjhyUE84N3NQUkpXTEM2a0oxWWNJblNZcGhRQm5xa1lacFNxR2paWFd5OGdCVTF1Uks5Qm9nZGI2bURWZ0xMZXRhMVVNSQ?oc=5",
-        "summary": "Opinion | AI is a tool, not a new species &nbsp;&nbsp; The Washington Post"
+        "summary": "Opinion | A ‘post-human’ vision of AI is already causing problems &nbsp;&nbsp; The Washington Post"
       },
       {
         "headline": "Penguin to sue OpenAI over ChatGPT version of German children’s book - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-03-31T16:34:00.000Z",
+        "timestamp": "2026-03-31T16:55:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5",
@@ -139,7 +139,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakEtRTZ1UjF0LXdCWDRNSHh0cGFhMWhubEtwTG1wcmlNeFVCcW9fS1U4Q2o4ZUhNWjRXdFRCUld5TVUzZ21ac1BHcXpGQk9HUkF4WXZnRld2WURzMUpSTzhnZDN2NjRGcFNQUzFBX2VZTkxQRWUtUFA5NWEwV2d6VEt2NEdSQTV2Q0ljUzMwMlhZdHlOMUx6UFp5MlZXWWhCWHRF?oc=5",
-        "summary": "Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; VentureBeat Anthropic's AI Coding Tool Leaks Its Own Source Code For The Second Time In A Year &nbsp;&nbsp; NDTV Anthropic admits Claude Code quotas running out too fast &nbsp;&nbsp; theregister.com"
+        "summary": "Claude Code's source code appears to have leaked: here's what we know &nbsp;&nbsp; VentureBeat Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune Anthropic's AI Coding Tool Leaks Its Own Source Code For The Second Time In A Year &nbsp;&nbsp; NDTV"
       },
       {
         "headline": "Armada to Deliver Sovereign AI at the Edge with Microsoft Azure Local - Yahoo Finance",
@@ -151,22 +151,22 @@
         "summary": "Armada to Deliver Sovereign AI at the Edge with Microsoft Azure Local &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market? - Ars Technica",
-        "source": "Ars Technica",
-        "timestamp": "2026-03-31T14:01:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODQ4ZzVxVnAxT1QyZm4weWg3WndKN18zM3RQQnlPbTc0YXRrZElaT2h6eDJMWEFCcGNxSzNBczhvVUd3bURvamotaVdLNmF2RDBQYXBER0t5NnAtOGhCZkxuMmRMZ0NVLUlEdlFCeEtXV1BlN0hmbVlQTkxVUFNMM012SkVKUk9vZnYtNTk2MWVOQnlsLXhFS1ZmakZiY3RieG1qczRnM0EwVEs5?oc=5",
-        "summary": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market? &nbsp;&nbsp; Ars Technica"
-      },
-      {
         "headline": "How Google DeepMind is winning the AI financing race - Axios",
         "source": "Axios",
-        "timestamp": "2026-03-31T13:02:42.000Z",
+        "timestamp": "2026-03-31T13:05:24.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1VPRE9mTzFlTW9XbVJueC1xbHU5MDZGYkJuZ2ctRzhTOXNfUG9oOThFOGxUZWp5SWNnejNkU2NuZ3d0SlFBS1RrXzR4SndWODFEd3FoeDVaLXhRTFhaX2dRNWlDMVpNNjUzSnBLcE9FWU1UMUlqeWtfZ3h2bVhBNk5majBua25BLWdpMQ?oc=5",
         "summary": "How Google DeepMind is winning the AI financing race &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Introducing Our First AI Glasses Built For Prescriptions - meta.com",
+        "source": "meta.com",
+        "timestamp": "2026-03-31T13:00:01.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QZzMwTmJFYnVUWm9XWWlSTUk1VTU4aXB3SDlmU2xQdDM4aXdzeElhYUg1cjVrTEVTNE1YVFd4ZjJZM1BEd3IxaWZpYlF5ZVdXYzdBLVRlRFFqUkIxMldldmcwVzVmc01pZlBnU1lZck9zd2xrTEtmeHZ0N0ttREXSAYQBQVVfeXFMT1RrQXlYbWxjRFpJdmREcGRWSE5zX1RjZkZLR2xGNERQbFFSZkNDaGFMQTVVYXdSUnpDYU1VZ1k1c1ZNcUQyZDM2eFFDdHVnSk9kbUw0UHpzSFduQUd5UHowYmlkQUt2QzFpenNSV3lDLXVRZVdLUzdEbkJ1SnJEY0EzcmVU?oc=5",
+        "summary": "Introducing Our First AI Glasses Built For Prescriptions &nbsp;&nbsp; meta.com"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
