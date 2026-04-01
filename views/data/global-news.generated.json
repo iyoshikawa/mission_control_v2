@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-01T05:23:04.918Z",
+    "generatedAt": "2026-04-01T07:19:14.031Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Indian shares open higher on expectations Iran war could end soon",
-      "summary": "Indian shares open higher on expectations Iran war could end soon &nbsp;&nbsp; Reuters",
+      "headline": "Indian fuel retailers raise jet fuel, commercial LPG prices amid Middle East war",
+      "summary": "Indian fuel retailers raise jet fuel, commercial LPG prices amid Middle East war &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-01T02:33:00.000Z",
+      "timestamp": "2026-04-01T04:27:00.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3lfcmhzS2NaeWQ1ZVFmX0pMRDV1U29MNGJUR0ExZWhCU2JKTFUybEMwTUxUX3BkbHVCZWo2UkhHUUNGeVZ2QWNENS1qemFuNnh6OXJjSnpQbC12akVRODBBZktrbDQzQm1UeEkyQlFGeXVGS1VSNWNIRTdSVkZONWxHNm9jTWM1ZGhfT0lEZnF1cFRSYWgzNEMtYjRvU3FzajZ6SktzYzBIeU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVlyMTdieUo0c28wZTNYMlNMNVpOOExGU19jZE9ZV3ZreHFnWVBnYktXY0ozeTZqVkRtb0pDNFN6YlEwbnJ5RWtQSFppWkJIc2NaNDdyeVRzdkZ4SnduMk5qSVQ2VnZOb055NHl3bnBEeURHZEdtbVlnV3FrdmVVNDBiemI0OEExWUhLODk3QmpCdTdjNUFiU2VVOXYwb1FITDRfTFp0cw?oc=5"
+    },
+    {
+      "headline": "Gold steady near two-week highs on MidEast de-escalation reports",
+      "summary": "Gold steady near two-week highs on MidEast de-escalation reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-01T03:02:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONnJidDM3QlJIWjFTanFlMGZNelE4SmlnZEJoLWlXYkFSRVotTG0zYXVwR3ZhQnRUMTQyVlU4cnBuRUd0U1M4dU4tWmM1RFdER0xOUUZ3d2tya2dMbi12Tm9heXNzSDZMcm1kaVFHdWVXVVUtcHYzUndhSVJtQUxnR2V2OG1kTlRFS0EwQktWYWlHMkVxek5XUHpidlp5eHFSUGx4Yg?oc=5"
+    },
+    {
+      "headline": "India allows export zones to sell locally as trade strains grow",
+      "summary": "India allows export zones to sell locally as trade strains grow &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-01T02:14:00.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbU9QbVRrX3JSb2VvUlRzU1BkaUhWNnZ5alJ5RVYybEgwamU2Tjllenl6WFBJN0tvbUVncXY3ejJEc09jUU1lZkh2T0ZINXlLWmYxbUV6QW1kYmZwUkNrbWNqU2gwZGFQZWEtdUJNZ1NrRkNMZ2hjbDdaQ0R4aER0LS1xT0p6ZVRIUTJVVUwwU29uSW1WV0s0VFA3RkpkbHNLYzRDWXFqd084dVRpaWkzRnhqOFhIOEFZN3c?oc=5"
+    },
+    {
+      "headline": "Rubio says US can see 'finish line' on Iran war",
+      "summary": "Rubio says US can see 'finish line' on Iran war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-01T02:01:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaktmc3BjWWpxV1poQmZET0JLMVFab0NrMlJFQUVlWmkzRENFZDR0eDRYcWVHS2pMel93YndBRHk2X0hkSUZOeEUyRTctTUZDQVN0Q0xOdUJXVlZKNFV3UHBleEF1VXZrV0ozbUdNM2ZRNndGWXhEQjJhYXRqNUs2bDNmLWNueHR3T2dwS2VxWlB4Qk9uWTNZazFrQzc?oc=5"
     },
     {
       "headline": "Asia markets rally on optimism Iran war could end soon",
@@ -45,19 +78,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQakNoaGo5QjdtQWJuTTlUNldLYTJHbllBMmV6TDRCdWZxYjhqblFKeEVmVjM4S3pBc0lmZGlhUEd5TUthSEtuandLVDExUTZfRVN5RjZseDZoQUVkQ3ZqTFhRd0YzdGJOMVJ0MnJBMnB2ekE4T1hTcDcybXhSM01vZzViVWg0NlhZZWVkb294dkZrRWk2Z1VKTEE2aHpwSHlmYllPX0s1SDd0YXRrUzlmYw?oc=5"
     },
     {
-      "headline": "Dollar stays stable after Trump says Iran war could finish soon",
-      "summary": "Dollar stays stable after Trump says Iran war could finish soon &nbsp;&nbsp; Reuters",
+      "headline": "South Korea chip boom powers export growth to four-decade high",
+      "summary": "South Korea chip boom powers export growth to four-decade high &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-01T00:45:00.000Z",
+      "timestamp": "2026-04-01T00:38:00.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQakNoaGo5QjdtQWJuTTlUNldLYTJHbllBMmV6TDRCdWZxYjhqblFKeEVmVjM4S3pBc0lmZGlhUEd5TUthSEtuandLVDExUTZfRVN5RjZseDZoQUVkQ3ZqTFhRd0YzdGJOMVJ0MnJBMnB2ekE4T1hTcDcybXhSM01vZzViVWg0NlhZZWVkb294dkZrRWk2Z1VKTEE2aHpwSHlmYllPX0s1SDd0YXRrUzlmYw?oc=5"
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWFWdHp3MWVhS1l1Nm1NdFZEaEVWMjV0NUZnM0w3emw4R0ZSNlJiT0hGTUhHN3B4ODk3ZTVOcUhfdElMbTZXSE85Wm1GS1pCREo4Q3l3TnVmLXg2TXMyMFBuSnlZSUhzNU9jN2NsY1B1S3VIVmZEbTkzMXdmdU11WWZnZmFETVZUVzVQbGpSWjN4TEFtbTM0RC1mMVRyY2tzMDFOWlUzRHRGQUVyVHo4OGc5UHI?oc=5"
     },
     {
-      "headline": "Trump says the US could end the Iran war in two to three weeks",
-      "summary": "Trump says the US could end the Iran war in two to three weeks &nbsp;&nbsp; Reuters",
+      "headline": "US eyes swift end to war as fresh attacks hit Gulf states and Iran",
+      "summary": "US eyes swift end to war as fresh attacks hit Gulf states and Iran &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-03-31T23:31:00.000Z",
       "impact": "HIGH",
@@ -65,39 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWNIcFhzTVphcmZFN3RseUw4ZlFOSFpPZnZ2RGh5RGw3bVZmSUpoR1VjR1hmeFk1NGExWEQxUTk2TUd3bnY4ZHZpUlpCSmNwZDQtT3BMRHZOOFFwcWlidkdGcHZ0Rm9DeFJzb3ZXNlBXSnJjV1JpRmRzTlNETHNqUnRzWm5ISFdzSXV0Vk44WXpqQURWbWZrRWxwZkdQV1huZTR2Sm53?oc=5"
-    },
-    {
-      "headline": "Trump says U.S. could end Iran war in two to three weeks",
-      "summary": "Trump says U.S. could end Iran war in two to three weeks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-31T23:12:16.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHhsRkpySzlWbTkzQnZwTmRRZ2FiQ3V0NGVlOWJkcldneU9fZUczU19uYmNqNGF0R3V4SkdXMEJzQjVHQngxQTFqdmxmS1VWVnNhZThEcTRjZjB1b3l4UkZOV05zaS1SeFJkQ1JrUURCNEJHZWs3TFNtTmVibV9ZU3pZcVZnU0ktUzBQWTJ6c0MzLTdHdkUtWlYwYkRGUE92Y3Z4VGhjMWY?oc=5"
-    },
-    {
-      "headline": "Wall Street soars as traders bet on potential war off-ramp",
-      "summary": "Wall Street soars as traders bet on potential war off-ramp &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-31T23:08:18.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXVxVmE4NDB2clUydHU5WE9ucGltalVzLXhRd1ByNDNVMksyQzRUSEpkeWg1UjIyUG5nQWlGOWJ3bXJzanVDN3ZpNlpQR25QN1NSQV9sUGlWVWY3S0ROWWlZRE5qUGRQUEJ1MlBkUHA0bEZVZHpjS1RkVzB2MDRHcG1TLXpsVGtCZDRQQmx2cmphajlOb01ZUEM4SU1QM29xNHRLelkwOVY3eXoxUlJxWk12aXhPZ1RBSm5rYQ?oc=5"
-    },
-    {
-      "headline": "At least seven killed in Israeli strikes in Beirut area, Lebanon says",
-      "summary": "At least seven killed in Israeli strikes in Beirut area, Lebanon says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-03-31T22:40:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnZwSnp2Nk9ZaHh1QnE3TnhMSVNqd25tcHRrNEY4Y2cxZTByUklsWkNXeTJuc1djNWtuQm1CcVVuakhMYi1WRVYycUJNY2UtTU1PQ3R5dFNsT1E5Mmh3eXRjMkRKSjYzdFNTNWFHQkNlamstQmEzTGpiVmFFeHJNMkdkWHg1ODhZN2VITXZMOUEyWl95U3h2ai1VV1V2aXNiVGZWWDZXS3NSek1tNFBPZ1B4bGd3ZWZKMUxGQjlwYmk?oc=5"
     }
   ]
 }
