@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-01T11:02:52.625Z",
+    "generatedAt": "2026-04-01T13:46:11.577Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,22 +12,32 @@
   },
   "newsFeed": [
     {
-      "headline": "The AI Video Apps Gaining Ground After OpenAI Declared Sora Dead - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-01T10:00:12.000Z",
+      "headline": "OpenAI’s Fund Raise Shows ChatGPT Parent Worth $852 Billion Ahead of IPO. Who Bought. - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-04-01T13:41:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI’s Fund Raise Shows ChatGPT Parent Worth $852 Billion Ahead of IPO. Who Bought. &nbsp;&nbsp; Barron's",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOMTNvRUdyM1NxSmFzVGNrRnpzMFpJUllfanVkSVE4Y1lEUGw0SDY2blppaDRJeHBIVmhDcC1lc1h2bUJ0bkhJQUdXSWJ3Z2FXYjBDNU82UWFtVlA5SmlOYVU4SHpkWUh6eGpaajlNNjFYaVNyNjlzLUJ2OUl2Szg2eFMwV0xMOEptU2NzTW1lQktlTTg5RG1YM2ZudWk1MnIyRmZYZFIzNDFLcHlxTzNoS2hnM2x6eGplcDFfRmxJVktPQW5NT2pLcUtsVko2czZIVExiRHg5Z0s4cEU1bERKRHpKNjU4eHhVc1czMnJEeUxiMHdXS3laWlA4TUpQaVRwdmd1ZDh5SzNyMXZBWWg3Z3JUSGY1NVlRZ1pUOGVCMjFSNFJIYWozNHJFSWluQWtHcGVid0JMRlBuT195WEJTS1N0UHpnWk8wUkNwNm5WNDlNTUJ6VVBUU21DUjNsaFhGNVRQQldDYTBTMVlBVmhKV3RmMC15XzNGX2NEa05pS0ZDTXlBUWtkcDRXZUs?oc=5"
+    },
+    {
+      "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
+      "source": "The Economist",
+      "timestamp": "2026-04-01T12:51:24.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The AI Video Apps Gaining Ground After OpenAI Declared Sora Dead &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkc4MGs2Q1ZCUHZmSTBhRzUtRUpqd1ZHdkhmWWtrZWdyVnVDUlQyb2hxNTFsbXFEX1FKeUN2bmFvRmRxQTVoUXY5alR3ZEVTRUVDSzExd2IxZ3ROczh4M0lJWGljenRESlp2UTlvT2tDaUI1NTdWRmVmZW02VmEtd0Rzb0ZRQzlIOEdIUkFVZDBHbzU3TFQ5Z1NsaktnaVZFMG1aak43TmJPaXg0ZlNyQzlTMHMzZ1AzdjU3SXRFcEk4dw?oc=5"
+      "summary": "Who is Demis Hassabis, the man behind Google DeepMind? &nbsp;&nbsp; The Economist",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5"
     },
     {
       "headline": "Anthropic leaked 500,000 lines of its own source code - Axios",
       "source": "Axios",
-      "timestamp": "2026-04-01T08:05:08.000Z",
+      "timestamp": "2026-04-01T11:00:12.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent &nbsp;&nbsp; The Verge Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC",
+      "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune Claude Code users hitting usage limits 'way faster than expected' &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5"
     },
@@ -40,6 +50,16 @@
       "summary": "Meta Deploys AI to Accelerate and Enhance Risk Review During Product Development &nbsp;&nbsp; PYMNTS.com",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMV8zeEJ5a1JjUnJkVFNwNm9HbzhGZ2JPOGVYTkxBYmdBVnBGdGxOQTdnQXpzckxTRDhYbEVmV2hKb1F5c0w5Z1dTa3lLYTVmTmMyU2xaWVNsXzdkTlpSaDZiQzJfTUtIcFhnWWhtQkJ5aE1hNW8tVUFZQ3h6Z3JqX2xTaDFlTWtyU2FGTUM0YmZvS01VTXBPYWh1VFRRSzgyTHc0em13VHZjSjBDQ1NZNXNYaWM?oc=5"
+    },
+    {
+      "headline": "Anthropic is having a month - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-03-31T23:58:26.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic is having a month &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52TVZSR3NST1g1R3g3cnlXd2ZQeEFzYWlqM1RLdzNrR3NZMm1IQTFUVXFZNW1vbWNTOVJNRFVWbTdnUWwzd0hHY0RETmFsVmgtZTMyTDJEQVpwbjJENVNlbDdMOGJjRUkwWDEwREx4MA?oc=5"
     },
     {
       "headline": "How Australia Uses Claude: Findings from the Anthropic Economic Index - Anthropic",
@@ -60,16 +80,6 @@
       "summary": "Australian government and Anthropic sign MOU for AI safety and research &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtWjl0TEFOeUh0RVVPRzJLanJyeU1IcC1EaWlJS01iRGhYUXVXY0tpUm05b3JxRDZjeXVybGU5ZjBxRVpoNkRmcVlWU3ZhZnZDZlBGWnZWRQ?oc=5"
-    },
-    {
-      "headline": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-03-31T22:33:49.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic to sign deal with Australia on AI safety and economic data tracking &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWNRLXl2TUphNnVYcU1zQ0lYanVTZ0haV2xrLWo2d0ZkSW1TSlZabkxPeURNcHZ4eC1CWHlsR3dsa18xclNXWnpPRVNYcmVPUmRqalFldU1yQS1lQjlWaXV5cTM0WW1tQTlzVDhFdVBnUi1uZkFOc1FUbXRvTzlodFp6aFdNMDdST0V0Q09jZk51UFR2V1hFYUxxX1pZZw?oc=5"
     },
     {
       "headline": "Gallagher accelerates claims processing by up to 90% with AI tools built on Microsoft Foundry - Microsoft",
@@ -99,38 +109,37 @@
       "category": "market",
       "summary": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQdGpYaWFOM1pPUEpvckhWbHpJbXNTUzI4ajRHRTlOdXJjdzZOSzJQd0NzVjNaOWVtdGQ4Q0R3WWZxRjZpb1BHVmxadllqSU9STEZBU3p2YUVhSkE3bnI5cWQzOGpSTGcwMkU3UThB0gFzQVVfeXFMT2l5MW95UndVNWdBZldmVzBFWFpFWEpUUTNBZHlaaTdBMGZyQkRFWUJKV1A4NDlhai1ySEFuaVI3UERnRFhGMU55c0sxRlV4UEcwdjNxendlamtTd3p5dm5zV0hvcFM5VUJQNGJIeFR0bkxiMA?oc=5"
-    },
-    {
-      "headline": "Penguin to sue OpenAI over ChatGPT version of German children’s book - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-03-31T16:55:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Penguin to sue OpenAI over ChatGPT version of German children’s book &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQdGpYaWFOM1pPUEpvckhWbHpJbXNTUzI4ajRHRTlOdXJjdzZOSzJQd0NzVjNaOWVtdGQ4Q0R3WWZxRjZpb1BHVmxadllqSU9STEZBU3p2YUVhSkE3bnI5cWQzOGpSTGcwMkU3UThB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "The AI Video Apps Gaining Ground After OpenAI Declared Sora Dead - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-04-01T10:00:12.000Z",
+        "headline": "OpenAI’s Fund Raise Shows ChatGPT Parent Worth $852 Billion Ahead of IPO. Who Bought. - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-04-01T13:41:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkc4MGs2Q1ZCUHZmSTBhRzUtRUpqd1ZHdkhmWWtrZWdyVnVDUlQyb2hxNTFsbXFEX1FKeUN2bmFvRmRxQTVoUXY5alR3ZEVTRUVDSzExd2IxZ3ROczh4M0lJWGljenRESlp2UTlvT2tDaUI1NTdWRmVmZW02VmEtd0Rzb0ZRQzlIOEdIUkFVZDBHbzU3TFQ5Z1NsaktnaVZFMG1aak43TmJPaXg0ZlNyQzlTMHMzZ1AzdjU3SXRFcEk4dw?oc=5",
-        "summary": "The AI Video Apps Gaining Ground After OpenAI Declared Sora Dead &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOMTNvRUdyM1NxSmFzVGNrRnpzMFpJUllfanVkSVE4Y1lEUGw0SDY2blppaDRJeHBIVmhDcC1lc1h2bUJ0bkhJQUdXSWJ3Z2FXYjBDNU82UWFtVlA5SmlOYVU4SHpkWUh6eGpaajlNNjFYaVNyNjlzLUJ2OUl2Szg2eFMwV0xMOEptU2NzTW1lQktlTTg5RG1YM2ZudWk1MnIyRmZYZFIzNDFLcHlxTzNoS2hnM2x6eGplcDFfRmxJVktPQW5NT2pLcUtsVko2czZIVExiRHg5Z0s4cEU1bERKRHpKNjU4eHhVc1czMnJEeUxiMHdXS3laWlA4TUpQaVRwdmd1ZDh5SzNyMXZBWWg3Z3JUSGY1NVlRZ1pUOGVCMjFSNFJIYWozNHJFSWluQWtHcGVid0JMRlBuT195WEJTS1N0UHpnWk8wUkNwNm5WNDlNTUJ6VVBUU21DUjNsaFhGNVRQQldDYTBTMVlBVmhKV3RmMC15XzNGX2NEa05pS0ZDTXlBUWtkcDRXZUs?oc=5",
+        "summary": "OpenAI’s Fund Raise Shows ChatGPT Parent Worth $852 Billion Ahead of IPO. Who Bought. &nbsp;&nbsp; Barron's"
+      },
+      {
+        "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
+        "source": "The Economist",
+        "timestamp": "2026-04-01T12:51:24.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5",
+        "summary": "Who is Demis Hassabis, the man behind Google DeepMind? &nbsp;&nbsp; The Economist"
       },
       {
         "headline": "Anthropic leaked 500,000 lines of its own source code - Axios",
         "source": "Axios",
-        "timestamp": "2026-04-01T08:05:08.000Z",
+        "timestamp": "2026-04-01T11:00:12.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5",
-        "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent &nbsp;&nbsp; The Verge Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC"
+        "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Anthropic leaks its own AI coding tool’s source code in second major security breach &nbsp;&nbsp; Fortune Claude Code users hitting usage limits 'way faster than expected' &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Meta Deploys AI to Accelerate and Enhance Risk Review During Product Development - PYMNTS.com",
@@ -142,6 +151,15 @@
         "summary": "Meta Deploys AI to Accelerate and Enhance Risk Review During Product Development &nbsp;&nbsp; PYMNTS.com"
       },
       {
+        "headline": "Anthropic is having a month - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-03-31T23:58:26.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52TVZSR3NST1g1R3g3cnlXd2ZQeEFzYWlqM1RLdzNrR3NZMm1IQTFUVXFZNW1vbWNTOVJNRFVWbTdnUWwzd0hHY0RETmFsVmgtZTMyTDJEQVpwbjJENVNlbDdMOGJjRUkwWDEwREx4MA?oc=5",
+        "summary": "Anthropic is having a month &nbsp;&nbsp; TechCrunch"
+      },
+      {
         "headline": "How Australia Uses Claude: Findings from the Anthropic Economic Index - Anthropic",
         "source": "Anthropic",
         "timestamp": "2026-03-31T22:44:55.000Z",
@@ -149,31 +167,13 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oRmdLM0pZZ3VTQzZQdlZmanhFcWNBUVVXWTNhcTNXd3JYTzFwVmpLMHF3dVdSc1MyVU9vUDdMMUdRRXBYc2o4REo5WnpEbUlkV2JnWXp3ZXpVWW9UeGxac196VnM2Q1Q2Q1loeQ?oc=5",
         "summary": "How Australia Uses Claude: Findings from the Anthropic Economic Index &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Australian government and Anthropic sign MOU for AI safety and research - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-03-31T22:42:57.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtWjl0TEFOeUh0RVVPRzJLanJyeU1IcC1EaWlJS01iRGhYUXVXY0tpUm05b3JxRDZjeXVybGU5ZjBxRVpoNkRmcVlWU3ZhZnZDZlBGWnZWRQ?oc=5",
-        "summary": "Australian government and Anthropic sign MOU for AI safety and research &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-03-31T22:33:49.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWNRLXl2TUphNnVYcU1zQ0lYanVTZ0haV2xrLWo2d0ZkSW1TSlZabkxPeURNcHZ4eC1CWHlsR3dsa18xclNXWnpPRVNYcmVPUmRqalFldU1yQS1lQjlWaXV5cTM0WW1tQTlzVDhFdVBnUi1uZkFOc1FUbXRvTzlodFp6aFdNMDdST0V0Q09jZk51UFR2V1hFYUxxX1pZZw?oc=5",
-        "summary": "Anthropic to sign deal with Australia on AI safety and economic data tracking &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
