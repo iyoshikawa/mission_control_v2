@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-02T09:04:20.958Z",
+    "generatedAt": "2026-04-02T10:56:24.949Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,19 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic Is Learning That There Are No Take-Backs on the Internet - businessinsider.com",
+      "source": "businessinsider.com",
+      "timestamp": "2026-04-02T10:51:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Is Learning That There Are No Take-Backs on the Internet &nbsp;&nbsp; businessinsider.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU24td3dfVUhWd3ZjMGhXSEFPSlZCTTA4c0ZWTWhuZHRfVDEwMUJUQnlmMERZTjNrVk5YUXAwaGItRjlyZ01MMm43NGFwOFZrVkt1NExQQlVMb0x6RURqSkt3MG91bGNDNW81TTVhbTlfZHJmdWdpUWpZQm56Z2dJUVBKdHFJN3Vv?oc=5"
+    },
+    {
       "headline": "AI labs enter compute wars - Axios",
       "source": "Axios",
-      "timestamp": "2026-04-02T08:36:50.000Z",
+      "timestamp": "2026-04-02T09:29:53.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "AI labs enter compute wars &nbsp;&nbsp; Axios",
@@ -52,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5"
     },
     {
-      "headline": "Claude Code users hitting usage limits 'way faster than expected' - BBC",
-      "source": "BBC",
-      "timestamp": "2026-04-01T11:59:19.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude Code users hitting usage limits 'way faster than expected' &nbsp;&nbsp; BBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSkdodkZoZ041NEItZDRLSVpmQnhwdmkwUldobjN1S3NwMWlMdDVPTXNEdi0yQThadFBrak1wNk1lZ0piUlpjdXk1QU1FMmRQZHE0OThpQjBRZw?oc=5"
-    },
-    {
       "headline": "The OpenAI Graveyard: All The Deals And Products That Haven’t Happened - Forbes",
       "source": "Forbes",
       "timestamp": "2026-04-01T10:30:00.000Z",
@@ -75,21 +75,31 @@
       "headline": "Anthropic leaked 500,000 lines of its own source code - Axios",
       "source": "Axios",
       "timestamp": "2026-04-01T09:34:40.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent &nbsp;&nbsp; The Verge Anthropic Races to Contain Leak of Code Behind Claude AI Agent &nbsp;&nbsp; WSJ",
+      "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent &nbsp;&nbsp; The Verge Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5"
     },
     {
-      "headline": "Meta has a new elite AI unit. Find out who joined. - Business Insider",
-      "source": "Business Insider",
+      "headline": "Meta has a new elite AI unit. Find out who joined. - businessinsider.com",
+      "source": "businessinsider.com",
       "timestamp": "2026-04-01T09:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta has a new elite AI unit. Find out who joined. &nbsp;&nbsp; Business Insider",
+      "summary": "Meta has a new elite AI unit. Find out who joined. &nbsp;&nbsp; businessinsider.com",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOG1iSms1YXhxYS1hNG82TmFrRXk2Vnk3d3RDWW43SDhBUDRTSzlMSE55NHI4b2hSRU1CT3FnYjV4NTNqZTZWaWQ2UXA4YkZEWmczYU42VHNyRVVhQUJBN05NMkJreGdHcm9YUUtKY0pFazdVY25RdmFlbFFIVU5tbnRaTTVRbXBIcGNCUGl3MHVqYUJnMDZHazZ2UFAyd3NVWnBjTklR?oc=5"
+    },
+    {
+      "headline": "Perplexity AI Machine Accused of Sharing Data With Meta, Google - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-01T02:10:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Perplexity AI Machine Accused of Sharing Data With Meta, Google &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmFCbGh3em0wbnVNWHJQa1RXcmlMeHNuY1VHNzV5Qi10cjltbDVGWHlyaXdPRHMwU0pZWmNQX0ZNdkpDemtCWXM4cVVzRWVfcm1uQVlXMmtlRE5oQ2VVb1BvNjhtWXZnRU4wdkptU1I5OFZycjlLdVdoWV9COHp4YTR2NHF1aU56bEdTQndxdUYwVnVPc2NBNVp0ZVBKZFh0ckJodC1uSzd5aG5mam96eXZCcw?oc=5"
     },
     {
       "headline": "OpenAI raises $122 billion to accelerate the next phase of AI - OpenAI",
@@ -100,24 +110,23 @@
       "summary": "OpenAI raises $122 billion to accelerate the next phase of AI &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bDc0Y3Myc2RjdHlZVUNEdVN4SjMzZVJlcjRVR3V1UzRCT3NqRHdkbXp5dFdUdUpUcUdGYVVoNS1DX0xUbHJSYXpDbkRTYnpGbGVwMFl2RTFsWmp2N0RvYjhZOW1NWTg?oc=5"
-    },
-    {
-      "headline": "Armada Unveils Sovereign AI Edge Computing with Microsoft Azure Local - National Today",
-      "source": "National Today",
-      "timestamp": "2026-03-31T18:16:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Armada Unveils Sovereign AI Edge Computing with Microsoft Azure Local &nbsp;&nbsp; National Today",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTVKWmMxazUtT1dWc2VqRDRtMlR3SkNWM1I5NXdmaU03bGlYbXZQdzh1aDlKeV9nTmN2dFozeGdFVDZabU9JRllGVzFzY2h2eWJHQUJSMkVRZmJDSnVzTVBILXNpTlkwdk12TjBYTWcyNFJZR2ZJb0ZXTVZDMXZrcTBtUEdqbzY0NWpMMU5rWmVOMFhjdkUtemxMa0NaUm82ZVpNN1loYldJUWpWWk9zOEdUWnlQVk05cmY5WHQtNkx2OFJiRVJDT0p5dWY?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Anthropic Is Learning That There Are No Take-Backs on the Internet - businessinsider.com",
+        "source": "businessinsider.com",
+        "timestamp": "2026-04-02T10:51:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU24td3dfVUhWd3ZjMGhXSEFPSlZCTTA4c0ZWTWhuZHRfVDEwMUJUQnlmMERZTjNrVk5YUXAwaGItRjlyZ01MMm43NGFwOFZrVkt1NExQQlVMb0x6RURqSkt3MG91bGNDNW81TTVhbTlfZHJmdWdpUWpZQm56Z2dJUVBKdHFJN3Vv?oc=5",
+        "summary": "Anthropic Is Learning That There Are No Take-Backs on the Internet &nbsp;&nbsp; businessinsider.com"
+      },
+      {
         "headline": "AI labs enter compute wars - Axios",
         "source": "Axios",
-        "timestamp": "2026-04-02T08:36:50.000Z",
+        "timestamp": "2026-04-02T09:29:53.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16ZmQ3OGdDZmUwRG9EQ3BjNGY1eVZKY1Y3QmNoUHJTcVVzR3lPSVUxSGJLbVJaaVJqQzBkbHZ5dDZXckZ6aVk3X0cyUjhWbjBxcXRwT0dFV0lxLW1veW5FQXRtZy1LX3I3YllHeGdZcw?oc=5",
@@ -151,15 +160,6 @@
         "summary": "Who is Demis Hassabis, the man behind Google DeepMind? &nbsp;&nbsp; The Economist"
       },
       {
-        "headline": "Claude Code users hitting usage limits 'way faster than expected' - BBC",
-        "source": "BBC",
-        "timestamp": "2026-04-01T11:59:19.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSkdodkZoZ041NEItZDRLSVpmQnhwdmkwUldobjN1S3NwMWlMdDVPTXNEdi0yQThadFBrak1wNk1lZ0piUlpjdXk1QU1FMmRQZHE0OThpQjBRZw?oc=5",
-        "summary": "Claude Code users hitting usage limits 'way faster than expected' &nbsp;&nbsp; BBC"
-      },
-      {
         "headline": "The OpenAI Graveyard: All The Deals And Products That Haven’t Happened - Forbes",
         "source": "Forbes",
         "timestamp": "2026-04-01T10:30:00.000Z",
@@ -172,9 +172,9 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
