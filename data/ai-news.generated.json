@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-02T13:25:30.605Z",
+    "generatedAt": "2026-04-02T15:01:40.759Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "DOJ to Appeal Court Order Halting Trump’s Ban on Anthropic AI - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-02T13:56:17.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "DOJ to Appeal Court Order Halting Trump’s Ban on Anthropic AI &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTdRVmtvYVhrVHBCVTUxSW54ZmIzZ3ZHdlFESXoyQmkzeVhCOGtBam51U3RwN2FMQ0t4N3hQaGY4eFk5bG5aT2FYaWZtc0d5UlpqRkhidm56MTZkNmE2dWhSbG52TlJLVnBzYjZtV3J4WXhzcjlBT1B2X1U4OUNkUXRIcU5rYTdHSExoN3hVNGRoTk4ybmMzekZuNHVJVUlIczJWX0E4TG1LREYyY25NQXNR?oc=5"
+    },
+    {
       "headline": "Anthropic’s AI code leak ignites frenzy among Chinese developers - South China Morning Post",
       "source": "South China Morning Post",
       "timestamp": "2026-04-02T12:00:17.000Z",
@@ -20,16 +30,6 @@
       "summary": "Anthropic’s AI code leak ignites frenzy among Chinese developers &nbsp;&nbsp; South China Morning Post",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGdUZHVhSXgtYjJhN0Z1OEx2cUM5eFdjMDF2U2F2VEFDQm1SVkU2LXVFMXFuN3lteUpJaUIweWlCZW1LanhDY1lRRHFpcTVicnZkek9Jb3BCU0lGY29weTJWVExhZzJjR0pDbVU3MHlQVTZYOU9mNTA0czNDQnFaMjhnYk1vck9maHBPcFF6NXZqNmhLdGpuSWpHY09yQ21jQkpWZlF2NTZLT1lRY3JaWkh1UjdBdTVH0gG4AUFVX3lxTE9odG9lWVpBTE4yemQ2bEdrT0dSdnZtU1V0OTdfQXJLTllreXU2VHJ5OG8wWEowOVJjRy1BZi0xSVZJN2p6NUxxZW16TkJldnVjS2c0Rl9CeTZfeWgycTFhR3U1ZVFDcF8wVWRhZzRMaDZPRzV2bnFmd2RQNWdldTZWLXlHWXJhalVqMHAwT3NhRmEyVlFyU2p3OUNRczBXdmJkOFdXQVFycURQeXU2WDlDWGV4MGU2VDA?oc=5"
-    },
-    {
-      "headline": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
-      "source": "VentureBeat",
-      "timestamp": "2026-04-02T11:00:27.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google &nbsp;&nbsp; VentureBeat",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5"
     },
     {
       "headline": "What happened when they installed ChatGPT on a nuclear supercomputer - Vox",
@@ -42,14 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OVBWQXc1bnpjM1ZDV0xWR0pEQzFMNTRHeDFwQ1lOYUhlM19hdnJNc25vV3lySFZLci1PZ0hwYmFscXVnZE1JeUZUQ3BsQXFUTy1CR29ZNVlMNm1lLTdpdkM3aEJxemFsVDVJWGJBdE1oS3FwZGVyVTJUQzJLYmc?oc=5"
     },
     {
-      "headline": "OpenAI Is Falling Out of Favor With Secondary Buyers - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-01T23:09:20.000Z",
+      "headline": "AI labs enter compute wars - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-02T09:37:26.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Is Falling Out of Favor With Secondary Buyers &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3dXcWFNNnpVQ0ZOZFpjMlhVTjRiMTBCS0E3Q2JIOGNEeVY5Uk04NEVWcFZDYjA5emctY2lKaGh4TXdhS2ZGVm9JN0dobWhsZGFJNHNZQVhNcktjSVFiV1ZZSkxwZDJpQkNaY2prYmsybFRISjhaNUMtdERGT1RkRjNzVU9WRGtfYnJXQkswUXFNeTJxZUpZNEV2SVNPVkZpS1oyX0loWHE2cGtYN1ZBNTdB?oc=5"
+      "summary": "AI labs enter compute wars &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16ZmQ3OGdDZmUwRG9EQ3BjNGY1eVZKY1Y3QmNoUHJTcVVzR3lPSVUxSGJLbVJaaVJqQzBkbHZ5dDZXckZ6aVk3X0cyUjhWbjBxcXRwT0dFV0lxLW1veW5FQXRtZy1LX3I3YllHeGdZcw?oc=5"
+    },
+    {
+      "headline": "Microsoft’s AI Reset Created A Rare Bargain (NASDAQ:MSFT) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-04-02T05:26:12.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft’s AI Reset Created A Rare Bargain (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGZUUWxuV0g0b0hyY1FUUGhUZWYzc2ZtNVAzSEJ0bHVfR1NsT0R6ZXBiZVZyOG9MSm1jVmZWQ1lSaVdxaEZSb0JMcWVMQVZrRGdzOWRncXdiOEFMd2RHUVNwYzJQSzQ3eExUdzBwRG5sTFo4dnJITk9ENm5kSW1kZVA0YjN5Z0RXSlBn?oc=5"
     },
     {
       "headline": "Claude Code leak puts Anthropic on the other side of the copyright battle - Business Insider",
@@ -62,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjZNMU02ZXNJQ0dabnhUM2VoeW1LTVJ6ZFZYb0tMZmhwbXBNelNfZDVXSXQ1UFFWeDZnWmNVeVNPZ2hwU2pheEpNSUZUdnhQT05NcWVSdjRtQzVkT0VJa1hNY0lzLXg2YURpMlV6aUI0UHlRMHh4UTNxd1RidEFEdXlvZER1aFExX3A0?oc=5"
     },
     {
+      "headline": "A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-01T18:13:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmVrTjFjWklZejU3c08zQ0xOQ0RheENRNVJLTTZBSFROOXJ6aTNjQ3hlSjhkSXEyM3ZqOGN2SXliSmdlOUFkVDhqVUVURUxNRzRxRmNnMjJMeVlFYjV5b2NSSTNsQTJ2Ym1tNVNkZ0dYNjJQM2xUSTdKY0QyMUVLVDhnTG1URnExbFlmdA?oc=5"
+    },
+    {
       "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
       "source": "The Economist",
       "timestamp": "2026-04-01T12:51:24.000Z",
@@ -72,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5"
     },
     {
-      "headline": "The OpenAI Graveyard: All The Deals And Products That Haven’t Happened - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-04-01T10:30:00.000Z",
+      "headline": "Anthropic leaked 500,000 lines of its own source code - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-01T09:34:40.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The OpenAI Graveyard: All The Deals And Products That Haven’t Happened &nbsp;&nbsp; Forbes",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlNaU0RmcmZVakY4M3pzY25KbjEwbXJuOFNnMG1uQVVkZjY4MnRJU1J4NjQ1MngwVFljT2lBaF9ub0twZkVXNGhOUWxTdVBZUlRrTkYwX0RVNXlsV19OWHNsS2dFR3RHY1dDaGVqR3lfTUVRWVllT1Zia2w1TzlldkF2bXlRWWFvUnpRUXBpZ0RscUF0SlRZcno0ZFlULXhfRnNrUUhldnd6aXNGMFE?oc=5"
+      "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Claude’s code: Anthropic leaks source code for AI software engineering tool | Technology &nbsp;&nbsp; The Guardian Anthropic Races to Contain Leak of Code Behind Claude AI Agent &nbsp;&nbsp; WSJ Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC What Anthropic’s Leak Means For The Coming Wave Of ‘Dark Code’ &nbsp;&nbsp; Forbes Here’s what that Claude Code source leak reveals about Anthropic’s plans &nbsp;&nbsp; Ars Technica Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident &nbsp;&nbsp; TechCrunch Inside the hours when coders tore through Claude's guts and found pets, spinner verbs, and a curse chart &nbsp;&nbsp; Business Insider Anthropic Rushes to Limit Leak of Claude Code Source Code &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5"
     },
     {
       "headline": "Meta has a new elite AI unit. Find out who joined. - Business Insider",
@@ -90,30 +110,19 @@
       "summary": "Meta has a new elite AI unit. Find out who joined. &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOG1iSms1YXhxYS1hNG82TmFrRXk2Vnk3d3RDWW43SDhBUDRTSzlMSE55NHI4b2hSRU1CT3FnYjV4NTNqZTZWaWQ2UXA4YkZEWmczYU42VHNyRVVhQUJBN05NMkJreGdHcm9YUUtKY0pFazdVY25RdmFlbFFIVU5tbnRaTTVRbXBIcGNCUGl3MHVqYUJnMDZHazZ2UFAyd3NVWnBjTklR?oc=5"
-    },
-    {
-      "headline": "Perplexity AI Machine Accused of Sharing Data With Meta, Google - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-01T02:10:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Perplexity AI Machine Accused of Sharing Data With Meta, Google &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmFCbGh3em0wbnVNWHJQa1RXcmlMeHNuY1VHNzV5Qi10cjltbDVGWHlyaXdPRHMwU0pZWmNQX0ZNdkpDemtCWXM4cVVzRWVfcm1uQVlXMmtlRE5oQ2VVb1BvNjhtWXZnRU4wdkptU1I5OFZycjlLdVdoWV9COHp4YTR2NHF1aU56bEdTQndxdUYwVnVPc2NBNVp0ZVBKZFh0ckJodC1uSzd5aG5mam96eXZCcw?oc=5"
-    },
-    {
-      "headline": "OpenAI raises $122 billion to accelerate the next phase of AI - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-03-31T20:07:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI raises $122 billion to accelerate the next phase of AI &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bDc0Y3Myc2RjdHlZVUNEdVN4SjMzZVJlcjRVR3V1UzRCT3NqRHdkbXp5dFdUdUpUcUdGYVVoNS1DX0xUbHJSYXpDbkRTYnpGbGVwMFl2RTFsWmp2N0RvYjhZOW1NWTg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "DOJ to Appeal Court Order Halting Trump’s Ban on Anthropic AI - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-04-02T13:56:17.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTdRVmtvYVhrVHBCVTUxSW54ZmIzZ3ZHdlFESXoyQmkzeVhCOGtBam51U3RwN2FMQ0t4N3hQaGY4eFk5bG5aT2FYaWZtc0d5UlpqRkhidm56MTZkNmE2dWhSbG52TlJLVnBzYjZtV3J4WXhzcjlBT1B2X1U4OUNkUXRIcU5rYTdHSExoN3hVNGRoTk4ybmMzekZuNHVJVUlIczJWX0E4TG1LREYyY25NQXNR?oc=5",
+        "summary": "DOJ to Appeal Court Order Halting Trump’s Ban on Anthropic AI &nbsp;&nbsp; Bloomberg.com"
+      },
       {
         "headline": "Anthropic’s AI code leak ignites frenzy among Chinese developers - South China Morning Post",
         "source": "South China Morning Post",
@@ -122,15 +131,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGdUZHVhSXgtYjJhN0Z1OEx2cUM5eFdjMDF2U2F2VEFDQm1SVkU2LXVFMXFuN3lteUpJaUIweWlCZW1LanhDY1lRRHFpcTVicnZkek9Jb3BCU0lGY29weTJWVExhZzJjR0pDbVU3MHlQVTZYOU9mNTA0czNDQnFaMjhnYk1vck9maHBPcFF6NXZqNmhLdGpuSWpHY09yQ21jQkpWZlF2NTZLT1lRY3JaWkh1UjdBdTVH0gG4AUFVX3lxTE9odG9lWVpBTE4yemQ2bEdrT0dSdnZtU1V0OTdfQXJLTllreXU2VHJ5OG8wWEowOVJjRy1BZi0xSVZJN2p6NUxxZW16TkJldnVjS2c0Rl9CeTZfeWgycTFhR3U1ZVFDcF8wVWRhZzRMaDZPRzV2bnFmd2RQNWdldTZWLXlHWXJhalVqMHAwT3NhRmEyVlFyU2p3OUNRczBXdmJkOFdXQVFycURQeXU2WDlDWGV4MGU2VDA?oc=5",
         "summary": "Anthropic’s AI code leak ignites frenzy among Chinese developers &nbsp;&nbsp; South China Morning Post"
-      },
-      {
-        "headline": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
-        "source": "VentureBeat",
-        "timestamp": "2026-04-02T11:00:27.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5",
-        "summary": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google &nbsp;&nbsp; VentureBeat"
       },
       {
         "headline": "What happened when they installed ChatGPT on a nuclear supercomputer - Vox",
@@ -142,13 +142,22 @@
         "summary": "What happened when they installed ChatGPT on a nuclear supercomputer &nbsp;&nbsp; Vox"
       },
       {
-        "headline": "OpenAI Is Falling Out of Favor With Secondary Buyers - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-04-01T23:09:20.000Z",
+        "headline": "AI labs enter compute wars - Axios",
+        "source": "Axios",
+        "timestamp": "2026-04-02T09:37:26.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3dXcWFNNnpVQ0ZOZFpjMlhVTjRiMTBCS0E3Q2JIOGNEeVY5Uk04NEVWcFZDYjA5emctY2lKaGh4TXdhS2ZGVm9JN0dobWhsZGFJNHNZQVhNcktjSVFiV1ZZSkxwZDJpQkNaY2prYmsybFRISjhaNUMtdERGT1RkRjNzVU9WRGtfYnJXQkswUXFNeTJxZUpZNEV2SVNPVkZpS1oyX0loWHE2cGtYN1ZBNTdB?oc=5",
-        "summary": "OpenAI Is Falling Out of Favor With Secondary Buyers &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16ZmQ3OGdDZmUwRG9EQ3BjNGY1eVZKY1Y3QmNoUHJTcVVzR3lPSVUxSGJLbVJaaVJqQzBkbHZ5dDZXckZ6aVk3X0cyUjhWbjBxcXRwT0dFV0lxLW1veW5FQXRtZy1LX3I3YllHeGdZcw?oc=5",
+        "summary": "AI labs enter compute wars &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Microsoft’s AI Reset Created A Rare Bargain (NASDAQ:MSFT) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-04-02T05:26:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGZUUWxuV0g0b0hyY1FUUGhUZWYzc2ZtNVAzSEJ0bHVfR1NsT0R6ZXBiZVZyOG9MSm1jVmZWQ1lSaVdxaEZSb0JMcWVMQVZrRGdzOWRncXdiOEFMd2RHUVNwYzJQSzQ3eExUdzBwRG5sTFo4dnJITk9ENm5kSW1kZVA0YjN5Z0RXSlBn?oc=5",
+        "summary": "Microsoft’s AI Reset Created A Rare Bargain (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha"
       },
       {
         "headline": "Claude Code leak puts Anthropic on the other side of the copyright battle - Business Insider",
@@ -158,29 +167,20 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjZNMU02ZXNJQ0dabnhUM2VoeW1LTVJ6ZFZYb0tMZmhwbXBNelNfZDVXSXQ1UFFWeDZnWmNVeVNPZ2hwU2pheEpNSUZUdnhQT05NcWVSdjRtQzVkT0VJa1hNY0lzLXg2YURpMlV6aUI0UHlRMHh4UTNxd1RidEFEdXlvZER1aFExX3A0?oc=5",
         "summary": "Claude Code leak puts Anthropic on the other side of the copyright battle &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
-        "source": "The Economist",
-        "timestamp": "2026-04-01T12:51:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5",
-        "summary": "Who is Demis Hassabis, the man behind Google DeepMind? &nbsp;&nbsp; The Economist"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "OpenAI",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "OpenAI",
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
