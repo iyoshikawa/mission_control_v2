@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-02T17:00:40.100Z",
+    "generatedAt": "2026-04-02T19:03:00.697Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,46 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-02T19:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREdsTFRYQmdqeFdCVVh4UmZPZmg1dWNGNlotOXJiVGQ5YS1yZlh5SVU0YlRwbkVGSUthVVFIZkZ3NGxTNDd3WmRJUzRfRVg0NEMteFAwc2MyTm9KaWxSQ0VhS0xYdzBoeUUzdGhXU0o5eWZsVUYxZjJzWTFQOUFsU2dXVEQ?oc=5"
+    },
+    {
+      "headline": "OpenAI acquires popular tech podcast TBPN - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-02T18:05:24.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI acquires popular tech podcast TBPN &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jYWF6d2FvZW1GTTNwSDNSQWdQUDRlSU1yemtOOXlvYUc5RlVXY3JYNzk5YVlWRXU0OW1Na2h4YzJYTS1nUy1uSmxYV3NKemhyUlRBX1pOWm53UmE0cEN1N2lyeF9uTGxWNmVFTVIxM1Q1T1JNVVE3bVBn0gF_QVVfeXFMTmJqOUdaWW9nQ2g5RnA0b25wWE4tMDJZX3E3dElDUF90ZEk3RTlXYmpHRnhoTnJla0R6VUVaQTVtRy1kREUyQ0VNYjdYRnR4T0dBUThlMkhsR2N3aHZfRkVYNDc4aDluQ0RJOTg0UzV3Slh4SzlGa0ZDMEJseEdtVQ?oc=5"
+    },
+    {
+      "headline": "OpenAI acquires TBPN - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-04-02T17:41:31.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI acquires TBPN &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZ1ZGckR5Nlo0OHk3Y2xBejRCWVFoY0J4bjV6MVJPaWZkSkVIbXFDd2UxM3NsTW9GSEhKZS1HTDJQUVJsUkhjeVc4THNfQ2c2YlVqVEhPRmZTQQ?oc=5"
+    },
+    {
+      "headline": "Exclusive | OpenAI Buys Tech-Industry Talk Show TBPN - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-02T17:25:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Exclusive | OpenAI Buys Tech-Industry Talk Show TBPN &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOMktOSjRuSS1QX1VYaUVkb05wWE1EUnNCOWFsRlNqbWRIQ0l5bFhDM1FkVldPdmlaQmQzaEtUR3VLNWF3MlFnN3h5cjVsMHEtUkd5Tl9PWEI5Y3dnc2lndl9lR1hCVlEyaEZJSFl0Unk3cU9yNG5CaVRxdGx4b0hvdUI1Y29qZnd2ZHY3YmFBeklEcml2eE1tY0xyNkUwTzIyb3hnZWJWLUpDaXd3RGRmbmFzXzdSUlFuMTZiTUJkRDFkRFNhRmlLbHZtR0ZoVHdYYkxGaGp2VUdWMXRaWDNTc0FxX214VXp4NGxkeDBOaktqRTl3MVdXcDNMRUJoeFRKWmoxOVBjMFh5VTdQVjdhN05UTXQ1eUt0Qms4U3JlMHRMMzM3dkZud0pDdEFJYUJHbHptUFVWNnNBdkZQOVowcjVSNmQ1SzdWaGRGWjM0dU04SHVqZGtXcEpKR211dmxnMFB0V0lKcDVuVDVINVpfYlJqWGtJelVYZFEwZWt1TmtwY1FEZ1B2c3R6Zw?oc=5"
+    },
     {
       "headline": "Trump Administration Appeals Ruling That Blocked Pentagon Action Against Anthropic Over AI Dispute - Military.com",
       "source": "Military.com",
@@ -30,36 +70,6 @@
       "summary": "Gemma 4: Byte for byte, the most capable open models &nbsp;&nbsp; blog.google",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5"
-    },
-    {
-      "headline": "Microsoft building its own high-powered AI models, as it looks to slash dependence on OpenAI - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-04-02T16:00:53.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Microsoft building its own high-powered AI models, as it looks to slash dependence on OpenAI &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY2l1UllqZnB3Q2sxQUtYa054UHhnY3g2dlByQnc1MEluUFhlZjFORTJ5RFNVLWZUREFodWxCWDBka3UyWmgtT0NvcndmeEhKZVVXZ3lOam9SOUlHb1pYclhHWUc4UDFSNnhxd3B2bmlOQzFYUTc1ckJ6NXdsX0pIbE5iYUd1MjhxN0dINnpSX1BPcktpMmRpdm5jT1RvVU9TTU8zVXphRko2c1dQY3ZUUEszTnYtWFk1bXNBeTB2cDVOQ3lUYnhGTlJ2cUxhaFBXci1OdkZFSHFOVFpyR2hVTWpuWGNlSEg0bUF1N2cwS0c?oc=5"
-    },
-    {
-      "headline": "Trump administration asks court to reimpose Anthropic supply chain risk designation - The Hill",
-      "source": "The Hill",
-      "timestamp": "2026-04-02T15:56:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Trump administration asks court to reimpose Anthropic supply chain risk designation &nbsp;&nbsp; The Hill",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjFkM19KV3RKUmxRNktnc1hRc0dYaXo5YVhZemtkeFZGN1IwaTZPQnk1ei0xbGZWaUdDTHJUTko3LXNBTVhZWTNkRHM3Y3dYdHRQN0t4WkV3WGpiVDN0b0x2YVJaeVZiS19Qb0xKTXRuMUEyX19uQXlGTllQLV9uWWZ1V3V4MjJZdFlQQXFzckPSAZYBQVVfeXFMUERmaGE0Y2hmT1FDUW9uTi1mVWVRa2lqbUJteTFkTnFKQlJuOFV4d3VZZ1lXczFRMFg1OVFPaTJWdktDZ3h3cjFGN2VtbGFzZmEyWDBNUl8wcWpjLWJOdTlyZTVfSENtMl9QMWdURm9LSnlyWVkyM3BoVmFKYndncUVXemN5MnJOSjBTemN2c3ZWNlF4aVhn?oc=5"
-    },
-    {
-      "headline": "Sam Altman Says OpenAI Is Still in Talks With Disney After Sora Shutdown - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "timestamp": "2026-04-02T15:16:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sam Altman Says OpenAI Is Still in Talks With Disney After Sora Shutdown &nbsp;&nbsp; The Hollywood Reporter",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3NpTGRMYUxHWlRZb2hFdWwwRFNzNGtWdkdFTUZYOHY4WlZLeHA4RXZkTHM2WEFTWFptR3pVNm4xMUFzTWRKN3FtM0dZZXdUUmtlOHBiVENVWUtuS3B1cTZtazl3UHQ5NGh2bmJRX0tPSTVMR0t6Z3dQbHVWRkUtcXhmWllXQkF1WW5LS0NObHA3VmQ0N3JNZkxiaEI0Mng5WWxmTzZGOA?oc=5"
     },
     {
       "headline": "Armada to Deliver Sovereign AI at the Edge with Microsoft Azure Local - AiThority",
@@ -92,28 +102,54 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGZUUWxuV0g0b0hyY1FUUGhUZWYzc2ZtNVAzSEJ0bHVfR1NsT0R6ZXBiZVZyOG9MSm1jVmZWQ1lSaVdxaEZSb0JMcWVMQVZrRGdzOWRncXdiOEFMd2RHUVNwYzJQSzQ3eExUdzBwRG5sTFo4dnJITk9ENm5kSW1kZVA0YjN5Z0RXSlBn?oc=5"
     },
     {
-      "headline": "OpenAI Is Falling Out of Favor With Secondary Buyers - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-01T23:09:20.000Z",
+      "headline": "A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates - nytimes.com",
+      "source": "nytimes.com",
+      "timestamp": "2026-04-01T18:13:37.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Is Falling Out of Favor With Secondary Buyers &nbsp;&nbsp; Bloomberg.com",
+      "summary": "A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates &nbsp;&nbsp; nytimes.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3dXcWFNNnpVQ0ZOZFpjMlhVTjRiMTBCS0E3Q2JIOGNEeVY5Uk04NEVWcFZDYjA5emctY2lKaGh4TXdhS2ZGVm9JN0dobWhsZGFJNHNZQVhNcktjSVFiV1ZZSkxwZDJpQkNaY2prYmsybFRISjhaNUMtdERGT1RkRjNzVU9WRGtfYnJXQkswUXFNeTJxZUpZNEV2SVNPVkZpS1oyX0loWHE2cGtYN1ZBNTdB?oc=5"
-    },
-    {
-      "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
-      "source": "The Economist",
-      "timestamp": "2026-04-01T12:51:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Who is Demis Hassabis, the man behind Google DeepMind? &nbsp;&nbsp; The Economist",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmVrTjFjWklZejU3c08zQ0xOQ0RheENRNVJLTTZBSFROOXJ6aTNjQ3hlSjhkSXEyM3ZqOGN2SXliSmdlOUFkVDhqVUVURUxNRzRxRmNnMjJMeVlFYjV5b2NSSTNsQTJ2Ym1tNVNkZ0dYNjJQM2xUSTdKY0QyMUVLVDhnTG1URnExbFlmdA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-02T19:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREdsTFRYQmdqeFdCVVh4UmZPZmg1dWNGNlotOXJiVGQ5YS1yZlh5SVU0YlRwbkVGSUthVVFIZkZ3NGxTNDd3WmRJUzRfRVg0NEMteFAwc2MyTm9KaWxSQ0VhS0xYdzBoeUUzdGhXU0o5eWZsVUYxZjJzWTFQOUFsU2dXVEQ?oc=5",
+        "summary": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "OpenAI acquires popular tech podcast TBPN - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-02T18:05:24.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jYWF6d2FvZW1GTTNwSDNSQWdQUDRlSU1yemtOOXlvYUc5RlVXY3JYNzk5YVlWRXU0OW1Na2h4YzJYTS1nUy1uSmxYV3NKemhyUlRBX1pOWm53UmE0cEN1N2lyeF9uTGxWNmVFTVIxM1Q1T1JNVVE3bVBn0gF_QVVfeXFMTmJqOUdaWW9nQ2g5RnA0b25wWE4tMDJZX3E3dElDUF90ZEk3RTlXYmpHRnhoTnJla0R6VUVaQTVtRy1kREUyQ0VNYjdYRnR4T0dBUThlMkhsR2N3aHZfRkVYNDc4aDluQ0RJOTg0UzV3Slh4SzlGa0ZDMEJseEdtVQ?oc=5",
+        "summary": "OpenAI acquires popular tech podcast TBPN &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "OpenAI acquires TBPN - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-04-02T17:41:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZ1ZGckR5Nlo0OHk3Y2xBejRCWVFoY0J4bjV6MVJPaWZkSkVIbXFDd2UxM3NsTW9GSEhKZS1HTDJQUVJsUkhjeVc4THNfQ2c2YlVqVEhPRmZTQQ?oc=5",
+        "summary": "OpenAI acquires TBPN &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "Exclusive | OpenAI Buys Tech-Industry Talk Show TBPN - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-04-02T17:25:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOMktOSjRuSS1QX1VYaUVkb05wWE1EUnNCOWFsRlNqbWRIQ0l5bFhDM1FkVldPdmlaQmQzaEtUR3VLNWF3MlFnN3h5cjVsMHEtUkd5Tl9PWEI5Y3dnc2lndl9lR1hCVlEyaEZJSFl0Unk3cU9yNG5CaVRxdGx4b0hvdUI1Y29qZnd2ZHY3YmFBeklEcml2eE1tY0xyNkUwTzIyb3hnZWJWLUpDaXd3RGRmbmFzXzdSUlFuMTZiTUJkRDFkRFNhRmlLbHZtR0ZoVHdYYkxGaGp2VUdWMXRaWDNTc0FxX214VXp4NGxkeDBOaktqRTl3MVdXcDNMRUJoeFRKWmoxOVBjMFh5VTdQVjdhN05UTXQ1eUt0Qms4U3JlMHRMMzM3dkZud0pDdEFJYUJHbHptUFVWNnNBdkZQOVowcjVSNmQ1SzdWaGRGWjM0dU04SHVqZGtXcEpKR211dmxnMFB0V0lKcDVuVDVINVpfYlJqWGtJelVYZFEwZWt1TmtwY1FEZ1B2c3R6Zw?oc=5",
+        "summary": "Exclusive | OpenAI Buys Tech-Industry Talk Show TBPN &nbsp;&nbsp; WSJ"
+      },
       {
         "headline": "Trump Administration Appeals Ruling That Blocked Pentagon Action Against Anthropic Over AI Dispute - Military.com",
         "source": "Military.com",
@@ -131,42 +167,6 @@
         "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU0lVN3hGdkhNWU5zVGp0N2E3d2N4Rnp6S1ZjdUV6ZHhMQXV4WlpVOEFNWFprRlpqMEtCS04zNVg5b1J5ZHB1ekh0S3NvalpSVWVaYzZTZDBKZ3FMT3AxM0R4eEM5MWpBSG5xOXdvWExjUF9BTnJ1WHY2N3N1UUk?oc=5",
         "summary": "Gemma 4: Byte for byte, the most capable open models &nbsp;&nbsp; blog.google"
-      },
-      {
-        "headline": "Microsoft building its own high-powered AI models, as it looks to slash dependence on OpenAI - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-04-02T16:00:53.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY2l1UllqZnB3Q2sxQUtYa054UHhnY3g2dlByQnc1MEluUFhlZjFORTJ5RFNVLWZUREFodWxCWDBka3UyWmgtT0NvcndmeEhKZVVXZ3lOam9SOUlHb1pYclhHWUc4UDFSNnhxd3B2bmlOQzFYUTc1ckJ6NXdsX0pIbE5iYUd1MjhxN0dINnpSX1BPcktpMmRpdm5jT1RvVU9TTU8zVXphRko2c1dQY3ZUUEszTnYtWFk1bXNBeTB2cDVOQ3lUYnhGTlJ2cUxhaFBXci1OdkZFSHFOVFpyR2hVTWpuWGNlSEg0bUF1N2cwS0c?oc=5",
-        "summary": "Microsoft building its own high-powered AI models, as it looks to slash dependence on OpenAI &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Trump administration asks court to reimpose Anthropic supply chain risk designation - The Hill",
-        "source": "The Hill",
-        "timestamp": "2026-04-02T15:56:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjFkM19KV3RKUmxRNktnc1hRc0dYaXo5YVhZemtkeFZGN1IwaTZPQnk1ei0xbGZWaUdDTHJUTko3LXNBTVhZWTNkRHM3Y3dYdHRQN0t4WkV3WGpiVDN0b0x2YVJaeVZiS19Qb0xKTXRuMUEyX19uQXlGTllQLV9uWWZ1V3V4MjJZdFlQQXFzckPSAZYBQVVfeXFMUERmaGE0Y2hmT1FDUW9uTi1mVWVRa2lqbUJteTFkTnFKQlJuOFV4d3VZZ1lXczFRMFg1OVFPaTJWdktDZ3h3cjFGN2VtbGFzZmEyWDBNUl8wcWpjLWJOdTlyZTVfSENtMl9QMWdURm9LSnlyWVkyM3BoVmFKYndncUVXemN5MnJOSjBTemN2c3ZWNlF4aVhn?oc=5",
-        "summary": "Trump administration asks court to reimpose Anthropic supply chain risk designation &nbsp;&nbsp; The Hill"
-      },
-      {
-        "headline": "Sam Altman Says OpenAI Is Still in Talks With Disney After Sora Shutdown - The Hollywood Reporter",
-        "source": "The Hollywood Reporter",
-        "timestamp": "2026-04-02T15:16:11.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3NpTGRMYUxHWlRZb2hFdWwwRFNzNGtWdkdFTUZYOHY4WlZLeHA4RXZkTHM2WEFTWFptR3pVNm4xMUFzTWRKN3FtM0dZZXdUUmtlOHBiVENVWUtuS3B1cTZtazl3UHQ5NGh2bmJRX0tPSTVMR0t6Z3dQbHVWRkUtcXhmWllXQkF1WW5LS0NObHA3VmQ0N3JNZkxiaEI0Mng5WWxmTzZGOA?oc=5",
-        "summary": "Sam Altman Says OpenAI Is Still in Talks With Disney After Sora Shutdown &nbsp;&nbsp; The Hollywood Reporter"
-      },
-      {
-        "headline": "Armada to Deliver Sovereign AI at the Edge with Microsoft Azure Local - AiThority",
-        "source": "AiThority",
-        "timestamp": "2026-04-02T15:06:15.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVZGdXlBUlk1RUNxWkdvNWwtMkpMWTZDT0RKS1FPNXRleFNOUEM3ZmV2MzZBMVBTbTJ0ZmxveUFsY1BvYVFJUjc5YWtfRVJpeEF2R0w0R2p4YTBhUDBQdVNWNTNUUmlQNVhSZUJ6YklEM1l5S0VSY2trQ3NYQVJ2RFpIRnhRZzhScFIzYWZzc3NGTmNwT1BKbGFwRElRRUZMd1ZJZV8yNFY4dXdZRlE?oc=5",
-        "summary": "Armada to Deliver Sovereign AI at the Edge with Microsoft Azure Local &nbsp;&nbsp; AiThority"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
