@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-02T10:56:24.949Z",
+    "generatedAt": "2026-04-02T11:51:58.877Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "Anthropic Is Learning That There Are No Take-Backs on the Internet - businessinsider.com",
-      "source": "businessinsider.com",
-      "timestamp": "2026-04-02T10:51:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Is Learning That There Are No Take-Backs on the Internet &nbsp;&nbsp; businessinsider.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU24td3dfVUhWd3ZjMGhXSEFPSlZCTTA4c0ZWTWhuZHRfVDEwMUJUQnlmMERZTjNrVk5YUXAwaGItRjlyZ01MMm43NGFwOFZrVkt1NExQQlVMb0x6RURqSkt3MG91bGNDNW81TTVhbTlfZHJmdWdpUWpZQm56Z2dJUVBKdHFJN3Vv?oc=5"
-    },
     {
       "headline": "AI labs enter compute wars - Axios",
       "source": "Axios",
@@ -48,8 +38,38 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI Is Falling Out of Favor With Secondary Buyers &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3dXcWFNNnpVQ0ZOZFpjMlhVTjRiMTBCS0E3Q2JIOGNEeVY5Uk04NEVWcFZDYjA5emctY2lKaGh4TXdhS2ZGVm9JN0dobWhsZGFJNHNZQVhNcktjSVFiV1ZZSkxwZDJpQkNaY2prYmsybFRISjhaNUMtdERGT1RkRjNzVU9WRGtfYnJXQkswUXFNeTJxZUpZNEV2SVNPVkZpS1oyX0loWHE2cGtYN1ZBNTdB?oc=5"
+    },
+    {
+      "headline": "Claude Code leak puts Anthropic on the other side of the copyright battle - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-04-01T20:58:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude Code leak puts Anthropic on the other side of the copyright battle &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjZNMU02ZXNJQ0dabnhUM2VoeW1LTVJ6ZFZYb0tMZmhwbXBNelNfZDVXSXQ1UFFWeDZnWmNVeVNPZ2hwU2pheEpNSUZUdnhQT05NcWVSdjRtQzVkT0VJa1hNY0lzLXg2YURpMlV6aUI0UHlRMHh4UTNxd1RidEFEdXlvZER1aFExX3A0?oc=5"
+    },
+    {
+      "headline": "What Anthropic’s Leak Means For The Coming Wave Of ‘Dark Code’ - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-04-01T20:05:30.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "What Anthropic’s Leak Means For The Coming Wave Of ‘Dark Code’ &nbsp;&nbsp; Forbes Here’s what that Claude Code source leak reveals about Anthropic’s plans &nbsp;&nbsp; Ars Technica Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols &nbsp;&nbsp; Axios Anthropic Races to Contain Leak of Code Behind Claude AI Agent &nbsp;&nbsp; WSJ Claude’s code: Anthropic leaks source code for AI software engineering tool &nbsp;&nbsp; The Guardian Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident &nbsp;&nbsp; TechCrunch Inside the hours when coders tore through Claude's guts and found pets, spinner verbs, and a curse chart &nbsp;&nbsp; Business Insider Anthropic Rushes to Limit Leak of Claude Code Source Code &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1VkNnFvRUFqZWFwRkRvemRpcVRycnBzSHdPWnpKMGE3eFRTay1TRzRUV2YzUEV3Mm9lLVd2SGJUUDJJa0p0OVJmMnZmSy1BclFlS2FkbmhQMzVhOGx5NG9rczliTHlaQW5OR2lwcHFHeDVwZFAzX2FZcmp4QmdXakhGTFVfZ2tGWUNndi1XN2pQdHB1M2tFaEJNX0FXN3ItQk5BWi0xTkhRLXJfYkxfMA?oc=5"
+    },
+    {
+      "headline": "Anthropic accidentally leaked thousands of lines of code - latimes.com",
+      "source": "latimes.com",
+      "timestamp": "2026-04-01T17:13:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic accidentally leaked thousands of lines of code &nbsp;&nbsp; latimes.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTRhT1BraG5PVXlyck02R3dFaFVpN2M1T0ZnWVJ5Q3BaWEItQnZPNTBSVWVFN3BRZzBCNTYzVmNqc0dtNUl3SW94WGFHdDVPMG0yLXR5aHZ0SFNONHFXUkZ6YmFwRWFiTDdCUkpDQXg3c0xBUS1lWG9obG9TY20xSEtqa1puLWtLdjZSVTB2SUN2XzhTLUd6dmVRUk12UngxX3ZBcmlacTIxQQ?oc=5"
     },
     {
       "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
@@ -72,22 +92,12 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlNaU0RmcmZVakY4M3pzY25KbjEwbXJuOFNnMG1uQVVkZjY4MnRJU1J4NjQ1MngwVFljT2lBaF9ub0twZkVXNGhOUWxTdVBZUlRrTkYwX0RVNXlsV19OWHNsS2dFR3RHY1dDaGVqR3lfTUVRWVllT1Zia2w1TzlldkF2bXlRWWFvUnpRUXBpZ0RscUF0SlRZcno0ZFlULXhfRnNrUUhldnd6aXNGMFE?oc=5"
     },
     {
-      "headline": "Anthropic leaked 500,000 lines of its own source code - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-01T09:34:40.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic leaked 500,000 lines of its own source code &nbsp;&nbsp; Axios Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent &nbsp;&nbsp; The Verge Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5"
-    },
-    {
-      "headline": "Meta has a new elite AI unit. Find out who joined. - businessinsider.com",
-      "source": "businessinsider.com",
+      "headline": "Meta has a new elite AI unit. Find out who joined. - Business Insider",
+      "source": "Business Insider",
       "timestamp": "2026-04-01T09:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta has a new elite AI unit. Find out who joined. &nbsp;&nbsp; businessinsider.com",
+      "summary": "Meta has a new elite AI unit. Find out who joined. &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOG1iSms1YXhxYS1hNG82TmFrRXk2Vnk3d3RDWW43SDhBUDRTSzlMSE55NHI4b2hSRU1CT3FnYjV4NTNqZTZWaWQ2UXA4YkZEWmczYU42VHNyRVVhQUJBN05NMkJreGdHcm9YUUtKY0pFazdVY25RdmFlbFFIVU5tbnRaTTVRbXBIcGNCUGl3MHVqYUJnMDZHazZ2UFAyd3NVWnBjTklR?oc=5"
     },
@@ -100,29 +110,10 @@
       "summary": "Perplexity AI Machine Accused of Sharing Data With Meta, Google &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmFCbGh3em0wbnVNWHJQa1RXcmlMeHNuY1VHNzV5Qi10cjltbDVGWHlyaXdPRHMwU0pZWmNQX0ZNdkpDemtCWXM4cVVzRWVfcm1uQVlXMmtlRE5oQ2VVb1BvNjhtWXZnRU4wdkptU1I5OFZycjlLdVdoWV9COHp4YTR2NHF1aU56bEdTQndxdUYwVnVPc2NBNVp0ZVBKZFh0ckJodC1uSzd5aG5mam96eXZCcw?oc=5"
-    },
-    {
-      "headline": "OpenAI raises $122 billion to accelerate the next phase of AI - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-03-31T20:07:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI raises $122 billion to accelerate the next phase of AI &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bDc0Y3Myc2RjdHlZVUNEdVN4SjMzZVJlcjRVR3V1UzRCT3NqRHdkbXp5dFdUdUpUcUdGYVVoNS1DX0xUbHJSYXpDbkRTYnpGbGVwMFl2RTFsWmp2N0RvYjhZOW1NWTg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Anthropic Is Learning That There Are No Take-Backs on the Internet - businessinsider.com",
-        "source": "businessinsider.com",
-        "timestamp": "2026-04-02T10:51:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU24td3dfVUhWd3ZjMGhXSEFPSlZCTTA4c0ZWTWhuZHRfVDEwMUJUQnlmMERZTjNrVk5YUXAwaGItRjlyZ01MMm43NGFwOFZrVkt1NExQQlVMb0x6RURqSkt3MG91bGNDNW81TTVhbTlfZHJmdWdpUWpZQm56Z2dJUVBKdHFJN3Vv?oc=5",
-        "summary": "Anthropic Is Learning That There Are No Take-Backs on the Internet &nbsp;&nbsp; businessinsider.com"
-      },
       {
         "headline": "AI labs enter compute wars - Axios",
         "source": "Axios",
@@ -146,27 +137,36 @@
         "source": "Bloomberg.com",
         "timestamp": "2026-04-01T23:09:20.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3dXcWFNNnpVQ0ZOZFpjMlhVTjRiMTBCS0E3Q2JIOGNEeVY5Uk04NEVWcFZDYjA5emctY2lKaGh4TXdhS2ZGVm9JN0dobWhsZGFJNHNZQVhNcktjSVFiV1ZZSkxwZDJpQkNaY2prYmsybFRISjhaNUMtdERGT1RkRjNzVU9WRGtfYnJXQkswUXFNeTJxZUpZNEV2SVNPVkZpS1oyX0loWHE2cGtYN1ZBNTdB?oc=5",
         "summary": "OpenAI Is Falling Out of Favor With Secondary Buyers &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "Who is Demis Hassabis, the man behind Google DeepMind? - The Economist",
-        "source": "The Economist",
-        "timestamp": "2026-04-01T12:51:24.000Z",
+        "headline": "Claude Code leak puts Anthropic on the other side of the copyright battle - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-04-01T20:58:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTBWNVFkZWhkUXFoVFNRSFJDTHpaZUk2Y0otSEYtT2pEVXVJVVV2aGh1dG1seDRQYW8zMTdGbFFVWmNuOVphNG5mSTlXeFoyTVNnc3ZwQjJHV040akhQb3BQeFJyb2stV1RzRHFHVm1kR2VjZVMzb0dJeVRUVXVHTTJ1Tk0wTS1lUUJfa203TElVMnRySFhJVVpEc2E2QQ?oc=5",
-        "summary": "Who is Demis Hassabis, the man behind Google DeepMind? &nbsp;&nbsp; The Economist"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjZNMU02ZXNJQ0dabnhUM2VoeW1LTVJ6ZFZYb0tMZmhwbXBNelNfZDVXSXQ1UFFWeDZnWmNVeVNPZ2hwU2pheEpNSUZUdnhQT05NcWVSdjRtQzVkT0VJa1hNY0lzLXg2YURpMlV6aUI0UHlRMHh4UTNxd1RidEFEdXlvZER1aFExX3A0?oc=5",
+        "summary": "Claude Code leak puts Anthropic on the other side of the copyright battle &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "The OpenAI Graveyard: All The Deals And Products That Haven’t Happened - Forbes",
+        "headline": "What Anthropic’s Leak Means For The Coming Wave Of ‘Dark Code’ - Forbes",
         "source": "Forbes",
-        "timestamp": "2026-04-01T10:30:00.000Z",
+        "timestamp": "2026-04-01T20:05:30.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1VkNnFvRUFqZWFwRkRvemRpcVRycnBzSHdPWnpKMGE3eFRTay1TRzRUV2YzUEV3Mm9lLVd2SGJUUDJJa0p0OVJmMnZmSy1BclFlS2FkbmhQMzVhOGx5NG9rczliTHlaQW5OR2lwcHFHeDVwZFAzX2FZcmp4QmdXakhGTFVfZ2tGWUNndi1XN2pQdHB1M2tFaEJNX0FXN3ItQk5BWi0xTkhRLXJfYkxfMA?oc=5",
+        "summary": "What Anthropic’s Leak Means For The Coming Wave Of ‘Dark Code’ &nbsp;&nbsp; Forbes Here’s what that Claude Code source leak reveals about Anthropic’s plans &nbsp;&nbsp; Ars Technica Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols &nbsp;&nbsp; Axios Anthropic Races to Contain Leak of Code Behind Claude AI Agent &nbsp;&nbsp; WSJ Claude’s code: Anthropic leaks source code for AI software engineering tool &nbsp;&nbsp; The Guardian Anthropic leaks part of Claude Code's internal source code &nbsp;&nbsp; CNBC Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident &nbsp;&nbsp; TechCrunch Inside the hours when coders tore through Claude's guts and found pets, spinner verbs, and a curse chart &nbsp;&nbsp; Business Insider Anthropic Rushes to Limit Leak of Claude Code Source Code &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Anthropic accidentally leaked thousands of lines of code - latimes.com",
+        "source": "latimes.com",
+        "timestamp": "2026-04-01T17:13:44.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlNaU0RmcmZVakY4M3pzY25KbjEwbXJuOFNnMG1uQVVkZjY4MnRJU1J4NjQ1MngwVFljT2lBaF9ub0twZkVXNGhOUWxTdVBZUlRrTkYwX0RVNXlsV19OWHNsS2dFR3RHY1dDaGVqR3lfTUVRWVllT1Zia2w1TzlldkF2bXlRWWFvUnpRUXBpZ0RscUF0SlRZcno0ZFlULXhfRnNrUUhldnd6aXNGMFE?oc=5",
-        "summary": "The OpenAI Graveyard: All The Deals And Products That Haven’t Happened &nbsp;&nbsp; Forbes"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTRhT1BraG5PVXlyck02R3dFaFVpN2M1T0ZnWVJ5Q3BaWEItQnZPNTBSVWVFN3BRZzBCNTYzVmNqc0dtNUl3SW94WGFHdDVPMG0yLXR5aHZ0SFNONHFXUkZ6YmFwRWFiTDdCUkpDQXg3c0xBUS1lWG9obG9TY20xSEtqa1puLWtLdjZSVTB2SUN2XzhTLUd6dmVRUk12UngxX3ZBcmlacTIxQQ?oc=5",
+        "summary": "Anthropic accidentally leaked thousands of lines of code &nbsp;&nbsp; latimes.com"
       }
     ],
     "whyItMatters": [
