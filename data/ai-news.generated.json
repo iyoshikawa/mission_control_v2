@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-03T15:42:28.582Z",
+    "generatedAt": "2026-04-03T16:49:23.591Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-03T15:01:00.000Z",
+      "headline": "Anthropic employees bet on midterms - axios.com",
+      "source": "axios.com",
+      "timestamp": "2026-04-03T13:32:41.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSmpIVWxaVll5VXVUMUstaUhMYmppU0tDalJQWi1LU0dFc2tuMmZmc18yeUFrdUd0bFM0Nk1tYlpraEZPSDRhYmlUazdCYUVNZkVWVUpEVWNJaVd1bFdhUjh3Y09HdHowWWJSLVpFS2xVOWkwbmc?oc=5"
+      "summary": "Anthropic employees bet on midterms &nbsp;&nbsp; axios.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbVM0N1ExRkQySkJQQzZOVHBWS1hDMW1LSDRvc01KcXI4ZFpqeE1jVXo3cVM3eXY4V0R5N2FhZHhTMXpvQ3Ftb19iLXhUbWNmbXlYdlJRQzdTbWtXUHh0VjlBWm1mdw?oc=5"
     },
     {
       "headline": "Eastwall Achieves Microsoft \"AI Apps on Azure\" Specialization, Strengthening Frontier AI Engineering Capabilities - PR Newswire",
@@ -38,7 +38,7 @@
       "impact": "HIGH",
       "category": "models",
       "summary": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEFsOTEyZ2JkWG9uWTBYWWZMcUZyVl9oMHV3SkpIZldIV2ZaRF9EZUExVFJLSDdXTEFNSDAteUxrYzNpQjEwaWgwWEhqSVdGTGt4dm5OdzlnNTNselBiTHUzN3VRUEFKbm93M2YyQ2hQRC1ua2JETlptQXBTYzRwR00wQWNUQVZrdTJrb1lPMzgwQmw1Z0VCQlFlN3BuVTR4OFVsb0t3WDdMZw?oc=5"
     },
     {
@@ -52,16 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xYnB3OC1ZUkRxNE5LY1JPQ01aQVlzeldlcmxiR0Y5N3BLa0xzRW14LXpTV2lpc3hnNEJRX0Q4OUpwRXhaLV9Kd2tobkR6TGtOV2hkYktkZkllbGJzRG56aFhkYjRKQzNNQjhhVnRNd2VsZm1qejU3Zw?oc=5"
     },
     {
-      "headline": "Anthropic’s $400M acquisition of Coefficient Bio signals a deeper push into drug discovery - rdworldonline.com",
-      "source": "rdworldonline.com",
-      "timestamp": "2026-04-03T05:21:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s $400M acquisition of Coefficient Bio signals a deeper push into drug discovery &nbsp;&nbsp; rdworldonline.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFdIcWpBa0lOMk1Kd29OYTlCWWlDMUVsczUxV3M3VFpJaEdidmR5eWUtOEU4Qll5UEdXZWg4Yk53bG0xSENjTDdoS2N2SHdIbFZaMHVpMkdaT0o2YmVSaWVJNmF2ZVZ0dms3MjJoZVBEQ203ZFMzam1qRVlIOXVkYmRrZkV4VEx3SzF6amtXQUpkMzdFdmJ6TTQweXVaOXVQOEg3UUhKZE5RSmJjeFZuMUpuWGtyRUV0Ukk4?oc=5"
-    },
-    {
       "headline": "Anthropic Acquires Startup Coefficient Bio for About $400 Million - The Information",
       "source": "The Information",
       "timestamp": "2026-04-03T00:03:00.000Z",
@@ -70,6 +60,16 @@
       "summary": "Anthropic Acquires Startup Coefficient Bio for About $400 Million &nbsp;&nbsp; The Information",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQngxNzNsclBUMWNjdzB0YkE2RHVCejZhZEZZNWNjZkRmVVlOR1JoNWxYMWdEdm5qcUFBZzBkdjN4b2tyZ1djZzFSMUJvYmxQdGs1d1VJYlN5alJYbVB5X2tfLU5sdkg0Wkd5OS1BTU90cXhSS18ybllQUzRTRTVtdHRxRmx0aTdSWmE1dXZLd3pxRmNUZndjWVFB?oc=5"
+    },
+    {
+      "headline": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-02T19:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREdsTFRYQmdqeFdCVVh4UmZPZmg1dWNGNlotOXJiVGQ5YS1yZlh5SVU0YlRwbkVGSUthVVFIZkZ3NGxTNDd3WmRJUzRfRVg0NEMteFAwc2MyTm9KaWxSQ0VhS0xYdzBoeUUzdGhXU0o5eWZsVUYxZjJzWTFQOUFsU2dXVEQ?oc=5"
     },
     {
       "headline": "OpenAI acquires popular tech podcast TBPN - CNBC",
@@ -115,13 +115,13 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-03T15:01:00.000Z",
+        "headline": "Anthropic employees bet on midterms - axios.com",
+        "source": "axios.com",
+        "timestamp": "2026-04-03T13:32:41.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSmpIVWxaVll5VXVUMUstaUhMYmppU0tDalJQWi1LU0dFc2tuMmZmc18yeUFrdUd0bFM0Nk1tYlpraEZPSDRhYmlUazdCYUVNZkVWVUpEVWNJaVd1bFdhUjh3Y09HdHowWWJSLVpFS2xVOWkwbmc?oc=5",
-        "summary": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. &nbsp;&nbsp; The New York Times"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbVM0N1ExRkQySkJQQzZOVHBWS1hDMW1LSDRvc01KcXI4ZFpqeE1jVXo3cVM3eXY4V0R5N2FhZHhTMXpvQ3Ftb19iLXhUbWNmbXlYdlJRQzdTbWtXUHh0VjlBWm1mdw?oc=5",
+        "summary": "Anthropic employees bet on midterms &nbsp;&nbsp; axios.com"
       },
       {
         "headline": "Eastwall Achieves Microsoft \"AI Apps on Azure\" Specialization, Strengthening Frontier AI Engineering Capabilities - PR Newswire",
@@ -137,7 +137,7 @@
         "source": "Business Insider",
         "timestamp": "2026-04-03T12:39:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEFsOTEyZ2JkWG9uWTBYWWZMcUZyVl9oMHV3SkpIZldIV2ZaRF9EZUExVFJLSDdXTEFNSDAteUxrYzNpQjEwaWgwWEhqSVdGTGt4dm5OdzlnNTNselBiTHUzN3VRUEFKbm93M2YyQ2hQRC1ua2JETlptQXBTYzRwR00wQWNUQVZrdTJrb1lPMzgwQmw1Z0VCQlFlN3BuVTR4OFVsb0t3WDdMZw?oc=5",
         "summary": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI &nbsp;&nbsp; Business Insider"
       },
@@ -151,15 +151,6 @@
         "summary": "Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern &nbsp;&nbsp; CNN"
       },
       {
-        "headline": "Anthropic’s $400M acquisition of Coefficient Bio signals a deeper push into drug discovery - rdworldonline.com",
-        "source": "rdworldonline.com",
-        "timestamp": "2026-04-03T05:21:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFdIcWpBa0lOMk1Kd29OYTlCWWlDMUVsczUxV3M3VFpJaEdidmR5eWUtOEU4Qll5UEdXZWg4Yk53bG0xSENjTDdoS2N2SHdIbFZaMHVpMkdaT0o2YmVSaWVJNmF2ZVZ0dms3MjJoZVBEQ203ZFMzam1qRVlIOXVkYmRrZkV4VEx3SzF6amtXQUpkMzdFdmJ6TTQweXVaOXVQOEg3UUhKZE5RSmJjeFZuMUpuWGtyRUV0Ukk4?oc=5",
-        "summary": "Anthropic’s $400M acquisition of Coefficient Bio signals a deeper push into drug discovery &nbsp;&nbsp; rdworldonline.com"
-      },
-      {
         "headline": "Anthropic Acquires Startup Coefficient Bio for About $400 Million - The Information",
         "source": "The Information",
         "timestamp": "2026-04-03T00:03:00.000Z",
@@ -167,6 +158,15 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQngxNzNsclBUMWNjdzB0YkE2RHVCejZhZEZZNWNjZkRmVVlOR1JoNWxYMWdEdm5qcUFBZzBkdjN4b2tyZ1djZzFSMUJvYmxQdGs1d1VJYlN5alJYbVB5X2tfLU5sdkg0Wkd5OS1BTU90cXhSS18ybllQUzRTRTVtdHRxRmx0aTdSWmE1dXZLd3pxRmNUZndjWVFB?oc=5",
         "summary": "Anthropic Acquires Startup Coefficient Bio for About $400 Million &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-02T19:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREdsTFRYQmdqeFdCVVh4UmZPZmg1dWNGNlotOXJiVGQ5YS1yZlh5SVU0YlRwbkVGSUthVVFIZkZ3NGxTNDd3WmRJUzRfRVg0NEMteFAwc2MyTm9KaWxSQ0VhS0xYdzBoeUUzdGhXU0o5eWZsVUYxZjJzWTFQOUFsU2dXVEQ?oc=5",
+        "summary": "Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
