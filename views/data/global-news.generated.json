@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-03T15:38:02.028Z",
+    "generatedAt": "2026-04-03T16:39:20.246Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,6 +12,17 @@
   },
   "newsFeed": [
     {
+      "headline": "US removes Russian national Mikhail Zadornov from sanctions list",
+      "summary": "US removes Russian national Mikhail Zadornov from sanctions list &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-04-03T14:54:23.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjRUVERZNDFvT0NxTnZiS0xQaDFxUDh4Um8ybnNxTy1jczJFWFlra0k1QVlSU3B5a3RvNHVjTlNCZVRRLUdvV0VIS0lLMlpJdEs5QmJ3b0s5MUJ2akNuREZWdmd6R056dUlQVVJYLXN4eFNlSWhrVzcyQVczb3htN0JBbzVHbWZ1R1NyUnFnN3hBREtZMjZCcmw4cGxYdTRlb3RJ?oc=5"
+    },
+    {
       "headline": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines",
       "summary": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines &nbsp;&nbsp; reuters.com",
       "source": "reuters.com",
@@ -21,17 +32,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5"
-    },
-    {
-      "headline": "Deepseek’s V4 model will run on Huawei chips, The Information reports",
-      "summary": "Deepseek’s V4 model will run on Huawei chips, The Information reports &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-04-03T13:44:09.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmF2eTNld2ZIYVVQWTgzVk5zRUlKdms5SEZxUmZZemVINml2Unk3cDNQYlBRd2U3ekE5cExaN1VtMkpLQmVSZXFBT2VXRVl5N2NCbWZPOHdoOVF0UGVUYjRud3dMRW9jeE9JV2oxZTF1N1dyaWplbjNYcG82aFJSdHNQb0U0VVNqOExjUFpvTVJ4Q2VmVVg0bVZvb1lKVmJ2STZzUEVucGV2a1Bm?oc=5"
     },
     {
       "headline": "Iran leaders join crowds on Tehran's streets to project control in wartime",
@@ -67,17 +67,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3NZUFdvSjRQa0RDTkFaSEFjUzlvMFA0UjYyT0tQb1gtVC14ODdvUUlQMENhTlhJVlp2cWpNbVEwb2lXYmdOQkVBN2ZHcjRqTTF1WkloZy1GYTc5Y2NHU29tNEpxQ2tzNXQ2VFA2NnB6ZVdtRy12ZXlQV1FrcnlxTERQUGhoeDhsTEtjbmZLUTBOZw?oc=5"
     },
     {
-      "headline": "Zelenskiy accuses Russia of 'Easter escalation' as massive attack kills two",
-      "summary": "Zelenskiy accuses Russia of 'Easter escalation' as massive attack kills two &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-04-03T12:29:43.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA?oc=5"
-    },
-    {
       "headline": "French-owned CMA CGM container ship passes Strait of Hormuz, data shows",
       "summary": "French-owned CMA CGM container ship passes Strait of Hormuz, data shows &nbsp;&nbsp; reuters.com",
       "source": "reuters.com",
@@ -98,6 +87,17 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFhqQkdSSVVrR01Kb2NZZF9ESFd4aE1DakQzRjZCdTkydk9YbVFnM01tdVFTeDI5NklnZkNOVG95TUh0b0dYZDJKWUdHMkJHRXlhQmRlQ3NSSDRDOXFvdW9OVWlROF9JYTVmTzJOSjA5NDNickRFNEVzSk5Jc1lMNjU0VEJzYkFld1BOVVBvZmV3cm50LWJRR2F1dGNKZWM?oc=5"
+    },
+    {
+      "headline": "US targets Chinese chipmaking with proposed export restrictions on ASML and others",
+      "summary": "US targets Chinese chipmaking with proposed export restrictions on ASML and others &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-04-03T11:45:45.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2VvanJZRy04RmpiTUF4aG5QSXhVV3RNdTVUM0ZSdy1NN1d2dmZhMVhveTF2ZkdFY2JsdmF4RGZXcXB3NmVkOHI1cFZVQ1NzdU9ncU84RkZVX3IzeXpwUVByVk5uOWRNT2JHcHZaSUxFU0k0YTcyX0dhLTBZM3pLMDhaMkREd3MtWUlwRkl0REpTNUc3bDdIZUVva3c1UVYxcXR3TGJLUGpHWjRNMmt5R1g1cHFyRnhudng1MllRaWg?oc=5"
     }
   ]
 }
