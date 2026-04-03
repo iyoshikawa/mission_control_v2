@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-03T17:38:44.446Z",
+    "generatedAt": "2026-04-03T18:54:31.067Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic employees bet on midterms - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-03T14:10:27.000Z",
+      "headline": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-03T17:53:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic employees bet on midterms &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbVM0N1ExRkQySkJQQzZOVHBWS1hDMW1LSDRvc01KcXI4ZFpqeE1jVXo3cVM3eXY4V0R5N2FhZHhTMXpvQ3Ftb19iLXhUbWNmbXlYdlJRQzdTbWtXUHh0VjlBWm1mdw?oc=5"
+      "summary": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSmpIVWxaVll5VXVUMUstaUhMYmppU0tDalJQWi1LU0dFc2tuMmZmc18yeUFrdUd0bFM0Nk1tYlpraEZPSDRhYmlUazdCYUVNZkVWVUpEVWNJaVd1bFdhUjh3Y09HdHowWWJSLVpFS2xVOWkwbmc?oc=5"
+    },
+    {
+      "headline": "The AI Industry Wants to Automate Itself - The Atlantic",
+      "source": "The Atlantic",
+      "timestamp": "2026-04-03T17:35:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The AI Industry Wants to Automate Itself &nbsp;&nbsp; The Atlantic",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUVmYTJJWUxHQzZ4THNTNFc5aW01NlFPSGlqY0ZQekpSMUlpNUhWZmFvUU50YnpVTHhhZGlpaEpjQWZMREtrQkE5WVZfd2U1NmRia1NUSTAtWVVHcTdxZDBuSGVaQ0U1QUh2YjNvTnNPYlJnTnNUMTB5M1dOdmVoZFVPX1ZFaFdFbnlsR2JwRQ?oc=5"
     },
     {
       "headline": "Eastwall Achieves Microsoft \"AI Apps on Azure\" Specialization, Strengthening Frontier AI Engineering Capabilities - PR Newswire",
@@ -32,12 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVzFCUDF1NDNIVVJLYk51TWdieEJGS2d5QzJWaGxNemFEZ0JPMldCTnBxSlhoS1REZjNwRzZWVURuTDFhUE11OVBwRkctbzJ3RWJMZXZiVWRDbDdyZkdNMXQ2TWJBcW9JWk9wRGpMT2VUcjFTTWxxSnloVU9Wb0VZaFZpM2N6SmhZeUN6Nl9PSTgxN2hEVDZwVEFMZTZhWU1VaGQ2Y0JvWjRSZVU1ZmJKTFl5cDVScTBpTnQ4cnNDNlBQWWNnUDBwUUYtOGN0c2M2UnVQNnRGSnlJWUg3eDlVb1hiX3NUUU9icmg2WTd1LWdCazhZZzh6R0FR?oc=5"
     },
     {
-      "headline": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI - businessinsider.com",
-      "source": "businessinsider.com",
+      "headline": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI - Business Insider",
+      "source": "Business Insider",
       "timestamp": "2026-04-03T12:39:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI &nbsp;&nbsp; businessinsider.com",
+      "summary": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEFsOTEyZ2JkWG9uWTBYWWZMcUZyVl9oMHV3SkpIZldIV2ZaRF9EZUExVFJLSDdXTEFNSDAteUxrYzNpQjEwaWgwWEhqSVdGTGt4dm5OdzlnNTNselBiTHUzN3VRUEFKbm93M2YyQ2hQRC1ua2JETlptQXBTYzRwR00wQWNUQVZrdTJrb1lPMzgwQmw1Z0VCQlFlN3BuVTR4OFVsb0t3WDdMZw?oc=5"
     },
@@ -50,6 +60,16 @@
       "summary": "Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern &nbsp;&nbsp; CNN",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xYnB3OC1ZUkRxNE5LY1JPQ01aQVlzeldlcmxiR0Y5N3BLa0xzRW14LXpTV2lpc3hnNEJRX0Q4OUpwRXhaLV9Kd2tobkR6TGtOV2hkYktkZkllbGJzRG56aFhkYjRKQzNNQjhhVnRNd2VsZm1qejU3Zw?oc=5"
+    },
+    {
+      "headline": "Anthropic Buys Stealth Dimension-Backed Coefficient Bio in $400M+ Stock Deal - Newcomer | Substack",
+      "source": "Newcomer | Substack",
+      "timestamp": "2026-04-03T00:05:30.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Buys Stealth Dimension-Backed Coefficient Bio in $400M+ Stock Deal &nbsp;&nbsp; Newcomer | Substack",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkaG1vV2Nvb3JwclF6N21GWElkWk1UTnFQUVVxVEpNT2toLWNKWWFYSm9CSE9kM29qVTZNX1NtdHVieFBOVzhIdWotZzFIQm92d05ZYUJ6OWd5UEFVRnp1eDAxZXpVLXI3d1E?oc=5"
     },
     {
       "headline": "Anthropic Acquires Startup Coefficient Bio for About $400 Million - The Information",
@@ -90,38 +110,27 @@
       "summary": "Gemma 4: Google’s New Open Source LLMs Lag Behind Chinese Competitors &nbsp;&nbsp; trendingtopics.eu",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uck1vQTNzQkVUQTVTcnEtajhLVkF3Q2w2cEVYMDg0WFAzYU1PS2V6VEtTTWI2eHFiM0thaHdPTzdMVFdfYjdRVHl4R3B1U011eEl4b2hXbGhwZWVmRVpFdGZR?oc=5"
-    },
-    {
-      "headline": "OpenAI acquires TBPN - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-04-02T17:41:32.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI acquires TBPN &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZ1ZGckR5Nlo0OHk3Y2xBejRCWVFoY0J4bjV6MVJPaWZkSkVIbXFDd2UxM3NsTW9GSEhKZS1HTDJQUVJsUkhjeVc4THNfQ2c2YlVqVEhPRmZTQQ?oc=5"
-    },
-    {
-      "headline": "Exclusive | OpenAI Buys Tech-Industry Talk Show TBPN - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-04-02T17:25:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive | OpenAI Buys Tech-Industry Talk Show TBPN &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPNVVaWjRaLThOSUFMN3U1aEhvOEppdm83SERTZm1lMW91cGU4dmE2d1pVaXBkZEJWN2hIZnM1QkhGbGhoUjlITHpETVI2aGoyOHMwcXoyYVNvNUZtWTdHaWp1WXd0eGRUc1o0VGxrc2xHZ01CMkxidkVVR2U0c2k3eVpjem9XbWhNWVZjalo3RDdIczBJTURFMXVxbEtiaVQtSktJNnVTRW05ZzdnR294SmhFNkZPUl93WERxd3daOUhyYVZoUWFsRWo0b19QX2tjSVlxMkEtQlFhZ1RuMnB4MUZwTVBhUW1VWWpMRlpaLUVyVFgxTzA0alNXTWoyb3lybk5PaGFRSjY5c0RZNk9tVG1lMUdMQk9hYkNHcTJ2LUFCNV93a2lnYjA4VzNjQ3lBRkF5Qm8ya3JCZk1TUnJiUllBM0lQVWlPRTZENXVvNlR2NEo1dkMwNzVZRENfWW1tYlVJb0tEQzhSYUhZaTI0c0Y3aVJXWmhvQTRZR0tBUngwanZST295OHZRZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic employees bet on midterms - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-03T14:10:27.000Z",
+        "headline": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-03T17:53:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbVM0N1ExRkQySkJQQzZOVHBWS1hDMW1LSDRvc01KcXI4ZFpqeE1jVXo3cVM3eXY4V0R5N2FhZHhTMXpvQ3Ftb19iLXhUbWNmbXlYdlJRQzdTbWtXUHh0VjlBWm1mdw?oc=5",
-        "summary": "Anthropic employees bet on midterms &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSmpIVWxaVll5VXVUMUstaUhMYmppU0tDalJQWi1LU0dFc2tuMmZmc18yeUFrdUd0bFM0Nk1tYlpraEZPSDRhYmlUazdCYUVNZkVWVUpEVWNJaVd1bFdhUjh3Y09HdHowWWJSLVpFS2xVOWkwbmc?oc=5",
+        "summary": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "The AI Industry Wants to Automate Itself - The Atlantic",
+        "source": "The Atlantic",
+        "timestamp": "2026-04-03T17:35:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUVmYTJJWUxHQzZ4THNTNFc5aW01NlFPSGlqY0ZQekpSMUlpNUhWZmFvUU50YnpVTHhhZGlpaEpjQWZMREtrQkE5WVZfd2U1NmRia1NUSTAtWVVHcTdxZDBuSGVaQ0U1QUh2YjNvTnNPYlJnTnNUMTB5M1dOdmVoZFVPX1ZFaFdFbnlsR2JwRQ?oc=5",
+        "summary": "The AI Industry Wants to Automate Itself &nbsp;&nbsp; The Atlantic"
       },
       {
         "headline": "Eastwall Achieves Microsoft \"AI Apps on Azure\" Specialization, Strengthening Frontier AI Engineering Capabilities - PR Newswire",
@@ -133,13 +142,13 @@
         "summary": "Eastwall Achieves Microsoft \"AI Apps on Azure\" Specialization, Strengthening Frontier AI Engineering Capabilities &nbsp;&nbsp; PR Newswire"
       },
       {
-        "headline": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI - businessinsider.com",
-        "source": "businessinsider.com",
+        "headline": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI - Business Insider",
+        "source": "Business Insider",
         "timestamp": "2026-04-03T12:39:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEFsOTEyZ2JkWG9uWTBYWWZMcUZyVl9oMHV3SkpIZldIV2ZaRF9EZUExVFJLSDdXTEFNSDAteUxrYzNpQjEwaWgwWEhqSVdGTGt4dm5OdzlnNTNselBiTHUzN3VRUEFKbm93M2YyQ2hQRC1ua2JETlptQXBTYzRwR00wQWNUQVZrdTJrb1lPMzgwQmw1Z0VCQlFlN3BuVTR4OFVsb0t3WDdMZw?oc=5",
-        "summary": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI &nbsp;&nbsp; businessinsider.com"
+        "summary": "Microsoft released 3 new AI models, ramping up competition with its close partner, OpenAI &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern - CNN",
@@ -151,22 +160,13 @@
         "summary": "Anthropic’s next model could be a ‘watershed moment’ for cybersecurity. Experts say that could also be a concern &nbsp;&nbsp; CNN"
       },
       {
-        "headline": "Anthropic Acquires Startup Coefficient Bio for About $400 Million - The Information",
-        "source": "The Information",
-        "timestamp": "2026-04-03T00:03:00.000Z",
+        "headline": "Anthropic Buys Stealth Dimension-Backed Coefficient Bio in $400M+ Stock Deal - Newcomer | Substack",
+        "source": "Newcomer | Substack",
+        "timestamp": "2026-04-03T00:05:30.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQngxNzNsclBUMWNjdzB0YkE2RHVCejZhZEZZNWNjZkRmVVlOR1JoNWxYMWdEdm5qcUFBZzBkdjN4b2tyZ1djZzFSMUJvYmxQdGs1d1VJYlN5alJYbVB5X2tfLU5sdkg0Wkd5OS1BTU90cXhSS18ybllQUzRTRTVtdHRxRmx0aTdSWmE1dXZLd3pxRmNUZndjWVFB?oc=5",
-        "summary": "Anthropic Acquires Startup Coefficient Bio for About $400 Million &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "OpenAI acquires popular tech podcast TBPN - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-02T18:05:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jYWF6d2FvZW1GTTNwSDNSQWdQUDRlSU1yemtOOXlvYUc5RlVXY3JYNzk5YVlWRXU0OW1Na2h4YzJYTS1nUy1uSmxYV3NKemhyUlRBX1pOWm53UmE0cEN1N2lyeF9uTGxWNmVFTVIxM1Q1T1JNVVE3bVBn0gF_QVVfeXFMTmJqOUdaWW9nQ2g5RnA0b25wWE4tMDJZX3E3dElDUF90ZEk3RTlXYmpHRnhoTnJla0R6VUVaQTVtRy1kREUyQ0VNYjdYRnR4T0dBUThlMkhsR2N3aHZfRkVYNDc4aDluQ0RJOTg0UzV3Slh4SzlGa0ZDMEJseEdtVQ?oc=5",
-        "summary": "OpenAI acquires popular tech podcast TBPN &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkaG1vV2Nvb3JwclF6N21GWElkWk1UTnFQUVVxVEpNT2toLWNKWWFYSm9CSE9kM29qVTZNX1NtdHVieFBOVzhIdWotZzFIQm92d05ZYUJ6OWd5UEFVRnp1eDAxZXpVLXI3d1E?oc=5",
+        "summary": "Anthropic Buys Stealth Dimension-Backed Coefficient Bio in $400M+ Stock Deal &nbsp;&nbsp; Newcomer | Substack"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
