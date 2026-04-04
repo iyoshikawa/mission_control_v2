@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-04T08:39:47.560Z",
+    "generatedAt": "2026-04-04T09:36:27.202Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,9 +12,20 @@
   },
   "newsFeed": [
     {
+      "headline": "India says crude oil supplies secured, no payment issues for Iran imports",
+      "summary": "India says crude oil supplies secured, no payment issues for Iran imports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-04T08:30:45.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1liQ3JRLUJKZlo1Ri1xUEZ6UUFldGdOV0hqUkdZRTBDOWQxTVpybzdlSHR4bDNTTGxQMkhtdFgxVWtSa1pQYWV1bkZ6NlRkVzhvS3plblRWX2M5aG1TVFI0V2JfNF9RWXVhbUM1eE53elRlV21TaDlwTTZPa2lQMkI4Rk1vR1N2WjRxRDdKRlNmSjJaQThtbDVWbXZzRnp5Qm1uQ1VPX0JMZU5hSmR0X1FrbVNkS2RHMzYtNw?oc=5"
+    },
+    {
       "headline": "Police investigate explosion at Israel Centre in the Netherlands",
-      "summary": "Police investigate explosion at Israel Centre in the Netherlands &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Police investigate explosion at Israel Centre in the Netherlands &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-04T07:19:28.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -24,8 +35,8 @@
     },
     {
       "headline": "Ukrainian drone and missile attack kills at least one in southern Russia, governor says",
-      "summary": "Ukrainian drone and missile attack kills at least one in southern Russia, governor says &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Ukrainian drone and missile attack kills at least one in southern Russia, governor says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-04T06:25:00.000Z",
       "impact": "HIGH",
       "region": "Europe",
@@ -35,8 +46,8 @@
     },
     {
       "headline": "Fire reported at foreign oil companies' storage facilities in Iraq after drone strike",
-      "summary": "Fire reported at foreign oil companies' storage facilities in Iraq after drone strike &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Fire reported at foreign oil companies' storage facilities in Iraq after drone strike &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-04T05:16:00.000Z",
       "impact": "HIGH",
       "region": "Global",
@@ -46,8 +57,8 @@
     },
     {
       "headline": "Exclusive: US intelligence warns Iran unlikely to ease Hormuz Strait chokehold soon, sources say",
-      "summary": "Exclusive: US intelligence warns Iran unlikely to ease Hormuz Strait chokehold soon, sources say &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Exclusive: US intelligence warns Iran unlikely to ease Hormuz Strait chokehold soon, sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-03T21:45:32.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -57,8 +68,8 @@
     },
     {
       "headline": "US fighter jet shot down over Iran, search underway for crew member, US officials say",
-      "summary": "US fighter jet shot down over Iran, search underway for crew member, US officials say &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "US fighter jet shot down over Iran, search underway for crew member, US officials say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-03T21:44:48.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -68,8 +79,8 @@
     },
     {
       "headline": "Israel strikes Beirut, US warns Iran may hit Lebanese universities",
-      "summary": "Israel strikes Beirut, US warns Iran may hit Lebanese universities &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Israel strikes Beirut, US warns Iran may hit Lebanese universities &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-03T20:05:18.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -79,25 +90,14 @@
     },
     {
       "headline": "Russian oil terminals under attack unable to accept shipments for second week, sources say",
-      "summary": "Russian oil terminals under attack unable to accept shipments for second week, sources say &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Russian oil terminals under attack unable to accept shipments for second week, sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-04-03T20:00:11.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5"
-    },
-    {
-      "headline": "Cyberattack targeted Italy's Uffizi but nothing stolen, museum says",
-      "summary": "Cyberattack targeted Italy's Uffizi but nothing stolen, museum says &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-04-03T19:59:09.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnVqV0FIR1VuNy1KT3JLYlRCVGtFM3VmZm05RTFKTHZGM1dJeWgtMnFfNFk5RXRqamJmLVBVVm1qWXprVVgtSVlCTEU2RHUzUzJpWmI5d3NMRl90VGpLR3lTajRwc2M5NzRXaUozMnBKNnBQbW5EbFk1eFo4RkJuTXlBYVdlRzRtUnBsMUJQQ3lWcUpVQS1vZGdGWldMZnVRcHdyVXlXcjJGZTlWYVgtNF95a0VXZw?oc=5"
     }
   ]
 }
