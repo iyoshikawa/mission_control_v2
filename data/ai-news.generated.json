@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-04T18:51:27.513Z",
+    "generatedAt": "2026-04-04T19:34:55.132Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-04T16:32:22.000Z",
+      "headline": "It's no longer free to use Claude through third-party tools like OpenClaw - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-04-04T16:09:12.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage &nbsp;&nbsp; TechCrunch",
+      "summary": "It's no longer free to use Claude through third-party tools like OpenClaw &nbsp;&nbsp; Engadget",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzFqY2FoRkRPMHRheTJyUEViSnpaOEY0enZSN3ZaOGI2cnZoVE95UVlDMWRjNlFMVkNwVmJPcGlndmZQV3VkRDJ2YjA2U2lhUkhLOFZZSGRkQUV0SVBGWXlhUzNCeUdyNm9NTHpaM3dMbUpXV2UwQXBsSEpFWXJJOUxrYXFhbU5DQUc0d0hNWDlMZ3dzZU1ueFFGY25ueE42NnNyNGhtMVpBQVVpOE50el9SS0FrUQ?oc=5"
+    },
+    {
+      "headline": "Google's Gemma 4 Runs Frontier AI On A Single GPU - forbes.com",
+      "source": "forbes.com",
+      "timestamp": "2026-04-04T12:06:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google's Gemma 4 Runs Frontier AI On A Single GPU &nbsp;&nbsp; forbes.com",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlhMLWdFbjJIRGVkTVJMTmR4MTA4ekJST3BmSG1vUkpQNVE0djJmYXVUVlA5SXFWMXExNl93bTlsZklUOWlUMnBMTE1HOFhhc3N0R0FNdkpCQ1o3MWMyTnZmMzlzdXU0T2JENEktMHlvZ3pIZFBEVXRDZENFNDQtUjlSMjVkMFlCRGVNNmdCSS00cEh1ZUJISFJENk5hcUVlaTMxbw?oc=5"
     },
     {
       "headline": "Axios C-Suite: OpenAI's Sam Altman's AI adoption advice for fellow CEOs - Axios",
@@ -100,28 +110,27 @@
       "summary": "Meta's AI push is reshaping how work gets done inside the company &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanZWNGRfdE5YRlgxR29RekdqRjd1Y3lSN2xNdl8yZ01iUENwaTNmTzEzcWw3ak9EcUJYQmxkejZTNzNGN01BT1Jxd0NDODlleml6TXZaMk1KbnN3ZTctX3RtSG1IZjR1MGZMQ1kzeHhnbXNpOF9sclQxLVFHSXZIUFFRaGk?oc=5"
-    },
-    {
-      "headline": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-03T17:53:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSmpIVWxaVll5VXVUMUstaUhMYmppU0tDalJQWi1LU0dFc2tuMmZmc18yeUFrdUd0bFM0Nk1tYlpraEZPSDRhYmlUazdCYUVNZkVWVUpEVWNJaVd1bFdhUjh3Y09HdHowWWJSLVpFS2xVOWkwbmc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-04-04T16:32:22.000Z",
+        "headline": "It's no longer free to use Claude through third-party tools like OpenClaw - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-04-04T16:09:12.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5",
-        "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage &nbsp;&nbsp; TechCrunch"
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzFqY2FoRkRPMHRheTJyUEViSnpaOEY0enZSN3ZaOGI2cnZoVE95UVlDMWRjNlFMVkNwVmJPcGlndmZQV3VkRDJ2YjA2U2lhUkhLOFZZSGRkQUV0SVBGWXlhUzNCeUdyNm9NTHpaM3dMbUpXV2UwQXBsSEpFWXJJOUxrYXFhbU5DQUc0d0hNWDlMZ3dzZU1ueFFGY25ueE42NnNyNGhtMVpBQVVpOE50el9SS0FrUQ?oc=5",
+        "summary": "It's no longer free to use Claude through third-party tools like OpenClaw &nbsp;&nbsp; Engadget"
+      },
+      {
+        "headline": "Google's Gemma 4 Runs Frontier AI On A Single GPU - forbes.com",
+        "source": "forbes.com",
+        "timestamp": "2026-04-04T12:06:46.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlhMLWdFbjJIRGVkTVJMTmR4MTA4ekJST3BmSG1vUkpQNVE0djJmYXVUVlA5SXFWMXExNl93bTlsZklUOWlUMnBMTE1HOFhhc3N0R0FNdkpCQ1o3MWMyTnZmMzlzdXU0T2JENEktMHlvZ3pIZFBEVXRDZENFNDQtUjlSMjVkMFlCRGVNNmdCSS00cEh1ZUJISFJENk5hcUVlaTMxbw?oc=5",
+        "summary": "Google's Gemma 4 Runs Frontier AI On A Single GPU &nbsp;&nbsp; forbes.com"
       },
       {
         "headline": "Axios C-Suite: OpenAI's Sam Altman's AI adoption advice for fellow CEOs - Axios",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlVpQkotWnFxTlNwcHpleEFZeG5xZG1waHROa1JxQ1R1bjRQMEJlOEc5cHc1YW95QWROdDJDSGtUWkgySXp2b3NRZTdWMkVXNF83Qk1wNEVXdHFzeUlIMkRlUmFrN3otVHlmSEhsVGNpWm9Dd1FpeXVERHA0U01IcjdYS0YtZG9YWGZFZFBSaWlJMjMxQW40eVAzTjJSNTVhNUNB?oc=5",
         "summary": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts - MarkTechPost",
-        "source": "MarkTechPost",
-        "timestamp": "2026-04-03T22:26:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGlLTWw4cFEyZ0JBM0p4OUFzcUhUanNuck9MSjRfemd4d3NjTUJOT1JOZzNHZ1kwUzRzanFWek91VnRZckxYXzAzZ2N0d2k0RjBPbEJIdmJGQVpHcUJvX1pia29zSzQwUkdpa0lfZlJxdG5yZkxIUUpBUEVfSTBPSnREZ1NBTG1iTkcwMDBEa2xpRmNPTEUxOG5BRnlHWmV2dDVma3pBcHg4WVlZNFVWbVhSYjRaZmhuRmVzR2NaY3htVnVXbzhieFNzMjRFN0JVaFNzTGloQmZYLWh0c1pNVXdpY9IB6AFBVV95cUxQcDU5WlRaNm1TNC1wMnhrRXBvNDZVdmhncGdveXhoTGJIRFNPVWsyY0U3RE9uQm9ZbU9UVUlJeFFpaVBjVjg4S21RWnZQUW5LWUgzZTk0MmJma1RpSHdORzdjX1NSR3J1S3gzTjdzNXFoWVgtZDNXZXVwSzZua05ZT0F5TFk5Z1lWeUhUdEROeXl4YUxnRHEtdnVoaFVNV01KMDg3cW1GeWJPR0JadlNnbk9BeC1lYW9LcEI0X2lObnFRQ1FVd0Z5aUM0QlNiR2gtRHBuZS1UaktJYWlSMzlHYllwYTliZlJU?oc=5",
-        "summary": "Google DeepMind’s Research Lets an LLM Rewrite Its Own Game Theory Algorithms — And It Outperformed the Experts &nbsp;&nbsp; MarkTechPost"
       }
     ],
     "whyItMatters": [
