@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-07T15:14:22.718Z",
+    "generatedAt": "2026-04-07T17:05:50.335Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,36 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Anthropic Poaches Microsoft Executive to Lead Infrastructure - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-07T16:53:33.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Poaches Microsoft Executive to Lead Infrastructure &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3U2M3NfQ1FzaFpoMXIteUVseGJ1aUt0QmU2VTNsb3RnRlZpcGVNQ1pOTWVpaDFmRDl6QWNZWVdlT2NjNlNKRThmNnR0eTU0Y2pGR3A1eVAxamlXUUx6eW5SYmkzWm1OcFVLZUNsTjFqejdQTndrOVRkX2E1aU02S1NDQW9RQ0ViUm05bmlJazc4My1PVHNibGxySHRKYjRzanpTQWJYTmZLUzk0d2pieA?oc=5"
+    },
+    {
+      "headline": "OpenAI proposes new AI doom scenario - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-07T15:58:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI proposes new AI doom scenario &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53YTdaWkNMZUVjUkZrZllHUTdjWHFlRThWSzB1RGh6OFlYX3lhTFRBeXVlU3otYjFwMnJUcEdRbTJhSWpTSUtfV0xEQ1ZfcFNOcTBHaU80cTJ0Smw2cjBsTWh6MDFPLU1BREpDZmZxblVqcTA?oc=5"
+    },
+    {
+      "headline": "Claude Suffered a 'Major Outage.' Anthropic Says It's Fixed. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-04-07T15:29:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude Suffered a 'Major Outage.' Anthropic Says It's Fixed. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2bnVuRk9uZ18za2pjQl9odGgtclRHMUJTcUtJMFBGN09BSXBaVVpDRUdxTGdEQnd2QXNpMjRGaHZGSzhYVmlTVFp3OWJDUXMxLVp4c0kteG5fbnkyYlVTYnhwTlZDR2l2dFp2Sw?oc=5"
+    },
     {
       "headline": "Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm - The Guardian",
       "source": "The Guardian",
@@ -52,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5"
     },
     {
-      "headline": "The AI agent buffet is closed - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-07T01:58:01.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "The AI agent buffet is closed &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsRUx4ZHNWM3FTRWx5czlIT2JIYVdEdHdWcWFwX3gwcnZKNDdRZjhVMTJTWGZ2M3NTZ1pSb1NaN0JZdEFtT3c0UUtxZGFNYmdUWnlfcGFDREV3UUotZGtaYVRyanIzN0tsR1lBMTlzcUxoV0JtRWZLcXM5WQ?oc=5"
-    },
-    {
       "headline": "Exclusive | Anthropic in Talks to Invest $200 Million in New Private-Equity Venture - WSJ",
       "source": "WSJ",
       "timestamp": "2026-04-07T00:45:00.000Z",
@@ -69,51 +89,58 @@
       "category": "ecosystem",
       "summary": "Exclusive | Anthropic in Talks to Invest $200 Million in New Private-Equity Venture &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPX2NELVFGY0oxcU9KM3R0NGdickRialhUQnd0a0xtNzVqUk1jZkJ0anFXRUhJMk1Hb3h0QWFIdHZRZzFZUkpReTNvdnQ1Y3dGOFU5YlpZbjRQT3JCaHNkWlYtcTA1WW5tTzFGbm12eUtBTFR6VEZ1QTJaLU5tbVJ2WE9IZWZKZmtQejBUdGN1Nm5hUVo3c2FsbTEzODIyNXZsMUR0ajkzaWpjMGgxWl9IYjVMQUlmMC1UOWppejdHbzM5VXBZekF2MWQzeWhDZkVvQ1U4aDkzUW1XSkdEQ29JdHc4b0hqeGxfcnZrWlVkMWtxcGdnM2I5cXRpbEZFMGtTX2h6ZkRxa3NUTURxY1Jkdkh1WHY5aDZzM21EQlR0VE1lX1Y0bFNWTWlrNTE2TVU3ZXo3eWdKdHBoQTBQbkE0V3lRYmp1Y1FEOURIU0lEd21oTU11X2dyc2Y3QjBZUE1Xb2hqSWpQU0tyY0wxTHFoQ1FVa1pfU0xJRVJmcWlJaVJJa3BxVm00cWJ2b2pQOVYtdFpCLXBUM1J4VG5LaVBKcExzZmloTzc5RHhKTEV6a3k?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPRGFnV21rQTNfUzB6b3l2czhFUS1kUGRGa3lWTUFZSTByNlRWTE9obmpvdW9BS2dRM2M3MEM2SmtWSXZvdjdDTVdKRERqTXBLWDRESW5LVjlILTlPNlVvQUpSN3Z6ei03YmRzeWJBQ09uSUczWFFpa2xaZ0U1WElkSjR5cTJmcGNRdXZHdjZxcGRtN01VUFdWMjVrMkQ3MXB6M1I5czZBVkdzZmJWakNDcWVJb1l3M2U2bXF2NkRNSG1UTEdiRXluMGtYWnBSYnVteU5MVGdUWkdJWnFDQTVSZnFrTTlEOFdfbnA5YVgzaHZLWm04UE14TDBZZl9BUEhiaDlZTDJQN2dDY01PNW96eTZ2QXRpUHdFUS1TcE1UV09GVVJ6dUdrRThqT3RFMi1neUVlYmVWTzF6cGU3TjVNQTltLTBZenRpd3dEOTY2a0pocjdpbVlydGhnT2ZXeVBPM3lGOWY3WXg3cWdScXRicDFkSTNidmlYUWU0Skh3MVJ0QllEajA5OHR4S2NJVlpDbnJJcTFKYjQtb0k3bkpqc3MtcmVGZ0s1N0tLSzJVaTE?oc=5"
     },
     {
-      "headline": "Broadcom agrees to expanded chip deals with Google, Anthropic - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-06T21:41:28.000Z",
-      "impact": "LOW",
+      "headline": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-04-06T21:55:36.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Broadcom agrees to expanded chip deals with Google, Anthropic &nbsp;&nbsp; CNBC Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration &nbsp;&nbsp; WSJ Broadcom stock pops after the chip giant inks fresh AI deals with Google and Anthropic &nbsp;&nbsp; Business Insider",
+      "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute &nbsp;&nbsp; Anthropic Broadcom agrees to expanded chip deals with Google, Anthropic &nbsp;&nbsp; CNBC Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVRoY2ZmWXVKQnZ3dnJBaWI1cWcxM0NGak5VUWhWU1NKQ3hkeWktZmdTRU05OUNmUTNWc1VLZlY2WVFfdGppNURVajZodHVuWnA2M0VHU1JwM2QtNkJ2ZC1iY1FiUWVKQ0JaeTQ1d0lMSUJPejZ4QlU1RUFKa2dnZzB5OXRqSF9od1JoaEc1Yk1FOUNQNjJtcE9qbmh6Z9IBowFBVV95cUxNa29PdnRDZlVBcUxUYlFMN0QyZmp0c2NIYzhwbXRLeVBmVFRURFZhbXpzS1B3dXZJaWZXZkdaYmtiZzVLVFdLLUVRYmRPQVdFWjFUR0k4dC1UVEx5RWlMa2VrTmtyT2NZemkzWHRUZjNQVXFNaHhpcjlnR3JlM3NrRDdNT1c5dDVFNjhfNGNTeFJxdFgxOVlDWGhBeW11cDVpMFJj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5"
     },
     {
-      "headline": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ - Fortune",
-      "source": "Fortune",
+      "headline": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ - fortune.com",
+      "source": "fortune.com",
       "timestamp": "2026-04-06T21:27:00.000Z",
       "impact": "HIGH",
       "category": "regulation",
-      "summary": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ &nbsp;&nbsp; Fortune",
+      "summary": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ &nbsp;&nbsp; fortune.com",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS3NlU19Vcjlxc3NEcjZTR1B2dzUwcFJRM1JDa0NBUWotQ3FpSVhyVDlIcXVVUnhqY2pGM1NtQ1QwS0lBOVBoVDhsdjhiQWlMTTBfR0V4MlNUQjBWTE5uS3VzR29ZX1kyZG1hcDJ0dFRSV1lJc2VkV0d0V1RFUkpiVzdMb0NoOVdCbjNPZnlNd201UnhXTVk4blk2NFZraFdUaDh2aU5ubHQwUUJiNU9ESFc2OGJNTEgxRnVHSGVrT0dPaUJzS3NaVjVMSVdJRVdmV2VNZDZjbmd3MjEyN2pGYURnMXItRVdMTVpTSmNaelVuT3ZlTlNPTVRLSmx4U21o?oc=5"
-    },
-    {
-      "headline": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-06T21:08:58.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29pTlNlU1RLWkl4dkRGM051Ny1kVUxMMkFvUW1pMzdEQ0RLckd6NWljVkp3RlZfcjNTWW5PQXkyYno2SGFFUXRJVEtGQkxCbVlob2JzWmszUTN3TmZqRC1aX29wM2pqS2NYbEVNUVN1YzBNcUlXUW9YbHF4NUx6ZkV0UVB2bmxHYnc2dTNJbFFrU0ZxZ3pRSmpDMWIwOGdqdkFfZ2pHNER3NzJCZlFKb1VuYw?oc=5"
-    },
-    {
-      "headline": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models - Gizmodo",
-      "source": "Gizmodo",
-      "timestamp": "2026-04-06T20:50:20.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejNZRFE2YkZkNTlmM2R4RmxIMW9mRjF3T01OM1V3ZXNTaF9UVW5ibDY2MFcyMUFKQmpoeUJ6TkZUQXE2VWNnX0ktOFZ4bnVoSUlVYTdsWkY4SGRMM0UyYl9rT3Y4dV9LbmYzS2VLSU55WEFIWUhjWmh1SWh0WHNqano3a3FXRzYySlRQVDBwRmhlYWJuRGZRTG9BWnhXZ0JWVTFJ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic Poaches Microsoft Executive to Lead Infrastructure - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-04-07T16:53:33.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3U2M3NfQ1FzaFpoMXIteUVseGJ1aUt0QmU2VTNsb3RnRlZpcGVNQ1pOTWVpaDFmRDl6QWNZWVdlT2NjNlNKRThmNnR0eTU0Y2pGR3A1eVAxamlXUUx6eW5SYmkzWm1OcFVLZUNsTjFqejdQTndrOVRkX2E1aU02S1NDQW9RQ0ViUm05bmlJazc4My1PVHNibGxySHRKYjRzanpTQWJYTmZLUzk0d2pieA?oc=5",
+        "summary": "Anthropic Poaches Microsoft Executive to Lead Infrastructure &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "OpenAI proposes new AI doom scenario - Axios",
+        "source": "Axios",
+        "timestamp": "2026-04-07T15:58:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53YTdaWkNMZUVjUkZrZllHUTdjWHFlRThWSzB1RGh6OFlYX3lhTFRBeXVlU3otYjFwMnJUcEdRbTJhSWpTSUtfV0xEQ1ZfcFNOcTBHaU80cTJ0Smw2cjBsTWh6MDFPLU1BREpDZmZxblVqcTA?oc=5",
+        "summary": "OpenAI proposes new AI doom scenario &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Claude Suffered a 'Major Outage.' Anthropic Says It's Fixed. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-04-07T15:29:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2bnVuRk9uZ18za2pjQl9odGgtclRHMUJTcUtJMFBGN09BSXBaVVpDRUdxTGdEQnd2QXNpMjRGaHZGSzhYVmlTVFp3OWJDUXMxLVp4c0kteG5fbnkyYlVTYnhwTlZDR2l2dFp2Sw?oc=5",
+        "summary": "Claude Suffered a 'Major Outage.' Anthropic Says It's Fixed. &nbsp;&nbsp; Business Insider"
+      },
       {
         "headline": "Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm - The Guardian",
         "source": "The Guardian",
@@ -140,46 +167,19 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GV3JhVGc5V0dBZWN4aU1PNUk2UVJ5LWhZY1pNaUJqTF9CaDdRR2N6Vm9LX1Q1d2I4Q2FES2RXY0xPNDZ2TG9vRU1XRGJjd1dLYUFjZWJZRTBuQQ?oc=5",
         "summary": "OpenAI encourages firms to trial four-day weeks to adapt to AI era &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Scoop: Meta to open source versions of its next AI models - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-07T07:41:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5",
-        "summary": "Scoop: Meta to open source versions of its next AI models &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "The AI agent buffet is closed - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-07T01:58:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsRUx4ZHNWM3FTRWx5czlIT2JIYVdEdHdWcWFwX3gwcnZKNDdRZjhVMTJTWGZ2M3NTZ1pSb1NaN0JZdEFtT3c0UUtxZGFNYmdUWnlfcGFDREV3UUotZGtaYVRyanIzN0tsR1lBMTlzcUxoV0JtRWZLcXM5WQ?oc=5",
-        "summary": "The AI agent buffet is closed &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Exclusive | Anthropic in Talks to Invest $200 Million in New Private-Equity Venture - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-04-07T00:45:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPX2NELVFGY0oxcU9KM3R0NGdickRialhUQnd0a0xtNzVqUk1jZkJ0anFXRUhJMk1Hb3h0QWFIdHZRZzFZUkpReTNvdnQ1Y3dGOFU5YlpZbjRQT3JCaHNkWlYtcTA1WW5tTzFGbm12eUtBTFR6VEZ1QTJaLU5tbVJ2WE9IZWZKZmtQejBUdGN1Nm5hUVo3c2FsbTEzODIyNXZsMUR0ajkzaWpjMGgxWl9IYjVMQUlmMC1UOWppejdHbzM5VXBZekF2MWQzeWhDZkVvQ1U4aDkzUW1XSkdEQ29JdHc4b0hqeGxfcnZrWlVkMWtxcGdnM2I5cXRpbEZFMGtTX2h6ZkRxa3NUTURxY1Jkdkh1WHY5aDZzM21EQlR0VE1lX1Y0bFNWTWlrNTE2TVU3ZXo3eWdKdHBoQTBQbkE0V3lRYmp1Y1FEOURIU0lEd21oTU11X2dyc2Y3QjBZUE1Xb2hqSWpQU0tyY0wxTHFoQ1FVa1pfU0xJRVJmcWlJaVJJa3BxVm00cWJ2b2pQOVYtdFpCLXBUM1J4VG5LaVBKcExzZmloTzc5RHhKTEV6a3k?oc=5",
-        "summary": "Exclusive | Anthropic in Talks to Invest $200 Million in New Private-Equity Venture &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
