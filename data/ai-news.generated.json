@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-07T09:09:51.797Z",
+    "generatedAt": "2026-04-07T11:01:31.868Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Scoop: Meta to open source versions of its next AI models - Axios",
-      "source": "Axios",
+      "headline": "OpenAI imagines a society with, you guessed it, super AI - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-07T10:28:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI imagines a society with, you guessed it, super AI &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3ctRW80djNUWVROei1Fa0RVM1JROEtOcnJNLTU0OGRjcWxzclBxaHZCOHFoLWFfekY4THlYRHFidkkwVmk4dU9ydm1vV1ZjUVkxSHJuZnQwellkY2RWdG90b0wzWVhVbWlJbWgzQ0hWMWd2RTFqRzg3UF9PMWU4X2RaYkIwcGo1cW50dUhFa2JkeEN5MzVaUkNvNkxpWUREWGdGc2JFNGNTS3NyRXpVQWZXMkl5QQ?oc=5"
+    },
+    {
+      "headline": "Anthropic economics chief talks about the jobs that could be killed by AI - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-07T10:16:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic economics chief talks about the jobs that could be killed by AI &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnNJUEV0YmEzZ3FibnpFenRhN3NlcVB5cThzTWJBZzlTNFBMY0dvY0NRZ01qRUIyQllwZlNiYk1jT1lzYU00cG5jaTFyUTdXVTZsX193Rk9qWXROTHJEVGNTXzJOUEtjejI0QUQ5Sy1oMUhNa25kVEdsYzk3bXRmRlBmcUNmZHo3WVN0bHhJcFIxczQ?oc=5"
+    },
+    {
+      "headline": "Claude is having a moment. Meet the Anthropic chatbot capturing Wall Street's attention. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-04-07T09:12:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude is having a moment. Meet the Anthropic chatbot capturing Wall Street's attention. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIQ3h3bFJScUZwdnJRTmNWc01qUzZDRE1HM2thR2RkbW1lNlhLcF9mWkFLNnJNeTlhNzNJdWhkY0hvWHNfUGk4SUg3bzhyWVU?oc=5"
+    },
+    {
+      "headline": "Scoop: Meta to open source versions of its next AI models - axios.com",
+      "source": "axios.com",
       "timestamp": "2026-04-07T01:39:39.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Scoop: Meta to open source versions of its next AI models &nbsp;&nbsp; Axios",
+      "summary": "Scoop: Meta to open source versions of its next AI models &nbsp;&nbsp; axios.com",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5"
     },
     {
-      "headline": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-04-06T21:55:36.000Z",
-      "impact": "HIGH",
+      "headline": "Broadcom agrees to expanded chip deals with Google, Anthropic - cnbc.com",
+      "source": "cnbc.com",
+      "timestamp": "2026-04-06T21:41:28.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute &nbsp;&nbsp; Anthropic Broadcom agrees to expanded chip deals with Google, Anthropic &nbsp;&nbsp; CNBC Anthropic in chips deals with Google and Broadcom worth hundreds of billions &nbsp;&nbsp; Financial Times",
+      "summary": "Broadcom agrees to expanded chip deals with Google, Anthropic &nbsp;&nbsp; cnbc.com Anthropic in chips deals with Google and Broadcom worth hundreds of billions &nbsp;&nbsp; ft.com Broadcom shares jump before the bell as chipmaker agrees Google and Anthropic deals &nbsp;&nbsp; cnbc.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVRoY2ZmWXVKQnZ3dnJBaWI1cWcxM0NGak5VUWhWU1NKQ3hkeWktZmdTRU05OUNmUTNWc1VLZlY2WVFfdGppNURVajZodHVuWnA2M0VHU1JwM2QtNkJ2ZC1iY1FiUWVKQ0JaeTQ1d0lMSUJPejZ4QlU1RUFKa2dnZzB5OXRqSF9od1JoaEc1Yk1FOUNQNjJtcE9qbmh6Z9IBowFBVV95cUxNa29PdnRDZlVBcUxUYlFMN0QyZmp0c2NIYzhwbXRLeVBmVFRURFZhbXpzS1B3dXZJaWZXZkdaYmtiZzVLVFdLLUVRYmRPQVdFWjFUR0k4dC1UVEx5RWlMa2VrTmtyT2NZemkzWHRUZjNQVXFNaHhpcjlnR3JlM3NrRDdNT1c5dDVFNjhfNGNTeFJxdFgxOVlDWGhBeW11cDVpMFJj?oc=5"
     },
     {
       "headline": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ - Fortune",
@@ -62,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejNZRFE2YkZkNTlmM2R4RmxIMW9mRjF3T01OM1V3ZXNTaF9UVW5ibDY2MFcyMUFKQmpoeUJ6TkZUQXE2VWNnX0ktOFZ4bnVoSUlVYTdsWkY4SGRMM0UyYl9rT3Y4dV9LbmYzS2VLSU55WEFIWUhjWmh1SWh0WHNqano3a3FXRzYySlRQVDBwRmhlYWJuRGZRTG9BWnhXZ0JWVTFJ?oc=5"
     },
     {
-      "headline": "A.I. Is on Its Way to Upending Cybersecurity - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-06T18:28:29.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A.I. Is on Its Way to Upending Cybersecurity &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR21Ub0VaMXhkWjNLczI4Wk5pT19zckk3dEJWal9LcGltLVIwMWUwOXNreWtQOGtTblcxWEx2UWhxUS14T1RfY3k3dW1lbXFyeGdNYTlIV3RLYmdBUDRsbm9mS0J3SzZIU0RXOTJTRnRGR2ZOdHRTQmd6RHhIbjhqcg?oc=5"
-    },
-    {
       "headline": "Google DeepMind Researchers Map Web Attacks Against AI Agents - SecurityWeek",
       "source": "SecurityWeek",
       "timestamp": "2026-04-06T15:32:54.000Z",
@@ -90,47 +110,54 @@
       "summary": "Meta Employees Vie for AI ‘Token Legend’ Status &nbsp;&nbsp; The Information",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeENrcmRZNFB6cDFIOFhiQWdKejFXOXpmaERpV0trd2FPYW9xeEdndlpDS0YtaTBrZ3pKX3VHbXVMd2I5M2tIdUJ0OFBWQkdxMmY5R011NnZmQTlocV9DbWdoclJ1RU5UdXVBUUlYMTN5dm1CcEtwLVEweUt6T0RkbnNSbjhDRnhl?oc=5"
-    },
-    {
-      "headline": "The AI agent buffet is closed - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-06T11:56:24.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "The AI agent buffet is closed &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsRUx4ZHNWM3FTRWx5czlIT2JIYVdEdHdWcWFwX3gwcnZKNDdRZjhVMTJTWGZ2M3NTZ1pSb1NaN0JZdEFtT3c0UUtxZGFNYmdUWnlfcGFDREV3UUotZGtaYVRyanIzN0tsR1lBMTlzcUxoV0JtRWZLcXM5WQ?oc=5"
-    },
-    {
-      "headline": "Sam Altman May Control Our Future—Can He Be Trusted? - The New Yorker",
-      "source": "The New Yorker",
-      "timestamp": "2026-04-06T10:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sam Altman May Control Our Future—Can He Be Trusted? &nbsp;&nbsp; The New Yorker",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ21pbG9zZ0VPWlp4YV9WOGZBd0pGVXAwNE4tZjVXTVF5VDNXVFU1ODRWdWZaSjhiQ2owQXFkV29SQ3JXZzI4UmZOTGFsZTFKMmJ1NDktN1cxWEtHQ3JiaEtuVFhDTlRtWjZxZUFwZVdmRk5WN2ZSRmVZcG5sZm11ajlYNDBRM0ozRGVkZUlJei1peWIyRHZTUnhiREo4Zw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Scoop: Meta to open source versions of its next AI models - Axios",
-        "source": "Axios",
+        "headline": "OpenAI imagines a society with, you guessed it, super AI - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-07T10:28:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3ctRW80djNUWVROei1Fa0RVM1JROEtOcnJNLTU0OGRjcWxzclBxaHZCOHFoLWFfekY4THlYRHFidkkwVmk4dU9ydm1vV1ZjUVkxSHJuZnQwellkY2RWdG90b0wzWVhVbWlJbWgzQ0hWMWd2RTFqRzg3UF9PMWU4X2RaYkIwcGo1cW50dUhFa2JkeEN5MzVaUkNvNkxpWUREWGdGc2JFNGNTS3NyRXpVQWZXMkl5QQ?oc=5",
+        "summary": "OpenAI imagines a society with, you guessed it, super AI &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Anthropic economics chief talks about the jobs that could be killed by AI - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-07T10:16:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnNJUEV0YmEzZ3FibnpFenRhN3NlcVB5cThzTWJBZzlTNFBMY0dvY0NRZ01qRUIyQllwZlNiYk1jT1lzYU00cG5jaTFyUTdXVTZsX193Rk9qWXROTHJEVGNTXzJOUEtjejI0QUQ5Sy1oMUhNa25kVEdsYzk3bXRmRlBmcUNmZHo3WVN0bHhJcFIxczQ?oc=5",
+        "summary": "Anthropic economics chief talks about the jobs that could be killed by AI &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Claude is having a moment. Meet the Anthropic chatbot capturing Wall Street's attention. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-04-07T09:12:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIQ3h3bFJScUZwdnJRTmNWc01qUzZDRE1HM2thR2RkbW1lNlhLcF9mWkFLNnJNeTlhNzNJdWhkY0hvWHNfUGk4SUg3bzhyWVU?oc=5",
+        "summary": "Claude is having a moment. Meet the Anthropic chatbot capturing Wall Street's attention. &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Scoop: Meta to open source versions of its next AI models - axios.com",
+        "source": "axios.com",
         "timestamp": "2026-04-07T01:39:39.000Z",
         "impact": "HIGH",
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pY0NnYlFFS0pOMmpUb0doYlRiT0NmYnVuYkZJOTZPZEVuSXhkSnVfdlMxMDFRYWpzT3hwNzZ3SVg0ajM0RXVoVmN1WVY1MjIta0w0TXM5eTk4N0s2WUI4empvRnJ2UEVScWdr?oc=5",
-        "summary": "Scoop: Meta to open source versions of its next AI models &nbsp;&nbsp; Axios"
+        "summary": "Scoop: Meta to open source versions of its next AI models &nbsp;&nbsp; axios.com"
       },
       {
-        "headline": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-04-06T21:55:36.000Z",
-        "impact": "HIGH",
+        "headline": "Broadcom agrees to expanded chip deals with Google, Anthropic - cnbc.com",
+        "source": "cnbc.com",
+        "timestamp": "2026-04-06T21:41:28.000Z",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5",
-        "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute &nbsp;&nbsp; Anthropic Broadcom agrees to expanded chip deals with Google, Anthropic &nbsp;&nbsp; CNBC Anthropic in chips deals with Google and Broadcom worth hundreds of billions &nbsp;&nbsp; Financial Times"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVRoY2ZmWXVKQnZ3dnJBaWI1cWcxM0NGak5VUWhWU1NKQ3hkeWktZmdTRU05OUNmUTNWc1VLZlY2WVFfdGppNURVajZodHVuWnA2M0VHU1JwM2QtNkJ2ZC1iY1FiUWVKQ0JaeTQ1d0lMSUJPejZ4QlU1RUFKa2dnZzB5OXRqSF9od1JoaEc1Yk1FOUNQNjJtcE9qbmh6Z9IBowFBVV95cUxNa29PdnRDZlVBcUxUYlFMN0QyZmp0c2NIYzhwbXRLeVBmVFRURFZhbXpzS1B3dXZJaWZXZkdaYmtiZzVLVFdLLUVRYmRPQVdFWjFUR0k4dC1UVEx5RWlMa2VrTmtyT2NZemkzWHRUZjNQVXFNaHhpcjlnR3JlM3NrRDdNT1c5dDVFNjhfNGNTeFJxdFgxOVlDWGhBeW11cDVpMFJj?oc=5",
+        "summary": "Broadcom agrees to expanded chip deals with Google, Anthropic &nbsp;&nbsp; cnbc.com Anthropic in chips deals with Google and Broadcom worth hundreds of billions &nbsp;&nbsp; ft.com Broadcom shares jump before the bell as chipmaker agrees Google and Anthropic deals &nbsp;&nbsp; cnbc.com"
       },
       {
         "headline": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ - Fortune",
@@ -140,40 +167,13 @@
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS3NlU19Vcjlxc3NEcjZTR1B2dzUwcFJRM1JDa0NBUWotQ3FpSVhyVDlIcXVVUnhqY2pGM1NtQ1QwS0lBOVBoVDhsdjhiQWlMTTBfR0V4MlNUQjBWTE5uS3VzR29ZX1kyZG1hcDJ0dFRSV1lJc2VkV0d0V1RFUkpiVzdMb0NoOVdCbjNPZnlNd201UnhXTVk4blk2NFZraFdUaDh2aU5ubHQwUUJiNU9ESFc2OGJNTEgxRnVHSGVrT0dPaUJzS3NaVjVMSVdJRVdmV2VNZDZjbmd3MjEyN2pGYURnMXItRVdMTVpTSmNaelVuT3ZlTlNPTVRLSmx4U21o?oc=5",
         "summary": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-04-06T21:08:58.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29pTlNlU1RLWkl4dkRGM051Ny1kVUxMMkFvUW1pMzdEQ0RLckd6NWljVkp3RlZfcjNTWW5PQXkyYno2SGFFUXRJVEtGQkxCbVlob2JzWmszUTN3TmZqRC1aX29wM2pqS2NYbEVNUVN1YzBNcUlXUW9YbHF4NUx6ZkV0UVB2bmxHYnc2dTNJbFFrU0ZxZ3pRSmpDMWIwOGdqdkFfZ2pHNER3NzJCZlFKb1VuYw?oc=5",
-        "summary": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models - Gizmodo",
-        "source": "Gizmodo",
-        "timestamp": "2026-04-06T20:50:20.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejNZRFE2YkZkNTlmM2R4RmxIMW9mRjF3T01OM1V3ZXNTaF9UVW5ibDY2MFcyMUFKQmpoeUJ6TkZUQXE2VWNnX0ktOFZ4bnVoSUlVYTdsWkY4SGRMM0UyYl9rT3Y4dV9LbmYzS2VLSU55WEFIWUhjWmh1SWh0WHNqano3a3FXRzYySlRQVDBwRmhlYWJuRGZRTG9BWnhXZ0JWVTFJ?oc=5",
-        "summary": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "A.I. Is on Its Way to Upending Cybersecurity - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-06T18:28:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR21Ub0VaMXhkWjNLczI4Wk5pT19zckk3dEJWal9LcGltLVIwMWUwOXNreWtQOGtTblcxWEx2UWhxUS14T1RfY3k3dW1lbXFyeGdNYTlIV3RLYmdBUDRsbm9mS0J3SzZIU0RXOTJTRnRGR2ZOdHRTQmd6RHhIbjhqcg?oc=5",
-        "summary": "A.I. Is on Its Way to Upending Cybersecurity &nbsp;&nbsp; The New York Times"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
