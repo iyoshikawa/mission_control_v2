@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-08T13:42:28.521Z",
+    "generatedAt": "2026-04-08T15:15:35.413Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears - The Guardian",
+      "headline": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-04-08T13:36:00.000Z",
+      "timestamp": "2026-04-08T15:07:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears &nbsp;&nbsp; The Guardian",
+      "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmhldVNySHItMHR2YWVBNVRkNGVZVmxiZnBqWVhMWjVCa2FzYS1McnU5dkJPeU92bEF2VDdnaE5Ick1XOWoxV2ZVSEZPNXZwc2hHTTREWktscGVNV1FCY0l5RWZld1Zic3c0OTRjZHVlLTBSOVludnh2WU13Q3lWWUI0S0VBbm44U2UxS1RiNXRUNy11ZUlMb3cxMA?oc=5"
     },
     {
-      "headline": "\"A sophisticated system perpetually on life support\": This former Microsoft engineer blames AI for its cloud platform problems - Windows Central",
+      "headline": "Broadcom Stock Gets a Rare Downgrade. Why Anthropic Funding Raises New Risks. - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-04-08T14:30:00.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Broadcom Stock Gets a Rare Downgrade. Why Anthropic Funding Raises New Risks. &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEo3eW9DSk9yUlktcV9jX1l5QVE3S3p4bXBBeFdJTDFqeGNWN3BKNm1UV0tpLUwzLWVhWWQwQ0lKZ2wwZHhrTUduQnk0ZnBGZnFXMWIzamFVOEpSS2d4UldndUZrNk5ZT2paV3pYRXU4YVJLb3BrTW94Unl3akNBMnoxOVJGcGFBUjJIV2RkNTZDaHNNRndzUjlZWVU?oc=5"
+    },
+    {
+      "headline": "The vibes are off at OpenAI - theverge.com",
+      "source": "theverge.com",
+      "timestamp": "2026-04-08T13:47:38.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The vibes are off at OpenAI &nbsp;&nbsp; theverge.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXN2dkw1SF9sa3A1dXUxZDYxNlpzallDVDRMR0hHRFdSX2Q1cUtjREp1Z2psaWR5b2I3bTBjNUZEeTdJM3cyQ19IQ3l2TTZRcEhLLVlNWnRpY3hmQmZjUmVZem1YNE03QmZlYkFobzhRdmNQSW1hTkR4bWZZZWxSYi1mVFcxRGlBcVZLZG40WQ?oc=5"
+    },
+    {
+      "headline": "Microsoft's Azure cloud platform problems stem from AI, according to a former engineer: \"Those disruptions built up.\" - Windows Central",
       "source": "Windows Central",
       "timestamp": "2026-04-08T09:27:09.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "\"A sophisticated system perpetually on life support\": This former Microsoft engineer blames AI for its cloud platform problems &nbsp;&nbsp; Windows Central",
+      "summary": "Microsoft's Azure cloud platform problems stem from AI, according to a former engineer: \"Those disruptions built up.\" &nbsp;&nbsp; Windows Central",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3VZaUlSNnlMazd1QTY3Y3RZM21URnoyR0lQV3hCUXFQTUYwd0w4TFF1Yktvdk9mWlo5OGNZdWxjbmJpam5md1FIWU9teUxSd1FwbmVKZ1E5blF6ajRrYlhOZS1rQVplN3RRaFVzS1kxYUFkZXgwQ0lyY3I5czA5S3JfQUo5RVhzVTFQLUVhdWJzOVBDTVJROFFFZk5lNTNZdUhoWkxHRGRkVmM?oc=5"
     },
     {
-      "headline": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued - The Information",
-      "source": "The Information",
-      "timestamp": "2026-04-08T00:00:00.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXJfQkcyWGtTaFRyRHZaVGUxSTEzWmtqU0M2ME95M0J4eW1JZmlMVnQ4ekdjNWJWSzJYWnhYbXNDSzlTc1FzaEtTWkxVNmVGRFg3MEpIbDRIa1E3TF9WV1BLc285M3RtQ3FZcHlGNTRWMkRDOWJjX2xqTENFV05DVXVYRlJrV0g1UkRnNWVuRkx3dDNWMWhaLXg4cGE2Uko4TEtaSnhSOENWckhy?oc=5"
+      "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-04-08T01:17:42.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems &nbsp;&nbsp; The Hacker News JPMorgan says Anthropic's groundbreaking cybersecurity model positive for these two stocks &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
     },
     {
       "headline": "Anthropic Taps Microsoft Azure AI Veteran For Infrastructure Role - crn.com",
@@ -50,26 +70,6 @@
       "summary": "Anthropic Taps Microsoft Azure AI Veteran For Infrastructure Role &nbsp;&nbsp; crn.com",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdi16VmFhS2pzMUFEX2lDZHQxM21KbXlSSUpKeHJmN0dNbFJLVTZNMkhoLUZqYW8ySDNHSVg1V0lTZXpVenVoNGN6RkNUVDZzbjU0NmNlZjNwdVpNWk5Uek9rR2h5MVgzX3RJZEJ4M0V1UFRnNEQ4Zm1lbkJRX0xuaUZkbnlnejY0VjhsYURRaDBvMWdTVXdXdDFZT2d5bzg?oc=5"
-    },
-    {
-      "headline": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-07T21:14:06.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDdsUHZfM1VEanlsZWZrTzNrTUhkZFVma0l2M3k4NjdvN0tldEZDM0s4TzJneHdBSHI0YjZpcy1odzN5a0owX2RYVF9DRVduaVFucFZaeU5iRXVsei1BU0pRc3lRVU1HQnRMNUROUWo5U2ZNRzdzNE5NUFp0a2Z2a3RmS0llNXlpU2haRVBJSHB5dUlMVDNVMGM2LU1DclMyZGctLUhR0gGrAUFVX3lxTE5GQktReXBkM3JBV3ZOVkRyUjdPb1V3UnBTOXdvXzIxQ2ZjeWN1R1NUTkljNkptZEJQVXN6Sll6cWcwMUs4M1oxcEZTRjJOYVp1YjlObnotMEFoRVZmOWhjdDRTOGNBZnAzMkNDa1dPMlhkMmhBdHdmRjEwWUpnQ2NYZFdLMm1JVDNBYy1GMEhFRnBLVzBHUG96dE52OVZteFZUdEkwdFhQX0kwSQ?oc=5"
-    },
-    {
-      "headline": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-07T18:00:09.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ &nbsp;&nbsp; The New York Times Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems &nbsp;&nbsp; The Hacker News JPMorgan says Anthropic's groundbreaking cybersecurity model positive for these two stocks &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGQtQmswSzRGQ2trSDJaczZNZDFwb0Q0N0txOG9RSW05WDVMVkJwVGh2NGRyVHVJZHUxNXMtS3VJN2ZwY2QyT29lSVZTNG1yaEE1UEN5TFMzVzdFcExVcHkyRmpDOF9OSmktbDB0dlpEb3ZJV3hpZDRBSmpTMFVhYWpqUDRPY1UzTDBLbFdQTUV3bjBqdnJxYzl5dmNGNXAyR1c1Qi1HQks2S082NGFTamw5VmROWDRrc3NNaw?oc=5"
     },
     {
       "headline": "Malicious web content can be used to deceive and exploit AI agents, Google DeepMind says - Cybernews",
@@ -92,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnNyeFZmWHh2M0dzbEgxQUM3enVURzg3ckhZTkc0a19EdTY0WHgxUDdzSkxjVjhYYmxHREdUakNXdDVtOFBCZkpYU1E5MnozYWFDc0c1cUVPVHF0YU12RjVFOGJZQ3hCclhzeEY3cTRYVXFaSnZCWm92NjVRdmhoWTBMMlpEQWxfNmZ1MHZDSHdxQQ?oc=5"
     },
     {
-      "headline": "OpenAI encourages firms to trial four-day weeks to adapt to AI era - BBC",
-      "source": "BBC",
-      "timestamp": "2026-04-07T11:55:47.000Z",
+      "headline": "Broadcom's stock jumps 6% after chipmaker expands Google, Anthropic deals - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-07T10:30:23.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI encourages firms to trial four-day weeks to adapt to AI era &nbsp;&nbsp; BBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GV3JhVGc5V0dBZWN4aU1PNUk2UVJ5LWhZY1pNaUJqTF9CaDdRR2N6Vm9LX1Q1d2I4Q2FES2RXY0xPNDZ2TG9vRU1XRGJjd1dLYUFjZWJZRTBuQQ?oc=5"
+      "summary": "Broadcom's stock jumps 6% after chipmaker expands Google, Anthropic deals &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV000Mjl6azFFSE42M3BzRTMyRTdSRTN5NGNwOU9OT2tTMFZkY3F2eTVjZlZWanNydjJTSnRkM3pCejhaQmpCLVR3S0tWeFY3Zl9Fc2YtMzVxRGZIU184b3BSVE1ORi1ITHFQOU9iT1JhTmJNN1FwYy1YbDBmQlBMNkxPSUR6NDBk0gGOAUFVX3lxTFBDLUJDbVVHeUg0OHdvWlZ4Z29WQXNsTHcwUkZObTMzcmNzNjQzWFdYNzNSdTF3dFdaRWpQQXFyU1BhbFNSaUxLcDZZTldodGo0d0h0N0hqbURkd2Rfdy1ZQzNwRnBxWlp1RVJrLTZyRV9oQk1nMFRYSkRuZDU5X0lRT0ZDT3JXV2l6bkVVbUE?oc=5"
     },
     {
       "headline": "How Meta’s AI push is changing ad creation - Marketing Brew",
@@ -115,31 +115,49 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears - The Guardian",
+        "headline": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-04-08T13:36:00.000Z",
+        "timestamp": "2026-04-08T15:07:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmhldVNySHItMHR2YWVBNVRkNGVZVmxiZnBqWVhMWjVCa2FzYS1McnU5dkJPeU92bEF2VDdnaE5Ick1XOWoxV2ZVSEZPNXZwc2hHTTREWktscGVNV1FCY0l5RWZld1Zic3c0OTRjZHVlLTBSOVludnh2WU13Q3lWWUI0S0VBbm44U2UxS1RiNXRUNy11ZUlMb3cxMA?oc=5",
-        "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears &nbsp;&nbsp; The Guardian"
+        "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "\"A sophisticated system perpetually on life support\": This former Microsoft engineer blames AI for its cloud platform problems - Windows Central",
+        "headline": "Broadcom Stock Gets a Rare Downgrade. Why Anthropic Funding Raises New Risks. - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-04-08T14:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZEo3eW9DSk9yUlktcV9jX1l5QVE3S3p4bXBBeFdJTDFqeGNWN3BKNm1UV0tpLUwzLWVhWWQwQ0lKZ2wwZHhrTUduQnk0ZnBGZnFXMWIzamFVOEpSS2d4UldndUZrNk5ZT2paV3pYRXU4YVJLb3BrTW94Unl3akNBMnoxOVJGcGFBUjJIV2RkNTZDaHNNRndzUjlZWVU?oc=5",
+        "summary": "Broadcom Stock Gets a Rare Downgrade. Why Anthropic Funding Raises New Risks. &nbsp;&nbsp; Barron's"
+      },
+      {
+        "headline": "The vibes are off at OpenAI - theverge.com",
+        "source": "theverge.com",
+        "timestamp": "2026-04-08T13:47:38.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXN2dkw1SF9sa3A1dXUxZDYxNlpzallDVDRMR0hHRFdSX2Q1cUtjREp1Z2psaWR5b2I3bTBjNUZEeTdJM3cyQ19IQ3l2TTZRcEhLLVlNWnRpY3hmQmZjUmVZem1YNE03QmZlYkFobzhRdmNQSW1hTkR4bWZZZWxSYi1mVFcxRGlBcVZLZG40WQ?oc=5",
+        "summary": "The vibes are off at OpenAI &nbsp;&nbsp; theverge.com"
+      },
+      {
+        "headline": "Microsoft's Azure cloud platform problems stem from AI, according to a former engineer: \"Those disruptions built up.\" - Windows Central",
         "source": "Windows Central",
         "timestamp": "2026-04-08T09:27:09.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3VZaUlSNnlMazd1QTY3Y3RZM21URnoyR0lQV3hCUXFQTUYwd0w4TFF1Yktvdk9mWlo5OGNZdWxjbmJpam5md1FIWU9teUxSd1FwbmVKZ1E5blF6ajRrYlhOZS1rQVplN3RRaFVzS1kxYUFkZXgwQ0lyY3I5czA5S3JfQUo5RVhzVTFQLUVhdWJzOVBDTVJROFFFZk5lNTNZdUhoWkxHRGRkVmM?oc=5",
-        "summary": "\"A sophisticated system perpetually on life support\": This former Microsoft engineer blames AI for its cloud platform problems &nbsp;&nbsp; Windows Central"
+        "summary": "Microsoft's Azure cloud platform problems stem from AI, according to a former engineer: \"Those disruptions built up.\" &nbsp;&nbsp; Windows Central"
       },
       {
-        "headline": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued - The Information",
-        "source": "The Information",
-        "timestamp": "2026-04-08T00:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXJfQkcyWGtTaFRyRHZaVGUxSTEzWmtqU0M2ME95M0J4eW1JZmlMVnQ4ekdjNWJWSzJYWnhYbXNDSzlTc1FzaEtTWkxVNmVGRFg3MEpIbDRIa1E3TF9WV1BLc285M3RtQ3FZcHlGNTRWMkRDOWJjX2xqTENFV05DVXVYRlJrV0g1UkRnNWVuRkx3dDNWMWhaLXg4cGE2Uko4TEtaSnhSOENWckhy?oc=5",
-        "summary": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued &nbsp;&nbsp; The Information"
+        "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-04-08T01:17:42.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
+        "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems &nbsp;&nbsp; The Hacker News JPMorgan says Anthropic's groundbreaking cybersecurity model positive for these two stocks &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Anthropic Taps Microsoft Azure AI Veteran For Infrastructure Role - crn.com",
@@ -149,24 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdi16VmFhS2pzMUFEX2lDZHQxM21KbXlSSUpKeHJmN0dNbFJLVTZNMkhoLUZqYW8ySDNHSVg1V0lTZXpVenVoNGN6RkNUVDZzbjU0NmNlZjNwdVpNWk5Uek9rR2h5MVgzX3RJZEJ4M0V1UFRnNEQ4Zm1lbkJRX0xuaUZkbnlnejY0VjhsYURRaDBvMWdTVXdXdDFZT2d5bzg?oc=5",
         "summary": "Anthropic Taps Microsoft Azure AI Veteran For Infrastructure Role &nbsp;&nbsp; crn.com"
-      },
-      {
-        "headline": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-07T21:14:06.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDdsUHZfM1VEanlsZWZrTzNrTUhkZFVma0l2M3k4NjdvN0tldEZDM0s4TzJneHdBSHI0YjZpcy1odzN5a0owX2RYVF9DRVduaVFucFZaeU5iRXVsei1BU0pRc3lRVU1HQnRMNUROUWo5U2ZNRzdzNE5NUFp0a2Z2a3RmS0llNXlpU2haRVBJSHB5dUlMVDNVMGM2LU1DclMyZGctLUhR0gGrAUFVX3lxTE5GQktReXBkM3JBV3ZOVkRyUjdPb1V3UnBTOXdvXzIxQ2ZjeWN1R1NUTkljNkptZEJQVXN6Sll6cWcwMUs4M1oxcEZTRjJOYVp1YjlObnotMEFoRVZmOWhjdDRTOGNBZnAzMkNDa1dPMlhkMmhBdHdmRjEwWUpnQ2NYZFdLMm1JVDNBYy1GMEhFRnBLVzBHUG96dE52OVZteFZUdEkwdFhQX0kwSQ?oc=5",
-        "summary": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-07T18:00:09.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGQtQmswSzRGQ2trSDJaczZNZDFwb0Q0N0txOG9RSW05WDVMVkJwVGh2NGRyVHVJZHUxNXMtS3VJN2ZwY2QyT29lSVZTNG1yaEE1UEN5TFMzVzdFcExVcHkyRmpDOF9OSmktbDB0dlpEb3ZJV3hpZDRBSmpTMFVhYWpqUDRPY1UzTDBLbFdQTUV3bjBqdnJxYzl5dmNGNXAyR1c1Qi1HQks2S082NGFTamw5VmROWDRrc3NNaw?oc=5",
-        "summary": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ &nbsp;&nbsp; The New York Times Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems &nbsp;&nbsp; The Hacker News JPMorgan says Anthropic's groundbreaking cybersecurity model positive for these two stocks &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
