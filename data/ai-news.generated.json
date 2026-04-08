@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-08T22:46:39.930Z",
+    "generatedAt": "2026-04-08T23:42:31.985Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Anthropic loses appeals court bid to pause supply chain risk label - Politico",
+      "source": "Politico",
+      "timestamp": "2026-04-08T22:45:52.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic loses appeals court bid to pause supply chain risk label &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3FLQ3JOdVlhNlRROUNmMk9CUExaalFFWW1lN1NPSFFKcHRhRUE0TUJYY1Nxd3hHNDUwTDBpZnNkb1k3Snl2ZmdkQU1zanJvcFdKYkM3T1Vvd3RueU1pTXFTUkdQZDZ2MUxBeW52MXBDckRELWtJSGh4ZkU1WmIzb1ppOWFTZFdBQUZybFp3dzVCeFBtRlNXX0RSR0xEOEx2bVh1Y21BSXN5QzBzS0NNV2xpcFRkRGs3?oc=5"
+    },
     {
       "headline": "Anthropic Supply-Chain Risk Label Should Stay In Place, Appeals Court Says - WIRED",
       "source": "WIRED",
@@ -42,24 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHdzbGlFLWI0LU9kUk9RV3RwVWc1dXdfeDdJdnJzbHkxWFBOdjctLVVXcFpnUmU0SFB0OVJHQlhRNk1naXdUbS0xcVRCMG4yZkdDNG01ckVrcUhMQlBTNjVUVDdWR3hpeXhta1dyWUhIcVpma0pnV00tVUp6bFpTa3hiSldabURGWEpB?oc=5"
     },
     {
-      "headline": "How dangerous is Mythos, Anthropic’s new AI model? - The Economist",
-      "source": "The Economist",
-      "timestamp": "2026-04-08T19:27:14.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "How dangerous is Mythos, Anthropic’s new AI model? &nbsp;&nbsp; The Economist",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVrZ1djYW11TWVoSzdTQWJwdEZTdldDQktTSnBCcEFJQzBjcTJpUVlYSFRFcEE3TlB3eDFrQUxUcGRhNE1SUFBkU2lORXpjaDdDQnJsTkgwQ1hfaHg1RW1qSElKMjg5T0NBM0U0aFNYeE94U203N1BVeFB0ZFNqMVh4SjNZbWNBdEJla1otc19tQThDcURDTQ?oc=5"
-    },
-    {
-      "headline": "Why OpenAI bought 'SportsCenter for Silicon Valley' - NPR",
-      "source": "NPR",
-      "timestamp": "2026-04-08T19:17:45.000Z",
+      "headline": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-08T18:30:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why OpenAI bought 'SportsCenter for Silicon Valley' &nbsp;&nbsp; NPR",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0dwYnZkaFhPNV9jTHpiY3Y0MXlvUnkzZm1WVWNQRWpXR0xxUDYxcGpKN0NfZDZWNmZKR015NXctcGtNWURBUVpadDVGaUxIR29KaFlheVExMEJwc0psOGh1d1pXNWZzaG9mMWRMeHBIS2tPd3l4MFJfR3Z0ZDhhck9EZmJ2S0FJS2c?oc=5"
+      "category": "models",
+      "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmhldVNySHItMHR2YWVBNVRkNGVZVmxiZnBqWVhMWjVCa2FzYS1McnU5dkJPeU92bEF2VDdnaE5Ick1XOWoxV2ZVSEZPNXZwc2hHTTREWktscGVNV1FCY0l5RWZld1Zic3c0OTRjZHVlLTBSOVludnh2WU13Q3lWWUI0S0VBbm44U2UxS1RiNXRUNy11ZUlMb3cxMA?oc=5"
     },
     {
       "headline": "Meta unveils Muse Spark, its first new AI model since hiring Alexandr Wang - Fortune",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Anthropic loses appeals court bid to pause supply chain risk label - Politico",
+        "source": "Politico",
+        "timestamp": "2026-04-08T22:45:52.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3FLQ3JOdVlhNlRROUNmMk9CUExaalFFWW1lN1NPSFFKcHRhRUE0TUJYY1Nxd3hHNDUwTDBpZnNkb1k3Snl2ZmdkQU1zanJvcFdKYkM3T1Vvd3RueU1pTXFTUkdQZDZ2MUxBeW52MXBDckRELWtJSGh4ZkU1WmIzb1ppOWFTZFdBQUZybFp3dzVCeFBtRlNXX0RSR0xEOEx2bVh1Y21BSXN5QzBzS0NNV2xpcFRkRGs3?oc=5",
+        "summary": "Anthropic loses appeals court bid to pause supply chain risk label &nbsp;&nbsp; Politico"
+      },
+      {
         "headline": "Anthropic Supply-Chain Risk Label Should Stay In Place, Appeals Court Says - WIRED",
         "source": "WIRED",
         "timestamp": "2026-04-08T22:27:00.000Z",
@@ -142,22 +151,13 @@
         "summary": "Mark Zuckerberg announces Muse Spark, a new Meta AI model: How to try it, benchmark results &nbsp;&nbsp; Mashable"
       },
       {
-        "headline": "How dangerous is Mythos, Anthropic’s new AI model? - The Economist",
-        "source": "The Economist",
-        "timestamp": "2026-04-08T19:27:14.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVrZ1djYW11TWVoSzdTQWJwdEZTdldDQktTSnBCcEFJQzBjcTJpUVlYSFRFcEE3TlB3eDFrQUxUcGRhNE1SUFBkU2lORXpjaDdDQnJsTkgwQ1hfaHg1RW1qSElKMjg5T0NBM0U0aFNYeE94U203N1BVeFB0ZFNqMVh4SjNZbWNBdEJla1otc19tQThDcURDTQ?oc=5",
-        "summary": "How dangerous is Mythos, Anthropic’s new AI model? &nbsp;&nbsp; The Economist"
-      },
-      {
-        "headline": "Why OpenAI bought 'SportsCenter for Silicon Valley' - NPR",
-        "source": "NPR",
-        "timestamp": "2026-04-08T19:17:45.000Z",
+        "headline": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-08T18:30:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0dwYnZkaFhPNV9jTHpiY3Y0MXlvUnkzZm1WVWNQRWpXR0xxUDYxcGpKN0NfZDZWNmZKR015NXctcGtNWURBUVpadDVGaUxIR29KaFlheVExMEJwc0psOGh1d1pXNWZzaG9mMWRMeHBIS2tPd3l4MFJfR3Z0ZDhhck9EZmJ2S0FJS2c?oc=5",
-        "summary": "Why OpenAI bought 'SportsCenter for Silicon Valley' &nbsp;&nbsp; NPR"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmhldVNySHItMHR2YWVBNVRkNGVZVmxiZnBqWVhMWjVCa2FzYS1McnU5dkJPeU92bEF2VDdnaE5Ick1XOWoxV2ZVSEZPNXZwc2hHTTREWktscGVNV1FCY0l5RWZld1Zic3c0OTRjZHVlLTBSOVludnh2WU13Q3lWWUI0S0VBbm44U2UxS1RiNXRUNy11ZUlMb3cxMA?oc=5",
+        "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "Meta unveils Muse Spark, its first new AI model since hiring Alexandr Wang - Fortune",
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
