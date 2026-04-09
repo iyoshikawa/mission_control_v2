@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-09T02:45:09.180Z",
+    "generatedAt": "2026-04-09T05:14:40.031Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "US court expedites Anthropic's legal battle with Department of War - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-04-09T02:10:00.000Z",
+      "headline": "UAE’s AI Champion Presses On With Expansion, Looking Past Iran War - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-09T04:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "US court expedites Anthropic's legal battle with Department of War &nbsp;&nbsp; Yahoo",
+      "summary": "UAE’s AI Champion Presses On With Expansion, Looking Past Iran War &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYS1TNmVxQnZsNy1fOWV4cWpHa1Y1eHBnU3ZjSFhKZE02UlJEd2x2OUwwcU1JQWNnTFE1M013T2FsWXN3X19Rcm40bjUtRlhQNUdfLUFlZlZhYVFTUHNteXdsRnlFUDRMUk1YejJqOG9ZOFY3Z3NhRGpiU2NZMkFiZXpjV1QwYWpnRFBZYW5Zd1QweHN6elV5NTlON1pLZllFYmJ3RU9fbF9nQ3V3dy0w?oc=5"
+    },
+    {
+      "headline": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-09T00:19:59.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEpSOEtzYTk1TGR1bFdjU2FyNkNfeXJxMUJIZkQ2RWI1anQxMEZBcEpOazdab1VXUmtiVFBVVm95ME94TGg5U0tlYkNxNENBcGlvU0lrNVNSMHFZZTl2LXlkREFnZTdJdE91QmZrdXd4RFBQZE50dE5JSGlfTEJMalNrSjZJS2lvT0sxX0swdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVBXLUhmT0RRTkdyckpMalU4RWtpZVNvQjdIMU1aWGthbGdLaTRaSVctRFhSNGc0UDcxemNoQkxNdDBFS29zbEQ3RndNdDZaSmRXdWgyQVNzT2FKcEY4U2ItRXlRM0pxQmJ0N2NsLWJZbl91TnEtUGljdWZCYjMxQlFXMnNKWHYwSDF4bHBEbERRdw?oc=5"
     },
     {
       "headline": "Mark Zuckerberg announces Muse Spark, a new Meta AI model: How to try it, benchmark results - Mashable",
@@ -30,6 +40,16 @@
       "summary": "Mark Zuckerberg announces Muse Spark, a new Meta AI model: How to try it, benchmark results &nbsp;&nbsp; Mashable",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHdzbGlFLWI0LU9kUk9RV3RwVWc1dXdfeDdJdnJzbHkxWFBOdjctLVVXcFpnUmU0SFB0OVJHQlhRNk1naXdUbS0xcVRCMG4yZkdDNG01ckVrcUhMQlBTNjVUVDdWR3hpeXhta1dyWUhIcVpma0pnV00tVUp6bFpTa3hiSldabURGWEpB?oc=5"
+    },
+    {
+      "headline": "Scaling How We Build and Test Our Most Advanced AI - AI at Meta",
+      "source": "AI at Meta",
+      "timestamp": "2026-04-08T23:44:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Scaling How We Build and Test Our Most Advanced AI &nbsp;&nbsp; AI at Meta",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYXZmOGU3RDVLaFNxSXNZU2Z0X1FldDN4MlpLcTJwZkU1clFOMXp4NTVpN0pzMEVudUxnVElWWkdnMTdESlB0S0YxeVZCLVA4TkZVeUkxd2RQU2k5ampjcl94eFRvaTYwN0tFVW9oSUk?oc=5"
     },
     {
       "headline": "Anthropic loses appeals court bid to pause supply chain risk label - Politico",
@@ -52,54 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHdKNjd4R3hoM3l1Nlp5OVpUZ3FRdVpBQjVLdTBqRXFGdG94bGtlWWswamt0X3p1Y1hlXzFSRGhkYkFYMHhkcUlQSXIydzBEVHl4VUxubUxXU3VSaGU0dHdtcUFxZjZOcjVPWHhPdTJkSG9qZFlkTWN3LUg3TlZsOFdlUnQ2WmRNRENXSUxXSdIBlAFBVV95cUxNNTdNRk54MmJabFN2MzZXRlF3Z1hSbWRjTEpJd01ETGxEVVRTc0lsYU81MFdpdl9idTBMeTJ6X2dlU1VGOXNsaC1xWFRjblBISFYxN1ZDLXlpZnh5ZkhRZmRCcGFOU2Y3MTQtOWZ3SS0wX2RybWp1cmhHc0VGT2Q2TlIyTkFPY3lYVmZQM3FXLVI4czF6?oc=5"
     },
     {
-      "headline": "Why Anthropic won't release its new Claude Mythos AI model to the public - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-04-08T21:42:01.000Z",
+      "headline": "Meta Announces New AI Model in Major Test of Company’s Ambitions - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-08T21:04:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Why Anthropic won't release its new Claude Mythos AI model to the public &nbsp;&nbsp; NBC News Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems &nbsp;&nbsp; The Hacker News How dangerous is Mythos, Anthropic’s new AI model? &nbsp;&nbsp; The Economist",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDVzYzIyd1lfM2tpX0RqUDZiMGgwWjZ6UXU0VkswX3Y3bTk5RGM2ZmY4VGZBYlV2QmxfZ2l6RGtWZmxLMS1KSmZic2t1Qm94aHpsU3JMZHNsWm5QRDFzMnNGVTlLQXB0bVFjbHdyS3JkZGJYZEdMaDh3RG9aR1VmTVNLVXZhNGxpY1ZwSXFOMGNpOXBpMUpDd2VId3JPRWs5OW9OQ0RNMkxtZDZLLVNBY3dnVzhrSHZkUE1Z?oc=5"
-    },
-    {
-      "headline": "Meta unveils first AI model from costly superintelligence team - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-08T19:30:03.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Meta unveils first AI model from costly superintelligence team &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5"
-    },
-    {
-      "headline": "How dangerous is Mythos, Anthropic’s new AI model? - The Economist",
-      "source": "The Economist",
-      "timestamp": "2026-04-08T19:27:14.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "How dangerous is Mythos, Anthropic’s new AI model? &nbsp;&nbsp; The Economist",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVrZ1djYW11TWVoSzdTQWJwdEZTdldDQktTSnBCcEFJQzBjcTJpUVlYSFRFcEE3TlB3eDFrQUxUcGRhNE1SUFBkU2lORXpjaDdDQnJsTkgwQ1hfaHg1RW1qSElKMjg5T0NBM0U0aFNYeE94U203N1BVeFB0ZFNqMVh4SjNZbWNBdEJla1otc19tQThDcURDTQ?oc=5"
-    },
-    {
-      "headline": "Meta Unveils New A.I. Model, Its First From the Superintelligence Lab - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-08T16:50:33.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta Unveils New A.I. Model, Its First From the Superintelligence Lab &nbsp;&nbsp; The New York Times Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People &nbsp;&nbsp; meta.com Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions &nbsp;&nbsp; CNBC Meta releases first AI model since Zuckerberg’s spending spree &nbsp;&nbsp; Financial Times Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table &nbsp;&nbsp; WIRED Meta Debuts First AI Model From New Superintelligence Group &nbsp;&nbsp; Bloomberg.com Meta debuts Muse Spark, first AI model under Alexandr Wang &nbsp;&nbsp; Axios Meta Stock Surges on ‘Muse Spark’ AI Model Release. What Has Wall Street Excited. &nbsp;&nbsp; Barron's Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation &nbsp;&nbsp; VentureBeat",
+      "summary": "Meta Announces New AI Model in Major Test of Company’s Ambitions &nbsp;&nbsp; WSJ",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWxqVDA3TGExLXlBb0lucmFvM1E4czh3ejNxVFBTMGR5Mk1kZV9hYTBsSEhFR05tYlVCZHM4dUw1Ukp1TndLa3pRNGN6LUs4WVdmY0hMOXctcE9GTHVmUklQSE5oN21XWmtRZTdIQ3ZZbjM0V3dfSnVsX2I5b1RtdA?oc=5"
-    },
-    {
-      "headline": "Scaling How We Build and Test Our Most Advanced AI - AI at Meta",
-      "source": "AI at Meta",
-      "timestamp": "2026-04-08T16:25:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scaling How We Build and Test Our Most Advanced AI &nbsp;&nbsp; AI at Meta",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYXZmOGU3RDVLaFNxSXNZU2Z0X1FldDN4MlpLcTJwZkU1clFOMXp4NTVpN0pzMEVudUxnVElWWkdnMTdESlB0S0YxeVZCLVA4TkZVeUkxd2RQU2k5ampjcl94eFRvaTYwN0tFVW9oSUk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xc01ud0Q0NUk1WXpGRzM2WDE4ZWs2eFIyZmZZZDJxaXVLajdMcklXbEJIcXV6QXBob281VG9RNnN1ZWxsSnJZRHEwZmRHblBxbHdIMjA2aVROTENkcUU3dGp3am9PWGltZmtrZEN3?oc=5"
     },
     {
       "headline": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions - CNBC",
@@ -110,18 +90,47 @@
       "summary": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM25rWXBKX2traWptOXQtUjRQcUtmZkNrME8zR2RLS2V0djhxdU5kMVRmS2t2YmM2anhhVzcwS1F6cDJyTWZrYl9RRW01QjJ4SWJxQnVSRUpJNldVd1RaNnNDcE9LWnI3bUw3ZllIUmN0cG1FNUp0LUJvU0RnQUpESUs0NjN1Y1B5b2x2ZjlFTDM3ek5uaXZ6ZERqaXkybV82V2VkcjZwQ0VPaW5BalI2aURNTFZMdDN20gG-AUFVX3lxTE9RR0xuc3VtZFluTjJObG0zYWZEZDVZektxRzZoMGtjQzJIYWNqLVlULVUyNEZ1QUN5N0RucVdzYnBHZjM2UzY3WUFoNm9wa29xQmpnbFlfT3lOMm9DN0k2RlhCZ2NPdXJGNlhmTTNxakl4bXF3cEUwM005OGJpTkF3WXItb0xTeDUxRDdYYkw4emtpMXkxV3pRUlU0THRhcFM3bUZCWEF6Q0JncXl6bjR0Y3VOZEZSb1dOZzZoVkE?oc=5"
+    },
+    {
+      "headline": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People - meta.com",
+      "source": "meta.com",
+      "timestamp": "2026-04-08T15:59:56.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People &nbsp;&nbsp; meta.com Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table &nbsp;&nbsp; WIRED Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions &nbsp;&nbsp; CNBC Meta Unveils New A.I. Model, Its First From the Superintelligence Lab &nbsp;&nbsp; The New York Times Meta debuts Muse Spark, first AI model under Alexandr Wang &nbsp;&nbsp; Axios Meta releases first AI model since Zuckerberg’s spending spree &nbsp;&nbsp; Financial Times Meta Debuts First AI Model From New Superintelligence Group &nbsp;&nbsp; Bloomberg.com Meta unveils first AI model from costly superintelligence team &nbsp;&nbsp; Reuters Meta Stock Surges on ‘Muse Spark’ AI Model Release. What Has Wall Street Excited. &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxb2steXB2U3oyaWJILWo0Q1psaURTS01uS0duWHRGVXdsSjV3RFVMT3hjNXRDdlNSU2szd3VrUjVQSkVIQzJRTnFLSFBKRjlrT09DWDROMktrdW9uaE1IYV9JZDctSEx3NzBqZlBrekV1bjZBb2xON0Z5S3BxcWVtU2wxNnhiSlhkeWR30gGTAUFVX3lxTFBUVGptRG9qRXJ1ZUEtVWQ5Tmk0d1JFd2gxRWJlUUV5cGlvYTlDRlc0M1B2a3FvTms4RDFvOEVGYmQ5OS1hWGRvYXc0V0Y1WmRDaVF6R3BPbmF3YlBtM01ydFlhOVotQkZ0SVU0MDhsMExueks0MTRKRGNfVWdvcFZDa205Z2pWOG1MWVNON050N1lqTQ?oc=5"
+    },
+    {
+      "headline": "The vibes are off at OpenAI - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-04-08T13:47:38.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The vibes are off at OpenAI &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXN2dkw1SF9sa3A1dXUxZDYxNlpzallDVDRMR0hHRFdSX2Q1cUtjREp1Z2psaWR5b2I3bTBjNUZEeTdJM3cyQ19IQ3l2TTZRcEhLLVlNWnRpY3hmQmZjUmVZem1YNE03QmZlYkFobzhRdmNQSW1hTkR4bWZZZWxSYi1mVFcxRGlBcVZLZG40WQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "US court expedites Anthropic's legal battle with Department of War - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-04-09T02:10:00.000Z",
+        "headline": "UAE’s AI Champion Presses On With Expansion, Looking Past Iran War - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-04-09T04:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYS1TNmVxQnZsNy1fOWV4cWpHa1Y1eHBnU3ZjSFhKZE02UlJEd2x2OUwwcU1JQWNnTFE1M013T2FsWXN3X19Rcm40bjUtRlhQNUdfLUFlZlZhYVFTUHNteXdsRnlFUDRMUk1YejJqOG9ZOFY3Z3NhRGpiU2NZMkFiZXpjV1QwYWpnRFBZYW5Zd1QweHN6elV5NTlON1pLZllFYmJ3RU9fbF9nQ3V3dy0w?oc=5",
+        "summary": "UAE’s AI Champion Presses On With Expansion, Looking Past Iran War &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-09T00:19:59.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEpSOEtzYTk1TGR1bFdjU2FyNkNfeXJxMUJIZkQ2RWI1anQxMEZBcEpOazdab1VXUmtiVFBVVm95ME94TGg5U0tlYkNxNENBcGlvU0lrNVNSMHFZZTl2LXlkREFnZTdJdE91QmZrdXd4RFBQZE50dE5JSGlfTEJMalNrSjZJS2lvT0sxX0swdw?oc=5",
-        "summary": "US court expedites Anthropic's legal battle with Department of War &nbsp;&nbsp; Yahoo"
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVBXLUhmT0RRTkdyckpMalU4RWtpZVNvQjdIMU1aWGthbGdLaTRaSVctRFhSNGc0UDcxemNoQkxNdDBFS29zbEQ3RndNdDZaSmRXdWgyQVNzT2FKcEY4U2ItRXlRM0pxQmJ0N2NsLWJZbl91TnEtUGljdWZCYjMxQlFXMnNKWHYwSDF4bHBEbERRdw?oc=5",
+        "summary": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Mark Zuckerberg announces Muse Spark, a new Meta AI model: How to try it, benchmark results - Mashable",
@@ -131,6 +140,15 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHdzbGlFLWI0LU9kUk9RV3RwVWc1dXdfeDdJdnJzbHkxWFBOdjctLVVXcFpnUmU0SFB0OVJHQlhRNk1naXdUbS0xcVRCMG4yZkdDNG01ckVrcUhMQlBTNjVUVDdWR3hpeXhta1dyWUhIcVpma0pnV00tVUp6bFpTa3hiSldabURGWEpB?oc=5",
         "summary": "Mark Zuckerberg announces Muse Spark, a new Meta AI model: How to try it, benchmark results &nbsp;&nbsp; Mashable"
+      },
+      {
+        "headline": "Scaling How We Build and Test Our Most Advanced AI - AI at Meta",
+        "source": "AI at Meta",
+        "timestamp": "2026-04-08T23:44:42.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYXZmOGU3RDVLaFNxSXNZU2Z0X1FldDN4MlpLcTJwZkU1clFOMXp4NTVpN0pzMEVudUxnVElWWkdnMTdESlB0S0YxeVZCLVA4TkZVeUkxd2RQU2k5ampjcl94eFRvaTYwN0tFVW9oSUk?oc=5",
+        "summary": "Scaling How We Build and Test Our Most Advanced AI &nbsp;&nbsp; AI at Meta"
       },
       {
         "headline": "Anthropic loses appeals court bid to pause supply chain risk label - Politico",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHdKNjd4R3hoM3l1Nlp5OVpUZ3FRdVpBQjVLdTBqRXFGdG94bGtlWWswamt0X3p1Y1hlXzFSRGhkYkFYMHhkcUlQSXIydzBEVHl4VUxubUxXU3VSaGU0dHdtcUFxZjZOcjVPWHhPdTJkSG9qZFlkTWN3LUg3TlZsOFdlUnQ2WmRNRENXSUxXSdIBlAFBVV95cUxNNTdNRk54MmJabFN2MzZXRlF3Z1hSbWRjTEpJd01ETGxEVVRTc0lsYU81MFdpdl9idTBMeTJ6X2dlU1VGOXNsaC1xWFRjblBISFYxN1ZDLXlpZnh5ZkhRZmRCcGFOU2Y3MTQtOWZ3SS0wX2RybWp1cmhHc0VGT2Q2TlIyTkFPY3lYVmZQM3FXLVI4czF6?oc=5",
         "summary": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Why Anthropic won't release its new Claude Mythos AI model to the public - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-04-08T21:42:01.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDVzYzIyd1lfM2tpX0RqUDZiMGgwWjZ6UXU0VkswX3Y3bTk5RGM2ZmY4VGZBYlV2QmxfZ2l6RGtWZmxLMS1KSmZic2t1Qm94aHpsU3JMZHNsWm5QRDFzMnNGVTlLQXB0bVFjbHdyS3JkZGJYZEdMaDh3RG9aR1VmTVNLVXZhNGxpY1ZwSXFOMGNpOXBpMUpDd2VId3JPRWs5OW9OQ0RNMkxtZDZLLVNBY3dnVzhrSHZkUE1Z?oc=5",
-        "summary": "Why Anthropic won't release its new Claude Mythos AI model to the public &nbsp;&nbsp; NBC News Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems &nbsp;&nbsp; The Hacker News How dangerous is Mythos, Anthropic’s new AI model? &nbsp;&nbsp; The Economist"
-      },
-      {
-        "headline": "Meta unveils first AI model from costly superintelligence team - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-04-08T19:30:03.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGlQRHNjbkNMampHRlJWOVkxUTlLdmlUMWZoZTJOa05TZFgtNWppRVpBYk5XT0xVdVRBbHFqSlE2NDRQdHBEcGVaZ2p2dnFrZFhjZThBYjV4SlZFekNkdERsWHhhck1HU0NHUjdRNTY3OTg3TExWNXd2cVd4aldaV2tOVWVGZW5BYzRJYTNkWHJlcklfc3FkTmpOOWl3S3MzZTlOSktEVkFUXzZiU21SUUdXZ3J1UDNZaHIxR3RHQnNzR2VfYTZxRVVaQQ?oc=5",
-        "summary": "Meta unveils first AI model from costly superintelligence team &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -178,7 +178,7 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
