@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-09T17:13:12.922Z",
+    "generatedAt": "2026-04-09T19:15:14.217Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Sam Altman Is Having a Really Weird Week - Mother Jones",
-      "source": "Mother Jones",
-      "timestamp": "2026-04-09T17:02:27.000Z",
+      "headline": "AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-09T19:10:54.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVJrR0dVb0s4ZlR2eU5CTDRiNS1oMUNsRmd2eGZXdEJyR193aGtHaFB2MnRJWFAtWFAxdUQ5VFhVeWhiRGZSWDJ1cG0tUkFtSjFYS3RUczloblZkLUVQSDlyV2lUR1BwVno4aTU1YkxWLXdlOWRXMTB5SVpha09pWjFEa1VxcnJoM2hR?oc=5"
+    },
+    {
+      "headline": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-04-09T19:10:07.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVA0V2p6UHoxbjZRTE9wZ2xhbE9CSHJ0cHY3dmVJTFNuMUVGS1FodG1qVkgwTUUybDBOMDV2RS1oZTdRTmdaWXgwVUZkWTFhV3g5MGY5S2pqUUlBRzZWT2JEWnNNXzItQUlhczREMVVMbTkydGlNTW00UVhkV2pWdkVMb05kNDhNbXN2OFZoVEpJS2xYeFNhRjhkUEZxNzJfVDV4Uw?oc=5"
+    },
+    {
+      "headline": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-09T19:06:41.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt0gGaAUFVX3lxTE9PY2xydm54S2Zyd1d6MUdqeWZ1R1hkcVZBTFpEdXRIRV8xQUplRnNRSGRJckFieUxnWGJLcTU5U0dCVkVOc01QVlFfVlo4aHhaVUdnR1l1TVFZY2JwSGMzNzNaVzdhQUFmRG5zZkdsdTNaOFg5Tld0VlFJNDlJYjNwSFlYTGM2a2hXOFRoMTV6S3JNYnNSRTlIaGc?oc=5"
+    },
+    {
+      "headline": "US software stocks slump on renewed AI disruption jitters - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-09T16:24:41.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "US software stocks slump on renewed AI disruption jitters &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHJZVHhOZ0htVEtyZXVheUE3SUw0dG1fVG10YnZVRG1nSzVFY0Y1ZkhselAtTWNMc3NFdHd6emNGZWtkOWZzelFzb1p3NERacHpOVHp3VW1Td2Z2eVNiWkhEdWpldkoxSFNtMjVqZFFid3g3TkFEdHU3UDV6U2ltU2dKT1Q4UTRmbmUtcGxNa3ZOaktvai11UWltZjA2NlpmMjNfOGhNR082WDJyRTZNMFBuOVBQWEdW?oc=5"
+    },
+    {
+      "headline": "Scoop: OpenAI plans new product for cybersecurity use - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-09T16:04:58.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Sam Altman Is Having a Really Weird Week &nbsp;&nbsp; Mother Jones",
+      "summary": "Scoop: OpenAI plans new product for cybersecurity use &nbsp;&nbsp; Axios",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHd0cU5FRGRnM0F6UEJ4OFA3UEJoTWx6Z3JpQVBMQVJlRV93a0x3Y0RnOUlUWEFHVXdaQ3IzUWplWHpPeHFFNE9VN19FZ0NkSFFOS0RuVzVZOEdLTlRtZmExZnpvbUpNd2pETDdsdE9KQVhLdjFCSllILWxLLUFjdTRTZmZXQ2pXZlFmbg?oc=5"
-    },
-    {
-      "headline": "OpenAI national security lead endorses ‘appropriate human judgment’ in AI - Nextgov/FCW",
-      "source": "Nextgov/FCW",
-      "timestamp": "2026-04-09T16:59:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI national security lead endorses ‘appropriate human judgment’ in AI &nbsp;&nbsp; Nextgov/FCW",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1hQbTU4QzJ0S1BJWEFLQUsxTzVnUWhpSGprSXJHN29sejZVQTdMVlIyNzJyRzRhU2l6bkYzMkhqYkFOaHFYYkVIdmJmdW8yUDhmczdTOUFlTTBCSTdZc0hvSHpZbEZRUzFoVVl1RkZiTGNfeTNzM3otV19lR05LVDNLbGw1M3RtWnFjQ1VkSWJpWlNpLXV1VVpUOVNHdWZzdmJIdTdmVXlsLUpJZzAzT1FGNXRFbkZ3LTRLYUV3eDZDVmIxN1ZoMVFoQWxmMEpRekRBaGFSS1JHaW0zN3dWelRIUVNScVRuemtR?oc=5"
-    },
-    {
-      "headline": "Palantir Tumbles 7% on Anthropic Competition Fears: Is the AI Platform King Losing Its Crown? - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "timestamp": "2026-04-09T15:51:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Palantir Tumbles 7% on Anthropic Competition Fears: Is the AI Platform King Losing Its Crown? &nbsp;&nbsp; 24/7 Wall St.",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUdQTEprRm0xRTdPZENhM0JkWjhDT2FfUUhmUXd0dTRLZUFOeXhWNXI2UF8wRjVMV3V3eUpRdHhmWHIyLS1MVE16RXBpVnVEckdpanM5bVJDYlU4cTRwZGlTaWVqM2dHTDU0bUxJS1VSeTdKRkRoOWtnckJKSk1zbFd0RDJWSVRCaWdLSWp4UmcyYTU4aWNQRUN3cU9GVEJuQ0VTMGZDUmNfODRRWFNENGo2TDExSXJaeEkzTkRKcWVZSVFRMGk4b0l6MVBBQVk?oc=5"
-    },
-    {
-      "headline": "US software stocks slump on renewed AI disruption jitters - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-04-09T15:27:38.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "US software stocks slump on renewed AI disruption jitters &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXB6SENZSGVtbFFuZklmLXhWcVdoVERyNVdLVXFQR3E0cEIxdmRhT25jMHdYRmpaSUpXTEw3eElDVWJPZVZoV0pNSXlLdTcyYjl5ejhid2ZDdEVXaEx5SjBOa3ZqOE5OVGdkSlJXNkE4Nm5BQnItOVZWQUlzUE9PY252LW1RVVppVUZNdnNDbGM5WGhEZXlraGNmbVdlSzhMNk1wOU1n?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdXhEc09XMUNsa21wdjlMR0tGYXZfQUJEMHByaW9qRFNmVkFUY3lRRURfNUVHUlRNbV9kUTZYdXo4MGpYSVRXMmxxVWlQc1VkUHpKVEpLa3R6dUlJcFhHc0lVSzNzOGZ4U0xNYklHRGZrNEtFYWZGUjNaMA?oc=5"
     },
     {
       "headline": "Demis Hassabis says Google DeepMind had to return to its startup roots after the Brain merger - The Next Web",
@@ -72,12 +82,12 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVFuXzdzWVNINTFUUG5Ic1FUWmdQYWVreUFaZkVYaE1GUWFGYlp4dVRrd29FUzJ3SGl4NngxclJDcHBLYXhpb3FxUTU2eFA5elFQYk03aTFmV28wSUp4a0g5SDAtNE5oMi1YRWRjT1dRMWVmTERrcm1rbmp0Slp0dVc5RVJERGhTdFVDaTItUEJ3OXRxYk0tdlhWblE1cTZvT2hPbjZiSkxNeWVMN3hjd0x0Wi1lZmw2akJFQnk1d3ZsZ3pmWENDXzl4OA?oc=5"
     },
     {
-      "headline": "OpenAI shelves Stargate UK investment citing high energy costs - The Guardian",
+      "headline": "OpenAI shelves Stargate UK in blow to Britain’s AI ambitions - The Guardian",
       "source": "The Guardian",
       "timestamp": "2026-04-09T12:39:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI shelves Stargate UK investment citing high energy costs &nbsp;&nbsp; The Guardian",
+      "summary": "OpenAI shelves Stargate UK in blow to Britain’s AI ambitions &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUstcnVCcm1welY1eGRpUlgzVjdKWXJzVGVzMURDSUN2Nlppa29WajdOQW1rOUM2SmtRSmVUZGxsOU1GX3JGU055MkpEbGJ4Y2NMcU1SQnV0cHlZMUdxMEtSSHRKWmZoSlpidDN2d3YtV1ZnN3pKYW9kNEZYTjlrdkRORXZaRW81T1hXZW0xdjNkeC1jOUFtRDF2U09ETWM?oc=5"
     },
@@ -100,55 +110,54 @@
       "summary": "A Meta employee created a dashboard so coworkers can compete to be the company's No. 1 AI token user &nbsp;&nbsp; Fortune",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WWdJUXhxMUhNT1VnZFdZM1kxNEhERFlNY0xUaW1LT3gzTGR6QnlZMHo0dExKa0xrOFFCLUpoZEhBbnNqNGFGM0NEcmxJNkFnZE1qZGFYZUZudGdFeFFCQncwWkVnOFJJd2ZwbVBmeFlVM1F1aG1vRGRnQQ?oc=5"
-    },
-    {
-      "headline": "Google DeepMind started moving faster by acting like a startup, Demis Hassabis says - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-04-09T05:19:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Google DeepMind started moving faster by acting like a startup, Demis Hassabis says &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbi0xbzQ4bWtrNjBpbEFSQUxBMHBYdWlaYUhtNEZ2dlJHakdreldEbXRUZ2RoZGZtZXRyejBITi1sLWdSR1U4YWFMSHFKdk5oMURyeTdLRE16dG5KYzZIanE4QjBBZVh4SVhHZHd5TzJvOHlHM2cyQVVtaVFoQXNUcmc2c2p0akk2R1VyckRuSTE5WkJEQTRZOWNZTG5DZGYxLUNaM1gwNm1teVdfYXNtVg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Sam Altman Is Having a Really Weird Week - Mother Jones",
-        "source": "Mother Jones",
-        "timestamp": "2026-04-09T17:02:27.000Z",
+        "headline": "AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-09T19:10:54.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVJrR0dVb0s4ZlR2eU5CTDRiNS1oMUNsRmd2eGZXdEJyR193aGtHaFB2MnRJWFAtWFAxdUQ5VFhVeWhiRGZSWDJ1cG0tUkFtSjFYS3RUczloblZkLUVQSDlyV2lUR1BwVno4aTU1YkxWLXdlOWRXMTB5SVpha09pWjFEa1VxcnJoM2hR?oc=5",
+        "summary": "AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-04-09T19:10:07.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVA0V2p6UHoxbjZRTE9wZ2xhbE9CSHJ0cHY3dmVJTFNuMUVGS1FodG1qVkgwTUUybDBOMDV2RS1oZTdRTmdaWXgwVUZkWTFhV3g5MGY5S2pqUUlBRzZWT2JEWnNNXzItQUlhczREMVVMbTkydGlNTW00UVhkV2pWdkVMb05kNDhNbXN2OFZoVEpJS2xYeFNhRjhkUEZxNzJfVDV4Uw?oc=5",
+        "summary": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-09T19:06:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc29GSW5wTkFKN1h2MXNEeF9kVWxsazdlYXc5V3VSTjJRRGxkbXJycC1hU1d3dTctRTh1QUU4WUxKbFhRZFZYdXFaYTVvT2N6NXUwYzYyVm02ZlJrMk53T2dqdU1SNkJmZ2tyOUFyZDNQZVl5NVNyX1FaeVd3dkRJS2xvVC15MnZGeG1IamttODdXckdt0gGaAUFVX3lxTE9PY2xydm54S2Zyd1d6MUdqeWZ1R1hkcVZBTFpEdXRIRV8xQUplRnNRSGRJckFieUxnWGJLcTU5U0dCVkVOc01QVlFfVlo4aHhaVUdnR1l1TVFZY2JwSGMzNzNaVzdhQUFmRG5zZkdsdTNaOFg5Tld0VlFJNDlJYjNwSFlYTGM2a2hXOFRoMTV6S3JNYnNSRTlIaGc?oc=5",
+        "summary": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "US software stocks slump on renewed AI disruption jitters - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-04-09T16:24:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHJZVHhOZ0htVEtyZXVheUE3SUw0dG1fVG10YnZVRG1nSzVFY0Y1ZkhselAtTWNMc3NFdHd6emNGZWtkOWZzelFzb1p3NERacHpOVHp3VW1Td2Z2eVNiWkhEdWpldkoxSFNtMjVqZFFid3g3TkFEdHU3UDV6U2ltU2dKT1Q4UTRmbmUtcGxNa3ZOaktvai11UWltZjA2NlpmMjNfOGhNR082WDJyRTZNMFBuOVBQWEdW?oc=5",
+        "summary": "US software stocks slump on renewed AI disruption jitters &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Scoop: OpenAI plans new product for cybersecurity use - Axios",
+        "source": "Axios",
+        "timestamp": "2026-04-09T16:04:58.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHd0cU5FRGRnM0F6UEJ4OFA3UEJoTWx6Z3JpQVBMQVJlRV93a0x3Y0RnOUlUWEFHVXdaQ3IzUWplWHpPeHFFNE9VN19FZ0NkSFFOS0RuVzVZOEdLTlRtZmExZnpvbUpNd2pETDdsdE9KQVhLdjFCSllILWxLLUFjdTRTZmZXQ2pXZlFmbg?oc=5",
-        "summary": "Sam Altman Is Having a Really Weird Week &nbsp;&nbsp; Mother Jones"
-      },
-      {
-        "headline": "OpenAI national security lead endorses ‘appropriate human judgment’ in AI - Nextgov/FCW",
-        "source": "Nextgov/FCW",
-        "timestamp": "2026-04-09T16:59:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa1hQbTU4QzJ0S1BJWEFLQUsxTzVnUWhpSGprSXJHN29sejZVQTdMVlIyNzJyRzRhU2l6bkYzMkhqYkFOaHFYYkVIdmJmdW8yUDhmczdTOUFlTTBCSTdZc0hvSHpZbEZRUzFoVVl1RkZiTGNfeTNzM3otV19lR05LVDNLbGw1M3RtWnFjQ1VkSWJpWlNpLXV1VVpUOVNHdWZzdmJIdTdmVXlsLUpJZzAzT1FGNXRFbkZ3LTRLYUV3eDZDVmIxN1ZoMVFoQWxmMEpRekRBaGFSS1JHaW0zN3dWelRIUVNScVRuemtR?oc=5",
-        "summary": "OpenAI national security lead endorses ‘appropriate human judgment’ in AI &nbsp;&nbsp; Nextgov/FCW"
-      },
-      {
-        "headline": "Palantir Tumbles 7% on Anthropic Competition Fears: Is the AI Platform King Losing Its Crown? - 24/7 Wall St.",
-        "source": "24/7 Wall St.",
-        "timestamp": "2026-04-09T15:51:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUdQTEprRm0xRTdPZENhM0JkWjhDT2FfUUhmUXd0dTRLZUFOeXhWNXI2UF8wRjVMV3V3eUpRdHhmWHIyLS1MVE16RXBpVnVEckdpanM5bVJDYlU4cTRwZGlTaWVqM2dHTDU0bUxJS1VSeTdKRkRoOWtnckJKSk1zbFd0RDJWSVRCaWdLSWp4UmcyYTU4aWNQRUN3cU9GVEJuQ0VTMGZDUmNfODRRWFNENGo2TDExSXJaeEkzTkRKcWVZSVFRMGk4b0l6MVBBQVk?oc=5",
-        "summary": "Palantir Tumbles 7% on Anthropic Competition Fears: Is the AI Platform King Losing Its Crown? &nbsp;&nbsp; 24/7 Wall St."
-      },
-      {
-        "headline": "US software stocks slump on renewed AI disruption jitters - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-04-09T15:27:38.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXB6SENZSGVtbFFuZklmLXhWcVdoVERyNVdLVXFQR3E0cEIxdmRhT25jMHdYRmpaSUpXTEw3eElDVWJPZVZoV0pNSXlLdTcyYjl5ejhid2ZDdEVXaEx5SjBOa3ZqOE5OVGdkSlJXNkE4Nm5BQnItOVZWQUlzUE9PY252LW1RVVppVUZNdnNDbGM5WGhEZXlraGNmbVdlSzhMNk1wOU1n?oc=5",
-        "summary": "US software stocks slump on renewed AI disruption jitters &nbsp;&nbsp; Yahoo Finance"
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdXhEc09XMUNsa21wdjlMR0tGYXZfQUJEMHByaW9qRFNmVkFUY3lRRURfNUVHUlRNbV9kUTZYdXo4MGpYSVRXMmxxVWlQc1VkUHpKVEpLa3R6dUlJcFhHc0lVSzNzOGZ4U0xNYklHRGZrNEtFYWZGUjNaMA?oc=5",
+        "summary": "Scoop: OpenAI plans new product for cybersecurity use &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Demis Hassabis says Google DeepMind had to return to its startup roots after the Brain merger - The Next Web",
@@ -158,15 +167,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43ZEtWQnBZZHF3NU40Zkc4OGlDLXRTWFk1OV96NnlQYzZibTl0SGpkbDRyX0kwTFlPV3ZRcjJuQWFMTDNPekM0U3RGMVMtQTBDX2R6WEFtQll5SHp6d2drWkhTYzZTRG1yTl8walFMMVpUVVE?oc=5",
         "summary": "Demis Hassabis says Google DeepMind had to return to its startup roots after the Brain merger &nbsp;&nbsp; The Next Web"
-      },
-      {
-        "headline": "Former DeepMind Researchers Bet on Visual AI With New Startup - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-04-09T13:00:05.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVFuXzdzWVNINTFUUG5Ic1FUWmdQYWVreUFaZkVYaE1GUWFGYlp4dVRrd29FUzJ3SGl4NngxclJDcHBLYXhpb3FxUTU2eFA5elFQYk03aTFmV28wSUp4a0g5SDAtNE5oMi1YRWRjT1dRMWVmTERrcm1rbmp0Slp0dVc5RVJERGhTdFVDaTItUEJ3OXRxYk0tdlhWblE1cTZvT2hPbjZiSkxNeWVMN3hjd0x0Wi1lZmw2akJFQnk1d3ZsZ3pmWENDXzl4OA?oc=5",
-        "summary": "Former DeepMind Researchers Bet on Visual AI With New Startup &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
