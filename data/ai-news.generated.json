@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-10T02:56:39.879Z",
+    "generatedAt": "2026-04-10T05:31:20.594Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Anthropic weighs building its own AI chips: Reuters - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-10T04:10:15.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic weighs building its own AI chips: Reuters &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1FJTE9UWDIyWkRqelVYaDZlZmVWTGs0bHBTTFFQZk4tZklLWTVpNEFUNHNITjNhV1QteVlzR2VhRlpUczhhNzNTaVRZRWFUdFVUci1oeTQ2TjVOMUFNbXVtcm9pNG9sS19CTzB6YzNvQW9xUmMxeFdQVzROcnAwdEFnbjlqSGt4aXZKZTdFVFLSAZYBQVVfeXFMTmxVQjdMdGRIUFNob1VaSUFIVTdNeWxiQ0Zqd050WEc0S05NSkhZYnlGMGpic1B0TGdWVU5wZUd1RDdET3FOTXJqMzg1dTQxU3hOVmhRWVIxUHpaUHl4TE1idzk5UUtmM1dyQ0pROURWSzlFZ0lYR29CRS1LVHlIQjNHNkZZU0x2Rjg1U1V2U01nYnl4aGRR?oc=5"
+    },
     {
       "headline": "Google DeepMind CEO Demis Hassabis: Google combined all the company's resources to catch up with… - The Times of India",
       "source": "The Times of India",
@@ -24,7 +34,7 @@
     {
       "headline": "Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs - Bloomberg.com",
       "source": "Bloomberg.com",
-      "timestamp": "2026-04-10T00:27:16.000Z",
+      "timestamp": "2026-04-10T00:27:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs &nbsp;&nbsp; Bloomberg.com",
@@ -42,13 +52,33 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0lMS1FFdUpHQ3ZaX3FyeFJaX3ZWSWRRenc1NGgtZmhXcUZjQk9IWUxFbmZiOUYwWlhGeC1hb3ROb3I3dU5QNjFVQXdDUHlCeW40LS15RTIzWWlTRjdZSlh0N3RFdDhIYTROMXZocklkVEVnRE1YVE1rODI1VGZ4LWx1UUJiQ2lBeWc?oc=5"
     },
     {
+      "headline": "Meta transfers top engineers into new AI tooling team - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-09T22:31:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Meta transfers top engineers into new AI tooling team &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5DRHBndjZYVklrdEpWY3NHRjdFS2NORjFJYW1yNFRLdF9scmhNSzRUaHdlVGFWb2pvU0tuc0hhT3RUYzdXRnI2MlJiNDBGQW1RUWJranR3TUVhYU9RMG1hcmo3RVU4d1lGVkFnY3BPd0prYnM0anc2bWFkWjlqM1ZKUS14bDNPV3ZUcmhLV2gxOVZiMFE2a1pQeDl4LTZ0ZGc?oc=5"
+    },
+    {
+      "headline": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure - SiliconANGLE",
+      "source": "SiliconANGLE",
+      "timestamp": "2026-04-09T22:30:26.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure &nbsp;&nbsp; SiliconANGLE",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkdYcVptXzFOVzVxZ3psdl9jYnp0UDM1TXFDb1pJMXNKOHpYRFhnZV9OY2JNeVp1YUFRUGNjSXhCZmdQVU56cURuRzdwWFRhMnVOd0VjWlgydlpwNUhMU2hvWk1nZjZaeVVzUXJjNHlZdkNkczZQUXl3bjZQd04tSjhPVEMyMHkycTZEaTNYZUxMTjlSdWlFTU1GczZiUzNGaEFNcnY3MA?oc=5"
+    },
+    {
       "headline": "OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum - CNBC",
       "source": "CNBC",
       "timestamp": "2026-04-09T21:39:39.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVYzcFRlNXZJbE85MlZJMkxkQVBGUlZaRTlLZF9WQ2xnSmtVRjhfWFBLSnE0LXZqaTM5R3lhWXB6NXp6di14OU5XTThxbHFiWE5NLTM4d3FlYXlhQTFhbzhqb3JZeW9zMW5xd2J5cklpd3hrYldCX3gtaGxZRnkxT05sMURqa29CRUswOGJQc09sa2ZnLS1DUGZIbDVaQ0FTTm53eVItM2o4ZWvSAbABQVVfeXFMTzhlVkhnQm45OFU1YTVpVFlTUjJCSHVQQVgzbXBZYWZ1LWhvNDIxRWUzQzZKNUtoZjBacmo4dGZsbmlWbE9NZmxSTi1TeEp3MXhJS21uX29OWnRZeHBlWU1CZVdla3duT1NjMjhmNlFwcXZsM1F4NWVuVEFsUFFLNVhqY09GdHF6QXJkQ0pWYjlRU0d0OTc4TGticEg3bkVlREtGMXRvektmMzBIejhmV2o?oc=5"
     },
     {
@@ -62,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS0RMeTBReFptdGxOSUhYaWRVa1hVbFNoQlMwalVocFdKemFyUEF5cFBHaEhsYmJVS2M3MGNZdENqakc5MWhoV1Bkb29CUFlRa0JCNTlLbnpobEVmeUpDaDg4MmJJenBsN1cxNDlCekJFQW1BWVNWUlhIVUlQNml2ZThKV19OTTFlWWdMS3lUYkFnSEwxc1QteDhKN0RhQkZpTlUzcnNQV0ZvV1lnOW8tWFJLajhKTDBjeHRKYnU0UGtjT3JGTWxaUnliLTljam1rbXR2aFBtakZBQQ?oc=5"
     },
     {
+      "headline": "Scoop: OpenAI plans new product for cybersecurity use - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-09T14:29:04.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Scoop: OpenAI plans new product for cybersecurity use &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdXhEc09XMUNsa21wdjlMR0tGYXZfQUJEMHByaW9qRFNmVkFUY3lRRURfNUVHUlRNbV9kUTZYdXo4MGpYSVRXMmxxVWlQc1VkUHpKVEpLa3R6dUlJcFhHc0lVSzNzOGZ4U0xNYklHRGZrNEtFYWZGUjNaMA?oc=5"
+    },
+    {
       "headline": "Former DeepMind Researchers Bet on Visual AI With New Startup - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-04-09T13:00:05.000Z",
@@ -70,50 +110,19 @@
       "summary": "Former DeepMind Researchers Bet on Visual AI With New Startup &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVFuXzdzWVNINTFUUG5Ic1FUWmdQYWVreUFaZkVYaE1GUWFGYlp4dVRrd29FUzJ3SGl4NngxclJDcHBLYXhpb3FxUTU2eFA5elFQYk03aTFmV28wSUp4a0g5SDAtNE5oMi1YRWRjT1dRMWVmTERrcm1rbmp0Slp0dVc5RVJERGhTdFVDaTItUEJ3OXRxYk0tdlhWblE1cTZvT2hPbjZiSkxNeWVMN3hjd0x0Wi1lZmw2akJFQnk1d3ZsZ3pmWENDXzl4OA?oc=5"
-    },
-    {
-      "headline": "OpenAI shelves Stargate UK in blow to Britain’s AI ambitions - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-04-09T12:39:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI shelves Stargate UK in blow to Britain’s AI ambitions &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUstcnVCcm1welY1eGRpUlgzVjdKWXJzVGVzMURDSUN2Nlppa29WajdOQW1rOUM2SmtRSmVUZGxsOU1GX3JGU055MkpEbGJ4Y2NMcU1SQnV0cHlZMUdxMEtSSHRKWmZoSlpidDN2d3YtV1ZnN3pKYW9kNEZYTjlrdkRORXZaRW81T1hXZW0xdjNkeC1jOUFtRDF2U09ETWM?oc=5"
-    },
-    {
-      "headline": "Scoop: OpenAI plans new product for cybersecurity use - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-09T11:51:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scoop: OpenAI plans new product for cybersecurity use &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdXhEc09XMUNsa21wdjlMR0tGYXZfQUJEMHByaW9qRFNmVkFUY3lRRURfNUVHUlRNbV9kUTZYdXo4MGpYSVRXMmxxVWlQc1VkUHpKVEpLa3R6dUlJcFhHc0lVSzNzOGZ4U0xNYklHRGZrNEtFYWZGUjNaMA?oc=5"
-    },
-    {
-      "headline": "CoreWeave and Meta Expand $21B AI Cloud Deal - CoreWeave",
-      "source": "CoreWeave",
-      "timestamp": "2026-04-09T11:07:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "CoreWeave and Meta Expand $21B AI Cloud Deal &nbsp;&nbsp; CoreWeave",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2VZaGFxR3JJX09CbHM1MkIwbTJXY3V1SW9zSUlqVlpDa0xubm1kLTR5Q3JCVF9yZFdwN2VyRFBVZzFTblpjSXNoWDB0T1VtaUpNYU9VbXg5NmQ4aGdLdThUc3hldHNQR19DRVM3TFFpaDVDLVVBYWRUR0lPYW9NT1FkRnRCY3d6dFlXZ0MyTjUyNldxbU5XTlpyMWljVUhrMWkyVjhnTDNDQQ?oc=5"
-    },
-    {
-      "headline": "A Meta employee created a dashboard so coworkers can compete to be the company's No. 1 AI token user - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-04-09T08:44:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A Meta employee created a dashboard so coworkers can compete to be the company's No. 1 AI token user &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WWdJUXhxMUhNT1VnZFdZM1kxNEhERFlNY0xUaW1LT3gzTGR6QnlZMHo0dExKa0xrOFFCLUpoZEhBbnNqNGFGM0NEcmxJNkFnZE1qZGFYZUZudGdFeFFCQncwWkVnOFJJd2ZwbVBmeFlVM1F1aG1vRGRnQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic weighs building its own AI chips: Reuters - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-10T04:10:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1FJTE9UWDIyWkRqelVYaDZlZmVWTGs0bHBTTFFQZk4tZklLWTVpNEFUNHNITjNhV1QteVlzR2VhRlpUczhhNzNTaVRZRWFUdFVUci1oeTQ2TjVOMUFNbXVtcm9pNG9sS19CTzB6YzNvQW9xUmMxeFdQVzROcnAwdEFnbjlqSGt4aXZKZTdFVFLSAZYBQVVfeXFMTmxVQjdMdGRIUFNob1VaSUFIVTdNeWxiQ0Zqd050WEc0S05NSkhZYnlGMGpic1B0TGdWVU5wZUd1RDdET3FOTXJqMzg1dTQxU3hOVmhRWVIxUHpaUHl4TE1idzk5UUtmM1dyQ0pROURWSzlFZ0lYR29CRS1LVHlIQjNHNkZZU0x2Rjg1U1V2U01nYnl4aGRR?oc=5",
+        "summary": "Anthropic weighs building its own AI chips: Reuters &nbsp;&nbsp; CNBC"
+      },
       {
         "headline": "Google DeepMind CEO Demis Hassabis: Google combined all the company's resources to catch up with… - The Times of India",
         "source": "The Times of India",
@@ -126,7 +135,7 @@
       {
         "headline": "Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs - Bloomberg.com",
         "source": "Bloomberg.com",
-        "timestamp": "2026-04-10T00:27:16.000Z",
+        "timestamp": "2026-04-10T00:27:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS1ZrTS1hRzgwMlRWMXY4YXBNcVhzVUI0WUI1aTZZMEFCbk1KcTNQZG03alU2b3p3Vl9BMTNyNVk2X09ZeXFFa1B3c1JFS3JVbkwyWDgyX2FqRjhoVVNtaklmbUtlTWNmbjJUTko5YXh6MmdGcV9qMVFJQU1abmRvSVZuNUZVN1dzeWRJMHAzSWY2Z3JZUGJZcUE2cWx3U3NRSnI1Wlp5N3ZjdVlTSm5SXy1fTDgyQV9PYWE3U1QxWQ?oc=5",
@@ -142,31 +151,22 @@
         "summary": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-09T21:39:39.000Z",
+        "headline": "Meta transfers top engineers into new AI tooling team - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-04-09T22:31:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVYzcFRlNXZJbE85MlZJMkxkQVBGUlZaRTlLZF9WQ2xnSmtVRjhfWFBLSnE0LXZqaTM5R3lhWXB6NXp6di14OU5XTThxbHFiWE5NLTM4d3FlYXlhQTFhbzhqb3JZeW9zMW5xd2J5cklpd3hrYldCX3gtaGxZRnkxT05sMURqa29CRUswOGJQc09sa2ZnLS1DUGZIbDVaQ0FTTm53eVItM2o4ZWvSAbABQVVfeXFMTzhlVkhnQm45OFU1YTVpVFlTUjJCSHVQQVgzbXBZYWZ1LWhvNDIxRWUzQzZKNUtoZjBacmo4dGZsbmlWbE9NZmxSTi1TeEp3MXhJS21uX29OWnRZeHBlWU1CZVdla3duT1NjMjhmNlFwcXZsM1F4NWVuVEFsUFFLNVhqY09GdHF6QXJkQ0pWYjlRU0d0OTc4TGticEg3bkVlREtGMXRvektmMzBIejhmV2o?oc=5",
-        "summary": "OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum &nbsp;&nbsp; CNBC"
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWk5DRHBndjZYVklrdEpWY3NHRjdFS2NORjFJYW1yNFRLdF9scmhNSzRUaHdlVGFWb2pvU0tuc0hhT3RUYzdXRnI2MlJiNDBGQW1RUWJranR3TUVhYU9RMG1hcmo3RVU4d1lGVkFnY3BPd0prYnM0anc2bWFkWjlqM1ZKUS14bDNPV3ZUcmhLV2gxOVZiMFE2a1pQeDl4LTZ0ZGc?oc=5",
+        "summary": "Meta transfers top engineers into new AI tooling team &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Palantir stock plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-04-09T17:11:20.000Z",
+        "headline": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure - SiliconANGLE",
+        "source": "SiliconANGLE",
+        "timestamp": "2026-04-09T22:30:26.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS0RMeTBReFptdGxOSUhYaWRVa1hVbFNoQlMwalVocFdKemFyUEF5cFBHaEhsYmJVS2M3MGNZdENqakc5MWhoV1Bkb29CUFlRa0JCNTlLbnpobEVmeUpDaDg4MmJJenBsN1cxNDlCekJFQW1BWVNWUlhIVUlQNml2ZThKV19OTTFlWWdMS3lUYkFnSEwxc1QteDhKN0RhQkZpTlUzcnNQV0ZvV1lnOW8tWFJLajhKTDBjeHRKYnU0UGtjT3JGTWxaUnliLTljam1rbXR2aFBtakZBQQ?oc=5",
-        "summary": "Palantir stock plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Former DeepMind Researchers Bet on Visual AI With New Startup - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-04-09T13:00:05.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVFuXzdzWVNINTFUUG5Ic1FUWmdQYWVreUFaZkVYaE1GUWFGYlp4dVRrd29FUzJ3SGl4NngxclJDcHBLYXhpb3FxUTU2eFA5elFQYk03aTFmV28wSUp4a0g5SDAtNE5oMi1YRWRjT1dRMWVmTERrcm1rbmp0Slp0dVc5RVJERGhTdFVDaTItUEJ3OXRxYk0tdlhWblE1cTZvT2hPbjZiSkxNeWVMN3hjd0x0Wi1lZmw2akJFQnk1d3ZsZ3pmWENDXzl4OA?oc=5",
-        "summary": "Former DeepMind Researchers Bet on Visual AI With New Startup &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkdYcVptXzFOVzVxZ3psdl9jYnp0UDM1TXFDb1pJMXNKOHpYRFhnZV9OY2JNeVp1YUFRUGNjSXhCZmdQVU56cURuRzdwWFRhMnVOd0VjWlgydlpwNUhMU2hvWk1nZjZaeVVzUXJjNHlZdkNkczZQUXl3bjZQd04tSjhPVEMyMHkycTZEaTNYZUxMTjlSdWlFTU1GczZiUzNGaEFNcnY3MA?oc=5",
+        "summary": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure &nbsp;&nbsp; SiliconANGLE"
       }
     ],
     "whyItMatters": [
