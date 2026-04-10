@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-10T16:50:01.214Z",
+    "generatedAt": "2026-04-10T17:46:39.166Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,6 +12,28 @@
   },
   "newsFeed": [
     {
+      "headline": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict",
+      "summary": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-10T16:50:29.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczlQSC01QnYwZXJjeDhTOXpMdEtkalI2QVFaZXQtTzlHNjVhQlYwanpGdXhsZkh0dU8tMm5QV05md1Y2R2xQSU42cDlfX0tSMTdtY0JyYzh6aUs1MkhoakhzSkRSLVdIUmp0NHJpSWpqNzljRHFnZHJNa3BENkoxWngzcVNSVmdieWU4cVJqS013anVoano5VDFuV1hpQkJvRnBsazMzVEwyMV84a0o0X01XQjIwOE1ZTklKMnB3?oc=5"
+    },
+    {
+      "headline": "Middle East war spotlights Florida's fuel supply vulnerability",
+      "summary": "Middle East war spotlights Florida's fuel supply vulnerability &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-10T15:42:53.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEg1X3ZvdE90SHBWZUl0enNoRW5Jc2IxdGJQS1JibkFfci1RamRYd1lYQnRZajNfZERTb1NBQTBqYVNsYXIzVGluaEY5WWY2WVVfc0lTbmtZbFF6UThkcDVsY0RPalFGTVIyelQ4M2ZTNE9TV1lHNHpQS0hiU3JNNFZKUjNsNkhteXBNYVV6NlBTRkZOMDViYkRBdmNCQkk4elJ4OE5YaGNxQTM3elpLWmpWRQ?oc=5"
+    },
+    {
       "headline": "Gold heads for weekly gain, US-Iran truce in focus",
       "summary": "Gold heads for weekly gain, US-Iran truce in focus &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -21,6 +43,17 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVk1Xa1pPY0RrdDdabnpiRXBBc01neVJTbHJiV25QSF9QWVFNcTF2dTBFVktzcTcxZkpiSFRJa1piNjA3NnU4QThyN2dpNk5Uc0R1YUVKNkJ2VmNqVjJlTThfZm03RFE1ZTBDTDNYa2RHdWtKYVZkUkpNaXA1a1NWTWxSVkJ0dFlpbjhNYm9pbkhaQ19HQ2w3Zl9IeTVjbzJnWXdIREhGTGQ2ekxVcjJHVS15TEY?oc=5"
+    },
+    {
+      "headline": "US consumer sentiment dives to a record low in April amid Iran war",
+      "summary": "US consumer sentiment dives to a record low in April amid Iran war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-10T14:29:56.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUV0T09HUHRLbWxxdWJPUXNoUUNfU1lVNUJ5QmRXV1kxb0NxeC13ZEE4eS14Z3RCOVNCcE5vZGY4SlBxOE9Ybl9mcDBWbWNCVFdfREhiM2RYWERselNfOEFpeWw5a3JZbkxWT1BIWnplUHpfZ1FRaWJCTjNMSllXWnl6U3I4UU5Pa1NuMzd2UmpQXzdhd1l0S29wUFBuTkszd2kxUmJn?oc=5"
     },
     {
       "headline": "Iran war leaves crisis-scarred countries counting the cost",
@@ -56,48 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWdHN3RhU0FsdkpWQ0lTa281OHVqZS04T04wTW9oWFIxMjlyVDU1aDl4YkF2NW5mWGs3Zk5fYTFvTHc3NFdsbk1MQnVzLTZtZFdNV0RweGR4c3N6SHFMUFZKWjhOMUM1OG52YzRWU2ZEbnF3M2hmVWswZFFZbU55YmdqaXNTZUhORFV4Y0RUam5CQ2FDZ2sxTjNOU1hMU2FjQkNEaXZLa0dVMnpfTDRrem91eFVEU05TeHdURw?oc=5"
     },
     {
-      "headline": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict",
-      "summary": "After years of war with Russia, Ukraine's farmers are hit by Iran conflict &nbsp;&nbsp; Reuters",
+      "headline": "Ukraine, Russia move towards potential peace deal, Bloomberg reports",
+      "summary": "Ukraine, Russia move towards potential peace deal, Bloomberg reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-10T12:25:06.000Z",
+      "timestamp": "2026-04-10T12:01:08.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczlQSC01QnYwZXJjeDhTOXpMdEtkalI2QVFaZXQtTzlHNjVhQlYwanpGdXhsZkh0dU8tMm5QV05md1Y2R2xQSU42cDlfX0tSMTdtY0JyYzh6aUs1MkhoakhzSkRSLVdIUmp0NHJpSWpqNzljRHFnZHJNa3BENkoxWngzcVNSVmdieWU4cVJqS013anVoano5VDFuV1hpQkJvRnBsazMzVEwyMV84a0o0X01XQjIwOE1ZTklKMnB3?oc=5"
-    },
-    {
-      "headline": "World Food Programme warns Lebanon facing food security crisis due to Iran war",
-      "summary": "World Food Programme warns Lebanon facing food security crisis due to Iran war &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-10T11:43:10.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVF2R25NcGVFbU9pMmFmLWZEOUpCelU4QkQzUi1rbm9CTEZWcUdPSktsX2lqRW1BMlltS3E5eU9Nbm92cnFLTV9ROURfc0ozTzJnMWVkMXpSOWZtcXFnZmhqbENLRTNpNEUyVmxOZi1pNGo5R3VaLXNkUnVzR29DREN6a1VvelhlM0syR2R3RlVsejFrUC15a09nUTlhTHFsWlFZZklPWXNWXzdlQUJNeXNuWmozVkg4eG85WE1EZHFnTDgtUk04UA?oc=5"
-    },
-    {
-      "headline": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say",
-      "summary": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-10T10:23:44.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ05ad1ZkdnNrcEhEMklEalc0TVBmWlppMzkxQlZxQVBpbUp1Nlk1STVqUm51WDI5QnYxS1BleDFONDZwTmR2Tlc4OGl3WGU2US0zVUhhVUQ0Zk5yYlFEV1g2M1ByNy1jUTVSTTRSYjhwUU9XU0lsRHY0V2tjbXNGX1dwUlFJZUV6UkRoang1TW5IbllaTTcycmRDV0ZNYnNQRnRFUWhybVNuVHMtdFdyX0tTLUN4Q1cwYTFPU3BPRG5UeGI4UTJZMXpBc25uZw?oc=5"
-    },
-    {
-      "headline": "Asia boosts US LPG imports to replace Middle East supply",
-      "summary": "Asia boosts US LPG imports to replace Middle East supply &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-10T10:19:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
+      "region": "Europe",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHEwUVc4aW1ocDRqMXVTUngweE9GU3BfNU1Dd2NmMFdiaXU0eXFKdHU3cWlwNVJsczZWSV9CQldrVE1YeDljT1ZaVmNJRlFBWE13bWxKNFY2TC1SQVZRSUZNVXMtSTNEYnJZRGRIaDJhZWVYejZmU2h6NFFCcXRVTVQwR3BTX0tLX2JvM3J6eVRBYnFVMEV1X0VQbkFXZF9WNmk5WThDUWI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUllXX3V3X1IxZnFHbkVSMGRBTW1yRzJIWmZZdXM3RFIxQnU4YnhxWkVsdmRHT3ZQVU4tSlNIOFoyRFBiRUlwaUNHamNqdnpzNE5jRTZhZHo2QkEwaGdpUVVXclZCbWhkVms3Tk9lZHZqLUZUc1E1NlUtQm1RYW5pdWxIZDBpQWR5YWQtVUNFbGhvTWFiQmNQeFN0d3RZZVNVQTFhQkwxdUNqYk9WYXNEdU5ONTF1ZjNpUW9z?oc=5"
     }
   ]
 }
