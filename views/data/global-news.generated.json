@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-09T23:36:39.621Z",
+    "generatedAt": "2026-04-10T02:27:37.049Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,59 @@
   },
   "newsFeed": [
     {
+      "headline": "Stocks shaky as Israeli attacks on Lebanon tests Iran ceasefire",
+      "summary": "Stocks shaky as Israeli attacks on Lebanon tests Iran ceasefire &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-10T01:23:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZ1daUm9fTmVBRlFTMU9oX3BLNjhQaHFwdy1rRzhQaTVhMG56TlhVaTdzUE1EUlVGU2stVmZkVXgzZUs1TlBDdUZLTjltMGxNMjAzS240U3BuYUM4Z3M5WWlKbWY3WVh1NEJ5RzFNNTJuamgtTXZwbDV2WXFEN0U?oc=5"
+    },
+    {
       "headline": "Russia's Putin announces Orthodox Easter ceasefire, Ukraine's Zelenskiy agrees",
       "summary": "Russia's Putin announces Orthodox Easter ceasefire, Ukraine's Zelenskiy agrees &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-09T22:26:34.000Z",
+      "timestamp": "2026-04-09T23:58:42.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM05HYnI2Z1VqSjFKSVRCWUZDQm55OHVDQ0tpLXV4N1IyTmlkTHhGQ09ncHVJeVQwWkpDcDZ2RHNmRGFiZmNsdS0yNVlCQUJRaEI0MmppSWlNT09HbUtrdm1SRWxHSks0LWhBcURKSmt6S1NDNThMYV9IcEJncFlReGtDREhiVGJ1NUc4WVBHcjBxNV9nSWVOSkJsak9IRG03QW9EVWZzZ3M0ZWxDYXJKUkdXWFVLRlNWbF9yYUlJRQ?oc=5"
+    },
+    {
+      "headline": "Ceasefire uncorks market relief, but outlook remains sobering",
+      "summary": "Ceasefire uncorks market relief, but outlook remains sobering &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-09T23:30:23.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTNtbDBXM2lCT1dpOEdSVktkQ2ZJM3gzbjRUdzVoc2FseV84NkxYb0FsSkJsZXo2Ri1jamdIME5DWDFZeFhlTzhuWlRJc1E4SFlpRUR4aEh6QmY5NW5QbEE0SEZOS1F1QktXc2dIdjRFbVZheG5SRGlVWUVMVThSYkZXaUp0WHFacUVMWlBQeUFfWTBJUko1RmNZS0VZREFkZFplTjdB?oc=5"
+    },
+    {
+      "headline": "Ecuador raises tariffs on Colombia to 100% from 50% as tensions escalate",
+      "summary": "Ecuador raises tariffs on Colombia to 100% from 50% as tensions escalate &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-09T22:27:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOEpmaTlYZml3N0ZTM0dpUTU0WHVlLU5OYVBac3dZMm1BNXdJbXU3a09aalo5bzhSV1JqNVAzRzRjWU8tNUFIb1RyS1BBVklGQ211cTB5REZKT1ZIV1BkTW1mUmpIOTVYRVhpZWI1UldKUXd3SS02Z05tc0xVWFFqTkR5R1VvWlR4UlM3eWNDTWJzemM?oc=5"
+    },
+    {
+      "headline": "Trump says Iran should not charge fees to tankers going through Strait of Hormuz",
+      "summary": "Trump says Iran should not charge fees to tankers going through Strait of Hormuz &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-09T22:08:14.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTZPamh1b29xTVhnUHZJSjdyQkZtcUdodUY3dC1NUVBFbGpBVURERnpsVDh4T2JuM0pESHVmSEI1WUh6VVNvQ0hPZk1QYkhSMGg5VnJ0aVBIVGNWNWQtbzBVTDFnNlZtLWlVQkxYR01WbldjNU9mVXZMZFZHUUNUczgwYnhMcFNTSVdmTTRXRjhmR1NacHhqVzdvZmxPWkcyTzFQZ1pieXpmSzdPUXpQQW85TDBTOVY1NHZjODNqVzlULWRKZVI4?oc=5"
     },
     {
       "headline": "Hormuz at near standstill as Iran warns ships to keep to its waters",
@@ -34,6 +78,17 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJQR3N1VWw2dXc3bm5YbUQ1NkQwakVtMHNkbUtjVWU1VDlRWTdiSHhVNndZQk1nd3RXZm5RdjJnNE1OMmRZaFhNeF9TaWc2V2lNX1lLMmM3R080RTRlaVBfajZMQ09QQWVvcnRwWDkzQmFCSEZOMjE4LU9LWkxtaHQ4MlY4UFZJRUU2R3lGcU5Tdm1jTEgzMWdfYW00UG5xRjhWcks0aGZEcWFsam1VYWZSS3JUNzJVaWdsbXh3MFRNWWhPaTVhcmJOVU1OZw?oc=5"
     },
     {
+      "headline": "Trading Day: Ceasefire sends stocks higher",
+      "summary": "Trading Day: Ceasefire sends stocks higher &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-09T21:52:36.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmJEeHpMU1FhQy1DUEFZWlJEd2s2WWhwZzhUODVwMUdjekJVak5SaFdncWNyaE9tRnBEckpMczg0ODlWcmMwV1JmUi13WGJkWWRkV3FkT2xKaUpZMmw1WWFxUXBNdGdvUVNNd0oyRnpNRVJqRnBMTkZhNXlycEZTWTIySHh4WE1jSlRYU01R?oc=5"
+    },
+    {
       "headline": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
       "summary": "UK says it deployed military to deter Russian submarines from attack on undersea cables &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -43,61 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU01VOHBWaTFyVmxqSVhsOUk2NGdzb1hvOFR3WUxiWnhYSnJ4TnAtSkFhREs1V2JENnhET3hrNVB0cXdsQ09fSVFBQzBub1Q4bF81cUU3TVlhQkhJY21MNWRkSTNFZEJod1BRWnFLV0FtbTNQeHhBbUxTSDJ1Vjh6YnBrbjJScEhOalpWbTJQaHJvWjNnajZnUHE1Zw?oc=5"
-    },
-    {
-      "headline": "UN envoy meets Iran deputy minister and visits bombed sites in Tehran",
-      "summary": "UN envoy meets Iran deputy minister and visits bombed sites in Tehran &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-09T20:50:26.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeDZ4VkJuTzFKRHVCWENma1VMM0pUOWE2d1h5Ni1pdmFNd2o4TjhuRGQ2SVROWEt0emp2aGVHTmk0dk82ZjZ6R09TQlM3Wm12WFIxd2FfU0NnR283S3VnT0JLRy1QcFR5QzJJM1dHQVdxLWhqa01DaEtfbG9jV1B1RURjZ3g3cjlZM2RyQnpGWl9WZFBqQThuYU9NcGlZcnBObVgtejc5Y2hiNk9Lcm02ZExtYk9zTUE?oc=5"
-    },
-    {
-      "headline": "Iran war tests Trump’s most enduring political gifts",
-      "summary": "Iran war tests Trump’s most enduring political gifts &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-09T20:01:44.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WR2RRamJtcVJuNTl5MnRzZ3h2Yzl5Y0NISXhBbHd4MF9ycnRmNlN2NmhWdFFmelc5ZGtqOU9wWVFvUy00TG1MQUNDcnRrMVlnOGh1MmJWR2phT2RDRExxdThkbjZjc0ZN?oc=5"
-    },
-    {
-      "headline": "UK's Starmer says Iran conflict shows Britain must take a new path",
-      "summary": "UK's Starmer says Iran conflict shows Britain must take a new path &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-09T19:19:45.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTJIenV2el8xdGYwSWxGMTNZTThhbUlwVFdhY2EzUmlGOGk3RHBsOXdXeU1PdGZzeVk5Q0RBMFltZXFjdmx0UFRsckh5SGNfMGlwMUxuLUV0Mk9lc0V3RjhvRXp4OGdfNHotVHdyc1Q1eGduTy1rcHYzMm5IX25MMWE2UmNYSVRtZXVoOE4wSFFuR3JacUVNYnM5eTlHbUZyTFJ1QWsxZkd5WF9QNDZVcFJ3?oc=5"
-    },
-    {
-      "headline": "Paramount seals debt commitments backing Warner Bros deal",
-      "summary": "Paramount seals debt commitments backing Warner Bros deal &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-09T19:14:26.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUstOE44ZkNGMmp3N1VDRlNQSU9fcUlQdWZGTXYxVjRVQ3QzeWRJS3Ayam1SMkk0T01wRzNpU25PektNRFZVQVRCRjg5MnJ5eGNJb2gzRWdGbjEyLWFkMENIQnBTaFQ0Zm1BVnl3RGFXVndUbnp4b2F6cXFyMEdCMTBGM01wV3U3elhTallRNFZ6RGtyaFVYT1M4UnY2ZUJnSWNoaTJpc0o1TlpoTjRz?oc=5"
-    },
-    {
-      "headline": "Iran war raises demand for US fuel, boosting Gulf Coast refining margins",
-      "summary": "Iran war raises demand for US fuel, boosting Gulf Coast refining margins &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-09T18:17:40.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkk1ZFlSTHFEUEU3M1pLMnA0MHB0VExuMURUUXNZLTBUak1ka2JDN2g0aTN1MnFqajIxN0MzaGRzWmpnMDRxSVprY2pkOEpzTm13ZTJnaGtKS0FTd25OWm5pN1lrdFo2bHhWX2pqWlRmVUJNVU4tSVJ2amZwUDdmX0FKMVJieWk0TUNfajZpNXd0UW82MElRWndwY3BrNl95Z0ZKOGljdGVhdERQc2I3TFF2NkE2MzZXb1dB?oc=5"
     }
   ]
 }
