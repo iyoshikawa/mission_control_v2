@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-11T06:00:01.664Z",
+    "generatedAt": "2026-04-11T07:13:29.356Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,8 +12,19 @@
   },
   "newsFeed": [
     {
-      "headline": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions",
-      "summary": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions &nbsp;&nbsp; Reuters",
+      "headline": "US plane carrying team for talks with Iran lands in Islamabad, two Pakistani sources say",
+      "summary": "US plane carrying team for talks with Iran lands in Islamabad, two Pakistani sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-11T05:25:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLU1BMkhMcm1MbWdJck5XSEtEcmw3aXQyM3lCTFEwU3hCcjFXTzJPNGFfZEVQdTZremI2eXhrUkV6QW9sLWpHOWxqeWVrTkZFQVhLbUhOMGZiYXkyOGd4VnJVQTh5a19hWDZ5YjEta3lXck80NVRyYWNmTzQ2eUw5Rng1dnAyTmQ0WWJpU0oxcXBwOW1kQ0FJNEhGUnVTMGhTZDVBMFhGNE55ZGRpakw3S3d5dEEtZFgxZlJXTVozNHhkUGpDZW5iSldUU1RjYXlJ?oc=5"
+    },
+    {
+      "headline": "US, Iran teams in Pakistan for peace talks amid doubts over Lebanon, sanctions",
+      "summary": "US, Iran teams in Pakistan for peace talks amid doubts over Lebanon, sanctions &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-04-11T02:40:00.000Z",
       "impact": "HIGH",
@@ -23,15 +34,15 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOam1RZGY3dngzb1VBWXFteDlZNldBNE1RMkpRMFpEbWszckQ2Zk1DUWdiWG0zcjkzMUEyVTVPdkVXYTBwZW5ybnIxT0szNDMxb3dOUUptV1M3MEJhOGYxZ2pZcW1BT01WRGJnYU9zWDl6UGhFaHQ0cFU5MS1VVlU0RVZTd1dZRG5NX0F5X3BvOUlBbEtULUJHODQ0SHpPRlpJaG1pY1doVXpjcDY3ek9ublB6bC01dw?oc=5"
     },
     {
-      "headline": "Iranian delegation lands in Islamabad ahead of 'make-or-break' talks",
-      "summary": "Iranian delegation lands in Islamabad ahead of 'make-or-break' talks &nbsp;&nbsp; Reuters",
+      "headline": "Israeli strike kills at least six at Gaza police checkpoint, medics say",
+      "summary": "Israeli strike kills at least six at Gaza police checkpoint, medics say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-10T23:48:12.000Z",
+      "timestamp": "2026-04-10T23:48:18.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjVnU2MyTVRjaWpYcWNnS3pGQUNLUkxaYTlPOHVvdVBudl9DYmE0WEhBaXUyeDlQZ3RDeXFiQTUweU9oZ0NYWl8waGF4LWpCTHFPcmRyMTIwNy1VOFJMekpnVkRjeWQ5LTNhYlR6Tkd4c3EzV3E1ZG5USjViSDZjV3FPRHNFX011OGVGX1ViU0IyZ2tMVzJlOUgxckVnOTF6Rk1JS0RYUzF3MUVmSnBFVGg0aTVhSWZFRm5kUmlDX2hrcnNo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmRBY0toejZFSHFxelNBZ2VWYVdqOTAxWjJWVzd1b3pXRGszRkxRNzZQQnhrbTBRWGc2RWRvUEZXbkR6R1FCczVFR1RLdUlMREsyYzNHNFllR21ZbjBYd0ZNQlh0Snk0d1NMOTM3aEtyVHRmU0h3SXJmdG1waDU3S3NTSjVXZlRrM0U3RmpJZDN6RU40aHVXX1RyVjdUcWNsU1lqcEwxSGw2SnZuU3RYTEVSQkR0Zkw5TUE?oc=5"
     },
     {
       "headline": "Wall St Week Ahead: US earnings season set to test war-rattled stocks",
@@ -67,37 +78,26 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2x6N2hmeDNQenQzcG9iUUpIaVVUT0g1M2FsNEVnRlJCa040M3l4REo2ZFFjOE1KRThsN2stZmdIVDU4TEF5VXBlU0dSX0lwSU5Zc2t4Wm5IbU0wRERkRHRNbXBHeERnUTc1XzJWenJYSV84Z2wzZ2k5aUV4S2FnSEpNd25VeFNvVGdGMlpyclNuQW1PWDh5ems0VkdnVFRVREZBSDVVcldOZWtpdjdJ?oc=5"
     },
     {
-      "headline": "Tesla's supervised self-driving software gets Dutch okay, first in Europe",
-      "summary": "Tesla's supervised self-driving software gets Dutch okay, first in Europe &nbsp;&nbsp; Reuters",
+      "headline": "Trump says US will have Strait of Hormuz 'open fairly soon'",
+      "summary": "Trump says US will have Strait of Hormuz 'open fairly soon' &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-10T21:13:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnVpZVZGOUlOTmFEcW9XZnMySjk1UHpqd19Ka3NEbDhwMWd0c0I3cGRaYWV3cDZVYUxqbi1Ra2ZpdVJCbDJYUmxzWjI3MG5BWmg5VGFFRDZwVmJrOThhWFhfOVdPUEdKZkNaRXpNLUY2NkM2MmZTWGphNmNnMXNmQ1FBb1dxSHljUWlUM0w4WERPazZDaTh6ZzZaRmJkaWpEQXgxNm5tTElRdlRPRVRkVUhn?oc=5"
-    },
-    {
-      "headline": "Lebanon heads to historic Israel talks with few hopes except to staunch bloodshed",
-      "summary": "Lebanon heads to historic Israel talks with few hopes except to staunch bloodshed &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-10T20:57:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGJkcno1N3k2Z01HeTRaS1FGSzdiSHdMNzBhNkZmOGVvMkFNeUFEYm9kSUxjOGYwLXZ3RzcyZFBzeUtDY0xEMnJkN3BzRFZvVmJkS21OdFVzd2NlbFlqSEdpTF9vUUtkWDBnMUd2SGcyS0ZmcEhhUm5xbFdGVldoRTE5TUZWeEhPWUVzZmUyNHc4dV9oRVk4UEpTdFpoREdtOEsxd1RRclIxN1Z0aTNNSVFYZlBsN2pxci1qcVE2dWRwVDlPekxsaA?oc=5"
-    },
-    {
-      "headline": "Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports",
-      "summary": "Rio Tinto's US boron assets draw interest from bidders, Bloomberg News reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-10T20:30:00.000Z",
+      "timestamp": "2026-04-10T22:34:46.000Z",
       "impact": "HIGH",
       "region": "United States",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODhFYzFzT2JZYVphSjRuVE1rbTFxTWpRTzdzRlo0UndYUXItMmFfS3ItaTZ2Wk4wOHdhSUV6b0k3SnNrZjhkUXcyNDRCTmxhUGVyNXg4UjRwcGZoOEt1MlU3OHh3UzQ3ZmZmaEYtbUc5VEhmVU5ITTVWRV9xdWo2WndIMFYtQ0FHTmFZSTYzZTE1ME1VdUpCeUNYYzZFQU54UkE1WnJvVDFhQQ?oc=5"
+    },
+    {
+      "headline": "Lloyds will not take legal action against Britain's car finance redress scheme, FT reports",
+      "summary": "Lloyds will not take legal action against Britain's car finance redress scheme, FT reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-10T22:26:12.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORk0tOVE0SEJLYlZSSkwyVlFPbWJGcENMbU5pNHVVN09DLWtyMmFIXy1iT24yV0dJYmVyZnpIWEZBUDFVNzJoeVlmZnVlUGNWWEdXUE00d25BbFlwWmVoYVFrbmdhcUtJcldxNDhrc2VPVnZlR2loSVdsZWdSbDRlcTJRdFY2WHhtdkNiTWRsbmNqSUtWa1pwRUczdTl3WmRvdUJMRnNOeVZOZGp2a2UzV0tRZnBkclJYbTNWRkhsUlRldUgzTURNeEtqWXZ1RGM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUk9vZ3JYR3FCY09GWWxmNzhlSXl1Sk9ETkdSYW0yck12bGIzTk1KcExHS1pGSHRqZmxka3hENHRUdTljUlgtTVlORmdIZ2Jja1BUVXRqckJ2b3p3NUlOWEp4QVU5UXNvMEUtamVqSnBKS2Y2MXFPU2pFS05yRHJ3OFZtdVJZcWxtaU9MeV9CWm9KVnhoaC1HRzk4SFZ3cTVSSHlsbS10V3BSQ2lKMkFtcVZKejlsX19VQ1NibHFnSUVWZmNBMkxzaklBVlhMZw?oc=5"
     }
   ]
 }
