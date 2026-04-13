@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-13T17:09:12.195Z",
+    "generatedAt": "2026-04-13T19:20:02.663Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,19 @@
   },
   "newsFeed": [
     {
+      "headline": "Altman Molotov attack suspect had an 'anti-AI' doc that listed off the names of other CEOs and investors: feds - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-04-13T19:19:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Altman Molotov attack suspect had an 'anti-AI' doc that listed off the names of other CEOs and investors: feds &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanlXZl8xbFphWi1fdlRUcVhjdURlWmF4aHg4bmlZQklxOXhHN1VtdWFaQm10SGFpWEVNZHdKNFFBaTU4eW85ZDZ6OFR3LXl2a3V2TkZFWW81cnNEbHhkX0pYdGgyX0IyenFvOUVJbUdwODZKdlZMbkJXSmt2Y3h3ajRZek9EQ3ZCSmV0NFFJenhma09uaTJz?oc=5"
+    },
+    {
       "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
       "source": "Anthropic",
-      "timestamp": "2026-04-13T17:06:02.000Z",
+      "timestamp": "2026-04-13T19:18:18.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic",
@@ -22,24 +32,34 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
     },
     {
-      "headline": "OpenAI Is Backing a Bill to Shield AI Companies From Catastrophic Harm Lawsuits - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-04-13T16:29:03.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI Is Backing a Bill to Shield AI Companies From Catastrophic Harm Lawsuits &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NXMEV4eG91QW1XVl9YSTl4SXRvSnd1TGpsaDQxT2UxSlQzT3dJVmc2VmgtQUpYR1dBTUhOQjl1dTNNWk95Q3pZX1BpSlU5aUMwOEJFUFJDaURvSng1ZGJXSVF0dlBkbURDMGctSjNBdmZCNDU4YVg4c1VFTVR2REpSQjltTlE?oc=5"
-    },
-    {
-      "headline": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-04-13T16:21:08.000Z",
+      "headline": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say - WRAL",
+      "source": "WRAL",
+      "timestamp": "2026-04-13T19:12:31.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2RHRGxBNUFhaVVIeGdOWFN2bzhELUFENlh0ZU56NGRURUtzZjRFalRqbjhfd2h1d3dnQk1JLVJ0cU51eXgwTXUxNU9oZkZrRXZTX3N6V293NWd4MUl0VVlNQUpHbXc0aDQzLXJaZjRxSzZZQlpnZGljeG14VmVzTkZtdTFUWjNhamo5aE9IZk1SZmVmQUpHY0w2ZnB1UTJQ?oc=5"
+      "summary": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say &nbsp;&nbsp; WRAL",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFBkMEFmWlhTcDdsYlY2MmtHTzNRS1NIaEZBRHlfZlFRTGQxYVZvNG5qNUw1T3U3M0RBeVZxVFUyMGVSd0I1R01kaWFGWU9QUkVkeTc3eW1xTjlzbHVfV1p0NWZlQ1ZnRkxoLURCMEc1MXRkYUlmTmhPWEVCQzg2QlY4aVdXWDFtTFc1QlR5RW1QVnNrUUdqRmJHQTVyOHJGbUVKU291ZmlLak1LX2lmNWt0MUxhY20za1dGNFUyU3JFUFU?oc=5"
+    },
+    {
+      "headline": "Man accused in attack at Open AI CEO's home was opposed to AI and had list of other tech executives, court documents say - 10TV",
+      "source": "10TV",
+      "timestamp": "2026-04-13T19:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Man accused in attack at Open AI CEO's home was opposed to AI and had list of other tech executives, court documents say &nbsp;&nbsp; 10TV",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNWUdxRDYzTkdoX1VpVUx1V1ZDakYwS1JTbThUeXlqeUU0cEpxOWk0TFRlLU9oTG9vSW00Ml9JOVlEbUtON0lUUUlmRXcwN0M4X096MFlCcXEyaHk2R1dkNV93WjFRcUtRb0ZiM040OE84dDY4RG9FZHVLenNJVEhLM3RXbkpFdklkZVFxUGJjZjJmNm9tdWdtQm1wX0l2NklHclRoZWNhY1NlX0RFOEc1YURxUTBRWmZpNXhGdGFHTUZ1OVc4d0VwVFlPT3VCYk5ZVld3MFIzQkRUQUkySmIxYWxsdDhiaG9UVU55U0RfWUxkQjRzeWlyRFc0T1pPYzRSY2hlTUJzb2N2aDk2NHhyY0R0Ym1sUGJmYXdtTzlZMWpDRGY5emRhUnNjRXphbjNCaE9WNEdaOWZUOU82?oc=5"
+    },
+    {
+      "headline": "AI is rewriting the rules of biological experiments, but safety regulations aren’t keeping up - Fast Company",
+      "source": "Fast Company",
+      "timestamp": "2026-04-13T18:14:11.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "AI is rewriting the rules of biological experiments, but safety regulations aren’t keeping up &nbsp;&nbsp; Fast Company",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVEM5b3kxelR1cy1HUEVSSXFtdnpuOW00b0R0emYzVE5IdG10NVgyMnlMSmwyRWpid2lWbEhBTGlnT01fVy1fcnBHaTZYTTBYTndJVjFGRnZCRkY4TkIwQ1g3eERVNU8ta0FrRkJ2Sk8xNzFvT1hmTGZvWWZMdVoySExPX1N4cGpCVEFkRjlSSUttOHpLY2dSUVBFX1ItUDQ2M2paMUwycmFFeHlVU2U0eW9RUVgxQ2s4WFZ0OFUzMzAxbVMwMElkYnhEYllXTmdqMjhVNG9jdHZIRENIQk9HWkVLQ0lfZWVkenVLcFpWMjBabHhvTVlRSmxTOExqQmhsX2FB?oc=5"
     },
     {
       "headline": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss - The Guardian",
@@ -52,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHMteHJhZEFvUG9Fc25mdlZzY2Vsbld2TW5UNkJmbXN1a3kydGdENFVzR05FY2xxVjNiZWhUemZjdXVmb2hfbV9xWEtFa0hwZWtlUlNKQU5hcDdMTzNyNG9LdmZpRmR2M2F0YlI5d19wRW9iczVIa0Zfb1JueFpQby1KOUJwc2RVZXpmckVRdTFaa1I3aldDT1R2WVBxdw?oc=5"
     },
     {
+      "headline": "No company in American history has ever grown like Anthropic - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-13T14:17:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "No company in American history has ever grown like Anthropic &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRlVOX3VoM3ZmQXlybGxoaEJhNEVENDlSaHBDZTNkWXhMek1iWE9PZVlXTS15U29pYnBqdzRCZ193QTVURFpUd2pZNXJCbHVMQzZldGZMcXRhQncydHJESnNPT3J5UmJuenEwSw?oc=5"
+    },
+    {
       "headline": "7 ways AI is advancing healthcare and wellbeing around the world - Microsoft Source",
       "source": "Microsoft Source",
       "timestamp": "2026-04-13T14:09:26.000Z",
@@ -62,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWZZOVl2TGw2QVdNSFNPdUVUdlY4MkFXQjdfRmFKS3hmN1JicmpZbW1fUTVFUHdJcV9pbkFDUW0zd3VnWUNhc05rbUY2RHRJTzhjeVNKRWJnUmh2bmZXSDB1amF5ZUNDWEczUUJKQ0NNR3FRNXlfZWJ5WlN3dDRtMVplWFZwQzBCbE5tV0tnVmVYcHVYRXQwbVpkaW9faHVJclFUYng5ekpnWTdMVjVWMW1zdTJDQU93ME5J?oc=5"
     },
     {
-      "headline": "No company in American history has ever grown like Anthropic - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-13T14:04:49.000Z",
+      "headline": "Meta building AI Mark Zuckerberg to interact with staff - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-04-13T13:44:43.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "No company in American history has ever grown like Anthropic &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRlVOX3VoM3ZmQXlybGxoaEJhNEVENDlSaHBDZTNkWXhMek1iWE9PZVlXTS15U29pYnBqdzRCZ193QTVURFpUd2pZNXJCbHVMQzZldGZMcXRhQncydHJESnNPT3J5UmJuenEwSw?oc=5"
+      "category": "regulation",
+      "summary": "Meta building AI Mark Zuckerberg to interact with staff &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNbnl6Vm55OVNXazVhUG4zM0RVejFBNWJocW9ENHV0Z3kzUUZnSThaZmVxMWxteUFjaUNvUVlZTU9xRFF1dUE2MUVzUDRRUGJNRlBXenpLNE1IU0hsTmlyQ1RkTFlORWVwWWItcVVXLXlZeFU?oc=5"
     },
     {
       "headline": "What Regulators Should Do About The AI Industry's Hidden Financial Loop - Tech Policy Press",
@@ -80,66 +110,54 @@
       "summary": "What Regulators Should Do About The AI Industry's Hidden Financial Loop &nbsp;&nbsp; Tech Policy Press",
       "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQci1ESDBQWlZNUjNWc2FoT3Npdk9fSVphQ09aU1VENXE0WUxtaWZ4cjE2VzF5QU5VSDVwZEZyNUdYMDBvbjF4a1hUNUw1dnFlMEJWcmwyS3RhMVB2X2FyTktpQmRhMHhaM19qTzl1Z0xUOS1rVWdzZzJEVDEycDhyRG81d3JPVmx3QUcwZVlPLW55aktwN1E2d0pkZFBpeHRUZVJz?oc=5"
-    },
-    {
-      "headline": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-04-13T13:40:03.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PZ2tGWE1kZXRjQ2s0RmlSSFFETmtmY0wxR0s1WWY2bzBJSVdhTjZ2ak5RdlVyZXRiX1lDc2xwMzM4WmFma2tjTGhFbW9ZaXBvNE1ZNlg0elhDRDlpVE5rcXdob20xdnhnTWZrRlBtNGhpWGt2aC10bERB?oc=5"
-    },
-    {
-      "headline": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-13T12:30:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHJ0UXQ4S1M4YmdMRXh2TXdCSjdBV3JNUU9MVkpERG1Zd1JzU1p5R254NzExay01amNhbzcyZF93RThUNENXUVBha0UxOWVlS0R4UDVKc1RpX1NCanRiWk12cEYxbUZZSEI5MmJRUVFJd19SMnlsU1Vpc1NrVjgyZ0VfOTllTDBTLWdDVmZ5V0ZTYzR3RVY3U3ZDMTRycmxWV1NZV29B0gGrAUFVX3lxTFBPMnJZczRGQUl2Mm8wZ3ozemNkZDI2UkxfRmlNbWlXb21maDVTX1ZTRVZqRklZRk9QMkI5SFlULU5TN3VKYURvNGVhNzhVdC05al9zZ2VBN2J6Sy1MeXF4V1VfMGY0ZXo3Sl9MNXMtV1dTSXFhZVhQX0RXX0p1WmxZTDdFLS1TLUVzUFoxMUNnZWc0cnotcktXSi1fUmRjOVVuaDZEak1DUVc0aw?oc=5"
-    },
-    {
-      "headline": "OpenAI is pivoting to…socialism? - vox.com",
-      "source": "vox.com",
-      "timestamp": "2026-04-13T10:45:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI is pivoting to…socialism? &nbsp;&nbsp; vox.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkY4OHdoMUx1d3lLNHg1VUNoVXRGUXp1dkhqNFVxdlhhaF9tb3MycjZITjFNdFhqUDJudy14Ri1za2RsbkhHWjlVMFIwcWxnX0JQQjZ5Qmx3UnpsejBvMjNpcm1FZnZWRTJ3TUpOYTVCaXFTdVkxUEZDSFROekE2X2VnR18?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Altman Molotov attack suspect had an 'anti-AI' doc that listed off the names of other CEOs and investors: feds - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-04-13T19:19:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanlXZl8xbFphWi1fdlRUcVhjdURlWmF4aHg4bmlZQklxOXhHN1VtdWFaQm10SGFpWEVNZHdKNFFBaTU4eW85ZDZ6OFR3LXl2a3V2TkZFWW81cnNEbHhkX0pYdGgyX0IyenFvOUVJbUdwODZKdlZMbkJXSmt2Y3h3ajRZek9EQ3ZCSmV0NFFJenhma09uaTJz?oc=5",
+        "summary": "Altman Molotov attack suspect had an 'anti-AI' doc that listed off the names of other CEOs and investors: feds &nbsp;&nbsp; Business Insider"
+      },
+      {
         "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
         "source": "Anthropic",
-        "timestamp": "2026-04-13T17:06:02.000Z",
+        "timestamp": "2026-04-13T19:18:18.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
         "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic"
       },
       {
-        "headline": "OpenAI Is Backing a Bill to Shield AI Companies From Catastrophic Harm Lawsuits - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-04-13T16:29:03.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NXMEV4eG91QW1XVl9YSTl4SXRvSnd1TGpsaDQxT2UxSlQzT3dJVmc2VmgtQUpYR1dBTUhOQjl1dTNNWk95Q3pZX1BpSlU5aUMwOEJFUFJDaURvSng1ZGJXSVF0dlBkbURDMGctSjNBdmZCNDU4YVg4c1VFTVR2REpSQjltTlE?oc=5",
-        "summary": "OpenAI Is Backing a Bill to Shield AI Companies From Catastrophic Harm Lawsuits &nbsp;&nbsp; Yahoo"
+        "headline": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say - WRAL",
+        "source": "WRAL",
+        "timestamp": "2026-04-13T19:12:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFBkMEFmWlhTcDdsYlY2MmtHTzNRS1NIaEZBRHlfZlFRTGQxYVZvNG5qNUw1T3U3M0RBeVZxVFUyMGVSd0I1R01kaWFGWU9QUkVkeTc3eW1xTjlzbHVfV1p0NWZlQ1ZnRkxoLURCMEc1MXRkYUlmTmhPWEVCQzg2QlY4aVdXWDFtTFc1QlR5RW1QVnNrUUdqRmJHQTVyOHJGbUVKU291ZmlLak1LX2lmNWt0MUxhY20za1dGNFUyU3JFUFU?oc=5",
+        "summary": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say &nbsp;&nbsp; WRAL"
       },
       {
-        "headline": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-04-13T16:21:08.000Z",
+        "headline": "Man accused in attack at Open AI CEO's home was opposed to AI and had list of other tech executives, court documents say - 10TV",
+        "source": "10TV",
+        "timestamp": "2026-04-13T19:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2RHRGxBNUFhaVVIeGdOWFN2bzhELUFENlh0ZU56NGRURUtzZjRFalRqbjhfd2h1d3dnQk1JLVJ0cU51eXgwTXUxNU9oZkZrRXZTX3N6V293NWd4MUl0VVlNQUpHbXc0aDQzLXJaZjRxSzZZQlpnZGljeG14VmVzTkZtdTFUWjNhamo5aE9IZk1SZmVmQUpHY0w2ZnB1UTJQ?oc=5",
-        "summary": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic &nbsp;&nbsp; The Verge"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNWUdxRDYzTkdoX1VpVUx1V1ZDakYwS1JTbThUeXlqeUU0cEpxOWk0TFRlLU9oTG9vSW00Ml9JOVlEbUtON0lUUUlmRXcwN0M4X096MFlCcXEyaHk2R1dkNV93WjFRcUtRb0ZiM040OE84dDY4RG9FZHVLenNJVEhLM3RXbkpFdklkZVFxUGJjZjJmNm9tdWdtQm1wX0l2NklHclRoZWNhY1NlX0RFOEc1YURxUTBRWmZpNXhGdGFHTUZ1OVc4d0VwVFlPT3VCYk5ZVld3MFIzQkRUQUkySmIxYWxsdDhiaG9UVU55U0RfWUxkQjRzeWlyRFc0T1pPYzRSY2hlTUJzb2N2aDk2NHhyY0R0Ym1sUGJmYXdtTzlZMWpDRGY5emRhUnNjRXphbjNCaE9WNEdaOWZUOU82?oc=5",
+        "summary": "Man accused in attack at Open AI CEO's home was opposed to AI and had list of other tech executives, court documents say &nbsp;&nbsp; 10TV"
+      },
+      {
+        "headline": "AI is rewriting the rules of biological experiments, but safety regulations aren’t keeping up - Fast Company",
+        "source": "Fast Company",
+        "timestamp": "2026-04-13T18:14:11.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVEM5b3kxelR1cy1HUEVSSXFtdnpuOW00b0R0emYzVE5IdG10NVgyMnlMSmwyRWpid2lWbEhBTGlnT01fVy1fcnBHaTZYTTBYTndJVjFGRnZCRkY4TkIwQ1g3eERVNU8ta0FrRkJ2Sk8xNzFvT1hmTGZvWWZMdVoySExPX1N4cGpCVEFkRjlSSUttOHpLY2dSUVBFX1ItUDQ2M2paMUwycmFFeHlVU2U0eW9RUVgxQ2s4WFZ0OFUzMzAxbVMwMElkYnhEYllXTmdqMjhVNG9jdHZIRENIQk9HWkVLQ0lfZWVkenVLcFpWMjBabHhvTVlRSmxTOExqQmhsX2FB?oc=5",
+        "summary": "AI is rewriting the rules of biological experiments, but safety regulations aren’t keeping up &nbsp;&nbsp; Fast Company"
       },
       {
         "headline": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss - The Guardian",
@@ -149,24 +167,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHMteHJhZEFvUG9Fc25mdlZzY2Vsbld2TW5UNkJmbXN1a3kydGdENFVzR05FY2xxVjNiZWhUemZjdXVmb2hfbV9xWEtFa0hwZWtlUlNKQU5hcDdMTzNyNG9LdmZpRmR2M2F0YlI5d19wRW9iczVIa0Zfb1JueFpQby1KOUJwc2RVZXpmckVRdTFaa1I3aldDT1R2WVBxdw?oc=5",
         "summary": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "7 ways AI is advancing healthcare and wellbeing around the world - Microsoft Source",
-        "source": "Microsoft Source",
-        "timestamp": "2026-04-13T14:09:26.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWZZOVl2TGw2QVdNSFNPdUVUdlY4MkFXQjdfRmFKS3hmN1JicmpZbW1fUTVFUHdJcV9pbkFDUW0zd3VnWUNhc05rbUY2RHRJTzhjeVNKRWJnUmh2bmZXSDB1amF5ZUNDWEczUUJKQ0NNR3FRNXlfZWJ5WlN3dDRtMVplWFZwQzBCbE5tV0tnVmVYcHVYRXQwbVpkaW9faHVJclFUYng5ekpnWTdMVjVWMW1zdTJDQU93ME5J?oc=5",
-        "summary": "7 ways AI is advancing healthcare and wellbeing around the world &nbsp;&nbsp; Microsoft Source"
-      },
-      {
-        "headline": "No company in American history has ever grown like Anthropic - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-13T14:04:49.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRlVOX3VoM3ZmQXlybGxoaEJhNEVENDlSaHBDZTNkWXhMek1iWE9PZVlXTS15U29pYnBqdzRCZ193QTVURFpUd2pZNXJCbHVMQzZldGZMcXRhQncydHJESnNPT3J5UmJuenEwSw?oc=5",
-        "summary": "No company in American history has ever grown like Anthropic &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
