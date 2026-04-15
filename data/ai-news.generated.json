@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-15T19:25:13.193Z",
+    "generatedAt": "2026-04-15T20:57:13.229Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Claude was down — here's everything we know - techradar.com",
-      "source": "techradar.com",
-      "timestamp": "2026-04-15T17:42:14.000Z",
+      "headline": "God and man at Anthropic - Politico",
+      "source": "Politico",
+      "timestamp": "2026-04-15T20:37:29.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Claude was down — here's everything we know &nbsp;&nbsp; techradar.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlcwZTd4aTJqZmVTR3ZBa1BUcE5Ycm1mYmxMc1pDcm83Q3dzYnJNa2RpRkZBdEtoMzV0UXNPRUl6MjhReXM1VnNfN3c2QXpjNXdJNktjUHlKMGg0M1ltS0RkQjk1elBLT1RMVFEzWkdYNnRKOXBoWkJFSF9KbVhNS05DdEo?oc=5"
+      "category": "ecosystem",
+      "summary": "God and man at Anthropic &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2duaXhDYW83dEs5Q3N4TlMxOTNrX0lrNkxaWG5IdmhBQkYxdzBqNkM3N2w0RlFLbTlKdjJMT2xYUUxPOFlOR1RmRGpXN1FTZmlacDFKbHRZNElraDNodHA2c0lqQmFETjFpcWwwN3ZLYzNncFFxdlphZS0teDJRMFpfUEh0SFdkeXR3OTVnWlRpUmNj?oc=5"
+    },
+    {
+      "headline": "The Sam Altman attack is putting two anti-AI groups under scrutiny—but the story is more complicated - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-15T20:12:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Sam Altman attack is putting two anti-AI groups under scrutiny—but the story is more complicated &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamNNTnIzTjdsei1CSzRoZFJmS2pLREV3Y3pnYWp1LXpsZDhDWXNMV2lpdU03SnZfNkJEQ2U3RDlfMUt0VTBneFRMTWxJS19pbEZ4SXNsZlhqMUlIRGJRRHZyeFJ0VWJCWnNCRENXU0ppQUVuUU4xWTlFaXlRT2MzN3Z2dDF4bG52VlVKdC1Qa194bWxqNmdRVWdJZE9faFRFb1ZyMzl1a19Gdm1OREZ3NDF6RmF0dTRZZHRQNU5IZmx2QQ?oc=5"
+    },
+    {
+      "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-04-15T17:47:23.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
     },
     {
       "headline": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next - Built In",
@@ -32,16 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SzJuZkQ3WGU1WllTZHNvMTl0aG1DdzNpV05YTEI0dWl5MnlPWGN2cW5Ma1M0S1hqQjhRUEJuZTlaZnpUNEJiSlJScUlWMm5XTlVPNnRPQ2hvUU9LS0lKUEktcw?oc=5"
     },
     {
-      "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-04-15T16:05:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
-    },
-    {
       "headline": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-04-15T15:19:41.000Z",
@@ -50,16 +60,6 @@
       "summary": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmRSbTBoeFo5aC1jMjQ4SUVhVjFhYXZKZHEzYk90czNjRi1IRElQQlVVQU4wMWw0LTdIYjBTWkFRMWRuLUtEenVqdXo0dWh4RjJnYjZhT1R0dFRHWUJNTTh5UlY3bUNDUzFXRHhEanlPdWtvaU5ubWZsNEFMRTNuUXVCbmh6bXdjcjByUUlVM19JRW81Q3o5M04telFPdm1XMlE?oc=5"
-    },
-    {
-      "headline": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-15T13:42:24.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "OpenAI expands access to cyber AI as hacking risks grow &nbsp;&nbsp; Axios OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams &nbsp;&nbsp; The Hacker News Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5"
     },
     {
       "headline": "Photon Education brings innovative tech to 200,000 students with Microsoft Azure AI - Microsoft",
@@ -72,26 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenNMaHlHZjJ4aW1LOThUNzVHUXVPdVMzaktTaXo2N2ZmdERFa2NxbV82M1ZlREpvS0RORjVLbEcwOXV2ZW0weGJzd2hyVzNEaGdTSnExX2xFb0pCYWIxOUNSNHhEWXhIQm52UGlmT3piMVZsdHV6akZqMzJrXzhZOWFBQWt5VHV6bUtmVlhKR0cwVUE3S0hsNXFoUXY?oc=5"
     },
     {
-      "headline": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-15T12:29:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG84QmtDeFRYQkVOaDF3SGUzLWw1czBhb3JLa2VZQ1d3TjdfNnc2cFhUeFVLWGVjdFVxWGZXaDMtNkRXaW9pd09uTzNSR2VvUDctLUFCU09CenJKdmgzMmFKSHR2amZHcVMwOXFwQ0NhclhTcTBNZExIcGYycTV4U24wNNIBiAFBVV95cUxNazJMakhxUGM1NWxSbWswMVJoUmV6SnVCSTVxUW14QnJTam85MlRjLW1CX1VJQ3pkcjhPamxGRHFWMUVnOVluNXJyYjVULTN3Ti1rS0VnZUhLR3R2a2FLMWd5Q3FQeXpiUU9uZXl1SThvZFFxZkpPWHgxMGJyUWRDOFROYnBjY05x?oc=5"
-    },
-    {
-      "headline": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-14T23:59:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies &nbsp;&nbsp; The New York Times Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks &nbsp;&nbsp; CNBC Anthropic co-founder confirms the company briefed the Trump administration on Mythos &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZubVVSNlNLekg1ZEVvcDlweXlKc05abXFIaS1rU1FkZy1aelczZG4yZnlnN1pjQzc1YkJEdGtMNWdkMWIyZFowUExNMU8xT2x5VGRtQ3I3SmM2NEM4MWtWMDVzdl9EbFBGVEV5VGstcE1UT204ek5XNnBUek5meFprTVJtSWxnUzMw?oc=5"
-    },
-    {
       "headline": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board - CNBC",
       "source": "CNBC",
       "timestamp": "2026-04-14T21:22:35.000Z",
@@ -102,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JRUzgyMGZsQ08tLVgyTzNfZE1PZUdJaDBIVFZJUmlfM1daVEVFSEhvOTNXV1Y1UTRKQ1hPRk90UWExbjl1MGpjU0NSTVc4aGhXZWV3X242NGFoLUJ3TjJVZXZ2UHY4QjdVOGlqWXd4a1l0SWI3Z2ZnTHdCVmE4cy14alMwOGhUX09YUEtWeGJaYmhXcGxzejd3VHRlaUtHSDdRa04yc09pUklmZk82RG5XdGw0ZGhweDFMZjl5ZVhsOVdPNGRkRdIBzgFBVV95cUxNOVpIdHVQTnJMT3dqYldjdzJoWVN5TExQMjM1dzJQYXpyWEY4bUY4bG1Famw4M3lxanUxMjBpZmdiQVNXSEgtVEc0RWtNTzBXeUxOaXl2ZlQ0dGJ4bk9xLUpEUmNWRE44UFBDcXZrU01KcFl6XzdjRkRVMnc0elhNQ2wycmlHZkFBN01UanRvaGtxbTVfdmVmOGVFYjlwZDBXRlZwVGJoQ19ROE8wMy1Ya0ZNYUxxV0otMVh6M3ktc25IVVBfVXJWMDg3djVwdw?oc=5"
     },
     {
+      "headline": "Anthropic cofounder who majored in literature says knowing which questions to ask beats coding - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-14T20:56:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic cofounder who majored in literature says knowing which questions to ask beats coding &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVW4ySGN4NjQtNElYQ0lLZGc2Y2hWbE4zNWhGcHR5Y2hvZUY4X0RJNnM5eFhBeTVBQ3lKc2dJRFlRZEFQdWc3eExFcFZOclFYLU83dmdOcHVzQV9aMmZUY29hdVI0eWFMNTZoenhCQTh5cUtQUVhRdmJZSVFzcElBZHZjSXFnUkh0bkVuZDgtUkZDRWZuRnhScVlWYzJTR1EyTTRVRWRMSXc4WUtYU1k4cS1Mb3JfNGc2RlRGSkl0Zw?oc=5"
+    },
+    {
       "headline": "Exclusive: Meta AI Infrastructure Executive Departs - The Information",
       "source": "The Information",
       "timestamp": "2026-04-14T20:49:53.000Z",
@@ -110,18 +100,46 @@
       "summary": "Exclusive: Meta AI Infrastructure Executive Departs &nbsp;&nbsp; The Information",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVR0Um9nQTRVZHQ0ZEFTSlphQ25uOWtpRzBKN0FNV2NrZ2FzUmY2M3NKSXRwTTdacDRXclZ0WEVzNlYwQnRaSmhBUjBKVVVlSG5RQmQ4a3BVS0Z1ZDMtQTlsaVpLMGdHS3hVbmhVT1FBTjZVYS1pOFVJZWFRX3BBaU5ac2JDaVlpSWxSWUdSRlhZZmRkR1E?oc=5"
+    },
+    {
+      "headline": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-14T20:43:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI expands access to cyber AI as hacking risks grow &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Claude was down — here's everything we know - techradar.com",
-        "source": "techradar.com",
-        "timestamp": "2026-04-15T17:42:14.000Z",
+        "headline": "God and man at Anthropic - Politico",
+        "source": "Politico",
+        "timestamp": "2026-04-15T20:37:29.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlcwZTd4aTJqZmVTR3ZBa1BUcE5Ycm1mYmxMc1pDcm83Q3dzYnJNa2RpRkZBdEtoMzV0UXNPRUl6MjhReXM1VnNfN3c2QXpjNXdJNktjUHlKMGg0M1ltS0RkQjk1elBLT1RMVFEzWkdYNnRKOXBoWkJFSF9KbVhNS05DdEo?oc=5",
-        "summary": "Claude was down — here's everything we know &nbsp;&nbsp; techradar.com"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2duaXhDYW83dEs5Q3N4TlMxOTNrX0lrNkxaWG5IdmhBQkYxdzBqNkM3N2w0RlFLbTlKdjJMT2xYUUxPOFlOR1RmRGpXN1FTZmlacDFKbHRZNElraDNodHA2c0lqQmFETjFpcWwwN3ZLYzNncFFxdlphZS0teDJRMFpfUEh0SFdkeXR3OTVnWlRpUmNj?oc=5",
+        "summary": "God and man at Anthropic &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "The Sam Altman attack is putting two anti-AI groups under scrutiny—but the story is more complicated - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-15T20:12:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamNNTnIzTjdsei1CSzRoZFJmS2pLREV3Y3pnYWp1LXpsZDhDWXNMV2lpdU03SnZfNkJEQ2U3RDlfMUt0VTBneFRMTWxJS19pbEZ4SXNsZlhqMUlIRGJRRHZyeFJ0VWJCWnNCRENXU0ppQUVuUU4xWTlFaXlRT2MzN3Z2dDF4bG52VlVKdC1Qa194bWxqNmdRVWdJZE9faFRFb1ZyMzl1a19Gdm1OREZ3NDF6RmF0dTRZZHRQNU5IZmx2QQ?oc=5",
+        "summary": "The Sam Altman attack is putting two anti-AI groups under scrutiny—but the story is more complicated &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-04-15T17:47:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
+        "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic"
       },
       {
         "headline": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next - Built In",
@@ -133,15 +151,6 @@
         "summary": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next &nbsp;&nbsp; Built In"
       },
       {
-        "headline": "Project Glasswing: Securing critical software for the AI era - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-04-15T16:05:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
-        "summary": "Project Glasswing: Securing critical software for the AI era &nbsp;&nbsp; Anthropic"
-      },
-      {
         "headline": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-04-15T15:19:41.000Z",
@@ -149,15 +158,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmRSbTBoeFo5aC1jMjQ4SUVhVjFhYXZKZHEzYk90czNjRi1IRElQQlVVQU4wMWw0LTdIYjBTWkFRMWRuLUtEenVqdXo0dWh4RjJnYjZhT1R0dFRHWUJNTTh5UlY3bUNDUzFXRHhEanlPdWtvaU5ubWZsNEFMRTNuUXVCbmh6bXdjcjByUUlVM19JRW81Q3o5M04telFPdm1XMlE?oc=5",
         "summary": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-15T13:42:24.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5",
-        "summary": "OpenAI expands access to cyber AI as hacking risks grow &nbsp;&nbsp; Axios OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams &nbsp;&nbsp; The Hacker News Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Photon Education brings innovative tech to 200,000 students with Microsoft Azure AI - Microsoft",
@@ -172,15 +172,15 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
