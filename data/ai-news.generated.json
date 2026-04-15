@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-15T22:53:50.622Z",
+    "generatedAt": "2026-04-15T23:49:29.594Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI pulls out of a second Stargate data center deal - Network World",
+      "source": "Network World",
+      "timestamp": "2026-04-15T23:01:57.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI pulls out of a second Stargate data center deal &nbsp;&nbsp; Network World",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQm5XVTVrVkhEYmx1V0laWF9NSG1XZDlDN1hfNjRXdkpuVzN0bUQ1MFEzTG1uV1FnTmx6LWxkNTd3S3ZLNEtfQjJsQ19tVWpEdHJLM0dTVElmMUFjbDMxU09pdWNRMmpWZURrQW5hSmxMRUQtQUhuUFAzNjJrcF9zdW16aHlibTl5T3JfMEdobklVQk1nNEc2MjAyVFpIRUJwX3JtMTlmWQ?oc=5"
+    },
+    {
       "headline": "Exclusive: OpenAI lobbies for expanded AI role in life sciences - Axios",
       "source": "Axios",
       "timestamp": "2026-04-15T21:00:42.000Z",
@@ -22,36 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44TlJtR0lXWjhvYVoxeEtXVkNEeUxTMWNpUGdBQWUzYjNFTnlfNHZsQzJnX0YzLVVsVlA3RkN1V1hIVnNwRXBOMUQ0NzR6NTl6YVFYSkhxX0F5c0JuQUxGSzRpRUNyZndKQlJESlRJU2VnNzg?oc=5"
     },
     {
-      "headline": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next - Built In",
-      "source": "Built In",
-      "timestamp": "2026-04-15T17:17:08.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next &nbsp;&nbsp; Built In",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SzJuZkQ3WGU1WllTZHNvMTl0aG1DdzNpV05YTEI0dWl5MnlPWGN2cW5Ma1M0S1hqQjhRUEJuZTlaZnpUNEJiSlJScUlWMm5XTlVPNnRPQ2hvUU9LS0lKUEktcw?oc=5"
-    },
-    {
-      "headline": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-15T16:43:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI expands access to cyber AI as hacking risks grow &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5"
-    },
-    {
-      "headline": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-15T15:19:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmRSbTBoeFo5aC1jMjQ4SUVhVjFhYXZKZHEzYk90czNjRi1IRElQQlVVQU4wMWw0LTdIYjBTWkFRMWRuLUtEenVqdXo0dWh4RjJnYjZhT1R0dFRHWUJNTTh5UlY3bUNDUzFXRHhEanlPdWtvaU5ubWZsNEFMRTNuUXVCbmh6bXdjcjByUUlVM19JRW81Q3o5M04telFPdm1XMlE?oc=5"
-    },
-    {
       "headline": "Photon Education brings innovative tech to 200,000 students with Microsoft Azure AI - Microsoft",
       "source": "Microsoft",
       "timestamp": "2026-04-15T12:35:54.000Z",
@@ -60,6 +40,16 @@
       "summary": "Photon Education brings innovative tech to 200,000 students with Microsoft Azure AI &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenNMaHlHZjJ4aW1LOThUNzVHUXVPdVMzaktTaXo2N2ZmdERFa2NxbV82M1ZlREpvS0RORjVLbEcwOXV2ZW0weGJzd2hyVzNEaGdTSnExX2xFb0pCYWIxOUNSNHhEWXhIQm52UGlmT3piMVZsdHV6akZqMzJrXzhZOWFBQWt5VHV6bUtmVlhKR0cwVUE3S0hsNXFoUXY?oc=5"
+    },
+    {
+      "headline": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-15T12:29:04.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG84QmtDeFRYQkVOaDF3SGUzLWw1czBhb3JLa2VZQ1d3TjdfNnc2cFhUeFVLWGVjdFVxWGZXaDMtNkRXaW9pd09uTzNSR2VvUDctLUFCU09CenJKdmgzMmFKSHR2amZHcVMwOXFwQ0NhclhTcTBNZExIcGYycTV4U24wNNIBiAFBVV95cUxNazJMakhxUGM1NWxSbWswMVJoUmV6SnVCSTVxUW14QnJTam85MlRjLW1CX1VJQ3pkcjhPamxGRHFWMUVnOVluNXJyYjVULTN3Ti1rS0VnZUhLR3R2a2FLMWd5Q3FQeXpiUU9uZXl1SThvZFFxZkpPWHgxMGJyUWRDOFROYnBjY05x?oc=5"
     },
     {
       "headline": "Anthropic Changes Pricing to Bill Firms Based on AI Use Amid Compute Crunch - The Information",
@@ -75,9 +65,9 @@
       "headline": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board - CNBC",
       "source": "CNBC",
       "timestamp": "2026-04-14T21:22:35.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board &nbsp;&nbsp; CNBC Meta Partners With Broadcom to Co-Develop Custom AI Silicon &nbsp;&nbsp; meta.com Broadcom Stock Rises On Meta AI Chip Partnership &nbsp;&nbsp; Investor's Business Daily",
+      "summary": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board &nbsp;&nbsp; CNBC Meta Partners With Broadcom to Co-Develop Custom AI Silicon &nbsp;&nbsp; meta.com Broadcom Extends AI Deal With Meta, CEO Hock Tan to Leave Meta Board &nbsp;&nbsp; Barron's",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JRUzgyMGZsQ08tLVgyTzNfZE1PZUdJaDBIVFZJUmlfM1daVEVFSEhvOTNXV1Y1UTRKQ1hPRk90UWExbjl1MGpjU0NSTVc4aGhXZWV3X242NGFoLUJ3TjJVZXZ2UHY4QjdVOGlqWXd4a1l0SWI3Z2ZnTHdCVmE4cy14alMwOGhUX09YUEtWeGJaYmhXcGxzejd3VHRlaUtHSDdRa04yc09pUklmZk82RG5XdGw0ZGhweDFMZjl5ZVhsOVdPNGRkRdIBzgFBVV95cUxNOVpIdHVQTnJMT3dqYldjdzJoWVN5TExQMjM1dzJQYXpyWEY4bUY4bG1Famw4M3lxanUxMjBpZmdiQVNXSEgtVEc0RWtNTzBXeUxOaXl2ZlQ0dGJ4bk9xLUpEUmNWRE44UFBDcXZrU01KcFl6XzdjRkRVMnc0elhNQ2wycmlHZkFBN01UanRvaGtxbTVfdmVmOGVFYjlwZDBXRlZwVGJoQ19ROE8wMy1Ya0ZNYUxxV0otMVh6M3ktc25IVVBfVXJWMDg3djVwdw?oc=5"
     },
@@ -102,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVR0Um9nQTRVZHQ0ZEFTSlphQ25uOWtpRzBKN0FNV2NrZ2FzUmY2M3NKSXRwTTdacDRXclZ0WEVzNlYwQnRaSmhBUjBKVVVlSG5RQmQ4a3BVS0Z1ZDMtQTlsaVpLMGdHS3hVbmhVT1FBTjZVYS1pOFVJZWFRX3BBaU5ac2JDaVlpSWxSWUdSRlhZZmRkR1E?oc=5"
     },
     {
+      "headline": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-14T20:03:40.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI expands access to cyber AI as hacking risks grow &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5"
+    },
+    {
       "headline": "​Boston Dynamics and Google DeepMind Teach Spot to Reason​ - IEEE Spectrum",
       "source": "IEEE Spectrum",
       "timestamp": "2026-04-14T19:50:01.000Z",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "OpenAI pulls out of a second Stargate data center deal - Network World",
+        "source": "Network World",
+        "timestamp": "2026-04-15T23:01:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQm5XVTVrVkhEYmx1V0laWF9NSG1XZDlDN1hfNjRXdkpuVzN0bUQ1MFEzTG1uV1FnTmx6LWxkNTd3S3ZLNEtfQjJsQ19tVWpEdHJLM0dTVElmMUFjbDMxU09pdWNRMmpWZURrQW5hSmxMRUQtQUhuUFAzNjJrcF9zdW16aHlibTl5T3JfMEdobklVQk1nNEc2MjAyVFpIRUJwX3JtMTlmWQ?oc=5",
+        "summary": "OpenAI pulls out of a second Stargate data center deal &nbsp;&nbsp; Network World"
+      },
+      {
         "headline": "Exclusive: OpenAI lobbies for expanded AI role in life sciences - Axios",
         "source": "Axios",
         "timestamp": "2026-04-15T21:00:42.000Z",
@@ -122,33 +131,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44TlJtR0lXWjhvYVoxeEtXVkNEeUxTMWNpUGdBQWUzYjNFTnlfNHZsQzJnX0YzLVVsVlA3RkN1V1hIVnNwRXBOMUQ0NzR6NTl6YVFYSkhxX0F5c0JuQUxGSzRpRUNyZndKQlJESlRJU2VnNzg?oc=5",
         "summary": "Exclusive: OpenAI lobbies for expanded AI role in life sciences &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next - Built In",
-        "source": "Built In",
-        "timestamp": "2026-04-15T17:17:08.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SzJuZkQ3WGU1WllTZHNvMTl0aG1DdzNpV05YTEI0dWl5MnlPWGN2cW5Ma1M0S1hqQjhRUEJuZTlaZnpUNEJiSlJScUlWMm5XTlVPNnRPQ2hvUU9LS0lKUEktcw?oc=5",
-        "summary": "Meta’s Muse Spark AI Model: Features, Risks, What’s Next &nbsp;&nbsp; Built In"
-      },
-      {
-        "headline": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-15T16:43:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5",
-        "summary": "OpenAI expands access to cyber AI as hacking risks grow &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-15T15:19:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmRSbTBoeFo5aC1jMjQ4SUVhVjFhYXZKZHEzYk90czNjRi1IRElQQlVVQU4wMWw0LTdIYjBTWkFRMWRuLUtEenVqdXo0dWh4RjJnYjZhT1R0dFRHWUJNTTh5UlY3bUNDUzFXRHhEanlPdWtvaU5ubWZsNEFMRTNuUXVCbmh6bXdjcjByUUlVM19JRW81Q3o5M04telFPdm1XMlE?oc=5",
-        "summary": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate? &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Photon Education brings innovative tech to 200,000 students with Microsoft Azure AI - Microsoft",
@@ -160,6 +142,15 @@
         "summary": "Photon Education brings innovative tech to 200,000 students with Microsoft Azure AI &nbsp;&nbsp; Microsoft"
       },
       {
+        "headline": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-15T12:29:04.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORG84QmtDeFRYQkVOaDF3SGUzLWw1czBhb3JLa2VZQ1d3TjdfNnc2cFhUeFVLWGVjdFVxWGZXaDMtNkRXaW9pd09uTzNSR2VvUDctLUFCU09CenJKdmgzMmFKSHR2amZHcVMwOXFwQ0NhclhTcTBNZExIcGYycTV4U24wNNIBiAFBVV95cUxNazJMakhxUGM1NWxSbWswMVJoUmV6SnVCSTVxUW14QnJTam85MlRjLW1CX1VJQ3pkcjhPamxGRHFWMUVnOVluNXJyYjVULTN3Ti1rS0VnZUhLR3R2a2FLMWd5Q3FQeXpiUU9uZXl1SThvZFFxZkpPWHgxMGJyUWRDOFROYnBjY05x?oc=5",
+        "summary": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over &nbsp;&nbsp; CNBC"
+      },
+      {
         "headline": "Anthropic Changes Pricing to Bill Firms Based on AI Use Amid Compute Crunch - The Information",
         "source": "The Information",
         "timestamp": "2026-04-14T22:10:00.000Z",
@@ -167,14 +158,23 @@
         "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU9QV3FxUm1kVTV5ZmwyUXJNdXdOVzB5MlRkMmpBc1BnRzJLZmlKWUtKTFlRLW5BeHhWTktWVnJFZGdYNnk0dVVGcDYxdVFvMFYtWUVvdFY0QjRtdWFscmFBTUpfQlZSOWYxbExDcVJxZjI4ZC1lVUFYbmU2c1ZnRTItQmFqbDFyUG1uMVhiS3VoYW0waktXTFRXeHItcDAxeXlVNE50YWlCZmd1WWc?oc=5",
         "summary": "Anthropic Changes Pricing to Bill Firms Based on AI Use Amid Compute Crunch &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-14T21:22:35.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JRUzgyMGZsQ08tLVgyTzNfZE1PZUdJaDBIVFZJUmlfM1daVEVFSEhvOTNXV1Y1UTRKQ1hPRk90UWExbjl1MGpjU0NSTVc4aGhXZWV3X242NGFoLUJ3TjJVZXZ2UHY4QjdVOGlqWXd4a1l0SWI3Z2ZnTHdCVmE4cy14alMwOGhUX09YUEtWeGJaYmhXcGxzejd3VHRlaUtHSDdRa04yc09pUklmZk82RG5XdGw0ZGhweDFMZjl5ZVhsOVdPNGRkRdIBzgFBVV95cUxNOVpIdHVQTnJMT3dqYldjdzJoWVN5TExQMjM1dzJQYXpyWEY4bUY4bG1Famw4M3lxanUxMjBpZmdiQVNXSEgtVEc0RWtNTzBXeUxOaXl2ZlQ0dGJ4bk9xLUpEUmNWRE44UFBDcXZrU01KcFl6XzdjRkRVMnc0elhNQ2wycmlHZkFBN01UanRvaGtxbTVfdmVmOGVFYjlwZDBXRlZwVGJoQ19ROE8wMy1Ya0ZNYUxxV0otMVh6M3ktc25IVVBfVXJWMDg3djVwdw?oc=5",
+        "summary": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board &nbsp;&nbsp; CNBC Meta Partners With Broadcom to Co-Develop Custom AI Silicon &nbsp;&nbsp; meta.com Broadcom Extends AI Deal With Meta, CEO Hock Tan to Leave Meta Board &nbsp;&nbsp; Barron's"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
