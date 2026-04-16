@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-16T16:45:11.087Z",
+    "generatedAt": "2026-04-16T18:10:10.014Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic releases Claude Opus 4.7, concedes it trails unreleased Mythos - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-16T16:21:54.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic releases Claude Opus 4.7, concedes it trails unreleased Mythos &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcDE3V3hNOElUVC1QY2k2N0E2N3VJVTVtRzRlSUZCalRQT1FOTjZJX2FWT1dKV3YwMjFkS25ueTlvNXhyVXFWWVNjVzBUQW9oMHJzZENkNkNBRUxESDZ2YndJdUMwM2N4S2F4Y0dkMkVtalVjSWc?oc=5"
-    },
-    {
-      "headline": "OpenAI focuses on business users amid competition with rival Anthropic - PBS",
-      "source": "PBS",
-      "timestamp": "2026-04-16T16:17:53.000Z",
+      "headline": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-04-16T17:54:11.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI focuses on business users amid competition with rival Anthropic &nbsp;&nbsp; PBS",
+      "summary": "White House Moves to Give US Agencies Anthropic Mythos Access &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalRaZVl2N3diVVd4QzBYZzNMWkoyeHpiWDFuM0gtS3JpNnM5c3ZhdXZOZzNhbHpkNDNVWXdVUW94ZVp5aThLQ2s2a2g4WVAybm40OHdvT1IxTGQ1NkhOTGhRWnk2U3lTNTJ5T2x3VWZpbUtYZjlNcFp5S1czVEZDWUdoU09ZenZ0SGdYMFdOemxsSkxibTBwR2xFUTNCcFJ2UE9WNjVlSE9aSE4tLVRMOGN3?oc=5"
+    },
+    {
+      "headline": "Anthropic Releases Claude Opus 4.7 to Remind Everyone How Great Mythos Is - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-04-16T17:30:56.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Releases Claude Opus 4.7 to Remind Everyone How Great Mythos Is &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2RCQmpNY050SGxVNGtyN3B4aXo1Wk5XQjZNWkJFc0QwS1FpWTdDM2tOYTgwVWNLcGFpRDBqUFFfZFc3c2hFZW5RVjNNNXE3OU8wcjJuVXdvNnhRU0RsQ0VPcnpGcGdaTE5PVWltR1N2MVNvWGZuYzlfalprX0t1QU96d01QcWNFdUtINGpBd1ZPaHh0X2dVR3pGUEFjWTB3b3FOdHd1TQ?oc=5"
+    },
+    {
+      "headline": "OpenAI's latest Codex update builds the groundwork for its upcoming super app - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-04-16T17:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI's latest Codex update builds the groundwork for its upcoming super app &nbsp;&nbsp; Engadget",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeE9TeXNfelZBVlBCRXozU1Jna3RQT3FlZ0pFdlg0QkJiSmlfVjAwYmxyb2FmeU1MRTJ5SDRVM2NBYnlMWnRWc24wSUdCWEtXZG1nS04xNzZBd2NDalRzQnp4MVo3LUdjMkU1aEIyLXRKS1pPQkJzVmw1SWVnWWpXcWpkbS16Q085YTh4WjVYcXVzWE9uNzU5Z1ZaVXAzS0ZoWVlnMmZrZTI5UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamNiZEVlNC03eDJaQXlEZVh1R0JXQkRCRTlsXzk3bi1UdkJVOU45OVlIaG5ZWlgxVkZFNU5oOWtzMEYwdS13RlhNWTIzQjBUUmZrcXF6NUN4eVJaYldaMzBWRkZFazRablBEa1pyN2Z1MlZiWmtXbVBVWnVQSlVLMDhtVlhaek5uZ1FjLWtTZTBHX2gtSi03TUgyLXJyaGktV0VqU2dpUUpnTXg2dnhHX0phbVpobG5Vcktr?oc=5"
     },
     {
       "headline": "OpenAI's new AI jobs risk paper posits less doom and gloom - Axios",
@@ -100,37 +110,36 @@
       "summary": "Tensions over AI reach new high after violent attacks &nbsp;&nbsp; The Hill",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDBxbzV6MklEOHowdF9WMU5STG91WnhiYWxRME9CVk1UeUZNV3BFcEcxdW9vMEx3R0JBeDlDZzlsODlLNUh6cTdLQnFCN0Z4SVl2X1FaZ1czb2w1dVMyQTFPY3VMcmdyX0tVRzNVR09QbVJkYTM0Tzhrd21Ca0dYMExCNlF0SG8xWk800gGQAUFVX3lxTE1RT0tCZG9XbS1yQjVyN1RaemtXcmh2U1M3eUVRR0o1MWc3aUhOaVNWSVNRN204aWhjaHZzUmtJRjhQMUFpOFUzWHFMYk1DQ3gwb3FSS0VvZmdCZEVRQjh2NEx1dU81Rm8tckRGQVJsYzFYZVBtdDNORjVYME0wYlBrU2E0SlVkb0JCVUZNUGxCMA?oc=5"
-    },
-    {
-      "headline": "Anthropic's AI downgrade stings power users - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-16T09:19:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic's AI downgrade stings power users &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JbFRqWmlMcUM0aGRRalo2N2VTSDJKTHVEUkdQV1RieW5xRVhzM0tUMFAzU2NLWUVOaXhJTmFIT0tmT2lvNkhmU3V5bUlxZUJCeHB2VnYyaE55bjJ2T0x6M3lZZDEteVpodE91WnA2RUlBRlJxRnc1MHBKSQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic releases Claude Opus 4.7, concedes it trails unreleased Mythos - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-16T16:21:54.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcDE3V3hNOElUVC1QY2k2N0E2N3VJVTVtRzRlSUZCalRQT1FOTjZJX2FWT1dKV3YwMjFkS25ueTlvNXhyVXFWWVNjVzBUQW9oMHJzZENkNkNBRUxESDZ2YndJdUMwM2N4S2F4Y0dkMkVtalVjSWc?oc=5",
-        "summary": "Anthropic releases Claude Opus 4.7, concedes it trails unreleased Mythos &nbsp;&nbsp; Axios"
+        "headline": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-04-16T17:54:11.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalRaZVl2N3diVVd4QzBYZzNMWkoyeHpiWDFuM0gtS3JpNnM5c3ZhdXZOZzNhbHpkNDNVWXdVUW94ZVp5aThLQ2s2a2g4WVAybm40OHdvT1IxTGQ1NkhOTGhRWnk2U3lTNTJ5T2x3VWZpbUtYZjlNcFp5S1czVEZDWUdoU09ZenZ0SGdYMFdOemxsSkxibTBwR2xFUTNCcFJ2UE9WNjVlSE9aSE4tLVRMOGN3?oc=5",
+        "summary": "White House Moves to Give US Agencies Anthropic Mythos Access &nbsp;&nbsp; Bloomberg"
       },
       {
-        "headline": "OpenAI focuses on business users amid competition with rival Anthropic - PBS",
-        "source": "PBS",
-        "timestamp": "2026-04-16T16:17:53.000Z",
+        "headline": "Anthropic Releases Claude Opus 4.7 to Remind Everyone How Great Mythos Is - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-04-16T17:30:56.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2RCQmpNY050SGxVNGtyN3B4aXo1Wk5XQjZNWkJFc0QwS1FpWTdDM2tOYTgwVWNLcGFpRDBqUFFfZFc3c2hFZW5RVjNNNXE3OU8wcjJuVXdvNnhRU0RsQ0VPcnpGcGdaTE5PVWltR1N2MVNvWGZuYzlfalprX0t1QU96d01QcWNFdUtINGpBd1ZPaHh0X2dVR3pGUEFjWTB3b3FOdHd1TQ?oc=5",
+        "summary": "Anthropic Releases Claude Opus 4.7 to Remind Everyone How Great Mythos Is &nbsp;&nbsp; Gizmodo"
+      },
+      {
+        "headline": "OpenAI's latest Codex update builds the groundwork for its upcoming super app - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-04-16T17:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeE9TeXNfelZBVlBCRXozU1Jna3RQT3FlZ0pFdlg0QkJiSmlfVjAwYmxyb2FmeU1MRTJ5SDRVM2NBYnlMWnRWc24wSUdCWEtXZG1nS04xNzZBd2NDalRzQnp4MVo3LUdjMkU1aEIyLXRKS1pPQkJzVmw1SWVnWWpXcWpkbS16Q085YTh4WjVYcXVzWE9uNzU5Z1ZaVXAzS0ZoWVlnMmZrZTI5UQ?oc=5",
-        "summary": "OpenAI focuses on business users amid competition with rival Anthropic &nbsp;&nbsp; PBS"
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamNiZEVlNC03eDJaQXlEZVh1R0JXQkRCRTlsXzk3bi1UdkJVOU45OVlIaG5ZWlgxVkZFNU5oOWtzMEYwdS13RlhNWTIzQjBUUmZrcXF6NUN4eVJaYldaMzBWRkZFazRablBEa1pyN2Z1MlZiWmtXbVBVWnVQSlVLMDhtVlhaek5uZ1FjLWtTZTBHX2gtSi03TUgyLXJyaGktV0VqU2dpUUpnTXg2dnhHX0phbVpobG5Vcktr?oc=5",
+        "summary": "OpenAI's latest Codex update builds the groundwork for its upcoming super app &nbsp;&nbsp; Engadget"
       },
       {
         "headline": "OpenAI's new AI jobs risk paper posits less doom and gloom - Axios",
@@ -158,15 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSlJjeGlnNm1JOTMxQ0pZM19Vc3hFdk9CVlFsWWhneWJReE9SUEFkVDJyMW9UazhXbWxYMUQ1N2RTZzh3dGc3SWtQdHJKYTlOM2ZJUzZNVFdFeDFNNHZYWE03Z3d2dVpGckVpVllyeU9rYUc3NEhkVW9CcEtpVFJUd3U0ZzBvbXZodTBoUmNGSVMwWHN6cWc?oc=5",
         "summary": "Schneider Electric unveils next generation agentic manufacturing capabilities powered by Microsoft Azure AI at Hannover Messe 2026 &nbsp;&nbsp; Yahoo Finance Singapore"
-      },
-      {
-        "headline": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-16T14:35:52.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUklUZEtKVDFaRXJscjBwVzdwTnFnVmlNd1VMNHRmWHdnQnVGNFVYVWtfSUZnZ2JIN2ZMY0hSMFhmUUM2eXFncEZpdHBjdFRkMnlMUDZCcWM5Vld5M21KMWhELTdRZmYwVWNGbzZzRklNQndjUkdiZEZNRTBWYkxmY9IBhgFBVV95cUxQUU5aWDM2ZWh6LWxiLVZhWnNPMG9VRUJsMXl6NUJ2eFY4bEdIV1FoX1RscEhIVll2VGozTWw4eWEyeUczXzdxNlNXeTJpdUFmZzRvVlFSZ1k2blA2MTkwa0owdndJa1NTNXEwRUN3UlRqUG9sOFJyQUdlX2JERGRrbDRIN3ZJZw?oc=5",
-        "summary": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
