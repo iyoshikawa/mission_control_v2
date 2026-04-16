@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-16T20:01:22.977Z",
+    "generatedAt": "2026-04-16T21:50:03.427Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-16T19:18:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVJqa08wVGRRcUZuVy1DWVBfY3VSVnB3YzI1dHNtWnVMa09YVWdnTUlUd3hTR01kS3luakl5NlBoXzNRUEdORVR5RDdKai1GZC1XemRpU3YyTkY3NmRObS1QdXZaWE9xMDF2VGVybTJ4VE85LUZONVJOWUE3bkloa0IxN004Yk9PWUpxaXA3eHJFX3B1QzhMLUFOMVU4VzA3ZFRwWlpBZWtjNjAyV29fWGpxcV9WU1lhQk5VY0JxUjJTZkpJUEhV?oc=5"
-    },
-    {
       "headline": "OpenAI launches new AI model for life sciences research - Axios",
       "source": "Axios",
       "timestamp": "2026-04-16T19:02:27.000Z",
@@ -32,24 +22,54 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5"
     },
     {
+      "headline": "Introducing GPT-Rosalind for life sciences research - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-04-16T17:56:33.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "Introducing GPT-Rosalind for life sciences research &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5"
+    },
+    {
       "headline": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-04-16T15:56:43.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "How Anthropic Learned Mythos Was Too Dangerous for the Wild &nbsp;&nbsp; Bloomberg.com Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks &nbsp;&nbsp; CNBC White House May Give Anthropic Mythos Access To Government Agencies, Report Says &nbsp;&nbsp; Yahoo",
+      "summary": "How Anthropic Learned Mythos Was Too Dangerous for the Wild &nbsp;&nbsp; Bloomberg.com Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks &nbsp;&nbsp; CNBC White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model &nbsp;&nbsp; Gizmodo",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJWYUFCVktsRlNjSTVBbEF4NW1Ia282ZUlpWFFhcWRjeWY2UjN4RGlGMUV5MHpjZjZGbFYxaEFhcndLY3ZCaVYyX3Q1dnFnMWs0bDUydk1MWmluaXBjUXVUaFA1SGRfekl2RzJtcFJEZldoWmtkcGZpM1JfRHUxRWFkOGs3UGFYMi1zdlNsLVYzYUJjcDNMSTk2Y29veklfS1RWYktnNHVhc3hfQ21JRkxaejl4UQ?oc=5"
     },
     {
-      "headline": "Unlock Industrial Intelligence | Microsoft Hannover Messe 2026 - Microsoft",
+      "headline": "Industrial intelligence unlocked: Microsoft at Hannover Messe 2026 - Microsoft",
       "source": "Microsoft",
       "timestamp": "2026-04-16T15:16:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Unlock Industrial Intelligence | Microsoft Hannover Messe 2026 &nbsp;&nbsp; Microsoft",
+      "summary": "Industrial intelligence unlocked: Microsoft at Hannover Messe 2026 &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWi1xbnNnQ2VtOW5hQ3RLeUVTR1JKbW1PcF9oWjN4Q3daVlhrU2N6Vk0xVUxoV3NoVHRhX3ZhdXVmZnFVbnNTYlp4ZTlFU1RzeFJYSjdENk1VNTdRZXd0UWUzVkZiX3ZUTy1zTGtLbFNFVzhmRmpjSEtaVHliOG9NVEpiVWFWbl82VzhNZFVISVN0eG1WeEFZNmEzTHhCLUxLYlRRZ3JtWFNNNXF0LW13VGpTMl9oWGpWbUd1LXpkWVlROUNBVmJpVmlNOFdTTE9NMVN1a093bVlYSXN5?oc=5"
+    },
+    {
+      "headline": "Your AI steering committee’s 2026 checklist: Observability - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-04-16T15:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Your AI steering committee’s 2026 checklist: Observability &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXA3YmR0Tk5BcmxvbkxHNUhTOEhqSE5xLXR5dE9URkRRdjBWUU1FeXk4RFgzM3piNEh6WE5QZU5FU2Jwb1JTNW1zcVlKc2pKN295LTZyVDFGQnlCN2lUNkFLUXhoS0FCWUwzVFk5UXlIVWw4bDFWWUgtdnRmcjVrdXBwdjQyNDRjYzI4TzZBZ3RnT3dhV2xSMG5yMHd2YWQtb3FDVWlKR3drSWdCV1lrRVFNbUdBQktLRVZVWlVB?oc=5"
+    },
+    {
+      "headline": "Transforming the marketing function at Microsoft with AI - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-04-16T14:30:00.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Transforming the marketing function at Microsoft with AI &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFHVTlaM2lNMFJTVmMwT1RxUjExbFBhQjlNQW9sQ3dBWFN0d3lnY2NXZjJnSWRhVjBuYWFZOHJpLWJ5UEJ6X3VVbGZQMXV4Q1MwaEE1ejYwUmc3QXpYazJwdW1qN2tjandBc014T1c3SXJEOEQxRFZFTFY0cVVYQWVLX3lISnBqVDFjR3ZsYk00RkFJaklLbmhnVnMtMlhaYWc?oc=5"
     },
     {
       "headline": "Introducing Claude Opus 4.7 - Anthropic",
@@ -72,24 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOd1F5SUdiTnhwc0JFWGpUYnQ5Y2tDc1p0V3M3Tk5nYzJId2lNRm14ZEp1THlBdDJiVXlyVTl6Ym1abnBsQk1UQkhsNGZtTU5VS25yVEtEbUF4RDljTVEwUkhlZlFrbkx4VDFCajRpYVJzMUNjLXRMWXE0MlV3MVQxM3VpTDB6VkpvaHBNd1NfdUg2Vk9WY1Qzak56R3lUZ0F4dlpKeENhc05BbGlUQW1vUGxOY1MyNl9RUllvOWRZR1Q3WFpiN0RoLUN3UjYtR2d5WkM5Z05DMm15eVRCMFREbGIzd2VLMzU0X2ZKeEo4TVZWSW1ZT0lXc1JRQ2NnR1J3QUtNUjZtZ2pZaWpsYkRlOV94RVY1cU5kTEE?oc=5"
     },
     {
-      "headline": "Tensions over AI reach new high after violent attacks - The Hill",
-      "source": "The Hill",
-      "timestamp": "2026-04-16T10:00:00.000Z",
+      "headline": "Anthropic's AI downgrade stings power users - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-16T09:00:59.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Tensions over AI reach new high after violent attacks &nbsp;&nbsp; The Hill",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDBxbzV6MklEOHowdF9WMU5STG91WnhiYWxRME9CVk1UeUZNV3BFcEcxdW9vMEx3R0JBeDlDZzlsODlLNUh6cTdLQnFCN0Z4SVl2X1FaZ1czb2w1dVMyQTFPY3VMcmdyX0tVRzNVR09QbVJkYTM0Tzhrd21Ca0dYMExCNlF0SG8xWk800gGQAUFVX3lxTE1RT0tCZG9XbS1yQjVyN1RaemtXcmh2U1M3eUVRR0o1MWc3aUhOaVNWSVNRN204aWhjaHZzUmtJRjhQMUFpOFUzWHFMYk1DQ3gwb3FSS0VvZmdCZEVRQjh2NEx1dU81Rm8tckRGQVJsYzFYZVBtdDNORjVYME0wYlBrU2E0SlVkb0JCVUZNUGxCMA?oc=5"
-    },
-    {
-      "headline": "Using AI to protect biodiversity: How Urbasolar supports sustainable solar development - Source EMEA - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-04-16T09:12:42.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Using AI to protect biodiversity: How Urbasolar supports sustainable solar development - Source EMEA &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTjBRM2l3RjhBRDc0V21HTzRyVFYwT0xuRWQtMG1kUWxoV3JQeGo4eVVRNmwtZnBDcmQ5NVZJOWFVZTlfUkgxajRzSzNtQ0pQSHgxSWVFUk5nelRsc0F3UnQ5dERnT3J2RFhmV1YtdDU0dE8yVDdRZGhBOTdMMl8tMzR3SGEzNXVLOFZDbk5rRFcwbHJZMk9WQ1gwQkFjUDROXzhYQ0VxbEJ3Q3QzeldPX0tTb1JPbHVCbUw5N1NXTk9nclptd0RyOU03bUZCVGM?oc=5"
+      "summary": "Anthropic's AI downgrade stings power users &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JbFRqWmlMcUM0aGRRalo2N2VTSDJKTHVEUkdQV1RieW5xRVhzM0tUMFAzU2NLWUVOaXhJTmFIT0tmT2lvNkhmU3V5bUlxZUJCeHB2VnYyaE55bjJ2T0x6M3lZZDEteVpodE91WnA2RUlBRlJxRnc1MHBKSQ?oc=5"
     },
     {
       "headline": "Forget the chatbot wars. Google DeepMind CEO Demis Hassabis is thinking about something far bigger - Fortune",
@@ -100,29 +110,10 @@
       "summary": "Forget the chatbot wars. Google DeepMind CEO Demis Hassabis is thinking about something far bigger &nbsp;&nbsp; Fortune",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVNnZTlPTEFLaWJVLVZDX2VQeXlIX2ZhMHNhdlhRZGVNdllXNHozR0RsMFFWaG9sTGNhSU4tcS1la2JfMHlaNlROSGhaWEtOLVBDaDZnZXJHTjZfWHVSaHJfbmRJMng2Q1J2dk1sdmpsakhxcHl3U09kMDRKQ1pjOGpKMkVVNzRhMk5YVTJn?oc=5"
-    },
-    {
-      "headline": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-15T23:57:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0NhNjBCMDF6eVpOOW9FejZwaUhBR05YaFBCcWR6SXRZTnlocFpnQ0pLeVYyR3pQRFZQQmhMM1JIXy13TFdCMFlQM0tMY01Qa3RyVGZqcjV5UXFrNVR3cnR3eTVwd3dFR0FKRnpOYXdaWDNpVUtVR3hJa1VBcUc2YVdHenptRWlubVh0VU8xQUFTUdIBlwFBVV95cUxNQWYtUVN6ekNrdGtyalk0dnVlN2ZzaThjWkdsYm4yRGU3ZTk3V2hqTlNHb1BNNFB3ZHJJTGtOYVBDN0huSDhqekw1YkR1ZXNtNzVFd2h2RVJncl9LeGlpVTB2bUZYQW5uZ0tmdEVfaDRfa0o0SFl3WVRMMjlGSVVFTkoxYVVfMm1JZ1ZuamNVc3ZiMnd0anhV?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-04-16T19:18:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVJqa08wVGRRcUZuVy1DWVBfY3VSVnB3YzI1dHNtWnVMa09YVWdnTUlUd3hTR01kS3luakl5NlBoXzNRUEdORVR5RDdKai1GZC1XemRpU3YyTkY3NmRObS1QdXZaWE9xMDF2VGVybTJ4VE85LUZONVJOWUE3bkloa0IxN004Yk9PWUpxaXA3eHJFX3B1QzhMLUFOMVU4VzA3ZFRwWlpBZWtjNjAyV29fWGpxcV9WU1lhQk5VY0JxUjJTZkpJUEhV?oc=5",
-        "summary": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop &nbsp;&nbsp; TechCrunch"
-      },
       {
         "headline": "OpenAI launches new AI model for life sciences research - Axios",
         "source": "Axios",
@@ -133,47 +124,56 @@
         "summary": "OpenAI launches new AI model for life sciences research &nbsp;&nbsp; Axios"
       },
       {
+        "headline": "Introducing GPT-Rosalind for life sciences research - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-04-16T17:56:33.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5",
+        "summary": "Introducing GPT-Rosalind for life sciences research &nbsp;&nbsp; OpenAI"
+      },
+      {
         "headline": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
         "source": "Bloomberg.com",
         "timestamp": "2026-04-16T15:56:43.000Z",
-        "impact": "LOW",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJWYUFCVktsRlNjSTVBbEF4NW1Ia282ZUlpWFFhcWRjeWY2UjN4RGlGMUV5MHpjZjZGbFYxaEFhcndLY3ZCaVYyX3Q1dnFnMWs0bDUydk1MWmluaXBjUXVUaFA1SGRfekl2RzJtcFJEZldoWmtkcGZpM1JfRHUxRWFkOGs3UGFYMi1zdlNsLVYzYUJjcDNMSTk2Y29veklfS1RWYktnNHVhc3hfQ21JRkxaejl4UQ?oc=5",
-        "summary": "How Anthropic Learned Mythos Was Too Dangerous for the Wild &nbsp;&nbsp; Bloomberg.com Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks &nbsp;&nbsp; CNBC White House May Give Anthropic Mythos Access To Government Agencies, Report Says &nbsp;&nbsp; Yahoo"
+        "summary": "How Anthropic Learned Mythos Was Too Dangerous for the Wild &nbsp;&nbsp; Bloomberg.com Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks &nbsp;&nbsp; CNBC White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model &nbsp;&nbsp; Gizmodo"
       },
       {
-        "headline": "Unlock Industrial Intelligence | Microsoft Hannover Messe 2026 - Microsoft",
+        "headline": "Industrial intelligence unlocked: Microsoft at Hannover Messe 2026 - Microsoft",
         "source": "Microsoft",
         "timestamp": "2026-04-16T15:16:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWi1xbnNnQ2VtOW5hQ3RLeUVTR1JKbW1PcF9oWjN4Q3daVlhrU2N6Vk0xVUxoV3NoVHRhX3ZhdXVmZnFVbnNTYlp4ZTlFU1RzeFJYSjdENk1VNTdRZXd0UWUzVkZiX3ZUTy1zTGtLbFNFVzhmRmpjSEtaVHliOG9NVEpiVWFWbl82VzhNZFVISVN0eG1WeEFZNmEzTHhCLUxLYlRRZ3JtWFNNNXF0LW13VGpTMl9oWGpWbUd1LXpkWVlROUNBVmJpVmlNOFdTTE9NMVN1a093bVlYSXN5?oc=5",
-        "summary": "Unlock Industrial Intelligence | Microsoft Hannover Messe 2026 &nbsp;&nbsp; Microsoft"
+        "summary": "Industrial intelligence unlocked: Microsoft at Hannover Messe 2026 &nbsp;&nbsp; Microsoft"
       },
       {
-        "headline": "Introducing Claude Opus 4.7 - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-04-16T14:26:55.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rS2xYRnJxOV9fQjgxWkl0OHlJRFhxMktsVmtTdGV6dnhPTXQzSXcwRE5hQXhOUGdVMXNwVVBZb01wYTVlY0tCT3VKZTBVQzZtVXRGY25XME5rUQ?oc=5",
-        "summary": "Introducing Claude Opus 4.7 &nbsp;&nbsp; Anthropic Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos &nbsp;&nbsp; CNBC Tech stocks today: Anthropic releases its newest model, Claude Opus 4.7 &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Stellantis accelerates AI-led strategy and digital transformation through strategic collaboration with Microsoft to enhance customer experiences - Microsoft Source",
-        "source": "Microsoft Source",
-        "timestamp": "2026-04-16T12:20:12.000Z",
+        "headline": "Your AI steering committee’s 2026 checklist: Observability - Microsoft",
+        "source": "Microsoft",
+        "timestamp": "2026-04-16T15:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOd1F5SUdiTnhwc0JFWGpUYnQ5Y2tDc1p0V3M3Tk5nYzJId2lNRm14ZEp1THlBdDJiVXlyVTl6Ym1abnBsQk1UQkhsNGZtTU5VS25yVEtEbUF4RDljTVEwUkhlZlFrbkx4VDFCajRpYVJzMUNjLXRMWXE0MlV3MVQxM3VpTDB6VkpvaHBNd1NfdUg2Vk9WY1Qzak56R3lUZ0F4dlpKeENhc05BbGlUQW1vUGxOY1MyNl9RUllvOWRZR1Q3WFpiN0RoLUN3UjYtR2d5WkM5Z05DMm15eVRCMFREbGIzd2VLMzU0X2ZKeEo4TVZWSW1ZT0lXc1JRQ2NnR1J3QUtNUjZtZ2pZaWpsYkRlOV94RVY1cU5kTEE?oc=5",
-        "summary": "Stellantis accelerates AI-led strategy and digital transformation through strategic collaboration with Microsoft to enhance customer experiences &nbsp;&nbsp; Microsoft Source"
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXA3YmR0Tk5BcmxvbkxHNUhTOEhqSE5xLXR5dE9URkRRdjBWUU1FeXk4RFgzM3piNEh6WE5QZU5FU2Jwb1JTNW1zcVlKc2pKN295LTZyVDFGQnlCN2lUNkFLUXhoS0FCWUwzVFk5UXlIVWw4bDFWWUgtdnRmcjVrdXBwdjQyNDRjYzI4TzZBZ3RnT3dhV2xSMG5yMHd2YWQtb3FDVWlKR3drSWdCV1lrRVFNbUdBQktLRVZVWlVB?oc=5",
+        "summary": "Your AI steering committee’s 2026 checklist: Observability &nbsp;&nbsp; Microsoft"
+      },
+      {
+        "headline": "Transforming the marketing function at Microsoft with AI - Microsoft",
+        "source": "Microsoft",
+        "timestamp": "2026-04-16T14:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFHVTlaM2lNMFJTVmMwT1RxUjExbFBhQjlNQW9sQ3dBWFN0d3lnY2NXZjJnSWRhVjBuYWFZOHJpLWJ5UEJ6X3VVbGZQMXV4Q1MwaEE1ejYwUmc3QXpYazJwdW1qN2tjandBc014T1c3SXJEOEQxRFZFTFY0cVVYQWVLX3lISnBqVDFjR3ZsYk00RkFJaklLbmhnVnMtMlhaYWc?oc=5",
+        "summary": "Transforming the marketing function at Microsoft with AI &nbsp;&nbsp; Microsoft"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
