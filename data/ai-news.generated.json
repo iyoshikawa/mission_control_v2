@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-17T06:06:08.156Z",
+    "generatedAt": "2026-04-17T08:27:30.584Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,19 @@
   },
   "newsFeed": [
     {
+      "headline": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-17T07:34:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl9CbGp2Y1FDd2lxRzFsRmhBX2pSbHVJV1Z3SWllMVBDQXlhWUJKTm5sT1lkWVYzS0lMal9TMkUxSUc1TzZLZWp0b0NObjFwSURqNmVOUjJQUXNHeFdQaERyWEtNSUJpeDJ6ODZ2VkZzcUxmTTlhWlJqSjlWY1pmVmd5MDFSUDE2MHJ3N2hwWHlXdnpJQjN3RTU1THhrLVFjTlNjVm5WX1h2NFptZW1IbmVKajFyWEJSWUNsVldTMXBJQVJvNW1rdFpYNXlVQ29TczVPZ0xuSWgwR1h1?oc=5"
+    },
+    {
       "headline": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care - Microsoft Source",
       "source": "Microsoft Source",
-      "timestamp": "2026-04-17T00:24:42.000Z",
+      "timestamp": "2026-04-17T00:24:38.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care &nbsp;&nbsp; Microsoft Source",
@@ -22,14 +32,14 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUp6QnFDZnh2cGVkZkJ5LUxCc2NUMktPQXpxMjZtMzNlcjdBb1hKLWRCZ2JiNXhqUGJHRV94aVEzNUpLWDE2WU9FTjZrSkpPXzhPejg5T0pIdXA2emU1UEVnQkJLT0R1dERSeE9ROHRWdURlelJ5UUd1enJMWGUyX3ZuQzI0cnFRNGdVTjM0UlJ1WEhtTmZkcmxfV1JQV0xSMGJoejlxOG5HSmg1QS14UE5fVU5MZm1lWUktd0JaU3RPM0c4aFVmdHo0MA?oc=5"
     },
     {
-      "headline": "OpenAI launches new AI model for life sciences research - Axios",
-      "source": "Axios",
-      "timestamp": "2026-04-16T19:41:03.000Z",
+      "headline": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-16T19:26:39.000Z",
       "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI launches new AI model for life sciences research &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5"
+      "category": "regulation",
+      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5"
     },
     {
       "headline": "Introducing GPT-Rosalind for life sciences research - OpenAI",
@@ -40,16 +50,6 @@
       "summary": "Introducing GPT-Rosalind for life sciences research &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5"
-    },
-    {
-      "headline": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg",
-      "source": "Bloomberg",
-      "timestamp": "2026-04-16T17:54:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "White House Moves to Give US Agencies Anthropic Mythos Access &nbsp;&nbsp; Bloomberg How Anthropic Learned Mythos Was Too Dangerous for the Wild &nbsp;&nbsp; Bloomberg Trump officials negotiating access to Anthropic's Mythos despite blacklist &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalRaZVl2N3diVVd4QzBYZzNMWkoyeHpiWDFuM0gtS3JpNnM5c3ZhdXZOZzNhbHpkNDNVWXdVUW94ZVp5aThLQ2s2a2g4WVAybm40OHdvT1IxTGQ1NkhOTGhRWnk2U3lTNTJ5T2x3VWZpbUtYZjlNcFp5S1czVEZDWUdoU09ZenZ0SGdYMFdOemxsSkxibTBwR2xFUTNCcFJ2UE9WNjVlSE9aSE4tLVRMOGN3?oc=5"
     },
     {
       "headline": "OpenAI’s big Codex update is a direct shot at Claude Code - The Verge",
@@ -82,12 +82,12 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnI5aGUtUzFOSFozYnVlNnEwLUwtWHhsbE5wWXRqZmY3S3hxYU1WNS00SDNyVjBicW5ORkYxNjA0ZnVjazNEQWRMcjNjdnpoN0FKa0l3QmlYejRveUlDaVhlSFQ1TEdPVlVuY05UZHJQT19MaDhyOW9kbWtiSHFGVjEwMndrVTlhbkljTEJ1MXVjOWdHclNhbC1qLWFkWWNrU2Qya2c1QlZkWWJi?oc=5"
     },
     {
-      "headline": "Anthropic Unveils Updated Opus Model Aimed at Advanced Coding - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Anthropic Unveils Updated Opus Model Aimed at Advanced Coding - Bloomberg.com",
+      "source": "Bloomberg.com",
       "timestamp": "2026-04-16T14:54:04.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic Unveils Updated Opus Model Aimed at Advanced Coding &nbsp;&nbsp; Bloomberg",
+      "summary": "Anthropic Unveils Updated Opus Model Aimed at Advanced Coding &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmhtS0dDTC1wM2FYNG5maHhwRU9JMjFvby1Jc05PMHAzSGpteDRBNzJVR3g3b1dNLXBTNVBELU8tQkNSQThHN05PUGQtc1NveEdESndkWlBaeTNIb1N3cnhxSVN0emJPSXhPSDdsWHpkTGV2VS1wRHdlUkxMTHRtY1I5bWpfcEpWX2VJbzhuejJ2RFVGS0hLZHplWTlNdmM3UFoxY1pBY0JjekxyWUFfbmx3?oc=5"
     },
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-17T07:34:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl9CbGp2Y1FDd2lxRzFsRmhBX2pSbHVJV1Z3SWllMVBDQXlhWUJKTm5sT1lkWVYzS0lMal9TMkUxSUc1TzZLZWp0b0NObjFwSURqNmVOUjJQUXNHeFdQaERyWEtNSUJpeDJ6ODZ2VkZzcUxmTTlhWlJqSjlWY1pmVmd5MDFSUDE2MHJ3N2hwWHlXdnpJQjN3RTU1THhrLVFjTlNjVm5WX1h2NFptZW1IbmVKajFyWEJSWUNsVldTMXBJQVJvNW1rdFpYNXlVQ29TczVPZ0xuSWgwR1h1?oc=5",
+        "summary": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool &nbsp;&nbsp; The Guardian"
+      },
+      {
         "headline": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care - Microsoft Source",
         "source": "Microsoft Source",
-        "timestamp": "2026-04-17T00:24:42.000Z",
+        "timestamp": "2026-04-17T00:24:38.000Z",
         "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUp6QnFDZnh2cGVkZkJ5LUxCc2NUMktPQXpxMjZtMzNlcjdBb1hKLWRCZ2JiNXhqUGJHRV94aVEzNUpLWDE2WU9FTjZrSkpPXzhPejg5T0pIdXA2emU1UEVnQkJLT0R1dERSeE9ROHRWdURlelJ5UUd1enJMWGUyX3ZuQzI0cnFRNGdVTjM0UlJ1WEhtTmZkcmxfV1JQV0xSMGJoejlxOG5HSmg1QS14UE5fVU5MZm1lWUktd0JaU3RPM0c4aFVmdHo0MA?oc=5",
         "summary": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care &nbsp;&nbsp; Microsoft Source"
       },
       {
-        "headline": "OpenAI launches new AI model for life sciences research - Axios",
-        "source": "Axios",
-        "timestamp": "2026-04-16T19:41:03.000Z",
+        "headline": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-04-16T19:26:39.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWjZuTktlUG1VdFhCQ1BpNnExcmZKekZyZm9qRWp3U2dHWDBfdWFoRE9BVl9FMF93TFRfVjdSdHdOcV9pVUtrWUF3S3JVcWVEOEZSRGJ5eXM3WFBvNlNIQzFJeUFaVzZMNklRWWNGeExhSE82?oc=5",
-        "summary": "OpenAI launches new AI model for life sciences research &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
+        "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "Introducing GPT-Rosalind for life sciences research - OpenAI",
@@ -140,15 +149,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnekQySHJOSlZjVnlZbEhDMGJQeGpEaGs1bU1hMm1wWGtXNlQxZVRQVFRITVFUa2YtZi1Tb3ZpbUExMFdyd2EzYnNJSWpQT3JLUU5KTDEySjEtX0lFYkpF?oc=5",
         "summary": "Introducing GPT-Rosalind for life sciences research &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "White House Moves to Give US Agencies Anthropic Mythos Access - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-04-16T17:54:11.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalRaZVl2N3diVVd4QzBYZzNMWkoyeHpiWDFuM0gtS3JpNnM5c3ZhdXZOZzNhbHpkNDNVWXdVUW94ZVp5aThLQ2s2a2g4WVAybm40OHdvT1IxTGQ1NkhOTGhRWnk2U3lTNTJ5T2x3VWZpbUtYZjlNcFp5S1czVEZDWUdoU09ZenZ0SGdYMFdOemxsSkxibTBwR2xFUTNCcFJ2UE9WNjVlSE9aSE4tLVRMOGN3?oc=5",
-        "summary": "White House Moves to Give US Agencies Anthropic Mythos Access &nbsp;&nbsp; Bloomberg How Anthropic Learned Mythos Was Too Dangerous for the Wild &nbsp;&nbsp; Bloomberg Trump officials negotiating access to Anthropic's Mythos despite blacklist &nbsp;&nbsp; Axios"
       },
       {
         "headline": "OpenAI’s big Codex update is a direct shot at Claude Code - The Verge",
@@ -172,7 +172,7 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
