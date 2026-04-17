@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-17T08:27:30.584Z",
+    "generatedAt": "2026-04-17T10:16:27.214Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -14,12 +14,22 @@
     {
       "headline": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-04-17T07:34:00.000Z",
+      "timestamp": "2026-04-17T07:31:00.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
       "summary": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool &nbsp;&nbsp; The Guardian",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl9CbGp2Y1FDd2lxRzFsRmhBX2pSbHVJV1Z3SWllMVBDQXlhWUJKTm5sT1lkWVYzS0lMal9TMkUxSUc1TzZLZWp0b0NObjFwSURqNmVOUjJQUXNHeFdQaERyWEtNSUJpeDJ6ODZ2VkZzcUxmTTlhWlJqSjlWY1pmVmd5MDFSUDE2MHJ3N2hwWHlXdnpJQjN3RTU1THhrLVFjTlNjVm5WX1h2NFptZW1IbmVKajFyWEJSWUNsVldTMXBJQVJvNW1rdFpYNXlVQ29TczVPZ0xuSWgwR1h1?oc=5"
+    },
+    {
+      "headline": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-17T01:31:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1YYzV0bzRTTmxRbVp6X0pvMS12c0VLZ0ZUNVUtblA2WE52ZDByNDJlOEc2QmtxMUZpMlc0MlJUNGJjRDRZc1NQTnloSmxQbERCVTlucHFXcHlycUJLZm05ME81amZKcmdBTnl3ZGpfTF96NVN2OUVFU3BhWmt3ZkpkNWdqYVpXbjcwdkJnYmpEZWh6NW9JUURIRjdVQXZTNFc4TS1wM2NRUzdMYTc1T2JGNDA1TlE?oc=5"
     },
     {
       "headline": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care - Microsoft Source",
@@ -32,14 +42,14 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUp6QnFDZnh2cGVkZkJ5LUxCc2NUMktPQXpxMjZtMzNlcjdBb1hKLWRCZ2JiNXhqUGJHRV94aVEzNUpLWDE2WU9FTjZrSkpPXzhPejg5T0pIdXA2emU1UEVnQkJLT0R1dERSeE9ROHRWdURlelJ5UUd1enJMWGUyX3ZuQzI0cnFRNGdVTjM0UlJ1WEhtTmZkcmxfV1JQV0xSMGJoejlxOG5HSmg1QS14UE5fVU5MZm1lWUktd0JaU3RPM0c4aFVmdHo0MA?oc=5"
     },
     {
-      "headline": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-16T19:26:39.000Z",
+      "headline": "OpenAI Takes on Google With New AI Model Aimed at Drug Discovery - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-16T19:32:02.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5"
+      "category": "models",
+      "summary": "OpenAI Takes on Google With New AI Model Aimed at Drug Discovery &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbXdtUUNia0l3VXUyTEVVYjhWb3pIUXpmYUZGbElxZjQ0b3ZuVUo4UkFGVE5Ca1RpbEdyVGVBTTRLUWsydzF0SWVYXzdIQ3NNT2hUZ0VQTUJuVEpuaW5DMS1OTnZla2dsQmMxdmZoM3FBYXI2c2VqcDRoV0ZoR2pkdzhCeXdzOV9GQTdWckV0TF9xX1VXTmJCSmphdW9DNkItNEtadjl6WEhvRXF4UHZ0eThaQklzdw?oc=5"
     },
     {
       "headline": "Introducing GPT-Rosalind for life sciences research - OpenAI",
@@ -100,16 +110,6 @@
       "summary": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUklUZEtKVDFaRXJscjBwVzdwTnFnVmlNd1VMNHRmWHdnQnVGNFVYVWtfSUZnZ2JIN2ZMY0hSMFhmUUM2eXFncEZpdHBjdFRkMnlMUDZCcWM5Vld5M21KMWhELTdRZmYwVWNGbzZzRklNQndjUkdiZEZNRTBWYkxmY9IBhgFBVV95cUxQUU5aWDM2ZWh6LWxiLVZhWnNPMG9VRUJsMXl6NUJ2eFY4bEdIV1FoX1RscEhIVll2VGozTWw4eWEyeUczXzdxNlNXeTJpdUFmZzRvVlFSZ1k2blA2MTkwa0owdndJa1NTNXEwRUN3UlRqUG9sOFJyQUdlX2JERGRrbDRIN3ZJZw?oc=5"
-    },
-    {
-      "headline": "Transforming the marketing function at Microsoft with AI - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-04-16T14:30:00.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Transforming the marketing function at Microsoft with AI &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFHVTlaM2lNMFJTVmMwT1RxUjExbFBhQjlNQW9sQ3dBWFN0d3lnY2NXZjJnSWRhVjBuYWFZOHJpLWJ5UEJ6X3VVbGZQMXV4Q1MwaEE1ejYwUmc3QXpYazJwdW1qN2tjandBc014T1c3SXJEOEQxRFZFTFY0cVVYQWVLX3lISnBqVDFjR3ZsYk00RkFJaklLbmhnVnMtMlhaYWc?oc=5"
     }
   ],
   "aiNews": {
@@ -117,11 +117,20 @@
       {
         "headline": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-04-17T07:34:00.000Z",
+        "timestamp": "2026-04-17T07:31:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTl9CbGp2Y1FDd2lxRzFsRmhBX2pSbHVJV1Z3SWllMVBDQXlhWUJKTm5sT1lkWVYzS0lMal9TMkUxSUc1TzZLZWp0b0NObjFwSURqNmVOUjJQUXNHeFdQaERyWEtNSUJpeDJ6ODZ2VkZzcUxmTTlhWlJqSjlWY1pmVmd5MDFSUDE2MHJ3N2hwWHlXdnpJQjN3RTU1THhrLVFjTlNjVm5WX1h2NFptZW1IbmVKajFyWEJSWUNsVldTMXBJQVJvNW1rdFpYNXlVQ29TczVPZ0xuSWgwR1h1?oc=5",
         "summary": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-04-17T01:31:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1YYzV0bzRTTmxRbVp6X0pvMS12c0VLZ0ZUNVUtblA2WE52ZDByNDJlOEc2QmtxMUZpMlc0MlJUNGJjRDRZc1NQTnloSmxQbERCVTlucHFXcHlycUJLZm05ME81amZKcmdBTnl3ZGpfTF96NVN2OUVFU3BhWmt3ZkpkNWdqYVpXbjcwdkJnYmpEZWh6NW9JUURIRjdVQXZTNFc4TS1wM2NRUzdMYTc1T2JGNDA1TlE?oc=5",
+        "summary": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care - Microsoft Source",
@@ -133,13 +142,13 @@
         "summary": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care &nbsp;&nbsp; Microsoft Source"
       },
       {
-        "headline": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-04-16T19:26:39.000Z",
+        "headline": "OpenAI Takes on Google With New AI Model Aimed at Drug Discovery - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-04-16T19:32:02.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
-        "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research &nbsp;&nbsp; Reuters"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbXdtUUNia0l3VXUyTEVVYjhWb3pIUXpmYUZGbElxZjQ0b3ZuVUo4UkFGVE5Ca1RpbEdyVGVBTTRLUWsydzF0SWVYXzdIQ3NNT2hUZ0VQTUJuVEpuaW5DMS1OTnZla2dsQmMxdmZoM3FBYXI2c2VqcDRoV0ZoR2pkdzhCeXdzOV9GQTdWckV0TF9xX1VXTmJCSmphdW9DNkItNEtadjl6WEhvRXF4UHZ0eThaQklzdw?oc=5",
+        "summary": "OpenAI Takes on Google With New AI Model Aimed at Drug Discovery &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "Introducing GPT-Rosalind for life sciences research - OpenAI",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVdtWkRoRllVMVdKbDh5LUVRbGMzb3ZxeUhucWZnM0JKOUxfMFROdlgxa2FYS3BxUGRZOTBJcmlTaWlzY3g3a2djNXRfeWU0dldvNFlmLVRSeXlkUGtWR0k5S3lQcXp0eEFKV1NPZHpEX1BYSUNJdkswQkZqbkpkSjJYRmNveF9XeXY0X1l3MmYzVVE?oc=5",
         "summary": "OpenAI’s big Codex update is a direct shot at Claude Code &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Powering intelligent media: How frontier organizations realize a return on intelligence with Microsoft - Microsoft",
-        "source": "Microsoft",
-        "timestamp": "2026-04-16T17:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNcTJBYjJQUUpsdmgyd1FCQW1sYkpfM2xBZFhzVkFqR3hqNG55TUVwUEVpLUdyOUczSHNLcGd4TXAyRVdZTWMxX19QTzA1c3hoenYzTWZKc1BJYlphOTBmWEk4a2dieE45d3ppSTNyVm53SktMU0taemZQZFFVT0pxeWtENGJxWGxDcG1keTcxLUlMRmktdjI4ZWlvaUFfdkJtQVBrNEVyaWRKSm5qbmZiNnVsQUpLMGxaZVlMN1JEZVppY2c2clBYc0Jhc0ZINmM1TzRaMnNfSFVZTUJ1a2E0NUc0V3loZ0xsd2lNWnBuTWo0LTdYZDdoNndDQ2NzcW1xaDdaYjFDY1FMT2o0d1lLTnhqWkhfRXBWQUE?oc=5",
-        "summary": "Powering intelligent media: How frontier organizations realize a return on intelligence with Microsoft &nbsp;&nbsp; Microsoft"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
