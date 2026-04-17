@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-17T20:52:34.635Z",
+    "generatedAt": "2026-04-17T21:49:48.978Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI brings free AI training to Abilene, expanding local workforce skills - KTXS",
-      "source": "KTXS",
-      "timestamp": "2026-04-17T20:04:23.000Z",
+      "headline": "OpenAI loses two executives in latest leadership shakeup - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-17T21:16:06.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI loses two executives in latest leadership shakeup &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cWFYWlJLM0UzdEJVMVJUa2dOTk9EQ1NPUDl2WFJwenhFbVlKZm1ybDdnd0Zldk0tblM2TnRpMTktNmR4WTJKc3c1Wi1KOXhRQzVicTZnbGd3WERuN2xUa0dCMEc1WUtJSWR5R9IBckFVX3lxTFA3NW5pRjJfUVdmV3pIbzB3dnNJVEQ2NnZRZTh2ZmdpcWNLUjdrcHkzd1YtTkJ3OWFTZDU2aXRBcHU0VUtleXBjeC1KQlg2U1J1cHhwVU9pSHI0T203ZGxQalpFNTVTTGxxcXBQRGhSbk5Fdw?oc=5"
+    },
+    {
+      "headline": "OpenAI’s former Sora boss is leaving - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-04-17T21:13:25.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI brings free AI training to Abilene, expanding local workforce skills &nbsp;&nbsp; KTXS",
+      "summary": "OpenAI’s former Sora boss is leaving &nbsp;&nbsp; The Verge",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1prMTZkbjJaYXNZVFJ3aWp3RndLTV9wcE5KSTRUaElGRHY0LUNVWXNsVURNdl9xdjUtRW4wQjVScFpaWEpfUk1fVTh6dVBZTGpQZkZzeExPM254WlpZdlpONDBlRXhoRlVmRGMtNVhYeWJxTEJLcnVfeExhQnFtNmVYVVJaUEpzM1I2bU5oTTNod29BaHlqamNRNGRKdWp3dnp5TVBqTUJaclUtNzVz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjFOVG1keVAtMG9XclBwell1T1VuQmxzNEhuR0twTUR1T2k3TThCS1lKY1VyRDliWWtrVlM2UEZsMENnTVRIUkp1LWdKT3lobHdQZGlTVDVQTlg1N3Q1MTVDUjg0elVsTldISjBaXy1LZHNrUjdMUWlrTW1UU1ExUFlzYnNRdm1YWE8zOXk4cW8teEZjM3ljckJEOTZ2YzBPd054UlY3NUtjSkZUWE5aSjV3?oc=5"
+    },
+    {
+      "headline": "Steve Bannon sides with Anthropic in Pentagon fight - The Hill",
+      "source": "The Hill",
+      "timestamp": "2026-04-17T21:02:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Steve Bannon sides with Anthropic in Pentagon fight &nbsp;&nbsp; The Hill",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkh5Mnp3NTNtdmlJZy1jSzgzMGNzR2NEOHdSNHl5RmVSUGVoMW1nd2ZmZXdBU1ZpSFFCN2wzOHBoWVpEazV3MTRTT3lUVVk4dnhJZGdJOFU1RU5Nc0ZhZUY3N1h1cXNjaEZydS1IQnJwRmY5dElxcWtLY0h1X1BUZ1J0R2g4SFhzeldmUG41Q2toSkXSAZgBQVVfeXFMTUJFZ1l6M2hGNVFNYURrc0djLTB2VmMwVnltQk5RMFZzVFNHb1FVQTAyZEFJUE11NElEU29Td3RDcmIxMmtJeTZtQWhtVVZTaWhFdmd3d096TUQxQUhoZW9pNTh4WEhVZVFtQUFtUHR0SVc3OFpRUi1HeVY5bmdPQXUxWTJhdkZJc3JMUHYxRWJVWTdVdzB6QUc?oc=5"
+    },
+    {
+      "headline": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-04-17T20:38:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3lfUDVGeXhMUW5JMTByNUhmeWFSQVA2SnM0ZFh4SDd2N0NZVVJ2SkwtQW5wdkt3SUV5Wm5oMzVadUlyanMxTHBXQUN1MWZZbXZRR1FzVUppUFFBNGE2WDh1cE5tRm1odGhiZk1zY25JWVBRQWYtY0lZNDB2U0d0VFBtZ01lTTlWb2std0hnYmFjaWNxQ2VROXdPd1gtRXRHUU85WTFYNHd6UW5yV3gwOFBfdzN3dw?oc=5"
     },
     {
       "headline": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
@@ -38,8 +68,28 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Perspective: AI demand is inflated, and only Anthropic is being realistic &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUkRKT2NJeHhYczNLdXEwREt1WmwzS0pIbWFBRmJnMVc3d012ZG5Jbll5ZjJ6c3VzOHBhN0VIcmJoLXFCb01oVXpjUjZiYkRLcFhEd1VnX3JEWDk4ZUZtejhyQl9nTVRQNjh1VHZndkhkQlk2UTdJcjVR0gF_QVVfeXFMTS01QnFrOXNORWhvZm9NZHl1WGpSeDNlZEo1TE8yWjRZS3FnODFibEduU1QwNFR0b0Z2VDRvZ2JSbkFVZFFmZXBfdm1pcU9UemZxOEVVTFA3Tll3TDQwX0RfWFI0YnFhdGRURDZkZWVwSVlTZVF6dmU3eEg0RS1VSQ?oc=5"
+    },
+    {
+      "headline": "Meta’s AI spending spree is helping make its Quest headsets more expensive - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-04-17T16:23:20.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s AI spending spree is helping make its Quest headsets more expensive &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2d5ak9hQmlTZkpESlVHY1RyMGtrcmJMaER5V01Ga3BnOXBCMy1aaUc5eGhXaTBfN3FwMi1uYW1fU1VHZ1dTdzJJVTFsZDRXTWRiUVhqMjh1U3JVMmdZS0E1N25Xb1ViT3lwSU5rUHpYOHlTS2hwZnZwSjlYdkpFSHhfQzFTbVY2MHZMd2cteVJPUXNjRzhGaWg5Q2haWlo0VXhZNXJ1UzlnQ0ZEeWc?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO Lands White House Meeting as Feud Thaws - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-17T16:22:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic CEO Lands White House Meeting as Feud Thaws &nbsp;&nbsp; WSJ Anthropic CEO Dario Amodei arrives at White House for talks &nbsp;&nbsp; Reuters Anthropic CEO heads to White House amid hacking fears over new AI model &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUdGSENrMjRacl91RUZtbU52UUJ2cG1xLTFfeXdHUDJ4cFNBeDRnZWRQQmdVNGxjc1U1V2VtY25GNWxmMXgxTmw3c2ZPYlNEWmtiSEFNX3Y5OGJHTXQ1V3h4X2dwazF1T0JuMzV6QlJLbTVmc0ltZlQ4am1SXzZfRzdnam94cENzN084bU84YTJXU0hl?oc=5"
     },
     {
       "headline": "Introducing Claude Design by Anthropic Labs - Anthropic",
@@ -47,39 +97,9 @@
       "timestamp": "2026-04-17T15:48:03.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic Anthropic launches Claude Design, a new product for creating quick visuals &nbsp;&nbsp; TechCrunch Adobe Stock Drops. Why Anthropic’s New Claude Launch Is Rattling Investors. &nbsp;&nbsp; Barron's",
+      "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos &nbsp;&nbsp; CNBC The Claude-lash is here: Opus 4.7 is burning through tokens — and some people's patience &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5"
-    },
-    {
-      "headline": "What is Mythos and why are experts worried about Anthropic’s AI model - Scientific American",
-      "source": "Scientific American",
-      "timestamp": "2026-04-17T14:30:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "What is Mythos and why are experts worried about Anthropic’s AI model &nbsp;&nbsp; Scientific American",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjR2WVhJRTlrMzZxNlppRUI2QlVKV0VCTkhJYnNnR0JBdDNObXpkQllJa1dVUndKRnM5Q0pEbXJxNVBOQU9sVl9PWHlSZTFSY3hmYkpJQkdvM0ZPLW5jeDhEOEQ4YlY1Y2ZPNkFNYjhvZ0ZxZjRVdTY2SWxmTWtKMmNTUExzbmFidmxaVGwyNk5aY2tDWUxUeWhsdXBrYldRTWxuUUdWRHhxcWFJNkRqMGdB?oc=5"
-    },
-    {
-      "headline": "What is Anthopic's Claude Mythos and what risks does it pose? - BBC",
-      "source": "BBC",
-      "timestamp": "2026-04-17T13:41:01.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "What is Anthopic's Claude Mythos and what risks does it pose? &nbsp;&nbsp; BBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RQ080QjNmR3N5VElKQnh1WXRFSk9iR0JxTy1ZaDNRY0dXNUFXZ0w1Wk1XUWs2MTdTR3dUZVpfMHYwVUJSZ1ZTQlVPaWFFODdFSHRKdXJxazVfUQ?oc=5"
-    },
-    {
-      "headline": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-17T01:31:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1YYzV0bzRTTmxRbVp6X0pvMS12c0VLZ0ZUNVUtblA2WE52ZDByNDJlOEc2QmtxMUZpMlc0MlJUNGJjRDRZc1NQTnloSmxQbERCVTlucHFXcHlycUJLZm05ME81amZKcmdBTnl3ZGpfTF96NVN2OUVFU3BhWmt3ZkpkNWdqYVpXbjcwdkJnYmpEZWh6NW9JUURIRjdVQXZTNFc4TS1wM2NRUzdMYTc1T2JGNDA1TlE?oc=5"
     },
     {
       "headline": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care - Microsoft Source",
@@ -90,38 +110,45 @@
       "summary": "Whakarongorau Aotearoa / New Zealand Telehealth Services launches AI welcome service to support faster, more connected care &nbsp;&nbsp; Microsoft Source",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUp6QnFDZnh2cGVkZkJ5LUxCc2NUMktPQXpxMjZtMzNlcjdBb1hKLWRCZ2JiNXhqUGJHRV94aVEzNUpLWDE2WU9FTjZrSkpPXzhPejg5T0pIdXA2emU1UEVnQkJLT0R1dERSeE9ROHRWdURlelJ5UUd1enJMWGUyX3ZuQzI0cnFRNGdVTjM0UlJ1WEhtTmZkcmxfV1JQV0xSMGJoejlxOG5HSmg1QS14UE5fVU5MZm1lWUktd0JaU3RPM0c4aFVmdHo0MA?oc=5"
-    },
-    {
-      "headline": "Broadcom (AVGO) Is Up 13.1% After Expanded Meta AI Chip Partnership - What's Changed - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-04-16T19:03:47.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Broadcom (AVGO) Is Up 13.1% After Expanded Meta AI Chip Partnership - What's Changed &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcERlZDhaVTI5czB2ckYxNGlsTUh1VlNEVDJOWklVV19LTkZkUF92T3J3b3BBZWtwZTBOWmh3ZG1qVjJJRnFVdk1RRHBTYjNqcjI3SzQxcUZDdGF4WEtMeUctd2t4TU9MZ1FidlBpWjYxRjFaUk5TYjlqd2lGQmRsZF9ZZ2VLYlBENVhlbzNDN0VBRzhxRFZ3?oc=5"
-    },
-    {
-      "headline": "Anthropic’s hacking tech exposes EU AI Office weaknesses - politico.eu",
-      "source": "politico.eu",
-      "timestamp": "2026-04-16T18:34:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Anthropic’s hacking tech exposes EU AI Office weaknesses &nbsp;&nbsp; politico.eu",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0sySERhM0tNNWRQWThHMFlEcXYyd19CYnFiakRJd05XRjJLN0FzeWhGNlAwWVltSGlrd1JVaTQ1Z09ZVVRjNF8zNTJWakhHY3Z6Vmtic0d6XzBPLTR4SktsUnNnYjZkRlBQalk0cm5ITnhUTFdhOC04bC1aa29vcG5xOUM2cVEzQXBrbk9vSVMyMVJIbnlF?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI brings free AI training to Abilene, expanding local workforce skills - KTXS",
-        "source": "KTXS",
-        "timestamp": "2026-04-17T20:04:23.000Z",
+        "headline": "OpenAI loses two executives in latest leadership shakeup - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-17T21:16:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cWFYWlJLM0UzdEJVMVJUa2dOTk9EQ1NPUDl2WFJwenhFbVlKZm1ybDdnd0Zldk0tblM2TnRpMTktNmR4WTJKc3c1Wi1KOXhRQzVicTZnbGd3WERuN2xUa0dCMEc1WUtJSWR5R9IBckFVX3lxTFA3NW5pRjJfUVdmV3pIbzB3dnNJVEQ2NnZRZTh2ZmdpcWNLUjdrcHkzd1YtTkJ3OWFTZDU2aXRBcHU0VUtleXBjeC1KQlg2U1J1cHhwVU9pSHI0T203ZGxQalpFNTVTTGxxcXBQRGhSbk5Fdw?oc=5",
+        "summary": "OpenAI loses two executives in latest leadership shakeup &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "OpenAI’s former Sora boss is leaving - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-04-17T21:13:25.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1prMTZkbjJaYXNZVFJ3aWp3RndLTV9wcE5KSTRUaElGRHY0LUNVWXNsVURNdl9xdjUtRW4wQjVScFpaWEpfUk1fVTh6dVBZTGpQZkZzeExPM254WlpZdlpONDBlRXhoRlVmRGMtNVhYeWJxTEJLcnVfeExhQnFtNmVYVVJaUEpzM1I2bU5oTTNod29BaHlqamNRNGRKdWp3dnp5TVBqTUJaclUtNzVz?oc=5",
-        "summary": "OpenAI brings free AI training to Abilene, expanding local workforce skills &nbsp;&nbsp; KTXS"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjFOVG1keVAtMG9XclBwell1T1VuQmxzNEhuR0twTUR1T2k3TThCS1lKY1VyRDliWWtrVlM2UEZsMENnTVRIUkp1LWdKT3lobHdQZGlTVDVQTlg1N3Q1MTVDUjg0elVsTldISjBaXy1LZHNrUjdMUWlrTW1UU1ExUFlzYnNRdm1YWE8zOXk4cW8teEZjM3ljckJEOTZ2YzBPd054UlY3NUtjSkZUWE5aSjV3?oc=5",
+        "summary": "OpenAI’s former Sora boss is leaving &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Steve Bannon sides with Anthropic in Pentagon fight - The Hill",
+        "source": "The Hill",
+        "timestamp": "2026-04-17T21:02:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkh5Mnp3NTNtdmlJZy1jSzgzMGNzR2NEOHdSNHl5RmVSUGVoMW1nd2ZmZXdBU1ZpSFFCN2wzOHBoWVpEazV3MTRTT3lUVVk4dnhJZGdJOFU1RU5Nc0ZhZUY3N1h1cXNjaEZydS1IQnJwRmY5dElxcWtLY0h1X1BUZ1J0R2g4SFhzeldmUG41Q2toSkXSAZgBQVVfeXFMTUJFZ1l6M2hGNVFNYURrc0djLTB2VmMwVnltQk5RMFZzVFNHb1FVQTAyZEFJUE11NElEU29Td3RDcmIxMmtJeTZtQWhtVVZTaWhFdmd3d096TUQxQUhoZW9pNTh4WEhVZVFtQUFtUHR0SVc3OFpRUi1HeVY5bmdPQXUxWTJhdkZJc3JMUHYxRWJVWTdVdzB6QUc?oc=5",
+        "summary": "Steve Bannon sides with Anthropic in Pentagon fight &nbsp;&nbsp; The Hill"
+      },
+      {
+        "headline": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-04-17T20:38:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3lfUDVGeXhMUW5JMTByNUhmeWFSQVA2SnM0ZFh4SDd2N0NZVVJ2SkwtQW5wdkt3SUV5Wm5oMzVadUlyanMxTHBXQUN1MWZZbXZRR1FzVUppUFFBNGE2WDh1cE5tRm1odGhiZk1zY25JWVBRQWYtY0lZNDB2U0d0VFBtZ01lTTlWb2std0hnYmFjaWNxQ2VROXdPd1gtRXRHUU85WTFYNHd6UW5yV3gwOFBfdzN3dw?oc=5",
+        "summary": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
@@ -137,50 +164,23 @@
         "source": "CNBC",
         "timestamp": "2026-04-17T19:10:15.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUkRKT2NJeHhYczNLdXEwREt1WmwzS0pIbWFBRmJnMVc3d012ZG5Jbll5ZjJ6c3VzOHBhN0VIcmJoLXFCb01oVXpjUjZiYkRLcFhEd1VnX3JEWDk4ZUZtejhyQl9nTVRQNjh1VHZndkhkQlk2UTdJcjVR0gF_QVVfeXFMTS01QnFrOXNORWhvZm9NZHl1WGpSeDNlZEo1TE8yWjRZS3FnODFibEduU1QwNFR0b0Z2VDRvZ2JSbkFVZFFmZXBfdm1pcU9UemZxOEVVTFA3Tll3TDQwX0RfWFI0YnFhdGRURDZkZWVwSVlTZVF6dmU3eEg0RS1VSQ?oc=5",
         "summary": "Perspective: AI demand is inflated, and only Anthropic is being realistic &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Introducing Claude Design by Anthropic Labs - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-04-17T15:48:03.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5",
-        "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic Anthropic launches Claude Design, a new product for creating quick visuals &nbsp;&nbsp; TechCrunch Adobe Stock Drops. Why Anthropic’s New Claude Launch Is Rattling Investors. &nbsp;&nbsp; Barron's"
-      },
-      {
-        "headline": "What is Mythos and why are experts worried about Anthropic’s AI model - Scientific American",
-        "source": "Scientific American",
-        "timestamp": "2026-04-17T14:30:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjR2WVhJRTlrMzZxNlppRUI2QlVKV0VCTkhJYnNnR0JBdDNObXpkQllJa1dVUndKRnM5Q0pEbXJxNVBOQU9sVl9PWHlSZTFSY3hmYkpJQkdvM0ZPLW5jeDhEOEQ4YlY1Y2ZPNkFNYjhvZ0ZxZjRVdTY2SWxmTWtKMmNTUExzbmFidmxaVGwyNk5aY2tDWUxUeWhsdXBrYldRTWxuUUdWRHhxcWFJNkRqMGdB?oc=5",
-        "summary": "What is Mythos and why are experts worried about Anthropic’s AI model &nbsp;&nbsp; Scientific American"
-      },
-      {
-        "headline": "What is Anthopic's Claude Mythos and what risks does it pose? - BBC",
-        "source": "BBC",
-        "timestamp": "2026-04-17T13:41:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RQ080QjNmR3N5VElKQnh1WXRFSk9iR0JxTy1ZaDNRY0dXNUFXZ0w1Wk1XUWs2MTdTR3dUZVpfMHYwVUJSZ1ZTQlVPaWFFODdFSHRKdXJxazVfUQ?oc=5",
-        "summary": "What is Anthopic's Claude Mythos and what risks does it pose? &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
