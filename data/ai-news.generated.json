@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T14:44:53.197Z",
+    "generatedAt": "2026-04-18T15:41:12.238Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic’s CFO Wields Power Behind the Scenes - The Information",
-      "source": "The Information",
-      "timestamp": "2026-04-18T14:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s CFO Wields Power Behind the Scenes &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX05Jb2RpR0lKS2dUZnlDRDdSdkdFMk1Gb2xFZDZCTzFTZk5FOXFPUTU4LTE4NWRaVDhtTUF1RUMwVFBSbXRNckN2bVZDa1Iwa0o3LVR2bkhpd2tHZzhsRGJnZllscklxUkw3UFpUUzZXWk12ekxCOV95QjNULWR6MmJlVjFSNXVD?oc=5"
-    },
-    {
       "headline": "How a fiery attack on Sam Altman’s home unfolded - The Guardian",
       "source": "The Guardian",
       "timestamp": "2026-04-18T14:01:00.000Z",
@@ -30,6 +20,16 @@
       "summary": "How a fiery attack on Sam Altman’s home unfolded &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzVmc2JRQktyWkZGampCZk1wczluMndTa09OelhaUl9xOS0ydElPc0FKY1IyRWVSOXhRM2tiSlh4MFpRY001Z19iWGhaMlpMa293OHlxdHJKY0JzdlVBeWZrdTRMY0dqNUZNaWJNSVVZQ1BWM3RLMkU5WHdzYk5fcjUwdw?oc=5"
+    },
+    {
+      "headline": "Anthropic’s Mythos AI model tests limits of global cyber defences - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-04-18T11:00:09.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic’s Mythos AI model tests limits of global cyber defences &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjBqU2pGcGVOYmtZRTdOR01KczRZY1RMMHFQaHlGUmVOVG1BSFg5cHc0cmQxUVdFbk1KZjB5WU9TX0Zrbm9YcHB5U0g2S2FYTVZsX2s2MkliM3N1azVqNWZzWHo3ZHU4em9HaXYwMzJDdTAwNUJvMm1yalRFbzBZZ0FsUkM?oc=5"
     },
     {
       "headline": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
@@ -50,6 +50,16 @@
       "summary": "OpenAI loses multiple executives in latest leadership shakeup &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cWFYWlJLM0UzdEJVMVJUa2dOTk9EQ1NPUDl2WFJwenhFbVlKZm1ybDdnd0Zldk0tblM2TnRpMTktNmR4WTJKc3c1Wi1KOXhRQzVicTZnbGd3WERuN2xUa0dCMEc1WUtJSWR5R9IBckFVX3lxTFA3NW5pRjJfUVdmV3pIbzB3dnNJVEQ2NnZRZTh2ZmdpcWNLUjdrcHkzd1YtTkJ3OWFTZDU2aXRBcHU0VUtleXBjeC1KQlg2U1J1cHhwVU9pSHI0T203ZGxQalpFNTVTTGxxcXBQRGhSbk5Fdw?oc=5"
+    },
+    {
+      "headline": "MEO enables real-time operational intelligence with Microsoft Foundry - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-04-17T20:34:23.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "MEO enables real-time operational intelligence with Microsoft Foundry &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUEphSHV2VlhaYm5tTWNwSVFTOWdJdGlVMGlxWk1pRnJpYV91ZTRvRHB0M1BieVJYbkZFOUZ4cWpERFNzNkdYVjNTZW9sSFczTVBJNk5LY1F2Z0M2Z2hrSU5WR2hUbVNReGRjOA?oc=5"
     },
     {
       "headline": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
@@ -100,29 +110,10 @@
       "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic Anthropic launches Claude Design, a new product for creating quick visuals &nbsp;&nbsp; TechCrunch Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5"
-    },
-    {
-      "headline": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-17T15:39:28.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC Anthropic CEO visits White House amid hacking fears over new AI model &nbsp;&nbsp; The Washington Post Anthropic, Trump officials meet to discuss Mythos access &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yVW5DaHlxVVlGUkMyR2tMMFVOTExEVktHNmFIaTVUSEpKemNxQWR2V1ktcWo5TjZ1TmxGLUZPSFl2SE85Q3Z5M28xRlgtV0wtZVRPODlsTkgtUWFlanRvWGJtLUt0UVdUZ29VSlpJVHlLRGt4d2ltWXRmTjPSAYIBQVVfeXFMTy0wVFVPVFZXS3RpZ2pPdGE4Y0xMR0xSRmRIQmFSNE5mU0ZJOVVzVDc2SURzRXljRF9qWFhId0NJNTVXcm94Q0RFQkpyZVRPdzJMdDdVS1B1LUdFMDh1YWFLVXliNWVBSnpfV3ZGSGJkWW5abWtaVGhMdjM3XzZ5V3N6Zw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Anthropic’s CFO Wields Power Behind the Scenes - The Information",
-        "source": "The Information",
-        "timestamp": "2026-04-18T14:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX05Jb2RpR0lKS2dUZnlDRDdSdkdFMk1Gb2xFZDZCTzFTZk5FOXFPUTU4LTE4NWRaVDhtTUF1RUMwVFBSbXRNckN2bVZDa1Iwa0o3LVR2bkhpd2tHZzhsRGJnZllscklxUkw3UFpUUzZXWk12ekxCOV95QjNULWR6MmJlVjFSNXVD?oc=5",
-        "summary": "Anthropic’s CFO Wields Power Behind the Scenes &nbsp;&nbsp; The Information"
-      },
       {
         "headline": "How a fiery attack on Sam Altman’s home unfolded - The Guardian",
         "source": "The Guardian",
@@ -131,6 +122,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzVmc2JRQktyWkZGampCZk1wczluMndTa09OelhaUl9xOS0ydElPc0FKY1IyRWVSOXhRM2tiSlh4MFpRY001Z19iWGhaMlpMa293OHlxdHJKY0JzdlVBeWZrdTRMY0dqNUZNaWJNSVVZQ1BWM3RLMkU5WHdzYk5fcjUwdw?oc=5",
         "summary": "How a fiery attack on Sam Altman’s home unfolded &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Anthropic’s Mythos AI model tests limits of global cyber defences - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-04-18T11:00:09.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjBqU2pGcGVOYmtZRTdOR01KczRZY1RMMHFQaHlGUmVOVG1BSFg5cHc0cmQxUVdFbk1KZjB5WU9TX0Zrbm9YcHB5U0g2S2FYTVZsX2s2MkliM3N1azVqNWZzWHo3ZHU4em9HaXYwMzJDdTAwNUJvMm1yalRFbzBZZ0FsUkM?oc=5",
+        "summary": "Anthropic’s Mythos AI model tests limits of global cyber defences &nbsp;&nbsp; Financial Times"
       },
       {
         "headline": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
@@ -151,6 +151,15 @@
         "summary": "OpenAI loses multiple executives in latest leadership shakeup &nbsp;&nbsp; CNBC"
       },
       {
+        "headline": "MEO enables real-time operational intelligence with Microsoft Foundry - Microsoft",
+        "source": "Microsoft",
+        "timestamp": "2026-04-17T20:34:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuUEphSHV2VlhaYm5tTWNwSVFTOWdJdGlVMGlxWk1pRnJpYV91ZTRvRHB0M1BieVJYbkZFOUZ4cWpERFNzNkdYVjNTZW9sSFczTVBJNk5LY1F2Z0M2Z2hrSU5WR2hUbVNReGRjOA?oc=5",
+        "summary": "MEO enables real-time operational intelligence with Microsoft Foundry &nbsp;&nbsp; Microsoft"
+      },
+      {
         "headline": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
         "source": "WIRED",
         "timestamp": "2026-04-17T19:56:00.000Z",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlhGa3gtb1pzNFNKN1NOdm9RU0dDOFRCMnpseGh1NndlaUZrQTJkZ1F5SV9JbkwyY1FhLWpKbmpSeDJjRzY5eFBJVnNxV0EteHBLLWVmbUtSNDRTWFdkT0ZLQmh2aHJyOHA0d3NSQXRONlQyMndZX0Q4R0dDSk13SDlBcC1Edw?oc=5",
         "summary": "OpenAI Executive Kevin Weil Is Leaving the Company &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Perspective: AI demand is inflated, and only Anthropic is being realistic - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-17T19:10:15.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUkRKT2NJeHhYczNLdXEwREt1WmwzS0pIbWFBRmJnMVc3d012ZG5Jbll5ZjJ6c3VzOHBhN0VIcmJoLXFCb01oVXpjUjZiYkRLcFhEd1VnX3JEWDk4ZUZtejhyQl9nTVRQNjh1VHZndkhkQlk2UTdJcjVR0gF_QVVfeXFMTS01QnFrOXNORWhvZm9NZHl1WGpSeDNlZEo1TE8yWjRZS3FnODFibEduU1QwNFR0b0Z2VDRvZ2JSbkFVZFFmZXBfdm1pcU9UemZxOEVVTFA3Tll3TDQwX0RfWFI0YnFhdGRURDZkZWVwSVlTZVF6dmU3eEg0RS1VSQ?oc=5",
-        "summary": "Perspective: AI demand is inflated, and only Anthropic is being realistic &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
