@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T23:40:12.316Z",
+    "generatedAt": "2026-04-19T03:23:52.355Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "AI chip startup Cerebras files for IPO - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-18T19:19:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI chip startup Cerebras files for IPO &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQ3hYWi1YR2h5MzRnSGJoS2hUb0h2bk1oSDdDbnJlY0U0NEFVeVV0ZTQ5MEoxOGhyMTBvX2EzUVVWMzA4akk2eHVBLWlGbU54by00V2VBckZYeUlYWnhDZ2FqYUJSOXBxdnhyM2hzQVBBdzg3TlJCRmZrNHBrdw?oc=5"
-    },
-    {
       "headline": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
       "source": "Forbes",
       "timestamp": "2026-04-18T04:21:56.000Z",
@@ -32,9 +22,19 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVVnTGZNN1h3RmVtZTZnUkxPV2Q3blp2WUs0c2twU0ZDSEQxZVFVbURBSmtyZGowaFJKSC1QbzdlTjJLd2k1SWpmQlowcUFDakswMExDUkt4Rzh5eGhjUXduMG85UE8yckxZMjk2VTZ0cTFwZzdFN0dKbVFSUFNFVld0T2FkNnI4b2xvdVc2cTlpLWdhbDJHSGtXdFBEckdpYTl1M0lTMUlTQ19saFdfZl9BT1FmTE8xdmxTTk1n?oc=5"
     },
     {
+      "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model - BBC",
+      "source": "BBC",
+      "timestamp": "2026-04-18T00:37:06.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model &nbsp;&nbsp; BBC Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC Anthropic chief Dario Amodei: ‘I don’t want AI turned on our own people’ &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5"
+    },
+    {
       "headline": "3 top executives leave OpenAI in a single day - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-04-18T00:00:18.000Z",
+      "timestamp": "2026-04-18T00:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "3 top executives leave OpenAI in a single day &nbsp;&nbsp; Business Insider",
@@ -82,47 +82,38 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5"
     },
     {
-      "headline": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-17T15:39:28.000Z",
+      "headline": "What is Anthopic's Claude Mythos and what risks does it pose? - BBC",
+      "source": "BBC",
+      "timestamp": "2026-04-17T13:41:01.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise &nbsp;&nbsp; The New York Times Anthropic chief Dario Amodei: ‘I don’t want AI turned on our own people’ &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yVW5DaHlxVVlGUkMyR2tMMFVOTExEVktHNmFIaTVUSEpKemNxQWR2V1ktcWo5TjZ1TmxGLUZPSFl2SE85Q3Z5M28xRlgtV0wtZVRPODlsTkgtUWFlanRvWGJtLUt0UVdUZ29VSlpJVHlLRGt4d2ltWXRmTjPSAYIBQVVfeXFMTy0wVFVPVFZXS3RpZ2pPdGE4Y0xMR0xSRmRIQmFSNE5mU0ZJOVVzVDc2SURzRXljRF9qWFhId0NJNTVXcm94Q0RFQkpyZVRPdzJMdDdVS1B1LUdFMDh1YWFLVXliNWVBSnpfV3ZGSGJkWW5abWtaVGhMdjM3XzZ5V3N6Zw?oc=5"
-    },
-    {
-      "headline": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-17T15:00:00.000Z",
-      "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic launches Claude Design, a new product for creating quick visuals &nbsp;&nbsp; TechCrunch",
+      "summary": "What is Anthopic's Claude Mythos and what risks does it pose? &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmFNWW9wa1JGaWdJX3ZhczNaeGRlNV9fY3ZBQnVaWEVDNnNZbnFUNEgzMVVPM0tBbG9LNVFyMWx4T0lTZFVoSE9oNV9KZ21iaEZTbUc4d0RTcEYzVndmZ0RSNWd6WUFiMVZsVjNKUXJNQVJDQzVMT1U1LWVWNjQtLVRPZlFPdDMxQjJQdXc0dmFUVU9pQnc3WlRwejJwUlNBR2x5SlBDbkNHU2Mw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RQ080QjNmR3N5VElKQnh1WXRFSk9iR0JxTy1ZaDNRY0dXNUFXZ0w1Wk1XUWs2MTdTR3dUZVpfMHYwVUJSZ1ZTQlVPaWFFODdFSHRKdXJxazVfUQ?oc=5"
     },
     {
-      "headline": "Is Mark Zuckerberg's Meta AI getting too smart? - Fox News",
-      "source": "Fox News",
-      "timestamp": "2026-04-17T12:40:01.000Z",
+      "headline": "Left for Dead on AI, Meta and Amazon Are About to Have the Last Laugh - UncoverAlpha",
+      "source": "UncoverAlpha",
+      "timestamp": "2026-04-17T13:01:57.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Is Mark Zuckerberg's Meta AI getting too smart? &nbsp;&nbsp; Fox News",
+      "summary": "Left for Dead on AI, Meta and Amazon Are About to Have the Last Laugh &nbsp;&nbsp; UncoverAlpha",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYkpyeU42R0phYlRRa05DMEdwVXpwZ2hpSU9PZ2ZMN3dUa2NQMXZnZTZxZTl2NjJockVYR1ZSRGxzNTdEYWVUZ21lN2M2MVZHY25ILVU0dGpBOXhzZUlRUEd1b0pSRVV0a3FnSy1NaG5keDc3dGfSAXtBVV95cUxQSkc3VnZqWlo0ejBaLTJwdVhMQ3c4azMxX2R5VS1KV05FWGMtVEt3QnlKQWNvLUZFN3VvSi15Y2tRMXhKZ3d6MU1Qd2xBQTdDeDlkYzk0aGQyYl80SVpXRWJkX2tEeWdjRnlQWGRXY0dmM3lfbHRfSTdyQzA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YMnFrMlpCSGtOdDNsVFQxakNKamhxV1BsSl92S1AyX1NVaDAzbkxsU3ZNeXQ3OG56NzN3Umc1TDh6SmgtM1VJRVNFT3VYcHRRTmFSZENWelVBVTg5R25XLURCLUtJYTQwbkd6aXVnUXZXLV9o?oc=5"
+    },
+    {
+      "headline": "Microsoft to replicate Azure's cloud business strategy of flexibility to win long-term AI deals with clients - Mint",
+      "source": "Mint",
+      "timestamp": "2026-04-17T09:53:26.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft to replicate Azure's cloud business strategy of flexibility to win long-term AI deals with clients &nbsp;&nbsp; Mint",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYkE3SUkxcDBuWks2bVdCbnNMWnFvYk5mRHdiaFQyUmROVU54X2ZWQ19mbU9MbGV6WmdacXk3VHJ4M0tSbGZKWDBBRndEa0Z3MkRYUU10SnhZdlJtcHNDQWpiWi16ZXF3YmJHZlFETzZocGdjTm5Qa2JCRVhfQ3dPYy15TnUtR1haRGZHQWxtRUVWZDl0Mm5DNk1lYkQtUFg1WUY0U2ZMdHJYMk8ycTN2YnktVm5EeXAwVUozcGtpZTJicGhmdmhmZGswXzNNZjDSAdQBQVVfeXFMUFRiUGQ1WGpNU041SndKNVdydTRjZ0lsR0VmckNHM1lXNWhpbl91amJBSm5ncTdSLTJIdHVSS2ZseFlOb1Ruc3NMcUFCWHR1dFV0RGpsOEtUZ3JFWVIxSWsyVjdaWDNKTWdqWEducVFBeWVLbUF4YXVtZHlfU08zSjQzUGFSZ0JfR2t5UVRRWTJYQ0hZcVMzbVA5NTM0MG1CTHN1cUtEMUx0U3BwUWJRZlNOY3JvYXFvNHBNZHhEbm5YVEJjbzBCdGNFMHhyc1JlTGFJdTU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "AI chip startup Cerebras files for IPO - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-04-18T19:19:11.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQ3hYWi1YR2h5MzRnSGJoS2hUb0h2bk1oSDdDbnJlY0U0NEFVeVV0ZTQ5MEoxOGhyMTBvX2EzUVVWMzA4akk2eHVBLWlGbU54by00V2VBckZYeUlYWnhDZ2FqYUJSOXBxdnhyM2hzQVBBdzg3TlJCRmZrNHBrdw?oc=5",
-        "summary": "AI chip startup Cerebras files for IPO &nbsp;&nbsp; TechCrunch"
-      },
       {
         "headline": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
         "source": "Forbes",
@@ -133,9 +124,18 @@
         "summary": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites &nbsp;&nbsp; Forbes"
       },
       {
+        "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model - BBC",
+        "source": "BBC",
+        "timestamp": "2026-04-18T00:37:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5",
+        "summary": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model &nbsp;&nbsp; BBC Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC Anthropic chief Dario Amodei: ‘I don’t want AI turned on our own people’ &nbsp;&nbsp; Financial Times"
+      },
+      {
         "headline": "3 top executives leave OpenAI in a single day - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-04-18T00:00:18.000Z",
+        "timestamp": "2026-04-18T00:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF9kQU9yWldwTHBOZ1lvUjhTWHEwNzl1eE54NjFCM3J2djZVb2tyWDB4YUlXMXk0OVd1YzhFR25YWkhqTlFlWUNsR19iTC1faE9TZEVvS1Q3bFZtc1pNY0VIQTJXaGlKOVRTZFpOVzNnWDdDT1p0NFhrVkRobGVVSVFvNEZjTkc3TGxQS1lvdmVNZFRyNnc?oc=5",
@@ -172,8 +172,8 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
