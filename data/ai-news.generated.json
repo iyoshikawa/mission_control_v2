@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T03:23:52.355Z",
+    "generatedAt": "2026-04-19T06:01:10.192Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-04-18T10:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVBob0stWHk1ZnBWTy1CUnlJSVNyWV9HOEc5M2M0S2k0bzhBRlNYNDRaQjZhMjk1d29zSTR2MFJGVEJVU0otT2NOQksyd1JFUGdlRS1VbVRpcGJzYlZKRUZoUURseTlyeWxqWGVSaVM3T3d3N0pOcDNwTERrRjlPNXJSTlhQVG5QUnhFcXdDRQ?oc=5"
+    },
+    {
       "headline": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
       "source": "Forbes",
       "timestamp": "2026-04-18T04:21:56.000Z",
@@ -20,16 +30,6 @@
       "summary": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites &nbsp;&nbsp; Forbes",
       "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVVnTGZNN1h3RmVtZTZnUkxPV2Q3blp2WUs0c2twU0ZDSEQxZVFVbURBSmtyZGowaFJKSC1QbzdlTjJLd2k1SWpmQlowcUFDakswMExDUkt4Rzh5eGhjUXduMG85UE8yckxZMjk2VTZ0cTFwZzdFN0dKbVFSUFNFVld0T2FkNnI4b2xvdVc2cTlpLWdhbDJHSGtXdFBEckdpYTl1M0lTMUlTQ19saFdfZl9BT1FmTE8xdmxTTk1n?oc=5"
-    },
-    {
-      "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model - BBC",
-      "source": "BBC",
-      "timestamp": "2026-04-18T00:37:06.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model &nbsp;&nbsp; BBC Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC Anthropic chief Dario Amodei: ‘I don’t want AI turned on our own people’ &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5"
     },
     {
       "headline": "3 top executives leave OpenAI in a single day - Business Insider",
@@ -92,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RQ080QjNmR3N5VElKQnh1WXRFSk9iR0JxTy1ZaDNRY0dXNUFXZ0w1Wk1XUWs2MTdTR3dUZVpfMHYwVUJSZ1ZTQlVPaWFFODdFSHRKdXJxazVfUQ?oc=5"
     },
     {
-      "headline": "Left for Dead on AI, Meta and Amazon Are About to Have the Last Laugh - UncoverAlpha",
-      "source": "UncoverAlpha",
-      "timestamp": "2026-04-17T13:01:57.000Z",
+      "headline": "Is Mark Zuckerberg's Meta AI getting too smart? - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-04-17T12:40:01.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Left for Dead on AI, Meta and Amazon Are About to Have the Last Laugh &nbsp;&nbsp; UncoverAlpha",
+      "summary": "Is Mark Zuckerberg's Meta AI getting too smart? &nbsp;&nbsp; Fox News",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YMnFrMlpCSGtOdDNsVFQxakNKamhxV1BsSl92S1AyX1NVaDAzbkxsU3ZNeXQ3OG56NzN3Umc1TDh6SmgtM1VJRVNFT3VYcHRRTmFSZENWelVBVTg5R25XLURCLUtJYTQwbkd6aXVnUXZXLV9o?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYkpyeU42R0phYlRRa05DMEdwVXpwZ2hpSU9PZ2ZMN3dUa2NQMXZnZTZxZTl2NjJockVYR1ZSRGxzNTdEYWVUZ21lN2M2MVZHY25ILVU0dGpBOXhzZUlRUEd1b0pSRVV0a3FnSy1NaG5keDc3dGfSAXtBVV95cUxQSkc3VnZqWlo0ejBaLTJwdVhMQ3c4azMxX2R5VS1KV05FWGMtVEt3QnlKQWNvLUZFN3VvSi15Y2tRMXhKZ3d6MU1Qd2xBQTdDeDlkYzk0aGQyYl80SVpXRWJkX2tEeWdjRnlQWGRXY0dmM3lfbHRfSTdyQzA?oc=5"
     },
     {
       "headline": "Microsoft to replicate Azure's cloud business strategy of flexibility to win long-term AI deals with clients - Mint",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-04-18T10:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVBob0stWHk1ZnBWTy1CUnlJSVNyWV9HOEc5M2M0S2k0bzhBRlNYNDRaQjZhMjk1d29zSTR2MFJGVEJVU0otT2NOQksyd1JFUGdlRS1VbVRpcGJzYlZKRUZoUURseTlyeWxqWGVSaVM3T3d3N0pOcDNwTERrRjlPNXJSTlhQVG5QUnhFcXdDRQ?oc=5",
+        "summary": "They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants In &nbsp;&nbsp; WIRED"
+      },
+      {
         "headline": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes",
         "source": "Forbes",
         "timestamp": "2026-04-18T04:21:56.000Z",
@@ -122,15 +131,6 @@
         "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVVnTGZNN1h3RmVtZTZnUkxPV2Q3blp2WUs0c2twU0ZDSEQxZVFVbURBSmtyZGowaFJKSC1QbzdlTjJLd2k1SWpmQlowcUFDakswMExDUkt4Rzh5eGhjUXduMG85UE8yckxZMjk2VTZ0cTFwZzdFN0dKbVFSUFNFVld0T2FkNnI4b2xvdVc2cTlpLWdhbDJHSGtXdFBEckdpYTl1M0lTMUlTQ19saFdfZl9BT1FmTE8xdmxTTk1n?oc=5",
         "summary": "'8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites &nbsp;&nbsp; Forbes"
-      },
-      {
-        "headline": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model - BBC",
-        "source": "BBC",
-        "timestamp": "2026-04-18T00:37:06.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTWNaaDlVRVRKRF9fRnZIX2FaLU1SZ2NLRDNDdzBVdUQwZ29uNlgzVDBDc29SbU4zMDFPc1R4NXc2dTRRdGF3RlNWZ05aNWphaFpUaEFUSm9zdw?oc=5",
-        "summary": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model &nbsp;&nbsp; BBC Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC Anthropic chief Dario Amodei: ‘I don’t want AI turned on our own people’ &nbsp;&nbsp; Financial Times"
       },
       {
         "headline": "3 top executives leave OpenAI in a single day - Business Insider",
@@ -172,8 +172,8 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
