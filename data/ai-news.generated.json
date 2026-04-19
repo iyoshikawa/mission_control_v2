@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T18:58:34.145Z",
+    "generatedAt": "2026-04-19T19:47:35.784Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "The Florida Mass Shooter's Conversations With ChatGPT Are Worse Than You Could Possibly Imagine - Futurism",
+      "source": "Futurism",
+      "timestamp": "2026-04-19T15:15:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "The Florida Mass Shooter's Conversations With ChatGPT Are Worse Than You Could Possibly Imagine &nbsp;&nbsp; Futurism",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kd1FtMnlpVVM5dEN5SjZSaE9UbGlHME11RC1yTldqNGJfWXBkNDVQUERuV0lZVUhIVVVVbzBfaHRsSEw0NzEtNGFsZC15WmNQem4wYVFYZVd0N09wUDdXTElYOHRfZlR2RS0zZjVyQ1pSbFJpWUNrYU9qSWQ0dw?oc=5"
+    },
     {
       "headline": "Paulson's Bond Demand Warning, Cuban's Healthcare Bank Account, Meta's AI-Focused Layoffs: This Week In E - Benzinga",
       "source": "Benzinga",
@@ -40,16 +50,6 @@
       "summary": "3 top executives leave OpenAI in a single day &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF9kQU9yWldwTHBOZ1lvUjhTWHEwNzl1eE54NjFCM3J2djZVb2tyWDB4YUlXMXk0OVd1YzhFR25YWkhqTlFlWUNsR19iTC1faE9TZEVvS1Q3bFZtc1pNY0VIQTJXaGlKOVRTZFpOVzNnWDdDT1p0NFhrVkRobGVVSVFvNEZjTkc3TGxQS1lvdmVNZFRyNnc?oc=5"
-    },
-    {
-      "headline": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-04-17T21:10:31.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkEwMlBacDRqNWx6bmFMSFV6cnl5TnI4d3JtNUNGZTZPb0E0a3ROc19lMktEcFFrdEtZZ1BEemRmVl9sRlNIZmFXSDBZTGFjVTlTU0JaSE1VNF81WkdnbU4zQmd3Nmk0WVBwbWJTTm41YV8tQlpjQVNvVTFTWUdGc29VQnU?oc=5"
     },
     {
       "headline": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
@@ -95,9 +95,9 @@
       "headline": "Scoop: Anthropic to have peace talks at White House - Axios",
       "source": "Axios",
       "timestamp": "2026-04-17T13:03:34.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Scoop: Anthropic to have peace talks at White House &nbsp;&nbsp; Axios Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise &nbsp;&nbsp; The New York Times",
+      "summary": "Scoop: Anthropic to have peace talks at White House &nbsp;&nbsp; Axios Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos &nbsp;&nbsp; CNBC White House and Anthropic hold 'productive' meeting amid fears over Mythos model &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OTklBbDVwWXBNcGNLN0JMSlRyTW01YUMwZkdjMEFMdndQd2V0TTQtd243bHBKT0hJZHdSbjNYdkZ6MmV3aHNuMEFQVlVZdXZQU0tRbGFiVGYxNnNERUo3Z3dEdEdkSTJZYWc1NUZ3UE1KLWtjaWZTNHJR?oc=5"
     },
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "The Florida Mass Shooter's Conversations With ChatGPT Are Worse Than You Could Possibly Imagine - Futurism",
+        "source": "Futurism",
+        "timestamp": "2026-04-19T15:15:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kd1FtMnlpVVM5dEN5SjZSaE9UbGlHME11RC1yTldqNGJfWXBkNDVQUERuV0lZVUhIVVVVbzBfaHRsSEw0NzEtNGFsZC15WmNQem4wYVFYZVd0N09wUDdXTElYOHRfZlR2RS0zZjVyQ1pSbFJpWUNrYU9qSWQ0dw?oc=5",
+        "summary": "The Florida Mass Shooter's Conversations With ChatGPT Are Worse Than You Could Possibly Imagine &nbsp;&nbsp; Futurism"
+      },
       {
         "headline": "Paulson's Bond Demand Warning, Cuban's Healthcare Bank Account, Meta's AI-Focused Layoffs: This Week In E - Benzinga",
         "source": "Benzinga",
@@ -142,15 +151,6 @@
         "summary": "3 top executives leave OpenAI in a single day &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-04-17T21:10:31.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkEwMlBacDRqNWx6bmFMSFV6cnl5TnI4d3JtNUNGZTZPb0E0a3ROc19lMktEcFFrdEtZZ1BEemRmVl9sRlNIZmFXSDBZTGFjVTlTU0JaSE1VNF81WkdnbU4zQmd3Nmk0WVBwbWJTTm41YV8tQlpjQVNvVTFTWUdGc29VQnU?oc=5",
-        "summary": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI &nbsp;&nbsp; Financial Times"
-      },
-      {
         "headline": "OpenAI Executive Kevin Weil Is Leaving the Company - WIRED",
         "source": "WIRED",
         "timestamp": "2026-04-17T19:56:00.000Z",
@@ -172,7 +172,7 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
