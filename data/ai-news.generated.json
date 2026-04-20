@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-20T17:10:03.334Z",
+    "generatedAt": "2026-04-20T19:13:30.494Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "A Token Flaw Turned Azure's AI Agent Into a Spy - GovInfoSecurity",
-      "source": "GovInfoSecurity",
-      "timestamp": "2026-04-20T17:05:51.000Z",
-      "impact": "LOW",
+      "headline": "Charting Aotearoa’s digital horizon: a new chapter in innovation, partnership, and growth - Microsoft Source",
+      "source": "Microsoft Source",
+      "timestamp": "2026-04-20T17:16:34.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Charting Aotearoa’s digital horizon: a new chapter in innovation, partnership, and growth &nbsp;&nbsp; Microsoft Source",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmtacG0yZnRCWWZUdy0xNElpb1kwQ0VoSXdDZzJkaGtRWXdyTXBDWU9zR1dxbkZ5VWZneU00cnZxaGhQdl9KaE9ISDV3Vk9xcG1QOXd6TVJvWm84cThkQXlSN1gyTGRod09hUnphSWdrT2NOTmRFUEtNTmhTbTk5VEg2WXVDT1l6Ui1pZVNrcGN0dw?oc=5"
+    },
+    {
+      "headline": "A Token Flaw Turned Azure's AI Agent Into a Spy - BankInfoSecurity",
+      "source": "BankInfoSecurity",
+      "timestamp": "2026-04-20T17:10:12.000Z",
+      "impact": "HIGH",
       "category": "regulation",
-      "summary": "A Token Flaw Turned Azure's AI Agent Into a Spy &nbsp;&nbsp; GovInfoSecurity",
+      "summary": "A Token Flaw Turned Azure's AI Agent Into a Spy &nbsp;&nbsp; BankInfoSecurity",
       "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlBqd3BhR2NFLVRkM01hWGExdGlwd3htM3JkWEdQTjUtTkR5ZzFpTTRUcHZaaGJ0cmVGYmFEYXRoVjBXYXVOYUpXZ3dxM2FEdWxiazdqd3dRdW5vTDFnR2RFTEExeVI0cUJJMnItNmFRS051WWJGclJJNHFWOXdZWk14WmY0RDU0Q3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd01QVTNqN2dmMjZWWkhtTDBWeTR4ci1sMnZwWk1MTnFsNXV1MjUwT1kzbS02cE52dE54NTVtd0JtSGhfbmhEZkhFSFV4OHYwS1FOT0VWaUE3NkRnWUhWM3hSdUZmWFpoTFBlcU5pekVyMng3MXQ2dUlZdDczd3htRzUzejl0ekVBWWdB?oc=5"
     },
     {
       "headline": "Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? - The New York Times",
@@ -92,36 +102,35 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTYxM2VidV9Sc0hBbTRMODdibG1ZLUVJbXFRTDhVNXc1TGNxVklEc3M4MnRBYjZwSG00WFF4TjYtU3E1MV93T0Z2a0lTOWhObzh2T0thNlZPczhMbWdLYUpLZ2l4RXJMa29kQW92am9jdDJQckNvMGxrOEdHOWJ3SDBicmt4eWktOEd2a2k4ejl3RWhQc3VNa2owMkoxY2w4cm9qQkhOUWdaYVlWR3dIc0kzSG1VMjJ4UnpIRk5FMk94Q2RxSDVscUNuRzJ3c3dLRzQwNlNmVQ?oc=5"
     },
     {
-      "headline": "Two-minute savings per call is just the beginning: Spark transforms workflows with Microsoft Copilot - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-04-19T22:01:58.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "Two-minute savings per call is just the beginning: Spark transforms workflows with Microsoft Copilot &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVFrWXVjSFppNGlROWlKLXFMNWNYbGE2RVNpSVplcjlxM3NQS2JTSkkxcjdDN3JqLUZtYXdaOXBvREw2djR3bGZ4Q1k1UXQtenpmakd2NUJ1NXdwa0ZNS2pBZzRkcXlmcDBKdWRZQlJCS2Z3dVJHbkMzMXQ4MUdaNk41OG5NZE1CUkMzeElWVFVKSm1QQjllTEI4b2RSSUk?oc=5"
-    },
-    {
-      "headline": "OpenAI’s existential questions - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-19T21:24:06.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s existential questions &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GNTBaRHVtRHlzdUhndlJLNDN6dG84alhqTWVWUkF1RGk0c3NDMXd6OEdGdlNsa2l2TVBwR0loWEFadGVrMF9CTDJLVVhtUmdJcWNVbE9mczdacERKckRZYkRlTnF1VTJuTTRiQ28teC1PZw?oc=5"
+      "headline": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price. - The New Stack",
+      "source": "The New Stack",
+      "timestamp": "2026-04-18T16:43:02.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price. &nbsp;&nbsp; The New Stack",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MOEVKcktkQmpETHFkOVhIZy1zOFM5NmdoSXYtSGlPcmY2Z0x5MGJjbWFkRHVRZEl1SUJhSEJ1ckhjUEhGSEM5UGVxQkQ5cV9KWlU2RXlqckh0Q1p5TGxKOFpZclA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "A Token Flaw Turned Azure's AI Agent Into a Spy - GovInfoSecurity",
-        "source": "GovInfoSecurity",
-        "timestamp": "2026-04-20T17:05:51.000Z",
-        "impact": "LOW",
+        "headline": "Charting Aotearoa’s digital horizon: a new chapter in innovation, partnership, and growth - Microsoft Source",
+        "source": "Microsoft Source",
+        "timestamp": "2026-04-20T17:16:34.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmtacG0yZnRCWWZUdy0xNElpb1kwQ0VoSXdDZzJkaGtRWXdyTXBDWU9zR1dxbkZ5VWZneU00cnZxaGhQdl9KaE9ISDV3Vk9xcG1QOXd6TVJvWm84cThkQXlSN1gyTGRod09hUnphSWdrT2NOTmRFUEtNTmhTbTk5VEg2WXVDT1l6Ui1pZVNrcGN0dw?oc=5",
+        "summary": "Charting Aotearoa’s digital horizon: a new chapter in innovation, partnership, and growth &nbsp;&nbsp; Microsoft Source"
+      },
+      {
+        "headline": "A Token Flaw Turned Azure's AI Agent Into a Spy - BankInfoSecurity",
+        "source": "BankInfoSecurity",
+        "timestamp": "2026-04-20T17:10:12.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlBqd3BhR2NFLVRkM01hWGExdGlwd3htM3JkWEdQTjUtTkR5ZzFpTTRUcHZaaGJ0cmVGYmFEYXRoVjBXYXVOYUpXZ3dxM2FEdWxiazdqd3dRdW5vTDFnR2RFTEExeVI0cUJJMnItNmFRS051WWJGclJJNHFWOXdZWk14WmY0RDU0Q3c?oc=5",
-        "summary": "A Token Flaw Turned Azure's AI Agent Into a Spy &nbsp;&nbsp; GovInfoSecurity"
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd01QVTNqN2dmMjZWWkhtTDBWeTR4ci1sMnZwWk1MTnFsNXV1MjUwT1kzbS02cE52dE54NTVtd0JtSGhfbmhEZkhFSFV4OHYwS1FOT0VWaUE3NkRnWUhWM3hSdUZmWFpoTFBlcU5pekVyMng3MXQ2dUlZdDczd3htRzUzejl0ekVBWWdB?oc=5",
+        "summary": "A Token Flaw Turned Azure's AI Agent Into a Spy &nbsp;&nbsp; BankInfoSecurity"
       },
       {
         "headline": "Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? - The New York Times",
@@ -158,15 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlJnSnRSZTg5YzIyd0FhT0dtQUFVSnJCR0hxdzFZVTlFVk5DZklzQ25GQlhHRy0zclpWcW1YTm4wcUM3MEFxMFI3SGU1bVZ1U0JpV3l6aVNFR3J6SGExNUExWUNhelc4cVF3bFA4R0xTc2pWcFZJMEVUZDNtRFlhYUJxeHpOcDEzYXpfWUhTbm5QVjcxT2pIbldqUkUxRzNPbDQ0ZW41c2Z6RkhqMk5JZjF6cW9USVNH?oc=5",
         "summary": "Schneider Electric Expands Agentic Manufacturing Capabilities with Microsoft Azure AI at Hannover Messe 2026 &nbsp;&nbsp; ARCweb.com"
-      },
-      {
-        "headline": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain - The Hacker News",
-        "source": "The Hacker News",
-        "timestamp": "2026-04-20T10:42:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtRF9YSE9CZy02UXJUb01la20wVzlFZVVJMGhpUGk1NXRFYlZoVjg3cE1pQWltMllNblFBaHI3cDhYTWVnSjk2OFRtaTVYMm51VjFNQ2djRUFkWkd1Rnl1VjdrX2ZtdGRKRzZfSzA5TXF6ZmotX2Q4bVJpUG11dw?oc=5",
-        "summary": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain &nbsp;&nbsp; The Hacker News"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,14 +190,14 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
