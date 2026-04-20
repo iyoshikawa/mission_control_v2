@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-20T15:19:11.901Z",
+    "generatedAt": "2026-04-20T17:10:03.334Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI's GPT-Rosalind targets drug discovery research - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-04-20T14:58:23.000Z",
-      "impact": "WATCH",
+      "headline": "A Token Flaw Turned Azure's AI Agent Into a Spy - GovInfoSecurity",
+      "source": "GovInfoSecurity",
+      "timestamp": "2026-04-20T17:05:51.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "A Token Flaw Turned Azure's AI Agent Into a Spy &nbsp;&nbsp; GovInfoSecurity",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlBqd3BhR2NFLVRkM01hWGExdGlwd3htM3JkWEdQTjUtTkR5ZzFpTTRUcHZaaGJ0cmVGYmFEYXRoVjBXYXVOYUpXZ3dxM2FEdWxiazdqd3dRdW5vTDFnR2RFTEExeVI0cUJJMnItNmFRS051WWJGclJJNHFWOXdZWk14WmY0RDU0Q3c?oc=5"
+    },
+    {
+      "headline": "Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-20T15:00:13.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI's GPT-Rosalind targets drug discovery research &nbsp;&nbsp; qz.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xd1JjYllLYmdLM09UdFRwdlhqXzdxY1NuUlVZa0NWSFUzN1NlQ0hyS1prYXkzVFRZYS03UVg5cy1HVUpNM3dxS1RLazV4ak9VVlJyTFBqUWsyczl3bDdEZXVLaE9iNXhzQ3laMGZyR1M?oc=5"
+      "summary": "Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IdjBjVFMzUkd6T0ZnM0N4NmRDV1dTcmFCOVlTdTBEUncwb3V5QWJpbS1IMEtDbXFpUnVIZ2MtUERLRnBXYjFLZFBkYUo1RldVSDR5R0ZLTnFtVU45M3dfMXZyTm9ucS1CR3dGS1FvX0hyd1pKeXh3?oc=5"
     },
     {
       "headline": "OpenAI Takes Aim at Google with New Image Model - The Information",
@@ -30,16 +40,6 @@
       "summary": "OpenAI Takes Aim at Google with New Image Model &nbsp;&nbsp; The Information",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2Mxclc0YUZKWHR5dGc4VG5sTUZZc3VGVTBHYVBiTUtZR1J0SjFtNXFITmh1bkVRZTJDVUNvTDRNYUdJTDV3c21lWjZIUVVsWlhHS2RxLUoyVXJMLVlxb0pUb3Y3MVc2dVUzWEFtMWZwVGhJYnJCVUg2alQweS1LZ3A3OEtwdjBSQkVObWhHU3V5djdwUUxR?oc=5"
-    },
-    {
-      "headline": "Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-04-20T13:31:16.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjZVT21SM25Kd0c4dXlFb0dwdElqTXRVRzh3SjNTc0lHMkZBdzJMN05JZlpwVHR0bzJMTHM4Y2p1VWVyeFVFMTNnQjQya2xlOWh2d2g4dm5RYlNybkFQZ1czdFZhc3lZZWVyQUxhbmRtSWF3YjdiMnQ4QWEtZFBMd3cxTndwV1AxbURfM3Z0eWlRSlg5SVh5U0NCOUkxM29MckVlY0lvWFZsbGF0YmZVb1lUVkY5QVdpVXdIWl9qUUNKQWFVbGVUZ3hpSUw?oc=5"
     },
     {
       "headline": "Google Creates Strike Team to Improve Coding Models - The Information",
@@ -102,26 +102,35 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVFrWXVjSFppNGlROWlKLXFMNWNYbGE2RVNpSVplcjlxM3NQS2JTSkkxcjdDN3JqLUZtYXdaOXBvREw2djR3bGZ4Q1k1UXQtenpmakd2NUJ1NXdwa0ZNS2pBZzRkcXlmcDBKdWRZQlJCS2Z3dVJHbkMzMXQ4MUdaNk41OG5NZE1CUkMzeElWVFVKSm1QQjllTEI4b2RSSUk?oc=5"
     },
     {
-      "headline": "Paulson's Bond Demand Warning, Cuban's Healthcare Bank Account, Meta's AI-Focused Layoffs: This Week In E - Benzinga",
-      "source": "Benzinga",
-      "timestamp": "2026-04-19T10:01:21.000Z",
-      "impact": "HIGH",
+      "headline": "OpenAI’s existential questions - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-04-19T21:24:06.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Paulson's Bond Demand Warning, Cuban's Healthcare Bank Account, Meta's AI-Focused Layoffs: This Week In E &nbsp;&nbsp; Benzinga",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYXpfOGlaWm9LSU1vTkNGeVZmSUJmMFo3THRjZmR2TXYxTVFJTUNmZEJBTnlQSk9fcUdSM09WazhRVGFPbnZ3OWlrNHlEN1gyMHY2M2hXMFlPbFJSNnJsSTlTX0lJZEpBZ2VONk5wdUdfaDBFcXd0V3lDOFQ2Zm5tQWM4WFZzWVZHTjNLVkZvdmhmbExhRUJkN21LUElIb0x4NGdja2s1U3JrU0x1cjdLWFhVR0F3alJkclNnemZneEd1UnBuU0FZU1d2X3VkN1pfYXFjZUxDTHJmb1czZzBQNXZQZHdodWFRcFYwYVVGdTF3ZU44REY3aV9GdUJid3Z4bTRQOXZ3aVI?oc=5"
+      "summary": "OpenAI’s existential questions &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GNTBaRHVtRHlzdUhndlJLNDN6dG84alhqTWVWUkF1RGk0c3NDMXd6OEdGdlNsa2l2TVBwR0loWEFadGVrMF9CTDJLVVhtUmdJcWNVbE9mczdacERKckRZYkRlTnF1VTJuTTRiQ28teC1PZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI's GPT-Rosalind targets drug discovery research - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-04-20T14:58:23.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xd1JjYllLYmdLM09UdFRwdlhqXzdxY1NuUlVZa0NWSFUzN1NlQ0hyS1prYXkzVFRZYS03UVg5cy1HVUpNM3dxS1RLazV4ak9VVlJyTFBqUWsyczl3bDdEZXVLaE9iNXhzQ3laMGZyR1M?oc=5",
-        "summary": "OpenAI's GPT-Rosalind targets drug discovery research &nbsp;&nbsp; qz.com"
+        "headline": "A Token Flaw Turned Azure's AI Agent Into a Spy - GovInfoSecurity",
+        "source": "GovInfoSecurity",
+        "timestamp": "2026-04-20T17:05:51.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlBqd3BhR2NFLVRkM01hWGExdGlwd3htM3JkWEdQTjUtTkR5ZzFpTTRUcHZaaGJ0cmVGYmFEYXRoVjBXYXVOYUpXZ3dxM2FEdWxiazdqd3dRdW5vTDFnR2RFTEExeVI0cUJJMnItNmFRS051WWJGclJJNHFWOXdZWk14WmY0RDU0Q3c?oc=5",
+        "summary": "A Token Flaw Turned Azure's AI Agent Into a Spy &nbsp;&nbsp; GovInfoSecurity"
+      },
+      {
+        "headline": "Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-20T15:00:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IdjBjVFMzUkd6T0ZnM0N4NmRDV1dTcmFCOVlTdTBEUncwb3V5QWJpbS1IMEtDbXFpUnVIZ2MtUERLRnBXYjFLZFBkYUo1RldVSDR5R0ZLTnFtVU45M3dfMXZyTm9ucS1CR3dGS1FvX0hyd1pKeXh3?oc=5",
+        "summary": "Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer? &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "OpenAI Takes Aim at Google with New Image Model - The Information",
@@ -131,15 +140,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2Mxclc0YUZKWHR5dGc4VG5sTUZZc3VGVTBHYVBiTUtZR1J0SjFtNXFITmh1bkVRZTJDVUNvTDRNYUdJTDV3c21lWjZIUVVsWlhHS2RxLUoyVXJMLVlxb0pUb3Y3MVc2dVUzWEFtMWZwVGhJYnJCVUg2alQweS1LZ3A3OEtwdjBSQkVObWhHU3V5djdwUUxR?oc=5",
         "summary": "OpenAI Takes Aim at Google with New Image Model &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-04-20T13:31:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjZVT21SM25Kd0c4dXlFb0dwdElqTXRVRzh3SjNTc0lHMkZBdzJMN05JZlpwVHR0bzJMTHM4Y2p1VWVyeFVFMTNnQjQya2xlOWh2d2g4dm5RYlNybkFQZ1czdFZhc3lZZWVyQUxhbmRtSWF3YjdiMnQ4QWEtZFBMd3cxTndwV1AxbURfM3Z0eWlRSlg5SVh5U0NCOUkxM29MckVlY0lvWFZsbGF0YmZVb1lUVkY5QVdpVXdIWl9qUUNKQWFVbGVUZ3hpSUw?oc=5",
-        "summary": "Amazon expected to report a strong quarter on the backs of Anthropic's Claude, AI demand &nbsp;&nbsp; Yahoo Finance"
       },
       {
         "headline": "Google Creates Strike Team to Improve Coding Models - The Information",
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
