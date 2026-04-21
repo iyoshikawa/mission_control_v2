@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-21T14:48:35.028Z",
+    "generatedAt": "2026-04-21T16:13:16.454Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,29 +12,59 @@
   },
   "newsFeed": [
     {
-      "headline": "Florida’s Attorney General announces criminal investigation into OpenAI - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-04-21T14:29:00.000Z",
+      "headline": "Florida attorney general targets OpenAI over ChatGPT’s role in FSU campus shooting - News4JAX",
+      "source": "News4JAX",
+      "timestamp": "2026-04-21T16:03:01.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Florida’s Attorney General announces criminal investigation into OpenAI &nbsp;&nbsp; NBC News",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnNHZTZ2c2pzUHh5LVFYcy1KSXB3dlpaWFhGYVBrOHVjWkl3dHBySzdvcERlVFMwaUZoOHBORTk3aUNDdkotOWRNeV9ONVlWNVQ5TnZKWUc0TzA4WFVhT3Z0VkdpVllKczBPNTZFZ3FER21pamlQb0ZFdkFoeWgycEt4QUdBdVBLQUV0ZXdROXZfWDI1cmo5cEZEeDZZZWFacEVfUDRBckptdkRUVzNVb0JHYl8xWlE?oc=5"
+      "category": "models",
+      "summary": "Florida attorney general targets OpenAI over ChatGPT’s role in FSU campus shooting &nbsp;&nbsp; News4JAX",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnVoWU5QcTlSWHB4aFVZcHExRVF6QVhSZnN4T0FlVnAtZlZ3cHZ5aTRVM0dYQUNVZGc1dzJvbmEtVktxU2M0NVF3bEpoT1dTa2p6Skd4U3ZFUEdtRDIxSV9IUHNSb3ZjREtCZVJ1S2JrV0pISTBsREtjb1B6aTBfUVh1bHdLRmY1eDVHQ0pJOEktUGdiVFllYmJzRWo0T3lSRlZXWFE1WHZIVmR0Mlk0NDBuMDgyOS1RNzRNUVpxYkQ5Z1k3ZFdfZg?oc=5"
     },
     {
-      "headline": "OpenAI partners with consultancies to expand AI coding tool - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-04-21T14:13:26.000Z",
+      "headline": "OpenAI CEO Sam Altman Breaks Silence on AI in Hollywood - Yahoo",
+      "source": "Yahoo",
+      "timestamp": "2026-04-21T15:48:24.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI partners with consultancies to expand AI coding tool &nbsp;&nbsp; qz.com",
+      "summary": "OpenAI CEO Sam Altman Breaks Silence on AI in Hollywood &nbsp;&nbsp; Yahoo",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vLU5FaG94czE5bjB2LXFFc2c2aFFDVzlpOThpLXVTR0V1WkU4UUF6RzVydnJEbEdZOWtpLW05TkJLc3p3aXBJT3lkNmI2Ukh6ZHAzLXM3UndoZjhwR1RmRmtJVVBOdWpLT25FNXRXUWNjb0tqY2FsWg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGwzUmFHUU5fUFRLeFNqNUJnZGxaaklPTUJfVE5uR3dRaVNFTV9GYU9RTklHSU1yVFFNbHY3Q2wzZEUyS0c2QmQ5OGw0Q1hFRFBYclh6NzlGR3QxSm10Qmp3M3BUOGp1ZktCR0RDVGFva3F1VWEwR1VyV2x4OEIyVW5PWkd5dEFhOVdvUExOTVN5U19xNGx6eDNqTQ?oc=5"
+    },
+    {
+      "headline": "Trump administration, Anthropic may be close to deal on Pentagon standoff - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-04-21T14:02:10.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Trump administration, Anthropic may be close to deal on Pentagon standoff &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGJiQjV4VHh0Q0JubjR1T0NQeHJwaXduM1FYTFZRWFlTdVpiMWgxTzlZb2JmU0cwLXVIci13OEQ2WDhNWE1lM0FDclN5VTNtSjNwZVJIVVdlczhqSWMyS1pHZnNlb3BxQWozcGFSUE4zcUluRDhXLW1ncWZLbXExbkNPcjVZQU5lcjhBNTR0d3lNX0pEdDFZRDdiQzZNRnU3N2hnLWxSeXBncjV1WG9KWFRHdmpOUjJhZzluZVRlU2hzbTh4UFk3dw?oc=5"
+    },
+    {
+      "headline": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-21T12:59:10.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTENzTmtWZ2dnaHFHekpHeVljeDVhZUkzOUh5RnFGZHg4VXBoaktLSTFsdGpjMDZVbTJXTVV6TEF0dExnSE1fRVpuUERPQWFydjIybkJTblBjZ0NCMVczcWlmd2Y5TXRYU1VSUzBJaVBqVElYRkhkTDZENzlHYWVhWS1R0gGHAUFVX3lxTE5aNnBKYjlIdXRuSXhUNEN3NlpFOTdLbkVRSGZJZnB3emh6WVk0ZEdqVG9lR0owMzlnT2xCOXg5M0FrbVRpNDdmb05IdjRtVER4YkdmcUxDOTZtemVXR09ycUdkZXhhQklObkdEeWNZbDNHR1hVOVF1c1U3a0hyaTYyWVh5ZmFtRQ?oc=5"
+    },
+    {
+      "headline": "Exclusive | OpenAI Is Working With Consultants to Sell Codex - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-21T11:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Exclusive | OpenAI Is Working With Consultants to Sell Codex &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjQ3aE5nZEpnQjk1RE5nS3laMnJMX1VSRXZwQ04yc2pvUTFxVm9QMHNtamx6ZEJSYXRmZXlxZXpXZjVaRVdOMHNWeWMzT0dqbVNSMDNqQ0FqbE14UUhxczNQSUNqNHhZQU83NjdETVZvWFRfbXd1cGZiak1JNjlrOXFBMUFXbEs0cVM0S3VNcFk5M1k?oc=5"
     },
     {
       "headline": "Google only lets a select few use Claude — and it's causing a stir inside - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-04-21T09:00:00.000Z",
+      "timestamp": "2026-04-21T09:00:04.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Google only lets a select few use Claude — and it's causing a stir inside &nbsp;&nbsp; Business Insider",
@@ -80,107 +110,77 @@
       "summary": "Riverty builds AI-ready customer service foundation in 68 days with Dynamics 365 &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmNwU1Brd0Zfb0owV3U0M0RZTV94ZURJNHF5NmlsZzhmdFAtdUhIMThuSllZVjZYOG5hTUdUVHNOZnJwbUJpLU9CMzJMRWphVXJzV09zdTlIWXVzemdFU1owbkdub0tNN3ZKZV9IZjZmSGNxS3BoRWdrNXpseWtXUUtMVkFPX3dDYWVCS0RCVQ?oc=5"
-    },
-    {
-      "headline": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-04-20T20:50:10.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute &nbsp;&nbsp; Anthropic Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal &nbsp;&nbsp; CNBC What Wall Street is saying about Amazon's deepening ties with Anthropic &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdy1yMjdvS1NvTl9pS3h1ck56aG0wRERDMy0yeDJJNmdJdEd0Z3I4N0xYS3RlY3AxWmtBR25FSkpPUWNrM0M1U1RxT0lPTXhja1prTGw4RGNNOHIweHdvcXd3Nk1DUQ?oc=5"
-    },
-    {
-      "headline": "Report: Google DeepMind builds “strike team” to catch up to Anthropic models - Sherwood News",
-      "source": "Sherwood News",
-      "timestamp": "2026-04-20T17:28:21.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Report: Google DeepMind builds “strike team” to catch up to Anthropic models &nbsp;&nbsp; Sherwood News",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGdhVlZ3dWNGSGhqUFpQZkNVR1Z0a2pleUdWazA3SVBTTFJoX05LOWF4aEJQenBLV29IVS1EdWFGNVMyYjFrdVI3a1V5bGphY2Z0emszck5WNGd4TzNEM2otNFJVNUY1T0JNZWNUNDg5c2VpY1ZyZ0JYaHBsZHVtdXNudjVSaW5WWWtOOHdDeU96SEM5SlZibHZR?oc=5"
-    },
-    {
-      "headline": "Google builds elite team to close the coding gap with Anthropic - the-decoder.com",
-      "source": "the-decoder.com",
-      "timestamp": "2026-04-20T16:36:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google builds elite team to close the coding gap with Anthropic &nbsp;&nbsp; the-decoder.com",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0dnOW1tVlpjeVdrbVk4OHVZUU83NnZKZF90R0VHRXNmT0JvcE13V0hYcnJJYTVTSi1EUDNGVGpWSjV6bGtnZ2xTZU1Vbk56bkxuVmRmYXVIZ296TUhrdkF2bEpPTEF3YzBKcXJhRlg4RTZNMVh6djY0TWM1WmlSRzZXdm9md2xPS2M1dGlYWFhPQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Florida’s Attorney General announces criminal investigation into OpenAI - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-04-21T14:29:00.000Z",
+        "headline": "Florida attorney general targets OpenAI over ChatGPT’s role in FSU campus shooting - News4JAX",
+        "source": "News4JAX",
+        "timestamp": "2026-04-21T16:03:01.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnNHZTZ2c2pzUHh5LVFYcy1KSXB3dlpaWFhGYVBrOHVjWkl3dHBySzdvcERlVFMwaUZoOHBORTk3aUNDdkotOWRNeV9ONVlWNVQ5TnZKWUc0TzA4WFVhT3Z0VkdpVllKczBPNTZFZ3FER21pamlQb0ZFdkFoeWgycEt4QUdBdVBLQUV0ZXdROXZfWDI1cmo5cEZEeDZZZWFacEVfUDRBckptdkRUVzNVb0JHYl8xWlE?oc=5",
-        "summary": "Florida’s Attorney General announces criminal investigation into OpenAI &nbsp;&nbsp; NBC News"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnVoWU5QcTlSWHB4aFVZcHExRVF6QVhSZnN4T0FlVnAtZlZ3cHZ5aTRVM0dYQUNVZGc1dzJvbmEtVktxU2M0NVF3bEpoT1dTa2p6Skd4U3ZFUEdtRDIxSV9IUHNSb3ZjREtCZVJ1S2JrV0pISTBsREtjb1B6aTBfUVh1bHdLRmY1eDVHQ0pJOEktUGdiVFllYmJzRWo0T3lSRlZXWFE1WHZIVmR0Mlk0NDBuMDgyOS1RNzRNUVpxYkQ5Z1k3ZFdfZg?oc=5",
+        "summary": "Florida attorney general targets OpenAI over ChatGPT’s role in FSU campus shooting &nbsp;&nbsp; News4JAX"
       },
       {
-        "headline": "OpenAI partners with consultancies to expand AI coding tool - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-04-21T14:13:26.000Z",
+        "headline": "OpenAI CEO Sam Altman Breaks Silence on AI in Hollywood - Yahoo",
+        "source": "Yahoo",
+        "timestamp": "2026-04-21T15:48:24.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vLU5FaG94czE5bjB2LXFFc2c2aFFDVzlpOThpLXVTR0V1WkU4UUF6RzVydnJEbEdZOWtpLW05TkJLc3p3aXBJT3lkNmI2Ukh6ZHAzLXM3UndoZjhwR1RmRmtJVVBOdWpLT25FNXRXUWNjb0tqY2FsWg?oc=5",
-        "summary": "OpenAI partners with consultancies to expand AI coding tool &nbsp;&nbsp; qz.com"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGwzUmFHUU5fUFRLeFNqNUJnZGxaaklPTUJfVE5uR3dRaVNFTV9GYU9RTklHSU1yVFFNbHY3Q2wzZEUyS0c2QmQ5OGw0Q1hFRFBYclh6NzlGR3QxSm10Qmp3M3BUOGp1ZktCR0RDVGFva3F1VWEwR1VyV2x4OEIyVW5PWkd5dEFhOVdvUExOTVN5U19xNGx6eDNqTQ?oc=5",
+        "summary": "OpenAI CEO Sam Altman Breaks Silence on AI in Hollywood &nbsp;&nbsp; Yahoo"
+      },
+      {
+        "headline": "Trump administration, Anthropic may be close to deal on Pentagon standoff - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-04-21T14:02:10.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGJiQjV4VHh0Q0JubjR1T0NQeHJwaXduM1FYTFZRWFlTdVpiMWgxTzlZb2JmU0cwLXVIci13OEQ2WDhNWE1lM0FDclN5VTNtSjNwZVJIVVdlczhqSWMyS1pHZnNlb3BxQWozcGFSUE4zcUluRDhXLW1ncWZLbXExbkNPcjVZQU5lcjhBNTR0d3lNX0pEdDFZRDdiQzZNRnU3N2hnLWxSeXBncjV1WG9KWFRHdmpOUjJhZzluZVRlU2hzbTh4UFk3dw?oc=5",
+        "summary": "Trump administration, Anthropic may be close to deal on Pentagon standoff &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-21T12:59:10.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTENzTmtWZ2dnaHFHekpHeVljeDVhZUkzOUh5RnFGZHg4VXBoaktLSTFsdGpjMDZVbTJXTVV6TEF0dExnSE1fRVpuUERPQWFydjIybkJTblBjZ0NCMVczcWlmd2Y5TXRYU1VSUzBJaVBqVElYRkhkTDZENzlHYWVhWS1R0gGHAUFVX3lxTE5aNnBKYjlIdXRuSXhUNEN3NlpFOTdLbkVRSGZJZnB3emh6WVk0ZEdqVG9lR0owMzlnT2xCOXg5M0FrbVRpNDdmb05IdjRtVER4YkdmcUxDOTZtemVXR09ycUdkZXhhQklObkdEeWNZbDNHR1hVOVF1c1U3a0hyaTYyWVh5ZmFtRQ?oc=5",
+        "summary": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Exclusive | OpenAI Is Working With Consultants to Sell Codex - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-04-21T11:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjQ3aE5nZEpnQjk1RE5nS3laMnJMX1VSRXZwQ04yc2pvUTFxVm9QMHNtamx6ZEJSYXRmZXlxZXpXZjVaRVdOMHNWeWMzT0dqbVNSMDNqQ0FqbE14UUhxczNQSUNqNHhZQU83NjdETVZvWFRfbXd1cGZiak1JNjlrOXFBMUFXbEs0cVM0S3VNcFk5M1k?oc=5",
+        "summary": "Exclusive | OpenAI Is Working With Consultants to Sell Codex &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Google only lets a select few use Claude — and it's causing a stir inside - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-04-21T09:00:00.000Z",
+        "timestamp": "2026-04-21T09:00:04.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGF6eGR1X09iRmQybHZ1aFMzRF90T3pLRDlfMWV4dVNjT1d1U1k0blpEWTBSMS1xeHYwNnBQQ0xCb2Z3bWJrUEs1OERQMF9YanBtV2ZlQ3dGN0s0M2syd2RlSXROeWpSLWFDMEJkMXA5bFJSeFA4OG5RY3FfNEtSdkJZVkhZVW1ZcHBuSjNweFc?oc=5",
         "summary": "Google only lets a select few use Claude — and it's causing a stir inside &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
-        "source": "Oracle Blogs",
-        "timestamp": "2026-04-21T08:24:19.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdnRGlzZW9TdldwcTZpM09Ca2ZEQm41QW5sLWZCVXRSRk5tekswVjRGYjdreGZaT2tfR3ZadU1zLW92NHFxUk5mQ3Q2ZmlROEgxaVZiQTRiU0E1ZGZmVC1fRW10M0t5cC1EdDBGWG9TRF9YYzhDVGRQa0VhaVUtVFcxbUx4QUVOWElqMTdlcVJ0Q2hL?oc=5",
-        "summary": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta &nbsp;&nbsp; Oracle Blogs"
-      },
-      {
-        "headline": "Pairing geotechnical data with AI helps New Zealand to build better - Microsoft Source",
-        "source": "Microsoft Source",
-        "timestamp": "2026-04-20T23:06:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpFYnpYQll5cG5yN1JSU05JMFFvME9DT25nZ0VzVHZUMXpnSlY4Y2plN0ZhZk5lUDZwRXVlUUdzV2hJSlpCRzlhSEJWTzlHUTVHRzhUcW5qVnJ4bm9GQ2JheWVMeEIwTEVjVEoxcEFQNDlkRGd1S1YtdllHTFRYWWlkd3hhNFJEd2RtdE5lOUJfR1Q4N2UyRTZOVUNwQU92M0MtS0pqdGZZNG9NMmlmNWVZN1lzUkE?oc=5",
-        "summary": "Pairing geotechnical data with AI helps New Zealand to build better &nbsp;&nbsp; Microsoft Source"
-      },
-      {
-        "headline": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ - Variety",
-        "source": "Variety",
-        "timestamp": "2026-04-20T21:35:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDJyUDc4Y2dScnlMZFdiRG1yS3ZnZUVqVDBOdUItak14UVNLZkd6TzdMZmxrN18zTXNhOWtwNHdrazRjNUUxbk1RZnBSLVRtNnJmUVdSWmppMEM1NjRva1pTYV9NUW1IZlpsc185NXRZbGtpZjl4WkVWM0ZIT1JTXy16OFRBTFRobDBHeUdZcGtjbDh6Mjh6RkNmaVp5SU1ORjNuS1ZSSlp3NVBSUHI4WHNiMGs5SjNoNVZvSEw1WS1xZmVNZnY3QlFFZFhNcGZkTFpSTERuT1pRSmNqeDBhOW0zOA?oc=5",
-        "summary": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ &nbsp;&nbsp; Variety"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
