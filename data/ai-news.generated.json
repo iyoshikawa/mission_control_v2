@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-21T20:05:29.513Z",
+    "generatedAt": "2026-04-21T21:50:17.239Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,74 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic outspends OpenAI in biggest-ever lobbying quarter - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-21T20:29:54.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic outspends OpenAI in biggest-ever lobbying quarter &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczV3dXphQU9aMGRwWjV1X1p6ckNlRVZZQ1lPalNFM21GZm8wc1pMWjNkR1prTmhDYWhIZ1JNcWFTRVVKWmk2NlpueW4zaVdHanBRZEJRTVI3Y19VbzJERU9rVmNia0NRX190U1MzdGZYeEMxNDl5djFEempyNWVpMUtLUkY2QmE0cEw4OQ?oc=5"
+    },
+    {
       "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-21T19:38:17.000Z",
+      "timestamp": "2026-04-21T20:04:08.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; Reuters",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5"
+    },
+    {
+      "headline": "Report: Meta will train AI agents by tracking employees’ mouse, keyboard use - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-04-21T19:30:52.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Report: Meta will train AI agents by tracking employees’ mouse, keyboard use &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVBPVmRwTlR6b2ZqWkYyVjlObzZOWWNQQi16MVQ3YzU3RWlmRk5rbFpQYU1CTERpWmNfYk04eGtuRWZHZFhlbHZRQTBIc0dJVElfMk5McEdvTHF1c2pvMUlWWmdIV2E0UkRnTHNWS0hHaFhNU3VPMUgtV3FYZGRlZEM0R21jU3k5OTYwb1d2b1hQX283VFRRYWZMUEtKdkRCWTJuX0hlLXRYUFE?oc=5"
+    },
+    {
+      "headline": "Read the full memo behind Meta's AI employee tracking rollout - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-04-21T19:17:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Read the full memo behind Meta's AI employee tracking rollout &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG1DVnRheXU2Q3lUaTFvQ3hvUjlLb0drcEpfdHlpbklMT29NazIzV1VDeVRvSUV4eUdZcVRjY2dMSE5Oc1N6RkdiVmtsQlJpR01vWDMtakFId0k4RGF1WTk1TGpRS1dPUWlnRVQycnkwZmlreVdiRldZMk5qWjNERWxuN09qTVpxeVNNUE1kQTRzdEFBWXc4?oc=5"
+    },
+    {
+      "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting - BBC",
+      "source": "BBC",
+      "timestamp": "2026-04-21T19:15:34.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI faces criminal probe over role of ChatGPT in shooting &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzhxOThXRDlYNWI4TFJ2TFlsQlNhdG5kVm5Ta0M1YkxzLTdyNWcyeHB4aHlsWkF5TkliRXY2eDVWZ2NaeTQteGhzaUFBVzNLN1NNYzE4Y2FwUQ?oc=5"
+    },
+    {
+      "headline": "Meta will start tracking employees’ screens and keystrokes to train AI tools - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-21T18:53:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta will start tracking employees’ screens and keystrokes to train AI tools &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelRJSFlmSGozalM1YjNxYkU5eWF3UGdhZE5DeXRLNzJNWVIydW1aYlJSM2JENE9UQmRkdEdzZzNTMHdIcVVfbktiaUFSZTJNZWQ2SVJXR1RKRlVZLWhlWXdwWUk5MjBXOENTU1Z3N3JyQTZLS2Nsdm5jUktnZ2xVcXd4dFhXSzFtRENqU3ZUYlh0dF9jd1p3RXlUNmMtNHl1ejdJ?oc=5"
+    },
+    {
+      "headline": "Deep Research Max: a step change for autonomous research agents - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-04-21T16:31:38.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "Deep Research Max: a step change for autonomous research agents &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanRDUGY3YUZzNjg4dTZHNExRdzV3dVZiMXhqejg2RXNoenVQd0EtZVZ1UVNDRkFFQjZXRHBBbGREWFhSdXBPdnhBTVN5d1lfenBBTkMtLXRJanlSM2htSjBsQzBZVzI5ODJ6bmpIbGQwYmpsWHBlWVR5ZkRNVkJpY2hFbkRvbDdheW9peDJrc2R1V0VNXzdCdVFjclVYaGtrSTNxdGpFb2NudldHM1E?oc=5"
     },
     {
       "headline": "Florida's attorney general announces criminal investigation into OpenAI - NBC News",
@@ -32,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnNHZTZ2c2pzUHh5LVFYcy1KSXB3dlpaWFhGYVBrOHVjWkl3dHBySzdvcERlVFMwaUZoOHBORTk3aUNDdkotOWRNeV9ONVlWNVQ5TnZKWUc0TzA4WFVhT3Z0VkdpVllKczBPNTZFZ3FER21pamlQb0ZFdkFoeWgycEt4QUdBdVBLQUV0ZXdROXZfWDI1cmo5cEZEeDZZZWFacEVfUDRBckptdkRUVzNVb0JHYl8xWlE?oc=5"
     },
     {
-      "headline": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-21T12:59:10.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTENzTmtWZ2dnaHFHekpHeVljeDVhZUkzOUh5RnFGZHg4VXBoaktLSTFsdGpjMDZVbTJXTVV6TEF0dExnSE1fRVpuUERPQWFydjIybkJTblBjZ0NCMVczcWlmd2Y5TXRYU1VSUzBJaVBqVElYRkhkTDZENzlHYWVhWS1R0gGHAUFVX3lxTE5aNnBKYjlIdXRuSXhUNEN3NlpFOTdLbkVRSGZJZnB3emh6WVk0ZEdqVG9lR0owMzlnT2xCOXg5M0FrbVRpNDdmb05IdjRtVER4YkdmcUxDOTZtemVXR09ycUdkZXhhQklObkdEeWNZbDNHR1hVOVF1c1U3a0hyaTYyWVh5ZmFtRQ?oc=5"
-    },
-    {
       "headline": "Exclusive | OpenAI Is Working With Consultants to Sell Codex - WSJ",
       "source": "WSJ",
       "timestamp": "2026-04-21T11:30:00.000Z",
@@ -52,129 +102,79 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjQ3aE5nZEpnQjk1RE5nS3laMnJMX1VSRXZwQ04yc2pvUTFxVm9QMHNtamx6ZEJSYXRmZXlxZXpXZjVaRVdOMHNWeWMzT0dqbVNSMDNqQ0FqbE14UUhxczNQSUNqNHhZQU83NjdETVZvWFRfbXd1cGZiak1JNjlrOXFBMUFXbEs0cVM0S3VNcFk5M1k?oc=5"
     },
     {
-      "headline": "Opinion | Why Are Palantir and OpenAI Scared of Alex Bores? - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-21T09:04:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Opinion | Why Are Palantir and OpenAI Scared of Alex Bores? &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZG5kS1g5bjUyRVpqbG9ZOXF2aW5YMl83SUhVVFVEY0hKbG0tWkpsb2l4U1BYdkZxd1Vlci1yUldteVJTNkRIclpaSWc2QnkzZ2tTWUxQSnhZS1Vkc3VBcDdrNFV1RnVpZndoSk1vYjdzUzFVQXc0UHpNa0t5UDFiU1p2dw?oc=5"
-    },
-    {
       "headline": "Google only lets a select few use Claude — and it's causing a stir inside - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-04-21T09:00:00.000Z",
+      "timestamp": "2026-04-21T09:00:04.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Google only lets a select few use Claude — and it's causing a stir inside &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGF6eGR1X09iRmQybHZ1aFMzRF90T3pLRDlfMWV4dVNjT1d1U1k0blpEWTBSMS1xeHYwNnBQQ0xCb2Z3bWJrUEs1OERQMF9YanBtV2ZlQ3dGN0s0M2syd2RlSXROeWpSLWFDMEJkMXA5bFJSeFA4OG5RY3FfNEtSdkJZVkhZVW1ZcHBuSjNweFc?oc=5"
-    },
-    {
-      "headline": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
-      "source": "Oracle Blogs",
-      "timestamp": "2026-04-21T08:24:19.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta &nbsp;&nbsp; Oracle Blogs",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdnRGlzZW9TdldwcTZpM09Ca2ZEQm41QW5sLWZCVXRSRk5tekswVjRGYjdreGZaT2tfR3ZadU1zLW92NHFxUk5mQ3Q2ZmlROEgxaVZiQTRiU0E1ZGZmVC1fRW10M0t5cC1EdDBGWG9TRF9YYzhDVGRQa0VhaVUtVFcxbUx4QUVOWElqMTdlcVJ0Q2hL?oc=5"
-    },
-    {
-      "headline": "The drama between a software engineering veteran and Google is heating up — and playing out in public - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-04-20T23:57:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The drama between a software engineering veteran and Google is heating up — and playing out in public &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTZFbkF5NGtuRFB3dlpfOUdmX04wWnJvWkdqand2ZWhxMHdNZ2JFRURYQzBCTU5JSFFhTUtjcjEzSzhmaVZ2ZjZQTUUtZGZhM1dRVGQ4MktRcTFwZ0swMlB4b1VDWFo5Q04yMFkyaHJIQVNLMnpxTzEwYUNfVUs5bEJQLU1qMHlzVGFqeFlrZW1jSC0x?oc=5"
-    },
-    {
-      "headline": "Pairing geotechnical data with AI helps New Zealand to build better - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-04-20T23:06:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Pairing geotechnical data with AI helps New Zealand to build better &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpFYnpYQll5cG5yN1JSU05JMFFvME9DT25nZ0VzVHZUMXpnSlY4Y2plN0ZhZk5lUDZwRXVlUUdzV2hJSlpCRzlhSEJWTzlHUTVHRzhUcW5qVnJ4bm9GQ2JheWVMeEIwTEVjVEoxcEFQNDlkRGd1S1YtdllHTFRYWWlkd3hhNFJEd2RtdE5lOUJfR1Q4N2UyRTZOVUNwQU92M0MtS0pqdGZZNG9NMmlmNWVZN1lzUkE?oc=5"
-    },
-    {
-      "headline": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ - Variety",
-      "source": "Variety",
-      "timestamp": "2026-04-20T21:35:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ &nbsp;&nbsp; Variety",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDJyUDc4Y2dScnlMZFdiRG1yS3ZnZUVqVDBOdUItak14UVNLZkd6TzdMZmxrN18zTXNhOWtwNHdrazRjNUUxbk1RZnBSLVRtNnJmUVdSWmppMEM1NjRva1pTYV9NUW1IZlpsc185NXRZbGtpZjl4WkVWM0ZIT1JTXy16OFRBTFRobDBHeUdZcGtjbDh6Mjh6RkNmaVp5SU1ORjNuS1ZSSlp3NVBSUHI4WHNiMGs5SjNoNVZvSEw1WS1xZmVNZnY3QlFFZFhNcGZkTFpSTERuT1pRSmNqeDBhOW0zOA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Anthropic outspends OpenAI in biggest-ever lobbying quarter - Axios",
+        "source": "Axios",
+        "timestamp": "2026-04-21T20:29:54.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczV3dXphQU9aMGRwWjV1X1p6ckNlRVZZQ1lPalNFM21GZm8wc1pMWjNkR1prTmhDYWhIZ1JNcWFTRVVKWmk2NlpueW4zaVdHanBRZEJRTVI3Y19VbzJERU9rVmNia0NRX190U1MzdGZYeEMxNDl5djFEempyNWVpMUtLUkY2QmE0cEw4OQ?oc=5",
+        "summary": "Anthropic outspends OpenAI in biggest-ever lobbying quarter &nbsp;&nbsp; Axios"
+      },
+      {
         "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-04-21T19:38:17.000Z",
+        "timestamp": "2026-04-21T20:04:08.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
         "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Florida's attorney general announces criminal investigation into OpenAI - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-04-21T14:29:06.000Z",
+        "headline": "Report: Meta will train AI agents by tracking employees’ mouse, keyboard use - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-04-21T19:30:52.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnNHZTZ2c2pzUHh5LVFYcy1KSXB3dlpaWFhGYVBrOHVjWkl3dHBySzdvcERlVFMwaUZoOHBORTk3aUNDdkotOWRNeV9ONVlWNVQ5TnZKWUc0TzA4WFVhT3Z0VkdpVllKczBPNTZFZ3FER21pamlQb0ZFdkFoeWgycEt4QUdBdVBLQUV0ZXdROXZfWDI1cmo5cEZEeDZZZWFacEVfUDRBckptdkRUVzNVb0JHYl8xWlE?oc=5",
-        "summary": "Florida's attorney general announces criminal investigation into OpenAI &nbsp;&nbsp; NBC News"
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVBPVmRwTlR6b2ZqWkYyVjlObzZOWWNQQi16MVQ3YzU3RWlmRk5rbFpQYU1CTERpWmNfYk04eGtuRWZHZFhlbHZRQTBIc0dJVElfMk5McEdvTHF1c2pvMUlWWmdIV2E0UkRnTHNWS0hHaFhNU3VPMUgtV3FYZGRlZEM0R21jU3k5OTYwb1d2b1hQX283VFRRYWZMUEtKdkRCWTJuX0hlLXRYUFE?oc=5",
+        "summary": "Report: Meta will train AI agents by tracking employees’ mouse, keyboard use &nbsp;&nbsp; Ars Technica"
       },
       {
-        "headline": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-21T12:59:10.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTENzTmtWZ2dnaHFHekpHeVljeDVhZUkzOUh5RnFGZHg4VXBoaktLSTFsdGpjMDZVbTJXTVV6TEF0dExnSE1fRVpuUERPQWFydjIybkJTblBjZ0NCMVczcWlmd2Y5TXRYU1VSUzBJaVBqVElYRkhkTDZENzlHYWVhWS1R0gGHAUFVX3lxTE5aNnBKYjlIdXRuSXhUNEN3NlpFOTdLbkVRSGZJZnB3emh6WVk0ZEdqVG9lR0owMzlnT2xCOXg5M0FrbVRpNDdmb05IdjRtVER4YkdmcUxDOTZtemVXR09ycUdkZXhhQklObkdEeWNZbDNHR1hVOVF1c1U3a0hyaTYyWVh5ZmFtRQ?oc=5",
-        "summary": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Exclusive | OpenAI Is Working With Consultants to Sell Codex - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-04-21T11:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjQ3aE5nZEpnQjk1RE5nS3laMnJMX1VSRXZwQ04yc2pvUTFxVm9QMHNtamx6ZEJSYXRmZXlxZXpXZjVaRVdOMHNWeWMzT0dqbVNSMDNqQ0FqbE14UUhxczNQSUNqNHhZQU83NjdETVZvWFRfbXd1cGZiak1JNjlrOXFBMUFXbEs0cVM0S3VNcFk5M1k?oc=5",
-        "summary": "Exclusive | OpenAI Is Working With Consultants to Sell Codex &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Opinion | Why Are Palantir and OpenAI Scared of Alex Bores? - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-21T09:04:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZG5kS1g5bjUyRVpqbG9ZOXF2aW5YMl83SUhVVFVEY0hKbG0tWkpsb2l4U1BYdkZxd1Vlci1yUldteVJTNkRIclpaSWc2QnkzZ2tTWUxQSnhZS1Vkc3VBcDdrNFV1RnVpZndoSk1vYjdzUzFVQXc0UHpNa0t5UDFiU1p2dw?oc=5",
-        "summary": "Opinion | Why Are Palantir and OpenAI Scared of Alex Bores? &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Google only lets a select few use Claude — and it's causing a stir inside - Business Insider",
+        "headline": "Read the full memo behind Meta's AI employee tracking rollout - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-04-21T09:00:00.000Z",
+        "timestamp": "2026-04-21T19:17:17.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGF6eGR1X09iRmQybHZ1aFMzRF90T3pLRDlfMWV4dVNjT1d1U1k0blpEWTBSMS1xeHYwNnBQQ0xCb2Z3bWJrUEs1OERQMF9YanBtV2ZlQ3dGN0s0M2syd2RlSXROeWpSLWFDMEJkMXA5bFJSeFA4OG5RY3FfNEtSdkJZVkhZVW1ZcHBuSjNweFc?oc=5",
-        "summary": "Google only lets a select few use Claude — and it's causing a stir inside &nbsp;&nbsp; Business Insider"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZG1DVnRheXU2Q3lUaTFvQ3hvUjlLb0drcEpfdHlpbklMT29NazIzV1VDeVRvSUV4eUdZcVRjY2dMSE5Oc1N6RkdiVmtsQlJpR01vWDMtakFId0k4RGF1WTk1TGpRS1dPUWlnRVQycnkwZmlreVdiRldZMk5qWjNERWxuN09qTVpxeVNNUE1kQTRzdEFBWXc4?oc=5",
+        "summary": "Read the full memo behind Meta's AI employee tracking rollout &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting - BBC",
+        "source": "BBC",
+        "timestamp": "2026-04-21T19:15:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzhxOThXRDlYNWI4TFJ2TFlsQlNhdG5kVm5Ta0M1YkxzLTdyNWcyeHB4aHlsWkF5TkliRXY2eDVWZ2NaeTQteGhzaUFBVzNLN1NNYzE4Y2FwUQ?oc=5",
+        "summary": "OpenAI faces criminal probe over role of ChatGPT in shooting &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "Meta will start tracking employees’ screens and keystrokes to train AI tools - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-21T18:53:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelRJSFlmSGozalM1YjNxYkU5eWF3UGdhZE5DeXRLNzJNWVIydW1aYlJSM2JENE9UQmRkdEdzZzNTMHdIcVVfbktiaUFSZTJNZWQ2SVJXR1RKRlVZLWhlWXdwWUk5MjBXOENTU1Z3N3JyQTZLS2Nsdm5jUktnZ2xVcXd4dFhXSzFtRENqU3ZUYlh0dF9jd1p3RXlUNmMtNHl1ejdJ?oc=5",
+        "summary": "Meta will start tracking employees’ screens and keystrokes to train AI tools &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
