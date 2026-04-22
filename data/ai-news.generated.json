@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T09:45:02.098Z",
+    "generatedAt": "2026-04-22T11:11:34.733Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic investigates report of rogue access to hack-enabling Mythos AI - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-04-22T08:59:00.000Z",
-      "impact": "HIGH",
+      "headline": "Exclusive: OpenAI briefs feds and Five Eyes on new cyber product - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-22T09:01:43.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic investigates report of rogue access to hack-enabling Mythos AI &nbsp;&nbsp; The Guardian Anthropic investigating unauthorised access of powerful Mythos AI model &nbsp;&nbsp; Financial Times Anthropic’s most dangerous AI model just fell into the wrong hands &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5"
+      "summary": "Exclusive: OpenAI briefs feds and Five Eyes on new cyber product &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yaW1BMEtXNzVSdGRVb1A5NTRxNDk5T2NxVVpVSV9YSmo2aFVHZlM0ek5xUnlpT1lkc1Z6RXNRVHFSaE1rNHlfUFRpZVlqVjh6MXVIb2VNb2l4YnhBenhJSE9hbmRDMURNaWF3dko0anBkMVFhNlow?oc=5"
     },
     {
       "headline": "Microsoft trims cloud desktop pricing, even as it boosts AI costs - Computerworld",
@@ -32,14 +32,34 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObThjcmtxUEN1eVQ4MHFSY2c2WTVFQzBUMHdGOGI2eW9HVFdnb19aOFN2S0ZpN1VQZTkxWDFPWnhObm82QjhKVi1iT2lRNWhXdk1JdXZoODdfc0JtdFhYOWtSV0FWSVg3cm51RVVSQUZhSFNlNGVvazJ2dk1aVmpjd3VIZ1laLWt0aV92SWJsV3N6ZGcyZTFwX1k4MDdrXzM0V0FwV2dpY29WSTBYSUZjczdoNkdlUQ?oc=5"
     },
     {
-      "headline": "Video: Opinion | The Hypocrisy of OpenAI and Palantir - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-22T00:00:55.000Z",
+      "headline": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-04-21T22:43:30.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos &nbsp;&nbsp; Engadget",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN19qLUNMbk1qVlA4TzRPWGl5UWdna0QzN0t1OFBWZUswcFFNX2ZlMXNXYkZRamtvMHFkbm9lZnB2UXB4cGwzV3c2OVhBM0hiLU1PWHM4RG42NEVQbEZWbUVoZ082V3JTWV9WcDhDUlBxZVNETVBWTXktRkFFMFJJOEpJRlg1ZXBMMkQyQmFULUg4dWlySzJ6MEJKREJ4Rlc2amtiX1ZiYld2Z1lCMFQ0b0ZnQ0NGVEQyU2VJY0FVVlhKcExOaDByZw?oc=5"
+    },
+    {
+      "headline": "Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-04-21T21:41:21.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users &nbsp;&nbsp; Bloomberg Anthropic investigates report of rogue access to hack-enabling Mythos AI &nbsp;&nbsp; The Guardian Anthropic’s most dangerous AI model just fell into the wrong hands &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHY3bk40dGNJVTJCU2JQRWl3UTNqWmdTZlZOcFRfbUtLSEs2MDNZVUcwOEVjaTRCVnE4X21DNWxFVVVWRF9BWkRObklfSVhtWjhwSjJsOXBjMm1IekxzeFpNTzktWjRTZ1RhemJ1eDJxZ2QxbXA0WU9rclB4d1RfcUxkc2gyZGVnWHBoYm0wYXRLNGxOdlE2SWVmcDA0Q0h3X0hfLW9zeFFVdnk0T0puRVlHdHFIUQ?oc=5"
+    },
+    {
+      "headline": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150 - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-04-21T21:40:41.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Video: Opinion | The Hypocrisy of OpenAI and Palantir &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlJ6ajFDUWQ4S3psbFp5cFl3d2JVZUZ3eUZtellsQ1luN1ViZ0VoT0VrN1pwNHIxT2FXMWNHNmJ4VWhrRDVtcHhBc0FLT09YN193V0pUbkRRb0twLUJJcWNwVXdqLW9GUmFldHprbVFGLW8zOG9DanRad2hPaDMyWUZTZzBQUWx1ZHlxUWpFZW9YT2EwSzd5NGZLWQ?oc=5"
+      "summary": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150 &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJBLTJVcVFSZGFZVmstNktIQ0Y2YjRISEtoZ3k1cG1TbTVuQW1YUU1ld3FDQnJLQ3VIVk9Va25yS0hNdlNMc085TjBUcWtabVAxQlFId1oxYTV4RVBDTDlta3FfMmU4WTFjdnphLUJHQjkyU05VUXpFeHdkdFoxSzhuWGJJQlBIbmxYYjhORU9jNjJrUGFQTjdOeE1lb0RpTEtFeXltb1p2WFREdlFQTQ?oc=5"
     },
     {
       "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
@@ -47,7 +67,7 @@
       "timestamp": "2026-04-21T20:04:08.000Z",
       "impact": "HIGH",
       "category": "regulation",
-      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; Reuters Read the full memo behind Meta's AI employee tracking rollout &nbsp;&nbsp; Business Insider Meta to track workers' clicks and keystrokes to train AI &nbsp;&nbsp; BBC Meta will record employees’ keystrokes and use it to train its AI models &nbsp;&nbsp; TechCrunch Meta will start tracking employees’ screens and keystrokes to train AI tools &nbsp;&nbsp; Fortune Report: Meta will train AI agents by tracking employees’ mouse, keyboard use &nbsp;&nbsp; Ars Technica Meta Plans to Turn Its Employees’ Clicks and Keystrokes into AI Training Data &nbsp;&nbsp; Gizmodo Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; The Economic Times",
+      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; Reuters Meta to track workers' clicks and keystrokes to train AI &nbsp;&nbsp; BBC Read the full memo behind Meta's AI employee tracking rollout &nbsp;&nbsp; Business Insider Meta will record employees’ keystrokes and use it to train its AI models &nbsp;&nbsp; TechCrunch Meta will start tracking employees’ screens and keystrokes to train AI tools &nbsp;&nbsp; Fortune Report: Meta will train AI agents by tracking employees’ mouse, keyboard use &nbsp;&nbsp; Ars Technica Meta Plans to Turn Its Employees’ Clicks and Keystrokes into AI Training Data &nbsp;&nbsp; Gizmodo Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; The Economic Times",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5"
     },
@@ -72,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5"
     },
     {
+      "headline": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-04-21T18:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2xvY1hSYy1WNlFNYkVUakZueEk1a0RaN3E2b2lxV1J2QV9OaC1ES1ozLU9tZWNmQXpaeWxDeTJ6dW9panFrRkw0NmEwOFdJdnUwWFFFcU1yMlpOc3gzQ0NOTUFGc0I1dmg3T0N2TUZad3NRR01lcG5VVFd1SFdKNDJwZzhvY1loNUZRSGlIc3c?oc=5"
+    },
+    {
       "headline": "Meta to start capturing employee mouse movements, keystrokes for AI training data - The Detroit News",
       "source": "The Detroit News",
       "timestamp": "2026-04-21T17:26:00.000Z",
@@ -80,48 +110,18 @@
       "summary": "Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; The Detroit News",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXM4amQtUEd4aVgyZ3gxQ19ZdmczcndWN21nT0thNmhCSE1MYzUyczUwRE4tZnBxVko0WDFTX3Q4ZG9sMDQ5ZlFjY1ZrUE1yRTQ2UE1WblJEZ2puOWdMRzNfWUxxZWs2WldlbWZmeG83Z2xGMTVUNlFyYzRZaTFhRGJCZDI5THlqNERyUmR4bmxmcXF3OVd3aXlnLVJIc3JUZzc0eDRYQUdSUGZTWFZuTTR1Z3pWSzlEU180?oc=5"
-    },
-    {
-      "headline": "Google founder Sergey Brin tells DeepMind employees to get 'Agents' right; says: We must urgently ... - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-04-21T11:55:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Google founder Sergey Brin tells DeepMind employees to get 'Agents' right; says: We must urgently ... &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaHltbnl2anBxRjU0T0xlR2Z6NkwtRjk4Rm8xcktxeHJOSi1fMUNSYXEwZ3NRbmlXcF9XNkFVRXNLYmVsY0ZZalp3aHNUS1NWdVFuQ0tWV3BiWHRYak5Ra2p0eVg0QkltbjRsdzc0ZlVLUGpvRU9MYVNvdG03V3hsYzA5SnRaamRUMnlKSEhvYWpFcXgtamRtWlI3dFRxNl85MXZSYVBjc01MUDNBQmxsZFBmVnQ4Ul9VRDNJNmFjcGFEeXJrSmgwMTY2d1Q1VTJQMm5yNVRiRC1TUE96QlQ2anhhd1VJY2w0MV9rX1lwMkZpeHpSd244bnhyME5Ta0o3UXozZk0zZDbSAY4CQVVfeXFMTTBjY0ZPaFNCNzcyTnk1WnJqd1VBdjUzaEJPQ1BRb0FyQWFCTXBSdWd4U2pWRkhlcFpib0VnLXBjUmxBbHBXSGVwNk9WLVZhMXg2d3plV2VLMnp2MjV6d2JYN0tBQjdacUJNd254SkhTSUIyY2VWZ1Rzc3hBbzVIRndsNEFiRHR6aFFGTGRVVlI3QjhYdU9CYlA2ZF94SXBScHU0RWZGRGkxaWRlOTRhMnNIUWI5cWtDNkpTYUg2V1hGeFdramhHU09qZmFQNENlOW1ESWk1ZUF5UzByNnNvaTBPSVAxMUt5Wk9meDBBRGhDdWRaUlkzc3l0c3l0cHF1MjBBaTJ6SVhLVGN0b053?oc=5"
-    },
-    {
-      "headline": "Google only lets a select few use Claude — and it's causing a stir inside - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-04-21T09:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Google only lets a select few use Claude — and it's causing a stir inside &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGF6eGR1X09iRmQybHZ1aFMzRF90T3pLRDlfMWV4dVNjT1d1U1k0blpEWTBSMS1xeHYwNnBQQ0xCb2Z3bWJrUEs1OERQMF9YanBtV2ZlQ3dGN0s0M2syd2RlSXROeWpSLWFDMEJkMXA5bFJSeFA4OG5RY3FfNEtSdkJZVkhZVW1ZcHBuSjNweFc?oc=5"
-    },
-    {
-      "headline": "Pairing geotechnical data with AI helps New Zealand to build better - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-04-20T23:06:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Pairing geotechnical data with AI helps New Zealand to build better &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpFYnpYQll5cG5yN1JSU05JMFFvME9DT25nZ0VzVHZUMXpnSlY4Y2plN0ZhZk5lUDZwRXVlUUdzV2hJSlpCRzlhSEJWTzlHUTVHRzhUcW5qVnJ4bm9GQ2JheWVMeEIwTEVjVEoxcEFQNDlkRGd1S1YtdllHTFRYWWlkd3hhNFJEd2RtdE5lOUJfR1Q4N2UyRTZOVUNwQU92M0MtS0pqdGZZNG9NMmlmNWVZN1lzUkE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic investigates report of rogue access to hack-enabling Mythos AI - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-04-22T08:59:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5",
-        "summary": "Anthropic investigates report of rogue access to hack-enabling Mythos AI &nbsp;&nbsp; The Guardian Anthropic investigating unauthorised access of powerful Mythos AI model &nbsp;&nbsp; Financial Times Anthropic’s most dangerous AI model just fell into the wrong hands &nbsp;&nbsp; The Verge"
+        "headline": "Exclusive: OpenAI briefs feds and Five Eyes on new cyber product - Axios",
+        "source": "Axios",
+        "timestamp": "2026-04-22T09:01:43.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yaW1BMEtXNzVSdGRVb1A5NTRxNDk5T2NxVVpVSV9YSmo2aFVHZlM0ek5xUnlpT1lkc1Z6RXNRVHFSaE1rNHlfUFRpZVlqVjh6MXVIb2VNb2l4YnhBenhJSE9hbmRDMURNaWF3dko0anBkMVFhNlow?oc=5",
+        "summary": "Exclusive: OpenAI briefs feds and Five Eyes on new cyber product &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Microsoft trims cloud desktop pricing, even as it boosts AI costs - Computerworld",
@@ -133,13 +133,31 @@
         "summary": "Microsoft trims cloud desktop pricing, even as it boosts AI costs &nbsp;&nbsp; Computerworld"
       },
       {
-        "headline": "Video: Opinion | The Hypocrisy of OpenAI and Palantir - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-22T00:00:55.000Z",
+        "headline": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-04-21T22:43:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlJ6ajFDUWQ4S3psbFp5cFl3d2JVZUZ3eUZtellsQ1luN1ViZ0VoT0VrN1pwNHIxT2FXMWNHNmJ4VWhrRDVtcHhBc0FLT09YN193V0pUbkRRb0twLUJJcWNwVXdqLW9GUmFldHprbVFGLW8zOG9DanRad2hPaDMyWUZTZzBQUWx1ZHlxUWpFZW9YT2EwSzd5NGZLWQ?oc=5",
-        "summary": "Video: Opinion | The Hypocrisy of OpenAI and Palantir &nbsp;&nbsp; The New York Times"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN19qLUNMbk1qVlA4TzRPWGl5UWdna0QzN0t1OFBWZUswcFFNX2ZlMXNXYkZRamtvMHFkbm9lZnB2UXB4cGwzV3c2OVhBM0hiLU1PWHM4RG42NEVQbEZWbUVoZ082V3JTWV9WcDhDUlBxZVNETVBWTXktRkFFMFJJOEpJRlg1ZXBMMkQyQmFULUg4dWlySzJ6MEJKREJ4Rlc2amtiX1ZiYld2Z1lCMFQ0b0ZnQ0NGVEQyU2VJY0FVVlhKcExOaDByZw?oc=5",
+        "summary": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos &nbsp;&nbsp; Engadget"
+      },
+      {
+        "headline": "Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-04-21T21:41:21.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHY3bk40dGNJVTJCU2JQRWl3UTNqWmdTZlZOcFRfbUtLSEs2MDNZVUcwOEVjaTRCVnE4X21DNWxFVVVWRF9BWkRObklfSVhtWjhwSjJsOXBjMm1IekxzeFpNTzktWjRTZ1RhemJ1eDJxZ2QxbXA0WU9rclB4d1RfcUxkc2gyZGVnWHBoYm0wYXRLNGxOdlE2SWVmcDA0Q0h3X0hfLW9zeFFVdnk0T0puRVlHdHFIUQ?oc=5",
+        "summary": "Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users &nbsp;&nbsp; Bloomberg Anthropic investigates report of rogue access to hack-enabling Mythos AI &nbsp;&nbsp; The Guardian Anthropic’s most dangerous AI model just fell into the wrong hands &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150 - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-04-21T21:40:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJBLTJVcVFSZGFZVmstNktIQ0Y2YjRISEtoZ3k1cG1TbTVuQW1YUU1ld3FDQnJLQ3VIVk9Va25yS0hNdlNMc085TjBUcWtabVAxQlFId1oxYTV4RVBDTDlta3FfMmU4WTFjdnphLUJHQjkyU05VUXpFeHdkdFoxSzhuWGJJQlBIbmxYYjhORU9jNjJrUGFQTjdOeE1lb0RpTEtFeXltb1p2WFREdlFQTQ?oc=5",
+        "summary": "Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150 &nbsp;&nbsp; Ars Technica"
       },
       {
         "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
@@ -148,25 +166,7 @@
         "impact": "HIGH",
         "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
-        "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; Reuters Read the full memo behind Meta's AI employee tracking rollout &nbsp;&nbsp; Business Insider Meta to track workers' clicks and keystrokes to train AI &nbsp;&nbsp; BBC Meta will record employees’ keystrokes and use it to train its AI models &nbsp;&nbsp; TechCrunch Meta will start tracking employees’ screens and keystrokes to train AI tools &nbsp;&nbsp; Fortune Report: Meta will train AI agents by tracking employees’ mouse, keyboard use &nbsp;&nbsp; Ars Technica Meta Plans to Turn Its Employees’ Clicks and Keystrokes into AI Training Data &nbsp;&nbsp; Gizmodo Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; The Economic Times"
-      },
-      {
-        "headline": "OpenAI faces criminal probe over role of ChatGPT in shooting - BBC",
-        "source": "BBC",
-        "timestamp": "2026-04-21T19:15:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzhxOThXRDlYNWI4TFJ2TFlsQlNhdG5kVm5Ta0M1YkxzLTdyNWcyeHB4aHlsWkF5TkliRXY2eDVWZ2NaeTQteGhzaUFBVzNLN1NNYzE4Y2FwUQ?oc=5",
-        "summary": "OpenAI faces criminal probe over role of ChatGPT in shooting &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "OpenAI Beefs Up ChatGPT’s Image Generation Model - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-04-21T19:00:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5",
-        "summary": "OpenAI Beefs Up ChatGPT’s Image Generation Model &nbsp;&nbsp; WIRED"
+        "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; Reuters Meta to track workers' clicks and keystrokes to train AI &nbsp;&nbsp; BBC Read the full memo behind Meta's AI employee tracking rollout &nbsp;&nbsp; Business Insider Meta will record employees’ keystrokes and use it to train its AI models &nbsp;&nbsp; TechCrunch Meta will start tracking employees’ screens and keystrokes to train AI tools &nbsp;&nbsp; Fortune Report: Meta will train AI agents by tracking employees’ mouse, keyboard use &nbsp;&nbsp; Ars Technica Meta Plans to Turn Its Employees’ Clicks and Keystrokes into AI Training Data &nbsp;&nbsp; Gizmodo Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; The Economic Times"
       }
     ],
     "whyItMatters": [
@@ -184,8 +184,8 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
