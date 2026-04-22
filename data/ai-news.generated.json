@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T07:57:14.495Z",
+    "generatedAt": "2026-04-22T09:45:02.098Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI in talks to commit up to $1.5bn to private-equity joint venture - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-04-22T04:00:16.000Z",
-      "impact": "LOW",
+      "headline": "Anthropic investigates report of rogue access to hack-enabling Mythos AI - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-22T08:59:00.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "OpenAI in talks to commit up to $1.5bn to private-equity joint venture &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXVVNUNObGtRSVVrRDNpXzM3QjhaMjBkVkVnX2JMdGd5TWR4X0ZQNE9WeXRfRE1BQVh4VTU4WTJ1MXFIdElTSzNGLUdTSlNFNWcwOUVIMmlBc2dUQUVMczNVNEJ0UlFQcEhKVi1qUnI4RkNhejBKeTBQcjBBbVd0RDFRbVM?oc=5"
+      "summary": "Anthropic investigates report of rogue access to hack-enabling Mythos AI &nbsp;&nbsp; The Guardian Anthropic investigating unauthorised access of powerful Mythos AI model &nbsp;&nbsp; Financial Times Anthropic’s most dangerous AI model just fell into the wrong hands &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5"
     },
     {
-      "headline": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-21T23:19:20.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports &nbsp;&nbsp; Reuters Anthropic investigating unauthorised access of powerful Mythos AI model &nbsp;&nbsp; Financial Times Anthropic’s Mythos model is being accessed by unauthorized users: Bloomberg (ANTHRO:Private) &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5"
+      "headline": "Microsoft trims cloud desktop pricing, even as it boosts AI costs - Computerworld",
+      "source": "Computerworld",
+      "timestamp": "2026-04-22T07:03:35.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Microsoft trims cloud desktop pricing, even as it boosts AI costs &nbsp;&nbsp; Computerworld",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObThjcmtxUEN1eVQ4MHFSY2c2WTVFQzBUMHdGOGI2eW9HVFdnb19aOFN2S0ZpN1VQZTkxWDFPWnhObm82QjhKVi1iT2lRNWhXdk1JdXZoODdfc0JtdFhYOWtSV0FWSVg3cm51RVVSQUZhSFNlNGVvazJ2dk1aVmpjd3VIZ1laLWt0aV92SWJsV3N6ZGcyZTFwX1k4MDdrXzM0V0FwV2dpY29WSTBYSUZjczdoNkdlUQ?oc=5"
+    },
+    {
+      "headline": "Video: Opinion | The Hypocrisy of OpenAI and Palantir - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-22T00:00:55.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Video: Opinion | The Hypocrisy of OpenAI and Palantir &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlJ6ajFDUWQ4S3psbFp5cFl3d2JVZUZ3eUZtellsQ1luN1ViZ0VoT0VrN1pwNHIxT2FXMWNHNmJ4VWhrRDVtcHhBc0FLT09YN193V0pUbkRRb0twLUJJcWNwVXdqLW9GUmFldHprbVFGLW8zOG9DanRad2hPaDMyWUZTZzBQUWx1ZHlxUWpFZW9YT2EwSzd5NGZLWQ?oc=5"
     },
     {
       "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
@@ -92,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGF6eGR1X09iRmQybHZ1aFMzRF90T3pLRDlfMWV4dVNjT1d1U1k0blpEWTBSMS1xeHYwNnBQQ0xCb2Z3bWJrUEs1OERQMF9YanBtV2ZlQ3dGN0s0M2syd2RlSXROeWpSLWFDMEJkMXA5bFJSeFA4OG5RY3FfNEtSdkJZVkhZVW1ZcHBuSjNweFc?oc=5"
     },
     {
-      "headline": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta - Oracle Blogs",
-      "source": "Oracle Blogs",
-      "timestamp": "2026-04-21T08:24:19.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Learn about Oracle AI Database@Azure at Microsoft AI Tour Atlanta &nbsp;&nbsp; Oracle Blogs",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdnRGlzZW9TdldwcTZpM09Ca2ZEQm41QW5sLWZCVXRSRk5tekswVjRGYjdreGZaT2tfR3ZadU1zLW92NHFxUk5mQ3Q2ZmlROEgxaVZiQTRiU0E1ZGZmVC1fRW10M0t5cC1EdDBGWG9TRF9YYzhDVGRQa0VhaVUtVFcxbUx4QUVOWElqMTdlcVJ0Q2hL?oc=5"
-    },
-    {
       "headline": "Pairing geotechnical data with AI helps New Zealand to build better - Microsoft Source",
       "source": "Microsoft Source",
       "timestamp": "2026-04-20T23:06:33.000Z",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI in talks to commit up to $1.5bn to private-equity joint venture - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-04-22T04:00:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXVVNUNObGtRSVVrRDNpXzM3QjhaMjBkVkVnX2JMdGd5TWR4X0ZQNE9WeXRfRE1BQVh4VTU4WTJ1MXFIdElTSzNGLUdTSlNFNWcwOUVIMmlBc2dUQUVMczNVNEJ0UlFQcEhKVi1qUnI4RkNhejBKeTBQcjBBbVd0RDFRbVM?oc=5",
-        "summary": "OpenAI in talks to commit up to $1.5bn to private-equity joint venture &nbsp;&nbsp; Financial Times"
+        "headline": "Anthropic investigates report of rogue access to hack-enabling Mythos AI - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-22T08:59:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0FMZHJobFlvNmFWeU55UHh2MTJXTUl6TU5uOTVCdUZqMGFQTGQ3U2RoQmZuUDREZlRlNF90SlFCODJwRzl3TjU5dEQtMWZGQnJrWlVScXV2VXR0c3h3bGVuNDJPTnhCWU9FMjRJcTlrZGtzdFc3clNzbldwSjVBOU5lRk1oV3dHWUktNGhacjVoQWFWeTY1R3Y0WXZONjdTWEVELXBqdXExQ1VGU01JdlplclJKTjhZZVhwdkt4aTM?oc=5",
+        "summary": "Anthropic investigates report of rogue access to hack-enabling Mythos AI &nbsp;&nbsp; The Guardian Anthropic investigating unauthorised access of powerful Mythos AI model &nbsp;&nbsp; Financial Times Anthropic’s most dangerous AI model just fell into the wrong hands &nbsp;&nbsp; The Verge"
       },
       {
-        "headline": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-04-21T23:19:20.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5",
-        "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports &nbsp;&nbsp; Reuters Anthropic investigating unauthorised access of powerful Mythos AI model &nbsp;&nbsp; Financial Times Anthropic’s Mythos model is being accessed by unauthorized users: Bloomberg (ANTHRO:Private) &nbsp;&nbsp; Seeking Alpha"
+        "headline": "Microsoft trims cloud desktop pricing, even as it boosts AI costs - Computerworld",
+        "source": "Computerworld",
+        "timestamp": "2026-04-22T07:03:35.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObThjcmtxUEN1eVQ4MHFSY2c2WTVFQzBUMHdGOGI2eW9HVFdnb19aOFN2S0ZpN1VQZTkxWDFPWnhObm82QjhKVi1iT2lRNWhXdk1JdXZoODdfc0JtdFhYOWtSV0FWSVg3cm51RVVSQUZhSFNlNGVvazJ2dk1aVmpjd3VIZ1laLWt0aV92SWJsV3N6ZGcyZTFwX1k4MDdrXzM0V0FwV2dpY29WSTBYSUZjczdoNkdlUQ?oc=5",
+        "summary": "Microsoft trims cloud desktop pricing, even as it boosts AI costs &nbsp;&nbsp; Computerworld"
+      },
+      {
+        "headline": "Video: Opinion | The Hypocrisy of OpenAI and Palantir - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-22T00:00:55.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlJ6ajFDUWQ4S3psbFp5cFl3d2JVZUZ3eUZtellsQ1luN1ViZ0VoT0VrN1pwNHIxT2FXMWNHNmJ4VWhrRDVtcHhBc0FLT09YN193V0pUbkRRb0twLUJJcWNwVXdqLW9GUmFldHprbVFGLW8zOG9DanRad2hPaDMyWUZTZzBQUWx1ZHlxUWpFZW9YT2EwSzd5NGZLWQ?oc=5",
+        "summary": "Video: Opinion | The Hypocrisy of OpenAI and Palantir &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5",
         "summary": "OpenAI Beefs Up ChatGPT’s Image Generation Model &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Meta to start capturing employee mouse movements, keystrokes for AI training data - The Detroit News",
-        "source": "The Detroit News",
-        "timestamp": "2026-04-21T17:26:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXM4amQtUEd4aVgyZ3gxQ19ZdmczcndWN21nT0thNmhCSE1MYzUyczUwRE4tZnBxVko0WDFTX3Q4ZG9sMDQ5ZlFjY1ZrUE1yRTQ2UE1WblJEZ2puOWdMRzNfWUxxZWs2WldlbWZmeG83Z2xGMTVUNlFyYzRZaTFhRGJCZDI5THlqNERyUmR4bmxmcXF3OVd3aXlnLVJIc3JUZzc0eDRYQUdSUGZTWFZuTTR1Z3pWSzlEU180?oc=5",
-        "summary": "Meta to start capturing employee mouse movements, keystrokes for AI training data &nbsp;&nbsp; The Detroit News"
       }
     ],
     "whyItMatters": [
