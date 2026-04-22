@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T22:52:18.754Z",
+    "generatedAt": "2026-04-22T23:50:39.633Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,26 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "Amazon invests $25 billion into Anthropic - ABC Columbia",
-      "source": "ABC Columbia",
-      "timestamp": "2026-04-22T21:58:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Amazon invests $25 billion into Anthropic &nbsp;&nbsp; ABC Columbia",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcm9JYlFzWnhZY0dwZ0lYTW5ZQnpRNjY3dkhMVUpRaFJScFBFR1JWZG0xQ1Y3NG1XeHBITkY4SnJzXy1BZVBKOTgza3pHN3E0Q3F2d3JEUjJkbXFpTFNTdUYzclFUcXpxak41TVozRzhiYzM4eTV6d0RyNEp5LUZSOG9KXzAxaDA?oc=5"
-    },
-    {
-      "headline": "Justice Department asks California judge to pause its Anthropic appeal - Politico",
-      "source": "Politico",
-      "timestamp": "2026-04-22T21:57:32.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Justice Department asks California judge to pause its Anthropic appeal &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeW12Sm95aHBUQWZwQXYzMWFsaUJQdzl5RHBacHcxeXRxZTdmWnIwQXk0S3NYZWp3UFp1OWxJdkptX2RZWktYSnppSTlpYmNaUEExX1NnV0pIVkpOMnNYVVg2OUl5ZjlfeVBNNWVRUUZNd25QT3hiQUdTeFlqSXpQY09INkl4UFMyaFVvaXFGeUtQSG4tUVRwN0NmdFZ1QktmQ0I4Sw?oc=5"
-    },
     {
       "headline": "SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals - Business Insider",
       "source": "Business Insider",
@@ -62,6 +42,16 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14N1RKNWtPajlOcGJKUUh4V2JpWl83OE1PSHpSOENDSE5scTlyYlhzQi1OZGxKOWc5VjRaY2c4MzNyS0x5azRXUkpxR2FScmVqTGN0LTN0ODEzdS1HZDE4aHhfeHVVbjgtZjZqVVIta3pYbm8?oc=5"
     },
     {
+      "headline": "What 81,000 people told us about the economics of AI - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-04-22T17:11:52.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What 81,000 people told us about the economics of AI &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fd1pST1VJOWtNWWF4aEppa3dJUmtJSGFtOFdlRVlLVGNpOHVnSmZZb0htU2dmS1VfOFJCdTItUWc2LW95MC03c3JNMzdOcXFBUzRPSWt4bTRrdDNo?oc=5"
+    },
+    {
       "headline": "AI-powered defense for an AI-accelerated threat landscape - Microsoft",
       "source": "Microsoft",
       "timestamp": "2026-04-22T17:00:00.000Z",
@@ -70,6 +60,16 @@
       "summary": "AI-powered defense for an AI-accelerated threat landscape &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTU4wMXJBcTVPRmpKblh6WDE5QVlPN0lfMHpsMmlWOF9UM3RnQ09GX1VxWTBNVkVvMzBEbFBZTlV3dGJvand4S3M0U2ttS1NlVy1weXpUR2hKZDNIUFRtZ0Q4bWxpRTdPanQxODdUQjZoYUNDT1AxTGtjRFhoWTA2MTBibHA5NzhQU1dlUjExZ202VXhiYWpTamkwWW1IaXdXV2FwOTZZQkRyQmRtWThlSzcyUzM4QQ?oc=5"
+    },
+    {
+      "headline": "Microsoft Discovery: Advancing agentic R&D at scale - Microsoft Azure",
+      "source": "Microsoft Azure",
+      "timestamp": "2026-04-22T16:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Microsoft Discovery: Advancing agentic R&D at scale &nbsp;&nbsp; Microsoft Azure",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEp0eU9sVmUxaEljUUJZOXZxOXlmbThUemRXSlUxeGk5NmFBS0xKR1EwNEgzNUR1bUw0Nm1ibUF2NW01U3RvOGZRcGIydUlkeTlBYVBfNmJkSG9lUFE1a3lfTGxBY0RRZmM2dEtnZVpLMUJBaDVXMmJFNmRQb29wLW55MGpxWjlsWjRIWlE3aW1yd0E?oc=5"
     },
     {
       "headline": "Broadcom agrees to support development of Meta’s next-generation AI chips - Manufacturing Dive",
@@ -82,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFZiQ0JWR1FEcEh4dDFYTEcxTkpTT2FZSXNraWp4QWhpZDBSd1RhZGJCY3dkY2NxMkRoejM1cFFoakVPal8ycEpJRDFPNHNYdlhvTnhzVTlFaU5iUUFwOXJDMG1ZQ2ozUUw1UmczRGZhQjBkcWJIM1Q4T1h3Vk5Md2t5VERwN1lCRnlOXzQ5T2Z5MGtwd2tubg?oc=5"
     },
     {
-      "headline": "Leaked Code for Anthropic’s Claude Code Tests Copyright Challenges in A.I. Era - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-22T14:17:38.000Z",
+      "headline": "Anthropic’s Claude Is Pumping Out Vulnerable Code, Cyber Experts Warn - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-04-22T14:26:03.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Leaked Code for Anthropic’s Claude Code Tests Copyright Challenges in A.I. Era &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGdMSEhUWmxXWGVlWmdkV1lMWWc0TGt2S25uVElvZUJvVFc2WmhWY1N2LU1rZnR6ZmZ1Qjg4SzBiODZKRUNCdVl1M2laUXE0X2d1b2swejJkc1c3NTJRZE1sR3FjTmVRVVhxM1Z0bkxiOWRtbjlPMjVhR2xqM3R2ZDNMR3Ryb00?oc=5"
+      "summary": "Anthropic’s Claude Is Pumping Out Vulnerable Code, Cyber Experts Warn &nbsp;&nbsp; Forbes",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYm52d3hQV25lMzl4bXo4SGVhUG1xRjdZXzAzaElIMl9PazU1cTdRaWE0WVh1eVl4RDdqcEdHcThUYU8tdkx5UDJiWHRuSm1jNVdIb0xpQlVzMWJfXzdHanQ3TjlYWWEtRU5Ja3RSakJwWGJ1d3piUnBwcDJQbnZiTmtoQ3N0OXp6MHg5NVM4QmpFMXZhUlRzVnJTWHJ2M0ZOY1U3c3htN0wwclg2Z2V3ZHJndHoyeEZicjdyVA?oc=5"
     },
     {
       "headline": "Meta Is Building AI Agents From Keystrokes – Are Contact Centers Next? - CX Today",
@@ -114,24 +114,6 @@
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Amazon invests $25 billion into Anthropic - ABC Columbia",
-        "source": "ABC Columbia",
-        "timestamp": "2026-04-22T21:58:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcm9JYlFzWnhZY0dwZ0lYTW5ZQnpRNjY3dkhMVUpRaFJScFBFR1JWZG0xQ1Y3NG1XeHBITkY4SnJzXy1BZVBKOTgza3pHN3E0Q3F2d3JEUjJkbXFpTFNTdUYzclFUcXpxak41TVozRzhiYzM4eTV6d0RyNEp5LUZSOG9KXzAxaDA?oc=5",
-        "summary": "Amazon invests $25 billion into Anthropic &nbsp;&nbsp; ABC Columbia"
-      },
-      {
-        "headline": "Justice Department asks California judge to pause its Anthropic appeal - Politico",
-        "source": "Politico",
-        "timestamp": "2026-04-22T21:57:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeW12Sm95aHBUQWZwQXYzMWFsaUJQdzl5RHBacHcxeXRxZTdmWnIwQXk0S3NYZWp3UFp1OWxJdkptX2RZWktYSnppSTlpYmNaUEExX1NnV0pIVkpOMnNYVVg2OUl5ZjlfeVBNNWVRUUZNd25QT3hiQUdTeFlqSXpQY09INkl4UFMyaFVvaXFGeUtQSG4tUVRwN0NmdFZ1QktmQ0I4Sw?oc=5",
-        "summary": "Justice Department asks California judge to pause its Anthropic appeal &nbsp;&nbsp; Politico"
-      },
       {
         "headline": "SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals - Business Insider",
         "source": "Business Insider",
@@ -160,6 +142,15 @@
         "summary": "Introducing workspace agents in ChatGPT &nbsp;&nbsp; OpenAI"
       },
       {
+        "headline": "What 81,000 people told us about the economics of AI - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-04-22T17:11:52.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fd1pST1VJOWtNWWF4aEppa3dJUmtJSGFtOFdlRVlLVGNpOHVnSmZZb0htU2dmS1VfOFJCdTItUWc2LW95MC03c3JNMzdOcXFBUzRPSWt4bTRrdDNo?oc=5",
+        "summary": "What 81,000 people told us about the economics of AI &nbsp;&nbsp; Anthropic"
+      },
+      {
         "headline": "AI-powered defense for an AI-accelerated threat landscape - Microsoft",
         "source": "Microsoft",
         "timestamp": "2026-04-22T17:00:00.000Z",
@@ -167,6 +158,15 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTU4wMXJBcTVPRmpKblh6WDE5QVlPN0lfMHpsMmlWOF9UM3RnQ09GX1VxWTBNVkVvMzBEbFBZTlV3dGJvand4S3M0U2ttS1NlVy1weXpUR2hKZDNIUFRtZ0Q4bWxpRTdPanQxODdUQjZoYUNDT1AxTGtjRFhoWTA2MTBibHA5NzhQU1dlUjExZ202VXhiYWpTamkwWW1IaXdXV2FwOTZZQkRyQmRtWThlSzcyUzM4QQ?oc=5",
         "summary": "AI-powered defense for an AI-accelerated threat landscape &nbsp;&nbsp; Microsoft"
+      },
+      {
+        "headline": "Microsoft Discovery: Advancing agentic R&D at scale - Microsoft Azure",
+        "source": "Microsoft Azure",
+        "timestamp": "2026-04-22T16:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEp0eU9sVmUxaEljUUJZOXZxOXlmbThUemRXSlUxeGk5NmFBS0xKR1EwNEgzNUR1bUw0Nm1ibUF2NW01U3RvOGZRcGIydUlkeTlBYVBfNmJkSG9lUFE1a3lfTGxBY0RRZmM2dEtnZVpLMUJBaDVXMmJFNmRQb29wLW55MGpxWjlsWjRIWlE3aW1yd0E?oc=5",
+        "summary": "Microsoft Discovery: Advancing agentic R&D at scale &nbsp;&nbsp; Microsoft Azure"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
