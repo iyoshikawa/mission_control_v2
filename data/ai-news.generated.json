@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T15:15:58.855Z",
+    "generatedAt": "2026-04-23T17:24:34.840Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,26 @@
   },
   "newsFeed": [
     {
+      "headline": "Elon Musk and Sam Altman’s Epic Fight Heads to Court - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-23T16:31:57.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Elon Musk and Sam Altman’s Epic Fight Heads to Court &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTNFcHhlQWpJRHh3akgxRUI2ZkpsMEhSZ1RTc0UwWXA5bmxzcHBiQTJTSFd6eXJmZld2OEI0UFc4WFNQMjhQUUhqZXRQVnpsZE5FMzh6WjRLYUpmZGI3aDBrOFpzQl83SnBvXzhCeHNYNERwLXZBTlR5Y0dPc3lwdm9GbkV6TU1MMHM5ag?oc=5"
+    },
+    {
+      "headline": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-04-23T14:58:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFdVS0pQdVZYZjFRTk9sRVExME5vaHNFSWh3YXk1QlBBa2o0Z1ptU2kxRzlLLW02X0hOUEp3SnpiNHpab0EwOWJ3dkZJUWNGX2dwbFNWS241dw?oc=5"
+    },
+    {
       "headline": "You’re about to feel the AI money squeeze - The Verge",
       "source": "The Verge",
       "timestamp": "2026-04-23T13:45:00.000Z",
@@ -20,16 +40,6 @@
       "summary": "You’re about to feel the AI money squeeze &nbsp;&nbsp; The Verge",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2N5SV96U1JjRUpILTUtMnZtR1ZmX1Y0MXlia1ZqYmRYNkttU1o1ekxLREVHMnZtQXA0Q2drOEc1VE55ZUVQLXFoTkw3QXotdnRyZkQ3TWNFUTQ0MmhBcDJDd3J2ZnpIR1VTU256TjAyaGZ4RUFDUVBVenpHR2dwQWtfNHRCUXdOVXVQdWxGX3o3amJodEx5SkRxczVVWGx2WDA4YzF0dnQ3MXZmOGJVWm1EYTlqdw?oc=5"
-    },
-    {
-      "headline": "Freshfields Now Partners With Anthropic - Artificial Lawyer",
-      "source": "Artificial Lawyer",
-      "timestamp": "2026-04-23T11:37:09.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Freshfields Now Partners With Anthropic &nbsp;&nbsp; Artificial Lawyer",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXc3NHNKZFdZYVBYVFZPY3VtSVEwX09OekNJbVQ1Q0g4THZZOUg1OGNpZGhQQzd4RjFIV056S1dZalhzVm5yeHM2c3ozVVF1d0pzc1pwSGhBOWRURTZqX3pIaUFaRnl0cmRzOHFGUmRVd281Z0lMT3RIb2tTblBZT0pCdlBnRWtqNElzVw?oc=5"
     },
     {
       "headline": "Meta AI parental supervision now includes reviewing kids' AI topics - Mashable",
@@ -100,20 +110,28 @@
       "summary": "Microsoft bets big on AI in Australia with $18 billion investment &nbsp;&nbsp; Reuters",
       "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5"
-    },
-    {
-      "headline": "Microsoft deepens commitment to Australia with A$25 billion investment in AI infrastructure, security, and skills - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-04-23T00:37:39.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft deepens commitment to Australia with A$25 billion investment in AI infrastructure, security, and skills &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDNidG0wbEhzRnM0dU9PRC0yUlBpbVpTcmFYYm9sTWkxN2lXMnJVUElKWGpRR2h5TWdqZ0Y4Tm5CWXZqWHU1RlZOWm96ZDV1UjVCR2pza3p1ZGEwY0o2X1pLTE9xUi1OVmVmUHBfNUpyNGZ6TURLM1BvOVVOcXdXMHFRVWlNRnBoM0E?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Elon Musk and Sam Altman’s Epic Fight Heads to Court - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-23T16:31:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTNFcHhlQWpJRHh3akgxRUI2ZkpsMEhSZ1RTc0UwWXA5bmxzcHBiQTJTSFd6eXJmZld2OEI0UFc4WFNQMjhQUUhqZXRQVnpsZE5FMzh6WjRLYUpmZGI3aDBrOFpzQl83SnBvXzhCeHNYNERwLXZBTlR5Y0dPc3lwdm9GbkV6TU1MMHM5ag?oc=5",
+        "summary": "Elon Musk and Sam Altman’s Epic Fight Heads to Court &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale - Google DeepMind",
+        "source": "Google DeepMind",
+        "timestamp": "2026-04-23T14:58:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFdVS0pQdVZYZjFRTk9sRVExME5vaHNFSWh3YXk1QlBBa2o0Z1ptU2kxRzlLLW02X0hOUEp3SnpiNHpab0EwOWJ3dkZJUWNGX2dwbFNWS241dw?oc=5",
+        "summary": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale &nbsp;&nbsp; Google DeepMind"
+      },
       {
         "headline": "You’re about to feel the AI money squeeze - The Verge",
         "source": "The Verge",
@@ -122,15 +140,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2N5SV96U1JjRUpILTUtMnZtR1ZmX1Y0MXlia1ZqYmRYNkttU1o1ekxLREVHMnZtQXA0Q2drOEc1VE55ZUVQLXFoTkw3QXotdnRyZkQ3TWNFUTQ0MmhBcDJDd3J2ZnpIR1VTU256TjAyaGZ4RUFDUVBVenpHR2dwQWtfNHRCUXdOVXVQdWxGX3o3amJodEx5SkRxczVVWGx2WDA4YzF0dnQ3MXZmOGJVWm1EYTlqdw?oc=5",
         "summary": "You’re about to feel the AI money squeeze &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Freshfields Now Partners With Anthropic - Artificial Lawyer",
-        "source": "Artificial Lawyer",
-        "timestamp": "2026-04-23T11:37:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXc3NHNKZFdZYVBYVFZPY3VtSVEwX09OekNJbVQ1Q0g4THZZOUg1OGNpZGhQQzd4RjFIV056S1dZalhzVm5yeHM2c3ozVVF1d0pzc1pwSGhBOWRURTZqX3pIaUFaRnl0cmRzOHFGUmRVd281Z0lMT3RIb2tTblBZT0pCdlBnRWtqNElzVw?oc=5",
-        "summary": "Freshfields Now Partners With Anthropic &nbsp;&nbsp; Artificial Lawyer"
       },
       {
         "headline": "Meta AI parental supervision now includes reviewing kids' AI topics - Mashable",
@@ -158,15 +167,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUVvNktyUGFPT1NXX2d0YzNHdGt2QTdWNHJlbjBpTk1EblM4WVJUZExyUUQtQkl1SENiaC04UFJnYUhGQWUxN2MwZ3FhbUJzU0pNelhpdXpDcTROY3lISTc3OFRvNVhCeUlBTkFjZkVJZWJudzBSWUktSXctVFZlTjF5Wkx6ekYzWklkU2JaS1V3MFIzNTg2eV95cU15bGtfQ2RJWW14REh1eEs5UG1FTDNxUnRhUQ?oc=5",
         "summary": "Meta will now allow parents to see the topics their child discussed with Meta AI &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Wordsmith AI: Helping in-house legal teams beat the clock - Microsoft UK Stories",
-        "source": "Microsoft UK Stories",
-        "timestamp": "2026-04-23T10:02:21.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDVUN0VtaWRCblkwMWhTSm93Y2tTY05MX3lVUEZpbGs2SmJ6SzdfOUpTOG54NWJJU2szZHA1NDRIel9EdTJTa1NhNjl0R19tcE5lUS02cFlBVXpTUndyWlVvYmVWSlhHSUdQWUpwU05hLTZZTXE1SGFTZVFvb3dNWVVjMWlMSnJTZDhuWWVSYVlNeEVQaER0LWNGMTZvbTA?oc=5",
-        "summary": "Wordsmith AI: Helping in-house legal teams beat the clock &nbsp;&nbsp; Microsoft UK Stories"
       }
     ],
     "whyItMatters": [
