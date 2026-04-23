@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T17:24:34.840Z",
+    "generatedAt": "2026-04-23T19:18:38.804Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Elon Musk and Sam Altman’s Epic Fight Heads to Court - The New York Times",
+      "headline": "OpenAI Says New Model Adept At Making AI Better - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-04-23T19:09:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI Says New Model Adept At Making AI Better &nbsp;&nbsp; Barron's",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkpaWFRlLU16ZHMwMGxoQ2lNLWQ4aDZSTWoxXy1lV1M5SGhub1lSVFJUM3R6YV9aZE10alg4VHhRMl9QVWhXS0M0clRYNl9COEJEMWR5Y0paMjg0d2hFdnM1OTYxTGFXd0dBaVNTd2luUi1MalA3QXV6cllTNnFYMzFISi0wZXB4Y20wV2tB?oc=5"
+    },
+    {
+      "headline": "OpenAI releases \"Spud\" GPT-5.5 model - Axios",
+      "source": "Axios",
+      "timestamp": "2026-04-23T18:13:20.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI releases \"Spud\" GPT-5.5 model &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUGxueklxTlY4RC1CSVRyZnhmV1dGWFdjLWxWNXFSYTFPbzNQV2stT19yMDB0NlFhMHh6bkVaMUdsdExWSE1uRkdLQWdyQmpXcmF5N1R1UTRyc1ZSUm1VN1NBV0tQeTA4S2pQMXFYX2w?oc=5"
+    },
+    {
+      "headline": "OpenAI Unveils Its New, More Powerful Model - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-04-23T16:31:57.000Z",
+      "timestamp": "2026-04-23T18:00:06.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI Unveils Its New, More Powerful Model &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5"
+    },
+    {
+      "headline": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "timestamp": "2026-04-23T15:11:30.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Elon Musk and Sam Altman’s Epic Fight Heads to Court &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTNFcHhlQWpJRHh3akgxRUI2ZkpsMEhSZ1RTc0UwWXA5bmxzcHBiQTJTSFd6eXJmZld2OEI0UFc4WFNQMjhQUUhqZXRQVnpsZE5FMzh6WjRLYUpmZGI3aDBrOFpzQl83SnBvXzhCeHNYNERwLXZBTlR5Y0dPc3lwdm9GbkV6TU1MMHM5ag?oc=5"
+      "category": "market",
+      "summary": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest &nbsp;&nbsp; Tom's Hardware",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNY2E0aGIySUlOdURacFMxNXk3WXpNMi1aaGhRMU9naW5JSTZ4ZmpSN3BLM284aURuZTdPcGQ3X1ZFZnFOU1JkS2VxWllRVlNRTmx3MnE1STdpOVpLTFBEWVYyNElGZEdSNDdvcVQ2cHIwMURYNGZWRUxuQUh3OXpRcTBYSWEyeEpCdDF3eGF1SnVHNGp5OUtiT3pzU0ZmVmJnQWVuQjJkUllsV05CNHhscXo3OXRfOEREbVNfYlVDQ3h0TWd5S1c1X3gyN3FQN1E4R25vN2oxRFBVbkFVOG9oMEpuVHlyYUdQWFF2VVVGTUNEMEc3MFRxUTdoVXhoX0R5WG54bU9RSEFRQ2FHV0FuLWJGWFJWbk5MMXR6ZA?oc=5"
     },
     {
       "headline": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale - Google DeepMind",
@@ -30,36 +60,6 @@
       "summary": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFdVS0pQdVZYZjFRTk9sRVExME5vaHNFSWh3YXk1QlBBa2o0Z1ptU2kxRzlLLW02X0hOUEp3SnpiNHpab0EwOWJ3dkZJUWNGX2dwbFNWS241dw?oc=5"
-    },
-    {
-      "headline": "You’re about to feel the AI money squeeze - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-04-23T13:45:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "You’re about to feel the AI money squeeze &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2N5SV96U1JjRUpILTUtMnZtR1ZmX1Y0MXlia1ZqYmRYNkttU1o1ekxLREVHMnZtQXA0Q2drOEc1VE55ZUVQLXFoTkw3QXotdnRyZkQ3TWNFUTQ0MmhBcDJDd3J2ZnpIR1VTU256TjAyaGZ4RUFDUVBVenpHR2dwQWtfNHRCUXdOVXVQdWxGX3o3amJodEx5SkRxczVVWGx2WDA4YzF0dnQ3MXZmOGJVWm1EYTlqdw?oc=5"
-    },
-    {
-      "headline": "Meta AI parental supervision now includes reviewing kids' AI topics - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-04-23T11:03:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta AI parental supervision now includes reviewing kids' AI topics &nbsp;&nbsp; Mashable",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fR2o2TnRjemY1WDd2c2VUNjlac3ZlUy1BZWg2R0M1NVhkdWp1Ul9FYTFOMkJDbnkycF95N2JqZmpTblg5cUFRVDQxTEpMRzlkb1hrTkFCb2MxSHE1WEtpY19pa2x6OW94b0Z2czdSaXdDWnVx?oc=5"
-    },
-    {
-      "headline": "Helping Parents Understand the Conversations Their Teens Are Having With AI - meta.com",
-      "source": "meta.com",
-      "timestamp": "2026-04-23T11:00:17.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Helping Parents Understand the Conversations Their Teens Are Having With AI &nbsp;&nbsp; meta.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0JwckpVdlRmOVBXNG1POFZZWHlRNjR4T3BkVnZ0NG1nYm5uSl9kZVpoNGNjaFFIckVXQ1NkbWpjQmJubXpLZUdKT1lYSk1ET1lkeURnbkdkRmpFQ0ptUDJLOXVGYWp3TWpTVmtpQ3duNWF1MGQ2VlBGZXlYMkdvaGt4cUdxNmJLV2FsOGpuaHBGazQ2TkxFMW9Nd0pIX3hfVXN6Nl9yT2o0UdIBrwFBVV95cUxOckRVTV8yc2JKSkp2LVQxOUpOeDI3Vm5WbDdKSk5uN0xpNEp2WFdrQUFlRmNXRE5YTTBjRm91cUtHcnJsQUVOLVNwTEhDV2ZGZjBCNUNvMkUtSzU5LW9GdnlleEF5QTZSRzZIUWRpa2R5TUtLall0bGg2LU9TUVZvM0RlMndFTVQ0bWpCOU1YRjhpZk5ERWhybHVqTkF6QU5wRTI3dVRaX01zc1A4VjNB?oc=5"
     },
     {
       "headline": "Meta will now allow parents to see the topics their child discussed with Meta AI - TechCrunch",
@@ -82,46 +82,73 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDVUN0VtaWRCblkwMWhTSm93Y2tTY05MX3lVUEZpbGs2SmJ6SzdfOUpTOG54NWJJU2szZHA1NDRIel9EdTJTa1NhNjl0R19tcE5lUS02cFlBVXpTUndyWlVvYmVWSlhHSUdQWUpwU05hLTZZTXE1SGFTZVFvb3dNWVVjMWlMSnJTZDhuWWVSYVlNeEVQaER0LWNGMTZvbTA?oc=5"
     },
     {
-      "headline": "Tencent unveils first flagship AI model under former OpenAI researcher - South China Morning Post",
-      "source": "South China Morning Post",
-      "timestamp": "2026-04-23T06:05:17.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Tencent unveils first flagship AI model under former OpenAI researcher &nbsp;&nbsp; South China Morning Post",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmhKelVRaUF3ZGdzNENEbHdZbWpQam1wVEZqZkRRcnlwOHVOd0xDNWlyV0FoSHhaUVp0X25vMnB5cGpvenM1UVpITzdYQm5xNGFoZWhQUDZrS3pwY1hCbWpRN1FnQWlCd0h0WlludXl3TkYxUm1JN0dMenowd3VrdDE2VzZRMi0tZmNGT1VNcHRvRTJxUmlhQ2NZWFpHRzcwNHBubE5KSUN2RDRsRGRsM1d1cldIai1wSERDc9IBvAFBVV95cUxNTUY5WnV1WXBtOVJKMVFDLTJpNHJ0VF9raklLdy0tS1hKSExQWkZEUnYzTlRfN0IxRVBnX1lmcDJhemQ2eU9tMTh3Y0JuTVBoTHNXeXY1WG1ybFZXX0d6eFM0Q205Q2dQbnVvN3RwVlMzcGR4MnBnazBTdEx3YkpWLWVNOEdYaU90NkJfVFJTZzBWZEtqYzVBZEkzWmdBeEc2SlpscllNT1FGOThBcVFwU2tqemJGb2hIRTJQag?oc=5"
-    },
-    {
-      "headline": "SoftBank Seeks $10 Billion Loan Backed by OpenAI Shares - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-23T03:51:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "SoftBank Seeks $10 Billion Loan Backed by OpenAI Shares &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkJPVlRIdHNxSkd2a2FkZUgxNlhsUkRvZmhUblJFODlEUDFOMENoYnhhdldVc3lHYU9RYWZXNlBDMkYxSnptcVI2WndQbHpGNlRra3I4SmdmdWZGN051NFN0ejdpdk84LXk5NDM5RmJpZHZleW5IM3ZYUTJhSTVwRjZkRmJuQkROQzRDazJ0LWJQYVBYVlotbUFhMXRMdFJveVF0bzhlSHFNNEJWSWstaHRR?oc=5"
-    },
-    {
-      "headline": "Microsoft bets big on AI in Australia with $18 billion investment - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-23T01:00:00.000Z",
+      "headline": "Meta expands access to Meta AI business assistant - Social Media Today",
+      "source": "Social Media Today",
+      "timestamp": "2026-04-23T00:39:48.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Microsoft bets big on AI in Australia with $18 billion investment &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5"
+      "category": "ecosystem",
+      "summary": "Meta expands access to Meta AI business assistant &nbsp;&nbsp; Social Media Today",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnVQRGtWRDZwODJuTWRDYnd1eEpsN3BfQWxRRkZneG5vTjVEX3VJN0szZjRFZ3NyS3RPOHZRMHYxSDJNODNCV19PY0pFeXFBdHh0dFJYQlcyR1U0bThQcjlHS2c4UDVsTXl2ZUo1TTdNUkVlT2huSGtTSjZUTTM0c3RUTC13OFVMMUs2Y0xIako0TVFMVkJ0bjd3OA?oc=5"
+    },
+    {
+      "headline": "Microsoft deepens commitment to Australia with A$25 billion investment in AI infrastructure, security, and skills - Microsoft Source",
+      "source": "Microsoft Source",
+      "timestamp": "2026-04-23T00:37:39.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft deepens commitment to Australia with A$25 billion investment in AI infrastructure, security, and skills &nbsp;&nbsp; Microsoft Source",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDNidG0wbEhzRnM0dU9PRC0yUlBpbVpTcmFYYm9sTWkxN2lXMnJVUElKWGpRR2h5TWdqZ0Y4Tm5CWXZqWHU1RlZOWm96ZDV1UjVCR2pza3p1ZGEwY0o2X1pLTE9xUi1OVmVmUHBfNUpyNGZ6TURLM1BvOVVOcXdXMHFRVWlNRnBoM0E?oc=5"
+    },
+    {
+      "headline": "Microsoft announces Australia’s largest AI skilling commitment: three million people by 2028 - Microsoft Source",
+      "source": "Microsoft Source",
+      "timestamp": "2026-04-23T00:37:39.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft announces Australia’s largest AI skilling commitment: three million people by 2028 &nbsp;&nbsp; Microsoft Source",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkwwcHZ4RHJnWEhRenFMeEdndlgwWV92ZGtteTZJSEd0eEx2QkYwV2hKMlh4SEZWMGtmWWVYWDNNc1BxcmZPS2dkd2VFZE9nZV8xMzVFZno4LWJTNXVvQ3Z1WGM3d2NGcnhnT0lWSVVxNlEyS3pJcWwwUW5ULWg3M3JrZkRnOV9XTEF5Sm8wdmNtaGdNblJ0SDg2bHl5bTItdnAxRWcxUUcyTWtBYWl2SmRR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Elon Musk and Sam Altman’s Epic Fight Heads to Court - The New York Times",
+        "headline": "OpenAI Says New Model Adept At Making AI Better - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-04-23T19:09:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkpaWFRlLU16ZHMwMGxoQ2lNLWQ4aDZSTWoxXy1lV1M5SGhub1lSVFJUM3R6YV9aZE10alg4VHhRMl9QVWhXS0M0clRYNl9COEJEMWR5Y0paMjg0d2hFdnM1OTYxTGFXd0dBaVNTd2luUi1MalA3QXV6cllTNnFYMzFISi0wZXB4Y20wV2tB?oc=5",
+        "summary": "OpenAI Says New Model Adept At Making AI Better &nbsp;&nbsp; Barron's"
+      },
+      {
+        "headline": "OpenAI releases \"Spud\" GPT-5.5 model - Axios",
+        "source": "Axios",
+        "timestamp": "2026-04-23T18:13:20.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUGxueklxTlY4RC1CSVRyZnhmV1dGWFdjLWxWNXFSYTFPbzNQV2stT19yMDB0NlFhMHh6bkVaMUdsdExWSE1uRkdLQWdyQmpXcmF5N1R1UTRyc1ZSUm1VN1NBV0tQeTA4S2pQMXFYX2w?oc=5",
+        "summary": "OpenAI releases \"Spud\" GPT-5.5 model &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "OpenAI Unveils Its New, More Powerful Model - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-04-23T16:31:57.000Z",
+        "timestamp": "2026-04-23T18:00:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5",
+        "summary": "OpenAI Unveils Its New, More Powerful Model &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest - Tom's Hardware",
+        "source": "Tom's Hardware",
+        "timestamp": "2026-04-23T15:11:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTNFcHhlQWpJRHh3akgxRUI2ZkpsMEhSZ1RTc0UwWXA5bmxzcHBiQTJTSFd6eXJmZld2OEI0UFc4WFNQMjhQUUhqZXRQVnpsZE5FMzh6WjRLYUpmZGI3aDBrOFpzQl83SnBvXzhCeHNYNERwLXZBTlR5Y0dPc3lwdm9GbkV6TU1MMHM5ag?oc=5",
-        "summary": "Elon Musk and Sam Altman’s Epic Fight Heads to Court &nbsp;&nbsp; The New York Times"
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNY2E0aGIySUlOdURacFMxNXk3WXpNMi1aaGhRMU9naW5JSTZ4ZmpSN3BLM284aURuZTdPcGQ3X1ZFZnFOU1JkS2VxWllRVlNRTmx3MnE1STdpOVpLTFBEWVYyNElGZEdSNDdvcVQ2cHIwMURYNGZWRUxuQUh3OXpRcTBYSWEyeEpCdDF3eGF1SnVHNGp5OUtiT3pzU0ZmVmJnQWVuQjJkUllsV05CNHhscXo3OXRfOEREbVNfYlVDQ3h0TWd5S1c1X3gyN3FQN1E4R25vN2oxRFBVbkFVOG9oMEpuVHlyYUdQWFF2VVVGTUNEMEc3MFRxUTdoVXhoX0R5WG54bU9RSEFRQ2FHV0FuLWJGWFJWbk5MMXR6ZA?oc=5",
+        "summary": "Anthropic surpasses biggest rival OpenAI in secondary market valuation — surges to $1 trillion amid frantic investor interest &nbsp;&nbsp; Tom's Hardware"
       },
       {
         "headline": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale - Google DeepMind",
@@ -131,33 +158,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFdVS0pQdVZYZjFRTk9sRVExME5vaHNFSWh3YXk1QlBBa2o0Z1ptU2kxRzlLLW02X0hOUEp3SnpiNHpab0EwOWJ3dkZJUWNGX2dwbFNWS241dw?oc=5",
         "summary": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale &nbsp;&nbsp; Google DeepMind"
-      },
-      {
-        "headline": "You’re about to feel the AI money squeeze - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-04-23T13:45:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2N5SV96U1JjRUpILTUtMnZtR1ZmX1Y0MXlia1ZqYmRYNkttU1o1ekxLREVHMnZtQXA0Q2drOEc1VE55ZUVQLXFoTkw3QXotdnRyZkQ3TWNFUTQ0MmhBcDJDd3J2ZnpIR1VTU256TjAyaGZ4RUFDUVBVenpHR2dwQWtfNHRCUXdOVXVQdWxGX3o3amJodEx5SkRxczVVWGx2WDA4YzF0dnQ3MXZmOGJVWm1EYTlqdw?oc=5",
-        "summary": "You’re about to feel the AI money squeeze &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Meta AI parental supervision now includes reviewing kids' AI topics - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-04-23T11:03:57.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fR2o2TnRjemY1WDd2c2VUNjlac3ZlUy1BZWg2R0M1NVhkdWp1Ul9FYTFOMkJDbnkycF95N2JqZmpTblg5cUFRVDQxTEpMRzlkb1hrTkFCb2MxSHE1WEtpY19pa2x6OW94b0Z2czdSaXdDWnVx?oc=5",
-        "summary": "Meta AI parental supervision now includes reviewing kids' AI topics &nbsp;&nbsp; Mashable"
-      },
-      {
-        "headline": "Helping Parents Understand the Conversations Their Teens Are Having With AI - meta.com",
-        "source": "meta.com",
-        "timestamp": "2026-04-23T11:00:17.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0JwckpVdlRmOVBXNG1POFZZWHlRNjR4T3BkVnZ0NG1nYm5uSl9kZVpoNGNjaFFIckVXQ1NkbWpjQmJubXpLZUdKT1lYSk1ET1lkeURnbkdkRmpFQ0ptUDJLOXVGYWp3TWpTVmtpQ3duNWF1MGQ2VlBGZXlYMkdvaGt4cUdxNmJLV2FsOGpuaHBGazQ2TkxFMW9Nd0pIX3hfVXN6Nl9yT2o0UdIBrwFBVV95cUxOckRVTV8yc2JKSkp2LVQxOUpOeDI3Vm5WbDdKSk5uN0xpNEp2WFdrQUFlRmNXRE5YTTBjRm91cUtHcnJsQUVOLVNwTEhDV2ZGZjBCNUNvMkUtSzU5LW9GdnlleEF5QTZSRzZIUWRpa2R5TUtLall0bGg2LU9TUVZvM0RlMndFTVQ0bWpCOU1YRjhpZk5ERWhybHVqTkF6QU5wRTI3dVRaX01zc1A4VjNB?oc=5",
-        "summary": "Helping Parents Understand the Conversations Their Teens Are Having With AI &nbsp;&nbsp; meta.com"
       },
       {
         "headline": "Meta will now allow parents to see the topics their child discussed with Meta AI - TechCrunch",
@@ -172,21 +172,21 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
