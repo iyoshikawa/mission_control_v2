@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T23:52:51.438Z",
+    "generatedAt": "2026-04-24T03:22:09.068Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) - hollywoodreporter.com",
-      "source": "hollywoodreporter.com",
+      "headline": "Behind Cursor’s Deal With SpaceX, Anthropic and Compute Costs Loomed Large - The Information",
+      "source": "The Information",
+      "timestamp": "2026-04-24T02:41:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Behind Cursor’s Deal With SpaceX, Anthropic and Compute Costs Loomed Large &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjdlSlRtZkZNRExLcjRKN3pOMmc5VE1VRkpwdzZJVGd0OC1qT1REUGQ1ejNnRVFzb3k1TUVQcDBtaVZkbEFCNnpwd045S3I1YkRiLVgxSFE3RnppZ1h0ODBLLWZWSnBGdXMzTDVzQWY5YWxjbGV2NEZfbTJScklmRndfem8zMkJNdld5allfUUhBdm96Qjl1dHhjSGFVS08yZGowcWFn?oc=5"
+    },
+    {
+      "headline": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-04-24T02:36:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEd4bVA1T1hmYWdWczNVWkFzLWhFQnF3ZlhjWXpPSXVLRW55Qi1fY1F1MWVTVEJwU05YQWlHODJVZUVhbG1vY0dOUWRsQlhBalFYaGxYMzB2b1hQLW9NRHZPTy1vU29Ud0RnUm1KcTRxV0hYUEd1TWJ6YkVGc2xqbHB2dGRERDZFVFFKSmJvSDc4b250V0cyay1MbUEzUk5lLUtiOGp5ZVZTYnRpYjNOcQ?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) - The Hollywood Reporter",
+      "source": "The Hollywood Reporter",
       "timestamp": "2026-04-23T22:45:53.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) &nbsp;&nbsp; hollywoodreporter.com",
+      "summary": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) &nbsp;&nbsp; The Hollywood Reporter",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVRJRVMwYk4zN1JFNDl4TTRHNzFLY1VaQ0NBNVBzQTQ2Vkt2VnE2QUtnWXEzUXNSMzlNMTBJU1pqWjd1WW9mZUFmYXVqeGtjTHpJN2JnNlVuS3hBWURXVHNEQnlzRkZXUHp1dDd1cGoxTVA1TWswTXA1RW1RQlV6dEJCb2hUY3Y4aGtvclFrblE5YWowRDQ0bHpHbzloUU1RVEY1SXJkM1VvLUdtdVpmNWhuVk1STmJmTHp4c25lVmxralg5Q3BhVnhBWFJJUEVLTzExRU41LXVhRDVB?oc=5"
     },
     {
-      "headline": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-04-23T22:27:11.000Z",
+      "headline": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform - Microsoft Azure",
+      "source": "Microsoft Azure",
+      "timestamp": "2026-04-23T22:00:00.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform &nbsp;&nbsp; Microsoft Azure",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFdVU3l2RV9EcVJ5SWYySzc4Nm1mTzkxTHJqWklLQnJqeDB2SW5aeko1cEVDckFfNUFxcmwwWndHeEptLTZFQ2NhaUs3cTdVdDlnR3l2dFVKN0ZtemFYMVdfamVGRlhxdmFrM092Z1B2VkJoRFZnQVdCMzNQblFESnZLanpzUmNVZ2FLLUk0cjdjMk8tdlZNbkFNR0VVakRtN0FTaktpMEZQRGVKemd5a3dpY0ZtYlM1dzBFZjFLaXNpRlBELVpkVGpB?oc=5"
+    },
+    {
+      "headline": "Microsoft and Meta announce large staff reductions as they spend big on AI - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-23T21:23:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWR2WU83TWpUQ3BReEpqRGYybUNsNTB0cHlZVUc5Q0E2YUpqb1BWSFRHV1BseEtHN1dURzlsdmItS1BhRU9mV0UzSXQ4R0k2eGYxa21zbS15VkNtUUNjMUdJeV9McGtQeUp0RlBJNHZ6YTlsS0NxNERCRjZqM0xJTW9VcERiU1FLNzg2X2IyYk9hdW1FZzRWSlVsbXlCWlRD?oc=5"
+      "category": "ecosystem",
+      "summary": "Microsoft and Meta announce large staff reductions as they spend big on AI &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVRYWXdQVkNaOVhYdXgwSkVxQlBoOEJ4V09pVUN6UG1qQjh1OEtSUTlmM1ZHSnY3V0hzaGIwVFBSSW5rOXVER3I1elpJMk41X2c2blA4UlNKNXdBdFpsSklMRy05b2gtZkk0dHhaenJWY1VwQ2tVMG9kS29YWTB2X043cHozc3A5?oc=5"
     },
     {
       "headline": "Introducing GPT-5.5 - OpenAI",
@@ -42,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5"
     },
     {
-      "headline": "Meta to Lay Off 10 Percent of Work Force in A.I. Push - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-23T20:20:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta to Lay Off 10 Percent of Work Force in A.I. Push &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OZ19odndZcTJkODlxQ2QzckYtMEl6cWhtMEw2Zl9SWUN3cEozUmhFQ3pRRmJuZTRPcmhmXzB2VUl3Z2xTeXo4YnJuc083TjZyYm96ZnNmQlZVQkFQOUhYT2JTR2tfejF6aG5OM0pLVWM?oc=5"
-    },
-    {
       "headline": "Meta to cut 10% of staff as it pours billions into AI - CNN",
       "source": "CNN",
       "timestamp": "2026-04-23T19:58:21.000Z",
@@ -62,14 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wNEtzLXV2ek4tWEZLRzd4VUtIdzZKYVlQRnlabG9qTWRlUFZEQVNINzJ5MmVYUTVod2VFN0FlQVJkbDJVR05oVmVfNnZMRWhmczRqbGRIWXJWUWxaMWFIS0FpTDNQSENiYXpRbkpZbUk5RGE4YV8w?oc=5"
     },
     {
-      "headline": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work - NVIDIA Blog",
-      "source": "NVIDIA Blog",
-      "timestamp": "2026-04-23T19:00:43.000Z",
+      "headline": "Elon Musk and Sam Altman’s Epic Fight Heads to Court - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-23T18:40:57.000Z",
       "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Elon Musk and Sam Altman’s Epic Fight Heads to Court &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTNFcHhlQWpJRHh3akgxRUI2ZkpsMEhSZ1RTc0UwWXA5bmxzcHBiQTJTSFd6eXJmZld2OEI0UFc4WFNQMjhQUUhqZXRQVnpsZE5FMzh6WjRLYUpmZGI3aDBrOFpzQl83SnBvXzhCeHNYNERwLXZBTlR5Y0dPc3lwdm9GbkV6TU1MMHM5ag?oc=5"
+    },
+    {
+      "headline": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’ - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-04-23T18:29:29.000Z",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work &nbsp;&nbsp; NVIDIA Blog",
+      "summary": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’ &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrS3h5OHdvNTR4WVZRTzV0cWhaaU9Nc0dpTWs4SlotZjRUZXN3OW04b1VYZ2tiWHJ1cGU0cjZISE9QUTFLaURZSUVTMm1yMU44amRTX0h5cVJvcnF1YlBmWGlmY1Z4dUQxTlZuSU1R?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFRRUMtR0dlSnMtUlA1ZnhTcloxNHl0ME9pcm1TSG9zSlJfWkEzeklCckE5OEFDYjBnajJwcWQ5bGJhX2VuX3lwWTVtVEtna2NTSW1EVy1OeFFlR2phaDVLQ0l3emlSTEZPLVlZMzVMVzRta2pseTV1OW5la3dPaA?oc=5"
     },
     {
       "headline": "An update on recent Claude Code quality reports - Anthropic",
@@ -80,57 +110,54 @@
       "summary": "An update on recent Claude Code quality reports &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbzBkRXBGLTl2YjRQU2NDT0piaWdaZks2ckFNNXYwXzdEOERUZHBEWVZSTktyZ0xQLTNrM2h3NXZnY3N2Ty0xdUJFRzNfUFRqWHl3VW5hMGxpTkttOVR1YXRSMnVJNWR5?oc=5"
-    },
-    {
-      "headline": "Meta will cut 10% of workforce as company pushes deeper into AI - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-23T18:00:18.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta will cut 10% of workforce as company pushes deeper into AI &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHNGbEZGWnZFVWhPZjFRbXFCeFpnV2FkY1VsUmgxbGZOQldqRnhCUFQwNEtab24yRTlPYkxFNmtYYnJpaWx4NkZfWkpJY3hRc1dsZTRwX0VjSFN0MnVlY3hSRGpKc3B6dzhxaW84ZFlvT2d1b1U0eDJNaFc3V3N5RXlxQUxjZEtsS3dUSHpfUjcwdFVGOTFzb2pUejg1U3dy0gGmAUFVX3lxTFBMai1HczNjYzFVbUEyY3Jrb3c2MkNjazd1dEFCbzk3OHE0Ykg4ZDVhNThGcG55TzRoaU9YOF9SVEtObzBVampsdmdaZnJzM05lMHZlTWVSczZGWENRZDdZR0FudzNmTmd5cGE3ekRELVN5eTZRbHY1NEYteEpFZmR1RHUzM0VOdUV1am1teW43OEdGM0lRY0Vub3plcVBoWUJfNVZqVGc?oc=5"
-    },
-    {
-      "headline": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-23T18:00:06.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kM0M1bXdZcFhlb1BDVEl6eTRQUDJQem9KQ1dCRFl2TTRSTFFhS1ZPZGh0UFdXQ3hjSFZQcXlLMGxpOFBIQW8xOTRfMnhwR2lPYmwwckhJZzUwaUZpbm5fX3JoNDlwYWVBWm1FYnN5bDhkYXhoM0E?oc=5"
-    },
-    {
-      "headline": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-04-23T14:58:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yTFdVS0pQdVZYZjFRTk9sRVExME5vaHNFSWh3YXk1QlBBa2o0Z1ptU2kxRzlLLW02X0hOUEp3SnpiNHpab0EwOWJ3dkZJUWNGX2dwbFNWS241dw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) - hollywoodreporter.com",
-        "source": "hollywoodreporter.com",
+        "headline": "Behind Cursor’s Deal With SpaceX, Anthropic and Compute Costs Loomed Large - The Information",
+        "source": "The Information",
+        "timestamp": "2026-04-24T02:41:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjdlSlRtZkZNRExLcjRKN3pOMmc5VE1VRkpwdzZJVGd0OC1qT1REUGQ1ejNnRVFzb3k1TUVQcDBtaVZkbEFCNnpwd045S3I1YkRiLVgxSFE3RnppZ1h0ODBLLWZWSnBGdXMzTDVzQWY5YWxjbGV2NEZfbTJScklmRndfem8zMkJNdld5allfUUhBdm96Qjl1dHhjSGFVS08yZGowcWFn?oc=5",
+        "summary": "Behind Cursor’s Deal With SpaceX, Anthropic and Compute Costs Loomed Large &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-04-24T02:36:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEd4bVA1T1hmYWdWczNVWkFzLWhFQnF3ZlhjWXpPSXVLRW55Qi1fY1F1MWVTVEJwU05YQWlHODJVZUVhbG1vY0dOUWRsQlhBalFYaGxYMzB2b1hQLW9NRHZPTy1vU29Ud0RnUm1KcTRxV0hYUEd1TWJ6YkVGc2xqbHB2dGRERDZFVFFKSmJvSDc4b250V0cyay1MbUEzUk5lLUtiOGp5ZVZTYnRpYjNOcQ?oc=5",
+        "summary": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire &nbsp;&nbsp; Bloomberg"
+      },
+      {
+        "headline": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) - The Hollywood Reporter",
+        "source": "The Hollywood Reporter",
         "timestamp": "2026-04-23T22:45:53.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVRJRVMwYk4zN1JFNDl4TTRHNzFLY1VaQ0NBNVBzQTQ2Vkt2VnE2QUtnWXEzUXNSMzlNMTBJU1pqWjd1WW9mZUFmYXVqeGtjTHpJN2JnNlVuS3hBWURXVHNEQnlzRkZXUHp1dDd1cGoxTVA1TWswTXA1RW1RQlV6dEJCb2hUY3Y4aGtvclFrblE5YWowRDQ0bHpHbzloUU1RVEY1SXJkM1VvLUdtdVpmNWhuVk1STmJmTHp4c25lVmxralg5Q3BhVnhBWFJJUEVLTzExRU41LXVhRDVB?oc=5",
-        "summary": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) &nbsp;&nbsp; hollywoodreporter.com"
+        "summary": "Anthropic CEO Dario Amodei and Graydon Carter to Host A-List Cannes Party (Exclusive) &nbsp;&nbsp; The Hollywood Reporter"
       },
       {
-        "headline": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-04-23T22:27:11.000Z",
+        "headline": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform - Microsoft Azure",
+        "source": "Microsoft Azure",
+        "timestamp": "2026-04-23T22:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFdVU3l2RV9EcVJ5SWYySzc4Nm1mTzkxTHJqWklLQnJqeDB2SW5aeko1cEVDckFfNUFxcmwwWndHeEptLTZFQ2NhaUs3cTdVdDlnR3l2dFVKN0ZtemFYMVdfamVGRlhxdmFrM092Z1B2VkJoRFZnQVdCMzNQblFESnZLanpzUmNVZ2FLLUk0cjdjMk8tdlZNbkFNR0VVakRtN0FTaktpMEZQRGVKemd5a3dpY0ZtYlM1dzBFZjFLaXNpRlBELVpkVGpB?oc=5",
+        "summary": "OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform &nbsp;&nbsp; Microsoft Azure"
+      },
+      {
+        "headline": "Microsoft and Meta announce large staff reductions as they spend big on AI - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-23T21:23:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWR2WU83TWpUQ3BReEpqRGYybUNsNTB0cHlZVUc5Q0E2YUpqb1BWSFRHV1BseEtHN1dURzlsdmItS1BhRU9mV0UzSXQ4R0k2eGYxa21zbS15VkNtUUNjMUdJeV9McGtQeUp0RlBJNHZ6YTlsS0NxNERCRjZqM0xJTW9VcERiU1FLNzg2X2IyYk9hdW1FZzRWSlVsbXlCWlRD?oc=5",
-        "summary": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax &nbsp;&nbsp; The Verge"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVRYWXdQVkNaOVhYdXgwSkVxQlBoOEJ4V09pVUN6UG1qQjh1OEtSUTlmM1ZHSnY3V0hzaGIwVFBSSW5rOXVER3I1elpJMk41X2c2blA4UlNKNXdBdFpsSklMRy05b2gtZkk0dHhaenJWY1VwQ2tVMG9kS29YWTB2X043cHozc3A5?oc=5",
+        "summary": "Microsoft and Meta announce large staff reductions as they spend big on AI &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "Introducing GPT-5.5 - OpenAI",
@@ -140,33 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNXhTM0RLTTBMTktqSFdCbUUxTXN2cC1xdmJPcEpjbktUdm43SlB0cFI3UGNRMnRXODFHZHZab3hOMlUwSlFKa1ZjWUg3R0c0NG1PZ0hWcnQ?oc=5",
         "summary": "Introducing GPT-5.5 &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Meta to Lay Off 10 Percent of Work Force in A.I. Push - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-23T20:20:56.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OZ19odndZcTJkODlxQ2QzckYtMEl6cWhtMEw2Zl9SWUN3cEozUmhFQ3pRRmJuZTRPcmhmXzB2VUl3Z2xTeXo4YnJuc083TjZyYm96ZnNmQlZVQkFQOUhYT2JTR2tfejF6aG5OM0pLVWM?oc=5",
-        "summary": "Meta to Lay Off 10 Percent of Work Force in A.I. Push &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Meta to cut 10% of staff as it pours billions into AI - CNN",
-        "source": "CNN",
-        "timestamp": "2026-04-23T19:58:21.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wNEtzLXV2ek4tWEZLRzd4VUtIdzZKYVlQRnlabG9qTWRlUFZEQVNINzJ5MmVYUTVod2VFN0FlQVJkbDJVR05oVmVfNnZMRWhmczRqbGRIWXJWUWxaMWFIS0FpTDNQSENiYXpRbkpZbUk5RGE4YV8w?oc=5",
-        "summary": "Meta to cut 10% of staff as it pours billions into AI &nbsp;&nbsp; CNN"
-      },
-      {
-        "headline": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work - NVIDIA Blog",
-        "source": "NVIDIA Blog",
-        "timestamp": "2026-04-23T19:00:43.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrS3h5OHdvNTR4WVZRTzV0cWhaaU9Nc0dpTWs4SlotZjRUZXN3OW04b1VYZ2tiWHJ1cGU0cjZISE9QUTFLaURZSUVTMm1yMU44amRTX0h5cVJvcnF1YlBmWGlmY1Z4dUQxTlZuSU1R?oc=5",
-        "summary": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work &nbsp;&nbsp; NVIDIA Blog"
       }
     ],
     "whyItMatters": [
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
