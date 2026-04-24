@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-24T19:57:02.146Z",
+    "generatedAt": "2026-04-24T20:59:39.153Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic - CNET",
-      "source": "CNET",
-      "timestamp": "2026-04-24T19:48:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic &nbsp;&nbsp; CNET",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFJPQjE4U0hEU1NzSktiR3ZYa0dRLTFYckJRNWVJSWNBYy1oRXQ4VWw1YVg2VE8tcHRDOTlycUh1UnFEVThadFZCdWpYOXVDYXdQWjBjR2VoZExRd0gyRnFSdGliSm1rUHdGSHJEZEhfeE5JQ0ZsRHhzU1hMRmdkZlFZSmdaeEpyR19LX2lGOW1vQQ?oc=5"
+      "headline": "Elon Musk’s Legal War With OpenAI’s Sam Altman Set for Showdown in Court - The Information",
+      "source": "The Information",
+      "timestamp": "2026-04-24T19:54:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Elon Musk’s Legal War With OpenAI’s Sam Altman Set for Showdown in Court &nbsp;&nbsp; The Information",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGpGSENsMTNaYm1SUmFxT3Y5bDh5NDJTcHZQeGROWF9RYVl5ZktVSnFyYlFCWDhsMExSSjNGY3RLdGticDFOcFBMRWRJd1AtZy00cURyRmQwZlBNWFYwSlRTdTIyMEZGS2Q1NTRVWHRIc1ljdmpmWWxaUlo5UEY2ZFlmc2FISmd0ekROXzljOTk4UC1YY250a3k3TEVRV1U?oc=5"
     },
     {
       "headline": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better? - Mashable",
       "source": "Mashable",
-      "timestamp": "2026-04-24T17:46:06.000Z",
+      "timestamp": "2026-04-24T17:50:43.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better? &nbsp;&nbsp; Mashable",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVBNZVhkenFXc1BPcDM1Q1Y3eWF0MWl3anpReWpkNFU4dmJBZXhtU3FIOFJDYWlDZ0theHVyQXBxZVl4MGl5SlJNTUxHc09MN0o4QVd3eTdYck1yMjFLbnBacWY4eDhOOXJ2cXU0b2djaGpKVGxqcVlJUTM3SDRUeFdfdGw?oc=5"
+    },
+    {
+      "headline": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-24T17:30:55.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com Google's $40B Anthropic move is Big Tech's latest huge AI bet &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2NxSktQaDVOV3FRckRrRGZ0TzJjX2NmWWUwQklqUERpZWxrRW9heVhDVHVaNU9yNjJlY2tpRTZyUzRhOEVOS3hxM3BuUks5LURYVlk2Nm1BVWpFRE9DaXNMcWZ4cUs0Y1BwQWpIVGlFTC00V216R0ItVFJUX0w4cy1qNzVTNHBQaVR2RVVZRkVrdTIzSDB4bEhhRm5FeGZlU18wTmFRZlZBNGhURWhUWGRrMjZweC1HR2Nv0gHAAUFVX3lxTFAzNjgyNC1ZdmE5aE9obWpnUldYTFBvRWhQME12Q05TbGN1RWs5LVM4R0FnRW9QNU9vUV8yV044OFdPaGh2QTlkZlo3R3NyYjZ4UzB1V2pJQ1RLRWJyQXpHX2p1VFhYaGRRZHhYZ3BUdnVabmxMWUNGWExhTkt1ckVZcTM5aVFfZTJHTDl0bktiYV92OHl5bWpJTDRYdWp1Vk1JRFBvUEpvZE85U3JiZVhfelpWeUZFN2ZqMTM3Nl9qNg?oc=5"
     },
     {
       "headline": "Anthropic says engineering missteps were behind Claude Code’s month-long decline after weeks of user backlash - Fortune",
@@ -50,16 +60,6 @@
       "summary": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials &nbsp;&nbsp; WIRED",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1NXcHl2VndweVJBbEgySEE5QVgyRldvNjlkbXkzLWlXNXNBVnVJdmNUa1hLNGo1SXAzTmZCanpLRTFrZlFYLWJ2YVBkT0M1ODU0TzV3QXgzTGIzdUdBcWpvOWllbGU0S0NHVDhIbnpvLS03eEhrQlNNYm5UVlVtUVNNLUlJRXBmdm1ibExOS2N6VTdnQ0Z4cnBB?oc=5"
-    },
-    {
-      "headline": "A secretive AI hacking system has sparked a global scramble - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-04-24T16:05:38.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "A secretive AI hacking system has sparked a global scramble &nbsp;&nbsp; The Washington Post Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users &nbsp;&nbsp; Bloomberg.com After a Potential Mythos Breach, Why Do Developers Use Such Powerful AI Models? &nbsp;&nbsp; KQED",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2tyWVdjTVREMFFvb3RTelA1QVI3ei1mMUJyZU0xUVZnUE40MmdIOUlnVURBZjBfTW5GOS0yLTJRTkdqZGNRRlZRMW1TeXpCZEs4QW5ESDM5RmN5SEJOTXQxejAzb0d1T19TT0U5QWdBdDFPNUY2c2d3TVU5U3dHa3loNEpZem8taHJYWmNPMnl5Z1E5Wm13U2Y1TzJKNDAwRTBYVmt3dFlVWVR3UkZDOA?oc=5"
     },
     {
       "headline": "Amazon Stock Rallies To Record High On Meta AI Chip Deal - Investor's Business Daily",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic - CNET",
-        "source": "CNET",
-        "timestamp": "2026-04-24T19:48:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFJPQjE4U0hEU1NzSktiR3ZYa0dRLTFYckJRNWVJSWNBYy1oRXQ4VWw1YVg2VE8tcHRDOTlycUh1UnFEVThadFZCdWpYOXVDYXdQWjBjR2VoZExRd0gyRnFSdGliSm1rUHdGSHJEZEhfeE5JQ0ZsRHhzU1hMRmdkZlFZSmdaeEpyR19LX2lGOW1vQQ?oc=5",
-        "summary": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic &nbsp;&nbsp; CNET"
+        "headline": "Elon Musk’s Legal War With OpenAI’s Sam Altman Set for Showdown in Court - The Information",
+        "source": "The Information",
+        "timestamp": "2026-04-24T19:54:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGpGSENsMTNaYm1SUmFxT3Y5bDh5NDJTcHZQeGROWF9RYVl5ZktVSnFyYlFCWDhsMExSSjNGY3RLdGticDFOcFBMRWRJd1AtZy00cURyRmQwZlBNWFYwSlRTdTIyMEZGS2Q1NTRVWHRIc1ljdmpmWWxaUlo5UEY2ZFlmc2FISmd0ekROXzljOTk4UC1YY250a3k3TEVRV1U?oc=5",
+        "summary": "Elon Musk’s Legal War With OpenAI’s Sam Altman Set for Showdown in Court &nbsp;&nbsp; The Information"
       },
       {
         "headline": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better? - Mashable",
         "source": "Mashable",
-        "timestamp": "2026-04-24T17:46:06.000Z",
+        "timestamp": "2026-04-24T17:50:43.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVBNZVhkenFXc1BPcDM1Q1Y3eWF0MWl3anpReWpkNFU4dmJBZXhtU3FIOFJDYWlDZ0theHVyQXBxZVl4MGl5SlJNTUxHc09MN0o4QVd3eTdYck1yMjFLbnBacWY4eDhOOXJ2cXU0b2djaGpKVGxqcVlJUTM3SDRUeFdfdGw?oc=5",
         "summary": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better? &nbsp;&nbsp; Mashable"
+      },
+      {
+        "headline": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-24T17:30:55.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2NxSktQaDVOV3FRckRrRGZ0TzJjX2NmWWUwQklqUERpZWxrRW9heVhDVHVaNU9yNjJlY2tpRTZyUzRhOEVOS3hxM3BuUks5LURYVlk2Nm1BVWpFRE9DaXNMcWZ4cUs0Y1BwQWpIVGlFTC00V216R0ItVFJUX0w4cy1qNzVTNHBQaVR2RVVZRkVrdTIzSDB4bEhhRm5FeGZlU18wTmFRZlZBNGhURWhUWGRrMjZweC1HR2Nv0gHAAUFVX3lxTFAzNjgyNC1ZdmE5aE9obWpnUldYTFBvRWhQME12Q05TbGN1RWs5LVM4R0FnRW9QNU9vUV8yV044OFdPaGh2QTlkZlo3R3NyYjZ4UzB1V2pJQ1RLRWJyQXpHX2p1VFhYaGRRZHhYZ3BUdnVabmxMWUNGWExhTkt1ckVZcTM5aVFfZTJHTDl0bktiYV92OHl5bWpJTDRYdWp1Vk1JRFBvUEpvZE85U3JiZVhfelpWeUZFN2ZqMTM3Nl9qNg?oc=5",
+        "summary": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com Google's $40B Anthropic move is Big Tech's latest huge AI bet &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Anthropic says engineering missteps were behind Claude Code’s month-long decline after weeks of user backlash - Fortune",
@@ -151,15 +160,6 @@
         "summary": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "A secretive AI hacking system has sparked a global scramble - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-04-24T16:05:38.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2tyWVdjTVREMFFvb3RTelA1QVI3ei1mMUJyZU0xUVZnUE40MmdIOUlnVURBZjBfTW5GOS0yLTJRTkdqZGNRRlZRMW1TeXpCZEs4QW5ESDM5RmN5SEJOTXQxejAzb0d1T19TT0U5QWdBdDFPNUY2c2d3TVU5U3dHa3loNEpZem8taHJYWmNPMnl5Z1E5Wm13U2Y1TzJKNDAwRTBYVmt3dFlVWVR3UkZDOA?oc=5",
-        "summary": "A secretive AI hacking system has sparked a global scramble &nbsp;&nbsp; The Washington Post Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users &nbsp;&nbsp; Bloomberg.com After a Potential Mythos Breach, Why Do Developers Use Such Powerful AI Models? &nbsp;&nbsp; KQED"
-      },
-      {
         "headline": "Amazon Stock Rallies To Record High On Meta AI Chip Deal - Investor's Business Daily",
         "source": "Investor's Business Daily",
         "timestamp": "2026-04-24T14:54:00.000Z",
@@ -172,15 +172,15 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
