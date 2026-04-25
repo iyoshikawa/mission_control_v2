@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-25T07:25:00.745Z",
+    "generatedAt": "2026-04-25T08:59:48.935Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "You weren't imagining it — Claude Code really did get worse, and Anthropic just explained why - XDA",
-      "source": "XDA",
-      "timestamp": "2026-04-25T03:45:00.000Z",
+      "headline": "White House pushed out new AI official after just four days on the job - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-04-25T03:35:14.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "You weren't imagining it — Claude Code really did get worse, and Anthropic just explained why &nbsp;&nbsp; XDA",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjVOelEtSWVyaEwzc2tpdlF3NXlzNGZlX3JPQk1yeWQ5WDBiei1MVTNacURKU0tXYW01ZUpfM0VXUDZTa0s3Y200M3VyMkRHenBmYXJVckQ4d25USlc1Y2JWQzdJUV9oN19WTVNfS0h3Y1BrZENlREZHc0tUM0tvUElOeEl5MHJaN0hmUnZaTm5YeGt6b0p1UWgtNVdQRW5xaVVyV0NTRnAycHhoUmVqNXFKLXcweVRxVVNBVnJn?oc=5"
+      "category": "ecosystem",
+      "summary": "White House pushed out new AI official after just four days on the job &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVF3Nm5NaC1BdVRlclhrOFNuVUJqd0lnMl9LUExzV1RWTUsya0NJT0RLNDBnQUdYZldzTlNqd2tMV29VNmxtTWlHcjdLSmRCSjdIdldHRHlRUW5VazhGQ0dleHkySE9rZmg5T3YyemNRd0o4WDJNbnpabjJIWmxEV1VWeGt3UThKdEZtMUVaZEcxQkpPc1EwSQ?oc=5"
+    },
+    {
+      "headline": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-25T02:13:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUJQRnRoSEJqbE1mTGhOblRuSHR0UHlDTnF5WGY4aWZEZnlreEpzS1UzUldnQm9DaldHdmpUVGFHM3BoYl9fMzlIeUV1bVVpZ0lya0RXSWR2WXVwZ3l4TjdqbW05bEpsSWlNMThUOE5DZXJIMjc1MHlUbWZQeVhBcGRnRlMzZmxfLXNpLUJXM2w3UjM4T0RRV1hSRVZlN2FLTFhUWE9BcjRLYlRvbE5oWjZjd0h0Q2V1aXpCOHNoeTRnVi1OYjJWcnZn?oc=5"
     },
     {
       "headline": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot - CNN",
@@ -42,22 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1NXcHl2VndweVJBbEgySEE5QVgyRldvNjlkbXkzLWlXNXNBVnVJdmNUa1hLNGo1SXAzTmZCanpLRTFrZlFYLWJ2YVBkT0M1ODU0TzV3QXgzTGIzdUdBcWpvOWllbGU0S0NHVDhIbnpvLS03eEhrQlNNYm5UVlVtUVNNLUlJRXBmdm1ibExOS2N6VTdnQ0Z4cnBB?oc=5"
     },
     {
-      "headline": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-04-24T16:55:30.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here &nbsp;&nbsp; CNBC Meta to Lay Off 10 Percent of Work Force in A.I. Push &nbsp;&nbsp; The New York Times Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVcwMlRJMGdaRGQ0NVNlSjd5RERGRWxzUThGY3RPXzgwVUxsS0FlT3lra28yMTlRTUpfeG8wUWdDV2pSUkZVN1gyWkJWbEFFSk5HN3lUcVVodEJNLVRRUHhPVHpITW9EaVBVRUIzQ3V6MlVtTnZFcHlZc2FOUk50bEpldkozbTgzQmtaZ2Z4UWk1eVZqVDdtcGhRMnQyYk9yQzdZ0gGoAUFVX3lxTE9ZTFhTWVZrMkVVd1RFY0hHTVVWdTJmNllNc2lWYnBBUXFHeUtGaGhWNjN5UTFmUTVRRUlCV1FKNjBqTjEyNWVickRTVmVjQlBzZ3BCWVY4ZDNiS3NRcTVWUTN3LWVuSkZhb1NSOVJRbC1OMjhBR2xOOHlRZlVubW5fMkVSMEl3dkRKQ0F6NzE3ZW9fSm9ja3pxQWxKbkpaZkMyaC1wM2JiOQ?oc=5"
-    },
-    {
-      "headline": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg",
+      "source": "Bloomberg",
       "timestamp": "2026-04-24T15:50:18.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Commits to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; The New York Times",
+      "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Commits to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGxxRGpicldRM1ROVW5GTEhYR09zZ25XRWdXYjFWZTJJYWNIS1Q3WWpvTTFLRkgyWFBQZ2hwRVpyc0RTaHRjc2tXQlhreEQ2WGMtSVpneWRZT0hzSHc1dG14bWgtb0J0bmlFSjhkVWtZT0JWM2pONlJZdWdaSjNFWnlJa3JqR05ueG9wN2d4WDNjNTNRcjk3SlpTbVpwX3dIYUtlLVlB?oc=5"
     },
@@ -72,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FX0xXZWlhZmZTMlR2Z1FJRW41SmlLXzVYNDNRNWRwMXZOa1FOWVZLREEzR3N6OEk3MXU2MnVPa21jX3AxU3ZBc3lLWHV5MkpFcVc2TkZtOVhzLWt5NDkwQVd5SkFaeE5Ta0hNd2RJOERTcnMyY0h5Mg?oc=5"
     },
     {
-      "headline": "Meta Partners With AWS on Graviton Chips to Power Agentic AI - meta.com",
-      "source": "meta.com",
-      "timestamp": "2026-04-24T12:00:38.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta Partners With AWS on Graviton Chips to Power Agentic AI &nbsp;&nbsp; meta.com",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGwxN0E4T09Qc1llOGtkREcyV3JMMGVkcVJ0bnB5RmVaM2ZTMXhPb3pPMkJ3MkNkeGU4QkJSbmdPWllYZnBwaHpnUWsycHh6SmhfNXdLVlBMU0Y2XzIzV2tSMHptLXVLRXRpUVY1NjhIVGZZWkZIUXJoMDh5cUk3WE5CYy0zV09MeEh4dWNBSlBfdExRbDZKZGViWdIBoAFBVV95cUxPYUc2N3hjcHdLeVBYdUVxZjdiYXN1SEtIMHVJQmJkZmxrWGdmTWtMcUEyUk1GNWk1MTJSQVlNMEhmblRaWGNGTkFaNERiTTkwUjJNdlE0M0FwZWhTaWsteks1RHBMU3kta3o3NU1MOHRldHBEb25EOEczWFdZMzRPWXNnUDItVC1IYTVGM3BBc3hrUEQwMGRITXd4b2paUnh4?oc=5"
-    },
-    {
       "headline": "Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab - CNBC",
       "source": "CNBC",
       "timestamp": "2026-04-24T12:00:01.000Z",
@@ -90,6 +80,16 @@
       "summary": "Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab &nbsp;&nbsp; CNBC",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORW1uQUVrWWE0NS01TEdocTBzZzBKSDJ5a0V3SFE0RE1remZ6NExXQ3pPLUFHQ0ltQV9qdjlfT2VzNGpCM2dpellHeHlGck01X2RpUjBEX0g5VWNBSUVTUmxmYW9BQnBieS1zV3A1Y3N0cEN2bjJ5OUY1YlpURDVEb3plWmFlTlp1R2VnOTdYVVJycnJBa1hoMFJ30gGfAUFVX3lxTE12Y3RhNEJwX2ZkbTVxMjNVajNZbEJPcHg0WnB4UTBfaENRbXYxQmFPZ29VTE83R00tY1dJbFRGMXc4T3ZjcE53Tzc1QmlrSmFpanNQUk83TGZlb1JST21jRDV6eDNvMEc1SGduNWNXYXVFWU5xU0c1YVlKSnRrOFQyTUhvREN1WlRmR3RBc2hvVW1PQVhiSmVweDNVUEFnMA?oc=5"
+    },
+    {
+      "headline": "Meta to use Amazon Graviton chips to power AI services - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-04-24T12:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta to use Amazon Graviton chips to power AI services &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUm1LeWhud0lUeGFab05YNkV3MUNpZmp3c1lONHhEUHc1dGlXSTJ4RXhiZEFUMG1ZT293dHFOWWFJLUlHSHBpdzBWMGtfNnQtdi1NeUZqaENMM1N6LWxmQk9MZkFOUzVURjFIeXQ4d2czZVBURFhpN3ByV0oyXzMyWlBYUGp6N1RpcUFaRlJQbU5BWFBFbUpzNXptcDdBbndwb1JqSDBvTVNoSDU1ZnlPS0dGcjF5R1JRUjRXVUJtZw?oc=5"
     },
     {
       "headline": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money - The New York Times",
@@ -115,13 +115,22 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "You weren't imagining it — Claude Code really did get worse, and Anthropic just explained why - XDA",
-        "source": "XDA",
-        "timestamp": "2026-04-25T03:45:00.000Z",
+        "headline": "White House pushed out new AI official after just four days on the job - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-04-25T03:35:14.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjVOelEtSWVyaEwzc2tpdlF3NXlzNGZlX3JPQk1yeWQ5WDBiei1MVTNacURKU0tXYW01ZUpfM0VXUDZTa0s3Y200M3VyMkRHenBmYXJVckQ4d25USlc1Y2JWQzdJUV9oN19WTVNfS0h3Y1BrZENlREZHc0tUM0tvUElOeEl5MHJaN0hmUnZaTm5YeGt6b0p1UWgtNVdQRW5xaVVyV0NTRnAycHhoUmVqNXFKLXcweVRxVVNBVnJn?oc=5",
-        "summary": "You weren't imagining it — Claude Code really did get worse, and Anthropic just explained why &nbsp;&nbsp; XDA"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVF3Nm5NaC1BdVRlclhrOFNuVUJqd0lnMl9LUExzV1RWTUsya0NJT0RLNDBnQUdYZldzTlNqd2tMV29VNmxtTWlHcjdLSmRCSjdIdldHRHlRUW5VazhGQ0dleHkySE9rZmg5T3YyemNRd0o4WDJNbnpabjJIWmxEV1VWeGt3UThKdEZtMUVaZEcxQkpPc1EwSQ?oc=5",
+        "summary": "White House pushed out new AI official after just four days on the job &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-25T02:13:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUJQRnRoSEJqbE1mTGhOblRuSHR0UHlDTnF5WGY4aWZEZnlreEpzS1UzUldnQm9DaldHdmpUVGFHM3BoYl9fMzlIeUV1bVVpZ0lya0RXSWR2WXVwZ3l4TjdqbW05bEpsSWlNMThUOE5DZXJIMjc1MHlUbWZQeVhBcGRnRlMzZmxfLXNpLUJXM2w3UjM4T0RRV1hSRVZlN2FLTFhUWE9BcjRLYlRvbE5oWjZjd0h0Q2V1aXpCOHNoeTRnVi1OYjJWcnZn?oc=5",
+        "summary": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot - CNN",
@@ -142,22 +151,13 @@
         "summary": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-24T16:55:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVcwMlRJMGdaRGQ0NVNlSjd5RERGRWxzUThGY3RPXzgwVUxsS0FlT3lra28yMTlRTUpfeG8wUWdDV2pSUkZVN1gyWkJWbEFFSk5HN3lUcVVodEJNLVRRUHhPVHpITW9EaVBVRUIzQ3V6MlVtTnZFcHlZc2FOUk50bEpldkozbTgzQmtaZ2Z4UWk1eVZqVDdtcGhRMnQyYk9yQzdZ0gGoAUFVX3lxTE9ZTFhTWVZrMkVVd1RFY0hHTVVWdTJmNllNc2lWYnBBUXFHeUtGaGhWNjN5UTFmUTVRRUlCV1FKNjBqTjEyNWVickRTVmVjQlBzZ3BCWVY4ZDNiS3NRcTVWUTN3LWVuSkZhb1NSOVJRbC1OMjhBR2xOOHlRZlVubW5fMkVSMEl3dkRKQ0F6NzE3ZW9fSm9ja3pxQWxKbkpaZkMyaC1wM2JiOQ?oc=5",
-        "summary": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here &nbsp;&nbsp; CNBC Meta to Lay Off 10 Percent of Work Force in A.I. Push &nbsp;&nbsp; The New York Times Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg.com",
-        "source": "Bloomberg.com",
+        "headline": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg",
+        "source": "Bloomberg",
         "timestamp": "2026-04-24T15:50:18.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGxxRGpicldRM1ROVW5GTEhYR09zZ25XRWdXYjFWZTJJYWNIS1Q3WWpvTTFLRkgyWFBQZ2hwRVpyc0RTaHRjc2tXQlhreEQ2WGMtSVpneWRZT0hzSHc1dG14bWgtb0J0bmlFSjhkVWtZT0JWM2pONlJZdWdaSjNFWnlJa3JqR05ueG9wN2d4WDNjNTNRcjk3SlpTbVpwX3dIYUtlLVlB?oc=5",
-        "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Commits to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; The New York Times"
+        "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Commits to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips - About Amazon",
