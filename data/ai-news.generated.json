@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-26T09:56:58.978Z",
+    "generatedAt": "2026-04-26T10:54:16.795Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-26T08:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDk5SnJIXzZFTDUwbVJZbzJnZTBZalE1STZnXzhnX3d4d180ZVdTNTlPVWdJQnNzUXdaZkZYdkZKZFlteTk2SE5kcVk1bEZDZ2ctaFp2ZWZ0SlkwY3lFc21PVDBxV3BsS0FCcExQQTZfckItSktUU1hLUUk2VWVyYXZYWXdzU2Yxb2l3?oc=5"
+    },
     {
       "headline": "Anthropic created a test marketplace for agent-on-agent commerce - TechCrunch",
       "source": "TechCrunch",
@@ -50,16 +60,6 @@
       "summary": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWpxcE45R3ktV2ppNGpLTU1VZU9aRTgtWXRfOE80ZWNpM2l4LVpDV05KeHdyaWZYSWtLQVNOZUVzQ3ZwWk12d3hxMmg1VHlZZEFWdHNtcjd5Qkk5cnhHT3FmWFNJUGFfa2NiQXZCcW9QNHNHTUt2YWc3UjAxMENaTU9rZ0Q0VS0xaWxYbGZVYzBWTkd5a1NiVmRUb2dOQXBCRDF4azdZcElobUZ0UThVSw?oc=5"
-    },
-    {
-      "headline": "Amazon Stock Rallies To Record High On Meta AI Chip Deal - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "timestamp": "2026-04-24T20:31:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Amazon Stock Rallies To Record High On Meta AI Chip Deal &nbsp;&nbsp; Investor's Business Daily",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SUEQ0VFIzR2cyd0RKLUFfaUVycmt1dkJsQzdXckY1dHZTbEUtbG9DWXpMdUEtZ0hNY1BWSWNMSThuU3ExWVpoUlJGZDlwMXFEYk8wTUJlekY5QW9ZaW1qNGJUSW9TS2tMTEpYVzZsNjNyS1hob3FxUHZOaVhaWFE?oc=5"
     },
     {
       "headline": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets - CNBC",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-26T08:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDk5SnJIXzZFTDUwbVJZbzJnZTBZalE1STZnXzhnX3d4d180ZVdTNTlPVWdJQnNzUXdaZkZYdkZKZFlteTk2SE5kcVk1bEZDZ2ctaFp2ZWZ0SlkwY3lFc21PVDBxV3BsS0FCcExQQTZfckItSktUU1hLUUk2VWVyYXZYWXdzU2Yxb2l3?oc=5",
+        "summary": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear &nbsp;&nbsp; Fortune"
+      },
+      {
         "headline": "Anthropic created a test marketplace for agent-on-agent commerce - TechCrunch",
         "source": "TechCrunch",
         "timestamp": "2026-04-25T21:43:37.000Z",
@@ -149,15 +158,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWpxcE45R3ktV2ppNGpLTU1VZU9aRTgtWXRfOE80ZWNpM2l4LVpDV05KeHdyaWZYSWtLQVNOZUVzQ3ZwWk12d3hxMmg1VHlZZEFWdHNtcjd5Qkk5cnhHT3FmWFNJUGFfa2NiQXZCcW9QNHNHTUt2YWc3UjAxMENaTU9rZ0Q0VS0xaWxYbGZVYzBWTkd5a1NiVmRUb2dOQXBCRDF4azdZcElobUZ0UThVSw?oc=5",
         "summary": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Amazon Stock Rallies To Record High On Meta AI Chip Deal - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "timestamp": "2026-04-24T20:31:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SUEQ0VFIzR2cyd0RKLUFfaUVycmt1dkJsQzdXckY1dHZTbEUtbG9DWXpMdUEtZ0hNY1BWSWNMSThuU3ExWVpoUlJGZDlwMXFEYk8wTUJlekY5QW9ZaW1qNGJUSW9TS2tMTEpYVzZsNjNyS1hob3FxUHZOaVhaWFE?oc=5",
-        "summary": "Amazon Stock Rallies To Record High On Meta AI Chip Deal &nbsp;&nbsp; Investor's Business Daily"
       },
       {
         "headline": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets - CNBC",
