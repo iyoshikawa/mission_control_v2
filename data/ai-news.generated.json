@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-26T13:16:12.565Z",
+    "generatedAt": "2026-04-26T14:51:17.821Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-26T10:01:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUIzZTdBdnVsd1JFZkRzV25EV2xBTU1FS1VYeGZ6OUk4R2dMU2hIMkp5YkQ3UW16UmY5RXF5ak9HQ1VXU09iMVJ5SEgtWG5aOVQwNmF1TlpBRUJXd0F0cVdiV0pQZmNOaUFUNWFhTzRUWnNwZEpGRWR4NVZxSURLWA?oc=5"
+    },
     {
       "headline": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune",
       "source": "Fortune",
@@ -42,16 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVF3Nm5NaC1BdVRlclhrOFNuVUJqd0lnMl9LUExzV1RWTUsya0NJT0RLNDBnQUdYZldzTlNqd2tMV29VNmxtTWlHcjdLSmRCSjdIdldHRHlRUW5VazhGQ0dleHkySE9rZmg5T3YyemNRd0o4WDJNbnpabjJIWmxEV1VWeGt3UThKdEZtMUVaZEcxQkpPc1EwSQ?oc=5"
     },
     {
-      "headline": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot - CNN",
-      "source": "CNN",
-      "timestamp": "2026-04-24T21:56:48.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0R1QzZ3aDhTbGJNaHljd1ZFQ0Q5bC1nZk1tZU53Wk40aVRJMjFsTUNnTUFmLVk4ZTR2WjYtYjl4eWdBb0F4c0lCdWtkcmZOeS1EZW5RLVYtWjFRdWU0SThUUUpWRmRob1Q2Zi1fT0dKSlZlb0RPTlRqVEdubUJUMjAyTVM?oc=5"
-    },
-    {
       "headline": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police - WSJ",
       "source": "WSJ",
       "timestamp": "2026-04-24T20:32:00.000Z",
@@ -67,7 +67,7 @@
       "timestamp": "2026-04-24T18:07:43.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "Google to invest up to $40 billion in AI rival Anthropic &nbsp;&nbsp; Reuters Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Google to invest up to $40 billion in AI rival Anthropic &nbsp;&nbsp; Reuters Google Commits to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; The New York Times Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhLSVpIR0hNMkd6LWcwM1BCeVk4SE9GOGk1MF9TajBfc1AzRWU4RFh2UzlBTkhLLWdsZEdlR3o5N19JMFk3TjMwbHpQWXBvdGVaNUpqdlRucFBJd1F6Mk9xY3lRRS10NVB1OFZTdWFwWnIyWC1oYmo1allMQ0lVQjV5b0FNREVqcUtWdGdzWXJQY3RXU1k2WHlpM19WdWtEUEpKUFJzbV83Y21vZGRObw?oc=5"
     },
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FX0xXZWlhZmZTMlR2Z1FJRW41SmlLXzVYNDNRNWRwMXZOa1FOWVZLREEzR3N6OEk3MXU2MnVPa21jX3AxU3ZBc3lLWHV5MkpFcVc2TkZtOVhzLWt5NDkwQVd5SkFaeE5Ta0hNd2RJOERTcnMyY0h5Mg?oc=5"
     },
     {
-      "headline": "Meta Partners With AWS on Graviton Chips to Power Agentic AI - meta.com",
-      "source": "meta.com",
-      "timestamp": "2026-04-24T12:00:38.000Z",
+      "headline": "Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-24T12:00:01.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Meta Partners With AWS on Graviton Chips to Power Agentic AI &nbsp;&nbsp; meta.com",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGwxN0E4T09Qc1llOGtkREcyV3JMMGVkcVJ0bnB5RmVaM2ZTMXhPb3pPMkJ3MkNkeGU4QkJSbmdPWllYZnBwaHpnUWsycHh6SmhfNXdLVlBMU0Y2XzIzV2tSMHptLXVLRXRpUVY1NjhIVGZZWkZIUXJoMDh5cUk3WE5CYy0zV09MeEh4dWNBSlBfdExRbDZKZGViWdIBoAFBVV95cUxPYUc2N3hjcHdLeVBYdUVxZjdiYXN1SEtIMHVJQmJkZmxrWGdmTWtMcUEyUk1GNWk1MTJSQVlNMEhmblRaWGNGTkFaNERiTTkwUjJNdlE0M0FwZWhTaWsteks1RHBMU3kta3o3NU1MOHRldHBEb25EOEczWFdZMzRPWXNnUDItVC1IYTVGM3BBc3hrUEQwMGRITXd4b2paUnh4?oc=5"
+      "category": "ecosystem",
+      "summary": "Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORW1uQUVrWWE0NS01TEdocTBzZzBKSDJ5a0V3SFE0RE1remZ6NExXQ3pPLUFHQ0ltQV9qdjlfT2VzNGpCM2dpellHeHlGck01X2RpUjBEX0g5VWNBSUVTUmxmYW9BQnBieS1zV3A1Y3N0cEN2bjJ5OUY1YlpURDVEb3plWmFlTlp1R2VnOTdYVVJycnJBa1hoMFJ30gGfAUFVX3lxTE12Y3RhNEJwX2ZkbTVxMjNVajNZbEJPcHg0WnB4UTBfaENRbXYxQmFPZ29VTE83R00tY1dJbFRGMXc4T3ZjcE53Tzc1QmlrSmFpanNQUk83TGZlb1JST21jRDV6eDNvMEc1SGduNWNXYXVFWU5xU0c1YVlKSnRrOFQyTUhvREN1WlRmR3RBc2hvVW1PQVhiSmVweDNVUEFnMA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-26T10:01:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUIzZTdBdnVsd1JFZkRzV25EV2xBTU1FS1VYeGZ6OUk4R2dMU2hIMkp5YkQ3UW16UmY5RXF5ak9HQ1VXU09iMVJ5SEgtWG5aOVQwNmF1TlpBRUJXd0F0cVdiV0pQZmNOaUFUNWFhTzRUWnNwZEpGRWR4NVZxSURLWA?oc=5",
+        "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court &nbsp;&nbsp; The Guardian"
+      },
       {
         "headline": "'You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear - Fortune",
         "source": "Fortune",
@@ -142,15 +151,6 @@
         "summary": "White House pushed out new AI official after just four days on the job &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot - CNN",
-        "source": "CNN",
-        "timestamp": "2026-04-24T21:56:48.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0R1QzZ3aDhTbGJNaHljd1ZFQ0Q5bC1nZk1tZU53Wk40aVRJMjFsTUNnTUFmLVk4ZTR2WjYtYjl4eWdBb0F4c0lCdWtkcmZOeS1EZW5RLVYtWjFRdWU0SThUUUpWRmRob1Q2Zi1fT0dKSlZlb0RPTlRqVEdubUJUMjAyTVM?oc=5",
-        "summary": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot &nbsp;&nbsp; CNN"
-      },
-      {
         "headline": "OpenAI CEO Apologizes for Not Flagging Mass Shooting Suspect to Police - WSJ",
         "source": "WSJ",
         "timestamp": "2026-04-24T20:32:00.000Z",
@@ -166,7 +166,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelhLSVpIR0hNMkd6LWcwM1BCeVk4SE9GOGk1MF9TajBfc1AzRWU4RFh2UzlBTkhLLWdsZEdlR3o5N19JMFk3TjMwbHpQWXBvdGVaNUpqdlRucFBJd1F6Mk9xY3lRRS10NVB1OFZTdWFwWnIyWC1oYmo1allMQ0lVQjV5b0FNREVqcUtWdGdzWXJQY3RXU1k2WHlpM19WdWtEUEpKUFJzbV83Y21vZGRObw?oc=5",
-        "summary": "Google to invest up to $40 billion in AI rival Anthropic &nbsp;&nbsp; Reuters Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets &nbsp;&nbsp; CNBC Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com"
+        "summary": "Google to invest up to $40 billion in AI rival Anthropic &nbsp;&nbsp; Reuters Google Commits to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; The New York Times Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
