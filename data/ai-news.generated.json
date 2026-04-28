@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-28T00:01:18.030Z",
+    "generatedAt": "2026-04-28T04:35:49.810Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
-      "source": "MIT Technology Review",
-      "timestamp": "2026-04-27T22:52:57.000Z",
+      "headline": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-28T03:10:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5"
+    },
+    {
+      "headline": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story - simplywall.st",
+      "source": "simplywall.st",
+      "timestamp": "2026-04-28T01:52:30.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future &nbsp;&nbsp; MIT Technology Review",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5"
+      "summary": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story &nbsp;&nbsp; simplywall.st",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0tMcllyb09lT29SNUJlekc2Q3dMWHptN1RTdDZPZS1LMVhlSk5FODJlVzNlM2VnQzZMVXlhVURjTkZYUDFtamVTam1VeDF4am9aOGtzZVZBbDRkMktlcTVWbldSTjdLcTEyM3pBekhXVzVXSFNfWmg2Wmpzdm5BRnRDZUt2dkFGMTRwa2dSMEpkVk1VVWVlZXY5NmN3MHJBQmxhamp6ZUJZQm1rNHFoNjlxeEQxdmZpMlhya2Z3OUI2S1NVTFIw0gHMAUFVX3lxTE9RZG1WMF9KdW55SnlqWmlGQzRtNWt5Umw4bnNpS1pwS0R3NG9GT3BDaDZRaHFDTTZQSHd6eEs3VV8wMzV5WE5MNWhfbl9pdmZnWG9XMVp0czRJQ0NCNTU4T3VBeV96STBSQ0hVYU82ZmNqZVc2TTc5Z1d5Snp1YV9jWERBX0luZzFqWFlyUDN6TTlyelZjNG5MR0NySzA0T3J6UllYc2dDNVk0XzJBWkZrT3R2dVJrNFh3cFpQcW1IWWd6N29hVkg3SjhoRQ?oc=5"
+    },
+    {
+      "headline": "Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-04-28T01:29:33.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTRCcDRKd0p0QS1FQmlwVjdBNXZBbmZBcHJkMmNtU0I2TGhrNWl0TEFYMzh0QnFTcDZYWDFKeHU2dFkyZGdKWEhkX0s5bmNLemlwOWRjbkFwb1RFLWxFUmZfWlp5S1ViRlhJZkprMHVQS2VnREF1MlB3MTF0YmRSYVNBYXJFZEFaSnZN?oc=5"
+    },
+    {
+      "headline": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-28T01:00:00.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhJdk5kS0ZjcEV1MDF6U2piMWlUMzFYbGl2Y0hoQVEyajFzWDRLazF4U1p0alhaTWNnU0NKckM5c1dxVEc2WWZ4MDRsY19NR0Z3NGZYX3ZpV0E2XzB4RXpRRU1EcmltaEczcDJ4VzB6bGt6VUxzWENlcTh5NndmcFc5N2FuVzlvUHNfU3JTWHlJSllSNVJiRmhLSEhpNTdpSGhuRUxRNE9zQ2Np?oc=5"
+    },
+    {
+      "headline": "Microsoft and OpenAI Update AI Partnership with New Business Terms - The National CIO Review",
+      "source": "The National CIO Review",
+      "timestamp": "2026-04-27T17:47:40.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Microsoft and OpenAI Update AI Partnership with New Business Terms &nbsp;&nbsp; The National CIO Review",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVFUUFZrVVplSTk3amh1anFoTHBHajJzOFJ2UV9Ob3cycVBEM0VNNnBiRUh4MG4tY0pPbzRKakFWZDJDMmJTTTZNMkxRN1hTVGpNWHdkVHNiMHFzdW5wZ3pxQktGMG9reUlLLUJyd2V4ZzVXMlc3TG1vNTRnbTBEUmp0NENpQ0lYWlRGYXpsU2FacEN0QjNfUFZncElkZDFKcGdsek0yd0NVU01nYWV1MzROSnJMV3BqeWlwejlBT3kzYUNjMHc?oc=5"
+    },
+    {
+      "headline": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-04-27T17:24:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDhLak52TU9jcThMdW9Rb2ZGUDhNWndaWHU3eVJqdzZKNzB3WXZyRFhGTG9ZYWtZN2ZwZ3U3MjNDZ2YwOUpnX1RocHY2QWVURFp6MkZaeXlWRVhCUEJtZ29nUHlKWDlEc2RVa0ZqT1VOMEhrc0w0NnZldDhreW1JbnZOU1RyU0xqVV91VmFFTExBQmhzTzJqemtsSDMxaUFOUWN1M2N2QmxvWUM5UUYzaDNKNEFMTnpIQUI5RA?oc=5"
     },
     {
       "headline": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens - AP News",
@@ -60,113 +110,63 @@
       "summary": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence &nbsp;&nbsp; CNBC",
       "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVZbnhTcE85MnFiUnh5dzVqcFM2YVJpSllSRWFDMW1HcEk0YWFOelFmWnc4THlRdmFCSHlMQmctUENQS2s1cm5LNnpINmN4b2h4ODAzTFJBUzd2WDJkQ2xiZTk0dnBJXzNUQXRqNkk3dUFiZm1pVVVqanZjUEZfRFp1Y3pLUjQ0UldaTTEyTksyVnc4eFpXeElKSGdBSC1adGg4cdIBqgFBVV95cUxOX0FHSUlKcUhqdGo4MWllelJDYVpnclRzTGJPUnJHRmFiVkpYZllwbHl1V2VhTGZHS2x1eVkxRXlXNUpRbm9DdDl2X0NoNnluVkZWUzYwMUpNdmtzOWhYTGRXYzQ4U2VBUXE4UV9mQTlyVWttMEZLUnpqX0JDeVVWb0VndThFVFVHbmtzZWgtbWFmRDVNbWZhTldnbndxTk5SQjl4NnJrcFAwUQ?oc=5"
-    },
-    {
-      "headline": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) - Amazon Web Services",
-      "source": "Amazon Web Services",
-      "timestamp": "2026-04-27T15:01:28.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) &nbsp;&nbsp; Amazon Web Services",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTndOTGJ4UEtJOWpIckU2LTZoWmx0cXZQdG5kRlFJMDFCMC1oQlE0LUtEZVUzTnh1VVNycldRZWl6cEphQXFTbk43bHJRS1RiZDhYMDVIdTlic19sZGpuLTE1ZjRiajZZUDFJR0k2MjJkNnBIaDlkcXV5T0tDNDNvTVhPR3hwdTQzdU5Jbm5JY2lnQUlRUFkxc2dPcGRzVzhYX2pGaU5qTXlpM0VUN0hFbmhITFNRSHhDVlpjVEhBZjhtX3Q4VUxGTVZJY0lTOHJjeGE3eUdSOUlCOEdnMmhnNU9EWC1Ydw?oc=5"
-    },
-    {
-      "headline": "Sequoia and Nvidia Back Ex-DeepMind Researcher’s New AI Startup at $5.1 Billion Value - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-27T14:26:16.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Sequoia and Nvidia Back Ex-DeepMind Researcher’s New AI Startup at $5.1 Billion Value &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFVsMkdIM3gwOG5JRXoxZk1vLThPTHMtdU16cWZHdmQxaVB2Zk8tTDh1SHZGWDhWZE1kaGR3UW1VLXZ0M1Q1ZEhJY3VhZXgzNTIzelN5aHNEcmc5UEppaC1HRW5NMVM1SXhOVzg3XzBmYmw5OFN1MTZQVTduVHlqa1ZvbGR1aURGNnVCU3pXTGNpWEMzLTR4REdXdFUzeXJ0X3BHSzZVeHg5QXJ2N3RZYk8zbk9aS0FZYXc?oc=5"
-    },
-    {
-      "headline": "OpenAI Breaks Free From Microsoft Azure Exclusivity - Analytics India Magazine",
-      "source": "Analytics India Magazine",
-      "timestamp": "2026-04-27T14:07:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Breaks Free From Microsoft Azure Exclusivity &nbsp;&nbsp; Analytics India Magazine",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDkyNjNObG9TdTV5RlQ2RExISHZudVlHZ1NZTm1IWENaYm9KdWxZeDNjUDdROUlUX09CUUhDYWtsV2FQTzU4NUQ5QVhWS2IzMldFdXU1X0pmWk03LXQxQ21lQ0sxNjQweGRudFlKVThSZGxpN29KZkNRWG81dFVEUGNoU3dBUTJFeW04S0c3ZXhxVkk?oc=5"
-    },
-    {
-      "headline": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-04-27T14:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWjBtLTNmOUx0ZWt4elVYdWtjTVBCd2tyQUJsYUpaR3ZEaU5XNkRwZ0lZc3YySF9UYWRFd24xbC00d3JPTGN4M2NHc2hJV294TUhscjVnZWxZd24yNTJBanFrelFiTjBQMHhlVGZJb2J5bGttdWhMS2ZMTktYd2dLWmJ3VW5iSWhJR0E5NjRsUkdnZTd4?oc=5"
-    },
-    {
-      "headline": "OpenAI Breaks Free From Exclusive AI Pact With Microsoft - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-27T13:14:37.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI Breaks Free From Exclusive AI Pact With Microsoft &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3VBVHlzUG9SeXJUS2tmM2ZkQlAzSjNDdFJEOFRHdElwYUg0SGdmLWJ1a3M2RndYTlhEc0w0SllLdjI1MWpNOUM4SlVPR2w0cDRJdVFUajZsNi1lbmJQXzNydm5sRktjQnd6U1N3R2NwcjZuT0JBbjVYbjR0WmtIcEN0bWxPUmt0dVFSbHhHWEVPUXBiVXJub3EybVluQzBfRDNsTkYwcGdCMEwxTS1ER3Rn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Elon Musk and Sam Altman are going to court over OpenAI’s future - MIT Technology Review",
-        "source": "MIT Technology Review",
-        "timestamp": "2026-04-27T22:52:57.000Z",
+        "headline": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-04-28T03:10:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVB2eTlFanBoVlZnZ2hTSmZ4UjhJbDdkNU12Ukstd04waHJKSjdXX01YVXhaZEl1Z29RMHdyM05EcmNhNlIycllMQTNqNnVVcHlPZ0lKTkFuZHdnT3VoenhVaTFMUWJ5UWxrRUNuUkRHMVJRRjNMb2d5cmFuVXNYNTNzTklEMDl4NVJyQXFZZVhpV0JQY0lkaDhOZWFXUjZMNnduQ2JET1QxZm1xNk51VUROV2ktSknSAbwBQVVfeXFMTkpxZ3UwcEFVRUFWNll3bHJfYmVYZXBtcEJZMnpEcUkzWkE2RkRZQm1CbTlLSFE2SV92cTNISUdERXBieENDQzlwTzN4T0NrUEhtMHRJM1Ywc2s5c1BtUEo1UFIxSDBjbGxDU1hhaTBEZE1FSlN1ZDRWT1VubDdjZEFJV2t6dmNLeWdMREdTX25lUmxkNzVjb0FOd0toZWpZUUxZN2RvV3pKS2lCODU0SU11RmRacU0tTEJrTjA?oc=5",
-        "summary": "Elon Musk and Sam Altman are going to court over OpenAI’s future &nbsp;&nbsp; MIT Technology Review"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
+        "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens - AP News",
-        "source": "AP News",
-        "timestamp": "2026-04-27T17:18:00.000Z",
+        "headline": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story - simplywall.st",
+        "source": "simplywall.st",
+        "timestamp": "2026-04-28T01:52:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXlvdjVxRUF1RE9HaGozVWVISXdFbVlJdEIzRUhlMHp4T0R5U1Nwb01VNW5NLUhfVUhwSThpVm10R3J4NWtFcXI2ZUJqVWFtazNHUzJfNUZrbS1hdDF1RTlvQ3lRTHBlY1ZQZ3lwNlEzMFViVlhqSGRXNXpwcFdyMTNKTlBwQnpsMWdNNnltTFRuZXpNMWc?oc=5",
-        "summary": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens &nbsp;&nbsp; AP News"
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0tMcllyb09lT29SNUJlekc2Q3dMWHptN1RTdDZPZS1LMVhlSk5FODJlVzNlM2VnQzZMVXlhVURjTkZYUDFtamVTam1VeDF4am9aOGtzZVZBbDRkMktlcTVWbldSTjdLcTEyM3pBekhXVzVXSFNfWmg2Wmpzdm5BRnRDZUt2dkFGMTRwa2dSMEpkVk1VVWVlZXY5NmN3MHJBQmxhamp6ZUJZQm1rNHFoNjlxeEQxdmZpMlhya2Z3OUI2S1NVTFIw0gHMAUFVX3lxTE9RZG1WMF9KdW55SnlqWmlGQzRtNWt5Umw4bnNpS1pwS0R3NG9GT3BDaDZRaHFDTTZQSHd6eEs3VV8wMzV5WE5MNWhfbl9pdmZnWG9XMVp0czRJQ0NCNTU4T3VBeV96STBSQ0hVYU82ZmNqZVc2TTc5Z1d5Snp1YV9jWERBX0luZzFqWFlyUDN6TTlyelZjNG5MR0NySzA0T3J6UllYc2dDNVk0XzJBWkZrT3R2dVJrNFh3cFpQcW1IWWd6N29hVkg3SjhoRQ?oc=5",
+        "summary": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story &nbsp;&nbsp; simplywall.st"
       },
       {
-        "headline": "The next phase of the Microsoft OpenAI partnership - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-04-27T15:23:40.000Z",
+        "headline": "Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot - Microsoft",
+        "source": "Microsoft",
+        "timestamp": "2026-04-28T01:29:33.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTRCcDRKd0p0QS1FQmlwVjdBNXZBbmZBcHJkMmNtU0I2TGhrNWl0TEFYMzh0QnFTcDZYWDFKeHU2dFkyZGdKWEhkX0s5bmNLemlwOWRjbkFwb1RFLWxFUmZfWlp5S1ViRlhJZkprMHVQS2VnREF1MlB3MTF0YmRSYVNBYXJFZEFaSnZN?oc=5",
+        "summary": "Conagra Brands takes an employee-led approach to develop new skills with Microsoft Copilot &nbsp;&nbsp; Microsoft"
+      },
+      {
+        "headline": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-04-28T01:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhJdk5kS0ZjcEV1MDF6U2piMWlUMzFYbGl2Y0hoQVEyajFzWDRLazF4U1p0alhaTWNnU0NKckM5c1dxVEc2WWZ4MDRsY19NR0Z3NGZYX3ZpV0E2XzB4RXpRRU1EcmltaEczcDJ4VzB6bGt6VUxzWENlcTh5NndmcFc5N2FuVzlvUHNfU3JTWHlJSllSNVJiRmhLSEhpNTdpSGhuRUxRNE9zQ2Np?oc=5",
+        "summary": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Microsoft and OpenAI Update AI Partnership with New Business Terms - The National CIO Review",
+        "source": "The National CIO Review",
+        "timestamp": "2026-04-27T17:47:40.000Z",
         "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIWjFhTVJJSG5kRU9TX3pSTEw5Ylg0RHBDR01RbzBQMnltTjFQcHRmSW9Cemlob1dRaVR4djI0NEJjYVBlS3dzRzVNYmNIb25VWU53UnBWeFVPVlJ1bFlFVGQwQno3TjEtR0hybWNR?oc=5",
-        "summary": "The next phase of the Microsoft OpenAI partnership &nbsp;&nbsp; OpenAI"
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVFUUFZrVVplSTk3amh1anFoTHBHajJzOFJ2UV9Ob3cycVBEM0VNNnBiRUh4MG4tY0pPbzRKakFWZDJDMmJTTTZNMkxRN1hTVGpNWHdkVHNiMHFzdW5wZ3pxQktGMG9reUlLLUJyd2V4ZzVXMlc3TG1vNTRnbTBEUmp0NENpQ0lYWlRGYXpsU2FacEN0QjNfUFZncElkZDFKcGdsek0yd0NVU01nYWV1MzROSnJMV3BqeWlwejlBT3kzYUNjMHc?oc=5",
+        "summary": "Microsoft and OpenAI Update AI Partnership with New Business Terms &nbsp;&nbsp; The National CIO Review"
       },
       {
-        "headline": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue - Tom's Hardware",
-        "source": "Tom's Hardware",
-        "timestamp": "2026-04-27T15:20:36.000Z",
+        "headline": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-04-27T17:24:21.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOV9rbkhHM2dJQnFiRFMzMjdfSDVPZkd2ZmtpNU9YVUphNXY2VHB5MEFzMXdyVVhEX01pNjNfQ3ktSEQzd0pVMGM0X1FpQ2VhS0VEMThVd0p1N0gzam5JMlIzNVRmb0pIdlptYWJwQkZQYU5IOGl2VlZOYmNwMFBsUHdnYm50MG5Tbmh6TDJSbFAyYnZYUzByc3d2cWJtRVoySmZvNXZIMW9Hc1JDQktaaWJHQTk0QnhwZjc3OFZvTmpRS05PWFVfcmM4Q2JVWk96aU4zRzRhZXF6MkowczBTUWNtSUkxcm1pWTZ0Zmg1T0lMUGYzMnkwcTlvRGxxYXEydWNwdFJMWTBaXzkyU2VXSEZ4UkNrMnVlZ2NDZ3Q0cloxckZtY09TcFhGZ2E2TTM4TlVmV2V5djVlT1k?oc=5",
-        "summary": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue &nbsp;&nbsp; Tom's Hardware"
-      },
-      {
-        "headline": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-04-27T15:12:26.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVZbnhTcE85MnFiUnh5dzVqcFM2YVJpSllSRWFDMW1HcEk0YWFOelFmWnc4THlRdmFCSHlMQmctUENQS2s1cm5LNnpINmN4b2h4ODAzTFJBUzd2WDJkQ2xiZTk0dnBJXzNUQXRqNkk3dUFiZm1pVVVqanZjUEZfRFp1Y3pLUjQ0UldaTTEyTksyVnc4eFpXeElKSGdBSC1adGg4cdIBqgFBVV95cUxOX0FHSUlKcUhqdGo4MWllelJDYVpnclRzTGJPUnJHRmFiVkpYZllwbHl1V2VhTGZHS2x1eVkxRXlXNUpRbm9DdDl2X0NoNnluVkZWUzYwMUpNdmtzOWhYTGRXYzQ4U2VBUXE4UV9mQTlyVWttMEZLUnpqX0JDeVVWb0VndThFVFVHbmtzZWgtbWFmRDVNbWZhTldnbndxTk5SQjl4NnJrcFAwUQ?oc=5",
-        "summary": "Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) - Amazon Web Services",
-        "source": "Amazon Web Services",
-        "timestamp": "2026-04-27T15:01:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTndOTGJ4UEtJOWpIckU2LTZoWmx0cXZQdG5kRlFJMDFCMC1oQlE0LUtEZVUzTnh1VVNycldRZWl6cEphQXFTbk43bHJRS1RiZDhYMDVIdTlic19sZGpuLTE1ZjRiajZZUDFJR0k2MjJkNnBIaDlkcXV5T0tDNDNvTVhPR3hwdTQzdU5Jbm5JY2lnQUlRUFkxc2dPcGRzVzhYX2pGaU5qTXlpM0VUN0hFbmhITFNRSHhDVlpjVEhBZjhtX3Q4VUxGTVZJY0lTOHJjeGE3eUdSOUlCOEdnMmhnNU9EWC1Ydw?oc=5",
-        "summary": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) &nbsp;&nbsp; Amazon Web Services"
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDhLak52TU9jcThMdW9Rb2ZGUDhNWndaWHU3eVJqdzZKNzB3WXZyRFhGTG9ZYWtZN2ZwZ3U3MjNDZ2YwOUpnX1RocHY2QWVURFp6MkZaeXlWRVhCUEJtZ29nUHlKWDlEc2RVa0ZqT1VOMEhrc0w0NnZldDhreW1JbnZOU1RyU0xqVV91VmFFTExBQmhzTzJqemtsSDMxaUFOUWN1M2N2QmxvWUM5UUYzaDNKNEFMTnpIQUI5RA?oc=5",
+        "summary": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
@@ -178,20 +178,20 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
