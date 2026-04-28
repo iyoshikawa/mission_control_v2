@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-28T04:35:49.810Z",
+    "generatedAt": "2026-04-28T07:33:03.730Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-28T03:10:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5"
+      "headline": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-04-28T05:00:01.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYllUMGtPbFJpQzhOSUJsVzJMa1ZzUGZ0dWxCeU84c0xhbUFvb2ZQREpHOXdua1k1NDNCZ2VjVk81MjE2ODZSSW02dHRmcDJiUjdPeWMxZEdkano4bEtlQXFTYkVock9yZ29FNUxzUnc5eHJ0c3liUHg5XzlFcjZHODdla2pzMUNx0gGOAUFVX3lxTE01WGxkUi15VUlkWmNuZl9vNTFzaFZEcUthMzUxYVRtTU40WGN4RjRPVHBmbkNRODVGVmE3bmxpZVJyRWZHdWYxNnduRHlpZjNXbEx3OWxSa3lHbHdHWmFYTHZXNTVkN09RdDdfT3JJTkJiTzgyNlpKdmpIbDhmQjh5Mm9Cd05PWUU0UzVrdnc?oc=5"
+    },
+    {
+      "headline": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-28T02:49:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXFaS3ZpOHN5MkktLW9Ta0FudDRTSW8wS2xPMEt1MjlOTU8ta29XNzk0LVhMenA5d1liVWRuRFJRalA4RDI2a0tHa3BqUHJmLVJROGhnY1R3eS1RbEN2R294NHl1YmlrWThGdE01QVN6M1YtY2tjX3FobVlySDg5RjJ1Ml9aUTd4OWpnTUZ5Y0Zyb3FGR3lHcVNDYTI2eWtKN1FaTDdhRExIaWVP?oc=5"
     },
     {
       "headline": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story - simplywall.st",
@@ -52,24 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhJdk5kS0ZjcEV1MDF6U2piMWlUMzFYbGl2Y0hoQVEyajFzWDRLazF4U1p0alhaTWNnU0NKckM5c1dxVEc2WWZ4MDRsY19NR0Z3NGZYX3ZpV0E2XzB4RXpRRU1EcmltaEczcDJ4VzB6bGt6VUxzWENlcTh5NndmcFc5N2FuVzlvUHNfU3JTWHlJSllSNVJiRmhLSEhpNTdpSGhuRUxRNE9zQ2Np?oc=5"
     },
     {
-      "headline": "Microsoft and OpenAI Update AI Partnership with New Business Terms - The National CIO Review",
-      "source": "The National CIO Review",
-      "timestamp": "2026-04-27T17:47:40.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Microsoft and OpenAI Update AI Partnership with New Business Terms &nbsp;&nbsp; The National CIO Review",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVFUUFZrVVplSTk3amh1anFoTHBHajJzOFJ2UV9Ob3cycVBEM0VNNnBiRUh4MG4tY0pPbzRKakFWZDJDMmJTTTZNMkxRN1hTVGpNWHdkVHNiMHFzdW5wZ3pxQktGMG9reUlLLUJyd2V4ZzVXMlc3TG1vNTRnbTBEUmp0NENpQ0lYWlRGYXpsU2FacEN0QjNfUFZncElkZDFKcGdsek0yd0NVU01nYWV1MzROSnJMV3BqeWlwejlBT3kzYUNjMHc?oc=5"
-    },
-    {
-      "headline": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-27T17:24:21.000Z",
+      "headline": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-27T22:40:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDhLak52TU9jcThMdW9Rb2ZGUDhNWndaWHU3eVJqdzZKNzB3WXZyRFhGTG9ZYWtZN2ZwZ3U3MjNDZ2YwOUpnX1RocHY2QWVURFp6MkZaeXlWRVhCUEJtZ29nUHlKWDlEc2RVa0ZqT1VOMEhrc0w0NnZldDhreW1JbnZOU1RyU0xqVV91VmFFTExBQmhzTzJqemtsSDMxaUFOUWN1M2N2QmxvWUM5UUYzaDNKNEFMTnpIQUI5RA?oc=5"
+      "category": "regulation",
+      "summary": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGFpNEVuYUszMWw5QzdlRHNFbVJkTTdNQWpUdEJaYzdvNzcyQzVoejktVEpiSVlHZkNiZXl1QnBwTXFLQzFkcjNiRzVNNUljd0REVG9vbm1YVldFRjhIY0loN2xRaEV2VldveV91NzJrR1ZZUnBrdFVIUlRUc3djemVCV0xLUm1NdHFJWno5eUxXQkhxNWZQdVhIdXNrWkU3dmVyTWswcktibTNQZzhYdVRrT2ZPckRV?oc=5"
     },
     {
       "headline": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens - AP News",
@@ -115,13 +115,22 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-04-28T03:10:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
-        "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports &nbsp;&nbsp; Reuters"
+        "headline": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-04-28T05:00:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYllUMGtPbFJpQzhOSUJsVzJMa1ZzUGZ0dWxCeU84c0xhbUFvb2ZQREpHOXdua1k1NDNCZ2VjVk81MjE2ODZSSW02dHRmcDJiUjdPeWMxZEdkano4bEtlQXFTYkVock9yZ29FNUxzUnc5eHJ0c3liUHg5XzlFcjZHODdla2pzMUNx0gGOAUFVX3lxTE01WGxkUi15VUlkWmNuZl9vNTFzaFZEcUthMzUxYVRtTU40WGN4RjRPVHBmbkNRODVGVmE3bmxpZVJyRWZHdWYxNnduRHlpZjNXbEx3OWxSa3lHbHdHWmFYTHZXNTVkN09RdDdfT3JJTkJiTzgyNlpKdmpIbDhmQjh5Mm9Cd05PWUU0UzVrdnc?oc=5",
+        "summary": "Meta, Google, OpenAI among Big Tech firms seeing top staff leaving to launch AI startups &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-04-28T02:49:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXFaS3ZpOHN5MkktLW9Ta0FudDRTSW8wS2xPMEt1MjlOTU8ta29XNzk0LVhMenA5d1liVWRuRFJRalA4RDI2a0tHa3BqUHJmLVJROGhnY1R3eS1RbEN2R294NHl1YmlrWThGdE01QVN6M1YtY2tjX3FobVlySDg5RjJ1Ml9aUTd4OWpnTUZ5Y0Zyb3FGR3lHcVNDYTI2eWtKN1FaTDdhRExIaWVP?oc=5",
+        "summary": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story - simplywall.st",
@@ -151,22 +160,13 @@
         "summary": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "Microsoft and OpenAI Update AI Partnership with New Business Terms - The National CIO Review",
-        "source": "The National CIO Review",
-        "timestamp": "2026-04-27T17:47:40.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVFUUFZrVVplSTk3amh1anFoTHBHajJzOFJ2UV9Ob3cycVBEM0VNNnBiRUh4MG4tY0pPbzRKakFWZDJDMmJTTTZNMkxRN1hTVGpNWHdkVHNiMHFzdW5wZ3pxQktGMG9reUlLLUJyd2V4ZzVXMlc3TG1vNTRnbTBEUmp0NENpQ0lYWlRGYXpsU2FacEN0QjNfUFZncElkZDFKcGdsek0yd0NVU01nYWV1MzROSnJMV3BqeWlwejlBT3kzYUNjMHc?oc=5",
-        "summary": "Microsoft and OpenAI Update AI Partnership with New Business Terms &nbsp;&nbsp; The National CIO Review"
-      },
-      {
-        "headline": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-04-27T17:24:21.000Z",
+        "headline": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-04-27T22:40:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDhLak52TU9jcThMdW9Rb2ZGUDhNWndaWHU3eVJqdzZKNzB3WXZyRFhGTG9ZYWtZN2ZwZ3U3MjNDZ2YwOUpnX1RocHY2QWVURFp6MkZaeXlWRVhCUEJtZ29nUHlKWDlEc2RVa0ZqT1VOMEhrc0w0NnZldDhreW1JbnZOU1RyU0xqVV91VmFFTExBQmhzTzJqemtsSDMxaUFOUWN1M2N2QmxvWUM5UUYzaDNKNEFMTnpIQUI5RA?oc=5",
-        "summary": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGFpNEVuYUszMWw5QzdlRHNFbVJkTTdNQWpUdEJaYzdvNzcyQzVoejktVEpiSVlHZkNiZXl1QnBwTXFLQzFkcjNiRzVNNUljd0REVG9vbm1YVldFRjhIY0loN2xRaEV2VldveV91NzJrR1ZZUnBrdFVIUlRUc3djemVCV0xLUm1NdHFJWno5eUxXQkhxNWZQdVhIdXNrWkU3dmVyTWswcktibTNQZzhYdVRrT2ZPckRV?oc=5",
+        "summary": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -184,8 +184,8 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
