@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-28T02:47:25.418Z",
+    "generatedAt": "2026-04-28T05:58:32.981Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says",
-      "summary": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says &nbsp;&nbsp; Reuters",
+      "headline": "Meta prepares to undo Manus acquisition after China ban, WSJ reports",
+      "summary": "Meta prepares to undo Manus acquisition after China ban, WSJ reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-28T02:43:40.000Z",
+      "timestamp": "2026-04-28T03:04:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXZMb0tBS2w4MnYwUjcydXJzZUhNMkpkdXQwNXc5VnNBZUVjRXFhSzFiUTI5clNvM3QzTUxveTRfUkJYbFpUcmRudWdtTl9sNVNzeFRvQVFvcHNmUkRhMVhBQXNwNTJ2RFBtNUkwRWppa0tBN09SZXdmZmtKWGQ3bzRwNkZXVkdmYXNBMHlJX1B5aEk4bVh1eWp4RWV1YUJiR3NUT0hMbTlnU00td0Y1TFRB?oc=5"
+    },
+    {
+      "headline": "Trump not happy with latest Iran proposal to end the war, US official says",
+      "summary": "Trump not happy with latest Iran proposal to end the war, US official says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-28T02:01:00.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzJwYTUtVF9BUVRoM0hkbHlMeXdXaDhVXzk0dUpsYXpBdmNUc2ladEtLT3ZJVk9EeXU3SlVfWlFiWGFYVGRRbXZ5bWtacUVfNElXUHhfVFhQWFZxUnBNaF9hVjBLWkFJR0dsU3hDS0pFanhNSzRaaE5NQmVrcVBFTV9NWHNJSzVYUm1LQ29XN25ZMkk3VEM4UlNnNDUxMUlNRUNDb2sxcmJsSVhQU21sSE8yUVNya1dPdVF4UC13?oc=5"
+    },
+    {
+      "headline": "Gold edges down with US-Iran talks, central bank decisions in focus",
+      "summary": "Gold edges down with US-Iran talks, central bank decisions in focus &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-28T01:32:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5"
     },
     {
       "headline": "Trump unhappy with Iranian proposal, US official says",
@@ -32,6 +54,17 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkhvWWdfVi1BSVJCTkhjQndtTEcxMHllWm9IQ0dSSER3QXZrVU5uRXRhOVVtZHEzUERmOENwRW9xOGtKd1lhRzhvWEdRbEloUHItU1NNUDdqQld5TXNHQlg4TnhZSFhKY2xUSVBOVVlUaHFqWEYxd1pLYWlILU5CZ3h6bkdQVUx5YXlmWi1fX28ydnNadDZMQVVRNklVTnJKQ3J4WWJRU0w5X28?oc=5"
+    },
+    {
+      "headline": "UNICEF warns Afghanistan could lose up to 25,000 female health workers, teachers",
+      "summary": "UNICEF warns Afghanistan could lose up to 25,000 female health workers, teachers &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-28T00:05:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWDJxWU5QQXhxNmd0QVFlYTZ2TkVmSTdfVWM1bXc3WlNkOTBlWmZrMnNLWUlMcmR2T1ZWc2twaENzSG5qT1RxVUZSU19uTjdDZzRsMDQ5UUpueThnME9CanJZMV9pM1VyWDFaWTRXQ2JscS1sTW1iXzhUTGM4SERJVXV1QmZMVTBlVktaRU9TUGpMSTZmZzI3QU4ySXVaNHJUdkZZQzJiRWFOTGN3SDRoaHA1a3BRdlBMSUdEZTVDeGNqTkpNLV9ZcVl3?oc=5"
     },
     {
       "headline": "King Charles arrives in US for state visit amid differences over Iran war",
@@ -65,39 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGJYSHBXMVhzaG00Ym1GQS1iTGF3SXVVQ2hWNDlmRlRvSE9EYjB4MXI5NlhzSDYzaUlmQUJHX0JoRnJhMDJVeFpCakVWNVFnNkQzbjJfMk5Jc2xoLWFaazJpem5mbFhMdlRVQ1RQeWRXeXVLZWFpR0VsNklObHhzTVluWnRvX2pZbDlQX1I5cVJSX19vRnZaTDNOdEdKNURJNUtrVzBwSm11RF8zWG9lMjM0ZlZTbVBRQjJF?oc=5"
-    },
-    {
-      "headline": "US Treasury chief says businesses working with Iranian airlines risk sanctions",
-      "summary": "US Treasury chief says businesses working with Iranian airlines risk sanctions &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-27T21:47:27.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXhJQW5WeC1iQWtQYnhibTJlbVd0YUxRS3Z2b0hNb3g4NXpYWjhlWnpVYTl2RjdUUlpTWVExNFlGVVlic2FrMUU3Rm5nUXJ6ZUZaX0FCSnAyOWstM1ViRGJnQWlJSms0Y1ZLWE41UWJsRzN4Rk9qRkYtN3BlM2JtalVkRXpCUjNTWk1vVEF1SE9ZeEVlUzJ3QkRCeXkwdGVTaW9BN09BQ05YZ2JyeWZfaUdqd0dvZnhCOHdkSE1fRXNqWGxsT25BWjhvVUM?oc=5"
-    },
-    {
-      "headline": "ADNOC LNG tanker crosses Strait of Hormuz for first time since Iran war, ship-tracking data shows",
-      "summary": "ADNOC LNG tanker crosses Strait of Hormuz for first time since Iran war, ship-tracking data shows &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-27T20:28:27.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ29JSmp1NWd6eG5MYWU0aHpEczg4d2owdDc4cm8xZ0ZPNVh1YW9OSlZjNFZSVVdENWdTU3FmNjY0dnYwUjRXOEo4aUJKd3ZVWXhsVElTZU1sUUlBMWlwZzc4R0c3Zmh2ZnZIbjVYTUhXcElzVzVRUVhEbEp0a09zM1ZCcV83dE1pT3lvTlJnS1EtY3g3SkxEdnMzWGlWUjZDYzNFOGhHUThfdXdERVVwR0FqcnVEYkJRb3A2M0JoWXVyaXFmcWQwRmNB?oc=5"
-    },
-    {
-      "headline": "Renewables in vogue as Iran war drives up Europe power prices",
-      "summary": "Renewables in vogue as Iran war drives up Europe power prices &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-27T20:18:51.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMG1vMGszUnhJWmVHaUtuSU1EM3pnV2JDRHU1NzRhUFd0TlpFbVZFVnpScl8yQmJ6NUY0Ql9pbVNQWjR2bXhKMVE2WVAtM0dEbFVZQnZuVnI2ay1HSHRsRE12SEQxLTYxQW9QYXBkR19BQ2ZkVlVDcmQ2QXpOcG9JbnJFUUxlNmNGamFuRERNVloybF9hbHczdWw3RVNBRkhWOHFpNjBCREFsWkpkVUIybzBSb1A1MDJUUWpQYUoyeUJrdnlia3ZKM0NjSQ?oc=5"
     }
   ]
 }
