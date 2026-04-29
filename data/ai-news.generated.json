@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-29T04:31:57.367Z",
+    "generatedAt": "2026-04-29T07:25:58.367Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,26 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "‘It’s not okay to steal a charity’: Musk testifies in trial over AI’s future - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-04-29T04:09:14.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "‘It’s not okay to steal a charity’: Musk testifies in trial over AI’s future &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVdKelVsSDFCYXk2a0JlOGVkb2lRWGpoaUNQTGhRd1VoS0dLNmNHbEhfWTY5blZ1UGRPbkhvWnNQX0RtS19hckxKbEtJMGZWTEd3RDhZZ0p0cDBGTUhCOGstckEyTUFCSWF2d3AtaXRnX0RKTWV4T2FRZ3pMVmxyUnZqNlEzeHhuRGRCTzdRaw?oc=5"
-    },
-    {
-      "headline": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News - EdTech Innovation Hub",
-      "source": "EdTech Innovation Hub",
-      "timestamp": "2026-04-28T23:03:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HbWFsSGZVSkRsbWZKYnlHUHIyLTI0cm9Tc3NkTV85aElfQzRuYThINS1sUGZTajZ3bldhVXFWM0gxaGpMcmdOUXZId1hEck9mRUFFMzUzVjY4RVhva0daS2F3UzY4aHRROHFhUTUzS2U3RHcyQ1ZsZUNKQQ?oc=5"
-    },
-    {
       "headline": "Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong - Financial Times",
       "source": "Financial Times",
       "timestamp": "2026-04-28T23:01:10.000Z",
@@ -40,6 +20,26 @@
       "summary": "Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2pKN2dnTFp2c00zZ19USVJYaEcydENfVEFtUkx2TmtvN3JkaGhiMnB5dFFfdWhINlNZZFRoLXlxaW5FNlREejMzZld6T1NPMWlmOUVMZmZneEFXcXNzbjhlRmk0QWs0WDVDaUtBUVp2V2dEblFGalpnYW1RSWhQdFhiZ0s?oc=5"
+    },
+    {
+      "headline": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News - EdTech Innovation Hub",
+      "source": "EdTech Innovation Hub",
+      "timestamp": "2026-04-28T23:01:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HbWFsSGZVSkRsbWZKYnlHUHIyLTI0cm9Tc3NkTV85aElfQzRuYThINS1sUGZTajZ3bldhVXFWM0gxaGpMcmdOUXZId1hEck9mRUFFMzUzVjY4RVhva0daS2F3UzY4aHRROHFhUTUzS2U3RHcyQ1ZsZUNKQQ?oc=5"
+    },
+    {
+      "headline": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-28T21:57:34.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDU1cTBTVTRRdVVSUGQxNnlKdUVpN19pUWhzQlc4RU91STR5Y1d6aWsyWWx5bW9hdzBGUld6Q2Q0Ym9LOG1uM1NJUml0emhoeDBRWW5PUGZleUllSmVvaS0yaXAxQTJWenFyQzFia3JoaUlNdEdSSnZpM1lIWnlud3JyZlkzMXkzRGxZcg?oc=5"
     },
     {
       "headline": "The End is Near: Adobe Partners With Anthropic to Allow for Agentic AI Creation - No Film School",
@@ -62,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdmtycUVVdUpBOTBaT0JjSjVERmJXcVRYTER1Wm1OM1FweExLSjdLOFMtaThST1paeXUtOTdhUWxHLV93UDZvN1ZyVC1rbjF2X1lpU1JEc3NLbE5FRHJtTC15VFlSMXhDd0tOeg?oc=5"
     },
     {
+      "headline": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-04-28T18:02:18.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI models, Codex, and Managed Agents come to AWS &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQWFRc0M5RmNtdzVreHE3bWNpX3ZCc0RiWjFWWlQ3VGdhbXdZRklZeGxpaDc0VGFzSmVoU0pPMmdhT19QN3hnOTFYMENOX015?oc=5"
+    },
+    {
       "headline": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ",
       "source": "WSJ",
       "timestamp": "2026-04-28T17:49:00.000Z",
@@ -80,16 +90,6 @@
       "summary": "OpenAI brings its models to Amazon's cloud after ending exclusivity with Microsoft &nbsp;&nbsp; CNBC",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDB1V3dneU9vWjNvaVlkcmpzSmZHTExvQ1JSQVhtSlVLNkZkR092T1dIUkd4SDFmRkgwT1JDWF8yMWdobktweWRPTFVlejVCMGowUi1McHFUMlZ5d2Y2NXBha3Bub2lFelJVTURZOVdlaV9qaVdLZmdBUjNtMEEtcnRKSmJFWU1iWjNDYVFyUGRaUC1uYzZfQzY5M0R6SXZqdXliOGV0SdIBrAFBVV95cUxQUVg3SGNJdHVJdnpjN3NwZGF1S2NsN3FKeTlnd3M1ejI1QjRYQ2dDVWlvUVJFeGhDSXhESllHR1ZQVlBCbzVCUUFuRjN0ZEg4WjR4Wl93VmNlOThpT0tZSUgyd1NFQlhGZWRxQWxkXzdXNFhWWGdXdDlXRjFFMndZREtTWXdGOWkwRUI1VUNGYnR4LWNScGpOaGt6eVBsTklWRmRDc21ScEhFWkt5?oc=5"
-    },
-    {
-      "headline": "AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust - About Amazon",
-      "source": "About Amazon",
-      "timestamp": "2026-04-28T17:13:28.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust &nbsp;&nbsp; About Amazon",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUDN3S29aQWhmTHJubmoxRmM1aU5zakU2ZVBYQmpNcFNNUEZmYTkzNXE1RHRyMV9nSnNnWjF0YWxiS1BGak96d1hNNDNOSC0tM3BEZE1aYUYtMkRxX1B5SWJNb1V1RmlaY3c?oc=5"
     },
     {
       "headline": "Claude can now plug directly into Photoshop, Blender, and Ableton - The Verge",
@@ -115,24 +115,6 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "‘It’s not okay to steal a charity’: Musk testifies in trial over AI’s future - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-04-29T04:09:14.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVdKelVsSDFCYXk2a0JlOGVkb2lRWGpoaUNQTGhRd1VoS0dLNmNHbEhfWTY5blZ1UGRPbkhvWnNQX0RtS19hckxKbEtJMGZWTEd3RDhZZ0p0cDBGTUhCOGstckEyTUFCSWF2d3AtaXRnX0RKTWV4T2FRZ3pMVmxyUnZqNlEzeHhuRGRCTzdRaw?oc=5",
-        "summary": "‘It’s not okay to steal a charity’: Musk testifies in trial over AI’s future &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News - EdTech Innovation Hub",
-        "source": "EdTech Innovation Hub",
-        "timestamp": "2026-04-28T23:03:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HbWFsSGZVSkRsbWZKYnlHUHIyLTI0cm9Tc3NkTV85aElfQzRuYThINS1sUGZTajZ3bldhVXFWM0gxaGpMcmdOUXZId1hEck9mRUFFMzUzVjY4RVhva0daS2F3UzY4aHRROHFhUTUzS2U3RHcyQ1ZsZUNKQQ?oc=5",
-        "summary": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub"
-      },
-      {
         "headline": "Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong - Financial Times",
         "source": "Financial Times",
         "timestamp": "2026-04-28T23:01:10.000Z",
@@ -140,6 +122,24 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2pKN2dnTFp2c00zZ19USVJYaEcydENfVEFtUkx2TmtvN3JkaGhiMnB5dFFfdWhINlNZZFRoLXlxaW5FNlREejMzZld6T1NPMWlmOUVMZmZneEFXcXNzbjhlRmk0QWs0WDVDaUtBUVp2V2dEblFGalpnYW1RSWhQdFhiZ0s?oc=5",
         "summary": "Goldman Sachs stops bankers using Anthropic’s Claude in Hong Kong &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News - EdTech Innovation Hub",
+        "source": "EdTech Innovation Hub",
+        "timestamp": "2026-04-28T23:01:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HbWFsSGZVSkRsbWZKYnlHUHIyLTI0cm9Tc3NkTV85aElfQzRuYThINS1sUGZTajZ3bldhVXFWM0gxaGpMcmdOUXZId1hEck9mRUFFMzUzVjY4RVhva0daS2F3UzY4aHRROHFhUTUzS2U3RHcyQ1ZsZUNKQQ?oc=5",
+        "summary": "Microsoft commits A$25 billion to Australia for AI infrastructure and skills | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub"
+      },
+      {
+        "headline": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-28T21:57:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDU1cTBTVTRRdVVSUGQxNnlKdUVpN19pUWhzQlc4RU91STR5Y1d6aWsyWWx5bW9hdzBGUld6Q2Q0Ym9LOG1uM1NJUml0emhoeDBRWW5PUGZleUllSmVvaS0yaXAxQTJWenFyQzFia3JoaUlNdEdSSnZpM1lIWnlud3JyZlkzMXkzRGxZcg?oc=5",
+        "summary": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "The End is Near: Adobe Partners With Anthropic to Allow for Agentic AI Creation - No Film School",
@@ -160,13 +160,13 @@
         "summary": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-04-28T17:49:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDhJdk5kS0ZjcEV1MDF6U2piMWlUMzFYbGl2Y0hoQVEyajFzWDRLazF4U1p0alhaTWNnU0NKckM5c1dxVEc2WWZ4MDRsY19NR0Z3NGZYX3ZpV0E2XzB4RXpRRU1EcmltaEczcDJ4VzB6bGt6VUxzWENlcTh5NndmcFc5N2FuVzlvUHNfU3JTWHlJSllSNVJiRmhLSEhpNTdpSGhuRUxRNE9zQ2Np?oc=5",
-        "summary": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO &nbsp;&nbsp; WSJ"
+        "headline": "OpenAI models, Codex, and Managed Agents come to AWS - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-04-28T18:02:18.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FQWFRc0M5RmNtdzVreHE3bWNpX3ZCc0RiWjFWWlQ3VGdhbXdZRklZeGxpaDc0VGFzSmVoU0pPMmdhT19QN3hnOTFYMENOX015?oc=5",
+        "summary": "OpenAI models, Codex, and Managed Agents come to AWS &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
