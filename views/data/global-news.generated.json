@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-29T09:08:21.666Z",
+    "generatedAt": "2026-04-29T11:27:34.812Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,50 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Mercedes profit tumbles in Q1 on China competition, tariff pressures",
+      "summary": "Mercedes profit tumbles in Q1 on China competition, tariff pressures &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-29T11:08:32.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFpvOFVNX0NlRDU3a2Vob0VUUHJiSUNJbm1yREh6RkcybkVlV3NQSUdNMmRRZUd6QTZHNVB2YkJpOGVUSE5BeU5XVTF4RURKMVVwMGFCSnZISGp3NWpFNTA4UGtSZlI0Wk1EZWNwdDFtYjRfVEg4Y0M1ckduM2l5NVFsVFEzYlNCWDU1ZmhoU3FfaVlWbjIyV2l3Umt4OEVNZ2ZBMlpVeDZqVHl4dmhPaWdDcU4?oc=5"
+    },
+    {
+      "headline": "Trump urges Iran to sign a deal after report suggests US may extend blockade",
+      "summary": "Trump urges Iran to sign a deal after report suggests US may extend blockade &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-29T10:24:14.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXN0aG5nUkg5TEU5emxCMG9TYjFfRm1mVmp3WFM5Q1hkOGtWbVlxSG45QXBtcXRjb1JfMGE1bjk4SW1Qbk1qRkVvUmdtNmpiRnJQU1hiSXRxeURIbTZrdEtZUnhXdjNDYVY5UWdnaDdUQ29qbFpDdlQxVXlmOTZFN2ljTUFwcWJtc0NuNW5CQTF6alhndnRKcWU1THJrNVctaHlsMGNSQ1k3ejJ0TEdkcFlsZ3ZTaXBsamJsckdxZTBMeXdL?oc=5"
+    },
+    {
+      "headline": "European stocks fall as traders wait for tech earnings, Fed meeting",
+      "summary": "European stocks fall as traders wait for tech earnings, Fed meeting &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-29T10:02:33.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5"
+    },
+    {
+      "headline": "Swiss bank UBS exceeds profit forecasts as Iran war stokes trading volatility",
+      "summary": "Swiss bank UBS exceeds profit forecasts as Iran war stokes trading volatility &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-29T09:10:17.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2k1czNBaGMtSXZ1NXVNMk9fYzZtNndrS2F1QW0xcjY1cTJHYXY3VXRKbkx0SUw3ekxvWFNhdThDQmVhUVFCVWtjT0NQRzU3dWpST09Mb3VKenVka0o5azdvSHdacWFDWTVEWVNGa3NKbU9YMnJiNFp6VTRHNmo4V2xNRW9uTk55OHRGY01WZUNqUEpJbjBNakJJVlBGbGhPa3pXdw?oc=5"
+    },
     {
       "headline": "Adidas reports strong sales and profit in 'very volatile' market",
       "summary": "Adidas reports strong sales and profit in 'very volatile' market &nbsp;&nbsp; Reuters",
@@ -23,15 +67,26 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW50VEdVSE1aN3djckgtS2VVZlZzb3duZ295NXJFQ2oxWjJQT3R6eHA4TWh6VEZRRmcxajZJZTNQdWM4YWtYS2tmc0lRSTItNzJlQjN6WG9zUXo0ZGtfSTFZV0c5NXE2aWROWmUtX293d0VDWDdsb2MzRG1Pc18yOGc0X3JVcUJlTzFZRXVKM1JiNFNSQTRlbG5CUWZEY3JpaXZIR2Zac0VWWHhwNWc?oc=5"
     },
     {
-      "headline": "China's May fuel exports to rise over April, but curbs remain, sources say",
-      "summary": "China's May fuel exports to rise over April, but curbs remain, sources say &nbsp;&nbsp; Reuters",
+      "headline": "Iran war, jet fuel concerns cloud airlines' summer holiday plans",
+      "summary": "Iran war, jet fuel concerns cloud airlines' summer holiday plans &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-04-29T07:24:09.000Z",
+      "timestamp": "2026-04-29T07:14:20.000Z",
       "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFZLSGhNQ1Mwc1FxelVZYVM0alZSMjgxUno4YmJxRUE2bWhlMnJwdGc0MDNNVjFBMVg4TGFMMFgxaW9zbjVENzFxQTZ0aDhONDdBTmZkdVNObDI2WFZGWGRnLVNsaXo0NFBvdkpiZEl2UkpRbmJZQ1VZQU9QU0JxT0JFbHVqUFA3MXhrdWFMcmVPb3ZONlAtenVSU0xqMUlSaFFTMm1lRERqaUtKQjNhSGFBLUpMWEltdHZCU3dFUlg?oc=5"
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnB3QkVYUThKTkY3a0YyNVRyWlRsUnY4bFUtMmZCSHpvLUdMQ1RZVFVCc2gtY20yX1U1WG8tZ2dvRldQRFRRMUdXdDBYQTVXZ000REw1cDRsYTJzeDZILXpCMGx4c2U1bVNkUVJ1WnRKYU11aU5pc0thRjhyU3NiREM4eVFmUllPQUxyU3MwY2tEOHZCQ2xOUVpTQzhiY0x5R1VMUWZRNVZRSm8?oc=5"
+    },
+    {
+      "headline": "Gold steady as markets await Powell's comments on Iran war impact",
+      "summary": "Gold steady as markets await Powell's comments on Iran war impact &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-04-29T06:32:51.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5"
     },
     {
       "headline": "Carlsberg beats Q1 sales forecasts, but impact of Iran war looms",
@@ -43,61 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQk5QLTJadFBUVm80eEdHcXlGTm5kTjNhYm9vODJCWGdZWXFBOGh2SXEyS1dLTHJDeTNZalJ4VXZwSHF3T0wzVUdKeEZsNDd3b1RUaUIwcnE0M0htbU5TTllzUjhtVjR1YkdQN1htUjJfY190Nlg2QmFLa2pMOVpsRE5oeDhmdzZLVUtEbUwxREFHWWpHakljal9iVHdYQQ?oc=5"
-    },
-    {
-      "headline": "Iran war, jet fuel concerns cloud airlines' summer holiday plans",
-      "summary": "Iran war, jet fuel concerns cloud airlines' summer holiday plans &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-29T06:03:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnB3QkVYUThKTkY3a0YyNVRyWlRsUnY4bFUtMmZCSHpvLUdMQ1RZVFVCc2gtY20yX1U1WG8tZ2dvRldQRFRRMUdXdDBYQTVXZ000REw1cDRsYTJzeDZILXpCMGx4c2U1bVNkUVJ1WnRKYU11aU5pc0thRjhyU3NiREM4eVFmUllPQUxyU3MwY2tEOHZCQ2xOUVpTQzhiY0x5R1VMUWZRNVZRSm8?oc=5"
-    },
-    {
-      "headline": "Gold steady as markets await Powell's comments on Iran war impact",
-      "summary": "Gold steady as markets await Powell's comments on Iran war impact &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-29T05:00:32.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5"
-    },
-    {
-      "headline": "Trump says King Charles does not want Iran to have nuclear weapon",
-      "summary": "Trump says King Charles does not want Iran to have nuclear weapon &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-29T02:23:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlZGS1E0bE5KX3l4dEl6YW5aOXRadS13ckhISUJPem00aFV0RUo2NDJ4WVVicUtxTExiQmI5RkFvNUV4YURIWUVaUU5oYk1qT1c4MlcweVd0Y0VKRjhxM0tEZVZYZXdtZWdnY2VCbXFxbG5PQTFlOHVIT1VheFlHZWNIUE1XTkl6UlZheEN3UnY3Z1NZNWd6d09mQ2Z2TmdFTElLSDhtVGRpTEZ3WkRYTQ?oc=5"
-    },
-    {
-      "headline": "Panama Canal sees spike in vessel traffic due to war in Middle East",
-      "summary": "Panama Canal sees spike in vessel traffic due to war in Middle East &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-28T23:05:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXRJZ1hrd1hIQUZaQjRIN0VSbHktRFQwUE5fUDdxel9SUEhlODdLQmVJSndIenlWSTh1Q1d1VTN2SVBHMklIQjVNcG5YS0NaSG14T0N4LUVubUh0M1FuRk9FRk1RZ0E4UG51NTBjSDM5ZjVxV19jSGJXZHJ2YjRYV2ZsVTJ0OGk4TFcySTYtWnd2UlJBREpOZklJbGliXzRiaGQwdkVKa2tWUVRuU1E?oc=5"
-    },
-    {
-      "headline": "Booking Holdings cuts annual revenue growth forecast as Middle East war weighs",
-      "summary": "Booking Holdings cuts annual revenue growth forecast as Middle East war weighs &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-04-28T22:35:37.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTdqYXVvZV9jdFlKQWRsWGJpR01TZHE0ekNjb2k4bFR3Yk5qWnRaZjVaTDVxMU9KTnhRYjVpSXVlaEF4ZW01cW5hVWpNc1RqZUlXZFlWTHBxTmwtQ1JxNGlyQzFvWnE3Sm1iaDJKSUk3WmZDQ0Q1NGphczM4Y09CSHBnOVNHVndZYkJYaA?oc=5"
     }
   ]
 }
