@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-30T17:25:33.770Z",
+    "generatedAt": "2026-04-30T19:40:04.069Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-04-30T16:08:01.000Z",
+      "headline": "Elon Musk confirms xAI used OpenAI’s models to train Grok - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-04-30T18:16:57.000Z",
       "impact": "HIGH",
+      "category": "models",
+      "summary": "Elon Musk confirms xAI used OpenAI’s models to train Grok &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUm0zb0s5eUxySlVVX2Y3TWIwTFZRYmpCMW4wUDNJNzRRM2R5bmh6MDdWOUVDaklnS3lwaEhUYndJSWlLY0dWbVFac1FaNmM3Z2dSUUFOc2syMVE3a2VfTEh3eEpXdHp6TzVpbkVKV0NxY2pndDItRXB2dXZMUFNjNlZxakJob2ZFMnRZQmNLOUVMenFaRXc3bF9vd0VnbXRFSDZSRTBCZw?oc=5"
+    },
+    {
+      "headline": "Is A.I. a Threat to Humanity? Not in This Trial. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-04-30T18:08:01.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Is A.I. a Threat to Humanity? Not in This Trial. &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY01WS3hOUndsZE9oM0NOSTZqS0xDZFlVLXozNzlKNzhxRkduSXVPbG8tWXUtbVFHNmpnZ0w1azdzMzRmWjRrZEV1YVptSVJqcWFYLUJNOGxnS0dicmFyRUFYZTN1cVBDMG5NS1FwYVhhQUhzMW9EVzJyNEI2d3YwR0FsZmZVMDNzMTF3MnRzUGh2WC1EMmlUaTRjM0dlYlFrNTdDNnEzSGhneWNjTThUZlN3aU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5"
+    },
+    {
+      "headline": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-04-30T18:01:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1lLdENoOVlFS1FEVHVVMFBES2g2UmNMQm1tZTZFQ3U2aURBdGFMYS05bDVwZDdMblpuWG1EVXBncExlSktDR2Fma3dNekRQVnRyZHNkLU9vNHJjUWlKWGdycndNSjhjY3E0REVXblZPN2JDS2JGc2lGVXBkZU9pOTcxdkNLamk2T3lRSGRfX0Q3OU0ySmttd3VQM1N6RmZTcTRPdExMRko?oc=5"
     },
     {
       "headline": "AI co-clinician: researching the path toward AI-augmented care - Google DeepMind",
@@ -30,6 +50,16 @@
       "summary": "AI co-clinician: researching the path toward AI-augmented care &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92M2F1ZWduU1llWjJpOWZtcWFtY0YybDBxRXdXTjctYk5EZTJzSG8yZ3JKTWNXS1M1SVNyQ285SldoME9xWWZCR0ZCWHQ0OHlJT1dldHR4dWQ?oc=5"
+    },
+    {
+      "headline": "Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-30T13:48:53.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza &nbsp;&nbsp; Bloomberg.com Meta shares slide as plan to spend billions more on AI spooks investors &nbsp;&nbsp; BBC Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG9ONnJTam9IbnJ2bmwtX0NiZkdXeFNhRW8zY3BjUnZTUDEteDZVLTVTNEtncmNjY3FIa0xxclRwSFBvUW5YbmMyeXNhdV85TjBQUEtBaWRFTkpiSUtjaldCNzhMSTM4cWJmMmZSSUtQeDFuT0dTZVVCT2wzclNmRXVtbEpaajJhU09JZHJTVFpTdV9aNXRSVUVkOTNoRm5RRjA0YUtTNTNiUDR6SXc?oc=5"
     },
     {
       "headline": "OpenAI tells ChatGPT models to stop talking about goblins - BBC",
@@ -52,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd21qbzNLUnk1cW92OEltVldOY0JwaDZQOWlNMWllUUQ4S1hPVFhVcEZJWUFmdlIzR2JSZjZUbkgxSXhRaHF6NWdNeWctWmxfX19CTU9YdmZlUzVJOW95LWxHRHhOUjJjVGpUdWFka3UtczFKNkt4Q09IT3R4YkN4aG5uczV5Ri1wUl9uRU9NZS03WFdfdHlaWDlaSG5DcWNNa0FBNm51ZjJVc0hjWEE?oc=5"
     },
     {
+      "headline": "White House AI Memo Hits Issues in Anthropic-Pentagon Feud - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-04-30T13:08:52.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "White House AI Memo Hits Issues in Anthropic-Pentagon Feud &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUprcnZVQmpEY3pBRlh2RDdlMWhyeEFRZk1HcW1DQThhMnBjVURMZVNWRkpBUzd2T1JPR0NsSFNXeWRscWFBVzhRYWN5UENpMWQ2ZGxobzk5cDFIZndqM2Z1VmRha1hqbkYwby1LWlpnczM3X0FvT25jLXdVLUNLc0l1S3ZqaWZsTHZPM05WNWZmaC00MXpNbUNNY3U5TWxodUFYX19CMnl0ZnNwWnRwTThWeFo?oc=5"
+    },
+    {
       "headline": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) - Seeking Alpha",
       "source": "Seeking Alpha",
       "timestamp": "2026-04-30T12:15:20.000Z",
@@ -70,58 +110,36 @@
       "summary": "Dispute over fate of Kenyan workers who saw Meta AI glasses films &nbsp;&nbsp; BBC",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZy1hLXl4SlprcTRCSUdpNjNMRWtCdlBNSkpBTVZhbWVFdjFQTTZNN01TNnlvcFVCdVo0QnF0bWRvd2RrTVlwQ1pyRS1DX2tlTWdYM2QyY3kzUQ?oc=5"
-    },
-    {
-      "headline": "Ray-Ban Meta Gen 2 review: More than a fun toy - The Irish Times",
-      "source": "The Irish Times",
-      "timestamp": "2026-04-30T04:31:40.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Ray-Ban Meta Gen 2 review: More than a fun toy &nbsp;&nbsp; The Irish Times",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE92ams0TlZSNzlpc2hzcWhiYy1vcFFYVjZha0hqM3V0ZEV6dk4yZkFKRm5sT1dETnhjRXcyTXQtV1NUTm5xU1NXcHBVMTBkTWo2T2g1dkhQdEV1aXB4d25jQ21fdjJvZUhsbXlxMGkyZ1hJb1hWRk5oMlhBYVJNVkxLekFvTGZLT3pTSTVrLWJCd1hjNGRCaVlxYnY?oc=5"
-    },
-    {
-      "headline": "Where the goblins came from - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-04-30T03:21:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Where the goblins came from &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aX04xc2l3LUpSZ1NMTzVfUDlxYWh4dkhMQVZBMGlGa3M3RnBkN1h4MU04MktmdGdpZEltVm9PdUNvUndzZjluaVNVb2VRcjMwdUN4OW1zVGZkSnJpX0tNVG14UQ?oc=5"
-    },
-    {
-      "headline": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-04-30T01:27:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model &nbsp;&nbsp; WSJ Scoop: White House workshops plan to bring back Anthropic &nbsp;&nbsp; Axios Anthropic Rattled Software Stocks. How the White House Is Riding to the Rescue. &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1lLdENoOVlFS1FEVHVVMFBES2g2UmNMQm1tZTZFQ3U2aURBdGFMYS05bDVwZDdMblpuWG1EVXBncExlSktDR2Fma3dNekRQVnRyZHNkLU9vNHJjUWlKWGdycndNSjhjY3E0REVXblZPN2JDS2JGc2lGVXBkZU9pOTcxdkNLamk2T3lRSGRfX0Q3OU0ySmttd3VQM1N6RmZTcTRPdExMRko?oc=5"
-    },
-    {
-      "headline": "Sources: Anthropic could raise a new $50B round at a valuation of $900B - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-30T00:07:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sources: Anthropic could raise a new $50B round at a valuation of $900B &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS18xZzdWZEFkLXpFYmd2NWVMYjc1UUlzM3poTHJaeW9uQ3NRR01PSG4xUnNzNWNkMXBiTnpBdlk5aURQUWQwbkxSLXdydUdHdGREbUJCLVFwd0dWeUdfSmdiX3dZYk96OGt1dmlPUkczYW1PWlRWV2VSZHJ0cGZYMlB4a1J4bC1OTEZjQ0R0OFlxRjQwT2xuby02TURYVDB5Qmc1cEdB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-04-30T16:08:01.000Z",
+        "headline": "Elon Musk confirms xAI used OpenAI’s models to train Grok - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-04-30T18:16:57.000Z",
         "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUm0zb0s5eUxySlVVX2Y3TWIwTFZRYmpCMW4wUDNJNzRRM2R5bmh6MDdWOUVDaklnS3lwaEhUYndJSWlLY0dWbVFac1FaNmM3Z2dSUUFOc2syMVE3a2VfTEh3eEpXdHp6TzVpbkVKV0NxY2pndDItRXB2dXZMUFNjNlZxakJob2ZFMnRZQmNLOUVMenFaRXc3bF9vd0VnbXRFSDZSRTBCZw?oc=5",
+        "summary": "Elon Musk confirms xAI used OpenAI’s models to train Grok &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Is A.I. a Threat to Humanity? Not in This Trial. - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-04-30T18:08:01.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY01WS3hOUndsZE9oM0NOSTZqS0xDZFlVLXozNzlKNzhxRkduSXVPbG8tWXUtbVFHNmpnZ0w1azdzMzRmWjRrZEV1YVptSVJqcWFYLUJNOGxnS0dicmFyRUFYZTN1cVBDMG5NS1FwYVhhQUhzMW9EVzJyNEI2d3YwR0FsZmZVMDNzMTF3MnRzUGh2WC1EMmlUaTRjM0dlYlFrNTdDNnEzSGhneWNjTThUZlN3aU0?oc=5",
-        "summary": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5",
+        "summary": "Is A.I. a Threat to Humanity? Not in This Trial. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-04-30T18:01:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1lLdENoOVlFS1FEVHVVMFBES2g2UmNMQm1tZTZFQ3U2aURBdGFMYS05bDVwZDdMblpuWG1EVXBncExlSktDR2Fma3dNekRQVnRyZHNkLU9vNHJjUWlKWGdycndNSjhjY3E0REVXblZPN2JDS2JGc2lGVXBkZU9pOTcxdkNLamk2T3lRSGRfX0Q3OU0ySmttd3VQM1N6RmZTcTRPdExMRko?oc=5",
+        "summary": "White House Opposes Anthropic’s Plan to Expand Access to Mythos Model &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "AI co-clinician: researching the path toward AI-augmented care - Google DeepMind",
@@ -133,6 +151,15 @@
         "summary": "AI co-clinician: researching the path toward AI-augmented care &nbsp;&nbsp; Google DeepMind"
       },
       {
+        "headline": "Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-04-30T13:48:53.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG9ONnJTam9IbnJ2bmwtX0NiZkdXeFNhRW8zY3BjUnZTUDEteDZVLTVTNEtncmNjY3FIa0xxclRwSFBvUW5YbmMyeXNhdV85TjBQUEtBaWRFTkpiSUtjaldCNzhMSTM4cWJmMmZSSUtQeDFuT0dTZVVCT2wzclNmRXVtbEpaajJhU09JZHJTVFpTdV9aNXRSVUVkOTNoRm5RRjA0YUtTNTNiUDR6SXc?oc=5",
+        "summary": "Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza &nbsp;&nbsp; Bloomberg.com Meta shares slide as plan to spend billions more on AI spooks investors &nbsp;&nbsp; BBC Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
         "headline": "OpenAI tells ChatGPT models to stop talking about goblins - BBC",
         "source": "BBC",
         "timestamp": "2026-04-30T13:28:04.000Z",
@@ -140,33 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT25BMWpfTUFVNjY3V3NqMzlUdVlPQ2ZHbHV5UGR2QTc2bnE1U1otVUpERDNBb0l6Zlp2UkZTTlk1cExKX08tLUFweHV5M21LcV9LRzRibExTUQ?oc=5",
         "summary": "OpenAI tells ChatGPT models to stop talking about goblins &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Microsoft AI Surge Exposes Data Center Capacity Gap - Data Center Knowledge",
-        "source": "Data Center Knowledge",
-        "timestamp": "2026-04-30T13:15:10.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd21qbzNLUnk1cW92OEltVldOY0JwaDZQOWlNMWllUUQ4S1hPVFhVcEZJWUFmdlIzR2JSZjZUbkgxSXhRaHF6NWdNeWctWmxfX19CTU9YdmZlUzVJOW95LWxHRHhOUjJjVGpUdWFka3UtczFKNkt4Q09IT3R4YkN4aG5uczV5Ri1wUl9uRU9NZS03WFdfdHlaWDlaSG5DcWNNa0FBNm51ZjJVc0hjWEE?oc=5",
-        "summary": "Microsoft AI Surge Exposes Data Center Capacity Gap &nbsp;&nbsp; Data Center Knowledge"
-      },
-      {
-        "headline": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-04-30T12:15:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFo2Tk92WEQ1bDJ6S2RPTlpGVEg3b0s1ZTROQXVhWWF0NjIzSk1QMGFWUG0yY0d0alJ3MDhmazc1aEtCSEstbERpWkloV2ozNENhNk54NmRXRktUVkM0dWw0YjFXYWtXV1JSQ2xhWlo1aVlUb21QOFM4MVZSRFNJOEJTTjlla2F1Rlo2bm5ybnpMUTJXNGU2R3lMRHl2OU5ZWTJUUGNMc0FIeW1lY2JleXloUUJmckFNTHc?oc=5",
-        "summary": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) &nbsp;&nbsp; Seeking Alpha"
-      },
-      {
-        "headline": "Dispute over fate of Kenyan workers who saw Meta AI glasses films - BBC",
-        "source": "BBC",
-        "timestamp": "2026-04-30T08:59:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZy1hLXl4SlprcTRCSUdpNjNMRWtCdlBNSkpBTVZhbWVFdjFQTTZNN01TNnlvcFVCdVo0QnF0bWRvd2RrTVlwQ1pyRS1DX2tlTWdYM2QyY3kzUQ?oc=5",
-        "summary": "Dispute over fate of Kenyan workers who saw Meta AI glasses films &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
@@ -178,7 +178,7 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
