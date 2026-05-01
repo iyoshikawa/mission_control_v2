@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-30T23:57:38.061Z",
+    "generatedAt": "2026-05-01T04:08:02.123Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So - KQED",
-      "source": "KQED",
-      "timestamp": "2026-04-30T23:29:37.000Z",
+      "headline": "Anthropic, OpenAI back Warner-Budd workforce data bill - Politico",
+      "source": "Politico",
+      "timestamp": "2026-04-30T23:03:33.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic, OpenAI back Warner-Budd workforce data bill &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODNoMnhSRXBfdWxIZU5LU3dRZ0RnSzluTTRxaTlKc0pzRHV0ZW1qWUJROGlnUjZHQVRyNmxiTFo2VnBoazNDRFI0TF9HbVlYbEhGYk1kZnlWRkRBUW1LS1VNOHlxaDlpSXBnZTViWUota2gtWFItMGZvSzdDUURWd3VXNE81bEY3LVFCTnVLbXhSeVRncWJFdlBNc2IzN18zN3RiV3QtN29NbnBDYjhBaU03YlhkR0xscXpPbg?oc=5"
+    },
+    {
+      "headline": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-04-30T20:11:10.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBLbXJDN1ZuMVhJNm1ONzhWU0tmQW4tX28yVi1nOEVJb3VGMzFBNC13ZTdfdkhxOTAwcDdhNzI0eHZpYTRjd0VqOEJ6RVVPYlJCRmtPZmlrZmRHd2pXajZMWm53aThmeEp5NmNMbUhWQjVjeVN1c2lxR0hVaENrUzF5dy14eXZwRDhnWUJNVFZReUJ1WHZRaQ?oc=5"
+    },
+    {
+      "headline": "How people ask Claude for personal guidance - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-04-30T19:04:13.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "How people ask Claude for personal guidance &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STEt1WHJpR3J0VnNjODZra2xrNGo1YWotQk42SThFalMtZUdJNDZnd2JMTnZQbHZYYlNWTTI5UnJUSWUtYUNnaHFISWJxaW9Hb1lJdzlIVTg4eHpoVElIUXA1MTVwQ3FaYVFJ?oc=5"
+    },
+    {
+      "headline": "Half of Google's and Amazon's 'blowout AI profits’ came from a stake in Anthropic—not from their actual business - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-04-30T17:04:00.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So &nbsp;&nbsp; KQED",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTBTNFBLM2xCT05zSXFSWlFlTlYwbmdlaW9wZU14dFZ1VUd4RDJYX2xyb29xWHNJc0FIZTA4T2t6b2MxZWY3WkRtdGh2X200S18teVVKbi13LWllb1Aya3pqY3FKeE0zcFZtMndoRWplQ2RZY3k2ZW1OclJZYUwtRlpDMEdaa1VGc1NINFdFUjgxdTc1bVdYN3VjU20xUkNnWThlN0x3SEQ0bmxHNXlDYkNXUQ?oc=5"
-    },
-    {
-      "headline": "Anthropic potential $900B+ valuation round could happen within two weeks - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-30T23:07:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic potential $900B+ valuation round could happen within two weeks &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmQ1enMyRGc5Sl80aHUwYjl6UEJfQ0NGWWRrblFWd0FGaUR6N2JrZTg3WHBwbXdEUGlxV3VOd0drSWxFUUhpNG5NdUt1V25Fc2RKUHJldldYcWdkYkZKOXdDLXVfd2xwVmVpMjd0c3lsWEtrdTRfRmVyVFRoMjdGMXdTZE13b2Npa0Q4TjJ3MmE3bHBWaGlCQk5PVUYtR2phOFdIS3dhWTI?oc=5"
-    },
-    {
-      "headline": "Is A.I. a Threat to Humanity? Not in This Trial. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-30T18:08:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Is A.I. a Threat to Humanity? Not in This Trial. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5"
+      "summary": "Half of Google's and Amazon's 'blowout AI profits’ came from a stake in Anthropic—not from their actual business &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmQyUmJOZ3hwdmYwbmtqSjhVSS1pQm9Fam5mSWV2ejZjcmR5R2xpbzZTU2hEVXFPU0k1Ni1xaGJScC15NVNzRHcxWWNiZVA4SHNvTF9rLVFtYVJJLUVheTE2ZUVnRXpmM1ZqSFU4eFJFR1I2UzRuX1hCMVZ6QTVVRHhlSzlEQkJvbTcxTjd2cWx1dFNhM2ZmdQ?oc=5"
     },
     {
       "headline": "AI co-clinician: researching the path toward AI-augmented care - Google DeepMind",
@@ -100,46 +110,45 @@
       "summary": "Ray-Ban Meta Gen 2 review: More than a fun toy &nbsp;&nbsp; The Irish Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVE92ams0TlZSNzlpc2hzcWhiYy1vcFFYVjZha0hqM3V0ZEV6dk4yZkFKRm5sT1dETnhjRXcyTXQtV1NUTm5xU1NXcHBVMTBkTWo2T2g1dkhQdEV1aXB4d25jQ21fdjJvZUhsbXlxMGkyZ1hJb1hWRk5oMlhBYVJNVkxLekFvTGZLT3pTSTVrLWJCd1hjNGRCaVlxYnY?oc=5"
-    },
-    {
-      "headline": "Where the goblins came from - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-04-30T03:21:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Where the goblins came from &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aX04xc2l3LUpSZ1NMTzVfUDlxYWh4dkhMQVZBMGlGa3M3RnBkN1h4MU04MktmdGdpZEltVm9PdUNvUndzZjluaVNVb2VRcjMwdUN4OW1zVGZkSnJpX0tNVG14UQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So - KQED",
-        "source": "KQED",
-        "timestamp": "2026-04-30T23:29:37.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTBTNFBLM2xCT05zSXFSWlFlTlYwbmdlaW9wZU14dFZ1VUd4RDJYX2xyb29xWHNJc0FIZTA4T2t6b2MxZWY3WkRtdGh2X200S18teVVKbi13LWllb1Aya3pqY3FKeE0zcFZtMndoRWplQ2RZY3k2ZW1OclJZYUwtRlpDMEdaa1VGc1NINFdFUjgxdTc1bVdYN3VjU20xUkNnWThlN0x3SEQ0bmxHNXlDYkNXUQ?oc=5",
-        "summary": "Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So &nbsp;&nbsp; KQED"
-      },
-      {
-        "headline": "Anthropic potential $900B+ valuation round could happen within two weeks - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-04-30T23:07:56.000Z",
+        "headline": "Anthropic, OpenAI back Warner-Budd workforce data bill - Politico",
+        "source": "Politico",
+        "timestamp": "2026-04-30T23:03:33.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmQ1enMyRGc5Sl80aHUwYjl6UEJfQ0NGWWRrblFWd0FGaUR6N2JrZTg3WHBwbXdEUGlxV3VOd0drSWxFUUhpNG5NdUt1V25Fc2RKUHJldldYcWdkYkZKOXdDLXVfd2xwVmVpMjd0c3lsWEtrdTRfRmVyVFRoMjdGMXdTZE13b2Npa0Q4TjJ3MmE3bHBWaGlCQk5PVUYtR2phOFdIS3dhWTI?oc=5",
-        "summary": "Anthropic potential $900B+ valuation round could happen within two weeks &nbsp;&nbsp; TechCrunch"
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODNoMnhSRXBfdWxIZU5LU3dRZ0RnSzluTTRxaTlKc0pzRHV0ZW1qWUJROGlnUjZHQVRyNmxiTFo2VnBoazNDRFI0TF9HbVlYbEhGYk1kZnlWRkRBUW1LS1VNOHlxaDlpSXBnZTViWUota2gtWFItMGZvSzdDUURWd3VXNE81bEY3LVFCTnVLbXhSeVRncWJFdlBNc2IzN18zN3RiV3QtN29NbnBDYjhBaU03YlhkR0xscXpPbg?oc=5",
+        "summary": "Anthropic, OpenAI back Warner-Budd workforce data bill &nbsp;&nbsp; Politico"
       },
       {
-        "headline": "Is A.I. a Threat to Humanity? Not in This Trial. - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-04-30T18:08:01.000Z",
+        "headline": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-04-30T20:11:10.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5",
-        "summary": "Is A.I. a Threat to Humanity? Not in This Trial. &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBLbXJDN1ZuMVhJNm1ONzhWU0tmQW4tX28yVi1nOEVJb3VGMzFBNC13ZTdfdkhxOTAwcDdhNzI0eHZpYTRjd0VqOEJ6RVVPYlJCRmtPZmlrZmRHd2pXajZMWm53aThmeEp5NmNMbUhWQjVjeVN1c2lxR0hVaENrUzF5dy14eXZwRDhnWUJNVFZReUJ1WHZRaQ?oc=5",
+        "summary": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "How people ask Claude for personal guidance - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-04-30T19:04:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STEt1WHJpR3J0VnNjODZra2xrNGo1YWotQk42SThFalMtZUdJNDZnd2JMTnZQbHZYYlNWTTI5UnJUSWUtYUNnaHFISWJxaW9Hb1lJdzlIVTg4eHpoVElIUXA1MTVwQ3FaYVFJ?oc=5",
+        "summary": "How people ask Claude for personal guidance &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "Half of Google's and Amazon's 'blowout AI profits’ came from a stake in Anthropic—not from their actual business - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-04-30T17:04:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmQyUmJOZ3hwdmYwbmtqSjhVSS1pQm9Fam5mSWV2ejZjcmR5R2xpbzZTU2hEVXFPU0k1Ni1xaGJScC15NVNzRHcxWWNiZVA4SHNvTF9rLVFtYVJJLUVheTE2ZUVnRXpmM1ZqSFU4eFJFR1I2UzRuX1hCMVZ6QTVVRHhlSzlEQkJvbTcxTjd2cWx1dFNhM2ZmdQ?oc=5",
+        "summary": "Half of Google's and Amazon's 'blowout AI profits’ came from a stake in Anthropic—not from their actual business &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "AI co-clinician: researching the path toward AI-augmented care - Google DeepMind",
@@ -158,35 +167,26 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT25BMWpfTUFVNjY3V3NqMzlUdVlPQ2ZHbHV5UGR2QTc2bnE1U1otVUpERDNBb0l6Zlp2UkZTTlk1cExKX08tLUFweHV5M21LcV9LRzRibExTUQ?oc=5",
         "summary": "OpenAI tells ChatGPT models to stop talking about goblins &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-04-30T12:15:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFo2Tk92WEQ1bDJ6S2RPTlpGVEg3b0s1ZTROQXVhWWF0NjIzSk1QMGFWUG0yY0d0alJ3MDhmazc1aEtCSEstbERpWkloV2ozNENhNk54NmRXRktUVkM0dWw0YjFXYWtXV1JSQ2xhWlo1aVlUb21QOFM4MVZSRFNJOEJTTjlla2F1Rlo2bm5ybnpMUTJXNGU2R3lMRHl2OU5ZWTJUUGNMc0FIeW1lY2JleXloUUJmckFNTHc?oc=5",
-        "summary": "Microsoft slips even as Azure, AI, boost results, guidance: What Wall Street's saying (MSFT:NASDAQ) &nbsp;&nbsp; Seeking Alpha"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
