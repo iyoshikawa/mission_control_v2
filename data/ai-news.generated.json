@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-01T13:27:43.267Z",
+    "generatedAt": "2026-05-01T15:00:12.355Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic - CNN",
-      "source": "CNN",
-      "timestamp": "2026-05-01T13:03:46.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic &nbsp;&nbsp; CNN",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvUnJOVDREenEtOEc3dVZlQTNCMFZOQWRXN005eWVyZXhPTnZTaFF3YktoVW1kLXFfN0VrYVpqODBnLVNLbE5jNzFROEJSV0R2VUMyRzBEdVpkMjlvMDZoeTZqNUJhV0hL?oc=5"
-    },
-    {
-      "headline": "OpenAI, Nvidia, Alphabet And More Sign AI Deal With Pentagon For Classified Military Use - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-05-01T12:42:14.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI, Nvidia, Alphabet And More Sign AI Deal With Pentagon For Classified Military Use &nbsp;&nbsp; Forbes",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUozUmdSQXNaNnQyUFpsQjE5STlKU0U4OHd3SF83S09HZ2IxWFkzcVEzWldHZDhCSE9ZWDgxc05VU3Zwa2NPa2cwekdXTEF6YUV2ejBuZzRmeWkxNEQ3Q1Y2RmZiZC13ZVp6eUJaT2dPWkd4MWN4azA1bDFLWGtXY0tublk1cjBDekpQa1pQTG5nZHhrUVpaQnVmNi1tWi1pTlZEZGJDbE42cWQ0bmI1T01ja3hvN1MtY0IzZ3ZQUklvb2tsRkYzT090N1hnOE54UGtTbQ?oc=5"
-    },
-    {
-      "headline": "Meta’s AI Spending Overshadows Addiction Lawsuits, Youth Bans - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-01T11:07:33.000Z",
+      "headline": "Fox News AI Newsletter: The AI model that's too dangerous to go public - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-05-01T14:29:35.000Z",
       "impact": "HIGH",
+      "category": "models",
+      "summary": "Fox News AI Newsletter: The AI model that's too dangerous to go public &nbsp;&nbsp; Fox News",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHdBZ0RRbnE3WndqM3U2VW5CT0t0OTRPeWI5S1doQnpUTVA0WEdzRXJxdmxjTjV0ODJpalUwR0h1aVlZTFplSHF2S0VWWXpVcGc2cVp1WWR0NEhIQVVVYWtuYkp3TFYxam9udDFFdDRMaWVVbVUxMlVWWUVsNVRXTUdjWUpWaU5xSHfSAY8BQVVfeXFMTWx5RS0tOENma1lsZlo4MjY1UUl2QjFmZEJPbll0a3hmY3dNS1A1X0Y4XzZFRHhKSEM2RTNieFA3WUhIZ0Z2a3ozMXR0bEF6RFFqcGNWRU44eFd3eHBVLW1wcTg1RXBsOXdrVmtyTlZHWjVsWXlHQldHNGJ6ZVFpTVhNblByczk3eENpaXEwWU0?oc=5"
+    },
+    {
+      "headline": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-05-01T14:09:56.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFl3bUFjbVY1Uk00MzA3WmhBNWUweGdrajdheDdTdFhZV3ZqTjloVGRUOG52bEZ5V29YcGJtN0E0OTFxeG15Z2FTX1RVSUtxbTVGdjMxSXl6VXVhRmpwNXEyMnBfSXVkX29xVU13cGRzdXhEV3E2R2dCS3dIWkVyaENDb1cwd0N0bVQzYWxSSkk1cnA5YUJOVUJuRFNSM2FrSGxtSQ?oc=5"
+    },
+    {
+      "headline": "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-01T14:00:48.000Z",
+      "impact": "LOW",
       "category": "regulation",
-      "summary": "Meta’s AI Spending Overshadows Addiction Lawsuits, Youth Bans &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnRQcExHaEZ5ZXJkRERWM3Zhck5xWlEwNHpIc3pCMThDVmtfLUM2cE9RdmIzeGExVWcybUpwb1lkLWZMTlNzY3NZVWlHeXdoQlJpcXFfSW1zVVBSaE90eUk5a1BpWVdLODRkenpmaGh4UzB6U3d4VXg2Y1g3cjlWSUtBNzRNRlpUcXdJSmNtTlpsa2FZenpjNkRUaXlQRTVZNUVUNS1YeDZrb0U1UFpRdnJ6bXpxZFVKVUpFMU8zVmdSWDB1UjV1TA?oc=5"
+      "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic &nbsp;&nbsp; Reuters Pentagon Makes Deals With A.I. Companies to Expand Classified Work &nbsp;&nbsp; The New York Times Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic | CNN Business &nbsp;&nbsp; CNN",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5"
+    },
+    {
+      "headline": "Elon Musk gets testy on the stand: ‘I thought I had started a nonprofit with OpenAI but they stole it’ - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-05-01T13:40:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Elon Musk gets testy on the stand: ‘I thought I had started a nonprofit with OpenAI but they stole it’ &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3R2VHNYWUE2WmxBbUZITGhxOUlmcVpWQ1hPbTM5N2RaWWJMeTYyVFVpV3M3R1Z4ME9HM0YtWEczWXZFNkMyNmNMNndLNm1rS19iZUFBUGZSZGZyaHZKSFBkWGZTQWEtQWFKd2IyQXBoMGNDZXlzYlc3YTd3cDFHMGdWY291UzBOQzRzWEFIQzlOYnJRYzZMTVdrWTNuQkpzQnZkOVhlX2ZXQy1weHJSd1NnbzMxSlk5SDdCMUtSbHoxb3NuYUFPc00wZw?oc=5"
+    },
+    {
+      "headline": "OpenAI’s New Model Spurs Debate Over A.I.’s Resource War - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-01T12:11:25.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI’s New Model Spurs Debate Over A.I.’s Resource War &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3FhaTF0SFVYMEtqRF90Smc2cDYwMGlsMjdTbTdOUEFyWVpEdC12SFlzd2tTSG52amhqbS1RWk81UXV1MDA1X0NBVURNaHRjX1FfMHplN1VtaU1QSUJNOHlnZzhqNlFLSGhyZ2R2eDl4YjFidlBhQUFsZUdXMndlMTRsekpEQVg0a1E?oc=5"
     },
     {
       "headline": "So, About That AI Bubble - The Atlantic",
@@ -62,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHc0cXFDVmlxWkpZSlZVN0owZm0tdHZ0cmRiNjZnUTR3aENaQ0NDM0pjeTh3aGZFMFMxMzB2T3huX3ZMTTFRWEh2bmFjVktSaWJqak9US3BuN2pnYWtYTlhZSXJGZjhRVGlFUGlEcERLMDREVlVGb2o2emdObnp3cDAxOTJxd0dUaXJEZ24tenQ3cEFqcEFHRzFEZ0htWjlrRWc?oc=5"
     },
     {
-      "headline": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-04-30T19:27:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1pkT05ZeVNWc0lKSHBhUTNuU1V4Z3Y0c2tNWFVyRnUwQ2VjVjVLR084QVJ0SlY1cGhGVkNEa3RSbHhWWWJ1eXEyaHFJMUd4XzRLSkVFbHpzMGxzU3JBc2l5VkhRenNmaU5aWnQ1d0dwTUVPTDVCSUR5Q2N0SjBpZUhybzhnN2xaMVJOY25XSTE2YXdhS1Z4M1h0WUhOSV94WHdmSG9pczJCT0pmUjdCSUlmQ1MyQQ?oc=5"
-    },
-    {
       "headline": "How people ask Claude for personal guidance - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-04-30T19:04:13.000Z",
@@ -82,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STEt1WHJpR3J0VnNjODZra2xrNGo1YWotQk42SThFalMtZUdJNDZnd2JMTnZQbHZYYlNWTTI5UnJUSWUtYUNnaHFISWJxaW9Hb1lJdzlIVTg4eHpoVElIUXA1MTVwQ3FaYVFJ?oc=5"
     },
     {
-      "headline": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-04-30T18:08:01.000Z",
+      "headline": "Science Needs AI Data Stocktakes: A Proof-of-Concept for Fusion - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-04-30T16:04:05.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5"
+      "summary": "Science Needs AI Data Stocktakes: A Proof-of-Concept for Fusion &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDVXprTFhZaDRJMUF0MGFuX0VvYmVnVzZJSjNWLXdxUWZVNS1QelJnYXE0UWM2aFRxNjFlOS1idm94eDR4d2RDSHpQYkxtQlVZTlhuRlBfdEtSTjFsclhsSGgyZGRYSEhCOFE2STVPNXRiNEdzWHVKTVc0bw?oc=5"
     },
     {
       "headline": "Google’s Pentagon deal blindsided its own AI researchers - Transformer | Substack",
@@ -100,46 +110,54 @@
       "summary": "Google’s Pentagon deal blindsided its own AI researchers &nbsp;&nbsp; Transformer | Substack",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52NlVBY0xjZHFPWjNiOWJIMkozZFAxQ0lmNVBVNXFMbW1tU1ducmR5RUV1VXc1dmFRZDN4QWRLdTllUWs2X2NoN2IwdEhjSGR4T1dvX3gwTzFtNzg2bGs3YTdWTGROSTVMTXpqV2JDSnRtLXhGYndDNFZPSExWUQ?oc=5"
-    },
-    {
-      "headline": "AI co-clinician: researching the path toward AI-augmented care - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-04-30T15:01:14.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "AI co-clinician: researching the path toward AI-augmented care &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92M2F1ZWduU1llWjJpOWZtcWFtY0YybDBxRXdXTjctYk5EZTJzSG8yZ3JKTWNXS1M1SVNyQ285SldoME9xWWZCR0ZCWHQ0OHlJT1dldHR4dWQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic - CNN",
-        "source": "CNN",
-        "timestamp": "2026-05-01T13:03:46.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvUnJOVDREenEtOEc3dVZlQTNCMFZOQWRXN005eWVyZXhPTnZTaFF3YktoVW1kLXFfN0VrYVpqODBnLVNLbE5jNzFROEJSV0R2VUMyRzBEdVpkMjlvMDZoeTZqNUJhV0hL?oc=5",
-        "summary": "Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic &nbsp;&nbsp; CNN"
+        "headline": "Fox News AI Newsletter: The AI model that's too dangerous to go public - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-05-01T14:29:35.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHdBZ0RRbnE3WndqM3U2VW5CT0t0OTRPeWI5S1doQnpUTVA0WEdzRXJxdmxjTjV0ODJpalUwR0h1aVlZTFplSHF2S0VWWXpVcGc2cVp1WWR0NEhIQVVVYWtuYkp3TFYxam9udDFFdDRMaWVVbVUxMlVWWUVsNVRXTUdjWUpWaU5xSHfSAY8BQVVfeXFMTWx5RS0tOENma1lsZlo4MjY1UUl2QjFmZEJPbll0a3hmY3dNS1A1X0Y4XzZFRHhKSEM2RTNieFA3WUhIZ0Z2a3ozMXR0bEF6RFFqcGNWRU44eFd3eHBVLW1wcTg1RXBsOXdrVmtyTlZHWjVsWXlHQldHNGJ6ZVFpTVhNblByczk3eENpaXEwWU0?oc=5",
+        "summary": "Fox News AI Newsletter: The AI model that's too dangerous to go public &nbsp;&nbsp; Fox News"
       },
       {
-        "headline": "OpenAI, Nvidia, Alphabet And More Sign AI Deal With Pentagon For Classified Military Use - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-05-01T12:42:14.000Z",
+        "headline": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-05-01T14:09:56.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONUozUmdSQXNaNnQyUFpsQjE5STlKU0U4OHd3SF83S09HZ2IxWFkzcVEzWldHZDhCSE9ZWDgxc05VU3Zwa2NPa2cwekdXTEF6YUV2ejBuZzRmeWkxNEQ3Q1Y2RmZiZC13ZVp6eUJaT2dPWkd4MWN4azA1bDFLWGtXY0tublk1cjBDekpQa1pQTG5nZHhrUVpaQnVmNi1tWi1pTlZEZGJDbE42cWQ0bmI1T01ja3hvN1MtY0IzZ3ZQUklvb2tsRkYzT090N1hnOE54UGtTbQ?oc=5",
-        "summary": "OpenAI, Nvidia, Alphabet And More Sign AI Deal With Pentagon For Classified Military Use &nbsp;&nbsp; Forbes"
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFl3bUFjbVY1Uk00MzA3WmhBNWUweGdrajdheDdTdFhZV3ZqTjloVGRUOG52bEZ5V29YcGJtN0E0OTFxeG15Z2FTX1RVSUtxbTVGdjMxSXl6VXVhRmpwNXEyMnBfSXVkX29xVU13cGRzdXhEV3E2R2dCS3dIWkVyaENDb1cwd0N0bVQzYWxSSkk1cnA5YUJOVUJuRFNSM2FrSGxtSQ?oc=5",
+        "summary": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic &nbsp;&nbsp; The Verge"
       },
       {
-        "headline": "Meta’s AI Spending Overshadows Addiction Lawsuits, Youth Bans - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-05-01T11:07:33.000Z",
+        "headline": "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-05-01T14:00:48.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5",
+        "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic &nbsp;&nbsp; Reuters Pentagon Makes Deals With A.I. Companies to Expand Classified Work &nbsp;&nbsp; The New York Times Pentagon strikes deals with 7 Big Tech companies after shunning Anthropic | CNN Business &nbsp;&nbsp; CNN"
+      },
+      {
+        "headline": "Elon Musk gets testy on the stand: ‘I thought I had started a nonprofit with OpenAI but they stole it’ - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-05-01T13:40:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3R2VHNYWUE2WmxBbUZITGhxOUlmcVpWQ1hPbTM5N2RaWWJMeTYyVFVpV3M3R1Z4ME9HM0YtWEczWXZFNkMyNmNMNndLNm1rS19iZUFBUGZSZGZyaHZKSFBkWGZTQWEtQWFKd2IyQXBoMGNDZXlzYlc3YTd3cDFHMGdWY291UzBOQzRzWEFIQzlOYnJRYzZMTVdrWTNuQkpzQnZkOVhlX2ZXQy1weHJSd1NnbzMxSlk5SDdCMUtSbHoxb3NuYUFPc00wZw?oc=5",
+        "summary": "Elon Musk gets testy on the stand: ‘I thought I had started a nonprofit with OpenAI but they stole it’ &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "OpenAI’s New Model Spurs Debate Over A.I.’s Resource War - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-01T12:11:25.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnRQcExHaEZ5ZXJkRERWM3Zhck5xWlEwNHpIc3pCMThDVmtfLUM2cE9RdmIzeGExVWcybUpwb1lkLWZMTlNzY3NZVWlHeXdoQlJpcXFfSW1zVVBSaE90eUk5a1BpWVdLODRkenpmaGh4UzB6U3d4VXg2Y1g3cjlWSUtBNzRNRlpUcXdJSmNtTlpsa2FZenpjNkRUaXlQRTVZNUVUNS1YeDZrb0U1UFpRdnJ6bXpxZFVKVUpFMU8zVmdSWDB1UjV1TA?oc=5",
-        "summary": "Meta’s AI Spending Overshadows Addiction Lawsuits, Youth Bans &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV3FhaTF0SFVYMEtqRF90Smc2cDYwMGlsMjdTbTdOUEFyWVpEdC12SFlzd2tTSG52amhqbS1RWk81UXV1MDA1X0NBVURNaHRjX1FfMHplN1VtaU1QSUJNOHlnZzhqNlFLSGhyZ2R2eDl4YjFidlBhQUFsZUdXMndlMTRsekpEQVg0a1E?oc=5",
+        "summary": "OpenAI’s New Model Spurs Debate Over A.I.’s Resource War &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "So, About That AI Bubble - The Atlantic",
@@ -149,44 +167,26 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDRBZFVUTHpIa1FMcjlYT2NLejFDYmZwS2MtU1BmV3ZKeEM2STBFWnYtMXNTMWpBdUZ3Y3BrQlNzeS1aNnVrU2JmcDR1YkFpYUdqOU1yT1Jjb1d1YXczYk9ZQjNHZ2dSdmw4VVNNUGZnVGxtcERBamVncVV0b2U4VFVsM1RTQQ?oc=5",
         "summary": "So, About That AI Bubble &nbsp;&nbsp; The Atlantic"
-      },
-      {
-        "headline": "Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-04-30T20:14:17.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHc0cXFDVmlxWkpZSlZVN0owZm0tdHZ0cmRiNjZnUTR3aENaQ0NDM0pjeTh3aGZFMFMxMzB2T3huX3ZMTTFRWEh2bmFjVktSaWJqak9US3BuN2pnYWtYTlhZSXJGZjhRVGlFUGlEcERLMDREVlVGb2o2emdObnp3cDAxOTJxd0dUaXJEZ24tenQ3cEFqcEFHRzFEZ0htWjlrRWc?oc=5",
-        "summary": "Alphabet, Amazon Outpace Meta in AI During Earnings Bonanza &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-04-30T19:27:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1pkT05ZeVNWc0lKSHBhUTNuU1V4Z3Y0c2tNWFVyRnUwQ2VjVjVLR084QVJ0SlY1cGhGVkNEa3RSbHhWWWJ1eXEyaHFJMUd4XzRLSkVFbHpzMGxzU3JBc2l5VkhRenNmaU5aWnQ1d0dwTUVPTDVCSUR5Q2N0SjBpZUhybzhnN2xaMVJOY25XSTE2YXdhS1Z4M1h0WUhOSV94WHdmSG9pczJCT0pmUjdCSUlmQ1MyQQ?oc=5",
-        "summary": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "Google DeepMind",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "OpenAI",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "Google DeepMind",
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
