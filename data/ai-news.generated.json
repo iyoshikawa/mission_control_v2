@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-03T22:50:42.690Z",
+    "generatedAt": "2026-05-03T23:53:21.844Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -52,14 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWl5Q0Rqc2plblBjNFhKY1NpNnlfRnFDQWlSZktRVzNYTmZZbDMwRmVYY0ZZa3ZHUGgtYTJ3RDlURW53QUw0WW9KVHFlV3ZfZ094S3RjXzBvQVo1UzB4QUdDNkFKQUdGdWFZdDhnZUwzS2JxT3VZOEdtRXBuQ05VN2pFTTNDbnkzQWxqZ0pub21nc05hMGNWdzBCSTJMTnFrWThFdGdWdmhQdw?oc=5"
     },
     {
-      "headline": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-05-03T08:30:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdlFLOVFFcjgyNHNZak5CSzI5Yjg4WWgxVTNRdkxrTDVqaElOVHd4TzN0aUNmc3RtZVQ4ZnF4NTQ4VHVDRmNrRkhFZDA4X2ZoTnhhTnE5NjBHM0NLaDZHNWd3dW1nMXZWY0xnTkVYWmd1WkFtTGJjLXdEOXkxdDg?oc=5"
+      "headline": "The Lore of Sam Altman Is Being Tested Like Never Before - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-03T09:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Lore of Sam Altman Is Being Tested Like Never Before &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmxlTDJYOFRIUk80UHB6cWZoSTE5SWdEWktHSTdBNGtaM3BTb05RTGdweVpPUWM3ZlgxLUw0VVFHT0hZbmNNdVBqRmZLc0lzSnFqLXpNQkdQcGM2RDV5UXNLaHFjUTVFOUszV3JwNTVpY01zeERaX2NlbDUwXzctTC03dUQzaVZMd1RPUFhDUDRtREEtMjJVOQ?oc=5"
     },
     {
       "headline": "OpenAI Introduces AI-Generated Pets For Its Codex App - Engadget",
@@ -151,13 +151,13 @@
         "summary": "Google Cloud, AWS, Microsoft Azure: The AI vertical integration race &nbsp;&nbsp; Constellation Research"
       },
       {
-        "headline": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-05-03T08:30:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdlFLOVFFcjgyNHNZak5CSzI5Yjg4WWgxVTNRdkxrTDVqaElOVHd4TzN0aUNmc3RtZVQ4ZnF4NTQ4VHVDRmNrRkhFZDA4X2ZoTnhhTnE5NjBHM0NLaDZHNWd3dW1nMXZWY0xnTkVYWmd1WkFtTGJjLXdEOXkxdDg?oc=5",
-        "summary": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' &nbsp;&nbsp; Business Insider"
+        "headline": "The Lore of Sam Altman Is Being Tested Like Never Before - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-03T09:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmxlTDJYOFRIUk80UHB6cWZoSTE5SWdEWktHSTdBNGtaM3BTb05RTGdweVpPUWM3ZlgxLUw0VVFHT0hZbmNNdVBqRmZLc0lzSnFqLXpNQkdQcGM2RDV5UXNLaHFjUTVFOUszV3JwNTVpY01zeERaX2NlbDUwXzctTC03dUQzaVZMd1RPUFhDUDRtREEtMjJVOQ?oc=5",
+        "summary": "The Lore of Sam Altman Is Being Tested Like Never Before &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "OpenAI Introduces AI-Generated Pets For Its Codex App - Engadget",
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
