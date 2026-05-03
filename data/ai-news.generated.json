@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-03T17:53:26.778Z",
+    "generatedAt": "2026-05-03T19:06:36.627Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -42,6 +42,16 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWl5Q0Rqc2plblBjNFhKY1NpNnlfRnFDQWlSZktRVzNYTmZZbDMwRmVYY0ZZa3ZHUGgtYTJ3RDlURW53QUw0WW9KVHFlV3ZfZ094S3RjXzBvQVo1UzB4QUdDNkFKQUdGdWFZdDhnZUwzS2JxT3VZOEdtRXBuQ05VN2pFTTNDbnkzQWxqZ0pub21nc05hMGNWdzBCSTJMTnFrWThFdGdWdmhQdw?oc=5"
     },
     {
+      "headline": "The White House Suddenly Seems Pretty Terrified of Anthropic - Futurism",
+      "source": "Futurism",
+      "timestamp": "2026-05-03T10:45:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The White House Suddenly Seems Pretty Terrified of Anthropic &nbsp;&nbsp; Futurism",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0dSTk5qMW1RbVQ1TW1KMnY0Q0V0cHFVX3Y3cGJIRk5KWmJmbkp3aWNqbXhGNm9JZjJTM29JZGZBMjBHc25SNG1VSHNjc0lrbjhtc2h6WmVoMF9TTkhtTVh6bzdOaktCZGs3blZmU05KMEhmaUxsZ3hEczBVZG9keE5LY2tzc3k4cHZz?oc=5"
+    },
+    {
       "headline": "The Lore of Sam Altman Is Being Tested Like Never Before - WSJ",
       "source": "WSJ",
       "timestamp": "2026-05-03T09:30:00.000Z",
@@ -52,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmxlTDJYOFRIUk80UHB6cWZoSTE5SWdEWktHSTdBNGtaM3BTb05RTGdweVpPUWM3ZlgxLUw0VVFHT0hZbmNNdVBqRmZLc0lzSnFqLXpNQkdQcGM2RDV5UXNLaHFjUTVFOUszV3JwNTVpY01zeERaX2NlbDUwXzctTC03dUQzaVZMd1RPUFhDUDRtREEtMjJVOQ?oc=5"
     },
     {
-      "headline": "OpenAI Introduces AI-Generated Pets For Its Codex App - Engadget",
-      "source": "Engadget",
-      "timestamp": "2026-05-02T19:31:53.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Introduces AI-Generated Pets For Its Codex App &nbsp;&nbsp; Engadget",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVotMEtEMVc5QlZwMng3Vl9nVVZTanQza010aUxmRXZuUlVjNERKNGlCWnlCdzlVbnhKZExlbURkWTM2Z21xb21HemFEcXh0b0VRUmlRZk9UWDlIQndFQV9qWW5KYkFkTkRqZ0xQV08tYUJXVVJLUTczTUZpYXVBaWJOellsTFNEZ21qT0ZlNFU?oc=5"
-    },
-    {
       "headline": "Anthropic in Talks to Buy AI Chips From U.K. Startup - The Information",
       "source": "The Information",
       "timestamp": "2026-05-02T14:00:00.000Z",
@@ -70,16 +70,6 @@
       "summary": "Anthropic in Talks to Buy AI Chips From U.K. Startup &nbsp;&nbsp; The Information",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbk9GTG50U29sdjAtbWhpTHhySVVHTnBjSmUwNG01R0RvZFhhUWNteVZFVUVIUTA1YlBGazV4NVRVNzZlaUZSNjgza2JOUEl5a3p2Y0xGN1FuQVVYemRQRDloOUxab2oyYXFQbVNVbVdoYlcyM0FKSnRrOEVZN2swdGVrS3pETjQ?oc=5"
-    },
-    {
-      "headline": "Anthropic's most powerful AI model just exposed a crisis in corporate governance. Here's the framework every CEO needs. - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-05-02T12:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic's most powerful AI model just exposed a crisis in corporate governance. Here's the framework every CEO needs. &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdTM3MlFQcTI4eHVHTzg2RE1tN2doLU53TjFUT3pjR29KOFdqbE1fOVlVUW1McENQZlpSVDluVXFtNGc2Q0haM0tTQ0RuMENTNGl4Q3VzeFhzSjBaeC1oUTB5SlhNSUdZY0R4czdBN2RjMFNvTUZWYmFac1I5bDhhREdiU1hxenl6enZxVS10aDBIUjVTOExKMGVMeHFidW41RGUtcTVvZTVITmNyb2hRU09GUEV5Vnd4a3B0bWhSZHM?oc=5"
     },
     {
       "headline": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation - MarkTechPost",
@@ -102,14 +92,24 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUJmZHFfZ2R5UmJ1cHc5dEdrWEFJWjNTYkRpUk5tdjRSQnZGaWNITWlMZVdrWHVsc3RPUzNzTXNqUmdMS210MmozTWhkSFRwdjVYUTdydmVyeVFFMEd1WVRQVVZCbFdxYkdza1VFajdnNWlEVkRfQ2lTZ09rNTNKa1VKS1RiV3lkVWd0ZGZXSll3REs5WWlDMVBWSDFLbkU?oc=5"
     },
     {
-      "headline": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models - MIT Technology Review",
-      "source": "MIT Technology Review",
-      "timestamp": "2026-05-01T22:08:19.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models &nbsp;&nbsp; MIT Technology Review",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTi1jZkhwbUdsMmxOd0dvVk43VXpsXzJ1U2s1eUhUdGVxTVNBa1JpV1Z1NDEtMzBXTVpSZ1J3eXN6WVEzLW96aVdfOUd5QnA4U3d2aGdlWjBncndJMFE3VWxPSThEQy0zQjVhbWdiZU5kc0dDZXJiRjUtcGN6TW9zT3p2NnRBOG5OUTFGZDFhaUdOOG5EVjVNMkhBeUc2bm5MZjZPWG1FSElqMkVhTHc5a1FYZ2szSU9yYzNIT0hDQ3oweUprQ2lNWmxOTnkyRTg0OUtRZ2lTamVkZy1xVk9ySF9jMEJVT21KYTJNc21PWG5mR2llSTBncVhBWdIBgAJBVV95cUxNMElkY1hLcHZMS1p4Q1J5WG1XMTdpZlExSVR6eUZNSmptbVN0aks1UkkzNDE0ZGJpMkhXUzd5cWtfZjJaMGFHWklqY0xJTzlpLTE5ZUVMc3dCRUQxd2thRV9PNjRnbzllbDEzSGxrdnM2ZTVaTnFSWW1vNGx6SnRnUlo4YnFVZ2Nqd2NTMlUxZ2tVT2ZDT1JQVG90QUhucVZ6Y3N0Z3RYS25NTjVmT0IxcG05VDRJXzkxd0d6MmN1UkhUT2plVW9vYnB2cWtjRlBralZreVhaUDNXRE9UUHVDN2tLWnVvdzc3WGZLS1IteG1YSlpqdWJZZ05xU3FxNUQ2?oc=5"
+      "headline": "Musk Warns of Killer AI — While He and the Rest of Silicon Valley Cash In on AI That Kills - The Intercept",
+      "source": "The Intercept",
+      "timestamp": "2026-05-01T15:55:25.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Musk Warns of Killer AI — While He and the Rest of Silicon Valley Cash In on AI That Kills &nbsp;&nbsp; The Intercept",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1YkpCQllHSzlTSC1VbXVFX1NMeVFRanZ2SEw0RV9QNTBuMFA3dldUM2FmUkN3MllUZ0pqVG5aTC1raWZkU3cyZ1lXa2tHVXNCREtrcFdmQWxnTzFCLVBOcnFIVi00eDBXVXBTbEtMRU4wWjdWdFE?oc=5"
+    },
+    {
+      "headline": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-01T12:41:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOWhNTG9GaWN0VVNYX0p4eHZpSFN2Tk9PTWl3R21NZnNsVy1Ic045ZS0zMzBPamt5SFVkTUZOVFo5eThOMkFfdGpWTFdkZWJoU3JVdGhTdFRmYm1nLUZlc1BfQXpqVkRzT2Vabkh4c1FXanNtelNYb2hHOFVzWGJ3WVhaZWNXdw?oc=5"
     }
   ],
   "aiNews": {
@@ -142,6 +142,15 @@
         "summary": "Google Cloud, AWS, Microsoft Azure: The AI vertical integration race &nbsp;&nbsp; Constellation Research"
       },
       {
+        "headline": "The White House Suddenly Seems Pretty Terrified of Anthropic - Futurism",
+        "source": "Futurism",
+        "timestamp": "2026-05-03T10:45:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0dSTk5qMW1RbVQ1TW1KMnY0Q0V0cHFVX3Y3cGJIRk5KWmJmbkp3aWNqbXhGNm9JZjJTM29JZGZBMjBHc25SNG1VSHNjc0lrbjhtc2h6WmVoMF9TTkhtTVh6bzdOaktCZGs3blZmU05KMEhmaUxsZ3hEczBVZG9keE5LY2tzc3k4cHZz?oc=5",
+        "summary": "The White House Suddenly Seems Pretty Terrified of Anthropic &nbsp;&nbsp; Futurism"
+      },
+      {
         "headline": "The Lore of Sam Altman Is Being Tested Like Never Before - WSJ",
         "source": "WSJ",
         "timestamp": "2026-05-03T09:30:00.000Z",
@@ -149,15 +158,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmxlTDJYOFRIUk80UHB6cWZoSTE5SWdEWktHSTdBNGtaM3BTb05RTGdweVpPUWM3ZlgxLUw0VVFHT0hZbmNNdVBqRmZLc0lzSnFqLXpNQkdQcGM2RDV5UXNLaHFjUTVFOUszV3JwNTVpY01zeERaX2NlbDUwXzctTC03dUQzaVZMd1RPUFhDUDRtREEtMjJVOQ?oc=5",
         "summary": "The Lore of Sam Altman Is Being Tested Like Never Before &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "OpenAI Introduces AI-Generated Pets For Its Codex App - Engadget",
-        "source": "Engadget",
-        "timestamp": "2026-05-02T19:31:53.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVotMEtEMVc5QlZwMng3Vl9nVVZTanQza010aUxmRXZuUlVjNERKNGlCWnlCdzlVbnhKZExlbURkWTM2Z21xb21HemFEcXh0b0VRUmlRZk9UWDlIQndFQV9qWW5KYkFkTkRqZ0xQV08tYUJXVVJLUTczTUZpYXVBaWJOellsTFNEZ21qT0ZlNFU?oc=5",
-        "summary": "OpenAI Introduces AI-Generated Pets For Its Codex App &nbsp;&nbsp; Engadget"
       },
       {
         "headline": "Anthropic in Talks to Buy AI Chips From U.K. Startup - The Information",
@@ -172,9 +172,9 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
