@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-04T18:18:28.914Z",
+    "generatedAt": "2026-05-04T20:19:36.988Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,74 @@
   },
   "newsFeed": [
     {
+      "headline": "Hacked, robbed, then banned: Canton business owner’s meta AI nightmare - ClickOnDetroit | WDIV Local 4",
+      "source": "ClickOnDetroit | WDIV Local 4",
+      "timestamp": "2026-05-04T20:05:59.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Hacked, robbed, then banned: Canton business owner’s meta AI nightmare &nbsp;&nbsp; ClickOnDetroit | WDIV Local 4",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVJNZkRMUHVvd0RxQXdNTnFmQkNaQnUwbjR5T1ZLamhmemk4aEl3dWRfdFA3WW1OSDBaMDBfT1RFN3F4S2FXYW1vWk56cGFGdEVYQWd6bndla3AwVTdjN1ZnUnBCM1NNRXJWQ0UwQ0h6ZzRDdVJNOGxYVTk2R3pzY1VJRWJkQ3VFeEp6bFhGeDE2ZlpIaXpSNkFUV0Z2S1pJZWRmNjBuYkhLaVdteDV6dXNUQWt3dXp6bXU3ZQ?oc=5"
+    },
+    {
+      "headline": "Microsoft Committed To Doubling AI Infrastructure In Two Years - The Next Platform",
+      "source": "The Next Platform",
+      "timestamp": "2026-05-04T20:05:28.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Committed To Doubling AI Infrastructure In Two Years &nbsp;&nbsp; The Next Platform",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHFMcWNxZldSSUI0SjA1RnMybHBmQkYtalljdVdEZWEwaWdWcG9rcjVTZ1ZXbDhtSEctUHNfdkliN01IM09wc1pLbGZCejVJeEloOUJzZk9MdTFkVG5zWTlWNTEzX3hHQl9JLVlETlBjakN5SEpYOU5xWlVXMk1YdDZyRU9mdWc2QUNoWElXTnZpdVVEeWxGUnhvbDNKVGx1dThoZVhqd0VJX2xVYXRXQzByTFZ6VUk?oc=5"
+    },
+    {
+      "headline": "Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling In AI Era - crn.com",
+      "source": "crn.com",
+      "timestamp": "2026-05-04T19:30:00.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling In AI Era &nbsp;&nbsp; crn.com",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUg2MU5OU3A2X0VGRTR0TmFXMUdkOG4weVN5U0VOUlpsYVpMVlU2ZEFkR2prOTFTbmVXeDVNeWVYRmgwemtMaTFjZGJpRWt3VjlRbExFZHNBWlVhN3E5SjM4TFhZSjRJOVhQRXAyZUVLc1A2WmpScHVLd0R4ajJPLVU2RVVzMGtxTkRHbUVrOTVBTU1fM3Jma1FQQWR1Vk51ZHh0aQ?oc=5"
+    },
+    {
+      "headline": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents - PYMNTS.com",
+      "source": "PYMNTS.com",
+      "timestamp": "2026-05-04T19:22:29.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents &nbsp;&nbsp; PYMNTS.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3BMSjh6R3ZoeC00WHZlWTIxM3ZuU2VQX280S2JMa29VRUZUa0t2SkVlYTVrYU13ZkVqYkxYcWszNGFDZDlFUldpTFlLck1oUEhrTkdjWEFibV8teFA0VTZvU1pTOUJvUUdoU1JLNVhQbXdDQTdUTDdtT2doS2tVNl92ZnJpb084QXpuVGJzbUdOWW91cGs0bHBJT01vcF9EV0dyeURPZlh4LWRGMmtXaEZyd2RBQ3RT?oc=5"
+    },
+    {
+      "headline": "White House Considers Vetting A.I. Models Before They Are Released - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-04T19:02:34.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "White House Considers Vetting A.I. Models Before They Are Released &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5"
+    },
+    {
+      "headline": "How OpenAI delivers low-latency voice AI at scale - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-05-04T18:53:18.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How OpenAI delivers low-latency voice AI at scale &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUU1GUEFDLVlxemdrZFI1WEl4U0dGYzZjcW96NHlpbUtfMnB4WFd1UC1RbXdUME1Ga2xobWlyaUhFUWFrTWhNdWhOWHJSckxjaTN6TzBhY1M3eTh1ckxFOXNmMHhqYk9hTzMtVFJyblV6X3Ez?oc=5"
+    },
+    {
       "headline": "OpenAI and Anthropic partner with private equity - Axios",
       "source": "Axios",
       "timestamp": "2026-05-04T18:04:05.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI and Anthropic partner with private equity &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2otSjZDMThkZ2lzZTBnSUN2RjI0bl81YVg5TVkwVmRNOFVNemN5dG1IczRBV21lWmpIX3hfQUt4QURVSWtKQlBBejN2SU5YWFZPWi1wNHZMLUtQTEpVYnI1cVE0OGE1a2NZNTI5WmtNZjRSdndpMmdCbHZwTy1sMElNMFp6bW9pLWhabg?oc=5"
-    },
-    {
-      "headline": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-05-04T15:59:24.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzlMZWFEalpuTEU1YnhqQ1p4cDlweTVtY0ZuX2xvOWg1OVlUaklzODl0Wkxqdk9TNTZpOUl4XzRmalBpeVB2OVczeS1ia196ZTNmRG9LTjBWcWQwSnhadlVMZFpEQWtnRVlpODltQVdpbjBiU1RVNzNod01Fcmt4T1Rja01oMDh0WnY3c1NGN255d2xLV19tNm8yUGRRbGMweDBXbTQ1djVQMEpWQUhfN0xudXdKVUk?oc=5"
-    },
-    {
-      "headline": "Microsoft Stock Needs Sped Faster Cloud Growth. Fixing This AI Gap Is Key. - Barron's",
-      "source": "Barron's",
-      "timestamp": "2026-05-04T15:23:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Stock Needs Sped Faster Cloud Growth. Fixing This AI Gap Is Key. &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1JoeHRoQWFPVVA1ZE4tektSbDB1TGZ4NHhWbnZ6X0JDY3JqSWRHSGRDcEQ1V2xTUWpDWkxWYVZUV3pEYnpxRWF6cENsWUhOQW1MUTRENTZUbFVYb3FyM1IyOXFTd3ZiTi1OZHNERE5ocDExdmFjd0JKTXhwc3RZTXRKd3RPVDFfSjI0?oc=5"
-    },
-    {
-      "headline": "China blocks Meta AI deal over security concerns - Fox News",
-      "source": "Fox News",
-      "timestamp": "2026-05-04T15:08:06.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "China blocks Meta AI deal over security concerns &nbsp;&nbsp; Fox News",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0g5c0JkaVBXcGI3dktXOUY2dDA4QkVWbXVVNHJ4ZzdzUktVcFhFdE1tRVEzZU1INVJ6aXpSNU9KWmNHNHh5bUxBUjBVQzZDTE1EbUZkT25HdzRod1h6SHFySUhWcVc3TFc1RXVHYUptTXg4QXVub2dGQlN2MWVlVkZySdIBiAFBVV95cUxQYThmQ1hvU3NXUkNiTzlZazI0d1dEcWNyVnVhOXh1emxVMi1IMU83TTFUX1k0SFJzbGk5X2NDMnRlWmh3SEpyS0NvS1BtMGRTMjhPZG15ckJ6Z19KUmgxcHZCT1ZnZ3hoRlRuYjZhbk9ua283bEVtMU9JRDBUMTJSNV9YVzdybHR3?oc=5"
     },
     {
       "headline": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI - Bloomberg.com",
@@ -58,115 +88,85 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1NhcXhKUFZGelR2NjRuN2tnSkE1bmJTUjMzMnN6YlFoWUVlWnZ0SkpxZ1J1ZDhnVE5USzQwbUdDSTZENDZZZTZqNDhaNzJFcmJBS01lOXdJRmx3N25iY2hWdnJyNEliX3JGOHZ2Q2QwZnh4YlhZWjFJZmtNMVd4MFNTenFCVXRQWUh3TGw2WlpuTldrbE1UOEFONmN0NmhkMkYxekxRR3FxY21kWk5sR0VwdUwyQnIwWXVR?oc=5"
     },
     {
-      "headline": "CoreWeave’s Anthropic Deal is Game Changing — The AI‑Infra Trade is Heating Up - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-05-04T14:16:49.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "CoreWeave’s Anthropic Deal is Game Changing — The AI‑Infra Trade is Heating Up &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVW1KMlZrT3QyWXJfTXY0TUIxdGJsWFdOLTVNUUVaa3RTUENnMHVmbFE4clc1SkxUVDlhTWo3OFFueG0xb0hzTWNxRnVFYjMxLS02RjdDbHo1b2dHaUw3OGhQN25hZk1kZVpkQVVVd1YxX29tbzFBaElvMm9RTWF1RmdpTzdCWnYtNTFSUVBzVUx0TTh5NHJsOHp1bHRhbVNIWTQ1bFN3?oc=5"
+      "headline": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-05-04T14:13:35.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydjZELVEzZzQwTUhWQjdfMnZxV2pPN29pLVkxNUpSUWVoN0ozOFBBcm9iV0tkckJyaVdnRk1rT01UclJaQXZtSGdsem03dXNDWjhMT2toTTkwcHlxZGJfZVQxWUI5MzFOMTBjZEhn?oc=5"
     },
     {
       "headline": "Anthropic Unveils $1.5 Billion Joint Venture With Wall Street Firms - WSJ",
       "source": "WSJ",
       "timestamp": "2026-05-04T13:25:00.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Unveils $1.5 Billion Joint Venture With Wall Street Firms &nbsp;&nbsp; WSJ Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms &nbsp;&nbsp; CNBC OpenAI and Anthropic partner with private equity &nbsp;&nbsp; Axios Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs &nbsp;&nbsp; Anthropic Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm &nbsp;&nbsp; The New York Times Anthropic takes shot at consulting industry in joint venture with Wall Street giants &nbsp;&nbsp; Fortune Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports &nbsp;&nbsp; Reuters Anthropic and OpenAI are both launching joint ventures for enterprise AI services &nbsp;&nbsp; TechCrunch Blackstone and Goldman among backers for $1.5bn JV with Anthropic &nbsp;&nbsp; Financial Times",
+      "summary": "Anthropic Unveils $1.5 Billion Joint Venture With Wall Street Firms &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVo3a2x4bU5YalVGYkRBVzJ2cnUyYUtPQnVDa1ZFV1JXNlpUbWdTRjJiRi1Rcm12cjR4Q3dQOTd5VkpYdXlOUVJMYmxzQVJCVHBtTGZ4NldWLS0xMUl3TEtOX2JsSVNDWUFaSFJzV29uX1BmejFvYjdMWm1yTzI4VHk4NU1iUzdMRWJqRnBNMDd1dWdoZHhpQ2ZmX09jTFBOck9aVlZKd083eXhx?oc=5"
-    },
-    {
-      "headline": "Musk texted OpenAI's Brockman about settlement two days before trial began - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-05-04T13:08:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Musk texted OpenAI's Brockman about settlement two days before trial began &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWc3QmJoVXNuWGY5cnhqNnBlc0NGZkZ3bk1BdFJKTWhUUEJNeVFBVTZpbzZOZi1HcVNyNkQ0REdhQzIzeHo2ZXpHZ0VBSGNfNzc4MDJHbElqWUFtUkR3TFFHTEpKaU9mTGpZZEJyODVuY0hYclc0dHVGU1hzM1BhZkxqQjJZdzJhSFHSAY8BQVVfeXFMTmt0dmhYNTE2bWZkZ1JldW9FblhCRVQxeGNuaDZHVHctT2xLaUwzN1czSUJiTUJacWhucWE2RmlLcTVCSVZYNHY0SXBmdnF5Ui04TVhRUnNIYkpyYklsNGRzMWNYTTBvcjNwYmVLLUVEUmJzb1I3Nk9SeGVKekJKaWlWckJQMlhQZlRMQi11Nk0?oc=5"
-    },
-    {
-      "headline": "Anthropic Partners with Blackstone, Hellman & Friedman, and Goldman Sachs to Launch Enterprise AI Services Firm - Business Wire",
-      "source": "Business Wire",
-      "timestamp": "2026-05-04T13:00:00.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Anthropic Partners with Blackstone, Hellman & Friedman, and Goldman Sachs to Launch Enterprise AI Services Firm &nbsp;&nbsp; Business Wire",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeTkxYjA3OFQweXlGb3ZJYThqOC1Zb2NkTkpxMWNaNUxTaHI4aURYWmNTUE5VLVVpQzBOUjRHUmF4VHdvT1RyUVhOTFBpeDczVVV5RGROZkFyM1QzMS1hZEMzVzRobGFBVVJkYWo0QUcyNlJUT1JtZExJSkZBNDY5QTBHVXlqTVlud3NsbTJ3aTBVRVNLLTFtWG1NMzNLZTJSdG50UUN2Ymx0RDFFQTRhYUdlcFhEeE4xdUNrczk2S1lZYnpicVdTN0JycW9zUVFIcE9UOTN1MVNJUDlVSE1FdVp4TGFIdGZVYk5lTXNiVWxRQk9DOW9j?oc=5"
-    },
-    {
-      "headline": "Meta AI Capex (Up 7%) Is a Bad Surprise -- Could This Be the Next Metaverse? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-05-04T12:43:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta AI Capex (Up 7%) Is a Bad Surprise -- Could This Be the Next Metaverse? &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWMwMFExT3E5VnVKTGFHaklESWZBbVU5VGVETFc4RnNrM2FlN1Rxc050MDNiWnREQXBmMXQyMWk1UTByQXFHVVFHSlZOSHVPVXg4Mkxkc09Icm9nX0tYQ2hfUVRyUy0zM3N4TWcyclF2bmRBT1l5NHMxVmV5emNYb0NfYVBJVHBrYmd5QQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI and Anthropic partner with private equity - Axios",
-        "source": "Axios",
-        "timestamp": "2026-05-04T18:04:05.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2otSjZDMThkZ2lzZTBnSUN2RjI0bl81YVg5TVkwVmRNOFVNemN5dG1IczRBV21lWmpIX3hfQUt4QURVSWtKQlBBejN2SU5YWFZPWi1wNHZMLUtQTEpVYnI1cVE0OGE1a2NZNTI5WmtNZjRSdndpMmdCbHZwTy1sMElNMFp6bW9pLWhabg?oc=5",
-        "summary": "OpenAI and Anthropic partner with private equity &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-05-04T15:59:24.000Z",
+        "headline": "Hacked, robbed, then banned: Canton business owner’s meta AI nightmare - ClickOnDetroit | WDIV Local 4",
+        "source": "ClickOnDetroit | WDIV Local 4",
+        "timestamp": "2026-05-04T20:05:59.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzlMZWFEalpuTEU1YnhqQ1p4cDlweTVtY0ZuX2xvOWg1OVlUaklzODl0Wkxqdk9TNTZpOUl4XzRmalBpeVB2OVczeS1ia196ZTNmRG9LTjBWcWQwSnhadlVMZFpEQWtnRVlpODltQVdpbjBiU1RVNzNod01Fcmt4T1Rja01oMDh0WnY3c1NGN255d2xLV19tNm8yUGRRbGMweDBXbTQ1djVQMEpWQUhfN0xudXdKVUk?oc=5",
-        "summary": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVJNZkRMUHVvd0RxQXdNTnFmQkNaQnUwbjR5T1ZLamhmemk4aEl3dWRfdFA3WW1OSDBaMDBfT1RFN3F4S2FXYW1vWk56cGFGdEVYQWd6bndla3AwVTdjN1ZnUnBCM1NNRXJWQ0UwQ0h6ZzRDdVJNOGxYVTk2R3pzY1VJRWJkQ3VFeEp6bFhGeDE2ZlpIaXpSNkFUV0Z2S1pJZWRmNjBuYkhLaVdteDV6dXNUQWt3dXp6bXU3ZQ?oc=5",
+        "summary": "Hacked, robbed, then banned: Canton business owner’s meta AI nightmare &nbsp;&nbsp; ClickOnDetroit | WDIV Local 4"
       },
       {
-        "headline": "Microsoft Stock Needs Sped Faster Cloud Growth. Fixing This AI Gap Is Key. - Barron's",
-        "source": "Barron's",
-        "timestamp": "2026-05-04T15:23:00.000Z",
+        "headline": "Microsoft Committed To Doubling AI Infrastructure In Two Years - The Next Platform",
+        "source": "The Next Platform",
+        "timestamp": "2026-05-04T20:05:28.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1JoeHRoQWFPVVA1ZE4tektSbDB1TGZ4NHhWbnZ6X0JDY3JqSWRHSGRDcEQ1V2xTUWpDWkxWYVZUV3pEYnpxRWF6cENsWUhOQW1MUTRENTZUbFVYb3FyM1IyOXFTd3ZiTi1OZHNERE5ocDExdmFjd0JKTXhwc3RZTXRKd3RPVDFfSjI0?oc=5",
-        "summary": "Microsoft Stock Needs Sped Faster Cloud Growth. Fixing This AI Gap Is Key. &nbsp;&nbsp; Barron's"
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHFMcWNxZldSSUI0SjA1RnMybHBmQkYtalljdVdEZWEwaWdWcG9rcjVTZ1ZXbDhtSEctUHNfdkliN01IM09wc1pLbGZCejVJeEloOUJzZk9MdTFkVG5zWTlWNTEzX3hHQl9JLVlETlBjakN5SEpYOU5xWlVXMk1YdDZyRU9mdWc2QUNoWElXTnZpdVVEeWxGUnhvbDNKVGx1dThoZVhqd0VJX2xVYXRXQzByTFZ6VUk?oc=5",
+        "summary": "Microsoft Committed To Doubling AI Infrastructure In Two Years &nbsp;&nbsp; The Next Platform"
       },
       {
-        "headline": "China blocks Meta AI deal over security concerns - Fox News",
-        "source": "Fox News",
-        "timestamp": "2026-05-04T15:08:06.000Z",
+        "headline": "Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling In AI Era - crn.com",
+        "source": "crn.com",
+        "timestamp": "2026-05-04T19:30:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0g5c0JkaVBXcGI3dktXOUY2dDA4QkVWbXVVNHJ4ZzdzUktVcFhFdE1tRVEzZU1INVJ6aXpSNU9KWmNHNHh5bUxBUjBVQzZDTE1EbUZkT25HdzRod1h6SHFySUhWcVc3TFc1RXVHYUptTXg4QXVub2dGQlN2MWVlVkZySdIBiAFBVV95cUxQYThmQ1hvU3NXUkNiTzlZazI0d1dEcWNyVnVhOXh1emxVMi1IMU83TTFUX1k0SFJzbGk5X2NDMnRlWmh3SEpyS0NvS1BtMGRTMjhPZG15ckJ6Z19KUmgxcHZCT1ZnZ3hoRlRuYjZhbk9ua283bEVtMU9JRDBUMTJSNV9YVzdybHR3?oc=5",
-        "summary": "China blocks Meta AI deal over security concerns &nbsp;&nbsp; Fox News"
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUg2MU5OU3A2X0VGRTR0TmFXMUdkOG4weVN5U0VOUlpsYVpMVlU2ZEFkR2prOTFTbmVXeDVNeWVYRmgwemtMaTFjZGJpRWt3VjlRbExFZHNBWlVhN3E5SjM4TFhZSjRJOVhQRXAyZUVLc1A2WmpScHVLd0R4ajJPLVU2RVVzMGtxTkRHbUVrOTVBTU1fM3Jma1FQQWR1Vk51ZHh0aQ?oc=5",
+        "summary": "Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling In AI Era &nbsp;&nbsp; crn.com"
       },
       {
-        "headline": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-05-04T15:03:52.000Z",
+        "headline": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents - PYMNTS.com",
+        "source": "PYMNTS.com",
+        "timestamp": "2026-05-04T19:22:29.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1NhcXhKUFZGelR2NjRuN2tnSkE1bmJTUjMzMnN6YlFoWUVlWnZ0SkpxZ1J1ZDhnVE5USzQwbUdDSTZENDZZZTZqNDhaNzJFcmJBS01lOXdJRmx3N25iY2hWdnJyNEliX3JGOHZ2Q2QwZnh4YlhZWjFJZmtNMVd4MFNTenFCVXRQWUh3TGw2WlpuTldrbE1UOEFONmN0NmhkMkYxekxRR3FxY21kWk5sR0VwdUwyQnIwWXVR?oc=5",
-        "summary": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3BMSjh6R3ZoeC00WHZlWTIxM3ZuU2VQX280S2JMa29VRUZUa0t2SkVlYTVrYU13ZkVqYkxYcWszNGFDZDlFUldpTFlLck1oUEhrTkdjWEFibV8teFA0VTZvU1pTOUJvUUdoU1JLNVhQbXdDQTdUTDdtT2doS2tVNl92ZnJpb084QXpuVGJzbUdOWW91cGs0bHBJT01vcF9EV0dyeURPZlh4LWRGMmtXaEZyd2RBQ3RT?oc=5",
+        "summary": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents &nbsp;&nbsp; PYMNTS.com"
       },
       {
-        "headline": "CoreWeave’s Anthropic Deal is Game Changing — The AI‑Infra Trade is Heating Up - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-05-04T14:16:49.000Z",
+        "headline": "White House Considers Vetting A.I. Models Before They Are Released - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-04T19:02:34.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5",
+        "summary": "White House Considers Vetting A.I. Models Before They Are Released &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "How OpenAI delivers low-latency voice AI at scale - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-05-04T18:53:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVW1KMlZrT3QyWXJfTXY0TUIxdGJsWFdOLTVNUUVaa3RTUENnMHVmbFE4clc1SkxUVDlhTWo3OFFueG0xb0hzTWNxRnVFYjMxLS02RjdDbHo1b2dHaUw3OGhQN25hZk1kZVpkQVVVd1YxX29tbzFBaElvMm9RTWF1RmdpTzdCWnYtNTFSUVBzVUx0TTh5NHJsOHp1bHRhbVNIWTQ1bFN3?oc=5",
-        "summary": "CoreWeave’s Anthropic Deal is Game Changing — The AI‑Infra Trade is Heating Up &nbsp;&nbsp; Yahoo Finance"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUU1GUEFDLVlxemdrZFI1WEl4U0dGYzZjcW96NHlpbUtfMnB4WFd1UC1RbXdUME1Ga2xobWlyaUhFUWFrTWhNdWhOWHJSckxjaTN6TzBhY1M3eTh1ckxFOXNmMHhqYk9hTzMtVFJyblV6X3Ez?oc=5",
+        "summary": "How OpenAI delivers low-latency voice AI at scale &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -190,15 +190,15 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
