@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-04T20:19:36.988Z",
+    "generatedAt": "2026-05-04T22:06:13.540Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Elon Musk’s Lawyers Ask OpenAI’s Brockman Why He Is Worth $30 Billion - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-04T21:40:29.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Elon Musk’s Lawyers Ask OpenAI’s Brockman Why He Is Worth $30 Billion &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXh1UTZTZWQ4d3EyS1BkMWJMYmZWc01tengxNXhwN3dhLVJIWVpvb25YRE5OeFYxU3A1UlZfLS1RNFZuVG5GeUZPSmJjakRqWEZDQ21DZV9BODA1YjVkYzZqa3FjZ1l0U3hfRmpPNURGNTU0aTZUNzBVdmpoMV9aTUZKSWVKMXE0V3BWQVFlWUw?oc=5"
+    },
     {
       "headline": "Hacked, robbed, then banned: Canton business owner’s meta AI nightmare - ClickOnDetroit | WDIV Local 4",
       "source": "ClickOnDetroit | WDIV Local 4",
@@ -42,19 +52,9 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUg2MU5OU3A2X0VGRTR0TmFXMUdkOG4weVN5U0VOUlpsYVpMVlU2ZEFkR2prOTFTbmVXeDVNeWVYRmgwemtMaTFjZGJpRWt3VjlRbExFZHNBWlVhN3E5SjM4TFhZSjRJOVhQRXAyZUVLc1A2WmpScHVLd0R4ajJPLVU2RVVzMGtxTkRHbUVrOTVBTU1fM3Jma1FQQWR1Vk51ZHh0aQ?oc=5"
     },
     {
-      "headline": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents - PYMNTS.com",
-      "source": "PYMNTS.com",
-      "timestamp": "2026-05-04T19:22:29.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents &nbsp;&nbsp; PYMNTS.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3BMSjh6R3ZoeC00WHZlWTIxM3ZuU2VQX280S2JMa29VRUZUa0t2SkVlYTVrYU13ZkVqYkxYcWszNGFDZDlFUldpTFlLck1oUEhrTkdjWEFibV8teFA0VTZvU1pTOUJvUUdoU1JLNVhQbXdDQTdUTDdtT2doS2tVNl92ZnJpb084QXpuVGJzbUdOWW91cGs0bHBJT01vcF9EV0dyeURPZlh4LWRGMmtXaEZyd2RBQ3RT?oc=5"
-    },
-    {
       "headline": "White House Considers Vetting A.I. Models Before They Are Released - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-05-04T19:02:34.000Z",
+      "timestamp": "2026-05-04T19:02:35.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "White House Considers Vetting A.I. Models Before They Are Released &nbsp;&nbsp; The New York Times",
@@ -74,7 +74,7 @@
     {
       "headline": "OpenAI and Anthropic partner with private equity - Axios",
       "source": "Axios",
-      "timestamp": "2026-05-04T18:04:05.000Z",
+      "timestamp": "2026-05-04T18:43:50.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI and Anthropic partner with private equity &nbsp;&nbsp; Axios",
@@ -82,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2otSjZDMThkZ2lzZTBnSUN2RjI0bl81YVg5TVkwVmRNOFVNemN5dG1IczRBV21lWmpIX3hfQUt4QURVSWtKQlBBejN2SU5YWFZPWi1wNHZMLUtQTEpVYnI1cVE0OGE1a2NZNTI5WmtNZjRSdndpMmdCbHZwTy1sMElNMFp6bW9pLWhabg?oc=5"
     },
     {
-      "headline": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-04T15:03:52.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1NhcXhKUFZGelR2NjRuN2tnSkE1bmJTUjMzMnN6YlFoWUVlWnZ0SkpxZ1J1ZDhnVE5USzQwbUdDSTZENDZZZTZqNDhaNzJFcmJBS01lOXdJRmx3N25iY2hWdnJyNEliX3JGOHZ2Q2QwZnh4YlhZWjFJZmtNMVd4MFNTenFCVXRQWUh3TGw2WlpuTldrbE1UOEFONmN0NmhkMkYxekxRR3FxY21kWk5sR0VwdUwyQnIwWXVR?oc=5"
+      "headline": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-04T15:59:24.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzlMZWFEalpuTEU1YnhqQ1p4cDlweTVtY0ZuX2xvOWg1OVlUaklzODl0Wkxqdk9TNTZpOUl4XzRmalBpeVB2OVczeS1ia196ZTNmRG9LTjBWcWQwSnhadlVMZFpEQWtnRVlpODltQVdpbjBiU1RVNzNod01Fcmt4T1Rja01oMDh0WnY3c1NGN255d2xLV19tNm8yUGRRbGMweDBXbTQ1djVQMEpWQUhfN0xudXdKVUk?oc=5"
     },
     {
       "headline": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Elon Musk’s Lawyers Ask OpenAI’s Brockman Why He Is Worth $30 Billion - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-04T21:40:29.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXh1UTZTZWQ4d3EyS1BkMWJMYmZWc01tengxNXhwN3dhLVJIWVpvb25YRE5OeFYxU3A1UlZfLS1RNFZuVG5GeUZPSmJjakRqWEZDQ21DZV9BODA1YjVkYzZqa3FjZ1l0U3hfRmpPNURGNTU0aTZUNzBVdmpoMV9aTUZKSWVKMXE0V3BWQVFlWUw?oc=5",
+        "summary": "Elon Musk’s Lawyers Ask OpenAI’s Brockman Why He Is Worth $30 Billion &nbsp;&nbsp; The New York Times"
+      },
       {
         "headline": "Hacked, robbed, then banned: Canton business owner’s meta AI nightmare - ClickOnDetroit | WDIV Local 4",
         "source": "ClickOnDetroit | WDIV Local 4",
@@ -142,18 +151,9 @@
         "summary": "Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling In AI Era &nbsp;&nbsp; crn.com"
       },
       {
-        "headline": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents - PYMNTS.com",
-        "source": "PYMNTS.com",
-        "timestamp": "2026-05-04T19:22:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3BMSjh6R3ZoeC00WHZlWTIxM3ZuU2VQX280S2JMa29VRUZUa0t2SkVlYTVrYU13ZkVqYkxYcWszNGFDZDlFUldpTFlLck1oUEhrTkdjWEFibV8teFA0VTZvU1pTOUJvUUdoU1JLNVhQbXdDQTdUTDdtT2doS2tVNl92ZnJpb084QXpuVGJzbUdOWW91cGs0bHBJT01vcF9EV0dyeURPZlh4LWRGMmtXaEZyd2RBQ3RT?oc=5",
-        "summary": "OpenAI Veteran Raises $950 Million for AI Customer Service Agents &nbsp;&nbsp; PYMNTS.com"
-      },
-      {
         "headline": "White House Considers Vetting A.I. Models Before They Are Released - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-05-04T19:02:34.000Z",
+        "timestamp": "2026-05-04T19:02:35.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95MUd1NzV6M0VweHpKbTM1YXdmemJQUnBKVEp6LU1kb3NLMEZnUEhQTWoxcmo0aDZLN3h6WF9iU3VlemdyT2RtVmlDd1o3M2Y5QjlDYUZ1dzgwWldBVWZtMDFzTHZiRDVDMmZYbXhYa3Zkekkx?oc=5",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
