@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-04T13:56:53.900Z",
+    "generatedAt": "2026-05-04T16:02:45.317Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,59 @@
   },
   "newsFeed": [
     {
-      "headline": "SNAPSHOT Wall St slips at open as US-Iran tensions unsettle investors",
-      "summary": "SNAPSHOT Wall St slips at open as US-Iran tensions unsettle investors &nbsp;&nbsp; Reuters",
+      "headline": "Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde",
+      "summary": "Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-04T13:35:43.000Z",
+      "timestamp": "2026-05-04T14:59:12.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORVpLaUEzSTEyUkdYMHJ2ZlQzQTdzeU9qR25rcGxXSE5xN25rd1d1UmxPOS05TXZwR0I1MVFEdHRMX1V0TWFBMXZLaUEzdU9NVmJlX1hCTE5mMnA3VkU5Y0hiSkhDb3ExcVBoNXczbm9OUUk0UjdZaWItRGFZWGZWajV1OFNVaXFCT3lwbV9BNGYySG1ySHVfR3Q1LUFJQktqYXNBUXRGckpSak1YSm5WTUdmbzVYY0padGVfX0VIT3VCMmxXdjlWY0xydFFxalV5U0VGTGlPYWhfdlBzOWc?oc=5"
+    },
+    {
+      "headline": "Bessent urges China to step up diplomacy on Iran ahead of Trump-Xi summit",
+      "summary": "Bessent urges China to step up diplomacy on Iran ahead of Trump-Xi summit &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-04T14:41:51.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjBZMDJTMXdidVVidUhfQnBncmRXUVc4aXRNVm9hN09udHNOOXhYM1FVZ2JWVnZQT1JfdWVSd2tSeU5NU2NJVUl6Vi1fQ2NzVERkNWtHNkZZNk9lSDRGZzhWZ2NESTZpc3F3RVhyOXhlWVFXcXg3QTBLaEVUenU2MDNEQ2ZOYUZ4RDlKRVBNaG5mVXlhd054VWJDX3dqVTJTNXVOV0NLa3Z3SDZPM250NHlVR1J3ZHc?oc=5"
+    },
+    {
+      "headline": "Amazon opens up its logistics network to other businesses in growth push",
+      "summary": "Amazon opens up its logistics network to other businesses in growth push &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-04T14:34:06.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOElORlNQSDNFLU5xTFlrRHMwcTVDVWx4ZVN1UGg2OEZyMWsweWptWTRjbTRZTlUydmE2ZHBXenhvOE45UUw4SExuWkQyVUoxLVpDd1RKdktDdmpzOFdlOVdQZ3JkNjZZcU5DNThKY0xoSGEyS3lGekg1ckZRVlVabFItaGhGSk5HMFN5YkJMWDJvZFVkT1h4ZXhKWkFfakd6UjlTbzVXa0V0WW5YMlctLXE5VWgtZw?oc=5"
+    },
+    {
+      "headline": "S&P 500, Dow tick lower as US-Iran tensions unsettle investors",
+      "summary": "S&P 500, Dow tick lower as US-Iran tensions unsettle investors &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-04T14:12:17.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFZzU0o4cVloeVB2Q3hOb0wzeHhFMDlGMkxsT3FFZDhLdjJnei1qcFp1NDFFaXhyZzRtTTRoVFBWbzZHSUo0aXZIQkV3b2pfMUloTUliaWg3RXBlSTVlN3daSHhQNEdqWDNXb1Uwa2prVXMtdFVOZ0EzMk5sLWlzSTFEa0JoNGt6LXJiRWRmUVRYbVVhTzNhZ3pNbnMwd0E?oc=5"
+    },
+    {
+      "headline": "German carmakers in crosshairs of latest Trump tariff salvo",
+      "summary": "German carmakers in crosshairs of latest Trump tariff salvo &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-04T12:47:23.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUlhwNTg5endGX3VqZDNIaVhPU3Z1TWFaUGZ6bVNRMlZkVlBQbHc0MkZYUFo4S0V2dnZWVXBxMDNJaGhfb2hkUnlYeE5acGM3M0VRbXBsX2dvQW5ad3NPUHVZYWpIMzRKNE1SdXI5ZEVJTERYdXhSYWxWUlE3dUEyOEJDUjQtT1U0RkFKSkJaVzJoQUFGc2RzU0NqNDl0Zw?oc=5"
     },
     {
       "headline": "EU countries push to settle US trade deal to avoid car tariff hike",
@@ -34,70 +78,26 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnYwdy0zUnl5UFUyd3ItWmJubnplUjVlNTdCaWppMDVFZUtVUTlHNFE4dF9Yek1tMXJwZWdMRWdQVVpycnA5a2l6TTVOc25IdjRkVGVBRzJJNkNvMkYwdDNZZFFhNGNHSHhDU3U1SnQ1Mk1EdG5tUzFJTVE3R0lFMDdoSm5wT1htZm1fc19UZkFlUVVTZUR2MmFxWEx2NExrLUwydmJuMzM?oc=5"
     },
     {
-      "headline": "Iran's Revolutionary Guards unveil new map of Strait of Hormuz under their control, state media says",
-      "summary": "Iran's Revolutionary Guards unveil new map of Strait of Hormuz under their control, state media says &nbsp;&nbsp; Reuters",
+      "headline": "Iran Nobel laureate Mohammadi needs urgent heart treatment in Tehran, brother says",
+      "summary": "Iran Nobel laureate Mohammadi needs urgent heart treatment in Tehran, brother says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-04T09:11:45.000Z",
+      "timestamp": "2026-05-04T12:09:44.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQUp3UktUSmFSbHMtZnZrbEpLTUFlUkFuWEdlYTdpV01GRUN4SkJUWkVLMm9tN3ZkOXZHbk9PeUJnUWI0SjItX0pxdTl2NEtNMmJqUXNBRExDMDh4VmVsVDNiRFZ6bXVTbnJHY3MydURLb3ExTVRFWjV0THRCdFl6UEtMSzhmUTlXSzFBZy0zWlNnWnVQQ1ZPNlR0Z2lfalh2eEVvVE1UbHU0VUVQVnZOSEt5empUdW03OWFrVEhpQ0Z4RmlhRENFdQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbXRVQzZQMGlzUGJaQ2otb1puYVJfelZmY1RZeGc5bjJzQzFsQlIzUF9uVF9rU3VJNVg4c2J3b0NRU3R4eUswVnJDWnA2eGktRzNfNmd4ZnlOTlpTcC14QjYzVUxQWjZKN3lQNzdPUnJ6ZFh1dHhoc3JJWjFvX00wSjVnWV84dEVhcUI4eGMzR3dsZDVEejduVEswR3VoRGN0eWZmTTczbk5LaVdaSUlyNWpGSVJabTZ0cm4zWmJkcVJ6cGhRQWJFTHpVWQ?oc=5"
     },
     {
-      "headline": "India o/n rate near 3.75 pct ahead of reporting day",
-      "summary": "India o/n rate near 3.75 pct ahead of reporting day &nbsp;&nbsp; Reuters",
+      "headline": "India has no plans for financial support for fuel retailers, official says",
+      "summary": "India has no plans for financial support for fuel retailers, official says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-04T08:51:47.000Z",
+      "timestamp": "2026-05-04T11:31:18.000Z",
       "impact": "HIGH",
       "region": "India",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2VCNTN6Q2JTT1FrMzY1U2N4ck51anpFSXl6ZDZ3bGpZdHlTY2gwYW1tckctZ1NXMFpHT0VxN1p4NUMwMVlXemViMFVYdS05THp1SEpuaENWX29jeTdUZXVzNVl2aVpCbG1lZlNud3NwQm9UZWc5OUJ2WUZIby1UNTVPZzdtZTRBTTctVUEycktMaGRTV1ptS2NROVpwcFhHM3BaUHZ4c24?oc=5"
-    },
-    {
-      "headline": "Dubai Airports scaling up operations as UAE airspace restored, CEO says",
-      "summary": "Dubai Airports scaling up operations as UAE airspace restored, CEO says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-04T08:26:09.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEJwMlJsbGlVYkYzeFVBTVhoTVJpaGx6SW12Tm12eWxvTVhtNkVYeWRKTVNQSjRTckFZOXBlazdXaVhBX0Y3OFR3TWFZUHNTbUExTTNxNjVlQ2tnNDN2bDJtZTVkVFZEdldfbmFWa3cxMEpvUjk0Tm90UzVCQ2JZWTFCMDY2X3dsMjdJdUhUUGNaZ01DWTAydmQ0Y3AzZlpuQlpUeDJab0hFN1FXQVdfT204d0xQS2ZnMHNka0x3?oc=5"
-    },
-    {
-      "headline": "US evacuates 22 crew members on seized Iranian ship to Pakistan",
-      "summary": "US evacuates 22 crew members on seized Iranian ship to Pakistan &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-04T07:24:26.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWk5S2F1NGM1QnpTZ0Q2cHVVYjluSTRQSHBianFEeWtZMkItczZaMF9fc2txU0paaGhCek9Zb2JYZmtLMDlFWXBuUE5zcExDOEM1UGY0YkNNaVBnZDI3ejE5d1NkMXBkYzJBUHJHLU5OVnpnLTZhaGhObGtIR0dpTzl6a3RDSWVyNGtMMUdZanI5UEhJWEdGaGV5N05haWpLdlpWdGRranlQSkRhYWl3SEhn?oc=5"
-    },
-    {
-      "headline": "India resumes wheat exports after four years but high prices likely to limit demand",
-      "summary": "India resumes wheat exports after four years but high prices likely to limit demand &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-04T07:12:43.000Z",
-      "impact": "HIGH",
-      "region": "India",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTliUjUxRUFPbEJpS2Z2NlZxeENVOXFFUU1uTGd4c1puSTdMRGJFZXVPbWRCcGNBUjRBcHEzOTlrSmcxMTNzUnZVN18wVWM2MFRaMENDSGRCNHRZWUg4dTRaVnhCN1NKUzlsWFFFdU45bmVXa3dERUVNWGJDV0otNGZKa3VqMUJLNG5xemtPM1UxdjVYZE5tZ2QtSFdvV0x1cVh2dDlscnlIMGtGUkxfeHZoeE02QzMxak1ja2JJa1BUdw?oc=5"
-    },
-    {
-      "headline": "Indonesia's March trade surplus expands to $3.32 billion",
-      "summary": "Indonesia's March trade surplus expands to $3.32 billion &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-04T05:24:00.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXNnMElIX1JIM0dIaFZkYTdRNGFoSnQ2ZzQ4SUxMVjBPM0hmZVRnOUdSMXVRSEhvVWdwMVZMNFRhcmxpRlN6bDZ3M29hR1JucWN6LWZDa0hfdE85eVBUZGd6V0N3UVg4WXlFaXc2S0dvRHF4QTVsNE5UazlCRzBFU0JEcVpDcGd2aGppWm9FMm5oU1pmb2RMNGxZbUpyelRhOTRKZE4yeFk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEpNZUU5dHBrTWwxZXJPVDIzTDNqd1JXZHp1N0g5VW1MY3JXLURCbUdTbjN3WEFwWldla3ZoZVhPVktmZWo2ZzJVTGsxYUZYS1NmZ0RzajRLOWo1NndhV0JjNVJDWFlIaTlfVkp4QUk3UkhrYWV2RmJjN0tJcTVZMHNCQUdaT3RyUENPR2xGLXBhYXRKb3VYVV9JX09hU3NjR1hUNjdUV3A1RUJUaG9kM0xGQUdLeWo3Uk5GVW0wbFh5UQ?oc=5"
     }
   ]
 }
