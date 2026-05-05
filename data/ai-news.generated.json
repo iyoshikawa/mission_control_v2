@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-05T16:27:13.518Z",
+    "generatedAt": "2026-05-05T18:13:45.944Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Google AI workers demand union recognition over use of technology by Israeli and US military - Sky News",
-      "source": "Sky News",
-      "timestamp": "2026-05-05T16:26:32.000Z",
+      "headline": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-05-05T17:49:45.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google AI workers demand union recognition over use of technology by Israeli and US military &nbsp;&nbsp; Sky News",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFp3eUU1LTBRcEE5bnN3dE5TVkI2RjMtam8yaE9HSk9jNTNBRGxkSkI4N1lHT2FsenY3ZkxCQkxfb2FQdTJIdVhxWWhCTW83Rzl5aTAtR1dVcF9XanZtRk5aNFZhQ3pXSk5hd09wdmp4aTgyX2MzRGlPRkVheU5DdUdRMkh5d0VPaS04SFNXalVaamJZenlob3FKd3dRVEJzelRKWkdtSlF6T1NrSmk3ZkFBb3V4LVQta1o5a1dDbE9nWVpHOXdB?oc=5"
+      "summary": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5BR0NGU0JBR0tIWHdiTDZPdzA1SENPWWJMbW96dlNxWkxERTZQb29tUmZpZHp0NGd1YTdEQXRrNDhXZDlFdFg0eWF0cHRoUVlkQXdnTU92TzVjNlNsendsaEljSDJEZktjWkhyMVhBM21oSnpIN0JxZ0J0UzRVaWhCWnAyMWRfb29RYXBNeTRoOG44TUVkZ0luZUfSAaIBQVVfeXFMTS1NY3hSdlRIRXFhZHJCT0xCMmFMc1BqSXgyZGtnVzFtemZ0QThEM2tYakcyaE5iWUUyT0d2Z3FCNlVfQ0tkWUxBdkhkdzRsdE5CLUZhUENEMHprQUo5Mko4WDNCZzF4SmtZOHowbDM0a25ManhUbXg3WTZxRzRxNnVjVkN6cHdJYjdJcXVZcVVIbG5pbF9Tclh0Z3NuLUktS0dR?oc=5"
+    },
+    {
+      "headline": "Anthropic Releases New AI Agents for Financial Services Firms - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-05T17:23:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Releases New AI Agents for Financial Services Firms &nbsp;&nbsp; WSJ Anthropic Unveils AI Agents to Field Financial Services Tasks &nbsp;&nbsp; Bloomberg.com Agents for financial services and insurance &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1VJOGdFSmZtNUJCc09BSGJncEdzRVRpbmN1RU1sNThZYUEzSDk2MHVfMjJoQnY1U0NLa1dMTEY0NXFiRko1bWg2Z3F1VWFoWWZjQTRfbVd3WkZzRVFyMWxVOFNMWW1qdmRRRHFfUTgya01wNDB0aGc3V25xRTJWOG1ldkdRTFhuYy1RYkFkSkFCdl9uOV9UMXZiUk9hdVk?oc=5"
+    },
+    {
+      "headline": "Cloud Wars: How AI 'Landlords' Amazon And Microsoft May Absorb OpenAI And Anthropic (AMZN) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-05-05T16:57:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Cloud Wars: How AI 'Landlords' Amazon And Microsoft May Absorb OpenAI And Anthropic (AMZN) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUJPZHZxT0xNeG5NU3pXc183dnFGMFZtdXRxV0R2T2FreFkwQnNPQmlaVWQwU3NuYjcxbjNfaDNhSW90dFBpcDRsZHNBNXduVHdINElUbzNmY2NRcFkxYTgxR1NoWTRnVUloS3pXM1VzOEwycWNYTDM1TTlKTnl1T3FGMVVmTGRjNWRONzQ5ZklfMHhSMU84RXhXOTg5dkIxNEQ1cUxUUHVOZlVoZFNtbnFOQQ?oc=5"
     },
     {
       "headline": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-05T15:08:19.000Z",
+      "timestamp": "2026-05-05T16:16:29.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say &nbsp;&nbsp; Reuters",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5"
-    },
-    {
-      "headline": "Anthropic Unveils AI Agents to Field Financial Services Tasks - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-05T15:00:18.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic Unveils AI Agents to Field Financial Services Tasks &nbsp;&nbsp; Bloomberg.com Anthropic and FIS Are Building an AI Agent to Help Banks Police Financial Crimes &nbsp;&nbsp; WSJ Anthropic launches 10 AI agents for banks and insurers &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFJ1S2k5ejdYdmxvaEFJZUtZSHZnSkxMRldNZE5FanluTUFldXVvdUhHQ3V4MGFYX2pxRFJVNzcwdDYzZkx1bUZTZmpDTFBiR0NEazBkQXpWTXVKczBpbXl6bHpvZVYyNzg4eHZxbTJVZ1ZfZU4xd2xKRlZIS0RXSFRrSEtmSWV4dng3bkNabWJTNXNOWUVGYmRlRWRRN0NRRUZaSVF1dFNPeS01X013RWx3?oc=5"
     },
     {
       "headline": "Major publishers sue Meta for copyright infringement over AI training - Reuters",
@@ -57,19 +67,19 @@
       "timestamp": "2026-05-05T14:49:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google DeepMind workers in UK vote to unionize amid deal with US military &nbsp;&nbsp; The Guardian Google DeepMind Workers Vote to Unionize Over Military AI Deals &nbsp;&nbsp; WIRED DeepMind Workers Vote to Unionize Following Google’s Pentagon AI Deal &nbsp;&nbsp; Gizmodo",
+      "summary": "Google DeepMind workers in UK vote to unionize amid deal with US military &nbsp;&nbsp; The Guardian Google DeepMind Workers Vote to Unionize Over Military AI Deals &nbsp;&nbsp; WIRED Google DeepMind workers are unionizing over AI military contracts &nbsp;&nbsp; The Verge",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONV9YUnlIc3pEX3pnZHMwYmdDNHh4U0U3cjdoQjlaR3BWNFF5UUlBZzVnUm1EenhMd2NXYVlFLXd1RUZpRHEyUkJJUC1hU3NpTjdtMV8tTXZmYXYydlhaSlBnamtsc1ViRVJ4c2tmUWJqajIzRThVd3JqTGhYU2lvdXhMZ3hjSTQ?oc=5"
     },
     {
-      "headline": "Why private equity is making deals with the AI giants - Axios",
-      "source": "Axios",
-      "timestamp": "2026-05-05T14:18:20.000Z",
+      "headline": "Meta's AI Fear Creates Rare Blue-Chip Mispricing (NASDAQ:META) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-05-05T13:54:30.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why private equity is making deals with the AI giants &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vTVJyWHlTMS1Pek10azdZdGhySy0wOHFTME1LS1RCN1FYNE5JWGo2Sm4tLUFGQzFVZVVORk14bG9yU19XNGt2RVVxdUhiQmlya1I0UW5YOWM5TzRNYWVpbk00TGdOcW1SZEtrUlotVVo2UQ?oc=5"
+      "category": "market",
+      "summary": "Meta's AI Fear Creates Rare Blue-Chip Mispricing (NASDAQ:META) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTNGc3FqRDRrbUVkSndlTDlvTUI3M0dLeEtwWFFsSUJ2WDZERTM5QVI1bDJTZUlQSzV1UEgyUWNKczBlbmJpdXZqSkdsZmh0U3dLaXFmRlZ3eHZrTTdLZ0Z6Z2ZuU1UxdnRETWMxcFpyeDFtdWZhYXk0WS02ODczQnV1LXBFdTNXZGl4QkU1c2tTUQ?oc=5"
     },
     {
       "headline": "Five Publishers and Scott Turow Sue Meta and Mark Zuckerberg - The New York Times",
@@ -82,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeG0yWmRzMDZ6VVFKZ0JfT09rYjRab1Z6akFWSFRPVEl6eGZSN3pYNjdMTFJOZDBUX2RIa21OQmhFV1FDNm1IQnNQYnIwRGt6WngtNFJlY3lYT1RRbUdqVmh2cWRhblBXUGU0eUlBUnZ1Q3d5aHYtZUdEN3ZWZjZCSDJTR281NUh0U2Y4NVk2M3BJRnhROWFrN2JWQ0Q?oc=5"
     },
     {
+      "headline": "Meta's AI Strategy Is Working -- But These 2 Red Flags Could Hold It Back - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-05T13:21:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta's AI Strategy Is Working -- But These 2 Red Flags Could Hold It Back &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlFrTnNsYTZiU2txNjFyeU5XV0cxNnBnR0VjQjktdU1IMU5oN19jeTBBT1IzLWN1ZTVzUW5PYW5OWnIyVDVKMFcwS1UtQVBpYzNyQUxqN0xkeGEydV84ZGtkcHF0TUM2a3FtRER5cTluZzB5UUxPTWE2M25kQ2NwTDJVQkJlY3Y2MzhFNy0yYy1sNDhVbGhj?oc=5"
+    },
+    {
       "headline": "Google’s AI architect lived rent-free in Elon Musk’s head - The Verge",
       "source": "The Verge",
       "timestamp": "2026-05-05T13:11:58.000Z",
@@ -90,56 +110,45 @@
       "summary": "Google’s AI architect lived rent-free in Elon Musk’s head &nbsp;&nbsp; The Verge",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1FMb0IyQWwydlR6Z1l0WUVuZllKSXo2TzEwRm9MVnlQZ1ZXUGJ3Y2JocUlMLVdOXzlRRTNObDNjRnVlZkllazkyS2gwY2pfSE0xNTlBUERfZ25yNlU1eXVGVTl0ZlR0WUhucld6bFRJSnhWdHNYMEY4d2JYT0x3c2RONWRhTmZSYi1nbkRhWnBJZGpVek1XQ20ySFkwZFVaaENOZ1NnZmxidFhRZElBVGR4T1c?oc=5"
-    },
-    {
-      "headline": "Microsoft Build 2026 sessions every startup should attend - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-05-05T12:51:34.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Build 2026 sessions every startup should attend &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdXZROWNQOE5UZ0pydm5KOWpUMzZUczg1Nm9RaDdmM0t1UUh1c1BTQmp3aHd2cFZlWjY2UEoyZGhtUTlmNEV1eWpRbUJtOXgzTmswWEJvcXBVTDN1S1pISTZGaDB5Qmd3ODVUdFh2Q2loYW8yVzByNDdYejdfTkRPUHp4UkdhdmVjRHlaU29XZGQ1amxIbXdxN3ZJMWIxSXA5Sk1ZTXQ0cw?oc=5"
-    },
-    {
-      "headline": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI - National Institute of Standards and Technology (.gov)",
-      "source": "National Institute of Standards and Technology (.gov)",
-      "timestamp": "2026-05-05T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "CAISI Signs Agreements Regarding Frontier AI National Security Testing With Google DeepMind, Microsoft and xAI &nbsp;&nbsp; National Institute of Standards and Technology (.gov)",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcVVVcGZjcGM0aUswU2dyUUxVTFlhTThiZEZldkRoaVU5MnhMVUVDV05ENUVXTHU5YmR0a3RTZWRXcC1WRkRneWgtOUd0WEd6TGdxQXhLODBSaHY4dkFvWHI1ZHBoUjdrbkU5NExPWEE1emxBYmJtRWdLZUtYQnBnTFl6Zmtxd2k5ekoxR1RtcTlBYlJ3STJySElUQlBEd0VBc2hNcGZ6Q0NmN3BwUXFwQnF6S0lzekk?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Google AI workers demand union recognition over use of technology by Israeli and US military - Sky News",
-        "source": "Sky News",
-        "timestamp": "2026-05-05T16:26:32.000Z",
+        "headline": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-05-05T17:49:45.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFp3eUU1LTBRcEE5bnN3dE5TVkI2RjMtam8yaE9HSk9jNTNBRGxkSkI4N1lHT2FsenY3ZkxCQkxfb2FQdTJIdVhxWWhCTW83Rzl5aTAtR1dVcF9XanZtRk5aNFZhQ3pXSk5hd09wdmp4aTgyX2MzRGlPRkVheU5DdUdRMkh5d0VPaS04SFNXalVaamJZenlob3FKd3dRVEJzelRKWkdtSlF6T1NrSmk3ZkFBb3V4LVQta1o5a1dDbE9nWVpHOXdB?oc=5",
-        "summary": "Google AI workers demand union recognition over use of technology by Israeli and US military &nbsp;&nbsp; Sky News"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaW5BR0NGU0JBR0tIWHdiTDZPdzA1SENPWWJMbW96dlNxWkxERTZQb29tUmZpZHp0NGd1YTdEQXRrNDhXZDlFdFg0eWF0cHRoUVlkQXdnTU92TzVjNlNsendsaEljSDJEZktjWkhyMVhBM21oSnpIN0JxZ0J0UzRVaWhCWnAyMWRfb29RYXBNeTRoOG44TUVkZ0luZUfSAaIBQVVfeXFMTS1NY3hSdlRIRXFhZHJCT0xCMmFMc1BqSXgyZGtnVzFtemZ0QThEM2tYakcyaE5iWUUyT0d2Z3FCNlVfQ0tkWUxBdkhkdzRsdE5CLUZhUENEMHprQUo5Mko4WDNCZzF4SmtZOHowbDM0a25ManhUbXg3WTZxRzRxNnVjVkN6cHdJYjdJcXVZcVVIbG5pbF9Tclh0Z3NuLUktS0dR?oc=5",
+        "summary": "Anthropic CEO warns of cyber ‘moment of danger’ as AI exposes thousands of vulnerabilities &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Anthropic Releases New AI Agents for Financial Services Firms - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-05T17:23:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1VJOGdFSmZtNUJCc09BSGJncEdzRVRpbmN1RU1sNThZYUEzSDk2MHVfMjJoQnY1U0NLa1dMTEY0NXFiRko1bWg2Z3F1VWFoWWZjQTRfbVd3WkZzRVFyMWxVOFNMWW1qdmRRRHFfUTgya01wNDB0aGc3V25xRTJWOG1ldkdRTFhuYy1RYkFkSkFCdl9uOV9UMXZiUk9hdVk?oc=5",
+        "summary": "Anthropic Releases New AI Agents for Financial Services Firms &nbsp;&nbsp; WSJ Anthropic Unveils AI Agents to Field Financial Services Tasks &nbsp;&nbsp; Bloomberg.com Agents for financial services and insurance &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "Cloud Wars: How AI 'Landlords' Amazon And Microsoft May Absorb OpenAI And Anthropic (AMZN) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-05-05T16:57:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUJPZHZxT0xNeG5NU3pXc183dnFGMFZtdXRxV0R2T2FreFkwQnNPQmlaVWQwU3NuYjcxbjNfaDNhSW90dFBpcDRsZHNBNXduVHdINElUbzNmY2NRcFkxYTgxR1NoWTRnVUloS3pXM1VzOEwycWNYTDM1TTlKTnl1T3FGMVVmTGRjNWRONzQ5ZklfMHhSMU84RXhXOTg5dkIxNEQ1cUxUUHVOZlVoZFNtbnFOQQ?oc=5",
+        "summary": "Cloud Wars: How AI 'Landlords' Amazon And Microsoft May Absorb OpenAI And Anthropic (AMZN) &nbsp;&nbsp; Seeking Alpha"
       },
       {
         "headline": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-05-05T15:08:19.000Z",
+        "timestamp": "2026-05-05T16:16:29.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5",
         "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Anthropic Unveils AI Agents to Field Financial Services Tasks - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-05-05T15:00:18.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFJ1S2k5ejdYdmxvaEFJZUtZSHZnSkxMRldNZE5FanluTUFldXVvdUhHQ3V4MGFYX2pxRFJVNzcwdDYzZkx1bUZTZmpDTFBiR0NEazBkQXpWTXVKczBpbXl6bHpvZVYyNzg4eHZxbTJVZ1ZfZU4xd2xKRlZIS0RXSFRrSEtmSWV4dng3bkNabWJTNXNOWUVGYmRlRWRRN0NRRUZaSVF1dFNPeS01X013RWx3?oc=5",
-        "summary": "Anthropic Unveils AI Agents to Field Financial Services Tasks &nbsp;&nbsp; Bloomberg.com Anthropic and FIS Are Building an AI Agent to Help Banks Police Financial Crimes &nbsp;&nbsp; WSJ Anthropic launches 10 AI agents for banks and insurers &nbsp;&nbsp; qz.com"
       },
       {
         "headline": "Major publishers sue Meta for copyright infringement over AI training - Reuters",
@@ -157,22 +166,13 @@
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONV9YUnlIc3pEX3pnZHMwYmdDNHh4U0U3cjdoQjlaR3BWNFF5UUlBZzVnUm1EenhMd2NXYVlFLXd1RUZpRHEyUkJJUC1hU3NpTjdtMV8tTXZmYXYydlhaSlBnamtsc1ViRVJ4c2tmUWJqajIzRThVd3JqTGhYU2lvdXhMZ3hjSTQ?oc=5",
-        "summary": "Google DeepMind workers in UK vote to unionize amid deal with US military &nbsp;&nbsp; The Guardian Google DeepMind Workers Vote to Unionize Over Military AI Deals &nbsp;&nbsp; WIRED DeepMind Workers Vote to Unionize Following Google’s Pentagon AI Deal &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "Why private equity is making deals with the AI giants - Axios",
-        "source": "Axios",
-        "timestamp": "2026-05-05T14:18:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vTVJyWHlTMS1Pek10azdZdGhySy0wOHFTME1LS1RCN1FYNE5JWGo2Sm4tLUFGQzFVZVVORk14bG9yU19XNGt2RVVxdUhiQmlya1I0UW5YOWM5TzRNYWVpbk00TGdOcW1SZEtrUlotVVo2UQ?oc=5",
-        "summary": "Why private equity is making deals with the AI giants &nbsp;&nbsp; Axios"
+        "summary": "Google DeepMind workers in UK vote to unionize amid deal with US military &nbsp;&nbsp; The Guardian Google DeepMind Workers Vote to Unionize Over Military AI Deals &nbsp;&nbsp; WIRED Google DeepMind workers are unionizing over AI military contracts &nbsp;&nbsp; The Verge"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
