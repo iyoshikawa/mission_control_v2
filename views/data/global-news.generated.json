@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-07T11:45:41.410Z",
+    "generatedAt": "2026-05-07T14:04:50.785Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Asia exports of refined fuels plunge amid Hormuz closure",
-      "summary": "Asia exports of refined fuels plunge amid Hormuz closure &nbsp;&nbsp; Reuters",
+      "headline": "Explainer: What's included in talks to end the Iran war and reopen Hormuz?",
+      "summary": "Explainer: What's included in talks to end the Iran war and reopen Hormuz? &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-07T10:18:16.000Z",
+      "timestamp": "2026-05-07T13:11:56.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFJsMDV3TnlrXzFTUS1TV282b1ZHWk1DS0dlNDRzR0k1bHNPaVMzRUFLaEs4VnAxZnNCV3lfNENjNGllNTR2b3pHeHJyQUlxb3FzbnEwYm92QUd0VTE1UDdXazh2MkdTRVNEVlA1a0JqdVBjWng5SnJOZHhmXzBaOHhIX0VuRy03V0UyWjhQamhTcUVOdEhmQkwycw?oc=5"
+    },
+    {
+      "headline": "Thai, Cambodian leaders commit to seek peace after rare meeting on conflict",
+      "summary": "Thai, Cambodian leaders commit to seek peace after rare meeting on conflict &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-07T12:47:06.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmRlcG9aZ1g0azZENnA2aldWNG40ZF9QT2lHS3NIbC05WUFIdU1xTXhsc3hlNnl3Rmh2ZlpJYWRLNC10cmNNOTAxT3RJMzd0bncyUDVob09qa0R1Rm4xSzdMT2lacDdRS2s3YzcxM3JOd09RNGdlVGFCVW9NTUhua002RHlmWFhNcWZQMEttcHlBazdTWWRsa2Z6ODJhRUpRSE1CLTNyS3R6N1A0ZU5QWGFXcDFDZHc?oc=5"
+    },
+    {
+      "headline": "BP to sell stakes in flagship UK carbon capture projects in Northern England",
+      "summary": "BP to sell stakes in flagship UK carbon capture projects in Northern England &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-07T10:53:33.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEtub0tDY0R0RXE5VG12R0RXSHo2NkwwS1hiYTFSMjluMFQ3ZThvTm9Fd3hOWE5jeHhfcUl6ZjZXSXg4a2gtaWJXUHZDQmVQd3NPUjFWWjdQNUFzdFhuRUM3enYzZ05tUUpJWjRJeXdRV2xzNHA1ZThqQ0JUa3ZZcmlUeEJ4ZG4wQndhVUFoMlRpOHR0cmd1Q1VhaV9ubHRLRFNTWkgtdFg1R0J2R0l5eEh6TU5YWTNZbUM4NGFBcjJNX2xhY29fOWRhaTFVQQ?oc=5"
+    },
+    {
+      "headline": "Malaysia seeks clarification from Norway after export control halts missile supply",
+      "summary": "Malaysia seeks clarification from Norway after export control halts missile supply &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-07T10:01:12.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ21PRjdFV1pyVm82YWdZcFpkM1ptSmd2M3JveXdyQS1RQ0VYT2lWc242Z29VWWJaNjBrbEpPNnZCR3lYZ20wSEROQWpzNWp0M0FyNEMxOENZOG4zR2VDZzkwd1JxMGxxclJGa0wxbXlwajk5c0tCRkxZbWpwR1lfVE90dHdkNG9yMEljSEUtUjIwQ25BeFJ5NjFXX3hrT0pVYl9FcDZnX1NyWkpiTEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWxmNFNEck81WEpKNDliTEdyX2xvN0dDUDBEcElmcEZpZm84SUEydXQxMUZQRzZzLWo0akxaMWdjYmtjNFhCUmEtdUVwSVlTSXVZaFh2T1NxblR6a1pNVWp2VGNNUjFBQ0xGNkpfZnVtVlhZZmFOLTRRVHBpcjZvQ2dMdWU5UGF6WHJOd0I4WktZOXM0R0pqMm91NjJmeGJUSDFrVzltV185YlZKR2ozcUtaZTZsSUNsSW1PUDZOYlVLaDhJOFJpR1c2Y3k?oc=5"
     },
     {
       "headline": "First Chinese product tanker attacked on Monday near the Strait of Hormuz, Caixin reports",
@@ -34,43 +67,21 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3k1bVJQd0NHeHlYZmNKZmZhVkpQWk9PbV9OcWNSQ2VZcGpNdS1UeXgyTDFHSUtSdllmRHR3WmNOOEo5eDlOYnZCSGc5UkctRW1aS0tpZVdlek5DbTRNeFJWRkNVMEVZcks3SDBkWnRsaEo5amxmUmFNNHo2YXRmemp0YVFZd2F1cDM5LUQzZFVxNlRkYXNLcUY0V0NCVzEwTmcyeGF3YVNFWDgyWEkzYmdLenVlel9zbEJ6YkhGbmxLQ05y?oc=5"
     },
     {
-      "headline": "Countries scramble to track passengers of virus-hit cruise ship",
-      "summary": "Countries scramble to track passengers of virus-hit cruise ship &nbsp;&nbsp; Reuters",
+      "headline": "Brazil's Lula visits Trump in Washington seeking to avert new US trade tariffs",
+      "summary": "Brazil's Lula visits Trump in Washington seeking to avert new US trade tariffs &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-07T09:41:28.000Z",
+      "timestamp": "2026-05-07T09:17:06.000Z",
       "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzZsNHZVbHRHSUYzSC1ud0lURERoYnZjdkFmeHM3bjZ6SjczaFZhZkxvNTcyMjNpUlFlQnc5Vmw3eUlKcHk5VmdlOEVBNU8wMm1HRDFtQ2tSUm1sWl82Y1J0U1lzMW5OUzVTeWtRbXVLVG5SUzBEZ2tib25BS2gyQTljdFRyMk5vMThlWS1TeTROOEthTnA0b29mci1zOE5KNUJEUVh0YU9fYkxDaUE5c25xTTExbVlZM0h3eExJSmhLckpBUTJjLQ?oc=5"
-    },
-    {
-      "headline": "Israeli attack kills son of Hamas leader negotiating with Trump-led board",
-      "summary": "Israeli attack kills son of Hamas leader negotiating with Trump-led board &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-07T08:23:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hLLWduT240b1k3b0w5ZDEyNlBtNmMyRjZvd0NlZ0VzUFZqRDJTeEFVekotdlNBSG0yaFlQQmt1Vmdaei1icks3RWdseWtPUHpSSWNQUFBfVXZwSnIyWEliLUdMZkU0XzRlYnp3WjNFM3Y0dGpncTdFTnQzTUFFMzZtaTNERFZ3Rl9GWk1DNW9jV2tMbkVyMEpfZThySUdWTlRBajFXMmlCWnVRYm1HeUk4U1Z5REJHVWFrLXBIeHcyQQ?oc=5"
-    },
-    {
-      "headline": "Malaysia seeks clarification from Norway after export control halts missile supply",
-      "summary": "Malaysia seeks clarification from Norway after export control halts missile supply &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-07T08:06:09.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWxmNFNEck81WEpKNDliTEdyX2xvN0dDUDBEcElmcEZpZm84SUEydXQxMUZQRzZzLWo0akxaMWdjYmtjNFhCUmEtdUVwSVlTSXVZaFh2T1NxblR6a1pNVWp2VGNNUjFBQ0xGNkpfZnVtVlhZZmFOLTRRVHBpcjZvQ2dMdWU5UGF6WHJOd0I4WktZOXM0R0pqMm91NjJmeGJUSDFrVzltV185YlZKR2ozcUtaZTZsSUNsSW1PUDZOYlVLaDhJOFJpR1c2Y3k?oc=5"
+      "region": "Latin America",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXBvVEJFaDhqbmJiQzZ3R1BiN1RVTXVNTVFhSUdKRTBxOGp1blk1U3R0SHphTzdrNzZpYnliOHNXa2RHSmMyQkZoMnE3bzR2eTdRaGc4dENRR0w2ZW5yS2xwR0ZIOFdKUFZTWGpRdjg5Vm5PNzBfZHdBdGx3MWtvQ29DRjZlaFVDWnUzRU9XbUVnc2NoMlhpenVFT0o1cmtENnF0WF9YR1IxX0RDMFktaFh4TjJuaGdNQnlHXzZpbw?oc=5"
     },
     {
       "headline": "India plans to bolster key export scheme as Iran war sours trade outlook",
       "summary": "India plans to bolster key export scheme as Iran war sours trade outlook &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-07T06:48:00.000Z",
+      "timestamp": "2026-05-07T06:59:18.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "shipping",
@@ -87,17 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1R2xoVWJZUEQtQzRMMGZFOUxCMnFOYVZZcXN1dXNVRE9LWllmYUd5WkZtSXZYRnRxRGwwV00tLVAzVEd2UXNKWjd6UTVqWTRNcWRnQ09uTjV4T1ZYLThfN0s0Z2xsQTg?oc=5"
-    },
-    {
-      "headline": "Trapdoor creaks for dollar if Iran war ends",
-      "summary": "Trapdoor creaks for dollar if Iran war ends &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-07T06:04:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0dsQjVxcFllbGI4amVuN0tHTzlMNmo3Y2doYjY5MUtJbE5fRzB4ZDhDbHpLYmFxU20tVWFNNDVCdTB1WU1CbU5jYWFNdU1UTUtqY20wT2ZjaGp2YlZVMGItRDlnSVhFMFo2dmZWQV9nR1hnTTcwNGFmZTVUcm9HSVFwemdfNWw3b19HTjNnelFhdER6MTZYY0Rn?oc=5"
     }
   ]
 }
