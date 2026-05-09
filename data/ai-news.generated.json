@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-09T11:54:01.546Z",
+    "generatedAt": "2026-05-09T13:26:22.538Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-09T07:01:49.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5"
+    },
+    {
       "headline": "Trump to regulate AI development after Anthropic's Mythos posed cybersecurity threat - report - The Jerusalem Post",
       "source": "The Jerusalem Post",
       "timestamp": "2026-05-09T06:29:01.000Z",
@@ -20,16 +30,6 @@
       "summary": "Trump to regulate AI development after Anthropic's Mythos posed cybersecurity threat - report &nbsp;&nbsp; The Jerusalem Post",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU25xYjBaRllVd1pJSG11RTJ3RjdhcG1OdUxyYUpDbjZrT3pOTWJud2o3M0pGXzUtZXVaRTg3QzN0REdjZzloNzhzWG1pdnRzd1VWbVUzZll2ZTdSSm1wcy1yUjAtYzRjWUJOWlhCb3ZwV1Y2ZGNDVDBTRG9pR21xVTk5M1N2QQ?oc=5"
-    },
-    {
-      "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-09T05:56:25.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5"
     },
     {
       "headline": "The University of Michigan may have landed the steal of the AI era - Business Insider",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-09T07:01:49.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
+        "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "Trump to regulate AI development after Anthropic's Mythos posed cybersecurity threat - report - The Jerusalem Post",
         "source": "The Jerusalem Post",
         "timestamp": "2026-05-09T06:29:01.000Z",
@@ -122,15 +131,6 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU25xYjBaRllVd1pJSG11RTJ3RjdhcG1OdUxyYUpDbjZrT3pOTWJud2o3M0pGXzUtZXVaRTg3QzN0REdjZzloNzhzWG1pdnRzd1VWbVUzZll2ZTdSSm1wcy1yUjAtYzRjWUJOWlhCb3ZwV1Y2ZGNDVDBTRG9pR21xVTk5M1N2QQ?oc=5",
         "summary": "Trump to regulate AI development after Anthropic's Mythos posed cybersecurity threat - report &nbsp;&nbsp; The Jerusalem Post"
-      },
-      {
-        "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-09T05:56:25.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
-        "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "The University of Michigan may have landed the steal of the AI era - Business Insider",
