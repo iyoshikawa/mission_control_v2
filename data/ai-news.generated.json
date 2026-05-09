@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-09T14:55:59.390Z",
+    "generatedAt": "2026-05-09T15:58:32.775Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-09T08:57:52.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5"
+    },
     {
       "headline": "Trump to regulate AI development after Anthropic's Mythos posed cybersecurity threat - report - The Jerusalem Post",
       "source": "The Jerusalem Post",
@@ -40,16 +50,6 @@
       "summary": "Teaching Claude why &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5"
-    },
-    {
-      "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-08T16:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5"
     },
     {
       "headline": "Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-09T08:57:52.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
+        "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "Trump to regulate AI development after Anthropic's Mythos posed cybersecurity threat - report - The Jerusalem Post",
         "source": "The Jerusalem Post",
         "timestamp": "2026-05-09T06:29:01.000Z",
@@ -140,15 +149,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5",
         "summary": "Teaching Claude why &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-08T16:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
-        "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times",
