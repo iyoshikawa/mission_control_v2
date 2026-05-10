@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-10T11:55:44.254Z",
+    "generatedAt": "2026-05-10T13:41:10.390Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Intel’s Apple-Polished Comeback - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-10T12:03:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Intel’s Apple-Polished Comeback &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PeUVaVmJHVG1OMVlyV3VERHo0UTZHeUE4MlRnemZLNHBMWm93emhzaFJqUC0xNmVlWHA2cUNWWXVKTFlRSWlxb29XbjNpaWRJdUZIWGdKZTdjTjlYNjZjZ2gzY19fTnhBOWgzZy1SSE9xVWVBaHc?oc=5"
+    },
     {
       "headline": "How Apple AirPods with camera may differ from Meta AI glasses, details here - India Today",
       "source": "India Today",
@@ -100,20 +110,19 @@
       "summary": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFdOaXozR0dQMElCZVJjUlFSdzg2OTRJTlVzYlduZzVmZGJNMlZhLWtKQXBGaG00eUpTTktlSVhKVHhveDdKSVUydk9aNGM0Tl9pNU04bGJXRUxNNkpjd3lQZWtfWGUtSks1RHYtQ3VrSWluZ3I2TjZUdktwLTBESUVn0gGHAUFVX3lxTE5jaGlrbkVLMjBkeUlWMU5zTVFPVF9lWk5pY0MwUUVQTGw4Z2dUSHJmdl94cWhwQ1V3MG9USVFSekVvM1Jpa29wdU0zdGtmYXEtdlZreU1yOXJqVVFJMmowVHgyUE9nMTUwTzhwMC12RWxqMi1KdmRJU010RUR1LVJwVU1oS245bw?oc=5"
-    },
-    {
-      "headline": "Tech Talk: Meta says AI can detect teens lying about age on Instagram and Facebook - MyNorthwest.com",
-      "source": "MyNorthwest.com",
-      "timestamp": "2026-05-08T12:00:38.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Tech Talk: Meta says AI can detect teens lying about age on Instagram and Facebook &nbsp;&nbsp; MyNorthwest.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xa0hfUm9OYVFPNms0dDVFOXRmWURoM0R0U1QxdjRuRV9xWW9QSkJUWnZYb2o0RUx0LXFGYkR4Y2dfN1pxWWpQdmkzRzlQT0o4ZzRRTl9mQnBGemtadERJNlZRTzlzel9qaklUUUtnWTdBT0tu?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Intel’s Apple-Polished Comeback - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-10T12:03:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PeUVaVmJHVG1OMVlyV3VERHo0UTZHeUE4MlRnemZLNHBMWm93emhzaFJqUC0xNmVlWHA2cUNWWXVKTFlRSWlxb29XbjNpaWRJdUZIWGdKZTdjTjlYNjZjZ2gzY19fTnhBOWgzZy1SSE9xVWVBaHc?oc=5",
+        "summary": "Intel’s Apple-Polished Comeback &nbsp;&nbsp; WSJ"
+      },
       {
         "headline": "How Apple AirPods with camera may differ from Meta AI glasses, details here - India Today",
         "source": "India Today",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5",
         "summary": "Teaching Claude why &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-08T16:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
-        "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
