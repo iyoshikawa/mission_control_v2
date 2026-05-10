@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-10T06:11:02.424Z",
+    "generatedAt": "2026-05-10T08:52:15.145Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Turkey's Albayrak, Trump discuss Russian missile defense issue: CNN Turk",
-      "summary": "Turkey's Albayrak, Trump discuss Russian missile defense issue: CNN Turk &nbsp;&nbsp; Reuters",
+      "headline": "U.S. sanctions three North Korean officials for alleged rights abuses",
+      "summary": "U.S. sanctions three North Korean officials for alleged rights abuses &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-10T04:59:03.000Z",
+      "timestamp": "2026-05-10T06:37:25.000Z",
       "impact": "HIGH",
-      "region": "Europe",
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2ktT0JRT2JGQnRKMURTVzRkTW9JQUtrSUVIeWhnZXpDU3h5cW4xMDROcGNmanJURDVwY1I5S1U4dW54SU1pVkYwVjBvRHhuRlpxLXVFd0NQNkVhc2psQmJRQUVNekhjdU5WMFFoQzY5RThVY2Y0UjdaaVFTNWRkUGZNaWxYTHFEeEl3M2lYXzFqUE9keEcwMlA5TERCc3BNUUhXaTY0TDlwMGFvOFBBRjNfMlRNUHdva2VMMA?oc=5"
+    },
+    {
+      "headline": "Schlumberger pleads guilty to violating U.S. sanctions on Iran, Sudan",
+      "summary": "Schlumberger pleads guilty to violating U.S. sanctions on Iran, Sudan &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T06:04:52.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUtIZ29Bc2h2cWJDZWVfcFBLcWFrNWdQUXdjNkVxUlNXVG1DRkg2ZDNXdUhmZXVkMTYxaV91TUtIaFVmUTUyNHlTaXRzZDZxSWxUY1VCcWt2dENQdVdWTUhGM2ZBLXBaZ2pqYzJYWGo4QkNIMEZhZ09KSEFSRkhNTU5WekZTeTdUTVl4Q3UxNUhhel9qNWVSY0ltLVlWcFc2TDllMWdnUDhuMjZpekxGZlBLX2s2VFhyRTFJ?oc=5"
+    },
+    {
+      "headline": "U.S. details possible Sri Lanka civil war abuses",
+      "summary": "U.S. details possible Sri Lanka civil war abuses &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T05:09:45.000Z",
+      "impact": "HIGH",
+      "region": "United States",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkN1cHpENExGSWd2UFJsbzFoQ193d01MTmJIdlprZDVtX0FMNkw3OGswYmVaNTZxSnVNdThXUW04NkZkNEZLMXR6eHpYcWwwaXJnWElOSmxmV0g3bEd0b0FRZ0VfaW5Oc05vdHZyT1ZmT0tfSWloLURFNjk2cm9sQmowenhEMkwxaEM1N3FOOWs4RXQ1X21SQXNkOGk0a3R1Nl9RejRjZzE3ZTV4S1lIekpjdHNDYmFsRDcwTVhOZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjkwdnE4elp5WG1xWmpNVFNHYS1KekxmOFc3YmdtM1NJZG1lcVhoWS0wVUhwa2k5cUczdndYX3g3Q3hua2xUbkN1Q09lMWZZaWZ3U29kMDdYTGw2LUNHMzFrWld1UE90RTJnNzk5OXpPYmNiZkNxM0VldXhCRnVIR1poaktnRzVnQkY0UDNvTHZOb0pWM1U5UTZ0dG41RGQw?oc=5"
+    },
+    {
+      "headline": "Iran asks IMF to intervene in U.S. actions on banks",
+      "summary": "Iran asks IMF to intervene in U.S. actions on banks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T04:57:26.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUcxbW9ZSWxRWlUwNzctYTQ0cE1OaXlwVW9PRWNJdThkU0FuZ2t3R3piTjRXemFoQmpiaV9rSEZBQ0gwY2IyZjJ4RUxMcGtxZ2ozRXBaNVAzdHpva3ljekRyM01ZOVdaaFBuTjBDV2VWYmF4NlZ6bmVxcmRGRnlqYmh4emRsanJUQ2NacHF2am9fYjgtbnpFQ0NQYTM2TmJXWDh6Tw?oc=5"
     },
     {
       "headline": "Essar's oil imports from Iran jump sharply",
@@ -34,70 +67,37 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2c4bWtPRG1Yd20xZUloS2tqSFBEVHVyU21MTWZiRTA2UFBmOHFsRFVBVjByTXBFVkNCVnBqMThfb0g2N1lmU3Fod1AwVnJKU0JMUk1UbDBPNEVvbHphdTU2M1hpVGk4Smg3MEp0YlA4c0NNcjl0OFUycWd6c0VjeWhsd3ZxMnlwbUZHbjJ0VUtSMTdZX25TalRR?oc=5"
     },
     {
-      "headline": "China eyes greater cooperation with Iran's air force",
-      "summary": "China eyes greater cooperation with Iran's air force &nbsp;&nbsp; Reuters",
+      "headline": "Turkey's Halkbank fails to halt U.S. prosecution for aiding Iran",
+      "summary": "Turkey's Halkbank fails to halt U.S. prosecution for aiding Iran &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-10T04:53:50.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnV5bFptUlZvR0FyQndlY09VODk2STN2bjVTT3EwZWNkMFROTGNPeERNVmRORTliNnFjUElDd2I2ZTBTLXVtcFBodk91RFV2V2RsTTI1SjNuX0R5cW1Jc0FCa2ZhWklQZDlZWWlxcmt2YmRYWHhDcGg5YkV6R213bDlHSFNhMG5NVWRKbWd2VGY4TFBTOUtLMzgyWkdfWllTcUtRYUh6Yw?oc=5"
-    },
-    {
-      "headline": "Israel's Netanyahu says Hamas has violated its own cease-fire: CNN",
-      "summary": "Israel's Netanyahu says Hamas has violated its own cease-fire: CNN &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T04:45:57.000Z",
+      "timestamp": "2026-05-10T04:54:17.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0k3cTItazlIVmJQWXhDaUh6TTgxeU9qSGFRR2diaUtBejFESVduSzhwV0lUc3ktSWhlLWVlblVYNnRMRHZUTjdOamRnSmZVR210SjhzcXVzYkdmTWNVTnlEajhkRm5GdGlqSWtsdE5NczFMOTktRndXMzRJOUVSa1F2anN1Tk9OSlhfQk1mTVc4TFoySV9qVU5yV1JIcnNZM1dLeTI3VFdMYzlyMUpIdjJ3RW9EOUJH?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHdDanlDNHUwZ0doal8tbXFwRUhmVlkxZTJvUXp0dTl3VENzN09vdDF3R2NKQ0ZaSkdRV3QxVHc0QTQyT2xNRnJFOUh0M2lSUUJoeVpiMG0tb2JsRTJ1UXoyN3Fjd1Nwd2o4Qzd3d0pwTzR5cmdRdENGRmVMdDRwODJKNnYwSDIzQmxkcXZqQWJBS2h5WDZfaGtBekVMSmtRdU41SFU1MGVPSm5oMDRZeTBiQ0s?oc=5"
     },
     {
-      "headline": "At least 65 media workers killed doing their jobs in 2017 - Reporters Without Borders",
-      "summary": "At least 65 media workers killed doing their jobs in 2017 - Reporters Without Borders &nbsp;&nbsp; Reuters",
+      "headline": "Moscow sees extended U.S. sanctions over Ukraine as unlawful",
+      "summary": "Moscow sees extended U.S. sanctions over Ukraine as unlawful &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-10T04:18:53.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZnptd2FuTXBCNjhlTWl1ZzdOZXZUcGFieXlUTk1LRzdfQzNJRW51U0JHVjQ2RTdkRUQxV25NY0hqU0h1WXhWX3Fjb3FBbGh5Q1Juc2VpbXplZXRGYlBrdy1yV2JZLTNTckZHaE95RDdubzEzNE9Hc1lKUjMyTTRjNEJoM0JWT0FPQjlQd1ZuSF9tZmdzcS1relJIZ0xQbExadzc1QlRyejJqaE82NW53VFE1QTVzekl2bk9YY0xRNUxhQTdTVTZTMHZ6dw?oc=5"
-    },
-    {
-      "headline": "Bank stocks fall after Moody's warning",
-      "summary": "Bank stocks fall after Moody's warning &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T04:15:40.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVJTUFliTGlCVjNobDNjNXlPNzhXTXhPVjBfc1hYLTBkSjJjcEg1MnViSXYxQklvVHdrZl84cHduWXFnazlCZE02OHVQeFVFNW5Qd1pGYWdocFpFdkkxYmFuU3NvT0puNXZ2QzNialZuYUk1RFFtWGNvcUllcThYSTd5UXB4UmJtSnlUVzhPb2hORnNp?oc=5"
-    },
-    {
-      "headline": "Germany revives effort to buy US Tomahawks, FT reports",
-      "summary": "Germany revives effort to buy US Tomahawks, FT reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T04:15:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDFiY3VFUGZMdHpCNkxJSGF0QTNIV1RhN3BDNjdybXZ0eUtfY3l1Ym45M21mczlWWm1lX0V1TlRPUXpCWFpvV3lyRzdNdThZX0R3N2dITHByUkV6MFNwcU52U2RITWJLVDkxWGdnMVB2a1NCTTA0SFN0VGFoaDR3eERoZjNnMWc5LWl6dzdia2hjdTBFWGliWTBoTVFnMTA3?oc=5"
-    },
-    {
-      "headline": "Trump, France's Macron discuss Iran, Middle East and trade",
-      "summary": "Trump, France's Macron discuss Iran, Middle East and trade &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T03:50:04.000Z",
+      "timestamp": "2026-05-10T04:47:24.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnBwcDN6YU9nNW8td3R1YjcxeUl2TnlmcWViakI2MWtGMmxvOXBIbHlPTC1tdmg2SGZMVlRMSTBTRk03ejJkSHlnT3pvcWRsVi1HUElCVy1YLW1YQ3F4Q2RsRi0wb3hNWFQ3UFpwVVVpYVNjM3Y2cmQyclU0OGg0QXZvSWNaODRjZDJYRzluN1FWclhNeHA1SlBEN3ZlTkdpRXZZcDZRdTNwM2dR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkxYVUVoemRNcndBNDI2ckU4WndaeXZHcXZwQV9nVWcyb1NYbDY3VnZFQ1ozMGUtbjNBTkZjdDFNeWxaYmtzQUpQdmEwOS1EZjA1VUVnOGdBeDVyYkRHc215Q0gxNXloa3pCVXNiem1jUWgxcGZpY0Y4Qm10clZwUXVaa2dkUk5QSG1Fek9Tcy0tV1BKZUM2UlNlU1lfZFlHcTd1d3NrY1UwNmdBaENjZw?oc=5"
+    },
+    {
+      "headline": "U.S. sanctions will delay, raise costs of Nord Stream 2 pipeline: German conservative",
+      "summary": "U.S. sanctions will delay, raise costs of Nord Stream 2 pipeline: German conservative &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T04:39:54.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmZXTHdOUXFEekdGZTZfeVB5SS1oazRjMXRTRjEzbEdMVlFGZmdJcURUcER6U1dnSnVuOVRqN2lFYU9lZGJGTHUwd1NqLTJpdU5BcmxyUDdQUlZVSVZ2ckFGN1dqdnkyVk11OVlLUkRrOE1lU1o0SUdPOVZPUXJYd2Q4X21ib1FXNjB3RkUzcEFoY3NIek5JNVRzZHF6WlZNbDJGVVF4VHVfWkpfVFYybGpuTkRtTFBoSUFUdFE2YWVZNzk1WWV6Zw?oc=5"
     }
   ]
 }
