@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-10T15:52:40.606Z",
+    "generatedAt": "2026-05-10T16:54:31.531Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,6 +12,17 @@
   },
   "newsFeed": [
     {
+      "headline": "Israeli strikes kill three people in Gaza, medics say, testing fragile ceasefire",
+      "summary": "Israeli strikes kill three people in Gaza, medics say, testing fragile ceasefire &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T15:46:05.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzQ5WXVjTmF5TzRDY29NLVFYbHNxNVNDdXZncFlmOWRZMzB5aXpYWmgxeGs1V3lUVzJzZWhxNm9fQnlNZ0NTdFBEYUxhQzlVTGxVY1Baa1lKTmtqS3ZZZG1IVnNPNFRUNnpBOFBjVWhRM2FtYzB3WlJXcVVVanZ5dkxTOEtsY0w5RENIb3JXT1hCdkpIV1lNdnRrVHZmOXpkSGlScmNZTjZ6dnBpczBpZmFBeUVEdm9LX1Q3NnkzUQ?oc=5"
+    },
+    {
       "headline": "Microsoft’s African data center falters on payment demands, Bloomberg News reports",
       "summary": "Microsoft’s African data center falters on payment demands, Bloomberg News reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -21,28 +32,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc004TlNOQ3k0SEVzN2Roa2hveTZER3d3b3ZJaFlPVktOdHZLRVJkY25pcDZITFdjQlF1T0l3MTkwLUlDTlJrbWdSTk5OdEk4M3R6REVIZi01RmptSy1JamNVdDJsTkE3S3JEdXRQMkQwRF9ndDhtLXNlS2g1cHBvMjV0akV6T04yY1NabEpTXy1zcVRhMzRrUjFaRWFkNzAzalFMZ1FMbERtLWktMmFEVUJaSEZnbEtZWENkTjJrUXlveUNp?oc=5"
-    },
-    {
-      "headline": "Israeli strikes kill three people in Gaza, medics say, testing fragile ceasefire",
-      "summary": "Israeli strikes kill three people in Gaza, medics say, testing fragile ceasefire &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T13:21:18.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzQ5WXVjTmF5TzRDY29NLVFYbHNxNVNDdXZncFlmOWRZMzB5aXpYWmgxeGs1V3lUVzJzZWhxNm9fQnlNZ0NTdFBEYUxhQzlVTGxVY1Baa1lKTmtqS3ZZZG1IVnNPNFRUNnpBOFBjVWhRM2FtYzB3WlJXcVVVanZ5dkxTOEtsY0w5RENIb3JXT1hCdkpIV1lNdnRrVHZmOXpkSGlScmNZTjZ6dnBpczBpZmFBeUVEdm9LX1Q3NnkzUQ?oc=5"
-    },
-    {
-      "headline": "Iran sends its response to US proposal aimed at ending the war, IRNA says",
-      "summary": "Iran sends its response to US proposal aimed at ending the war, IRNA says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T13:13:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTVYY01aTFVfdnI2Z0pyRWhRcGI4X3dlTlJLX2RzaWdTZnZMRkFHRjNTb3FCR25IZW1SNE83al92N1VRR2E1UXpES3djcF9SS2N3VHdib3dqcWRGOXZzVkN5R0JLTVNRb3hCcFhvUFVSTmlweFZsVTZNVmlJNTJTRExmVm00Zlk2T2RDZ0lEeW1KaWlWLVNfTGZVZUM5Wk9uNS0yZDhBTTJ0QUJ5Qk5uOC1DRklTYUFa?oc=5"
     },
     {
       "headline": "UAE says air defences dealt with two drones coming from Iran",
@@ -67,17 +56,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1pvNHpjRnNkcVQtQ2JIYlZfbFR1ckZUMWV4UmYtN2wyWmRORERhSUF6VllWTFp3QmtiVTYwQmxfUDNOcjFBdTZqY2pfWmZXVWZpUjA0ZzhMQUhWY1A5Z2tMOTVJUFZwMWJfVzFJRzdjdzllTjJONmxLdDdvRzhsMFNtUnRNYmhpcGtwT2pVSGRPV3BpOXV2SGE2S2xPTHFKNlBJemdCczUxNDFNZ0E?oc=5"
     },
     {
-      "headline": "Kremlin accuses Armenia of providing platform for Ukraine's Zelenskiy, agencies report",
-      "summary": "Kremlin accuses Armenia of providing platform for Ukraine's Zelenskiy, agencies report &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-10T11:59:43.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTFlNVnVDV1FrZThhaU1iTFpERWJwQlB2UEkzNFBEUkNQWC1ROWJBaElTeThVbXRCVklWd3NOR29UX1Fpa2NKby1taFJ0REVWX0w1bGV0WHRlSnBfZTAxYWRlRVVncllqd1JSRGVaSUplY2hnajRxeWVJdDh3aV9qUGMyeXJxVjNVQi1MWjRUWUJwQ2hCcFhYMERIUzNWT1hWUjBuNWlySzhQMGZuMjJUeXItMW8zeHd2TmQw?oc=5"
-    },
-    {
       "headline": "South Korean ship in Hormuz hit by unidentified objects on May 4, ministry says",
       "summary": "South Korean ship in Hormuz hit by unidentified objects on May 4, ministry says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -98,6 +76,28 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWlHeDZWa2hYMWN4b29IUEx4dXlqbEZHc0tCZ2JmcWVKMl9nVTU4N0JKVXg2MklOZ0ZIYndIMkNIU2gzSGpPbVJMRHFqdVE0cG9IX0tlclpnNnFhX2RFa0FxR1o3QWJYX1o4SjdKNFdNT0hmMWJ5Q1JiMnhoUlBTUnh1bC1JcDVmSUhOVU5mOU9FRHhRUW42SVVuc0NoX1RlczYtT2FOU3BIaWRZYU4zcUdtSVRmZ2JDN1lIb1JjM3kxdHlYQnMyazA0ODFKZEE?oc=5"
+    },
+    {
+      "headline": "Russia says Ukraine violates ceasefire by launching drones and artillery attacks, Ifax reports",
+      "summary": "Russia says Ukraine violates ceasefire by launching drones and artillery attacks, Ifax reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T09:37:22.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVm1iWEZYX0dseGszXzV1TjBWanBZWm1KTUF3R0VmYXh0ZUhkSHRyQ05CUmlHLVdwTHhXdG9nSVlLdC12bm92NmlUd0RBU3hqNTdIdEUxR3hQNlVSQ2ljTHk4RDFQOG5tZ3d3REQ3VXdUSVRDWkpIZG05SmxqRWkwY194b3p6TU4xdURLOVRMa3ZjM1RzTDBCMktkdWhEd3dySmJOSWVOQlN6enZQb01iZ0JuSVRVd3MtajRrU0hCd0o1NGNaQWdzNm9HQnhNT3NYUFhoMU9R?oc=5"
+    },
+    {
+      "headline": "Qatar says cargo vessel coming from Abu Dhabi attacked in its waters",
+      "summary": "Qatar says cargo vessel coming from Abu Dhabi attacked in its waters &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-10T05:24:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSE96bUZWYWdjX3dMWjhTdkY5eWEwOXI1eElSalVKUnFCNmRYVUdBUkY4d2NPd3huN3VndUoyMWFzZDdBMXU5S0l3SjhoYVNBYkMyWUw2Tkd3WEtyWk44czQ3c2YweHBfRnI2UFc3dkFhS0U2bnVXeFJaNFcxcC1kZFB3WGphYWdBSkpxSldNaEhZUVdaU2lZN2RrUjhkSUtYWFFpUDF6UmJUSEhicnJjSXdUT2g?oc=5"
     }
   ]
 }
