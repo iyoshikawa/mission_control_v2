@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-11T12:14:34.289Z",
+    "generatedAt": "2026-05-11T15:58:13.988Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
+      "headline": "Anthropic Thinks Their Chatbot Chooses Evil Because That Is How AIs Are Portrayed In Science Fiction - IFLScience",
+      "source": "IFLScience",
+      "timestamp": "2026-05-11T15:33:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Thinks Their Chatbot Chooses Evil Because That Is How AIs Are Portrayed In Science Fiction &nbsp;&nbsp; IFLScience",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUU5qYk95Uk5yakU2NllZbXZ2T0pzeGVUaXN5LVZsMDJZemtyaE5SaE12ZDR5QTFXd0dXdk1NNEtmazZZODctS2NQTE1CZ0xMbXYzaVdjRlRtM2Y3eG5id2ZFcnVXdXNaLXhWalVPLTByckpLMC11MFZ2YndSMEZ6bVgyNHNJS1M1SThick9TUC1tLUxyR0Vqc2pURjMxSFBYSWl0aWIwTzlQZjJLblFkYmc1ZEYtaVFrbVc2dDlkZ29pYWJscEJLVTk0OTh6dw?oc=5"
+    },
+    {
+      "headline": "'It's here': Google issues dire warning after catching hackers using AI to break into computers - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-05-11T14:50:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "'It's here': Google issues dire warning after catching hackers using AI to break into computers &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmtISkwyV2xmaVNhRmh4amc4c1lySnlKUUU2WEdpNzRiUV9RN1ZvcEJSX29QZE53cTM2UTNVN0hEbGxNXzlURWhNTGxIQnE0Smlsckp2S3FMUERTV2k2LTFaUTVaMDduQVlDbzlkYVFpbEd1OXA1UEsxNzY0Sm1vYjRUTjZRd2dMLV9Bb0tadzZUX1AydXg1bmZlTTQ?oc=5"
+    },
+    {
+      "headline": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-11T10:53:25.000Z",
-      "impact": "HIGH",
+      "timestamp": "2026-05-11T13:59:44.000Z",
+      "impact": "LOW",
       "category": "regulation",
-      "summary": "EU Commission in talks with OpenAI and Anthropic over AI models &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5"
+      "summary": "OpenAI creates new unit with $4 billion investment to aid corporate AI push &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5"
+    },
+    {
+      "headline": "OpenAI launches AI consulting arm valued at $14 billion - Axios",
+      "source": "Axios",
+      "timestamp": "2026-05-11T13:39:06.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI launches AI consulting arm valued at $14 billion &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51QUtsM0czTWtzWXBfMEw2amtqdEhOUFlDNUh4UXRtYmM2VUZRQ0NiQXVMclBnSE9tM0t5SWwwTVBRZUx4WWVkNGJFVDdncVZwRURnOVlyYmFKZkZYYVBGZnE3bE9VRnAyVzQyVzFzbjU?oc=5"
+    },
+    {
+      "headline": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-05-11T13:04:49.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5"
+    },
+    {
+      "headline": "OpenAI to Buy Consulting Firm for JV With Private Equity - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-05-11T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI to Buy Consulting Firm for JV With Private Equity &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakRtc0pVREczSm5pcUZScjJrNU5pQUFETGVUUEtqdTJSSjlmeDVKQWJwR25ZTnAyV1MtZmtwQTRVcGJIZ1ZucFZwRGhMbW5TeU5yVjJrNXZUYmlzTE9LR1FKQjdxOTBLMjhDSkh1R1I4blcxWkF6NVNiWE9yX2ozREZtX3dFczlLTTFybGZUVDNkUi1ZRlhES1dRaTVyUUFDajZuem5yOGg4TldZUTRBLTJoSQ?oc=5"
+    },
+    {
+      "headline": "Google DeepMind’s powerful AI co-mathematician - The Rundown AI",
+      "source": "The Rundown AI",
+      "timestamp": "2026-05-11T10:07:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind’s powerful AI co-mathematician &nbsp;&nbsp; The Rundown AI",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uTWFfT0hVRnhmeWRNTDBXME5zaTd5NFJ3OGQtejBkTm1oSUx0WTJTUS1IZ2owYy1mcW5jOUR1M1VwNUwzdV9xck83ZTQ4SmlUeHJoNWFuc1JENld5RTVIUFQxU0xtbVhaNnRuQjBPc0ViWTFqSUFwNXZLUDk?oc=5"
     },
     {
       "headline": "Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation - Microsoft",
@@ -32,24 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGNkclNGU0Zqc0RibE43MENnbjZaU29JX3JGSC1jSWdPMW9qLU9jVmhMa3ZQWkxueDlhRmduR1JTNHltaVd1WDZKSl9yd3NsQjZKWU83TUg1SlN2cnNVbDJuMlpyZEtncGJyLWZncEFVWFRsSnBwcjdKaTVnV3NtUXhVRHhDZ2I5TzlkN2dtbGlRcmpZYV85OENuLXhIejA1ODcxTThqVlk2ZHB5TzBpMXM1SWFyd0JkZk40RlZ2Y243MEww?oc=5"
     },
     {
-      "headline": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-11T01:00:00.000Z",
+      "headline": "Microsoft Corporation stock (US5949181045): Tech giant's AI and cloud momentum - AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "timestamp": "2026-05-11T09:01:28.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbTZ0WUl0RzZFRi1KYVhxeHdfY2ZJdUJzQTEyeDFCUnFkSjZ5cXREUkNjZVo2blJ0dUczMjRGVy1yeWd4MzF5blJjdHVlVWZFUU9RTFZ6QlVqVENpYmVGTi1jSXdGZ05CaVFxcVdB?oc=5"
-    },
-    {
-      "headline": "Meta outlines the features of its AI glasses range - Social Media Today",
-      "source": "Social Media Today",
-      "timestamp": "2026-05-11T00:14:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta outlines the features of its AI glasses range &nbsp;&nbsp; Social Media Today",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjREdHNMMWdMdWY2dEppVG5YN3R3Y3FiZnhpX0JpQU02clNLMzlpSjh0U3cyS3JGT2ZPdnUwV1M5ZmQ1TU56Nml6Vjh6dF9OZjFrWWdyclFHdTFBMERqNWNOdV85LU1VVDNOS3U2bG1BbEh6cXdsa0dkb3MxNTFkWmloQzNXd1dTeUpNSDRsN0tCbFM0SHlVN3V6X0c?oc=5"
+      "summary": "Microsoft Corporation stock (US5949181045): Tech giant's AI and cloud momentum &nbsp;&nbsp; AD HOC NEWS",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEFYd2tKM3JpazNiSXNobU0zMExHUjVJb3NKWVNsWmp6ZUdlZFU1N0VOM2kzdVNjVHFCRmtndmZRWGljTzZWZDMyWFRfZmx5X0x1WmRqc19MMi1QTmJiLTZLX25mT0xOSHZjeDdKaEdaV0R2c0Y2dWFHUVk2S0dzbzdVRjRYMGZWT0U3bUFuSkRmSDFTaTV3NDcxTnhlMHVQT2RPWUwwclR0MDFPYkxHUUxfTGxVMjBiYXcwMVpKOHdpZVU?oc=5"
     },
     {
       "headline": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
@@ -60,126 +110,76 @@
       "summary": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5"
-    },
-    {
-      "headline": "Mark Zuckerberg Claims One AI Worker Now Replaces Dozens as 8,000 Layoffs Loom - International Business Times UK",
-      "source": "International Business Times UK",
-      "timestamp": "2026-05-10T12:47:26.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Mark Zuckerberg Claims One AI Worker Now Replaces Dozens as 8,000 Layoffs Loom &nbsp;&nbsp; International Business Times UK",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1NjUW9LbXFkUC1IZ01jaEJ4ZzlESVJqTl9vMlA3NjIyRXFsQkpsdnk4NFNqS1Z2TEtWOUh1b0dJQjhtYzJkNUJoeUlnbVR1aHhkU3hNei1hbDBseDZJUGthVkZYRklsYXFCVmlsRF9ZQVd3OGdmTHVDZURYTXp4UURn?oc=5"
-    },
-    {
-      "headline": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-05-09T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJ2RGhFNzZENUhoNG5fVUxteXRTMHlZRzM1czJRQ09DQU4yd2xrUG5GX3dCbzFDcV9tMWs2eTF6ZHlzQlhvTlhuTFlnTDZVLXdnTGFtNWRtdkoxVURHbzZ5dVNLTlFHaE1VUzg5QzlDQV9IUWxzQkdHU3UwaDlKVThDdEtuMHY4Z1NfQQ?oc=5"
-    },
-    {
-      "headline": "Running Codex safely at OpenAI - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-05-08T19:39:17.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Running Codex safely at OpenAI &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kczJ5ZkJycGgxS2NZVDhvMTAzd2M2MlVWOTdLSUhJUkhZMHhYVEluQVlRbE9VMFU5dlBoM25kaGRPcFFYbFltb3QyMTM4NGxzU19DWDlST1ZOdw?oc=5"
-    },
-    {
-      "headline": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-08T18:57:59.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTF2ejV5TXZna2hpX0hSTHBsYTFQSU5Fd3l3dnZKT2g5OFplc0lNTWZ2aVlKY1puckM2QU9kTjhQVlRSejFVRmRJN2hEU1BtMW5wOU54WkZVcXVqaWhnbjhyQTY3bUlpeThlU2VZWE5vTGhTQXMtNWVLVkxNbjZiYnl1NzVrR3R6S3Azb2lzUU5ILW51Z0RjUjFXYXhEMUZ6SDFJVEdZSXJ0c19UcWFwYjg4M2U?oc=5"
-    },
-    {
-      "headline": "Teaching Claude why - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-05-08T18:09:32.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Teaching Claude why &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-05-11T10:53:25.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5",
-        "summary": "EU Commission in talks with OpenAI and Anthropic over AI models &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation - Microsoft",
-        "source": "Microsoft",
-        "timestamp": "2026-05-11T09:08:15.000Z",
+        "headline": "Anthropic Thinks Their Chatbot Chooses Evil Because That Is How AIs Are Portrayed In Science Fiction - IFLScience",
+        "source": "IFLScience",
+        "timestamp": "2026-05-11T15:33:42.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGNkclNGU0Zqc0RibE43MENnbjZaU29JX3JGSC1jSWdPMW9qLU9jVmhMa3ZQWkxueDlhRmduR1JTNHltaVd1WDZKSl9yd3NsQjZKWU83TUg1SlN2cnNVbDJuMlpyZEtncGJyLWZncEFVWFRsSnBwcjdKaTVnV3NtUXhVRHhDZ2I5TzlkN2dtbGlRcmpZYV85OENuLXhIejA1ODcxTThqVlk2ZHB5TzBpMXM1SWFyd0JkZk40RlZ2Y243MEww?oc=5",
-        "summary": "Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation &nbsp;&nbsp; Microsoft"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUU5qYk95Uk5yakU2NllZbXZ2T0pzeGVUaXN5LVZsMDJZemtyaE5SaE12ZDR5QTFXd0dXdk1NNEtmazZZODctS2NQTE1CZ0xMbXYzaVdjRlRtM2Y3eG5id2ZFcnVXdXNaLXhWalVPLTByckpLMC11MFZ2YndSMEZ6bVgyNHNJS1M1SThick9TUC1tLUxyR0Vqc2pURjMxSFBYSWl0aWIwTzlQZjJLblFkYmc1ZEYtaVFrbVc2dDlkZ29pYWJscEJLVTk0OTh6dw?oc=5",
+        "summary": "Anthropic Thinks Their Chatbot Chooses Evil Because That Is How AIs Are Portrayed In Science Fiction &nbsp;&nbsp; IFLScience"
       },
       {
-        "headline": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-11T01:00:00.000Z",
+        "headline": "'It's here': Google issues dire warning after catching hackers using AI to break into computers - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-05-11T14:50:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmtISkwyV2xmaVNhRmh4amc4c1lySnlKUUU2WEdpNzRiUV9RN1ZvcEJSX29QZE53cTM2UTNVN0hEbGxNXzlURWhNTGxIQnE0Smlsckp2S3FMUERTV2k2LTFaUTVaMDduQVlDbzlkYVFpbEd1OXA1UEsxNzY0Sm1vYjRUTjZRd2dMLV9Bb0tadzZUX1AydXg1bmZlTTQ?oc=5",
+        "summary": "'It's here': Google issues dire warning after catching hackers using AI to break into computers &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-05-11T13:59:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzBVZGx1c2JvQTRJeWZ2d1FPQU1GTnhSaEZONVV0YmpaRnI4WE50Q25udWxlNC1LbVR0ZkJnTzJYM0dRekdNZWVVempHSEZJT1ZTS1Q3bDI0NHJRdW5lOURaUmNPX0UtQVNnUXNyQUhXQnhvd1lYT1JZdXl5dWtiNk9CblcxV1FHQmdoSGpiekJjX3kwSlZSeHVOcE93ZHY1VU92bldWRTZqb2NKck1yUlRqWjkzRk0?oc=5",
+        "summary": "OpenAI creates new unit with $4 billion investment to aid corporate AI push &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "OpenAI launches AI consulting arm valued at $14 billion - Axios",
+        "source": "Axios",
+        "timestamp": "2026-05-11T13:39:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51QUtsM0czTWtzWXBfMEw2amtqdEhOUFlDNUh4UXRtYmM2VUZRQ0NiQXVMclBnSE9tM0t5SWwwTVBRZUx4WWVkNGJFVDdncVZwRURnOVlyYmFKZkZYYVBGZnE3bE9VRnAyVzQyVzFzbjU?oc=5",
+        "summary": "OpenAI launches AI consulting arm valued at $14 billion &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-05-11T13:04:49.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5",
+        "summary": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "OpenAI to Buy Consulting Firm for JV With Private Equity - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-05-11T13:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbTZ0WUl0RzZFRi1KYVhxeHdfY2ZJdUJzQTEyeDFCUnFkSjZ5cXREUkNjZVo2blJ0dUczMjRGVy1yeWd4MzF5blJjdHVlVWZFUU9RTFZ6QlVqVENpYmVGTi1jSXdGZ05CaVFxcVdB?oc=5",
-        "summary": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Meta outlines the features of its AI glasses range - Social Media Today",
-        "source": "Social Media Today",
-        "timestamp": "2026-05-11T00:14:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjREdHNMMWdMdWY2dEppVG5YN3R3Y3FiZnhpX0JpQU02clNLMzlpSjh0U3cyS3JGT2ZPdnUwV1M5ZmQ1TU56Nml6Vjh6dF9OZjFrWWdyclFHdTFBMERqNWNOdV85LU1VVDNOS3U2bG1BbEh6cXdsa0dkb3MxNTFkWmloQzNXd1dTeUpNSDRsN0tCbFM0SHlVN3V6X0c?oc=5",
-        "summary": "Meta outlines the features of its AI glasses range &nbsp;&nbsp; Social Media Today"
-      },
-      {
-        "headline": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-05-10T20:40:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5",
-        "summary": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Mark Zuckerberg Claims One AI Worker Now Replaces Dozens as 8,000 Layoffs Loom - International Business Times UK",
-        "source": "International Business Times UK",
-        "timestamp": "2026-05-10T12:47:26.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1NjUW9LbXFkUC1IZ01jaEJ4ZzlESVJqTl9vMlA3NjIyRXFsQkpsdnk4NFNqS1Z2TEtWOUh1b0dJQjhtYzJkNUJoeUlnbVR1aHhkU3hNei1hbDBseDZJUGthVkZYRklsYXFCVmlsRF9ZQVd3OGdmTHVDZURYTXp4UURn?oc=5",
-        "summary": "Mark Zuckerberg Claims One AI Worker Now Replaces Dozens as 8,000 Layoffs Loom &nbsp;&nbsp; International Business Times UK"
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakRtc0pVREczSm5pcUZScjJrNU5pQUFETGVUUEtqdTJSSjlmeDVKQWJwR25ZTnAyV1MtZmtwQTRVcGJIZ1ZucFZwRGhMbW5TeU5yVjJrNXZUYmlzTE9LR1FKQjdxOTBLMjhDSkh1R1I4blcxWkF6NVNiWE9yX2ozREZtX3dFczlLTTFybGZUVDNkUi1ZRlhES1dRaTVyUUFDajZuem5yOGg4TldZUTRBLTJoSQ?oc=5",
+        "summary": "OpenAI to Buy Consulting Firm for JV With Private Equity &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
