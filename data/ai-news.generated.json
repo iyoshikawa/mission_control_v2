@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-11T04:15:25.651Z",
+    "generatedAt": "2026-05-11T08:26:38.924Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-11T01:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbTZ0WUl0RzZFRi1KYVhxeHdfY2ZJdUJzQTEyeDFCUnFkSjZ5cXREUkNjZVo2blJ0dUczMjRGVy1yeWd4MzF5blJjdHVlVWZFUU9RTFZ6QlVqVENpYmVGTi1jSXdGZ05CaVFxcVdB?oc=5"
+    },
     {
       "headline": "Meta outlines the features of its AI glasses range - Social Media Today",
       "source": "Social Media Today",
@@ -52,24 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTRXVXNXRlJLeUtYOHFtbmpncGZLYWRldXd4Zk40N0R2Rk55MENxckN3Q2NFMG1tcXFhVXQ0c1U1SEkxRkJwbV93b1p1d0Y4cUsxWUNERG4ydHNYVnJCZUg0YVk3YTBSTmNrMEpyamNRajc5MlBXN3lLQkdnSkczb091U2pBSkU0Sm15bnlUUEw1VTRqaGlldjRtWlZncEo0eVdrNjBB?oc=5"
     },
     {
-      "headline": "Intel’s Apple-Polished Comeback - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-10T12:03:00.000Z",
+      "headline": "Anthropic explains why Claude blackmailed a fictional exec when threatened with deactivation - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-09T11:47:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Intel’s Apple-Polished Comeback &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PeUVaVmJHVG1OMVlyV3VERHo0UTZHeUE4MlRnemZLNHBMWm93emhzaFJqUC0xNmVlWHA2cUNWWXVKTFlRSWlxb29XbjNpaWRJdUZIWGdKZTdjTjlYNjZjZ2gzY19fTnhBOWgzZy1SSE9xVWVBaHc?oc=5"
-    },
-    {
-      "headline": "How Apple AirPods with camera may differ from Meta AI glasses, details here - India Today",
-      "source": "India Today",
-      "timestamp": "2026-05-09T12:11:39.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How Apple AirPods with camera may differ from Meta AI glasses, details here &nbsp;&nbsp; India Today",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVkJXRXY4QllJYjdoenh3cVVKV3V4T2tKTzh5alBHX01zSmNTSC1vY2pKdlQ4aV9iWUs1UGpPUHlYbVJ2WXEwZW1aUjhEQ2cwSjhneS1XbE5qTDRoQlRBRjR1aFBVQlpLUE1fVWZvTGtxUDV3S2VDNlpVeDVybkpoVDAwTTBiVWFHNlhkLXZvZlpULVN0M2RHaDg2M1NRdU84cDdmQzBLTEdWRWdJYVN1TGQyR3BNZXFabWpwNnY1dlRXSlVNaVRwOHdaOFdKUl9talY4QTl0d0_SAd4BQVVfeXFMTkhKRERiXzZOcFJKQk40VGFxa3NtYV9PVkY1SFVHYzhwLWJpYkNGV2s0SEVQNFY2eFBzMHJJdHdNYUlIcFg3VmZkOHFCS1VaNFE4RmVNOUNqdEpQMWhrY1RhbVF2YnJLSDNtNS1QMV9SaHl4RGh5VTRaOXpQRzZRaWozY1ZFQVJjam1KbURmSGNQOHVfOHR6Yzg0NGVLSXA3aWdEYXd4Y1l1QUhkQy1ubU1FR2pwQl9Uc3JzZWNGclN2ZXJ3VFpxcDR4dkNfZS1DdEVlQW5qWG0wTFBwcWlR?oc=5"
+      "category": "regulation",
+      "summary": "Anthropic explains why Claude blackmailed a fictional exec when threatened with deactivation &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGFjVnlsNW5zRnRWbmZuTFZnVm5zaHR0LXhqVFpObk81Rk9xdTN2cXQwREhQMXJmd2xYSVRtSFp0d3pZU2o1eWhobUs4MTJVVVVuS3JVS1dHUVpGQmdjNW44YUtSQlF5NU9zbkRpQV9lMHBnMnZUZU1taWdrc0hDa29NeVJYSHVfZUppMEc2R3Uteng2MG55OUFaRnlnUEp4MTlEUDJVZw?oc=5"
     },
     {
       "headline": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices - Fortune",
@@ -82,38 +82,47 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDJWRVdyVUhGSWc0VjRSOWJqUTVuamhQRXBUZUpvNEFuNnhfWVFzem5LcHJ0bUNybVl1NWdhUzFHZFhERWo1emJvbGRxbHZvNjJvMENnNzBuRXg5ZlpLTFBLcHpFVnpYME1iMGdMZi1nNFgxLXdRbkhsTGdaMVJQbXZTQ28zNVpLV2tVRjJYbkRvTW5ybUlKSlcxSHM1QQ?oc=5"
     },
     {
-      "headline": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-09T01:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3lXSFNZa0gyZkx2UTlhZU5LdkFmNVFmRUhyT1dfdUxLTUZrMzFYdXhWZDNfYUtRMkdSVDcwT0NRRDhwWFVfQ1k0TEs0Q1E2ZzZ4U2RMcU1kTGk4eXBERWg4V0swc0R1YVB3ZHQ4bUdQcTRvZ2kzZVRNYjBGYnI1M0lIblpTQQ?oc=5"
-    },
-    {
-      "headline": "Running Codex safely at OpenAI - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-05-08T19:39:17.000Z",
+      "headline": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman - MIT Technology Review",
+      "source": "MIT Technology Review",
+      "timestamp": "2026-05-08T23:59:19.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Running Codex safely at OpenAI &nbsp;&nbsp; OpenAI",
+      "summary": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman &nbsp;&nbsp; MIT Technology Review",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kczJ5ZkJycGgxS2NZVDhvMTAzd2M2MlVWOTdLSUhJUkhZMHhYVEluQVlRbE9VMFU5dlBoM25kaGRPcFFYbFltb3QyMTM4NGxzU19DWDlST1ZOdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRHJUVF9pN29WTk03RElMVGtVSTdHV3pQTXE1SS1WeFJMS2c2SUtHbElieGdBeEZLRmtnMzZUdV9waXlJZ2dQMnZKSU9RWjdrSEltYTM0V0Z6TnVqMWZSbzkwWEh1cnhTRkE1a0VTeG5aRlFpRmJTb3lXV3UtX29vM3EwMnlTUF83SlNkTS1YNmliei1teVo1d0pSazBWekhWZGtQYVN4RDNkVHkyLTVISkY1SG12WVBrV2NrMU55WlNrWXJSalVIeUUtVk92MW1pb2EtUWxPMm41MmZwemhJZXQyTlhVbmPSAewBQVVfeXFMT3c5cF9yMXRGd2tIZUtQcEdBOGo0bWIwVXNWcnhXSV9BVWdOYUx6WllDcXhRQ1NrRlZHd1JFRm1sQXQ2SldEdzVnTXM1MmxISDRrMVV3VmdyRkRFUjItT0VSbXBKSmhPX1J2aC1vSVpxS2F1bXpXMU5JNkw4RTlUQjEwMmJITUpiTXI2OHZEdVBWMFhTWVBqdHE3OWx6cmp4YjM4YkQ0allDajB0MHNZbXF2TEFIVWZKOHgwelZLdnpiQTA4TXQ4ZG9xZjA4Uk1XRFBBUW9mUGlFZWlBbGw0bVlmTkhUOTJKOEs2dHQ?oc=5"
     },
     {
-      "headline": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding - Bloomberg",
+      "source": "Bloomberg",
       "timestamp": "2026-05-08T18:57:59.000Z",
       "impact": "HIGH",
       "category": "market",
-      "summary": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding &nbsp;&nbsp; Bloomberg",
       "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTF2ejV5TXZna2hpX0hSTHBsYTFQSU5Fd3l3dnZKT2g5OFplc0lNTWZ2aVlKY1puckM2QU9kTjhQVlRSejFVRmRJN2hEU1BtMW5wOU54WkZVcXVqaWhnbjhyQTY3bUlpeThlU2VZWE5vTGhTQXMtNWVLVkxNbjZiYnl1NzVrR3R6S3Azb2lzUU5ILW51Z0RjUjFXYXhEMUZ6SDFJVEdZSXJ0c19UcWFwYjg4M2U?oc=5"
+    },
+    {
+      "headline": "Claude, brought to you by Elon Musk - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-08T18:55:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude, brought to you by Elon Musk &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTVI2SjI3bGFSUGRSSXpDd1pxd21sOV9ZS3VoLW9majg1anh1QlhmQkRJNUZYWHI0ckt3b0lWaWRGcXlURUV6a2xvSWx0c0xlUExGVG9iSzJaTDJGN1N1LW5DVVZoLXVOTnRiU3hiem5VdGhFQ29oeVRHd0cwQ0JpbmpR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-11T01:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbTZ0WUl0RzZFRi1KYVhxeHdfY2ZJdUJzQTEyeDFCUnFkSjZ5cXREUkNjZVo2blJ0dUczMjRGVy1yeWd4MzF5blJjdHVlVWZFUU9RTFZ6QlVqVENpYmVGTi1jSXdGZ05CaVFxcVdB?oc=5",
+        "summary": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom &nbsp;&nbsp; WSJ"
+      },
       {
         "headline": "Meta outlines the features of its AI glasses range - Social Media Today",
         "source": "Social Media Today",
@@ -151,22 +160,13 @@
         "summary": "Students receive $10,000 prizes from OpenAI for innovative use of artificial intelligence &nbsp;&nbsp; Fast Company"
       },
       {
-        "headline": "Intel’s Apple-Polished Comeback - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-10T12:03:00.000Z",
+        "headline": "Anthropic explains why Claude blackmailed a fictional exec when threatened with deactivation - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-09T11:47:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PeUVaVmJHVG1OMVlyV3VERHo0UTZHeUE4MlRnemZLNHBMWm93emhzaFJqUC0xNmVlWHA2cUNWWXVKTFlRSWlxb29XbjNpaWRJdUZIWGdKZTdjTjlYNjZjZ2gzY19fTnhBOWgzZy1SSE9xVWVBaHc?oc=5",
-        "summary": "Intel’s Apple-Polished Comeback &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "How Apple AirPods with camera may differ from Meta AI glasses, details here - India Today",
-        "source": "India Today",
-        "timestamp": "2026-05-09T12:11:39.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVkJXRXY4QllJYjdoenh3cVVKV3V4T2tKTzh5alBHX01zSmNTSC1vY2pKdlQ4aV9iWUs1UGpPUHlYbVJ2WXEwZW1aUjhEQ2cwSjhneS1XbE5qTDRoQlRBRjR1aFBVQlpLUE1fVWZvTGtxUDV3S2VDNlpVeDVybkpoVDAwTTBiVWFHNlhkLXZvZlpULVN0M2RHaDg2M1NRdU84cDdmQzBLTEdWRWdJYVN1TGQyR3BNZXFabWpwNnY1dlRXSlVNaVRwOHdaOFdKUl9talY4QTl0d0_SAd4BQVVfeXFMTkhKRERiXzZOcFJKQk40VGFxa3NtYV9PVkY1SFVHYzhwLWJpYkNGV2s0SEVQNFY2eFBzMHJJdHdNYUlIcFg3VmZkOHFCS1VaNFE4RmVNOUNqdEpQMWhrY1RhbVF2YnJLSDNtNS1QMV9SaHl4RGh5VTRaOXpQRzZRaWozY1ZFQVJjam1KbURmSGNQOHVfOHR6Yzg0NGVLSXA3aWdEYXd4Y1l1QUhkQy1ubU1FR2pwQl9Uc3JzZWNGclN2ZXJ3VFpxcDR4dkNfZS1DdEVlQW5qWG0wTFBwcWlR?oc=5",
-        "summary": "How Apple AirPods with camera may differ from Meta AI glasses, details here &nbsp;&nbsp; India Today"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGFjVnlsNW5zRnRWbmZuTFZnVm5zaHR0LXhqVFpObk81Rk9xdTN2cXQwREhQMXJmd2xYSVRtSFp0d3pZU2o1eWhobUs4MTJVVVVuS3JVS1dHUVpGQmdjNW44YUtSQlF5NU9zbkRpQV9lMHBnMnZUZU1taWdrc0hDa29NeVJYSHVfZUppMEc2R3Uteng2MG55OUFaRnlnUEp4MTlEUDJVZw?oc=5",
+        "summary": "Anthropic explains why Claude blackmailed a fictional exec when threatened with deactivation &nbsp;&nbsp; Business Insider"
       }
     ],
     "whyItMatters": [
