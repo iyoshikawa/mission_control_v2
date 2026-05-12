@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-12T04:38:51.025Z",
+    "generatedAt": "2026-05-12T07:45:41.335Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-12T03:20:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpEYXVxcEo1OG10TGhWcjhjV1U5cE00TUcya2hROGdKREdaNWQ2MVN5c2VYT2ZOd21xWXFFeHVqTGtLeWlURjBWTFl3NnlaaUE5VWRIbWxicnp4Rlo4LXo0RmNWQ2FoU2h1WklnMHFtWDJnRllEOVNvTmNJazFnZjdlcjd1Nl90YkY0QlkwNmYtTVhZRENKMFBmVTRHMFlSVGcxRl9UUjloZw?oc=5"
+      "headline": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation - The Hacker News",
+      "source": "The Hacker News",
+      "timestamp": "2026-05-12T06:55:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation &nbsp;&nbsp; The Hacker News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalhKa28zNGFmVW0tVVRPTjlGVFJfbmJoMFZ1VVpIWHljTWR1S1lHbzVnSEstNklfRUE2dTBkXy1kRTU5cmN5MkFLN0NTakZvSWVaR28yV00zcjQ0dG4yYWM0dENVOG9hSlVzckVwaW5JeXFvU2U4ZkZKdjI5aTg1VUhhN0I?oc=5"
     },
     {
-      "headline": "Anthropic Just Delivered Great News for Alphabet Investors - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-05-12T02:20:00.000Z",
+      "headline": "Exclusive: White Circle raises $11 million to stop AI models from going rogue in the workplace - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-05-12T06:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive: White Circle raises $11 million to stop AI models from going rogue in the workplace &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTZGdkpuY2RTRG9QNlk4ekVvWmRHa2tCbXZkWWdUY3hsYk5sYWY1NHI1UDNLMGRHRGJpTjRIWXRLSkZWVmR3V2o2RVVDX1pDZzkwRGdKMWpwNlVSNG80bktZYjRmQ19mRkVTSXRlZGxlbGlrMmx0SkJ0S0ExZElKMDh0SkQ4UnY1VEJMckthSGREOGlsV09oajVRaGlidXJJalVySmZQSzJoY3pTeGZVZ21CWmVlNTdWNnV6T2lQLWRFZw?oc=5"
+    },
+    {
+      "headline": "Meta’s AI crisis deepens: Inside the fight against Mark Zuckerberg - thestreet.com",
+      "source": "thestreet.com",
+      "timestamp": "2026-05-12T02:07:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Just Delivered Great News for Alphabet Investors &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0poYVdPMmVRZzVNUDU2ZzVabUlwU2xyMy0za3hnaFk5YWZTMzVhTGRYSXRnUS1fZ3FWRkhqVVpkdlZERDdvZVNxcElYMnkzMUd1YzdqT3JVeFlEa0VQMFdydE5RdklxU0ZSUF9ZQ09DazV1Z2VXdFRRZmMyRlNmOUhuUHBNNkZhaFFVUmxiVDJ5NGhNNC1uYVl3SENMZGUwWTBFaXdGOA?oc=5"
+      "summary": "Meta’s AI crisis deepens: Inside the fight against Mark Zuckerberg &nbsp;&nbsp; thestreet.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTlTNDJ6MWNaVlJYRURvS2JvcGxqc0ROYjZTUi05ZGNpVDkzX091czlYcnVOMzhzZmZJM2JfS0dyRGw5ZzREZTVEYXpxa3dkdEpxTVRXSWhFN3dSRzZLQ2ltTWcxRzRUblJ1M2tDdDhkY19WTlVZRTlzbnEza3g5ZHd1c2xkcExkMUpsWXhPYzF3cnlVVENkdXI2bXZaUXpOaXo0?oc=5"
     },
     {
       "headline": "Microsoft Azure Local: Why Enterprises Need Sovereign AI - Cyber Magazine",
@@ -52,49 +62,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5"
     },
     {
-      "headline": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift - Microsoft Azure",
-      "source": "Microsoft Azure",
-      "timestamp": "2026-05-11T19:00:00.000Z",
+      "headline": "Anthropic’s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator - The Register",
+      "source": "The Register",
+      "timestamp": "2026-05-11T16:30:53.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift &nbsp;&nbsp; Microsoft Azure",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEpqdWM0UEhDbEg0VDQ3VmJ6alVxTE1wVzJZejlzMWp6bUF1VXc4YXB5NTJHWVNEbmlYT0h3WFA0cEZWcW9PTjhLYTZRU1p5RkJOVlpIN1JyQnlEajE2cEp1TFNmQnNUS3IyOVlEOUR3SWJhR0RVbmhFT3lUNVFuWVlNcmlhRjhWNUlTZkZ1M3Y5YjJ1c3lNWmcwam4tcFVUYVdaUEdxMF9fMFJxQXdxOU04a09vTmg4SmQ1Um9JdUhFYWJQ?oc=5"
-    },
-    {
-      "headline": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account - Amazon Web Services (AWS)",
-      "source": "Amazon Web Services (AWS)",
-      "timestamp": "2026-05-11T18:43:03.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmZxSGR3dWhwMkRBNVgwSl91ZFVRLVptdTVhUERmcmF3dVROU21WT2hTeGExWldvNDBpN2RaNDY5MmxEa1llWGozcGRsZmNOeFJVLUFhVXoyYTlKMFhmWjc1dmRIckEyZVk4aTlGUk1jNGpuc2ZrMkhMN2xYRDM1dzBfWXN1SmtsRjRxaXJmYWtsMFJCb01UcEJkOWs2NEZGdWVhUjhmaktkLURIS0pnRzRham9JTldWNUREVmRLRERVNG1CLU5pSlBHbks2QQ?oc=5"
-    },
-    {
-      "headline": "Inside the Elon Musk-OpenAI Trial Courtroom - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-11T18:22:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Inside the Elon Musk-OpenAI Trial Courtroom &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFl4cjNmMkhmMFhGdkJWeHQzUWQ3dkZ1NDZVSnF3azV1MmgwaFJONUdBdnBURC11ZFFGUmV1RVFUVjZvSGFmLVMyMS1YWW1Qb25uWWs5cHNuSmRFMThodC0yN0dzdXdJd3JROHVZbUkyUUJxNXNvOEljSnRfSlU2MlFNTU9hSndObExvLUNuaDNSUQ?oc=5"
-    },
-    {
-      "headline": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-11T17:31:37.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5"
+      "category": "market",
+      "summary": "Anthropic’s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator &nbsp;&nbsp; The Register",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN191aGdZOFlWWm1XTXk4LXdIWGdYOUJVb21CenQtVWhtTUdicnBYREI2ZndBZ0JaNWhqT19JazlmY3g2a0xkVHk3QnN3cHhxZU1LUGVpOWZtSnhXeXFnQnFWVDgtWTlTaXliZlVWVF9qWlBxRWZqUWRPcmVpRkgyRlY4M0RfLVJQb1duUEtUQ1ZLNnhYWjRaM05oTTlVV2kxTXk0WjVHMmFWcnM0Z0FTOFRVS0R6ZFBoR3dZNWdUMGRISnFrRE1GclhaYTVXeUtEY2Fn?oc=5"
     },
     {
       "headline": "The Market Is Pricing Meta Like It's the AI Loser. Big Mistake. - UncoverAlpha",
       "source": "UncoverAlpha",
-      "timestamp": "2026-05-11T14:19:08.000Z",
+      "timestamp": "2026-05-11T14:14:50.000Z",
       "impact": "LOW",
       "category": "market",
       "summary": "The Market Is Pricing Meta Like It's the AI Loser. Big Mistake. &nbsp;&nbsp; UncoverAlpha",
@@ -110,27 +90,56 @@
       "summary": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95QnZPQkxzLW9WdHJLbUplMUo3dHgyY0JSNmJfdkRzdXlaU2ZUdGw2VEFyM3NXQ1VNYTBqR3Jnem5DQk9MV3NQZm5MM3NtbVo3d19xNlhsWnNkMFFaTGhkZDVrZmJOZTVObzBKOGZQbmd4Zw?oc=5"
+    },
+    {
+      "headline": "Google DeepMind’s powerful AI co-mathematician - The Rundown AI",
+      "source": "The Rundown AI",
+      "timestamp": "2026-05-11T10:07:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind’s powerful AI co-mathematician &nbsp;&nbsp; The Rundown AI",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uTWFfT0hVRnhmeWRNTDBXME5zaTd5NFJ3OGQtejBkTm1oSUx0WTJTUS1IZ2owYy1mcW5jOUR1M1VwNUwzdV9xck83ZTQ4SmlUeHJoNWFuc1JENld5RTVIUFQxU0xtbVhaNnRuQjBPc0ViWTFqSUFwNXZLUDk?oc=5"
+    },
+    {
+      "headline": "Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-05-11T09:08:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGNkclNGU0Zqc0RibE43MENnbjZaU29JX3JGSC1jSWdPMW9qLU9jVmhMa3ZQWkxueDlhRmduR1JTNHltaVd1WDZKSl9yd3NsQjZKWU83TUg1SlN2cnNVbDJuMlpyZEtncGJyLWZncEFVWFRsSnBwcjdKaTVnV3NtUXhVRHhDZ2I5TzlkN2dtbGlRcmpZYV85OENuLXhIejA1ODcxTThqVlk2ZHB5TzBpMXM1SWFyd0JkZk40RlZ2Y243MEww?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-12T03:20:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpEYXVxcEo1OG10TGhWcjhjV1U5cE00TUcya2hROGdKREdaNWQ2MVN5c2VYT2ZOd21xWXFFeHVqTGtLeWlURjBWTFl3NnlaaUE5VWRIbWxicnp4Rlo4LXo0RmNWQ2FoU2h1WklnMHFtWDJnRllEOVNvTmNJazFnZjdlcjd1Nl90YkY0QlkwNmYtTVhZRENKMFBmVTRHMFlSVGcxRl9UUjloZw?oc=5",
-        "summary": "Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO &nbsp;&nbsp; WSJ"
+        "headline": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation - The Hacker News",
+        "source": "The Hacker News",
+        "timestamp": "2026-05-12T06:55:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalhKa28zNGFmVW0tVVRPTjlGVFJfbmJoMFZ1VVpIWHljTWR1S1lHbzVnSEstNklfRUE2dTBkXy1kRTU5cmN5MkFLN0NTakZvSWVaR28yV00zcjQ0dG4yYWM0dENVOG9hSlVzckVwaW5JeXFvU2U4ZkZKdjI5aTg1VUhhN0I?oc=5",
+        "summary": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation &nbsp;&nbsp; The Hacker News"
       },
       {
-        "headline": "Anthropic Just Delivered Great News for Alphabet Investors - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-05-12T02:20:00.000Z",
+        "headline": "Exclusive: White Circle raises $11 million to stop AI models from going rogue in the workplace - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-05-12T06:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTZGdkpuY2RTRG9QNlk4ekVvWmRHa2tCbXZkWWdUY3hsYk5sYWY1NHI1UDNLMGRHRGJpTjRIWXRLSkZWVmR3V2o2RVVDX1pDZzkwRGdKMWpwNlVSNG80bktZYjRmQ19mRkVTSXRlZGxlbGlrMmx0SkJ0S0ExZElKMDh0SkQ4UnY1VEJMckthSGREOGlsV09oajVRaGlidXJJalVySmZQSzJoY3pTeGZVZ21CWmVlNTdWNnV6T2lQLWRFZw?oc=5",
+        "summary": "Exclusive: White Circle raises $11 million to stop AI models from going rogue in the workplace &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Meta’s AI crisis deepens: Inside the fight against Mark Zuckerberg - thestreet.com",
+        "source": "thestreet.com",
+        "timestamp": "2026-05-12T02:07:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0poYVdPMmVRZzVNUDU2ZzVabUlwU2xyMy0za3hnaFk5YWZTMzVhTGRYSXRnUS1fZ3FWRkhqVVpkdlZERDdvZVNxcElYMnkzMUd1YzdqT3JVeFlEa0VQMFdydE5RdklxU0ZSUF9ZQ09DazV1Z2VXdFRRZmMyRlNmOUhuUHBNNkZhaFFVUmxiVDJ5NGhNNC1uYVl3SENMZGUwWTBFaXdGOA?oc=5",
-        "summary": "Anthropic Just Delivered Great News for Alphabet Investors &nbsp;&nbsp; Yahoo Finance"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTlTNDJ6MWNaVlJYRURvS2JvcGxqc0ROYjZTUi05ZGNpVDkzX091czlYcnVOMzhzZmZJM2JfS0dyRGw5ZzREZTVEYXpxa3dkdEpxTVRXSWhFN3dSRzZLQ2ltTWcxRzRUblJ1M2tDdDhkY19WTlVZRTlzbnEza3g5ZHd1c2xkcExkMUpsWXhPYzF3cnlVVENkdXI2bXZaUXpOaXo0?oc=5",
+        "summary": "Meta’s AI crisis deepens: Inside the fight against Mark Zuckerberg &nbsp;&nbsp; thestreet.com"
       },
       {
         "headline": "Microsoft Azure Local: Why Enterprises Need Sovereign AI - Cyber Magazine",
@@ -151,47 +160,38 @@
         "summary": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift - Microsoft Azure",
-        "source": "Microsoft Azure",
-        "timestamp": "2026-05-11T19:00:00.000Z",
+        "headline": "Anthropic’s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator - The Register",
+        "source": "The Register",
+        "timestamp": "2026-05-11T16:30:53.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEpqdWM0UEhDbEg0VDQ3VmJ6alVxTE1wVzJZejlzMWp6bUF1VXc4YXB5NTJHWVNEbmlYT0h3WFA0cEZWcW9PTjhLYTZRU1p5RkJOVlpIN1JyQnlEajE2cEp1TFNmQnNUS3IyOVlEOUR3SWJhR0RVbmhFT3lUNVFuWVlNcmlhRjhWNUlTZkZ1M3Y5YjJ1c3lNWmcwam4tcFVUYVdaUEdxMF9fMFJxQXdxOU04a09vTmg4SmQ1Um9JdUhFYWJQ?oc=5",
-        "summary": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift &nbsp;&nbsp; Microsoft Azure"
-      },
-      {
-        "headline": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account - Amazon Web Services (AWS)",
-        "source": "Amazon Web Services (AWS)",
-        "timestamp": "2026-05-11T18:43:03.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmZxSGR3dWhwMkRBNVgwSl91ZFVRLVptdTVhUERmcmF3dVROU21WT2hTeGExWldvNDBpN2RaNDY5MmxEa1llWGozcGRsZmNOeFJVLUFhVXoyYTlKMFhmWjc1dmRIckEyZVk4aTlGUk1jNGpuc2ZrMkhMN2xYRDM1dzBfWXN1SmtsRjRxaXJmYWtsMFJCb01UcEJkOWs2NEZGdWVhUjhmaktkLURIS0pnRzRham9JTldWNUREVmRLRERVNG1CLU5pSlBHbks2QQ?oc=5",
-        "summary": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account &nbsp;&nbsp; Amazon Web Services (AWS)"
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN191aGdZOFlWWm1XTXk4LXdIWGdYOUJVb21CenQtVWhtTUdicnBYREI2ZndBZ0JaNWhqT19JazlmY3g2a0xkVHk3QnN3cHhxZU1LUGVpOWZtSnhXeXFnQnFWVDgtWTlTaXliZlVWVF9qWlBxRWZqUWRPcmVpRkgyRlY4M0RfLVJQb1duUEtUQ1ZLNnhYWjRaM05oTTlVV2kxTXk0WjVHMmFWcnM0Z0FTOFRVS0R6ZFBoR3dZNWdUMGRISnFrRE1GclhaYTVXeUtEY2Fn?oc=5",
+        "summary": "Anthropic’s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator &nbsp;&nbsp; The Register"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
