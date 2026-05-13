@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-13T20:51:18.156Z",
+    "generatedAt": "2026-05-13T22:17:16.634Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "TPG Says New OpenAI Venture a Traditional Move for the PE Firm - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-13T19:56:47.000Z",
+      "headline": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-13T21:55:00.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5"
+    },
+    {
+      "headline": "Google Breaks AI Out of the Chat Window - PYMNTS.com",
+      "source": "PYMNTS.com",
+      "timestamp": "2026-05-13T20:16:03.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "TPG Says New OpenAI Venture a Traditional Move for the PE Firm &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2hjOVJMcDVzVFdqZkUzOFI1WDI3RFRWTE9lNkRHT3pqaWZTR01NN2J6X3Ffb2dKVFFObTVUMGQ4RklMSXY0QzFZNDFLb2l0WXJpenlLamhtOVlHQWdhdmlVZWNsUzl2LVk5eEIxaVZaM1dMMnkteW55LTVBM0VoX1NwQjBlY1cxWHFaT3pPMGEwRnFmbkYtbE9wTkpHcFViOTVSUHNsZVRhN0tPQ09iUmE4NA?oc=5"
+      "summary": "Google Breaks AI Out of the Chat Window &nbsp;&nbsp; PYMNTS.com",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEhCaGZLWFU3VjlLYzFqbUwtTlJMaEdxUGs4bkRCOC1fRmFLYUlPU2JiVnBCU25SYmUwcGJxTndkYTNoMG9Ycmx6ODdhblFTNVVMV0U5Vkk0SW5UWlIxYTBiNzVnMnZzdFZuYXBvRTk2ZDlaODY0ekZMMF95MXBCQUNzU3BYdm9yN2FLNmNZVUg3Y045b0M4Ul9n?oc=5"
     },
     {
       "headline": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch - The New York Times",
@@ -35,21 +45,11 @@
       "headline": "Introducing Claude for Small Business - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-05-13T16:03:54.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic Anthropic courts a new kind of customer: small business owners &nbsp;&nbsp; TechCrunch Anthropic’s latest Claude release turns your Mac into a small business powerhouse &nbsp;&nbsp; 9to5Mac",
+      "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters ‘Maybe me too’: Elon Musk accepts some of the blame for Claude learning to blackmail users from ‘evil’ online AI stories &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5"
-    },
-    {
-      "headline": "Mistral Developing New AI Model for Banks Lacking Mythos Access - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-13T15:37:02.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Mistral Developing New AI Model for Banks Lacking Mythos Access &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1hnWVVWRVdSTWNnSmtXT01FcjYxbjFUcm9ic2dsMzkxNXY3QVBQTlpkbXdPdThvWnNTNU1ndS1iU2ZxcllEYlB4aGI2MDJ0OXNMcWUza3o0TXR1RXlsNXg3M1U3b193bWNNT1BHbDNJT3U2a05OSmhNQVZlOUd5bmdRUTVxRTBPNlMyWllUejJrWEpYazBXRm9kREI4WThpaTdORmlOc0pjZnY1anc1VnM0a04?oc=5"
     },
     {
       "headline": "Introducing a Completely Private Way to Chat With AI - meta.com",
@@ -60,6 +60,16 @@
       "summary": "Introducing a Completely Private Way to Chat With AI &nbsp;&nbsp; meta.com WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private &nbsp;&nbsp; WIRED Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat &nbsp;&nbsp; The Verge",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BakJDVlRuc0ppc2JYcjhDaHpMNFdQc1BUSmlFTE9qZXJQUDdyZGd0ek5OZ0lhWTVCT2dMajFHNXVSM0JEQWFtcUFQLXBTR1Z3cDdkNlBSLS03dUVQZk1yQ0dPeE9HRmtZNDVXVnhpTHNsaUNs0gF6QVVfeXFMTkVpSVJLUG11dThhcHVmSHhxeXhyQlkwYmNkczhycnZtaDBXbEMySHRNTE1XaEtyRXFvbVpGN2w2RHpYUjBNTEllVjBYV2NFZUxMQXZWWE9TTzhUcEJZczdKUGIzWDdXZG9VakRoNWFjR1dycnRwdnlUelE?oc=5"
+    },
+    {
+      "headline": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead' - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-05-13T14:14:20.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead' &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sa0pZVi16UjdGNjFGejNja1lEUzBqR1RJTFRKbFFwdC05dEQ2Z29GUmJnNmhpdzdIaV9rMlRuNzY0MDJoT0VBWmVrLUxiWWUzRW11QkkyNjMyTk1xS3J5TmtOTHJ0SGZ2ZzJCMnIwLWJuMjZUODM0cFVMOEZRcGvSAYQBQVVfeXFMT1hjVFVfYWlIZ3RfWDVxWUF6bU4wb054V1A4Y2prNUV1X1JabDgxVFFwel8zc1BIWWNfUlRXMW5rNzJZbmpOS2trX092WUlIUFNWcmxSZDdQOHNfNXJIUmEyN3c4Q01GNE1uZC1YS2pCZkJ1S1FpRUtCaVZWYXpuMHBuS1VO?oc=5"
     },
     {
       "headline": "4 ways AI is enabling the future of industrial work - Microsoft Source",
@@ -100,28 +110,27 @@
       "summary": "Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOel9zbWJnNjJrd3lPNXdGQnZ3d1o4OG0weW1DNzNuQTF6QnAwZUtBU0FLWVQyLVFoOXNyM1NneFl4cHA0d1c0NVgzR3pUUjZjcHdWalVYVTVzeHozc1NJcTU2TDNaeUM1THo4TS1kQk5tRV9PRVd0MUhzNHIxU1dpZWRMYkpieEoySzRNdVZLei16ZGZKRFY2OGV4UHdhTzFrclJJck82eUZQZnNsaW12TjZRX2JWd004ZGRUbg?oc=5"
-    },
-    {
-      "headline": "How Google Is Moving The Needle On AI, Tony Stark-Style - NDTV",
-      "source": "NDTV",
-      "timestamp": "2026-05-13T05:12:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How Google Is Moving The Needle On AI, Tony Stark-Style &nbsp;&nbsp; NDTV",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRm1SMnY5amNyZDkza1JSNW93OUxUVHVMOVBvRUZJZ2w1a2ZfbXNScGFPSHJpZGNtaUxITnpMMk5naXlwOUJDa1Q2bUhwR3hoWHFoQXJ5N3hxd2Q5c0ZDNm9abWFOMXhSeGZPVzQ4b0YyQVpzYzhvY1FhRTFJR1pad2w1VDA1UkFSS1VLQjQ4dnR2WFlCeTBZNUliQVdjS3FFUWhyMUV3c0o2Tk0wNV9WOHBrM2tzZHBUWWx6c09ieTlPUWJ10gHMAUFVX3lxTE9reTI1OVFIdW9MbVVTN0p1OFBOMHhPOGVCZ05yREY4R2VCZDBuNllXM3Q1N1FHaUdOSkhhU01zeFF2T29VVmVSaHNTc2JOSlFfNnVXaTRsY284SFMweHFQbVp1RU9BSXNPX18yTTZ3Q0tZRmdPa25mVi1zdHIta3JsRHh0VVMzaGpfMExQOFNmYjhUemY3dFZ4QUI3M3g2VjBCUlBzTHRLNDR5bXpKbjNrRDU5bG9Xc0JvN1d1T3JHOE5sbkR3NDQ3TElhcw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "TPG Says New OpenAI Venture a Traditional Move for the PE Firm - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-05-13T19:56:47.000Z",
+        "headline": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-13T21:55:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5",
+        "summary": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Google Breaks AI Out of the Chat Window - PYMNTS.com",
+        "source": "PYMNTS.com",
+        "timestamp": "2026-05-13T20:16:03.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2hjOVJMcDVzVFdqZkUzOFI1WDI3RFRWTE9lNkRHT3pqaWZTR01NN2J6X3Ffb2dKVFFObTVUMGQ4RklMSXY0QzFZNDFLb2l0WXJpenlLamhtOVlHQWdhdmlVZWNsUzl2LVk5eEIxaVZaM1dMMnkteW55LTVBM0VoX1NwQjBlY1cxWHFaT3pPMGEwRnFmbkYtbE9wTkpHcFViOTVSUHNsZVRhN0tPQ09iUmE4NA?oc=5",
-        "summary": "TPG Says New OpenAI Venture a Traditional Move for the PE Firm &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEhCaGZLWFU3VjlLYzFqbUwtTlJMaEdxUGs4bkRCOC1fRmFLYUlPU2JiVnBCU25SYmUwcGJxTndkYTNoMG9Ycmx6ODdhblFTNVVMV0U5Vkk0SW5UWlIxYTBiNzVnMnZzdFZuYXBvRTk2ZDlaODY0ekZMMF95MXBCQUNzU3BYdm9yN2FLNmNZVUg3Y045b0M4Ul9n?oc=5",
+        "summary": "Google Breaks AI Out of the Chat Window &nbsp;&nbsp; PYMNTS.com"
       },
       {
         "headline": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch - The New York Times",
@@ -136,19 +145,10 @@
         "headline": "Introducing Claude for Small Business - Anthropic",
         "source": "Anthropic",
         "timestamp": "2026-05-13T16:03:54.000Z",
-        "impact": "HIGH",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5",
-        "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic Anthropic courts a new kind of customer: small business owners &nbsp;&nbsp; TechCrunch Anthropic’s latest Claude release turns your Mac into a small business powerhouse &nbsp;&nbsp; 9to5Mac"
-      },
-      {
-        "headline": "Mistral Developing New AI Model for Banks Lacking Mythos Access - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-05-13T15:37:02.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1hnWVVWRVdSTWNnSmtXT01FcjYxbjFUcm9ic2dsMzkxNXY3QVBQTlpkbXdPdThvWnNTNU1ndS1iU2ZxcllEYlB4aGI2MDJ0OXNMcWUza3o0TXR1RXlsNXg3M1U3b193bWNNT1BHbDNJT3U2a05OSmhNQVZlOUd5bmdRUTVxRTBPNlMyWllUejJrWEpYazBXRm9kREI4WThpaTdORmlOc0pjZnY1anc1VnM0a04?oc=5",
-        "summary": "Mistral Developing New AI Model for Banks Lacking Mythos Access &nbsp;&nbsp; Bloomberg.com"
+        "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters ‘Maybe me too’: Elon Musk accepts some of the blame for Claude learning to blackmail users from ‘evil’ online AI stories &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "Introducing a Completely Private Way to Chat With AI - meta.com",
@@ -160,19 +160,19 @@
         "summary": "Introducing a Completely Private Way to Chat With AI &nbsp;&nbsp; meta.com WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private &nbsp;&nbsp; WIRED Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat &nbsp;&nbsp; The Verge"
       },
       {
-        "headline": "4 ways AI is enabling the future of industrial work - Microsoft Source",
-        "source": "Microsoft Source",
-        "timestamp": "2026-05-13T14:06:25.000Z",
+        "headline": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead' - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-05-13T14:14:20.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdUUU9WTkpNUWNFYlkxcVBiTEtPbGV6LUhwTm56bnk1NVBHM2hSaEpxejZieXBvYmFUeXFBMm0wZmFaelZ3dUx6N05QYlYzVHhBUzNHNlFsNGVKY2tNYUgwc0ZUaEdqb0tCbVllTm5CSHZDa09LQUZpWjJoS3I0SUlEcDI0TG1uYnMtME90aVU1YW82bEdreUZjR2VrdEk?oc=5",
-        "summary": "4 ways AI is enabling the future of industrial work &nbsp;&nbsp; Microsoft Source"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sa0pZVi16UjdGNjFGejNja1lEUzBqR1RJTFRKbFFwdC05dEQ2Z29GUmJnNmhpdzdIaV9rMlRuNzY0MDJoT0VBWmVrLUxiWWUzRW11QkkyNjMyTk1xS3J5TmtOTHJ0SGZ2ZzJCMnIwLWJuMjZUODM0cFVMOEZRcGvSAYQBQVVfeXFMT1hjVFVfYWlIZ3RfWDVxWUF6bU4wb054V1A4Y2prNUV1X1JabDgxVFFwel8zc1BIWWNfUlRXMW5rNzJZbmpOS2trX092WUlIUFNWcmxSZDdQOHNfNXJIUmEyN3c4Q01GNE1uZC1YS2pCZkJ1S1FpRUtCaVZWYXpuMHBuS1VO?oc=5",
+        "summary": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead' &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
