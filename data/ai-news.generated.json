@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-13T07:52:24.685Z",
+    "generatedAt": "2026-05-13T10:33:42.111Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets - Bloomberg",
-      "source": "Bloomberg",
-      "timestamp": "2026-05-13T06:40:00.000Z",
-      "impact": "HIGH",
+      "headline": "Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-05-13T10:00:00.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets &nbsp;&nbsp; Bloomberg",
+      "summary": "Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnZKT3BCdUlWaTI2VDV2Yk5xSS1YdjJ4VGM0aF9fZ3JwMjRzLUN1U2RVUTAxZjI1T3pENWFzYkpvRlQtZHp4VnZ2clpVWmRXT1hWZmNJRmpqWlJCSUIwdnV0RmRjNXNaRC1Gb2lHS3BZMkJtMVdTaE1SZXllVHNQMnBlSFN6TnAxd1Y4Q0JuT1MwbnJxT1lXM3JCSEhuYlQyR3JpUWRVN0d0UWlGVHljaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOel9zbWJnNjJrd3lPNXdGQnZ3d1o4OG0weW1DNzNuQTF6QnAwZUtBU0FLWVQyLVFoOXNyM1NneFl4cHA0d1c0NVgzR3pUUjZjcHdWalVYVTVzeHozc1NJcTU2TDNaeUM1THo4TS1kQk5tRV9PRVd0MUhzNHIxU1dpZWRMYkpieEoySzRNdVZLei16ZGZKRFY2OGV4UHdhTzFrclJJck82eUZQZnNsaW12TjZRX2JWd004ZGRUbg?oc=5"
+    },
+    {
+      "headline": "Silicon Valley’s A.I. Lobbying Reaches a Fever Pitch - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-13T09:14:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Silicon Valley’s A.I. Lobbying Reaches a Fever Pitch &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnhKQVFoTXViVGpiek5YbHFmbVdWTkNUc21HaEVlbERadUNJd3JPYjRsOXRXbHEwY09yVjdNNnF3aW00WUdXbmNWdU44UTIxMzhVT0NYRV96MUpzaG9yU2VhN1dvVHFVSVRmeDlTNDNUbm90ZlJ6Y09FRmRibDlFY0tYQld5RUpwZDVZaWtPR1Q2UTNj?oc=5"
     },
     {
       "headline": "How Google Is Moving The Needle On AI, Tony Stark-Style - NDTV",
@@ -32,12 +42,32 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRm1SMnY5amNyZDkza1JSNW93OUxUVHVMOVBvRUZJZ2w1a2ZfbXNScGFPSHJpZGNtaUxITnpMMk5naXlwOUJDa1Q2bUhwR3hoWHFoQXJ5N3hxd2Q5c0ZDNm9abWFOMXhSeGZPVzQ4b0YyQVpzYzhvY1FhRTFJR1pad2w1VDA1UkFSS1VLQjQ4dnR2WFlCeTBZNUliQVdjS3FFUWhyMUV3c0o2Tk0wNV9WOHBrM2tzZHBUWWx6c09ieTlPUWJ10gHMAUFVX3lxTE9reTI1OVFIdW9MbVVTN0p1OFBOMHhPOGVCZ05yREY4R2VCZDBuNllXM3Q1N1FHaUdOSkhhU01zeFF2T29VVmVSaHNTc2JOSlFfNnVXaTRsY284SFMweHFQbVp1RU9BSXNPX18yTTZ3Q0tZRmdPa25mVi1zdHIta3JsRHh0VVMzaGpfMExQOFNmYjhUemY3dFZ4QUI3M3g2VjBCUlBzTHRLNDR5bXpKbjNrRDU5bG9Xc0JvN1d1T3JHOE5sbkR3NDQ3TElhcw?oc=5"
     },
     {
+      "headline": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome - 9to5Google",
+      "source": "9to5Google",
+      "timestamp": "2026-05-12T23:12:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome &nbsp;&nbsp; 9to5Google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MWcyRGhhTHpvTkR1VlpzamlLa25QdjZZZ1JhNFQxUlJ3dmJyNFdVR2htZTFZQ2xyN0F4bGxUelNqQlp2SXAtdzJSeUhTUXAwWi1uVHFkQUZZSlhtOWZ4S0ZXRWNOcnJYSngxQkwtcktZOXJxb3RV?oc=5"
+    },
+    {
+      "headline": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-12T20:35:47.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYm5qekpIZ3VjRVQwQ2x6eTRnWmdDZTJOUTVYbkxaQklrRzdFRjYtRjRHU1JLV0Mxb1JLcDlsZFo5Y2E5STF5aFFRMkpseThURm5UUGhTUUZBajU2U3c2dnNXSEVEUXFBRzVxQzlyQUNRd1pUX2ROVmxNekZjUDNWWnhiemYwMmF4emoxa3hoR2Jzd3VNYlhpSGFLQ0o5dlUtYUR4LUI1LUtYVFByUFV3YUUxYXI2VHQ2MmlaaXFsSzRtTDU0R2N0dEdWa3g?oc=5"
+    },
+    {
       "headline": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
       "source": "Reuters",
       "timestamp": "2026-05-12T19:48:45.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "regulation",
-      "summary": "Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' &nbsp;&nbsp; Business Insider Claude For Legal Launches, May Reshape the Legal Tech World &nbsp;&nbsp; Artificial Lawyer",
+      "summary": "Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' &nbsp;&nbsp; Business Insider Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude &nbsp;&nbsp; LawSites",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5"
     },
@@ -50,16 +80,6 @@
       "summary": "Anthropic's Mythos sends US banks rushing to plug cyber holes &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUVXTGZSYWxqVU5NQ0V5c1h0bVZIV2REZVQwSk5OQ2RnRTktUWZ4WUY2OF9NWUxsNk44cmlFRjdlTlFqYjdUNHhiOGhUWEVpWVpMckk5bEJXTVRlM3ZvcTBLTy1lY3R4Wm1yYkh6Nzlmcld0cjNQRngwSjFOSlJ6WV9Gb2o4b2VGU1lyMW9rSFg3cUxBY1p2ZmVtWU9zN3pKcFIzQnFOMGdWekdBVmRF?oc=5"
-    },
-    {
-      "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury - BBC",
-      "source": "BBC",
-      "timestamp": "2026-05-12T18:51:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury &nbsp;&nbsp; BBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zd2w2OTRiTHE3YWVTejVVbC1LSUk4VkVsel81ZF9SNXIxb3BlWHJUdTJJZUxndUdGNjNtVW5aMnB4Q2txMnhKY3ZCZlJPU0VJUGNqWkNRVWYzdw?oc=5"
     },
     {
       "headline": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 - Microsoft Azure",
@@ -82,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5"
     },
     {
-      "headline": "Save the Date: Meta Connect 2026 - meta.com",
-      "source": "meta.com",
-      "timestamp": "2026-05-12T16:35:17.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Save the Date: Meta Connect 2026 &nbsp;&nbsp; meta.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KaXBwUXZGaUhNMHZUZ053VmpjNDZ2bTlpVzZpTWx4Z2l4ME1iblphWFgtMUdnRExPRU15ZHVMSW04cDRwUHU5STZ0MlNHNDB1Y3UxRFNiU1U5UkZJSzlTRlo0NA?oc=5"
-    },
-    {
       "headline": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery - Reuters",
       "source": "Reuters",
       "timestamp": "2026-05-12T16:23:32.000Z",
@@ -100,28 +110,27 @@
       "summary": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery &nbsp;&nbsp; Reuters",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGRLQTBxRHVVMUNsX05aYmd5akMtUmhuVzcxN0lEbF9yLW5CNmtSVFZVT2pCWDV5bS1zM3BobDd3dVU3cXJSdjhyTkZSWW1fNGpKYlhReFg3M3I3Zy14VE9WMWpnNDQ4QWt3Q0h0enZOcUNuX01HTVNrRkFZTlNTVUlqLWczZUlMbnBhWDRJY3drN3BuVDlQMm5tUEJuNTZwRTNsWk1mZlhqdTdwcXJ1eVYzQU9QUENMVGJrS0hSLW1IYjRy?oc=5"
-    },
-    {
-      "headline": "Is Anthropic’s Claude Mythos Really a Cybersecurity Risk? - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-12T16:01:26.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Is Anthropic’s Claude Mythos Really a Cybersecurity Risk? &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xYmItWjc3dW9jYkpsVEJ2R0E5YlFOR1BFTWR0cExDSFlDa3FXbVdTaHcweENTYmx0MmpSVWxGY2NuRnFoQVFTRDlCWVViaTBObmI1bk1yckF3aV91VC1zNmRYVmNtQ1RyMHplMlYza1ZnRVhtaGlSMXYxSno0X0U?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-05-13T06:40:00.000Z",
-        "impact": "HIGH",
+        "headline": "Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-05-13T10:00:00.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnZKT3BCdUlWaTI2VDV2Yk5xSS1YdjJ4VGM0aF9fZ3JwMjRzLUN1U2RVUTAxZjI1T3pENWFzYkpvRlQtZHp4VnZ2clpVWmRXT1hWZmNJRmpqWlJCSUIwdnV0RmRjNXNaRC1Gb2lHS3BZMkJtMVdTaE1SZXllVHNQMnBlSFN6TnAxd1Y4Q0JuT1MwbnJxT1lXM3JCSEhuYlQyR3JpUWRVN0d0UWlGVHljaw?oc=5",
-        "summary": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets &nbsp;&nbsp; Bloomberg"
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOel9zbWJnNjJrd3lPNXdGQnZ3d1o4OG0weW1DNzNuQTF6QnAwZUtBU0FLWVQyLVFoOXNyM1NneFl4cHA0d1c0NVgzR3pUUjZjcHdWalVYVTVzeHozc1NJcTU2TDNaeUM1THo4TS1kQk5tRV9PRVd0MUhzNHIxU1dpZWRMYkpieEoySzRNdVZLei16ZGZKRFY2OGV4UHdhTzFrclJJck82eUZQZnNsaW12TjZRX2JWd004ZGRUbg?oc=5",
+        "summary": "Beware what you tell your AI chatbot. It’s not a shrink – it’s a snitch | Arwa Mahdawi &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Silicon Valley’s A.I. Lobbying Reaches a Fever Pitch - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-13T09:14:36.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnhKQVFoTXViVGpiek5YbHFmbVdWTkNUc21HaEVlbERadUNJd3JPYjRsOXRXbHEwY09yVjdNNnF3aW00WUdXbmNWdU44UTIxMzhVT0NYRV96MUpzaG9yU2VhN1dvVHFVSVRmeDlTNDNUbm90ZlJ6Y09FRmRibDlFY0tYQld5RUpwZDVZaWtPR1Q2UTNj?oc=5",
+        "summary": "Silicon Valley’s A.I. Lobbying Reaches a Fever Pitch &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "How Google Is Moving The Needle On AI, Tony Stark-Style - NDTV",
@@ -133,40 +142,31 @@
         "summary": "How Google Is Moving The Needle On AI, Tony Stark-Style &nbsp;&nbsp; NDTV"
       },
       {
+        "headline": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome - 9to5Google",
+        "source": "9to5Google",
+        "timestamp": "2026-05-12T23:12:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MWcyRGhhTHpvTkR1VlpzamlLa25QdjZZZ1JhNFQxUlJ3dmJyNFdVR2htZTFZQ2xyN0F4bGxUelNqQlp2SXAtdzJSeUhTUXAwWi1uVHFkQUZZSlhtOWZ4S0ZXRWNOcnJYSngxQkwtcktZOXJxb3RV?oc=5",
+        "summary": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome &nbsp;&nbsp; 9to5Google"
+      },
+      {
+        "headline": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-05-12T20:35:47.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYm5qekpIZ3VjRVQwQ2x6eTRnWmdDZTJOUTVYbkxaQklrRzdFRjYtRjRHU1JLV0Mxb1JLcDlsZFo5Y2E5STF5aFFRMkpseThURm5UUGhTUUZBajU2U3c2dnNXSEVEUXFBRzVxQzlyQUNRd1pUX2ROVmxNekZjUDNWWnhiemYwMmF4emoxa3hoR2Jzd3VNYlhpSGFLQ0o5dlUtYUR4LUI1LUtYVFByUFV3YUUxYXI2VHQ2MmlaaXFsSzRtTDU0R2N0dEdWa3g?oc=5",
+        "summary": "Meta seeks to avoid EU fine with free WhatsApp access for rival AI chatbots &nbsp;&nbsp; Reuters"
+      },
+      {
         "headline": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
         "source": "Reuters",
         "timestamp": "2026-05-12T19:48:45.000Z",
-        "impact": "HIGH",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
-        "summary": "Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' &nbsp;&nbsp; Business Insider Claude For Legal Launches, May Reshape the Legal Tech World &nbsp;&nbsp; Artificial Lawyer"
-      },
-      {
-        "headline": "Anthropic's Mythos sends US banks rushing to plug cyber holes - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-05-12T19:43:46.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUVXTGZSYWxqVU5NQ0V5c1h0bVZIV2REZVQwSk5OQ2RnRTktUWZ4WUY2OF9NWUxsNk44cmlFRjdlTlFqYjdUNHhiOGhUWEVpWVpMckk5bEJXTVRlM3ZvcTBLTy1lY3R4Wm1yYkh6Nzlmcld0cjNQRngwSjFOSlJ6WV9Gb2o4b2VGU1lyMW9rSFg3cUxBY1p2ZmVtWU9zN3pKcFIzQnFOMGdWekdBVmRF?oc=5",
-        "summary": "Anthropic's Mythos sends US banks rushing to plug cyber holes &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury - BBC",
-        "source": "BBC",
-        "timestamp": "2026-05-12T18:51:56.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zd2w2OTRiTHE3YWVTejVVbC1LSUk4VkVsel81ZF9SNXIxb3BlWHJUdTJJZUxndUdGNjNtVW5aMnB4Q2txMnhKY3ZCZlJPU0VJUGNqWkNRVWYzdw?oc=5",
-        "summary": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 - Microsoft Azure",
-        "source": "Microsoft Azure",
-        "timestamp": "2026-05-12T18:00:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1h0OWIxb2tJOVlEV0otUEhINUtrRWl3Y2dmdWNjZDA4QnBFWWdXZFMyS2N1OC1WMURJSmU1Y0trc3E0bk9USWNzcDN1WGtvUjJqYXpUWDEwalJfZmpnaEEteGZkZTFuRTUtdG5yVE4xNmFZT3E5dXJlcWluc1JQdE9ybFpZemhHdTlVMTRoZndXQy1mSURiUEhiYnVGZlp6R3lORDlyd2JUT1EtaVEta3JsUXQ4THNr?oc=5",
-        "summary": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026 &nbsp;&nbsp; Microsoft Azure"
+        "summary": "Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' &nbsp;&nbsp; Business Insider Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude &nbsp;&nbsp; LawSites"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
