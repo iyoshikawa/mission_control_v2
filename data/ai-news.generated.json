@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-13T00:04:31.192Z",
+    "generatedAt": "2026-05-13T04:50:54.356Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI boss Sam Altman says Musk wanted control of company - DW.com",
-      "source": "DW.com",
-      "timestamp": "2026-05-12T23:32:36.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI boss Sam Altman says Musk wanted control of company &nbsp;&nbsp; DW.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVWRhYjhiZDhzNDd2aUlHSjNFdXNNcFkzV0tqb2pYbVVGWEphZEV4RTU3MmJmdjd6RHE3OUkzNktDNm9fUlZKaTFEX0VQTHpwMEItVHE1MVNZRThfMVdWazI3aXBOUFg5SW5ETnVzMW4zWXRh?oc=5"
-    },
-    {
       "headline": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-05-12T23:32:18.000Z",
+      "timestamp": "2026-05-12T23:32:19.000Z",
       "impact": "HIGH",
       "category": "market",
       "summary": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5"
-    },
-    {
-      "headline": "Sam Altman was winning on the stand, but it might not be enough - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-05-12T23:23:14.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sam Altman was winning on the stand, but it might not be enough &nbsp;&nbsp; The Verge",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHBMSE9wWTQ5WUR0dUJqNWIyZC02UWpvS2kwSlVMNEo5eFdUMTFSWVlENVJZLTJ1eHZycklURWJkRFVwbDBIYXg0aThwZGlsMzJyQk1QYUVpT0x5U1VUdVBLa2ZBTFFCUWxsR29wN2hWTGhOalo5ajFzM3Vtb2FNWFVyT0k1dEFtWjQ2LWpmMHQ4RWR6d0NrdjJRU1RXUjN2NnM4bA?oc=5"
     },
     {
       "headline": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome - 9to5Google",
@@ -50,16 +30,6 @@
       "summary": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome &nbsp;&nbsp; 9to5Google",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MWcyRGhhTHpvTkR1VlpzamlLa25QdjZZZ1JhNFQxUlJ3dmJyNFdVR2htZTFZQ2xyN0F4bGxUelNqQlp2SXAtdzJSeUhTUXAwWi1uVHFkQUZZSlhtOWZ4S0ZXRWNOcnJYSngxQkwtcktZOXJxb3RV?oc=5"
-    },
-    {
-      "headline": "Meta expands Meta AI chatbot access to Threads - Social Media Today",
-      "source": "Social Media Today",
-      "timestamp": "2026-05-12T23:09:31.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta expands Meta AI chatbot access to Threads &nbsp;&nbsp; Social Media Today",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEx3SXh0X0Y3V2FSREZkM2dJY3Rva2I2Rl92YjNrenNoUXZOU25oY1ZnaFVla0phQ3pNNGZWbzhCWGkwYUFia1hGRTFUMnJNQVpaSEZrbzZmQmloRU51UE8wLXdGOUhXS3M1Z0Faa3VnMEtSbHV4Rm5ybHVlcG0yYVhZWW54SVhTS0xNejZpUW4yM1o0SGg4?oc=5"
     },
     {
       "headline": "Anthropic in Talks to Buy Developer Tools Startup Used by OpenAI, Google - The Information",
@@ -74,12 +44,32 @@
     {
       "headline": "A former OpenAI employee says the rush to beat China could push unsafe AI into the world - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-05-12T20:44:41.000Z",
+      "timestamp": "2026-05-12T20:44:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "A former OpenAI employee says the rush to beat China could push unsafe AI into the world &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT01kOTN2WFdERGdmT3NSUjItTXJQNzhJcUNpM1hYMEh4dmsxZVdTZ1BaakNlRzlua2Q2STBid1d1azNIdC1TbnVzMC1vNENCNGtYWm1maXJqNlNzVDQ5WVVmM3NpZHBtbUJMZ2tjZFJOak96d21EcUNDNy1qd0VrRTJfNUc2TEcyQWFwUEpuU05QX0ZDdnM3cXkzOVAxVlNqUm9GVWJn?oc=5"
+    },
+    {
+      "headline": "From pilots to firmwide impact: BPM builds a Copilot culture for high-stakes work - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-05-12T20:17:16.000Z",
+      "impact": "WATCH",
+      "category": "regulation",
+      "summary": "From pilots to firmwide impact: BPM builds a Copilot culture for high-stakes work &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUpYMTQ2Tk9wSkdQekdZR0RXRzA2TVljQkxTaEJud2kyV0taVVNsMldUdTNmZXJ2bHJUYWRYZDBUMlBic2hYMkFEdTBVMTdmdDJMNk9scktUTWQ2REFra3FFWEowbmk3NDdKQ2tTYVg1dXU5ZkE4VEVOSGliNFVUZFJB?oc=5"
+    },
+    {
+      "headline": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-12T19:48:45.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' &nbsp;&nbsp; Business Insider Claude For Legal Launches, May Reshape the Legal Tech World &nbsp;&nbsp; Artificial Lawyer",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5"
     },
     {
       "headline": "Threads Users Are Pissed They Can't Block Meta's New AI Chatbot - Engadget",
@@ -102,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5"
     },
     {
+      "headline": "Threads tests a Meta AI integration that works similarly to Grok - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-12T16:34:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Threads tests a Meta AI integration that works similarly to Grok &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREFnbjBDMU42SDRSYjJQalBpMDZzd3JkZWRxTFRvaVpaT0wtZHZ6cVdhRXFwd3hReVBYb3MzclJYbllQSlEwT1IzZ3A4dWRpRWxCWHpwMEtfUEJtMHJKV09zb3JIaGJqVE0tWnRSU05SV0VjVEVuV0FkTU9VSWFxYm1OeWlIdmNGMmtGZkMweVJuZ3hxSkthRTU4RkRvTlg5?oc=5"
+    },
+    {
       "headline": "Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery - Reuters",
       "source": "Reuters",
       "timestamp": "2026-05-12T16:23:32.000Z",
@@ -115,31 +115,13 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI boss Sam Altman says Musk wanted control of company - DW.com",
-        "source": "DW.com",
-        "timestamp": "2026-05-12T23:32:36.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVWRhYjhiZDhzNDd2aUlHSjNFdXNNcFkzV0tqb2pYbVVGWEphZEV4RTU3MmJmdjd6RHE3OUkzNktDNm9fUlZKaTFEX0VQTHpwMEItVHE1MVNZRThfMVdWazI3aXBOUFg5SW5ETnVzMW4zWXRh?oc=5",
-        "summary": "OpenAI boss Sam Altman says Musk wanted control of company &nbsp;&nbsp; DW.com"
-      },
-      {
         "headline": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-05-12T23:32:18.000Z",
+        "timestamp": "2026-05-12T23:32:19.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXlYUDFLdEJoaFFQTktLaFJiUkNtY3dLa3NMc2ktVmE5ODM4alJtd0lQd0VaSVM0UHBtNk03V3VobnBUM3lveV9oTnA5TXdBRTJTQ2M3cnplNlFaZEJtZ2tqa3pPWU1oenE5Q3E4LTEzUGRkVmd3ZTROVlFueC1RZ29qdGVSM1hGMDk2ZnJFWmNlQ3ZJ?oc=5",
         "summary": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Sam Altman was winning on the stand, but it might not be enough - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-05-12T23:23:14.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHBMSE9wWTQ5WUR0dUJqNWIyZC02UWpvS2kwSlVMNEo5eFdUMTFSWVlENVJZLTJ1eHZycklURWJkRFVwbDBIYXg0aThwZGlsMzJyQk1QYUVpT0x5U1VUdVBLa2ZBTFFCUWxsR29wN2hWTGhOalo5ajFzM3Vtb2FNWFVyT0k1dEFtWjQ2LWpmMHQ4RWR6d0NrdjJRU1RXUjN2NnM4bA?oc=5",
-        "summary": "Sam Altman was winning on the stand, but it might not be enough &nbsp;&nbsp; The Verge"
       },
       {
         "headline": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome - 9to5Google",
@@ -151,15 +133,6 @@
         "summary": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome &nbsp;&nbsp; 9to5Google"
       },
       {
-        "headline": "Meta expands Meta AI chatbot access to Threads - Social Media Today",
-        "source": "Social Media Today",
-        "timestamp": "2026-05-12T23:09:31.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEx3SXh0X0Y3V2FSREZkM2dJY3Rva2I2Rl92YjNrenNoUXZOU25oY1ZnaFVla0phQ3pNNGZWbzhCWGkwYUFia1hGRTFUMnJNQVpaSEZrbzZmQmloRU51UE8wLXdGOUhXS3M1Z0Faa3VnMEtSbHV4Rm5ybHVlcG0yYVhZWW54SVhTS0xNejZpUW4yM1o0SGg4?oc=5",
-        "summary": "Meta expands Meta AI chatbot access to Threads &nbsp;&nbsp; Social Media Today"
-      },
-      {
         "headline": "Anthropic in Talks to Buy Developer Tools Startup Used by OpenAI, Google - The Information",
         "source": "The Information",
         "timestamp": "2026-05-12T21:59:00.000Z",
@@ -167,6 +140,33 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWNiRk1NeVVLYVoweTUxMzhNc3gzeXJMYkpkM01kbVdkT20xVnY4OEpncm44LVc5aWEtUUd1dXVhajhwZGJFNThsT0RCeXNkdnRMOUhSZzB4bzdaQ3d2ZDVDREx0cFMwYUluMkJSWF9xSjZUc3c0QWd2Uzg4aF9BZjlxdHpaWGl4SlhESHRXWXJ4SDA5aVFMYjJvTzZfWEV4SzgySg?oc=5",
         "summary": "Anthropic in Talks to Buy Developer Tools Startup Used by OpenAI, Google &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "A former OpenAI employee says the rush to beat China could push unsafe AI into the world - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-12T20:44:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT01kOTN2WFdERGdmT3NSUjItTXJQNzhJcUNpM1hYMEh4dmsxZVdTZ1BaakNlRzlua2Q2STBid1d1azNIdC1TbnVzMC1vNENCNGtYWm1maXJqNlNzVDQ5WVVmM3NpZHBtbUJMZ2tjZFJOak96d21EcUNDNy1qd0VrRTJfNUc2TEcyQWFwUEpuU05QX0ZDdnM3cXkzOVAxVlNqUm9GVWJn?oc=5",
+        "summary": "A former OpenAI employee says the rush to beat China could push unsafe AI into the world &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "From pilots to firmwide impact: BPM builds a Copilot culture for high-stakes work - Microsoft",
+        "source": "Microsoft",
+        "timestamp": "2026-05-12T20:17:16.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUpYMTQ2Tk9wSkdQekdZR0RXRzA2TVljQkxTaEJud2kyV0taVVNsMldUdTNmZXJ2bHJUYWRYZDBUMlBic2hYMkFEdTBVMTdmdDJMNk9scktUTWQ2REFra3FFWEowbmk3NDdKQ2tTYVg1dXU5ZkE4VEVOSGliNFVUZFJB?oc=5",
+        "summary": "From pilots to firmwide impact: BPM builds a Copilot culture for high-stakes work &nbsp;&nbsp; Microsoft"
+      },
+      {
+        "headline": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-05-12T19:48:45.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
+        "summary": "Anthropic expands Claude's AI tools for law firms, lawyers &nbsp;&nbsp; Reuters Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree' &nbsp;&nbsp; Business Insider Claude For Legal Launches, May Reshape the Legal Tech World &nbsp;&nbsp; Artificial Lawyer"
       }
     ],
     "whyItMatters": [
