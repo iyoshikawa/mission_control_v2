@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-15T10:29:09.176Z",
+    "generatedAt": "2026-05-15T12:56:50.691Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic Calls for Tighter U.S. Chip Restrictions on China - The Information",
-      "source": "The Information",
-      "timestamp": "2026-05-15T05:23:32.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Calls for Tighter U.S. Chip Restrictions on China &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzN4WnVwbUtodWV3UWV2Z3RRZXBlSkRQUTBTRlh3d1E2OVBIbHB0LW5qNGl1VDdSQjVmT0RuNHdSdm82ZjZoNXFlVWNQSTJGNW1pbkpmSTNndjY2ZDBZX19salNVQnhrc2dSeXlFM2szSDZIczYtM2hvV2xhM09JMWhRSXZ2amp2R2x3NzZ3QjRwUU92MUVj?oc=5"
-    },
-    {
       "headline": "Sea's View on the Future of Agentic Software Development with Codex - OpenAI",
       "source": "OpenAI",
       "timestamp": "2026-05-15T03:41:44.000Z",
@@ -30,16 +20,6 @@
       "summary": "Sea's View on the Future of Agentic Software Development with Codex &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84c25CanVRT1p2TkZadDZsNU9EaUhIX3NYQkZNaEh4UXhETmZCYWpJeldtRVBKNzZPaXJZXzc3ak5fMzZiYmJtYTJ2Y2JhMC1vMFE?oc=5"
-    },
-    {
-      "headline": "OpenAI explores legal options against Apple, source says - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-14T22:21:15.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI explores legal options against Apple, source says &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5"
     },
     {
       "headline": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
@@ -52,14 +32,24 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEppbVdmOGZYMVh3V0ZPNGFiOXVETkZCblhQaU5xN0w3bnBnZlFPM0ZuWUtzN1VsZ1J3bmU1Y2lFLUdYaEdVc3NycUQ0cENWNWl2cVFMeUJXbUtPWVV4Si1PZndBVXBtSUhzaHJzNmZnQ0R0MG1fRkxoNmpLS3NYME85TjlEZ2VYRV81T0pHVW42aEZQSV9WSkRpYU4?oc=5"
     },
     {
-      "headline": "On Day 1 of Trump's China visit, Anthropic just 'reminded' America why it should not sell top-end chips t - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-05-14T19:56:00.000Z",
+      "headline": "Anthropic tightens limits on Claude subscriptions - Axios",
+      "source": "Axios",
+      "timestamp": "2026-05-14T19:33:08.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "On Day 1 of Trump's China visit, Anthropic just 'reminded' America why it should not sell top-end chips t &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNbzhyNTFIY0JJR3hOT2FxazNrUEhOQXVJZC1mb2dpcmZBNExWQlpDRHNGYk5HcnY4alViSVUydWVCZUtLcDh2c2ZvSjc1cWxlcTJuME1CcTN4NTRiTER6STQ3N1paUzVaSGFHVnc0ME5tNjZSTW82MVVtdzBtMkg3RWdibzhuVlFJTy1GZkEzZFRYVDJERUQ3ZzhSeVEwREtJaGVkRll0V2pNRTk2WHBXYXZNWHhzMHlhUno0eWg2b1Y0R19nbzNJc1N6ZTJYTWo4bzhDU2tWOEY3TVpMaXZXejZuV3h4ekJnTFdMNHNPb085UkJzVzk1M0x6S3Q1SHZwR0dqMlJEbmZXVWpFNmFmYzdDamRhRXh0VWk5NlAtRHFBZGd6Qi1pTjAtVDlZZ9IBswJBVV95cUxQLTlRYjFGZHYxUmhraG5zMXFYWDdhaTlZY01aZHpQcnlsRUY2Z1RNRWxqdU4ycFI0eUpTdjVFeURuXzhRMEdrTGh3WkhfUGphVHVmbkFJVGxVSHpSQkNVSVlZakc3dDZoamhPOC1mcy1MUXBDTFJKcmZBSklfYjN4MzRKci1mNHJfdHR3T0pkcnJxa3VtZkc4V3gwSlo4WE5pSkZvNDVfaFAyWlhvd1hJWHJUclhqQ1FoU0tRd2Z1SEdRc2hvcDY5Z19KTDZUeTZVYzIzUHJ0WmNsUFJhd1lFRm8tZzNjU2hTOU52Y1lOV0c5a3lNOHdTa3ZYSHlla1VsOG1fd1JBRnR6aXRXS3NSNl9mTjBCVmRMajcwY1E5cVdkeFJ1SkxUd09TbThtOUNYdDlV?oc=5"
+      "category": "models",
+      "summary": "Anthropic tightens limits on Claude subscriptions &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUjhHRjZOWWFNdmkyeHBLWm5qZDV3bHpLTk1sWm8ySnFMclM5WVB5UjdlS2dGdWdOdTVLU1BRZTBIeW52TEIzcmVEcXVfSFpFVlVhTk9KU2x6QTFBS05mcWw5cFc0ZDc1N3AtS3dRLUhJMjVaMUpSLQ?oc=5"
+    },
+    {
+      "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-14T19:12:03.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd203TjJOelZBR1lpSDV1UEl2VEhxS2dPbGItOTlCaFVmWVlEbXRFSUpVY21oMzNjWENwZkFFX0RiTVRyaE9LQk1uV1lLeDFEaGxpLUJwSVZ4VkpqUVRtVWc5SGxuaGU3d1FFbFQwUHg4MGIwWVQ4MUxfWHNjaF9tano0RHZZZVhSVTdXNUJDNmtmOEVXR1pGckdOMkQzZHFIZkIyZWxCbHBvWm9XSUdnTWNfQkFQbzBfbUhYX29INlBSYTA3SzlEUTBaRzlPUjNMMHFhUUV3?oc=5"
     },
     {
       "headline": "2028: Two scenarios for global AI leadership - Anthropic",
@@ -72,24 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5"
     },
     {
-      "headline": "Anthropic tightens limits on Claude subscriptions - Axios",
-      "source": "Axios",
-      "timestamp": "2026-05-14T09:32:05.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic tightens limits on Claude subscriptions &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUjhHRjZOWWFNdmkyeHBLWm5qZDV3bHpLTk1sWm8ySnFMclM5WVB5UjdlS2dGdWdOdTVLU1BRZTBIeW52TEIzcmVEcXVfSFpFVlVhTk9KU2x6QTFBS05mcWw5cFc0ZDc1N3AtS3dRLUhJMjVaMUpSLQ?oc=5"
-    },
-    {
-      "headline": "'Completely private': Meta AI gets Incognito Chat - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-05-14T01:06:23.000Z",
+      "headline": "Anthropic expands its partnership with PwC as it pushes to get Claude into the hands of corporate America - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-14T13:01:00.000Z",
       "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "'Completely private': Meta AI gets Incognito Chat &nbsp;&nbsp; Mashable Introducing a Completely Private Way to Chat With AI &nbsp;&nbsp; meta.com WhatsApp launches totally private 'incognito' conversations with its AI chatbot &nbsp;&nbsp; BBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qa05sWTJGcGpXRWRRdFJMSHFOSGFTckpDNlloZ1FnMTlnTWEwZ3dMUm9SWUhudkFPQ1FBVHliaDlSS0gwV2V5UjNZSkJ5MFJHaE92NkY5YUxjVzAzRm1HRw?oc=5"
+      "category": "models",
+      "summary": "Anthropic expands its partnership with PwC as it pushes to get Claude into the hands of corporate America &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFJieWJvR0JyWlp1VVpJVUZ2eGZZRk0xd3pYa25LenVrYnJ5bVYyU1V3TDNoeHJ1OTVfem45aUpVUHVnY0xETGZkdFNueDZBYVhlNWdzYWxNd0NjY1ZPbkRUcVJpeEctM0V5S2ZodU4yc0g5dGppTkNzMmNwbl9GZkx2aF9ZQXlFMlE?oc=5"
     },
     {
       "headline": "OpenAI Floats Idea of Global AI Governance Body With US, China - Bloomberg.com",
@@ -110,19 +90,30 @@
       "summary": "Google Breaks AI Out of the Chat Window &nbsp;&nbsp; PYMNTS.com",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEhCaGZLWFU3VjlLYzFqbUwtTlJMaEdxUGs4bkRCOC1fRmFLYUlPU2JiVnBCU25SYmUwcGJxTndkYTNoMG9Ycmx6ODdhblFTNVVMV0U5Vkk0SW5UWlIxYTBiNzVnMnZzdFZuYXBvRTk2ZDlaODY0ekZMMF95MXBCQUNzU3BYdm9yN2FLNmNZVUg3Y045b0M4Ul9n?oc=5"
+    },
+    {
+      "headline": "Alexandr Wang says it's 'unfair' to say Meta's AI researchers are just there for the money - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-13T16:37:00.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Alexandr Wang says it's 'unfair' to say Meta's AI researchers are just there for the money &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzhTd3lsSU1rLXJOTGE0d0d6QkN3cU5CX25fLTI1NS0yZEVvanRndFBuVjM0X2duN05KeDJTTWJCaWpDeG9jcWdwaGprVDlmN0dNNmNTWEk4LWo0RENIbFdSVGNpVDR1RDJ1WE5oUEk0bm9JU19oQW1kWTdqY1RvcmFNVUQ2UjllaWk4Zm81enJzeEcwZVNBLXl2TWZ0MUlpQXlDTUtaWlpNVm5oMFpF?oc=5"
+    },
+    {
+      "headline": "Introducing Claude for Small Business - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-05-13T16:03:54.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Anthropic Calls for Tighter U.S. Chip Restrictions on China - The Information",
-        "source": "The Information",
-        "timestamp": "2026-05-15T05:23:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzN4WnVwbUtodWV3UWV2Z3RRZXBlSkRQUTBTRlh3d1E2OVBIbHB0LW5qNGl1VDdSQjVmT0RuNHdSdm82ZjZoNXFlVWNQSTJGNW1pbkpmSTNndjY2ZDBZX19salNVQnhrc2dSeXlFM2szSDZIczYtM2hvV2xhM09JMWhRSXZ2amp2R2x3NzZ3QjRwUU92MUVj?oc=5",
-        "summary": "Anthropic Calls for Tighter U.S. Chip Restrictions on China &nbsp;&nbsp; The Information"
-      },
       {
         "headline": "Sea's View on the Future of Agentic Software Development with Codex - OpenAI",
         "source": "OpenAI",
@@ -131,15 +122,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84c25CanVRT1p2TkZadDZsNU9EaUhIX3NYQkZNaEh4UXhETmZCYWpJeldtRVBKNzZPaXJZXzc3ak5fMzZiYmJtYTJ2Y2JhMC1vMFE?oc=5",
         "summary": "Sea's View on the Future of Agentic Software Development with Codex &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "OpenAI explores legal options against Apple, source says - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-05-14T22:21:15.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5",
-        "summary": "OpenAI explores legal options against Apple, source says &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
@@ -151,13 +133,22 @@
         "summary": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "On Day 1 of Trump's China visit, Anthropic just 'reminded' America why it should not sell top-end chips t - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-05-14T19:56:00.000Z",
+        "headline": "Anthropic tightens limits on Claude subscriptions - Axios",
+        "source": "Axios",
+        "timestamp": "2026-05-14T19:33:08.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNbzhyNTFIY0JJR3hOT2FxazNrUEhOQXVJZC1mb2dpcmZBNExWQlpDRHNGYk5HcnY4alViSVUydWVCZUtLcDh2c2ZvSjc1cWxlcTJuME1CcTN4NTRiTER6STQ3N1paUzVaSGFHVnc0ME5tNjZSTW82MVVtdzBtMkg3RWdibzhuVlFJTy1GZkEzZFRYVDJERUQ3ZzhSeVEwREtJaGVkRll0V2pNRTk2WHBXYXZNWHhzMHlhUno0eWg2b1Y0R19nbzNJc1N6ZTJYTWo4bzhDU2tWOEY3TVpMaXZXejZuV3h4ekJnTFdMNHNPb085UkJzVzk1M0x6S3Q1SHZwR0dqMlJEbmZXVWpFNmFmYzdDamRhRXh0VWk5NlAtRHFBZGd6Qi1pTjAtVDlZZ9IBswJBVV95cUxQLTlRYjFGZHYxUmhraG5zMXFYWDdhaTlZY01aZHpQcnlsRUY2Z1RNRWxqdU4ycFI0eUpTdjVFeURuXzhRMEdrTGh3WkhfUGphVHVmbkFJVGxVSHpSQkNVSVlZakc3dDZoamhPOC1mcy1MUXBDTFJKcmZBSklfYjN4MzRKci1mNHJfdHR3T0pkcnJxa3VtZkc4V3gwSlo4WE5pSkZvNDVfaFAyWlhvd1hJWHJUclhqQ1FoU0tRd2Z1SEdRc2hvcDY5Z19KTDZUeTZVYzIzUHJ0WmNsUFJhd1lFRm8tZzNjU2hTOU52Y1lOV0c5a3lNOHdTa3ZYSHlla1VsOG1fd1JBRnR6aXRXS3NSNl9mTjBCVmRMajcwY1E5cVdkeFJ1SkxUd09TbThtOUNYdDlV?oc=5",
-        "summary": "On Day 1 of Trump's China visit, Anthropic just 'reminded' America why it should not sell top-end chips t &nbsp;&nbsp; The Times of India"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUjhHRjZOWWFNdmkyeHBLWm5qZDV3bHpLTk1sWm8ySnFMclM5WVB5UjdlS2dGdWdOdTVLU1BRZTBIeW52TEIzcmVEcXVfSFpFVlVhTk9KU2x6QTFBS05mcWw5cFc0ZDc1N3AtS3dRLUhJMjVaMUpSLQ?oc=5",
+        "summary": "Anthropic tightens limits on Claude subscriptions &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-05-14T19:12:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd203TjJOelZBR1lpSDV1UEl2VEhxS2dPbGItOTlCaFVmWVlEbXRFSUpVY21oMzNjWENwZkFFX0RiTVRyaE9LQk1uV1lLeDFEaGxpLUJwSVZ4VkpqUVRtVWc5SGxuaGU3d1FFbFQwUHg4MGIwWVQ4MUxfWHNjaF9tano0RHZZZVhSVTdXNUJDNmtmOEVXR1pGckdOMkQzZHFIZkIyZWxCbHBvWm9XSUdnTWNfQkFQbzBfbUhYX29INlBSYTA3SzlEUTBaRzlPUjNMMHFhUUV3?oc=5",
+        "summary": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "2028: Two scenarios for global AI leadership - Anthropic",
@@ -167,13 +158,22 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5",
         "summary": "2028: Two scenarios for global AI leadership &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "Anthropic expands its partnership with PwC as it pushes to get Claude into the hands of corporate America - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-14T13:01:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFJieWJvR0JyWlp1VVpJVUZ2eGZZRk0xd3pYa25LenVrYnJ5bVYyU1V3TDNoeHJ1OTVfem45aUpVUHVnY0xETGZkdFNueDZBYVhlNWdzYWxNd0NjY1ZPbkRUcVJpeEctM0V5S2ZodU4yc0g5dGppTkNzMmNwbl9GZkx2aF9ZQXlFMlE?oc=5",
+        "summary": "Anthropic expands its partnership with PwC as it pushes to get Claude into the hands of corporate America &nbsp;&nbsp; Business Insider"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
