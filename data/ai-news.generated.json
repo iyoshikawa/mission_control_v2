@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-14T23:00:35.913Z",
+    "generatedAt": "2026-05-15T03:53:09.750Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-05-14T21:11:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEppbVdmOGZYMVh3V0ZPNGFiOXVETkZCblhQaU5xN0w3bnBnZlFPM0ZuWUtzN1VsZ1J3bmU1Y2lFLUdYaEdVc3NycUQ0cENWNWl2cVFMeUJXbUtPWVV4Si1PZndBVXBtSUhzaHJzNmZnQ0R0MG1fRkxoNmpLS3NYME85TjlEZ2VYRV81T0pHVW42aEZQSV9WSkRpYU4?oc=5"
+    },
+    {
       "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
       "source": "TechCrunch",
       "timestamp": "2026-05-14T19:12:03.000Z",
@@ -22,44 +32,34 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd203TjJOelZBR1lpSDV1UEl2VEhxS2dPbGItOTlCaFVmWVlEbXRFSUpVY21oMzNjWENwZkFFX0RiTVRyaE9LQk1uV1lLeDFEaGxpLUJwSVZ4VkpqUVRtVWc5SGxuaGU3d1FFbFQwUHg4MGIwWVQ4MUxfWHNjaF9tano0RHZZZVhSVTdXNUJDNmtmOEVXR1pGckdOMkQzZHFIZkIyZWxCbHBvWm9XSUdnTWNfQkFQbzBfbUhYX29INlBSYTA3SzlEUTBaRzlPUjNMMHFhUUV3?oc=5"
     },
     {
-      "headline": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-14T17:16:10.000Z",
+      "headline": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-14T18:23:00.000Z",
       "impact": "LOW",
-      "category": "market",
-      "summary": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOW1FOE5TMUp6Y2xYZWdwV3pMaVBnR0Rwb2R4d2lsb0JsOVlDSm5SSV8tSVBDUjlkY3dXT0lCUmFIRmRfa0NVSDdaUzRNaVg4ZU9vV0VUOVZNVldHVUdxT2hENS03cnJCcUFvMUx1a3NiOVNV?oc=5"
-    },
-    {
-      "headline": "Anthropic forms $200 million partnership with the Gates Foundation - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-05-14T15:06:56.000Z",
-      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Anthropic forms $200 million partnership with the Gates Foundation &nbsp;&nbsp; Anthropic",
+      "summary": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5"
     },
     {
       "headline": "Anthropic tightens limits on Claude subscriptions - Axios",
       "source": "Axios",
-      "timestamp": "2026-05-14T13:58:11.000Z",
+      "timestamp": "2026-05-14T12:13:51.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Anthropic tightens limits on Claude subscriptions &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUjhHRjZOWWFNdmkyeHBLWm5qZDV3bHpLTk1sWm8ySnFMclM5WVB5UjdlS2dGdWdOdTVLU1BRZTBIeW52TEIzcmVEcXVfSFpFVlVhTk9KU2x6QTFBS05mcWw5cFc0ZDc1N3AtS3dRLUhJMjVaMUpSLQ?oc=5"
     },
     {
-      "headline": "'Completely private': Meta AI gets Incognito Chat - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-05-14T10:56:28.000Z",
+      "headline": "Fiserv has co-created AI agents with six banks and OpenAI - American Banker",
+      "source": "American Banker",
+      "timestamp": "2026-05-14T11:00:00.000Z",
       "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "'Completely private': Meta AI gets Incognito Chat &nbsp;&nbsp; Mashable Introducing a Completely Private Way to Chat With AI &nbsp;&nbsp; meta.com WhatsApp launches totally private 'incognito' conversations with its AI chatbot &nbsp;&nbsp; BBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qa05sWTJGcGpXRWRRdFJMSHFOSGFTckpDNlloZ1FnMTlnTWEwZ3dMUm9SWUhudkFPQ1FBVHliaDlSS0gwV2V5UjNZSkJ5MFJHaE92NkY5YUxjVzAzRm1HRw?oc=5"
+      "category": "models",
+      "summary": "Fiserv has co-created AI agents with six banks and OpenAI &nbsp;&nbsp; American Banker",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2dwQWJYMnJpd3ZTXzg0cE8ycVVWYk15OUJLR1puZXg0TGFrWHpvMk03UWNBMVJ5ejY4d0p4QTlsa2F2Uzg1RUdtZndpX0F3RmktZGVrTWJyWWNWQ1dqTW5Oem1KQW5oZFhaQm1GeFdsTlhlTHJ1alVjX0I5dW4yYWlHa2RkbXQ3OWVza09IdXlTTmk3OTJhTA?oc=5"
     },
     {
       "headline": "OpenAI Floats Idea of Global AI Governance Body With US, China - Bloomberg.com",
@@ -82,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEhCaGZLWFU3VjlLYzFqbUwtTlJMaEdxUGs4bkRCOC1fRmFLYUlPU2JiVnBCU25SYmUwcGJxTndkYTNoMG9Ycmx6ODdhblFTNVVMV0U5Vkk0SW5UWlIxYTBiNzVnMnZzdFZuYXBvRTk2ZDlaODY0ekZMMF95MXBCQUNzU3BYdm9yN2FLNmNZVUg3Y045b0M4Ul9n?oc=5"
     },
     {
-      "headline": "Alexandr Wang says it's 'unfair' to say Meta's AI researchers are just there for the money - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-05-13T16:37:00.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Alexandr Wang says it's 'unfair' to say Meta's AI researchers are just there for the money &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzhTd3lsSU1rLXJOTGE0d0d6QkN3cU5CX25fLTI1NS0yZEVvanRndFBuVjM0X2duN05KeDJTTWJCaWpDeG9jcWdwaGprVDlmN0dNNmNTWEk4LWo0RENIbFdSVGNpVDR1RDJ1WE5oUEk0bm9JU19oQW1kWTdqY1RvcmFNVUQ2UjllaWk4Zm81enJzeEcwZVNBLXl2TWZ0MUlpQXlDTUtaWlpNVm5oMFpF?oc=5"
-    },
-    {
       "headline": "Introducing Claude for Small Business - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-05-13T16:03:54.000Z",
@@ -102,18 +92,37 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5"
     },
     {
-      "headline": "Anthropic courts a new kind of customer: small business owners - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-05-13T16:00:00.000Z",
+      "headline": "Introducing a Completely Private Way to Chat With AI - meta.com",
+      "source": "meta.com",
+      "timestamp": "2026-05-13T14:45:19.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Introducing a Completely Private Way to Chat With AI &nbsp;&nbsp; meta.com WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private &nbsp;&nbsp; WIRED WhatsApp launches totally private 'incognito' conversations with its AI chatbot &nbsp;&nbsp; BBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BakJDVlRuc0ppc2JYcjhDaHpMNFdQc1BUSmlFTE9qZXJQUDdyZGd0ek5OZ0lhWTVCT2dMajFHNXVSM0JEQWFtcUFQLXBTR1Z3cDdkNlBSLS03dUVQZk1yQ0dPeE9HRmtZNDVXVnhpTHNsaUNs0gF6QVVfeXFMTkVpSVJLUG11dThhcHVmSHhxeXhyQlkwYmNkczhycnZtaDBXbEMySHRNTE1XaEtyRXFvbVpGN2w2RHpYUjBNTEllVjBYV2NFZUxMQXZWWE9TTzhUcEJZczdKUGIzWDdXZG9VakRoNWFjR1dycnRwdnlUelE?oc=5"
+    },
+    {
+      "headline": "4 ways AI is enabling the future of industrial work - Microsoft Source",
+      "source": "Microsoft Source",
+      "timestamp": "2026-05-13T14:06:25.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic courts a new kind of customer: small business owners &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEdtVmp4MEZKS3JvSGV5cHFXdkF0LVhQbHJwazBWZHlXZTFoY04ydXUyX1RhY1UzNHdkbTBTYjVkTWJTejlnYy0zaUw4V2RZd0hPNTNJelBzREU5TGFlNlBFSm10Um84QkFaWkpIbkJRdUdRYk9KbVoyclVRSDR5eFN0N1V4UjJSVTl4MFQ2WVltTGFwMmhRdWFmaTU?oc=5"
+      "summary": "4 ways AI is enabling the future of industrial work &nbsp;&nbsp; Microsoft Source",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdUUU9WTkpNUWNFYlkxcVBiTEtPbGV6LUhwTm56bnk1NVBHM2hSaEpxejZieXBvYmFUeXFBMm0wZmFaelZ3dUx6N05QYlYzVHhBUzNHNlFsNGVKY2tNYUgwc0ZUaEdqb0tCbVllTm5CSHZDa09LQUZpWjJoS3I0SUlEcDI0TG1uYnMtME90aVU1YW82bEdreUZjR2VrdEk?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-05-14T21:11:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEppbVdmOGZYMVh3V0ZPNGFiOXVETkZCblhQaU5xN0w3bnBnZlFPM0ZuWUtzN1VsZ1J3bmU1Y2lFLUdYaEdVc3NycUQ0cENWNWl2cVFMeUJXbUtPWVV4Si1PZndBVXBtSUhzaHJzNmZnQ0R0MG1fRkxoNmpLS3NYME85TjlEZ2VYRV81T0pHVW42aEZQSV9WSkRpYU4?oc=5",
+        "summary": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic &nbsp;&nbsp; Fortune"
+      },
       {
         "headline": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
         "source": "TechCrunch",
@@ -124,40 +133,31 @@
         "summary": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned &nbsp;&nbsp; TechCrunch"
       },
       {
-        "headline": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-05-14T17:16:10.000Z",
+        "headline": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-14T18:23:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kOW1FOE5TMUp6Y2xYZWdwV3pMaVBnR0Rwb2R4d2lsb0JsOVlDSm5SSV8tSVBDUjlkY3dXT0lCUmFIRmRfa0NVSDdaUzRNaVg4ZU9vV0VUOVZNVldHVUdxT2hENS03cnJCcUFvMUx1a3NiOVNV?oc=5",
-        "summary": "A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Anthropic forms $200 million partnership with the Gates Foundation - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-05-14T15:06:56.000Z",
-        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UT25PT2ZVemEyNW5mY0RnYjlHa0NhUGw4cVlZWUNaaDdySnRMMXZXZVJMcHRKN25kRzBsVzNINFhUSHhmTGI4MU5JUDEtUVFLcEktM1VvbUZCc1RKUkhwcTFWY3gyWEdQMGZN?oc=5",
-        "summary": "Anthropic forms $200 million partnership with the Gates Foundation &nbsp;&nbsp; Anthropic"
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5",
+        "summary": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Anthropic tightens limits on Claude subscriptions - Axios",
         "source": "Axios",
-        "timestamp": "2026-05-14T13:58:11.000Z",
+        "timestamp": "2026-05-14T12:13:51.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUjhHRjZOWWFNdmkyeHBLWm5qZDV3bHpLTk1sWm8ySnFMclM5WVB5UjdlS2dGdWdOdTVLU1BRZTBIeW52TEIzcmVEcXVfSFpFVlVhTk9KU2x6QTFBS05mcWw5cFc0ZDc1N3AtS3dRLUhJMjVaMUpSLQ?oc=5",
         "summary": "Anthropic tightens limits on Claude subscriptions &nbsp;&nbsp; Axios"
       },
       {
-        "headline": "'Completely private': Meta AI gets Incognito Chat - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-05-14T10:56:28.000Z",
+        "headline": "Fiserv has co-created AI agents with six banks and OpenAI - American Banker",
+        "source": "American Banker",
+        "timestamp": "2026-05-14T11:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qa05sWTJGcGpXRWRRdFJMSHFOSGFTckpDNlloZ1FnMTlnTWEwZ3dMUm9SWUhudkFPQ1FBVHliaDlSS0gwV2V5UjNZSkJ5MFJHaE92NkY5YUxjVzAzRm1HRw?oc=5",
-        "summary": "'Completely private': Meta AI gets Incognito Chat &nbsp;&nbsp; Mashable Introducing a Completely Private Way to Chat With AI &nbsp;&nbsp; meta.com WhatsApp launches totally private 'incognito' conversations with its AI chatbot &nbsp;&nbsp; BBC"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2dwQWJYMnJpd3ZTXzg0cE8ycVVWYk15OUJLR1puZXg0TGFrWHpvMk03UWNBMVJ5ejY4d0p4QTlsa2F2Uzg1RUdtZndpX0F3RmktZGVrTWJyWWNWQ1dqTW5Oem1KQW5oZFhaQm1GeFdsTlhlTHJ1alVjX0I5dW4yYWlHa2RkbXQ3OWVza09IdXlTTmk3OTJhTA?oc=5",
+        "summary": "Fiserv has co-created AI agents with six banks and OpenAI &nbsp;&nbsp; American Banker"
       },
       {
         "headline": "OpenAI Floats Idea of Global AI Governance Body With US, China - Bloomberg.com",
@@ -172,15 +172,15 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
-      },
-      {
-        "topic": "OpenAI",
         "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
         "urgency": "LOW",
         "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+      },
+      {
+        "topic": "OpenAI",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
