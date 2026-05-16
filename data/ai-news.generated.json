@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-16T04:30:59.816Z",
+    "generatedAt": "2026-05-16T07:19:27.181Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-16T03:08:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5"
+    },
     {
       "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
       "source": "The New York Times",
@@ -42,14 +52,24 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6TWZwM05leTUwNTFaZzU5YnRjT3ZhdVRLOHZmaUNWS2VUS3ppbzhGUE00S2ktT0FnS2EwaU8wckRrZ3JIemRBSWsyQ1RoSG52NEhod01yOHh0VEdpY3ZIeVZDMjdVVHBTZTdlejNYcDNjM0NCTVBtVw?oc=5"
     },
     {
-      "headline": "OpenAI keeps shuffling its executives in bid to win AI agent battle - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-05-15T18:21:35.000Z",
+      "headline": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-05-15T17:09:00.000Z",
       "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up &nbsp;&nbsp; WIRED",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5"
+    },
+    {
+      "headline": "OpenAI now wants ChatGPT to access your bank accounts - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-05-15T16:00:00.000Z",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "OpenAI keeps shuffling its executives in bid to win AI agent battle &nbsp;&nbsp; The Verge",
+      "summary": "OpenAI now wants ChatGPT to access your bank accounts &nbsp;&nbsp; The Verge",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWJhWlFPaVc1N3ZBMHNTZ3phTXRJRXFpSHBxOUtiVzJPOFJHWmxySUZ3UHNwZGw4dDF3VkZKcXF1YUFTd0IyZS1zZFJXLWhMaTRoVVJKMnc5MFRJX3hQM3JsWTJXUFFYd3JnbUZOOGs4LVF2QmxNSXhlUTJ0d1c5US1IaXFKd0dvRDJRcEdIUVNrZHVyclZNQ0JLdTdmb1JKdnRKcmNhTDA1SzF6THJjN2ZnY3hHMEtBb2pLY0R3RmpNd3Rr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5"
     },
     {
       "headline": "NTT DATA To Acquire WinWire To Scale AI Adoption And Microsoft Cloud Transformation - Pulse 2.0",
@@ -62,34 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWpmWXQzNVlMWjlsUmJkOElqOURWX1NjOXI1RzlMLVhac1ROc2F4dlowZ1A1V0Zzb05BdjZpRWNXc2N3QkNUVXBLQm9wLTlGWk5weS1Xc1A3N3U4cGQ1a3ZRQXZtbDgxak43SWlXTTM1S2c5ZWpLTnc4WkNDWkZYQ3JYdDdIaW9JRDhIVUl5VVBRc0ZFVDVYOWxUTEFFZUZaRGhPdkxB0gGrAUFVX3lxTE40cENjLXlST1VCVUtUUEpxOXNNclNfZmI0bHhKdnpYajYyTXMzS1A5RnpsOW9PcEY5ekFBaWs4bml2S2FNYjJRbVA0MXZuaVpYTHVYc3VNQ1FYOEpYd1NIckJqWHk3V1lYamNOeWFfcW9HaktLRi1ONkJvcktxaWFvM0s1QzZuNWhLcUJCWVE1c0VzdnloajRzNExpZHpRZEZvTWt5TG9tSGcyaw?oc=5"
     },
     {
-      "headline": "Anthropic Predicts US-China AI Race Could Be Decided by 2028 - eWeek",
-      "source": "eWeek",
-      "timestamp": "2026-05-15T14:30:12.000Z",
+      "headline": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-05-14T21:11:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Predicts US-China AI Race Could Be Decided by 2028 &nbsp;&nbsp; eWeek",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyTVRPNFQ2UFFhTTdsWkJMWkRCVHVneGt5MVFqT2pBNEpzQ0VCMHUzQ0d2RHlPRkozVXJVdFNsSll5aGczWlFCeXlwWFJSU3B0N044Z1RwRWRKb3JkZEpvTEZPOVhUNHM2U2EwbTBKaHRBZlhabGZVM2Zn?oc=5"
-    },
-    {
-      "headline": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China - Nikkei Asia",
-      "source": "Nikkei Asia",
-      "timestamp": "2026-05-15T04:40:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China &nbsp;&nbsp; Nikkei Asia",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXpiYUF1clB5ZkhhMzJib2Z2eTJfSFJsc2EzMXhPb2k2QjI4NGhFSlpnUEZtay1vUFdCQVotY3JWbG5XS09MalBpYmcyRnVSLS1iU1htV2pvTE9ETy1vMHgwTHVQWUt0Qy1KVEJSX1JhYWpjTDFqbklqcVZIaHFQQ3haTW9fdEVDbnBYclUwSVQxZ19Kclo1WHk2UGh3cW9Xc1NJamJkQ0FuMllwdWVtREl4eEh4ZlJWcms4Vk83TmE0R2I5a3MwdGk5ZkktSG1QTG1BZw?oc=5"
-    },
-    {
-      "headline": "OpenAI Considers Legal Action Against Apple in Strained Relationship - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-15T00:48:16.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI Considers Legal Action Against Apple in Strained Relationship &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5"
+      "category": "models",
+      "summary": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEppbVdmOGZYMVh3V0ZPNGFiOXVETkZCblhQaU5xN0w3bnBnZlFPM0ZuWUtzN1VsZ1J3bmU1Y2lFLUdYaEdVc3NycUQ0cENWNWl2cVFMeUJXbUtPWVV4Si1PZndBVXBtSUhzaHJzNmZnQ0R0MG1fRkxoNmpLS3NYME85TjlEZ2VYRV81T0pHVW42aEZQSV9WSkRpYU4?oc=5"
     },
     {
       "headline": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-16T03:08:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5",
+        "summary": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens &nbsp;&nbsp; Business Insider"
+      },
       {
         "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
         "source": "The New York Times",
@@ -142,31 +151,22 @@
         "summary": "The 5 most unhinged revelations from Elon Musk’s lawsuit against OpenAI &nbsp;&nbsp; vox.com"
       },
       {
-        "headline": "OpenAI keeps shuffling its executives in bid to win AI agent battle - The Verge",
+        "headline": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-05-15T17:09:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5",
+        "summary": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up &nbsp;&nbsp; WIRED"
+      },
+      {
+        "headline": "OpenAI now wants ChatGPT to access your bank accounts - The Verge",
         "source": "The Verge",
-        "timestamp": "2026-05-15T18:21:35.000Z",
-        "impact": "LOW",
+        "timestamp": "2026-05-15T16:00:00.000Z",
+        "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWJhWlFPaVc1N3ZBMHNTZ3phTXRJRXFpSHBxOUtiVzJPOFJHWmxySUZ3UHNwZGw4dDF3VkZKcXF1YUFTd0IyZS1zZFJXLWhMaTRoVVJKMnc5MFRJX3hQM3JsWTJXUFFYd3JnbUZOOGs4LVF2QmxNSXhlUTJ0d1c5US1IaXFKd0dvRDJRcEdIUVNrZHVyclZNQ0JLdTdmb1JKdnRKcmNhTDA1SzF6THJjN2ZnY3hHMEtBb2pLY0R3RmpNd3Rr?oc=5",
-        "summary": "OpenAI keeps shuffling its executives in bid to win AI agent battle &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "NTT DATA To Acquire WinWire To Scale AI Adoption And Microsoft Cloud Transformation - Pulse 2.0",
-        "source": "Pulse 2.0",
-        "timestamp": "2026-05-15T15:49:14.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWpmWXQzNVlMWjlsUmJkOElqOURWX1NjOXI1RzlMLVhac1ROc2F4dlowZ1A1V0Zzb05BdjZpRWNXc2N3QkNUVXBLQm9wLTlGWk5weS1Xc1A3N3U4cGQ1a3ZRQXZtbDgxak43SWlXTTM1S2c5ZWpLTnc4WkNDWkZYQ3JYdDdIaW9JRDhIVUl5VVBRc0ZFVDVYOWxUTEFFZUZaRGhPdkxB0gGrAUFVX3lxTE40cENjLXlST1VCVUtUUEpxOXNNclNfZmI0bHhKdnpYajYyTXMzS1A5RnpsOW9PcEY5ekFBaWs4bml2S2FNYjJRbVA0MXZuaVpYTHVYc3VNQ1FYOEpYd1NIckJqWHk3V1lYamNOeWFfcW9HaktLRi1ONkJvcktxaWFvM0s1QzZuNWhLcUJCWVE1c0VzdnloajRzNExpZHpRZEZvTWt5TG9tSGcyaw?oc=5",
-        "summary": "NTT DATA To Acquire WinWire To Scale AI Adoption And Microsoft Cloud Transformation &nbsp;&nbsp; Pulse 2.0"
-      },
-      {
-        "headline": "Anthropic Predicts US-China AI Race Could Be Decided by 2028 - eWeek",
-        "source": "eWeek",
-        "timestamp": "2026-05-15T14:30:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyTVRPNFQ2UFFhTTdsWkJMWkRCVHVneGt5MVFqT2pBNEpzQ0VCMHUzQ0d2RHlPRkozVXJVdFNsSll5aGczWlFCeXlwWFJSU3B0N044Z1RwRWRKb3JkZEpvTEZPOVhUNHM2U2EwbTBKaHRBZlhabGZVM2Zn?oc=5",
-        "summary": "Anthropic Predicts US-China AI Race Could Be Decided by 2028 &nbsp;&nbsp; eWeek"
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5",
+        "summary": "OpenAI now wants ChatGPT to access your bank accounts &nbsp;&nbsp; The Verge"
       }
     ],
     "whyItMatters": [
