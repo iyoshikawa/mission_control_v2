@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-16T11:04:58.767Z",
+    "generatedAt": "2026-05-16T13:41:49.172Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-16T09:01:00.000Z",
+      "headline": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-05-16T13:31:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot &nbsp;&nbsp; The New York Times",
+      "summary": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? &nbsp;&nbsp; The Washington Post",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEZ1N2lTLXBXNlB2UVlRR2hLOFVnSVBTdkRlZHZsWkViX1JxMXQzTzBpZ3k0VDEtX19ucEdJYzFJY3RSX2NBWGFLZGJTQ3VtWVI2Vm4yUWFlNUgwb3NGRk13RWE0OWdtcEYtUVhnS3ZyeVV4N3laaHpSYW5KXzJFSHlzZ1pQYXhxaUNUeFZxRzZ1RTE2d2RFX0RvTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5"
+    },
+    {
+      "headline": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-05-16T12:00:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnMtTXplR19PT2JxbmFpWHVxejE3UTYxSmNQZkk3RDlWc3RsT0FPbUxfek5pc21JSG12dnEwejhRUTF2ZFl4cFNsa3dKaEc3QkFETjdOSzNMV1M0eEY1OHBHblFOZXdJYi1aajJYSk5wS3RqLVhpNmRhUzRrQzVqdjdTQ0xCbG9Ld2h2clZ3amc4Sy1Fc3pwb0xoM3phbEhfMFJ30gGoAUFVX3lxTE1nMVZMY0tBMjhFTnFKNXFGSUE2MXdxZFQ4QzhqVDdmRlNJSXo1LUYwX25lMnZKZ1lpclZKYmRGX0t1V0ZCdXB1bk1QTGxLOF9LUGh1aFVxaTk5all6Wm52THFSOWtIdVdQdlhFUUNZOTNxUnFidnRpSWROTVdWZ3pRQnRtbHRqX0NHTm5qY29MamFfaHVjNTJmQVVYSnQwSGFRTmFJMmhYVQ?oc=5"
+    },
+    {
+      "headline": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-16T03:08:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5"
     },
     {
       "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
@@ -30,16 +50,6 @@
       "summary": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5"
-    },
-    {
-      "headline": "‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-05-15T23:20:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial &nbsp;&nbsp; NBC News",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkl4RVBpQ2JvdHZxbjl4aG9abGkxU2lGWGw3eG9pb1VSWHRxdkZ4ZTEwSEpfMW9jNHNJTHVxMlVhU0I0elU0Q2JKRUJtNno3eWhET1ZKWkNQM1pkZlNablZMdEs4SlZhMlQybU5rMnhBWWh0RXF1YV9FRG1YaV9CY3NsVW1CU0xo?oc=5"
     },
     {
       "headline": "Mark Zuckerberg sends stunning message to Meta employees - thestreet.com",
@@ -62,14 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5"
     },
     {
-      "headline": "Anthropic Raising $30 Billion More as AI Labs Absorb Majority of VC Funding - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-15T15:30:00.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Anthropic Raising $30 Billion More as AI Labs Absorb Majority of VC Funding &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlNqSXdPREVBelBpb29OVjZyaE5UZWNrYURNRnY0b1ZjOWc5Uk11ZGxvUUZnMW1lbXBFUEVBRlRfa0NBVTBfcFFSY3o0X3JPV2tMdGw0VU9ZN0FOSERoLTFWZnh4cmtPMUNqdHRRem1sS25WZ09oWkpHekFJeDMyQWdYcUVRMEM1Y2JGbTVZR05SeGQ1SXF4THpZN3lWaE1jamVEc19jUkpuM3lCNHd6dg?oc=5"
+      "headline": "NTT DATA To Acquire WinWire To Scale AI Adoption And Microsoft Cloud Transformation - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "timestamp": "2026-05-15T15:49:14.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "NTT DATA To Acquire WinWire To Scale AI Adoption And Microsoft Cloud Transformation &nbsp;&nbsp; Pulse 2.0",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWpmWXQzNVlMWjlsUmJkOElqOURWX1NjOXI1RzlMLVhac1ROc2F4dlowZ1A1V0Zzb05BdjZpRWNXc2N3QkNUVXBLQm9wLTlGWk5weS1Xc1A3N3U4cGQ1a3ZRQXZtbDgxak43SWlXTTM1S2c5ZWpLTnc4WkNDWkZYQ3JYdDdIaW9JRDhIVUl5VVBRc0ZFVDVYOWxUTEFFZUZaRGhPdkxB0gGrAUFVX3lxTE40cENjLXlST1VCVUtUUEpxOXNNclNfZmI0bHhKdnpYajYyTXMzS1A5RnpsOW9PcEY5ekFBaWs4bml2S2FNYjJRbVA0MXZuaVpYTHVYc3VNQ1FYOEpYd1NIckJqWHk3V1lYamNOeWFfcW9HaktLRi1ONkJvcktxaWFvM0s1QzZuNWhLcUJCWVE1c0VzdnloajRzNExpZHpRZEZvTWt5TG9tSGcyaw?oc=5"
     },
     {
       "headline": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
@@ -92,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5"
     },
     {
-      "headline": "PwC and Anthropic expand alliance for enterprise agentic AI - PwC",
-      "source": "PwC",
-      "timestamp": "2026-05-14T16:49:19.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "PwC and Anthropic expand alliance for enterprise agentic AI &nbsp;&nbsp; PwC",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeldRcDk3WWpRMHo1a0Qwb3djcGNxOXVVbHAtYVNnT1dtbnZkdGsyc0FlZUNxNDZoaFlaZUhLWGRnMVRaemdvblp1MjVFQjFiajBFM3hZOThxS25zTG9HZFVCdGdRX1JnSVphWUpaTkdjTjFFdVh0eXdhYk1lLTVjb1hacm00OHFjRDhlOGwtRWFjUUFRaHJsRjlXM0d3d1RJVTJMUEZjOGtqYndhRlktRVV3?oc=5"
-    },
-    {
       "headline": "Meta’s New Reality: Record High Profits. Record Low Morale - WIRED",
       "source": "WIRED",
       "timestamp": "2026-05-14T09:00:00.000Z",
@@ -115,13 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-05-16T09:01:00.000Z",
+        "headline": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-05-16T13:31:52.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZEZ1N2lTLXBXNlB2UVlRR2hLOFVnSVBTdkRlZHZsWkViX1JxMXQzTzBpZ3k0VDEtX19ucEdJYzFJY3RSX2NBWGFLZGJTQ3VtWVI2Vm4yUWFlNUgwb3NGRk13RWE0OWdtcEYtUVhnS3ZyeVV4N3laaHpSYW5KXzJFSHlzZ1pQYXhxaUNUeFZxRzZ1RTE2d2RFX0RvTQ?oc=5",
-        "summary": "Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5",
+        "summary": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-05-16T12:00:01.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnMtTXplR19PT2JxbmFpWHVxejE3UTYxSmNQZkk3RDlWc3RsT0FPbUxfek5pc21JSG12dnEwejhRUTF2ZFl4cFNsa3dKaEc3QkFETjdOSzNMV1M0eEY1OHBHblFOZXdJYi1aajJYSk5wS3RqLVhpNmRhUzRrQzVqdjdTQ0xCbG9Ld2h2clZ3amc4Sy1Fc3pwb0xoM3phbEhfMFJ30gGoAUFVX3lxTE1nMVZMY0tBMjhFTnFKNXFGSUE2MXdxZFQ4QzhqVDdmRlNJSXo1LUYwX25lMnZKZ1lpclZKYmRGX0t1V0ZCdXB1bk1QTGxLOF9LUGh1aFVxaTk5all6Wm52THFSOWtIdVdQdlhFUUNZOTNxUnFidnRpSWROTVdWZ3pRQnRtbHRqX0NHTm5qY29MamFfaHVjNTJmQVVYSnQwSGFRTmFJMmhYVQ?oc=5",
+        "summary": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-16T03:08:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5",
+        "summary": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
@@ -131,15 +149,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5",
         "summary": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-05-15T23:20:11.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkl4RVBpQ2JvdHZxbjl4aG9abGkxU2lGWGw3eG9pb1VSWHRxdkZ4ZTEwSEpfMW9jNHNJTHVxMlVhU0I0elU0Q2JKRUJtNno3eWhET1ZKWkNQM1pkZlNablZMdEs4SlZhMlQybU5rMnhBWWh0RXF1YV9FRG1YaV9CY3NsVW1CU0xo?oc=5",
-        "summary": "‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial &nbsp;&nbsp; NBC News"
       },
       {
         "headline": "Mark Zuckerberg sends stunning message to Meta employees - thestreet.com",
@@ -158,22 +167,13 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5",
         "summary": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Anthropic Raising $30 Billion More as AI Labs Absorb Majority of VC Funding - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-15T15:30:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlNqSXdPREVBelBpb29OVjZyaE5UZWNrYURNRnY0b1ZjOWc5Uk11ZGxvUUZnMW1lbXBFUEVBRlRfa0NBVTBfcFFSY3o0X3JPV2tMdGw0VU9ZN0FOSERoLTFWZnh4cmtPMUNqdHRRem1sS25WZ09oWkpHekFJeDMyQWdYcUVRMEM1Y2JGbTVZR05SeGQ1SXF4THpZN3lWaE1jamVEc19jUkpuM3lCNHd6dg?oc=5",
-        "summary": "Anthropic Raising $30 Billion More as AI Labs Absorb Majority of VC Funding &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
