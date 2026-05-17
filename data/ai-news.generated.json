@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-17T04:12:51.735Z",
+    "generatedAt": "2026-05-17T07:34:21.505Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Google DeepMind Launches Veo 3 Video Generator - Let's Data Science",
+      "source": "Let's Data Science",
+      "timestamp": "2026-05-16T22:19:48.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Google DeepMind Launches Veo 3 Video Generator &nbsp;&nbsp; Let's Data Science",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjlxX25MOHZNYnRTNXlNNGI0bWZkdzFvdW9IRzFCUE5xQ1ZDVEFZUzRpNkV1bXhJU1ZyWmFvcnoxblROUGxwOWJjbFZEdEZCUUdMNzdLaldSbS1kRDlSSFZwV2xHbzk2YjNybTV6QnZtQ2xMZW9Zb3U4bDBwQkt0Q0ZmMmRmbTNnQm5HdDY1aGlSdw?oc=5"
+    },
+    {
       "headline": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? - The Washington Post",
       "source": "The Washington Post",
       "timestamp": "2026-05-16T16:00:00.000Z",
@@ -20,6 +30,16 @@
       "summary": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? &nbsp;&nbsp; The Washington Post",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5"
+    },
+    {
+      "headline": "I've been studying Big Tech for a long time. What just happened with Anthropic and the Pentagon terrifies me - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-05-16T12:15:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "I've been studying Big Tech for a long time. What just happened with Anthropic and the Pentagon terrifies me &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3hYdGV2Z3NucUlyRm02NmFRa0VJQXIxenJMZU15QzZ2QkxVWWg2SU1EMW9WSW51enlNWExPcHVEWHZHVTNPcDFPb3lZTzVZbjlIQURiSkhMTXlVMGFBemJfSldJVlVkc3djUUdYSml3cnJmc25QanZ5b0o0NHFOUHhsMVpIWG44cTFfOFZkRElkdkt2SWZKMg?oc=5"
     },
     {
       "headline": "SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026 - Yahoo Finance",
@@ -42,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVndPb3VQUlhvZ3F0SFl3dGxJX1BPUnFNZUpiMzFZaEVYQkp1elJMcHRYNWJUTVZYTzYtb0RBLVpLZ1dXek5aRmlGeERyZHE2bG5QQ3NRQ3FxM3FRTnN6SlFZS2tDYjg?oc=5"
     },
     {
-      "headline": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-05-16T03:08:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5"
-    },
-    {
       "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-05-16T00:33:56.000Z",
@@ -72,24 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbS1hRnVxZ28xY1hiMWZsZXAtUG80UDgzbC1ldDZ6WkIxTUdWS2ZYVFF6MzZReVEwUHlMVXowby1NUUtNU29XaG5oX1pGX2lRMkRVUTA5ZkZTQ29GakFqM2JoRF9TSmZRdFpIN0NBUTlaQ28tQ0RlTHZtb1BSMDlCS3ZDbjVVaG8wcFpvbFRrajY1MmFqUWNZaDFTbjg?oc=5"
     },
     {
-      "headline": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future - AP News",
-      "source": "AP News",
-      "timestamp": "2026-05-14T22:00:00.000Z",
+      "headline": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-05-15T17:09:00.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future &nbsp;&nbsp; AP News",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1g3eU5TWGVoR1RfRjh3UnNqamJMbjllbjlmM0dkTFpoTVlLdG0taHR0Wk9nTGRucXRJWC01aWhVZkFPVjl3dDJqX1lFTWFYWHBRU29hMmJDcmh3VF8zTWdzdFFRTXowVUUwSjlCUFh2dVVKWVBwYnZaSGZ4MDJPRnVhVmRsdFZrT05HUF9TM0h4eW14UzBfM29hc3pIY0JiYi1PbXRxR2N2UQ?oc=5"
-    },
-    {
-      "headline": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-05-14T21:11:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude is telling users to go to sleep mid-session. Users are annoyed but Anthropic says it's a tic &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEppbVdmOGZYMVh3V0ZPNGFiOXVETkZCblhQaU5xN0w3bnBnZlFPM0ZuWUtzN1VsZ1J3bmU1Y2lFLUdYaEdVc3NycUQ0cENWNWl2cVFMeUJXbUtPWVV4Si1PZndBVXBtSUhzaHJzNmZnQ0R0MG1fRkxoNmpLS3NYME85TjlEZ2VYRV81T0pHVW42aEZQSV9WSkRpYU4?oc=5"
+      "category": "ecosystem",
+      "summary": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up &nbsp;&nbsp; WIRED",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5"
     },
     {
       "headline": "UK govt backs DeepMind spinout’s $2.1bn plan to ‘solve all disease’ with AI - Life Sciences Intellectual Property Review",
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWM3N215RlhDY2Z5S29yOEVLbWZ0ZWgtR1ZhSld4UUN4WXJlWGVSajdOSXdFODJYZ0Vhc196ZjlfOHVjN3dyN0hmWDNuTDdUeXJWMEJyUmJHZFNWMzFQRXFxeGlVOGtnS21DdDJ6dG9aQ3AxVTVSaHZyajFPV2p4UkFqcDNXaVJBcGlFRkdYUFRhQVpPaHBvSDdSQ216QzdlMkdkRDlEaTF2TFFxRnJ2S2xRR1NQUWVyd01hRmhMdw?oc=5"
     },
     {
-      "headline": "2028: Two scenarios for global AI leadership - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-05-14T18:14:24.000Z",
-      "impact": "HIGH",
+      "headline": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-14T18:23:00.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "2028: Two scenarios for global AI leadership &nbsp;&nbsp; Anthropic",
+      "summary": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sT0RLX2s1V19uaTlfN0w3NkhVX21TSEo3ZVR4VS10cEoxSThUT3dBR0NZTEptU0VIcERGcXB5SFZ3T1lPN1VxX1dTVngxVU55MEI3NzNWNm9PdFI4V1ZpVUlITQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Google DeepMind Launches Veo 3 Video Generator - Let's Data Science",
+        "source": "Let's Data Science",
+        "timestamp": "2026-05-16T22:19:48.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjlxX25MOHZNYnRTNXlNNGI0bWZkdzFvdW9IRzFCUE5xQ1ZDVEFZUzRpNkV1bXhJU1ZyWmFvcnoxblROUGxwOWJjbFZEdEZCUUdMNzdLaldSbS1kRDlSSFZwV2xHbzk2YjNybTV6QnZtQ2xMZW9Zb3U4bDBwQkt0Q0ZmMmRmbTNnQm5HdDY1aGlSdw?oc=5",
+        "summary": "Google DeepMind Launches Veo 3 Video Generator &nbsp;&nbsp; Let's Data Science"
+      },
       {
         "headline": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? - The Washington Post",
         "source": "The Washington Post",
@@ -122,6 +131,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5",
         "summary": "He’s king of the AI boom. Why do former colleagues say he can’t be trusted? &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "I've been studying Big Tech for a long time. What just happened with Anthropic and the Pentagon terrifies me - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-05-16T12:15:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3hYdGV2Z3NucUlyRm02NmFRa0VJQXIxenJMZU15QzZ2QkxVWWg2SU1EMW9WSW51enlNWExPcHVEWHZHVTNPcDFPb3lZTzVZbjlIQURiSkhMTXlVMGFBemJfSldJVlVkc3djUUdYSml3cnJmc25QanZ5b0o0NHFOUHhsMVpIWG44cTFfOFZkRElkdkt2SWZKMg?oc=5",
+        "summary": "I've been studying Big Tech for a long time. What just happened with Anthropic and the Pentagon terrifies me &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026 - Yahoo Finance",
@@ -142,15 +160,6 @@
         "summary": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-05-16T03:08:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFlhakVHb3U4M01md2JiYlctVzdxMmZhTUU2b3ZXV3ZZT2hzTnFFYUpFVnh3dDlYWlI1eUJOcDF4Z0NwR2FzZzcxQkZOUkE2LVk1Y2tXa25jc1N0MFFWTy1TcWRuQ2xJNTFsRzAydy1yclV3NjhvNjNjOTR5b2REdDREbENMMTJXMkt4a0pBNmlHeDZFWnc?oc=5",
-        "summary": "Salesforce CEO Marc Benioff said his company will likely spend $300M on Anthropic tokens &nbsp;&nbsp; Business Insider"
-      },
-      {
         "headline": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-05-16T00:33:56.000Z",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDh4dllxNlBxZHVoZ0sxdlpCZEZvWXhQOWRBTHEtWGFMR01EeUNxX3V5QjJ2NkU3M1JwRHJXaHJhMnJQclFuQk40UUdraVY2QjhrQ1YwQzRqc0VKT2swcWVnRlFFT3duaEJzTHNfb29GVEpZRW1YRmh6d2ZxdGNob1ZnUHNzT0Y4?oc=5",
         "summary": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Mark Zuckerberg sends stunning message to Meta employees - thestreet.com",
-        "source": "thestreet.com",
-        "timestamp": "2026-05-15T19:17:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbS1hRnVxZ28xY1hiMWZsZXAtUG80UDgzbC1ldDZ6WkIxTUdWS2ZYVFF6MzZReVEwUHlMVXowby1NUUtNU29XaG5oX1pGX2lRMkRVUTA5ZkZTQ29GakFqM2JoRF9TSmZRdFpIN0NBUTlaQ28tQ0RlTHZtb1BSMDlCS3ZDbjVVaG8wcFpvbFRrajY1MmFqUWNZaDFTbjg?oc=5",
-        "summary": "Mark Zuckerberg sends stunning message to Meta employees &nbsp;&nbsp; thestreet.com"
       }
     ],
     "whyItMatters": [
@@ -184,14 +184,14 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
