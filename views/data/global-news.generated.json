@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-18T20:23:32.044Z",
+    "generatedAt": "2026-05-18T22:01:06.933Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Trump says he paused attack on Iran as negotiations continue",
+      "summary": "Trump says he paused attack on Iran as negotiations continue &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-18T20:33:04.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5"
+    },
     {
       "headline": "Cuba warns US military action would cause 'bloodbath' after drone report",
       "summary": "Cuba warns US military action would cause 'bloodbath' after drone report &nbsp;&nbsp; Reuters",
@@ -23,15 +34,26 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0lXWWpFMC1DM0JFSkNPOWhjZ1BNRGV6YTRaUlplNHFFU1NSNDdEMlNfaVl4RkVURGZXaFZMZEhHZGdZcUtKczRsTjh5YlBKek9LVEVZamhSMzJJYVVNVXF3bGhzRFViZ29peHlCS3hvY2VwX0ViLU5kOFdxMk9CUTdrdzU5VzMtTWZPdGJVamlIZlFSNm0tUzJhUzEwbE8yd1JQSUJUanhtSXh1Z051Q0hvZ3g2YjRqUDdUVUR3?oc=5"
     },
     {
-      "headline": "Pakistan sends new Iranian peace proposal to US",
-      "summary": "Pakistan sends new Iranian peace proposal to US &nbsp;&nbsp; Reuters",
+      "headline": "US targets Cuban political, military leaders with new sanctions",
+      "summary": "US targets Cuban political, military leaders with new sanctions &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-18T18:36:42.000Z",
+      "timestamp": "2026-05-18T20:04:01.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5"
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFNEOE5EWkhBMWJLS19sV01ISnBiXzh0cGJWQkRKWm9rOExMZmViU0N3OVMyQnVteUhqdFVsaGZBMFBSVTZJd09OV21HTHpzaFV2NU5wVVd3U2RUYlNwQkNlNGpFNkRBLWhSRHk0SE5ZZU5jSmxvUUZwc3ZCaE5zZnUzd3A1cVpSLU9DZVEtaVZVS2RObmpWd1RzMlZnWDJTalRfSjdEbDlnVExIb3djU0xlcw?oc=5"
+    },
+    {
+      "headline": "Chinese greenfield investment in Europe reaches new record, newspaper reports",
+      "summary": "Chinese greenfield investment in Europe reaches new record, newspaper reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-18T17:55:02.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3BZdlROVFYxTFVYb0VEcGZuZ3FuSldzZE91VlJWVDFXdWM3Tk1WZG51VzJ2RVpWMlZITjh5b3J5b2xiTjNpY25LbjIwanRoTDRuWTVrQVNialBMNGVPbkcyZzFId0dPMmRjZThUOUtSVVFEM0toUnYzTmppODlITXZZVWs5WVVJVVloZHBfdUhxNktwTkdfeTR3Uld2WFJQdVZIOXI0QzFINWJFd2Yyd3B2YW9pejlQU0VjbmxB?oc=5"
     },
     {
       "headline": "No deal, no exit: How US-Iran standoff risks fresh conflict",
@@ -67,37 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmlFNTBHeXl0cmJ2UmMwTFI2VlZrYmV2b0lFQkdJVVZzRjdRd2ZYWHZndTBobW1tUE9ZdlJVaURXMXFkelMyYjYwNVRIanM0YVNRVW1vZFBfVFd3VnFmTlM4czcyLUZneFFVUGNWRkhQRlpOVG9aUndzZ2FndFRuYS1rRUJ6alJtSEktSXdoMXFDUnB4c0VHaWRQMm95bzZWWnZ6UXBFZHBnX1ItbXNoOVVRTm15M2Q2bjZIeU1ramlYbGkzdUFj?oc=5"
     },
     {
-      "headline": "Romanians stabbed journalist in London at behest of Iran, UK court told",
-      "summary": "Romanians stabbed journalist in London at behest of Iran, UK court told &nbsp;&nbsp; Reuters",
+      "headline": "Turkey has potential to influence Ukraine, Iran wars, German minister says",
+      "summary": "Turkey has potential to influence Ukraine, Iran wars, German minister says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-18T15:44:43.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZFBBZjR0U0ZPbGpGeHRNOS1SSV8zNXF2RktPek00SVd6aDVyNjlXZzZXTEdJdmN6OWcwN0dMTVhiOHEzQkVnaGRrSVJvOWoyRzFrV0JCNFRpMVE4V2wydUhwMXZtVURXbHNwRlRqWDZoUmo2dWlxRHhMR0ZJQXUtaGc5MEl3WEhjQnh6eWhLSGxldEdtRGR0YWoyMUk2aE9HUzhFSy1rMUVheXFZMXJtUmR6SjVwTnJXb0wwVw?oc=5"
-    },
-    {
-      "headline": "In war‑scarred Gaza, brides turn to refurbished wedding dresses",
-      "summary": "In war‑scarred Gaza, brides turn to refurbished wedding dresses &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-18T15:40:44.000Z",
+      "timestamp": "2026-05-18T15:46:34.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLVEza1JhY3lBenlKWjY5aWtpeEI1NzhnR1E3VzRGNkNvSk93QzdneVdNZjFVUl9vc3BkME5ESVJiNXZnVUlFNEJTM19vUVpHZHgwQmJPZFVrNmtvYTduYVItTWlCS00tWlhLZEprOHlMOWZGZ1NwOXhyWFcwa0FSdGQ0NV8xME44bDhEbk1TZkNRRFdvU2FmNHhhY1owSkt3elNRS0NXMm90ZU9uZlE?oc=5"
-    },
-    {
-      "headline": "Exclusive: Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war",
-      "summary": "Exclusive: Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-18T14:12:22.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXQ0ZGZRZEVoWXNYN1ExempBZ1Ata245ellOQ0JVNTdnNTRyc2oxZWUzakNEZWllaEs1T0F2cktHVUVqUGJWeW80LU5LT3g1LVJZY3RaMDBsNnpyX09sRXRQOENWZktYT0dCRC02R1o2LTBxV2dEcldNT1V1TXpRRjNQcWFHSkE2Y0tRX0V4NDBfdVpoXzRvSXlrdVNVMk9IeDVTaVRRSDhLZFl2Q3dGa0VfVGlMOTk1VjdHd3lzUzd2OVBwOVQ0VnlB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUgteEhGcWtEay1vZThIQ1FxY1VVMVNqMGlBZ0lzTE8xOHFtV2l1aGVxUkdnWkVxNzRKQUE5WEV0ZklKNTBIX1p4LTZKZU5XZWpDYXFlV0VGUVlVMkFYYXI3aHdLb3VrNmtaSDlwcXh2OXJrOS1qR2p3bWc2U3BPVENWdWIweXlQbFUxaTlxWmdUUHNxVncxcjRldFk4emxCM0lPV09IUi1XUmNqMlgtc295Uzl2WHdLQWd0RXRGN2s?oc=5"
     }
   ]
 }
