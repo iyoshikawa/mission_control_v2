@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T18:08:59.508Z",
+    "generatedAt": "2026-05-19T20:46:36.790Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,13 +12,63 @@
   },
   "newsFeed": [
     {
+      "headline": "Opinion | Anthropic vs. China - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-19T20:44:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Opinion | Anthropic vs. China &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxR1Bxa1JZT3ZibVBIWWpjc0Z1M3Z3cEJhdzR0UlcwSS1DQWU1MHItSjJMeXBabDJRLXZ1c0V6MVBvSW5zbDRvenZxZ0lwWGVKZVdlcDZMSTcyZnNpOUhQWkhSVmVkQQ?oc=5"
+    },
+    {
+      "headline": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-19T20:00:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5"
+    },
+    {
+      "headline": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-05-19T18:37:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlYzcVU2ZV8zSWhBcElKVE0ycnB4MFROcFNCLUJCNnFGcC12eEhDQ3puMy1kOHBWM1F0TlNFSnNCak5lV1BUd1phYlM5VlVudFd3dkN2VF8zaHpuQVFlaldReHBPaU1SUDdvV09XT2tPWXdaWFJrSkwzTjV2Mzk4V0hkVmJBd1lxVWotTFpZOFhxemlBd25aamo3aWRlTjZlRHRjSmNJZExjbUJIOUhfei1YZFFVbFBmM2Nv?oc=5"
+    },
+    {
+      "headline": "Google Hires Staff From Bezos-Backed Contextual AI In Licensing Deal - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-05-19T18:09:48.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Google Hires Staff From Bezos-Backed Contextual AI In Licensing Deal &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUs5MnIzeTExTThGSm0zXzBhSkNYVnZoRkN5VVN3d29zUk9Ja0wwdzU3WldqelQ5QXp3THlyX2FZQkxoU3U0aFkweVdWSkJoLXl4Umx1bzdDbmx4RVNsMmV3cnhIalhtbkJ1UXhtYVlTbU5XM3pVZ2lOdnR1NHRNNW1QTXhYR3E1Qmhra3cxRmxUQ0cxWTEwRWZYRk51N3EwNUMzMGIxVnc2UktudG5oSlFiVEtxbXNQQjZN?oc=5"
+    },
+    {
+      "headline": "Simulate real-world places with Project Genie and Street View - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-05-19T17:52:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Simulate real-world places with Project Genie and Street View &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLThlc1o3TjlJLWlBRnZBb1NZNjhYczBDNzg1czlMck5UUzVwcm1MbXZjVVhaaTZUMnpsZ0lLU3FiWE9BTk83dm1TeHVISnFvN2JVQzhWVUwxNldvbUVGZkx4OHRQbFFLSkcxeDc2NzExRm9OYVBGOEtrUkZUYTlPb094RVFnRFVUVFI2T1pJZmdVWjFhUzBvYVhJcnQ?oc=5"
+    },
+    {
       "headline": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic - CNBC",
       "source": "CNBC",
       "timestamp": "2026-05-19T17:47:26.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oM0xhc3gzR1phR242UDVKSjFyN2pIQXZ2VHRobVNVVElHVWVFbG5hVGF3Q0VUWGliZDhLemdWa1ltRmZ2TlBuTVFOX2hyZ0JaRzhZSXFlRWtZcHZuZ043c1JIUWdlOHRtVmxrVGZCdlBzTUpwMnlUdk9B0gF_QVVfeXFMT09kbmg3TlRTbllJdGJVbF8xRzd3T2lUYV9ycmxBYnN4azJjOThzWXFvU2NBV1JNMktOOEtDUm9xb3V4d2pVVTRCNTVNcVc3UlhHNUk3bWhBVTl6YkxVeU91U25lVmJuWEVCRzBwcGFITkNmYi1UdVBlbVo5dUVmZw?oc=5"
     },
     {
@@ -32,161 +82,111 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RaFg2Q3pCVU5icWEzMFd5bE05TnBGWjd1d1VRWnJvaEszWGhPWVZnSGR0Z0ZZZEVrVnYtb0lLQkRDUWk4WDVXbHpWamFsSFFHdUxFcTE0MzNXWXlfcDBjNXhMMlA?oc=5"
     },
     {
-      "headline": "Automation Anywhere is launching AI agents built to run inside enterprise systems with Cisco, NVIDIA, and OpenAI - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-05-19T17:32:39.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Automation Anywhere is launching AI agents built to run inside enterprise systems with Cisco, NVIDIA, and OpenAI &nbsp;&nbsp; qz.com",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0hwdGRsNHpIcTVTQ0xjdUpsdXV5TG1tblhmZkh5SFE3VUlnSVdteldxd2F1TEEySjlmRGVET2FBUU1DMWZXNDVCczFoVVVMOEZSS21TejVfRFYwVWFubG5RX2E2WEhDNEJld2FteVpnb3pNVnBEclBDV0tWNUFtczB5aHpoaU8zaVMyRFBfN0Z5TU9yVFE?oc=5"
-    },
-    {
-      "headline": "Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom - Fox Business",
-      "source": "Fox Business",
-      "timestamp": "2026-05-19T17:14:00.000Z",
+      "headline": "OpenAI says it’s getting serious about AI detection and labeling - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-05-19T17:45:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business",
+      "summary": "OpenAI says it’s getting serious about AI detection and labeling &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXlVVUZzZkRVcDFkLW5FWlJ5ZndsdnVCTTBfVFJzaGJSMk52MDN0dGZUUUZKTldZTTlGdDFUQ2tYY0pYQUhqUmQxNW9VYVZJQkJwQ0kzMzRKd3ktakNIaFcwMlNhcXM1QnU3NGJfWmJ3Vkh3cDhiS2lSMmJiNDU5SWtPZUttNWpXQVM1Zkx3a0FsbDVZNl91NHRlR1dJT2t1aDl3ZUFsTnBYOTc5?oc=5"
+    },
+    {
+      "headline": "How Microsoft, Meta, xAI Get AI Training Data From Their Employees - The Information",
+      "source": "The Information",
+      "timestamp": "2026-05-19T17:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How Microsoft, Meta, xAI Get AI Training Data From Their Employees &nbsp;&nbsp; The Information",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkJxZlMxQXBzd3FmQ2x3Z3JMYXFHMnp0S0JhU3dzZTlhUTFMUmJFazdFR3NpLVM5WE9lQ29xTWpTaG1YR0VmazNOSDZpRDgtQzZkbjl5NkhLMWYwaTBhQnJodTRkQ3daVGxCaGMwTEctYjhVcXZiamxwQkpDVnQxVjFlTU8ySTJG0gGOAUFVX3lxTE9SOHpSUFZySFFXdTAzaDIwMXI3ZUJ4Uy1tODlZdThLM2l4MjhpZmIyNnR6TVFJeTQzdFc2bEJvTzlmd1pJN05SQ2V2Vkl0OXhYVG9QMmNqaks5ZkRfUmZMQ1lOdmRFRExFRy1ESm9GU3c5ZzV6cWFjUlItVEV6Q3FEYzJ1MWFyVzhVR3pMTlE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlBtYmY4ZnIyV1RDdmxUY0oxSEZKY1ZOMHBPSVR6bDdIeUZXNmZDenl3aURyWWFFWWNKZ0tKQ0FQX0xuNWg1Q0N0Ti1iWnRmU0sxLVpHOF9zdEo4dk9ockJzRlNQWnlHNjZac3RXMjJORFM4Q3NNSktOZmZ6bzkyWnZlM0FLRlE4RXhmTWNLUUtMcHdyVy12dGNVY3FuRGR6VWNoZ29n?oc=5"
     },
     {
-      "headline": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-05-19T16:40:37.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGd5OGFnNXZpc1FlLWNHQVlYMlc4cVJNeDlBT2N1UmF6SlJCTFdEYk9DREdqRFIzZVhBY2lRRndDWlhHVEJaVXJsQ3oxVndsQmlWMmFiVTVQSS11TkZjdTIxaWx0V2tCWTdMTkMtZTJnQldhMXVXMVBnN19kdUFtd0t1TlhSdmZacndGMGxlNFNaSFU3SlN5MVdGcldXSXVhNWprUjF3V3BIcDFsbWNnVkQ5aUJmenRoTHhZSFhEMHJPWnBacDhGT0puS1c?oc=5"
-    },
-    {
-      "headline": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-05-19T16:31:08.000Z",
+      "headline": "Genworth speeds portfolio trade construction and investment insights with Microsoft 365 Copilot - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-05-19T17:17:49.000Z",
       "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3BaX2VoOXUxLXdIWm4tNWVHTmdob2NKeFpXeUR4dV9WNlZSc0pYeFZ4RlpyZHpOSnlheTV0WlVzRjUtYWVsU3VJNzdrdnUzdEI2NGhwT1gwaEZsRXpxQ1gyRVNvQ0JNUDlvNjdudHoxcmdIa0w4U1VkeHZrUWNMbUNteUZqV0xJZVZfeHNWdVhoOGxmSmI5aDU5VUxaOERFUTdibW1SS0RJd9IBrwFBVV95cUxOaUFIT1FQWlBnMXBYRHZZR1puZ0xGVUFUMzJWbU85dGdueDIzZU5rSGd5ZkRtbnNSRUVfZXM4ak9NcVZLclA5U2UwVFRQQUNNVnhwOEpYUmhsYl81NWpIX0QtdlRNVzdjQloxckRmNFhPNG1EMFhwUk9BeTF6c0t1VkhydFNIZVFrX2hrWjBtbmxWeFdpdklqX1JBUjc0b1laQkg1WDNfQzJLVzN5TjBv?oc=5"
-    },
-    {
-      "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic - Axios",
-      "source": "Axios",
-      "timestamp": "2026-05-19T15:41:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI co-founder Andrej Karpathy joins Anthropic &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5"
-    },
-    {
-      "headline": "Digitate Recognized as Solutions Partner with Certified Software Designation from Microsoft - Business Wire",
-      "source": "Business Wire",
-      "timestamp": "2026-05-19T13:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Digitate Recognized as Solutions Partner with Certified Software Designation from Microsoft &nbsp;&nbsp; Business Wire",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONk5YOGhPVUYtUWdhVWNva2ZkaGFkaUFEUnlCUExWQXI2aTUtT3ZSemd3eXJndmJfWTJTZjN1TktqLVFiczItaE5LTkdwSG8tLWNqUExSNVZoWjN6dnhYeTZwdTg0N1V4UzU2ZlJwRElHTzhUU0xTT2RaNm50My1oYzhuZ0FWX1JaTEV6M1Y0MXFmejhkNTdfMGpBX19DN20wYk9WdjVIV3BpSjdhYTdkeURsaGdFOVpxRE5kLU40NDFmbC1uSXY5Y1pBYk9fU2JSNF9GbjVPVXNnUS1RS0gybjJR?oc=5"
-    },
-    {
-      "headline": "Google DeepMind researcher Lun Wang resigns; in a long post tells technology companies what is wrong with - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-05-19T08:14:00.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Google DeepMind researcher Lun Wang resigns; in a long post tells technology companies what is wrong with &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPdG9TVWY0WE5IckUzNm11R0ZrbGszbEtFT1pjVVJRUXdlQ09KZzViXzZERmJrQnN0SXN2RmxPRENhSm00bm5OR2VZd2VYZ1VBRFR6LTNWZEJrNTJlb2haZnlTb3M5UVo2MUZ4a1JiUGVIY0l5c29LU0NvcGtIUUYwazByUW5zbVZaZjFWQ2FoeVNRZGdxSW15VnVfa3o0VlpMWU5yN21DaVBlWHFLc2t2QXVtLTVOU2VSQ2Z4SEVYanB4TGRlRmhNSDNIX0xGWTdFT25TTUc4dUlNMDhxUDUzSzBfLTFONDBrTU9SZVYwZUdSazRmemx3NmszSUVkRWpnYkdTaTZna1E0SGpxdk5ORzd6Rm5XVFFfLXA4MzYzWkxQUDZieXVvZ0NJNXNWTTdiV3BrRWdrOHp2TE1xWWR2b3ZZLU5qeUhSREHSAc8CQVVfeXFMUFUyTks5Nmpqd0dEZXJlUlV3SjdFcmtZR2Z2Vkp0dE9jZEZKOS15dmpxNEs1OVJ4VVFDajRSNEZValdUUHBYLVV3cXJlX0prby05bFJ5ZVdoLUdlRTJaRUNjM2drcnJDSnJ6SEdHdHc5ejhmVW5yOTlrLXVJd2E2bnM1UXpsZkVma29MLVJQLV94V1hCZWV2aGtKVEJCeFRWOU9neVVnRElfTUdFbVMyS3h5akExd0ZXOXlBLVdNeWV4dm9DR0Z4d1ZPbmNfZW5WVnU4R0JlVHdyS2tKUHQ5dEdMYnlyZWNBSkpwd3Z6cHhKaWRIVHUtYUNEZWtPa3NsREhJWGJDNmtPWkpLdmF4bXZ3SVNGQV9DMkJzb3NPZHZ1UXVoLWdlTzMtbXRaNHZhNlEyMXRJVGUxR01XTkZjMDg5RzloZTRsTXBjLXQ1TXc?oc=5"
-    },
-    {
-      "headline": "Google DeepMind’s Demis Hassabis emerges as early Anthropic investor - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-05-19T04:00:21.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind’s Demis Hassabis emerges as early Anthropic investor &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGJRd2hJaFE3b0FNZnB6U19LMFNMSFNzMngtWmNTdW1NVE9TNE5IZ3FrdmJ4REVZVmE4elQybGw4VEpqTDBDYlV4Wm03TUV0dzRQR0pxYnJjVXVRQjh3ZGlYSFFRRzZ0T3ZTQXNrX0t1OExBSS11dWtFRnpxYzZNNGJ1VXQ?oc=5"
+      "category": "models",
+      "summary": "Genworth speeds portfolio trade construction and investment insights with Microsoft 365 Copilot &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjVETE9RbWE3OFlCd2o5SEtzejUtaWlnVHBvYWxlVFZESFhySENkbWhDeWIzd3hkOWxRbUdrSnZWVjZ3VUkwTDhLeVFQYnA4aUxVS21HS0xWekhPZ3VHZ1JUYkgxRGV0YlRpeVFhRmdKUHNBWW8wb3R0OFFydVQtUlhB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Opinion | Anthropic vs. China - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-19T20:44:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxR1Bxa1JZT3ZibVBIWWpjc0Z1M3Z3cEJhdzR0UlcwSS1DQWU1MHItSjJMeXBabDJRLXZ1c0V6MVBvSW5zbDRvenZxZ0lwWGVKZVdlcDZMSTcyZnNpOUhQWkhSVmVkQQ?oc=5",
+        "summary": "Opinion | Anthropic vs. China &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-19T20:00:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5",
+        "summary": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-05-19T18:37:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlYzcVU2ZV8zSWhBcElKVE0ycnB4MFROcFNCLUJCNnFGcC12eEhDQ3puMy1kOHBWM1F0TlNFSnNCak5lV1BUd1phYlM5VlVudFd3dkN2VF8zaHpuQVFlaldReHBPaU1SUDdvV09XT2tPWXdaWFJrSkwzTjV2Mzk4V0hkVmJBd1lxVWotTFpZOFhxemlBd25aamo3aWRlTjZlRHRjSmNJZExjbUJIOUhfei1YZFFVbFBmM2Nv?oc=5",
+        "summary": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "Google Hires Staff From Bezos-Backed Contextual AI In Licensing Deal - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-05-19T18:09:48.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUs5MnIzeTExTThGSm0zXzBhSkNYVnZoRkN5VVN3d29zUk9Ja0wwdzU3WldqelQ5QXp3THlyX2FZQkxoU3U0aFkweVdWSkJoLXl4Umx1bzdDbmx4RVNsMmV3cnhIalhtbkJ1UXhtYVlTbU5XM3pVZ2lOdnR1NHRNNW1QTXhYR3E1Qmhra3cxRmxUQ0cxWTEwRWZYRk51N3EwNUMzMGIxVnc2UktudG5oSlFiVEtxbXNQQjZN?oc=5",
+        "summary": "Google Hires Staff From Bezos-Backed Contextual AI In Licensing Deal &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Simulate real-world places with Project Genie and Street View - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-05-19T17:52:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLThlc1o3TjlJLWlBRnZBb1NZNjhYczBDNzg1czlMck5UUzVwcm1MbXZjVVhaaTZUMnpsZ0lLU3FiWE9BTk83dm1TeHVISnFvN2JVQzhWVUwxNldvbUVGZkx4OHRQbFFLSkcxeDc2NzExRm9OYVBGOEtrUkZUYTlPb094RVFnRFVUVFI2T1pJZmdVWjFhUzBvYVhJcnQ?oc=5",
+        "summary": "Simulate real-world places with Project Genie and Street View &nbsp;&nbsp; blog.google"
+      },
+      {
         "headline": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic - CNBC",
         "source": "CNBC",
         "timestamp": "2026-05-19T17:47:26.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oM0xhc3gzR1phR242UDVKSjFyN2pIQXZ2VHRobVNVVElHVWVFbG5hVGF3Q0VUWGliZDhLemdWa1ltRmZ2TlBuTVFOX2hyZ0JaRzhZSXFlRWtZcHZuZ043c1JIUWdlOHRtVmxrVGZCdlBzTUpwMnlUdk9B0gF_QVVfeXFMT09kbmg3TlRTbllJdGJVbF8xRzd3T2lUYV9ycmxBYnN4azJjOThzWXFvU2NBV1JNMktOOEtDUm9xb3V4d2pVVTRCNTVNcVc3UlhHNUk3bWhBVTl6YkxVeU91U25lVmJuWEVCRzBwcGFITkNmYi1UdVBlbVo5dUVmZw?oc=5",
         "summary": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-05-19T17:46:11.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RaFg2Q3pCVU5icWEzMFd5bE05TnBGWjd1d1VRWnJvaEszWGhPWVZnSGR0Z0ZZZEVrVnYtb0lLQkRDUWk4WDVXbHpWamFsSFFHdUxFcTE0MzNXWXlfcDBjNXhMMlA?oc=5",
-        "summary": "Advancing content provenance for a safer, more transparent AI ecosystem &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Automation Anywhere is launching AI agents built to run inside enterprise systems with Cisco, NVIDIA, and OpenAI - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-05-19T17:32:39.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0hwdGRsNHpIcTVTQ0xjdUpsdXV5TG1tblhmZkh5SFE3VUlnSVdteldxd2F1TEEySjlmRGVET2FBUU1DMWZXNDVCczFoVVVMOEZSS21TejVfRFYwVWFubG5RX2E2WEhDNEJld2FteVpnb3pNVnBEclBDV0tWNUFtczB5aHpoaU8zaVMyRFBfN0Z5TU9yVFE?oc=5",
-        "summary": "Automation Anywhere is launching AI agents built to run inside enterprise systems with Cisco, NVIDIA, and OpenAI &nbsp;&nbsp; qz.com"
-      },
-      {
-        "headline": "Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom - Fox Business",
-        "source": "Fox Business",
-        "timestamp": "2026-05-19T17:14:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONkJxZlMxQXBzd3FmQ2x3Z3JMYXFHMnp0S0JhU3dzZTlhUTFMUmJFazdFR3NpLVM5WE9lQ29xTWpTaG1YR0VmazNOSDZpRDgtQzZkbjl5NkhLMWYwaTBhQnJodTRkQ3daVGxCaGMwTEctYjhVcXZiamxwQkpDVnQxVjFlTU8ySTJG0gGOAUFVX3lxTE9SOHpSUFZySFFXdTAzaDIwMXI3ZUJ4Uy1tODlZdThLM2l4MjhpZmIyNnR6TVFJeTQzdFc2bEJvTzlmd1pJN05SQ2V2Vkl0OXhYVG9QMmNqaks5ZkRfUmZMQ1lOdmRFRExFRy1ESm9GU3c5ZzV6cWFjUlItVEV6Q3FEYzJ1MWFyVzhVR3pMTlE?oc=5",
-        "summary": "Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business"
-      },
-      {
-        "headline": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-05-19T16:40:37.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGd5OGFnNXZpc1FlLWNHQVlYMlc4cVJNeDlBT2N1UmF6SlJCTFdEYk9DREdqRFIzZVhBY2lRRndDWlhHVEJaVXJsQ3oxVndsQmlWMmFiVTVQSS11TkZjdTIxaWx0V2tCWTdMTkMtZTJnQldhMXVXMVBnN19kdUFtd0t1TlhSdmZacndGMGxlNFNaSFU3SlN5MVdGcldXSXVhNWprUjF3V3BIcDFsbWNnVkQ5aUJmenRoTHhZSFhEMHJPWnBacDhGT0puS1c?oc=5",
-        "summary": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-05-19T16:31:08.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3BaX2VoOXUxLXdIWm4tNWVHTmdob2NKeFpXeUR4dV9WNlZSc0pYeFZ4RlpyZHpOSnlheTV0WlVzRjUtYWVsU3VJNzdrdnUzdEI2NGhwT1gwaEZsRXpxQ1gyRVNvQ0JNUDlvNjdudHoxcmdIa0w4U1VkeHZrUWNMbUNteUZqV0xJZVZfeHNWdVhoOGxmSmI5aDU5VUxaOERFUTdibW1SS0RJd9IBrwFBVV95cUxOaUFIT1FQWlBnMXBYRHZZR1puZ0xGVUFUMzJWbU85dGdueDIzZU5rSGd5ZkRtbnNSRUVfZXM4ak9NcVZLclA5U2UwVFRQQUNNVnhwOEpYUmhsYl81NWpIX0QtdlRNVzdjQloxckRmNFhPNG1EMFhwUk9BeTF6c0t1VkhydFNIZVFrX2hrWjBtbmxWeFdpdklqX1JBUjc0b1laQkg1WDNfQzJLVzN5TjBv?oc=5",
-        "summary": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
