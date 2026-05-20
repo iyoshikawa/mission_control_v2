@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-20T12:28:03.522Z",
+    "generatedAt": "2026-05-20T16:28:46.387Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,39 +12,19 @@
   },
   "newsFeed": [
     {
-      "headline": "Exclusive | Bristol-Myers Squibb Brings Anthropic’s Claude to 30,000 of Its Staff - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-20T10:45:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Exclusive | Bristol-Myers Squibb Brings Anthropic’s Claude to 30,000 of Its Staff &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR3JmZVJUWEZ0ZjZyVjZoWXpJeXRCTHlZRFI0aUFXT3htTFg1WHZ0cVVNcFNpbGtzWGlqRkRoRS04aVBENFJNN1RxVklOTDNqenFqX2ZqN2pEd0U4V21yb0I5T01TaHBYYzh0WUpxNTZfZTUtVTZoakZVX3NmaFJtYUFxUEZEWTgzdXI1VlBNang0dFltWXpUMGhXWFE0QzZ5VmtxYVVUcFhQNzA1TXc?oc=5"
-    },
-    {
-      "headline": "Analysis-Fears of unfettered hacking spurred by Anthropic's Mythos AI model overstated - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-05-20T10:23:11.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Analysis-Fears of unfettered hacking spurred by Anthropic's Mythos AI model overstated &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2o5V3FSWFlZOHdsZW5STlRHaVlneER5WGV0aEVXeXRRTm5WV05EZ3U0LWlTcjF5dWUzWDhLZlZ5TlhpZmJIc2I0Sl9wbHdVcUVqbDZkVF8tVjNqcmhwSjdaaERwaGt5UHlXakNLQkZsNnM3MmlZYmFJVng2dnFJUmNvTEFEb3hMRmNXQUJiNUtCZmhhTC1v?oc=5"
-    },
-    {
-      "headline": "Inside Meta’s ads MCP server—here are the tasks AI automates for media buyers - Ad Age",
-      "source": "Ad Age",
-      "timestamp": "2026-05-20T09:00:00.000Z",
+      "headline": "Microsoft: A Look at Whether Azure's 40% Growth Justifies The AI Spending Spree (MSFT) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-05-20T15:36:33.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Inside Meta’s ads MCP server—here are the tasks AI automates for media buyers &nbsp;&nbsp; Ad Age",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUtTYkQxa1l3ZFVwLWxxS3FZN3Q5SnYwUk9OMXZiTW9GeXo2UGJWc1NfSDdHSXprUlRXZFdJSU9WMTRzWjM5c1hiLTZEYlBadFktRE9PNlhSenFkbUROTFQ4RW5wUWxhM29wc3RlZWVXZE9KWUpFSTlMWnNMSmtOV0swX1l3ZUFDY3FVNm45NWFlWHV5?oc=5"
+      "summary": "Microsoft: A Look at Whether Azure's 40% Growth Justifies The AI Spending Spree (MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjVCQ0RMdVBKczJodG5nNVlKdEdsV0xkYkxXUC04TlZYVngyS18tRFpQcEVCYTdFXzBULXkyRllTSGtULWVZTUhwXzhvYWJmMUczZy00UUlLNHBISDBFeVRzX2x0QWc0MEU0V19scmVjRTJzRDYwTFVFVTRpMUZaNThRSVNoSHdVSVAtV0RFWDZiZWdrY05uRkNwUTdJLU8xUGZkMXI0NUNJNmkzdUxDYjFxakVoMXFpdUVNYTNNWkRmZw?oc=5"
     },
     {
       "headline": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build - Oracle Blogs",
       "source": "Oracle Blogs",
-      "timestamp": "2026-05-20T08:46:54.000Z",
+      "timestamp": "2026-05-20T15:29:39.000Z",
       "impact": "HIGH",
       "category": "market",
       "summary": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build &nbsp;&nbsp; Oracle Blogs",
@@ -52,14 +32,64 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzU5OFBRSG5oRF9nV0FPMFBWdkFkbXpxMzlzTGxxQjZZbFEwYTZsc1VOUjlaTS0yN2tRVzJBdlZsV2Y5cGREMGZRZVI1Q0lnaUFPMjNNeTJxSjFQSXJENVF4UE96WFk2NmRYSk41dkhGMmZCSmdFUTk0d2x1NnZHMm9MU2FsbkZCVHAwcGNzNTduNzV4NklGRG81dFFWUjN0ZnVMenRMM2ktemdZVFNscW5ubW5nbDlMeU5BWUlwdF90TnNLeG9ScUdQUGhNQU8zb2pPci1zMUlMbExHakhKYzBKem8?oc=5"
     },
     {
-      "headline": "AI engineer says Google unfairly sacked him after he protested against work for Israel - The Guardian",
+      "headline": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-05-20T06:01:00.000Z",
+      "timestamp": "2026-05-20T14:10:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AI engineer says Google unfairly sacked him after he protested against work for Israel &nbsp;&nbsp; The Guardian",
+      "summary": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use &nbsp;&nbsp; The Guardian",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjBOblFaRk9hM2lucnBhenRnbV9IUFZqOU02cTJUNWdrclk5dmIxc210SW1vRkxTMHFYVzZjZjBFWTdjYkxaTDlLMWhtSzZUR1JXQkNQNGRfcktDZnM0VjA3MWk5Q3FkYkZfeWl2bm5tZkw2Y0xvWFZsSUpQdGNtb0JBSnE0YXVTQUFhaUJ3RFFESUMxTUJKUVJrNHhMcTJieGNET19LNHc3TExVd1BKTlEtMmo0emFpaW1UeXNZTXZsRjc0Yl9kTnRoT3NvUEtCNmNN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakpZQ3d4Nm10Q2dpTHJKUmt0aEh3dFlJdHJGREh6c1hCMGxPaV8tWC11azBLUEFMVjN4YXRxcTRVMm50QUhzc0wxaXpqNkN5bWpBTXdPSTlfZDV6MGZ3LU5CZG9aRUU2QjQtc3JlNWNUOU1KNWVfRnpmcGlNdWZrdkVNOEJsNW1aaHZ6eDhSM19EVUh0QjNOd0pVYXJMc280LW5hc3R6QXZXaEE?oc=5"
+    },
+    {
+      "headline": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-20T12:46:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONkEwaXB6alFpeDJ1YmRtMlpCQUxNVUNXeFhuMHJkNVFkczk5Y1JiWGNMZmpZUHVCUFJWN2cwRW1mX2VCRnFqLWdBdDV4Ml9Mekgwamk4ZVRycEVwcFZHR3ZRb1o0bXFCZTE3b3c0cWpOOFkxdEQzV0ZHY21PY2owN25oenllMnB4ZFp3NVRocU1BSHhSVUlJYWt0Mk5GdW9IQnY1NG9IMGhvUFNLUFE?oc=5"
+    },
+    {
+      "headline": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-05-20T12:42:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeENoYUR6TE04QWdzWXY0NE5WY2ZqcXA1OFVPaWVzRGZIVzBPejRwWXRGcHNxMzR1d0lrLW5rTFIxQkl2Nnk2SUF4cC1qM2ZXMGxLVkdQUjhvUFRZMy0wb2NhMVJBdGxodzRWdTdwS0sxbnF5T3hmenVnQ1htT0Fub0ZnbTU0cEpDdkVzb3VHZ1Y5ZFpvS1FCV2R1aDVGX04xZVBkT1cxUURFekU?oc=5"
+    },
+    {
+      "headline": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-20T11:51:36.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWdsQkU0QVJWQTRMYTdTWk1RMzlPaG9rZmZLNjZRZ185aFdoRy1oR2JwMzFQb0gtdGJIUVBwM3BrZlFnVkQyN0N0aDAyMUF6OUNLTFM0Zm00ZFRaeUp2WVFUaHlFZUhVSC1lMGJUTGhvVzFaMEJmdm1rUFYyempCWWxIYTRZNk10U0lfQ1JDQWRYQzdRc3puYU8yd0NqZVVNVWdKR3VKanktS0g4NUhXeTE2WVViM0twRWdRVDNXNWsyUQ?oc=5"
+    },
+    {
+      "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic - Axios",
+      "source": "Axios",
+      "timestamp": "2026-05-20T08:06:54.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "OpenAI co-founder Andrej Karpathy joins Anthropic &nbsp;&nbsp; Axios Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader &nbsp;&nbsp; CNBC Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk &nbsp;&nbsp; MarketWatch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5"
+    },
+    {
+      "headline": "Widening the conversation on frontier AI - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-05-19T23:36:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Widening the conversation on frontier AI &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWZnZ4WlRmdGxkTGhKV2RscUp3NlZtbWZIaF9MdGQ0M0doV09TaVQ5VEhnMXE2WmpFSFlQMnBSdlJDak5EdjRhRDNja2s3WUxIcG03X29ORjl6Tmh4cFFHNjJoMzl0Zw?oc=5"
     },
     {
       "headline": "NTT DATA To Acquire WinWire To Boost Microsoft Partnership and Support For AI-Powered Operations - Dallas Innovates",
@@ -72,114 +102,84 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmMzM1hVeEktNExjUnlaZjAyb0xjZFFlcFFlU3ZmaHl5SEJldER5bjExUldvR01obmQ2RUxZNlRaeHh0QUVicHhraFNQVzB0WTNWUV9JYWRQUTBKZWVLeThicHhCUC1lQjlyRXVqMnVaUDM4WEJDM0NXZ1BScXpkSXczWThxUWVvalRNNVNoS0ljVzhtdldWSmdVRTdWb3lDUlUxVjd2MmMtRHRndGpRZHctTDhCMEV2M0FfU2NveUllRTA?oc=5"
     },
     {
-      "headline": "Meta AI releases new feature for parental supervison on teen accounts - KBTX News 3",
-      "source": "KBTX News 3",
-      "timestamp": "2026-05-19T22:22:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta AI releases new feature for parental supervison on teen accounts &nbsp;&nbsp; KBTX News 3",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDNLQXNrMFlhbHVyeXFFT3FoM0FkZUdwaGJESTBHMFItbVNtN3RrNUwxdEFLd2xHZjdvOEI1b1ZBWkJnaEkwbWVnazRfaWdORU5LRzRwOHduaXgxSTBhR3hMNy1uMmlhR3dMcUo2MkJnUWY5WS1MRkdVcUp5cTNWUFJ3UGJ0UEhzdHVTLXdBZWdtREQ0YlZvQzFFUdIBrwFBVV95cUxQaUREM0tmVWRJeExlQlBWZnBQTjVmeV9ORnZxQi1jNVM3dFFDZUI2TjdVN3dNNzVXWUViUGdBWlV5T0I0UU1FUThxSWw4d1ItaU5zUVRISnplUmJ2X3Q5T2d5ZHJYM2NwLURFQ0RjQV9FdFlYMjhCbmpuQWZONUwwc1dPazJFLWJVZFNzNkxxRzczTWo5a09pcXlQX2tSVENONXhway1WNWtfNnhqUm9z?oc=5"
-    },
-    {
-      "headline": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation - The New York Times",
+      "headline": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-05-19T20:00:06.000Z",
+      "timestamp": "2026-05-19T20:05:09.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation &nbsp;&nbsp; The New York Times Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ &nbsp;&nbsp; The Guardian Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Meta’s New Reality: Record High Profits. Record Low Morale &nbsp;&nbsp; WIRED As Meta lays off 10%, 7,000 employees will be moved into AI roles, source says &nbsp;&nbsp; NBC News Meta’s day of reckoning: Thousands to be cut in AI-led reorganization &nbsp;&nbsp; CTech Meta Moves 7,000 Workers Into AI Roles Ahead of Job Cuts &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ &nbsp;&nbsp; The Guardian Meta’s New Reality: Record High Profits. Record Low Morale &nbsp;&nbsp; WIRED Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Mark Zuckerberg’s Meta kicks off major bloodbath with 8,000 layoffs as AI roils tech giant &nbsp;&nbsp; New York Post Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5"
-    },
-    {
-      "headline": "Wall Street Watchdogs Pause Some Cyber Exams After Mythos Shock - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-19T19:03:40.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Wall Street Watchdogs Pause Some Cyber Exams After Mythos Shock &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1Qwd19lOUJNSm5tOFhyc0J6S3MwbzEzX2JZUmhyRHBKYS14eXd2TEo0Z0xHYXZUQkFWOEZCbFdwbDU2MTgyWnoxUW5YRWExNXc5dkJmSTl2UXFna0dvaGlCMnU2bWlzSW1oZC1lWXl0RG5oeWxudmVJekk1aUxoRWZSWGdJZ0J1bDFYN2N4allXX0hoU0RWREs5b1pIbkQ1dTdzdlVOMG1hWmVkcW9mbGJ4dEhTcWlaNjl6LXBHRzhsa2FCOUVJdU5n?oc=5"
-    },
-    {
-      "headline": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more - Ars Technica",
-      "source": "Ars Technica",
-      "timestamp": "2026-05-19T18:37:02.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google’s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more &nbsp;&nbsp; Ars Technica",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdlYzcVU2ZV8zSWhBcElKVE0ycnB4MFROcFNCLUJCNnFGcC12eEhDQ3puMy1kOHBWM1F0TlNFSnNCak5lV1BUd1phYlM5VlVudFd3dkN2VF8zaHpuQVFlaldReHBPaU1SUDdvV09XT2tPWXdaWFJrSkwzTjV2Mzk4V0hkVmJBd1lxVWotTFpZOFhxemlBd25aamo3aWRlTjZlRHRjSmNJZExjbUJIOUhfei1YZFFVbFBmM2Nv?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Exclusive | Bristol-Myers Squibb Brings Anthropic’s Claude to 30,000 of Its Staff - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-20T10:45:00.000Z",
+        "headline": "Microsoft: A Look at Whether Azure's 40% Growth Justifies The AI Spending Spree (MSFT) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-05-20T15:36:33.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR3JmZVJUWEZ0ZjZyVjZoWXpJeXRCTHlZRFI0aUFXT3htTFg1WHZ0cVVNcFNpbGtzWGlqRkRoRS04aVBENFJNN1RxVklOTDNqenFqX2ZqN2pEd0U4V21yb0I5T01TaHBYYzh0WUpxNTZfZTUtVTZoakZVX3NmaFJtYUFxUEZEWTgzdXI1VlBNang0dFltWXpUMGhXWFE0QzZ5VmtxYVVUcFhQNzA1TXc?oc=5",
-        "summary": "Exclusive | Bristol-Myers Squibb Brings Anthropic’s Claude to 30,000 of Its Staff &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Analysis-Fears of unfettered hacking spurred by Anthropic's Mythos AI model overstated - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-05-20T10:23:11.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2o5V3FSWFlZOHdsZW5STlRHaVlneER5WGV0aEVXeXRRTm5WV05EZ3U0LWlTcjF5dWUzWDhLZlZ5TlhpZmJIc2I0Sl9wbHdVcUVqbDZkVF8tVjNqcmhwSjdaaERwaGt5UHlXakNLQkZsNnM3MmlZYmFJVng2dnFJUmNvTEFEb3hMRmNXQUJiNUtCZmhhTC1v?oc=5",
-        "summary": "Analysis-Fears of unfettered hacking spurred by Anthropic's Mythos AI model overstated &nbsp;&nbsp; Yahoo"
-      },
-      {
-        "headline": "Inside Meta’s ads MCP server—here are the tasks AI automates for media buyers - Ad Age",
-        "source": "Ad Age",
-        "timestamp": "2026-05-20T09:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUtTYkQxa1l3ZFVwLWxxS3FZN3Q5SnYwUk9OMXZiTW9GeXo2UGJWc1NfSDdHSXprUlRXZFdJSU9WMTRzWjM5c1hiLTZEYlBadFktRE9PNlhSenFkbUROTFQ4RW5wUWxhM29wc3RlZWVXZE9KWUpFSTlMWnNMSmtOV0swX1l3ZUFDY3FVNm45NWFlWHV5?oc=5",
-        "summary": "Inside Meta’s ads MCP server—here are the tasks AI automates for media buyers &nbsp;&nbsp; Ad Age"
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjVCQ0RMdVBKczJodG5nNVlKdEdsV0xkYkxXUC04TlZYVngyS18tRFpQcEVCYTdFXzBULXkyRllTSGtULWVZTUhwXzhvYWJmMUczZy00UUlLNHBISDBFeVRzX2x0QWc0MEU0V19scmVjRTJzRDYwTFVFVTRpMUZaNThRSVNoSHdVSVAtV0RFWDZiZWdrY05uRkNwUTdJLU8xUGZkMXI0NUNJNmkzdUxDYjFxakVoMXFpdUVNYTNNWkRmZw?oc=5",
+        "summary": "Microsoft: A Look at Whether Azure's 40% Growth Justifies The AI Spending Spree (MSFT) &nbsp;&nbsp; Seeking Alpha"
       },
       {
         "headline": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build - Oracle Blogs",
         "source": "Oracle Blogs",
-        "timestamp": "2026-05-20T08:46:54.000Z",
+        "timestamp": "2026-05-20T15:29:39.000Z",
         "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzU5OFBRSG5oRF9nV0FPMFBWdkFkbXpxMzlzTGxxQjZZbFEwYTZsc1VOUjlaTS0yN2tRVzJBdlZsV2Y5cGREMGZRZVI1Q0lnaUFPMjNNeTJxSjFQSXJENVF4UE96WFk2NmRYSk41dkhGMmZCSmdFUTk0d2x1NnZHMm9MU2FsbkZCVHAwcGNzNTduNzV4NklGRG81dFFWUjN0ZnVMenRMM2ktemdZVFNscW5ubW5nbDlMeU5BWUlwdF90TnNLeG9ScUdQUGhNQU8zb2pPci1zMUlMbExHakhKYzBKem8?oc=5",
         "summary": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build &nbsp;&nbsp; Oracle Blogs"
       },
       {
-        "headline": "AI engineer says Google unfairly sacked him after he protested against work for Israel - The Guardian",
+        "headline": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-05-20T06:01:00.000Z",
+        "timestamp": "2026-05-20T14:10:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWjBOblFaRk9hM2lucnBhenRnbV9IUFZqOU02cTJUNWdrclk5dmIxc210SW1vRkxTMHFYVzZjZjBFWTdjYkxaTDlLMWhtSzZUR1JXQkNQNGRfcktDZnM0VjA3MWk5Q3FkYkZfeWl2bm5tZkw2Y0xvWFZsSUpQdGNtb0JBSnE0YXVTQUFhaUJ3RFFESUMxTUJKUVJrNHhMcTJieGNET19LNHc3TExVd1BKTlEtMmo0emFpaW1UeXNZTXZsRjc0Yl9kTnRoT3NvUEtCNmNN?oc=5",
-        "summary": "AI engineer says Google unfairly sacked him after he protested against work for Israel &nbsp;&nbsp; The Guardian"
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakpZQ3d4Nm10Q2dpTHJKUmt0aEh3dFlJdHJGREh6c1hCMGxPaV8tWC11azBLUEFMVjN4YXRxcTRVMm50QUhzc0wxaXpqNkN5bWpBTXdPSTlfZDV6MGZ3LU5CZG9aRUU2QjQtc3JlNWNUOU1KNWVfRnpmcGlNdWZrdkVNOEJsNW1aaHZ6eDhSM19EVUh0QjNOd0pVYXJMc280LW5hc3R6QXZXaEE?oc=5",
+        "summary": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "NTT DATA To Acquire WinWire To Boost Microsoft Partnership and Support For AI-Powered Operations - Dallas Innovates",
-        "source": "Dallas Innovates",
-        "timestamp": "2026-05-19T22:33:55.000Z",
+        "headline": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-20T12:46:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONkEwaXB6alFpeDJ1YmRtMlpCQUxNVUNXeFhuMHJkNVFkczk5Y1JiWGNMZmpZUHVCUFJWN2cwRW1mX2VCRnFqLWdBdDV4Ml9Mekgwamk4ZVRycEVwcFZHR3ZRb1o0bXFCZTE3b3c0cWpOOFkxdEQzV0ZHY21PY2owN25oenllMnB4ZFp3NVRocU1BSHhSVUlJYWt0Mk5GdW9IQnY1NG9IMGhvUFNLUFE?oc=5",
+        "summary": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-05-20T12:42:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeENoYUR6TE04QWdzWXY0NE5WY2ZqcXA1OFVPaWVzRGZIVzBPejRwWXRGcHNxMzR1d0lrLW5rTFIxQkl2Nnk2SUF4cC1qM2ZXMGxLVkdQUjhvUFRZMy0wb2NhMVJBdGxodzRWdTdwS0sxbnF5T3hmenVnQ1htT0Fub0ZnbTU0cEpDdkVzb3VHZ1Y5ZFpvS1FCV2R1aDVGX04xZVBkT1cxUURFekU?oc=5",
+        "summary": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-05-20T11:51:36.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmMzM1hVeEktNExjUnlaZjAyb0xjZFFlcFFlU3ZmaHl5SEJldER5bjExUldvR01obmQ2RUxZNlRaeHh0QUVicHhraFNQVzB0WTNWUV9JYWRQUTBKZWVLeThicHhCUC1lQjlyRXVqMnVaUDM4WEJDM0NXZ1BScXpkSXczWThxUWVvalRNNVNoS0ljVzhtdldWSmdVRTdWb3lDUlUxVjd2MmMtRHRndGpRZHctTDhCMEV2M0FfU2NveUllRTA?oc=5",
-        "summary": "NTT DATA To Acquire WinWire To Boost Microsoft Partnership and Support For AI-Powered Operations &nbsp;&nbsp; Dallas Innovates"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWdsQkU0QVJWQTRMYTdTWk1RMzlPaG9rZmZLNjZRZ185aFdoRy1oR2JwMzFQb0gtdGJIUVBwM3BrZlFnVkQyN0N0aDAyMUF6OUNLTFM0Zm00ZFRaeUp2WVFUaHlFZUhVSC1lMGJUTGhvVzFaMEJmdm1rUFYyempCWWxIYTRZNk10U0lfQ1JDQWRYQzdRc3puYU8yd0NqZVVNVWdKR3VKanktS0g4NUhXeTE2WVViM0twRWdRVDNXNWsyUQ?oc=5",
+        "summary": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
