@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-20T16:24:32.257Z",
+    "generatedAt": "2026-05-20T19:23:26.040Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails",
-      "summary": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails &nbsp;&nbsp; Reuters",
+      "headline": "US offers new relationship to Cuba in Rubio message",
+      "summary": "US offers new relationship to Cuba in Rubio message &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-20T15:51:39.000Z",
+      "timestamp": "2026-05-20T17:09:46.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHhHdlJFY1E4bGlQRXIzMDUwWXliRzNFVllxaTBMMWhpemRvcWpJMUx2SkFDMUt1WVJUX0Z1OVhCcnR5aUd5dVRSLUxkWEV6Zno4QjRjemxON2c1cDN1bUY3U0VzU25JRUhVRXJfSmQ5TlNIOEhiMHpJQ1hCejhzUkcyT2ItOUk1SGVUOWFKcUNQck1vdWRsaEQ4UWIteUlLbGQzZlFhSDVvUQ?oc=5"
+    },
+    {
+      "headline": "Germany to invest in everyday shelters, shifting from Cold War bunkers",
+      "summary": "Germany to invest in everyday shelters, shifting from Cold War bunkers &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-20T15:23:43.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtCOC1FeFNhRG9yNTFpSUMzVVFkN2JFRXJSWGhTLUZ4SE1ueklHTzB2cEdSWGZOTy0ycE9pQkFKNDl0SHY5Y1p0UHIxdGxqZG0wX3FjS1VZZFFmcnZzU18xczQ1eUk4VGJWelp1blVYNjJMOFd6elZ2NWMxQlNqMlo1SUV0TkF0RlhFeWpyWTU0czUwM2JLLW1pUDFfQTZWUnRRNmUta1p5ckhBb2hmM2RCcDg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUg3NUZkdEdtUUdfcm9IZS1RN2pMMHJGUExuR2tSWVpaZFhmekk1aXJGMWlVUVJfS3RXNEctMkZNY1FQZWtVdFN1Q2h2dTgxRmZncjZqZnlpc0hpMm94b3Ezd1dJOWh3eHBJSVVhX29NclBIdGlBMXJwMXVaaHlWcWVocmpCcWVjUUtHallrYVZ0NmxNQlRpUWt1YmNDRnZ0bGFfbU9iZXNBdm5UYkVTenpwZTdoVlVmUGxnckF3?oc=5"
+    },
+    {
+      "headline": "Russia-China summit statement highlights meat trade risks",
+      "summary": "Russia-China summit statement highlights meat trade risks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-20T13:50:42.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUlQQ1pvWUFld3RvaDNWa2Y3X3JiV216NldtRV9xb1hVUUdZSzN1b3FOeWIta3RhR1JycHM1WEt0U2xwQV96bFNnMzdmMURiNlp0aHg2M2RaSjh0Qy1PQU94aXR4cUhrZzlHenpkZkFIZ1BybG1EbHl0ZmQzakdxeFRDNnpERnJuU09KM2t3YVVFWEtVWUJNNTlCYkJ5cnhQOTVHdGJLaDNjQ3h2VlByNUJ5SVdfUmZPY2JfSWZZTGNKbjFGNW1iWQ?oc=5"
     },
     {
       "headline": "Hormuz closure could trigger 'agrifood shock', price crisis within a year, FAO warns",
@@ -45,17 +67,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5"
     },
     {
-      "headline": "US offers new relationship to Cuba in Rubio message",
-      "summary": "US offers new relationship to Cuba in Rubio message &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-20T12:46:31.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHhHdlJFY1E4bGlQRXIzMDUwWXliRzNFVllxaTBMMWhpemRvcWpJMUx2SkFDMUt1WVJUX0Z1OVhCcnR5aUd5dVRSLUxkWEV6Zno4QjRjemxON2c1cDN1bUY3U0VzU25JRUhVRXJfSmQ5TlNIOEhiMHpJQ1hCejhzUkcyT2ItOUk1SGVUOWFKcUNQck1vdWRsaEQ4UWIteUlLbGQzZlFhSDVvUQ?oc=5"
-    },
-    {
       "headline": "Russia approves law permitting drones to be shot down over oil and gas rigs in Caspian Sea, Ifx reports",
       "summary": "Russia approves law permitting drones to be shot down over oil and gas rigs in Caspian Sea, Ifx reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -67,37 +78,26 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcjRicDVIemtwVldFZ0JlUlliYUtVVlM5elRtczEySFV0X3ZwdnYzQzhocDdDRFNQNUxxSG9TTmU3MnplZlY2MzRFdEVEUnlQNG95bktpckRJRTdHWVB3S3dPaVdKaXBITzRDOGNKZmNsZWFZa3hKREQ0aU83Y2RkZWNSZkpaT3BrNm91Q2gzZ1lmSmhBd3pHN3lYdl9Tdy1McDQ4MXg2dnZfUnhOYi1qTVB1RUE4ZjM2LTdnalM3MXVMMDJTc21PWE1nSHU?oc=5"
     },
     {
-      "headline": "India's weather futures debut puts Mumbai rain up for trade",
-      "summary": "India's weather futures debut puts Mumbai rain up for trade &nbsp;&nbsp; Reuters",
+      "headline": "China allows three Brazilian plants to resume beef shipments, group says",
+      "summary": "China allows three Brazilian plants to resume beef shipments, group says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-20T12:00:07.000Z",
+      "timestamp": "2026-05-20T11:59:21.000Z",
       "impact": "HIGH",
-      "region": "India",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWi1XWGRPbU95LS12YzhjUEl0eUNXVWwzVGVGaGlUbHE0Wk9DNHVuOFFWSWJIWV9FbE5pYUdJcnhpcFFWTndUcUhkZlpWNjhMbTlibG5NMm90QWpGdFl1dnROMWsxRW5wMHR2RGtkb1F3SXpDNDlzNnNhN01uX0ViT3gwT0JxUE9nY3hNekN4NEw3NkVqUXpoUjl4UlhpSjJQa2JaTGhtNDQxYVpQc3dSdw?oc=5"
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUVKX0RsRGR6LVVhempWaU1oNTdHUjZjSkJGQVByMWlTSUNKbUd2NmJTbFBIV1VXNVVlUDVLM0kxVk5KRlp0R0VJaFp2eENhWlEwNlJqa2l5NFVybGJVeGFBVWJKSmN1bHdoSktKdmZ6eWRwUlNSVENZNzJWNmFQNUlTS05DWlNzbXRaSUw5ZkVST2F6dlI2WnFZcTY2bUpyZnlvalNQS1Uzc0VvaE9YNXVtQXUxUi1qQl9mQk03cFg?oc=5"
     },
     {
-      "headline": "Indonesia plan to centralise palm oil exports raises fears of supply disruption",
-      "summary": "Indonesia plan to centralise palm oil exports raises fears of supply disruption &nbsp;&nbsp; Reuters",
+      "headline": "What is Indonesia's new plan to control export of key commodities?",
+      "summary": "What is Indonesia's new plan to control export of key commodities? &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-20T09:40:09.000Z",
+      "timestamp": "2026-05-20T10:19:48.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY0ZZNTdoQWJWVVI5NkdwalBEM1lHdlpfRjNkZmtnZDg4RTZNX3M3NmIxUjNtU0F0NnVhSWFDVFRfVUtMYUJ1UHlUeEpzVWZmN19hRURxb3hlWVV2Vlp5ZUtKdVczbkNIaU1fYnRHcld3bjdFWWV5YVlLX2MyZEp0ZDJpczRmR1gtV1Ryby1ZaXJGRXpOM242T0JmTmpXMVBnRmRUTjItRkQyV2thTUZDcTRGU3JIVlM5eXdzVEhVeHNZLTRnYng4?oc=5"
-    },
-    {
-      "headline": "Russia says troops deliver nuclear warheads in major exercise",
-      "summary": "Russia says troops deliver nuclear warheads in major exercise &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-20T08:59:45.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY0NzYXl1VlBXVElfbkRNM29JWFJvaEp6OURLN0dabm9pQW9qYnlyeDExWUxWTTNEN1lrVUdsQTJxcHVJZWx4VGdSZzlKSGFRbnpnbGhQc2Nrc1ozdjJuaVU0NjFRbzFHMHFzOGtvYS1CMlVHT01xRGVhSjVMeGMxaTV1NThyUlItcU0ySmNpLXEwajNqdE5pamlUcjd6V1JVNmpCMktnQXVKbWpEZ19pSmZKNThxcU5rU3Z1QkZn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEN6amJUUGRDRXJlN3Q4Tm1BZklBRnZPampvOUpkZnBoVUlXQUZMajFpMXNKU1lzR25ZM0E5Mk1WWFFlUnFMcFhYQW1iNU1WOGdCMjlsQ2R0NUhSQ1JnTGV1bkxMZ2F0WjQyT09BYm91WGxkME50dFplM3hwNGl2bklaaF9OVTJOd2dneDRLaHNTdDZXSzRBZWh1RTBEcFJ5Ym53R3B6bDhlNUVnOGxJ?oc=5"
     }
   ]
 }
