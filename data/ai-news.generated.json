@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-20T21:59:40.187Z",
+    "generatedAt": "2026-05-20T23:23:31.395Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Texas AG Ken Paxton launches investigation into Meta AI glasses over privacy concerns - WFAA",
-      "source": "WFAA",
-      "timestamp": "2026-05-20T21:14:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Texas AG Ken Paxton launches investigation into Meta AI glasses over privacy concerns &nbsp;&nbsp; WFAA",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUdMdzhjWWNmR0xIa1FRZFZMX041ZXFZcnl0OE0zMlJZZUR1UXFub3A1b0hfOG95d2FOM3VzLWdnUXZxSlVvYkh5UzVSQTdQS2lzT0prTzhwV3hzZnRlWi11RlU1RkhrSkR2RFFJdjZNMWVOV0NuTEE5TzJkYmFYWW8yWDNoUHl0UG96eHowVWI2UFBYYS1LTXBRVFpZR29rbU5SbUFzQ0N4Qmt0Ty02TE92dF9Vb3V6dndlMTRSdldUa2p6eUJWZ08zeXQ3Nld3dFJlZXAwLWRYRlZEbWhDOV9lQ0lQeUNTeWVrdC0xbEo0UQ?oc=5"
+      "headline": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-05-20T22:01:59.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Prayers, nudist colonies, drinking: How Meta employees are reacting to mass layoffs &nbsp;&nbsp; The San Francisco Standard Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Meta’s New Reality: Record High Profits. Record Low Morale &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5"
     },
     {
       "headline": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI - WSJ",
@@ -32,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONkEwaXB6alFpeDJ1YmRtMlpCQUxNVUNXeFhuMHJkNVFkczk5Y1JiWGNMZmpZUHVCUFJWN2cwRW1mX2VCRnFqLWdBdDV4Ml9Mekgwamk4ZVRycEVwcFZHR3ZRb1o0bXFCZTE3b3c0cWpOOFkxdEQzV0ZHY21PY2owN25oenllMnB4ZFp3NVRocU1BSHhSVUlJYWt0Mk5GdW9IQnY1NG9IMGhvUFNLUFE?oc=5"
     },
     {
+      "headline": "Exclusive | Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-20T20:54:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Exclusive | Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NoS2RrWHg1NUpwVkRrd3hyTzFHRGNSdWYtWElOS3JXV2czY19mYTltdkl5NW91OG5zZ3dndFVKZVoxMzc1dzVleEZyeVJDcTVwMlF2OXFiV0ZMcVU2NFFoTXVlUURwaW50ZmZybUNHYnM3bTVqci11cjM5U3Z5ejJ0ckgyUEU0ZmVVYXdoemx3c3Q0blEzSE44b1Qzc0ktZmVJQXRFUVc3YzVBSFBrUkJiOWFTdjAxTWtR?oc=5"
+    },
+    {
       "headline": "Google is dethroning OpenAI as the king of consumer AI - The Economist",
       "source": "The Economist",
       "timestamp": "2026-05-20T20:49:59.000Z",
@@ -42,34 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXJ2TUFGVnVEY19DZ3lyMVFGeFpxM2R2OGQwTUxLNGhuNjNhWmU3bFQwQS01ZzVQVzJORHlRWGZkNmtrZEFzN25BM0U0MUQyRlRQQ09qUzVaeDdndGw3SHJtN1ltYjVYZ25xc01FOHJRMEV1WS16S2kzQ1dDZkx5SDhJRU9qVVlYUGpsRER3bk80RjVNV1JONVNHemtTazVMRkE?oc=5"
     },
     {
-      "headline": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount - The New York Times",
+      "headline": "OpenAI Prepares to File for an I.P.O. in Coming Weeks - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-05-20T18:03:00.000Z",
+      "timestamp": "2026-05-20T18:41:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta’s New Reality: Record High Profits. Record Low Morale &nbsp;&nbsp; WIRED Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5"
-    },
-    {
-      "headline": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-05-20T17:43:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEFoWUdIMTFJaWtwM3pCdUltTmZlOWRHTkIzVFZndWF5WUlSUnJmSkxBTUVyOXVGUE1weGw0UG9QaG9yeUJzc0l0dnpIZnVwcVJWN0pNTTUzZWpHaWxyb0M2UXNJTEJsQk4zLU16RkZOblhjUklfcVU1OWxkZHZMVjh3ZWxxVkJOeUFSUDRJRTBVdmFqSnNIVnpB0gGfAUFVX3lxTE5ra0M5dXhnWnA5RWllVUZ4Y2ZsRnh0OGNRRTVmcmczY0w4SE5Jclc5ZnRPMVpMTlkwUXYxN1BpWU9BMXdXT2RHbUxqdW83bjgtZTdvWDNuUFhnLW5fcW9DYkZ1b1ZWa3B1WnU2a1RTSmw3VTBjd0xraEgxMHpzTkJDcW9DNFdrVkw5LVFMQVlab25QYnRzeFNZVzR5d05hSQ?oc=5"
-    },
-    {
-      "headline": "Exclusive | OpenAI Is Preparing to File for an IPO Very Soon - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-20T17:43:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive | OpenAI Is Preparing to File for an IPO Very Soon &nbsp;&nbsp; WSJ OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important' &nbsp;&nbsp; CNBC OpenAI Prepares to File to Go Public in Coming Weeks &nbsp;&nbsp; The New York Times",
+      "summary": "OpenAI Prepares to File for an I.P.O. in Coming Weeks &nbsp;&nbsp; The New York Times Exclusive | OpenAI Is Preparing to File for an IPO Very Soon &nbsp;&nbsp; WSJ OpenAI Faces IPO Unknowns Even After Victory Over Elon Musk &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRenYyMXEyVGhlMnlXNi1pb2xaVlRURFNaYW5NUGdERVB4WVdQa2dfYWVoNjdJYXcwUVRjQ0FpTzZBdnVMUHZQRktvYUROdWdEYVRGbm1TNDJraGVXYkpiQ3ZrZ21oM25wVkpZ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcklkTzJFdzZvREs4Ukc2SWM1X1J2dVE1MTUxcU90a1N1NUFWR3ZtOWt6SFZKekthZ2huSlpXRnJ1TDViY1NlcWQ2NUMxaU9tcHUzLUVhRnl6R0pkR1plZHhPVW5WWEhfSTVJZEhn?oc=5"
     },
     {
       "headline": "An OpenAI model has disproved a central conjecture in discrete geometry - OpenAI",
@@ -82,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5"
     },
     {
-      "headline": "Microsoft: A Look at Whether Azure's 40% Growth Justifies The AI Spending Spree (MSFT) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-05-20T15:36:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft: A Look at Whether Azure's 40% Growth Justifies The AI Spending Spree (MSFT) &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjVCQ0RMdVBKczJodG5nNVlKdEdsV0xkYkxXUC04TlZYVngyS18tRFpQcEVCYTdFXzBULXkyRllTSGtULWVZTUhwXzhvYWJmMUczZy00UUlLNHBISDBFeVRzX2x0QWc0MEU0V19scmVjRTJzRDYwTFVFVTRpMUZaNThRSVNoSHdVSVAtV0RFWDZiZWdrY05uRkNwUTdJLU8xUGZkMXI0NUNJNmkzdUxDYjFxakVoMXFpdUVNYTNNWkRmZw?oc=5"
-    },
-    {
       "headline": "Build enterprise-grade AI apps with Microsoft developer tools and Oracle AI Database - Learn more at Microsoft Build - Oracle Blogs",
       "source": "Oracle Blogs",
       "timestamp": "2026-05-20T15:29:39.000Z",
@@ -102,26 +82,46 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzU5OFBRSG5oRF9nV0FPMFBWdkFkbXpxMzlzTGxxQjZZbFEwYTZsc1VOUjlaTS0yN2tRVzJBdlZsV2Y5cGREMGZRZVI1Q0lnaUFPMjNNeTJxSjFQSXJENVF4UE96WFk2NmRYSk41dkhGMmZCSmdFUTk0d2x1NnZHMm9MU2FsbkZCVHAwcGNzNTduNzV4NklGRG81dFFWUjN0ZnVMenRMM2ktemdZVFNscW5ubW5nbDlMeU5BWUlwdF90TnNLeG9ScUdQUGhNQU8zb2pPci1zMUlMbExHakhKYzBKem8?oc=5"
     },
     {
-      "headline": "Google DeepMind CEO says AI will save more energy than it uses within 10 years - Good Morning America",
-      "source": "Good Morning America",
-      "timestamp": "2026-05-20T15:05:31.000Z",
+      "headline": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-05-20T14:10:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google DeepMind CEO says AI will save more energy than it uses within 10 years &nbsp;&nbsp; Good Morning America",
+      "summary": "Google DeepMind in talks with UK unions amid staff concern over US and Israel’s AI use &nbsp;&nbsp; The Guardian",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzRBMVNRWVRxc19nWkR0X3YteWItajNCT2hYWDRmLU5sWjJjQXI4d25mWDhtQ3RCUDk2ZGc3Qmx1eE9yZTBPdjVzTGIxQWFIeXNqT3ItXzFJVGpoVjBMOEtVdGdxQ05CY0hwVWhVSkI1SEFLZmZ2SmJGRnYyTmZCaTl1cmduQl8zV25RU2tTdy0tZGNTbWZBMHBUY05Oc3Y4SXZGekkwdF8ycFFpbGNzUGdOMDczQdIBuwFBVV95cUxNSXpRM3F2TldIX19UZF9BSXE3RV9VTkJnOW03UEpUbVVpVVJIdkxCQ1p3LV9UcWpieHdlOEFsVTFRV2Rkc1pCSUowcHQ0QWcwM1dwMi0wVEsxUXdiNE1VNTlNdXVNOTBkVmFOcnFzSmFYRlpGZUdmTkwxc2YyLUJBN0hrQ2I3Z3Q5WnN0YzVKNjkxSkIyazBIemxvbDVnYnB5MlhtWHlwZzJ0YjRlTWo1LWJQTE1aNG1HclRJ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakpZQ3d4Nm10Q2dpTHJKUmt0aEh3dFlJdHJGREh6c1hCMGxPaV8tWC11azBLUEFMVjN4YXRxcTRVMm50QUhzc0wxaXpqNkN5bWpBTXdPSTlfZDV6MGZ3LU5CZG9aRUU2QjQtc3JlNWNUOU1KNWVfRnpmcGlNdWZrdkVNOEJsNW1aaHZ6eDhSM19EVUh0QjNOd0pVYXJMc280LW5hc3R6QXZXaEE?oc=5"
+    },
+    {
+      "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic - Axios",
+      "source": "Axios",
+      "timestamp": "2026-05-20T14:09:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI co-founder Andrej Karpathy joins Anthropic &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcWNHT21RRk15dzlSTTRBOGlOdmE2RHVFUndyS3lfcXpJV1lQQ2ZoTXF5VFlSZk9QLUJxNDJTQUM0c2RDLS1BQ3B6WXdiNUp1aDJEdXRGX25jQi1zdDVvVFprNG1iWWNLNGJpUzZuSFF5a3liUkZOSEt2dWY?oc=5"
+    },
+    {
+      "headline": "Inside the next phase of OpenAI’s political strategy - Politico",
+      "source": "Politico",
+      "timestamp": "2026-05-20T14:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Inside the next phase of OpenAI’s political strategy &nbsp;&nbsp; Politico",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTk04QXZNaUg0N2F3a1V4VFVIYjZRaUtfT0JzZUgxNy1ORm9ZMGFyM1dmRzlMak1DZU5hcDV4ZzdLSktjQk5JODNxd1FMT0V5QXdiTTd6X19JUXZJUGNkY0hjZUpKOVFLZG5NTU9kQnRMWWhhbVR6Qmh5c0M?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Texas AG Ken Paxton launches investigation into Meta AI glasses over privacy concerns - WFAA",
-        "source": "WFAA",
-        "timestamp": "2026-05-20T21:14:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUdMdzhjWWNmR0xIa1FRZFZMX041ZXFZcnl0OE0zMlJZZUR1UXFub3A1b0hfOG95d2FOM3VzLWdnUXZxSlVvYkh5UzVSQTdQS2lzT0prTzhwV3hzZnRlWi11RlU1RkhrSkR2RFFJdjZNMWVOV0NuTEE5TzJkYmFYWW8yWDNoUHl0UG96eHowVWI2UFBYYS1LTXBRVFpZR29rbU5SbUFzQ0N4Qmt0Ty02TE92dF9Vb3V6dndlMTRSdldUa2p6eUJWZ08zeXQ3Nld3dFJlZXAwLWRYRlZEbWhDOV9lQ0lQeUNTeWVrdC0xbEo0UQ?oc=5",
-        "summary": "Texas AG Ken Paxton launches investigation into Meta AI glasses over privacy concerns &nbsp;&nbsp; WFAA"
+        "headline": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-05-20T22:01:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5",
+        "summary": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Prayers, nudist colonies, drinking: How Meta employees are reacting to mass layoffs &nbsp;&nbsp; The San Francisco Standard Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Meta’s New Reality: Record High Profits. Record Low Morale &nbsp;&nbsp; WIRED"
       },
       {
         "headline": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI - WSJ",
@@ -133,6 +133,15 @@
         "summary": "Meta Begins Laying Off Thousands of Employees as It Transforms Around AI &nbsp;&nbsp; WSJ"
       },
       {
+        "headline": "Exclusive | Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-20T20:54:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2NoS2RrWHg1NUpwVkRrd3hyTzFHRGNSdWYtWElOS3JXV2czY19mYTltdkl5NW91OG5zZ3dndFVKZVoxMzc1dzVleEZyeVJDcTVwMlF2OXFiV0ZMcVU2NFFoTXVlUURwaW50ZmZybUNHYnM3bTVqci11cjM5U3Z5ejJ0ckgyUEU0ZmVVYXdoemx3c3Q0blEzSE44b1Qzc0ktZmVJQXRFUVc3YzVBSFBrUkJiOWFTdjAxTWtR?oc=5",
+        "summary": "Exclusive | Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "Google is dethroning OpenAI as the king of consumer AI - The Economist",
         "source": "The Economist",
         "timestamp": "2026-05-20T20:49:59.000Z",
@@ -142,31 +151,22 @@
         "summary": "Google is dethroning OpenAI as the king of consumer AI &nbsp;&nbsp; The Economist"
       },
       {
-        "headline": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount - The New York Times",
+        "headline": "OpenAI Prepares to File for an I.P.O. in Coming Weeks - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-05-20T18:03:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5",
-        "summary": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta’s New Reality: Record High Profits. Record Low Morale &nbsp;&nbsp; WIRED Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-05-20T17:43:11.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEFoWUdIMTFJaWtwM3pCdUltTmZlOWRHTkIzVFZndWF5WUlSUnJmSkxBTUVyOXVGUE1weGw0UG9QaG9yeUJzc0l0dnpIZnVwcVJWN0pNTTUzZWpHaWxyb0M2UXNJTEJsQk4zLU16RkZOblhjUklfcVU1OWxkZHZMVjh3ZWxxVkJOeUFSUDRJRTBVdmFqSnNIVnpB0gGfAUFVX3lxTE5ra0M5dXhnWnA5RWllVUZ4Y2ZsRnh0OGNRRTVmcmczY0w4SE5Jclc5ZnRPMVpMTlkwUXYxN1BpWU9BMXdXT2RHbUxqdW83bjgtZTdvWDNuUFhnLW5fcW9DYkZ1b1ZWa3B1WnU2a1RTSmw3VTBjd0xraEgxMHpzTkJDcW9DNFdrVkw5LVFMQVlab25QYnRzeFNZVzR5d05hSQ?oc=5",
-        "summary": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Exclusive | OpenAI Is Preparing to File for an IPO Very Soon - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-20T17:43:00.000Z",
+        "timestamp": "2026-05-20T18:41:52.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRenYyMXEyVGhlMnlXNi1pb2xaVlRURFNaYW5NUGdERVB4WVdQa2dfYWVoNjdJYXcwUVRjQ0FpTzZBdnVMUHZQRktvYUROdWdEYVRGbm1TNDJraGVXYkpiQ3ZrZ21oM25wVkpZ?oc=5",
-        "summary": "Exclusive | OpenAI Is Preparing to File for an IPO Very Soon &nbsp;&nbsp; WSJ OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important' &nbsp;&nbsp; CNBC OpenAI Prepares to File to Go Public in Coming Weeks &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcklkTzJFdzZvREs4Ukc2SWM1X1J2dVE1MTUxcU90a1N1NUFWR3ZtOWt6SFZKekthZ2huSlpXRnJ1TDViY1NlcWQ2NUMxaU9tcHUzLUVhRnl6R0pkR1plZHhPVW5WWEhfSTVJZEhn?oc=5",
+        "summary": "OpenAI Prepares to File for an I.P.O. in Coming Weeks &nbsp;&nbsp; The New York Times Exclusive | OpenAI Is Preparing to File for an IPO Very Soon &nbsp;&nbsp; WSJ OpenAI Faces IPO Unknowns Even After Victory Over Elon Musk &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "An OpenAI model has disproved a central conjecture in discrete geometry - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-05-20T16:31:14.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yX01zN3g1dUU2anpzWXA3d3RaQ3RaYWRPVkUtRzlyeElQN0lBZVFfNzQ1dTFleFB6aThGc0pweklXck9ZSXhMelJ0amRKaEY4ZDdoVkJqMEFXTkQ4OWp6OTlnNmZ2VUNlTVRDSHN5WVVUc0xndXU5T2t3?oc=5",
+        "summary": "An OpenAI model has disproved a central conjecture in discrete geometry &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
@@ -190,15 +190,15 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
