@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-21T15:21:19.928Z",
+    "generatedAt": "2026-05-21T17:57:04.010Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports",
-      "summary": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports &nbsp;&nbsp; Reuters",
+      "headline": "US labor market shows resilience in face of war; housing still subdued",
+      "summary": "US labor market shows resilience in face of war; housing still subdued &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-21T12:59:50.000Z",
+      "timestamp": "2026-05-21T17:10:32.000Z",
       "impact": "HIGH",
-      "region": "Global",
+      "region": "United States",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVRvak1VSmRQU3R6VnNfSlNFd0ZLSS03TmI2OUdlZ1dDMklUWmFFcEY4WlhuWG5qazlqUENXZmZnQTh1NWNMVHpsbHY5T0NqUDBZYVY4aWlBNjA0QVJlSXJzMV9JZXYtcDRxMkpNdEdYeXRORG54MzBkYVdMdnpDWWt1T1dQTzFDdmRMMnNqbUM0NU5DcXlhWVFmMGVMVC1QVXl2dzRn?oc=5"
+    },
+    {
+      "headline": "US energy storage additions hit a first-quarter record, report shows",
+      "summary": "US energy storage additions hit a first-quarter record, report shows &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-21T16:10:20.000Z",
+      "impact": "HIGH",
+      "region": "United States",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmJsTXRsV3ZUR2lvam5tbjZxQ3lheW1IM1J3WGc5MGVkaW5OVndsNzV4d1lUYzF5MTg0RG01cGJsMTkyb2JpVndzbFItVk9GY3ozSlZrLWlJSlh0QjdQb1BoZ3poVFdxZGsyRzRWSWxZTzJvZWw3S3g0MkNRLUhSNjJwbTZEWjBuT1dnby1oSjJQVzVJeFUtVjJNV3hPX3lwWWYxbk1vSkx4NWFCOUZvZkR0bHhLRHBYN3hCaktXcFdCRGdhWjdfMmZB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0FDdHVtVHFoT3BJNnlObzVxbGk1amtLQ25MUEFaeFJQWUpITzRrdnhUNUgtTVdrQWNMWXlzVXVtMU5qb0x2cDJCMU1NQ19HczRMZE5lY3ZIMzhDa2NqcjBfYUZod1huYlpHM2pXT2tjSmlzYmt1UmRqVnVPVmZBT2FlbEtxZjM0SU5rWVFvODEyWDNsMWNFRy00MWlFd2IxTUlsZ18za3pqd3h6clJlTkgxS2hkenNV?oc=5"
+    },
+    {
+      "headline": "Countries condemn Israeli minister's treatment of Gaza flotilla activists",
+      "summary": "Countries condemn Israeli minister's treatment of Gaza flotilla activists &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-21T13:08:49.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbG53em1Va1FHNjhfQ09vckt4Z29PMHhiYmFoX242UVo2V25VZURrenF5MGNKMHVhU1ZVZUFwMlBWT3VaX3lLM2NfMFNNcVpCeWRGempXX1dzUjgxUklLTGlqVW1wQzR0cFROVDBNbUV6cG4zT0kxT1pEOVhjejZaZmZMSENlTi11TTJlY242OEhlYTlpR2hGb3V6V3JmakYwYVpyVll0MWtvVS1uamVZeVRsa2FZN2szak56WHM0dUFjci16?oc=5"
     },
     {
       "headline": "India wants return of stranded ships before sending more to Gulf",
@@ -34,6 +56,28 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTJWSm14Y1c4WEQ0RHJjOEFITVc3ekJhSUxGZXVuS1MwQnNrMTk5dDZDSmQ4dDRaQ1dnc1l5TlJ4U0VPWjJuVUJ2YVU2bVpWVmRGUmtpZDREMjltWDE3NUYwY1JNSFNaZ1dQZHJ6M0hfZ3JOVURSdXNYTUdFS1RGcVVWR3NWa043Vl80TnBOWHlVUmNwNHROdEpCeWJjRFhwLU1vMTl2T2ppV2htQnVj?oc=5"
     },
     {
+      "headline": "India hiring tilts toward contracts as AI prompts workforce rethink, TeamLease says",
+      "summary": "India hiring tilts toward contracts as AI prompts workforce rethink, TeamLease says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-21T12:18:37.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNFpKYnlRTzQzbjk4ZUlhRU1BWUNQdGNudC1YR1A0Y1NGU0xaTzZSRnF1aDFZem1XWnlpVGQxVWo0UXF3dmJZNmlPQWhyRzMwclM2MUhYdWVVUTI5dEtfSmt5MzRRMEoyXzdxOFJXc1RiQTBaTHF2djlmb29jZVJTRTdqY21rU2NXX2tWMmEweTNENXpCaEMtS2E0YVktdkdHWGFwOU9ub2lsV0FGTmQxM2pJT19TX01jOTJWNjF4MWhjR0VxWm82RmdKSlN3VWo0MDBwNg?oc=5"
+    },
+    {
+      "headline": "Fishing boats worldwide tuck dockside as diesel prices surge on Iran war",
+      "summary": "Fishing boats worldwide tuck dockside as diesel prices surge on Iran war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-21T11:43:44.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZngxMlNIZS1RYmFabXB1TjdfQTJNcmJSeTc0VjlKaUNUS1F4U3NuOEFCY1hraVdjTXFLZFdEcEhGcnBsRWp1OFpaUldFWGFFQ1RmN2lteDJtV2FqSkxMb080UlhtQmQ2eGlPZktNbHlRQWtpcVNUaHJlZF9LaS1GWE9ZbHBTaEdJVEhQZjBnUFVzT3ptS2ppN2p6Tm9LSnBpS2NqQ2FoTElYRlJZM2RnWEVLLTYxc19CZnc?oc=5"
+    },
+    {
       "headline": "Iran war drags European economy down, pushes prices up",
       "summary": "Iran war drags European economy down, pushes prices up &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -45,59 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3RGVHR6WTRZWk53ZzdZZF9ySHZNdTNHdUh2VDZGUnlCZkVQcGxuVjM0T3lUbGwtN2V2cVZqaTlNZHNFNk1sT0hSRXRyNTlxd0N2eThLZVE3Q0QyMEFmN0JfVGJfcl9wM0xUbmtmRXJrVDEzNzZEWkxlOTI1Mld3U0tyRjhzMkNNRUR1aFdJbjhzcW1oZkhNUkNjWTdkdG5iT29QMQ?oc=5"
     },
     {
-      "headline": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows",
-      "summary": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows &nbsp;&nbsp; Reuters",
+      "headline": "EasyJet flags uncertain outlook as Iran war lifts fuel costs, bookings weaken",
+      "summary": "EasyJet flags uncertain outlook as Iran war lifts fuel costs, bookings weaken &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-21T09:55:44.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlJTU0QwWHg1blgyRXJEX2hfRm1VN243VHJja21LNk5qeVd0dlNOTHdQc1dYWkUwMjFuMmxtbW1rc1psTXpPTUNJN1A3R01FTVRNRXQ5dm5NTTJNRWdNUFBiNVZSbU1nbWhKeFBiNHdTTjhxREFRcVlHX3pmRmNIT2FZUnhfZ0o3RDlSTzNJZWxtcE9falZOSDNpbnFHRUpwa3gxNHlPMG5OcTNGZy1iMjUxaE80MlhocWs5WkhydEtyYmdLRENMNm9KVQ?oc=5"
-    },
-    {
-      "headline": "CEO Dimon says JPMorgan to hire more AI staff, fewer bankers, Bloomberg News reports",
-      "summary": "CEO Dimon says JPMorgan to hire more AI staff, fewer bankers, Bloomberg News reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-21T09:25:17.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUmxYYXEycDFOMXVUMlp6YUMyWnhmVFFod1JPRmFycGZjSE04Qi1JcjNGMldQemRjTWxad0hGMy1DM0o5b3k2WHhZZlViTDRBVERqajlqUVRUOE1pOGVDVFJiY1Y5LWphOFp1QXA1ZldxWWRxNDdjRVl4OXY3cjFjQzlJQll1Z1pVLWpQSm54RzgzaG1ZR1pabGxua2o4V1VnNFlNRlU2VFdZb1ZKV2pPUFV4MUFZeExualQyS2hpd2kzaTcycTFJQVFqZS1JeVdfT1NLaw?oc=5"
-    },
-    {
-      "headline": "Russia says it will support Cuba as U.S. tightens the 'noose'",
-      "summary": "Russia says it will support Cuba as U.S. tightens the 'noose' &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-21T09:13:56.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDBGYzlGTU9PcV9LOEthYmx6Zm03WExXeXJ5MjdKSExKaWZ2Wjg2TzFiQzdzWkNDZ1NVaDBiYnJ2Sk1Sa28yZkxzeExWaTlINVZ2ZjdtRWtuZEw3MW82SVBWVXpiSE1rTUljN0g1LUpTbkx6V2kydktWcHBNc0ZoR1UtSTREMnhlWlNhWFdLODNZeENMV1N3?oc=5"
-    },
-    {
-      "headline": "China shipped a little fuel to Southeast Asia in April but curbs still bite",
-      "summary": "China shipped a little fuel to Southeast Asia in April but curbs still bite &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-21T08:24:58.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDZPOE9JbUNfVk0xbEUyMXZnal9LWEJMYzFzX1h0Qk5VVHNhUnpMTldSU09KNWpZZFI3WmkzV0Rab2FNODNqZDVrSkQxbXRFMHp6Ull3M3o0c2Z2WkYxaGdzeF9fXzhNOWQ3cjV3VVIwTllVNVVueWNnUUo4cDcxdWVHcHZDZGJaMXI4NVVnQXhsSGpaS18wYkpSM1FQVE1odXFzeVFrOS1CbGZMVWNsUURONUl3Zw?oc=5"
-    },
-    {
-      "headline": "Dollar edges up but stays below six-week peak on Iran deal hopes",
-      "summary": "Dollar edges up but stays below six-week peak on Iran deal hopes &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-21T07:49:49.000Z",
+      "timestamp": "2026-05-21T09:58:27.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSDVQVlNBdFhJcDBJb0Z1RHFWQVEyQlhWN1hjazEwMjFiZktlbkI5VXM0d2dua2JvaGVuOW1OdkEwNkVwTkRjdnRMNWZmTU9nSXR4R0Y0N2dnY3pfYV9tM0pYWF9lWWlBT2t1WWsxZjdLWU5EVTFpNktQaFdpR09ZdElSMGFRa1BxdGdVdU84d1k0M1BFMXhudjdSTnlNSWFQTFdrY2NSV1JNYl9KQjlJRy11NDBoc1V0RFhzZ2xMSHI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTVhQkdBdzdjeDl1Q243Z010a3BCOFhjWVpZSGJMZXZXbU9KUHFCMS00YWFKbnByaVNoYngwMTRUWENxb2VpMFlXOFp3VGY4ckgyUTQ4M1dNeGNTY3ItSTNVem9QbDZlZFBoNkN2S1g1RFBya0JJTDk2R2NJMEdYekI3elFCcHJRRlV1UG1udXdGZy1rOVJjam5TVzJ0NzV5ZVIyNnNBOHRnMWItUUdKWnZTUTRfYm9CRUE?oc=5"
     }
   ]
 }
