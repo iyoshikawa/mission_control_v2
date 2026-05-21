@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-21T08:35:29.875Z",
+    "generatedAt": "2026-05-21T12:18:37.755Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,46 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic nears first quarterly profit, pays SpaceX $1.25B monthly - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-05-21T12:08:57.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic nears first quarterly profit, pays SpaceX $1.25B monthly &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqc1UtZVhtSWo0SzJpLXZYWm1JWVk0dUJJU0h6YndPTFB3NFphbkdUdlJ3bkdWdzFUM3d3OG85SFV3UkUzc0gwQ0RyTk10U1k3OFBjUUtBX0wxdGt4VFY2YlZhSWNKZVRQWjdJbWdqWlNGWXdtTHltdmdDdFRFTFk?oc=5"
+    },
+    {
+      "headline": "Meta’s AI First Overhaul Tests Workforce Morale And Investor Expectations - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-21T11:13:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s AI First Overhaul Tests Workforce Morale And Investor Expectations &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWF5WjFYNHNOSHA4bTFvdEUwTXFQbWg3blRteFFqaTBjNWhydENBcllTTzR5NVpXRlNKeWZQdjFNWFRKeXRhY3hGREQ0TVNmSTFZWjNnLVZlNUptdlI5YW0xRXpOaWJEbkZLX0k5Nl9xNkNzU1VxbHNQbTBjbEZRLWI1VjN5WGc4eXJ1TUcwbkNZaDU2VlV3Mw?oc=5"
+    },
+    {
+      "headline": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation - Microsoft Source",
+      "source": "Microsoft Source",
+      "timestamp": "2026-05-21T11:04:23.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation &nbsp;&nbsp; Microsoft Source",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZjI0dzlfdDNSa3RqRldvZDRqb2tWZFRkRzZ4ZXR1UVBybzc4X243Mm1uc3NXWXFFYjRLTDlRcWZMYnpKcDlkWVNvd1ctVWxkbzYtMl85ZHBKR0ZiUG14UFF2ODdpekY5cEQ0ckJZZUt6SlV1bnRaOG1uN0tPT1hGbVlDakNHcXo0THM4ZUxnZ3NQekc2SmVuVDNNR3V5TXNIOEVBZ0FUb0FRMGhZLWNkT3lDVTVZdF9DV0V6SXRpcU42a1pQSEhzVktibk91TnJRcnFMTUlNQkZqOFdBS3dlN2tQYjE3MkJMalp3UlJod0VibUhmZ2t3ZXY1QWlsZG9ZaFdiV05Ccw?oc=5"
+    },
+    {
+      "headline": "Meta AI launches private Incognito Chat - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-05-21T10:50:40.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta AI launches private Incognito Chat &nbsp;&nbsp; Fox News",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoZHN6U1ItUGlseFVBUHdIc2t1OE9zc05oSnMwTkZSN3hCMkpHaGp0M295bW1YTU4xVU1RRFBNMUItN1ZRWUJOR2FQUFVuc2FEOUJ6S3Z5YUhYVDAzUkk1eHZoTmZRM012MEtUNzJ2RjdHMWNoWmhj0gF8QVVfeXFMT2FSZGNkSHFPUkJZQWVyNHdSTkNFbUhkcmRoTmJuVFNYS3V3VHBkRlE3UWNOZ2tERFB2djlzQ0QxRVUyUmNaSkctalZPWXY4c3RHclVtRnlRTXM4dTBwaHF2cTA3QXZpd3Y2NVBJRVVxRlBSdDJwZjB6Y0ZHeQ?oc=5"
+    },
+    {
       "headline": "Microsoft pitches Azure Linux for AI-native infrastructure - SDxCentral",
       "source": "SDxCentral",
       "timestamp": "2026-05-21T07:13:13.000Z",
@@ -20,36 +60,6 @@
       "summary": "Microsoft pitches Azure Linux for AI-native infrastructure &nbsp;&nbsp; SDxCentral",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3NhVDFhVGVKaWQ2MUJMRi1NSEFQRlNWQWtnc0JWR0pZdGV1STNiZDJmUkVnSldhbGdmTm9ZRUw3ZHlMMVgwQi1EVzBQekZGVkt2bXhQRGJJOGozdzNZdWZsWWdMOENULTBIWENNVUVUWHJXSlFnRFdpRm5BNmo2b2VXSTZ4MUtUakNPZlZGUWQzaGpCZUE?oc=5"
-    },
-    {
-      "headline": "Microsoft lost its way in the AI race. Can Copilot get it back on course? - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-05-21T07:00:00.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "Microsoft lost its way in the AI race. Can Copilot get it back on course? &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWw1RGdIZ3BwdHlITlJpbTFrNWZiSFowV1g3Sk9VSTNOYzd0djlhZzh5Ul9MOEFLUVRhdjJRX2o2MjI3ZmNFeG9TTmNmVDBOVUtUa1ZDU2ppeTI2RFBibTQ4VnJCbzZsZGhzSVJVd3VBazhObnJtaWl2XzZyN0wzVk4zd2w3UmFMSUdXdkl0bk0?oc=5"
-    },
-    {
-      "headline": "Meta cuts 8,000 jobs as Mark Zuckerberg bets the company’s future on AI - San Francisco Chronicle",
-      "source": "San Francisco Chronicle",
-      "timestamp": "2026-05-21T06:28:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta cuts 8,000 jobs as Mark Zuckerberg bets the company’s future on AI &nbsp;&nbsp; San Francisco Chronicle",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDJlU0VYMFBWUzdrTEt5ZWNfaGhySGhUbGlYd0ZKMU0wb24zMHY5ZWZ0WVVWVnY0MkxGMmw5YklnNVpUVzI2U3pMc0xfN1dRRkk5OERjTFBDNkFaVm91TVVmN3lpRmdTbDRjZmx3SnJMel96TDhZTlBSNlc4UGhUOFpmX1VtTE1ZdmE0?oc=5"
-    },
-    {
-      "headline": "Anthropic on track for first profitable quarter - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-05-21T00:23:17.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic on track for first profitable quarter &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzM1SWlzcTdGenhEX0tPTFlDOWNBSkdZeGFaZzYzblUtWTFwcEk0MWVzMTZrc0VLTnBkUWpaMktQdU5DYzAwUU1CNmFMcUlzSmhubkRQMmphSHhCQzU3VUdfY1lwNTlDaXQ1Zk5BbmVObVBsbno3S3hUZ2JSN2RQMUlpZEo?oc=5"
     },
     {
       "headline": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says - CNBC",
@@ -67,7 +77,7 @@
       "timestamp": "2026-05-20T22:01:59.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Meta Begins 8,000 Global Job Cuts in AI Efficiency Push &nbsp;&nbsp; Bloomberg.com Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Inside Meta's 'AI draft' as Zuckerberg pulls 1,000 top engineers into new division &nbsp;&nbsp; Yahoo Finance Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times",
+      "summary": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Inside Meta's 'AI draft' as Zuckerberg pulls 1,000 top engineers into new division &nbsp;&nbsp; Yahoo Finance Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ &nbsp;&nbsp; The Guardian Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5"
     },
@@ -100,20 +110,46 @@
       "summary": "Google is dethroning OpenAI as the king of consumer AI &nbsp;&nbsp; The Economist",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYXJ2TUFGVnVEY19DZ3lyMVFGeFpxM2R2OGQwTUxLNGhuNjNhWmU3bFQwQS01ZzVQVzJORHlRWGZkNmtrZEFzN25BM0U0MUQyRlRQQ09qUzVaeDdndGw3SHJtN1ltYjVYZ25xc01FOHJRMEV1WS16S2kzQ1dDZkx5SDhJRU9qVVlYUGpsRER3bk80RjVNV1JONVNHemtTazVMRkE?oc=5"
-    },
-    {
-      "headline": "University of Kentucky sparks campus-wide innovation with Microsoft 365 Copilot - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-05-20T20:05:04.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "University of Kentucky sparks campus-wide innovation with Microsoft 365 Copilot &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTBwWUR1SXkzQ3JGZmhDU3I2cG05cDBVcnBlS1dqbC02Vzc4NDV0Mzd6cUo4Z3pRSjlmeHRzUC10by1iWnZPOFhZanhlZFFtRUJIQXJEOXZQeHBnV0s1NzlHbk1ud25WdG9vU3czdFl5VVAtNFBJQTVId1dqc3RmUE5OdVJfazRta3RkdFZTQUxIVktkbEZablJFUQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic nears first quarterly profit, pays SpaceX $1.25B monthly - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-05-21T12:08:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqc1UtZVhtSWo0SzJpLXZYWm1JWVk0dUJJU0h6YndPTFB3NFphbkdUdlJ3bkdWdzFUM3d3OG85SFV3UkUzc0gwQ0RyTk10U1k3OFBjUUtBX0wxdGt4VFY2YlZhSWNKZVRQWjdJbWdqWlNGWXdtTHltdmdDdFRFTFk?oc=5",
+        "summary": "Anthropic nears first quarterly profit, pays SpaceX $1.25B monthly &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "Meta’s AI First Overhaul Tests Workforce Morale And Investor Expectations - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-05-21T11:13:37.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWF5WjFYNHNOSHA4bTFvdEUwTXFQbWg3blRteFFqaTBjNWhydENBcllTTzR5NVpXRlNKeWZQdjFNWFRKeXRhY3hGREQ0TVNmSTFZWjNnLVZlNUptdlI5YW0xRXpOaWJEbkZLX0k5Nl9xNkNzU1VxbHNQbTBjbEZRLWI1VjN5WGc4eXJ1TUcwbkNZaDU2VlV3Mw?oc=5",
+        "summary": "Meta’s AI First Overhaul Tests Workforce Morale And Investor Expectations &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation - Microsoft Source",
+        "source": "Microsoft Source",
+        "timestamp": "2026-05-21T11:04:23.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZjI0dzlfdDNSa3RqRldvZDRqb2tWZFRkRzZ4ZXR1UVBybzc4X243Mm1uc3NXWXFFYjRLTDlRcWZMYnpKcDlkWVNvd1ctVWxkbzYtMl85ZHBKR0ZiUG14UFF2ODdpekY5cEQ0ckJZZUt6SlV1bnRaOG1uN0tPT1hGbVlDakNHcXo0THM4ZUxnZ3NQekc2SmVuVDNNR3V5TXNIOEVBZ0FUb0FRMGhZLWNkT3lDVTVZdF9DV0V6SXRpcU42a1pQSEhzVktibk91TnJRcnFMTUlNQkZqOFdBS3dlN2tQYjE3MkJMalp3UlJod0VibUhmZ2t3ZXY1QWlsZG9ZaFdiV05Ccw?oc=5",
+        "summary": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation &nbsp;&nbsp; Microsoft Source"
+      },
+      {
+        "headline": "Meta AI launches private Incognito Chat - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-05-21T10:50:40.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoZHN6U1ItUGlseFVBUHdIc2t1OE9zc05oSnMwTkZSN3hCMkpHaGp0M295bW1YTU4xVU1RRFBNMUItN1ZRWUJOR2FQUFVuc2FEOUJ6S3Z5YUhYVDAzUkk1eHZoTmZRM012MEtUNzJ2RjdHMWNoWmhj0gF8QVVfeXFMT2FSZGNkSHFPUkJZQWVyNHdSTkNFbUhkcmRoTmJuVFNYS3V3VHBkRlE3UWNOZ2tERFB2djlzQ0QxRVUyUmNaSkctalZPWXY4c3RHclVtRnlRTXM4dTBwaHF2cTA3QXZpd3Y2NVBJRVVxRlBSdDJwZjB6Y0ZHeQ?oc=5",
+        "summary": "Meta AI launches private Incognito Chat &nbsp;&nbsp; Fox News"
+      },
       {
         "headline": "Microsoft pitches Azure Linux for AI-native infrastructure - SDxCentral",
         "source": "SDxCentral",
@@ -124,33 +160,6 @@
         "summary": "Microsoft pitches Azure Linux for AI-native infrastructure &nbsp;&nbsp; SDxCentral"
       },
       {
-        "headline": "Microsoft lost its way in the AI race. Can Copilot get it back on course? - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-05-21T07:00:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWw1RGdIZ3BwdHlITlJpbTFrNWZiSFowV1g3Sk9VSTNOYzd0djlhZzh5Ul9MOEFLUVRhdjJRX2o2MjI3ZmNFeG9TTmNmVDBOVUtUa1ZDU2ppeTI2RFBibTQ4VnJCbzZsZGhzSVJVd3VBazhObnJtaWl2XzZyN0wzVk4zd2w3UmFMSUdXdkl0bk0?oc=5",
-        "summary": "Microsoft lost its way in the AI race. Can Copilot get it back on course? &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Meta cuts 8,000 jobs as Mark Zuckerberg bets the company’s future on AI - San Francisco Chronicle",
-        "source": "San Francisco Chronicle",
-        "timestamp": "2026-05-21T06:28:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDJlU0VYMFBWUzdrTEt5ZWNfaGhySGhUbGlYd0ZKMU0wb24zMHY5ZWZ0WVVWVnY0MkxGMmw5YklnNVpUVzI2U3pMc0xfN1dRRkk5OERjTFBDNkFaVm91TVVmN3lpRmdTbDRjZmx3SnJMel96TDhZTlBSNlc4UGhUOFpmX1VtTE1ZdmE0?oc=5",
-        "summary": "Meta cuts 8,000 jobs as Mark Zuckerberg bets the company’s future on AI &nbsp;&nbsp; San Francisco Chronicle"
-      },
-      {
-        "headline": "Anthropic on track for first profitable quarter - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-05-21T00:23:17.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzM1SWlzcTdGenhEX0tPTFlDOWNBSkdZeGFaZzYzblUtWTFwcEk0MWVzMTZrc0VLTnBkUWpaMktQdU5DYzAwUU1CNmFMcUlzSmhubkRQMmphSHhCQzU3VUdfY1lwNTlDaXQ1Zk5BbmVObVBsbno3S3hUZ2JSN2RQMUlpZEo?oc=5",
-        "summary": "Anthropic on track for first profitable quarter &nbsp;&nbsp; Financial Times"
-      },
-      {
         "headline": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says - CNBC",
         "source": "CNBC",
         "timestamp": "2026-05-20T23:25:28.000Z",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjBGMXlvandTQTFWaHdfRVBxNXVIRVczYV8tbExMXzNRQ3dFM09qeTE2NnluWnZ2bXoxVG5mQ00tYnBRRnpSNnlkQlhJV3k2aDU3SGNRLVBqVzhvMktIeTVHZXNmWThHalVSNTd1Zk5IcjdZRkJYaU1VSWxWeW5Uc3F3X3dXX0pPSVJMWmp1dVliSy16cFZJQ1h30gGfAUFVX3lxTE0teWVONzJqY3U2Z1l5MTA2dDBSZmJLaW1iZURyQVB4T1htNHBBSVc5Y2h4c29CTDhGV1ZIYTB0VkFlMzRSSDdDS2hDaWJtYkVvVU9NTHRFUnZGQ2NJaE9RVGN5NV9wQmZLRG9xWUNJMUtwejFFMU44R3pkQ1VHSDRkaDNxYXJ6Mm1DUlpDclM5TTZUOVRLXzVPaTA3NGpqdw?oc=5",
         "summary": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-05-20T22:01:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5",
-        "summary": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount &nbsp;&nbsp; The New York Times Meta slashes 8,000 jobs as it pivots towards AI &nbsp;&nbsp; NPR Meta Begins AI-Driven Layoffs, Report Says. Can They Boost the Struggling Stock? &nbsp;&nbsp; Barron's Meta Begins 8,000 Global Job Cuts in AI Efficiency Push &nbsp;&nbsp; Bloomberg.com Exclusive: Meta lays out details of May 20 restructuring in internal document &nbsp;&nbsp; Reuters Inside Meta's 'AI draft' as Zuckerberg pulls 1,000 top engineers into new division &nbsp;&nbsp; Yahoo Finance Meta shifts 7,000 workers into AI roles as layoffs, manager cuts loom &nbsp;&nbsp; Fox Business Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company &nbsp;&nbsp; CNBC Meta begins laying off 8,000 employees amid AI transformation &nbsp;&nbsp; The Seattle Times"
       }
     ],
     "whyItMatters": [
@@ -190,15 +190,15 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
