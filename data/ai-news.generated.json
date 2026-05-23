@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-22T22:11:18.106Z",
+    "generatedAt": "2026-05-23T00:10:54.707Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -30,6 +30,16 @@
       "summary": "Project Glasswing: An initial update &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xYzlNUUlJNFFKOFg2VGJsdFNCVkdJaWJ0Qi1tZnh2bUxIUzIta0RfUHR1dnB4blV5NmpsUVZ2ZWJiSWlSUzhYQUVmdTNXMnZSWmNQVGRUbEMxa0kteTFzbFJJWklYdFpoZkgw?oc=5"
+    },
+    {
+      "headline": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-05-22T17:27:08.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1kzY0dqMVphbmNuTHJsVTBHbjFqOFU3WlZkUllsNV9adnk0dmpVQS16bk9XZEdlVEEtRGdlTTBQSV9YdUlzXzZXVFJ5Xy1wSWVCUXZvZFV1ajg0MW5kbEZPVnJfZ09abkpUQkNXbVE1Zk91VXZFbGs3U0JYenc0WnVR?oc=5"
     },
     {
       "headline": "OpenAI named a Leader in enterprise coding agents by Gartner - OpenAI",
@@ -100,16 +110,6 @@
       "summary": "AI just solved an 80-year-old ‘Erdős problem,’ and mathematicians are amazed &nbsp;&nbsp; Scientific American",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS3VaR3FxWC0zTW13OHlQQ2dxenoxWVAycC0zY2RVWXJtTXJzelVlZW5NM0k2MXFkUDVNM2xYSmU4dXhlWmZ6UnJPVG9tYW1xT1pVd3lIMHN4WGg5cEs1bXNla0ZldTlwb3R5djJsUUxfeGdqV0R5c2tzTG9rNjlfOEppMllGMk5CTVpVZ0gzMzlQS2I4dTRZQkprXzluWWRZMFFuSzhqMERYWkZZM3E2MU9uam1DNGZy?oc=5"
-    },
-    {
-      "headline": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not - MIT Technology Review",
-      "source": "MIT Technology Review",
-      "timestamp": "2026-05-21T14:30:45.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not &nbsp;&nbsp; MIT Technology Review",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGdXclcyUEQzd0dFQkdfd1N5WVA3MHpUak1xdFhpMTBrTGdsbTBIZUtnVklKTTY4YUpOZ3loc3MyNmYxeXk3NkNvb19pck1DNlZWeGRHb2lEaUl6ZUpwM3REbHh5VnVPRlJVWE10TGd5d0JEZUFXdW9BRWRfVUl3eGZsaUhMM1JWNktHbWN6alBrZmF6aDRBcUxNVHNtVktUTUoxNVNrdVVWUHpXeUhVU19RNXh6M1EwcWVnSVUwc1oyenhSWVc3LTZrd1dkUdIB0wFBVV95cUxOclZ6R21XcEJVS1RWcGFRU1F0V3JDWkJaaUtfVENQUUlQV0VpT0JtY2I5REpQX3BSMUM4MkZ4Rm5RdlFkbmNGMUUxanVWaDdrTlRQTGpYMDd1Q3pEYm1nN3V6SmcydGdVUXllUERYNkdScjRwc2FGLWQtTWl3TnJfQ1dUSkNVSGVlR1pRdDB1a0FSek9ZWnRDajh4VGFkQUJtMEhQWTZTcU5QcnNHTmhKVVB6QXBVNlhkeUh2YXBBeWpPOXd5cFJBZ2xXdjJ0N1BvSzlr?oc=5"
     }
   ],
   "aiNews": {
@@ -131,6 +131,15 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xYzlNUUlJNFFKOFg2VGJsdFNCVkdJaWJ0Qi1tZnh2bUxIUzIta0RfUHR1dnB4blV5NmpsUVZ2ZWJiSWlSUzhYQUVmdTNXMnZSWmNQVGRUbEMxa0kteTFzbFJJWklYdFpoZkgw?oc=5",
         "summary": "Project Glasswing: An initial update &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-05-22T17:27:08.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1kzY0dqMVphbmNuTHJsVTBHbjFqOFU3WlZkUllsNV9adnk0dmpVQS16bk9XZEdlVEEtRGdlTTBQSV9YdUlzXzZXVFJ5Xy1wSWVCUXZvZFV1ajg0MW5kbEZPVnJfZ09abkpUQkNXbVE1Zk91VXZFbGs3U0JYenc0WnVR?oc=5",
+        "summary": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview &nbsp;&nbsp; The Verge"
       },
       {
         "headline": "OpenAI named a Leader in enterprise coding agents by Gartner - OpenAI",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObzNxdFBzejJ1TVVBUFkwMkx2WEhtQTRsa1VERVhXdHYxNENmLUdiSlVpRFBib09wQ0IwVXpTSzF3TGZSUGpNZUxxek9mY0xGaE1wdFNMTkhfa2g2T3JnNl9nMjhtMWpYZTlkMFlNQ0RxUmxqdTY1ZXFHQ2ZQSS1RUllVZVltdzcyTHFBbkRYNDUtc2VjV2EzODlpRQ?oc=5",
         "summary": "Why is AI company Anthropic helping launch Pope Leo XIV's encyclical? &nbsp;&nbsp; National Catholic Reporter"
-      },
-      {
-        "headline": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-05-21T18:02:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOZW94UC1ldWpHLTQ1UXFUQzdkbEVFRTk2cVNQV3RLNlplWHRRLTRRRllUZndWOE9kbXdHTWJacl9DSEJla2psZTBxNmFtMmFGeVhKcldYVDBJbzBaMUE2MWVpNlkyclRtSmozOGowOHhoMm0tblVtYkswSDJ4UdIBgwFBVV95cUxPUXpFQk9PWVBtWE8xeW9SZUNBS1JJc25GOG05RmEtUExRTjhWRS1XYXdYMDZHRDhZOERUREZHYXlLVVpNQXplTHRIcEVmX05IWTNlUGZRcThQYlc2bjhBSzlUNk1QdnV2V1dvdTZmdExoV1UwWFhxWjBUM3NadDA5YmQzMA?oc=5",
-        "summary": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
