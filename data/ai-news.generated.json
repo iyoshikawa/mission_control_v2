@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-24T10:43:46.613Z",
+    "generatedAt": "2026-05-24T12:02:20.078Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "UK Institute Is Hunting for Dangers Lurking in AI - The New York Times",
+      "headline": "What to know about the AI models that are jolting Washington - Politico",
+      "source": "Politico",
+      "timestamp": "2026-05-24T11:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "What to know about the AI models that are jolting Washington &nbsp;&nbsp; Politico",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV6ekc5dDFsd0N5dklhaV9RTV9TdHQ1NHFqdGFLdGRqZ0NMdUZKd2thdTFRNHU4NkhuWm5iS2FhaE42X1FYMm1CeXJMa0F0ZkdJczREUXkzZktoTm5hT2JqNnBfNm90RWg2dWlvMHZjM2ZBa0x1MFFTaDJfb21naExDYk5HX2dsQ081ZFFXRQ?oc=5"
+    },
+    {
+      "headline": "Inside the British Lab Hunting for Dangers Lurking in A.I. - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-05-24T09:01:42.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "UK Institute Is Hunting for Dangers Lurking in AI &nbsp;&nbsp; The New York Times",
+      "summary": "Inside the British Lab Hunting for Dangers Lurking in A.I. &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMXlsbmw1ZHh4b0RpVlJicm1qRUNaUXh5YjZYVW5vY0dWSnhfZmpBRDNfVlJPY19aX2JaTFQydFNFVHBJVVJZTGVwNnltZEh4VXA2Z09BSURLbUVwbmVxWUg4Rks2MW40MENpTUJNeDV0WGZQOGtwVUlPRXVqdw?oc=5"
-    },
-    {
-      "headline": "I saw up close the dark reality of OpenAI’s race to create god - The Times",
-      "source": "The Times",
-      "timestamp": "2026-05-23T18:17:22.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "I saw up close the dark reality of OpenAI’s race to create god &nbsp;&nbsp; The Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1CaGNESExrcWM4SDAyMy1UdTFzWXN0Q2lpNklKVmUzZF94SEJSRy03clJSTVpYXzhmUGdXUlkyMjh3S1V2MzdabWIxaW5MRDdZWV9LbkUzMG54ZURFeUlkd3pJbFU0SXJFMlA1czdWUTkxR19GQnFjMnItX3RYUzRIRmVObGg4NFNWMktPLXE4dw?oc=5"
     },
     {
       "headline": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs - PCMag",
@@ -72,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnhEWkNwdzg1dVZ5eG40U1RLMkEyakw0N0NHODRqc3l3T3Blc0drN2hNOGw0cWt6ak5mb1NXLXg3Q09kQi0yNlZrNW11ZFFTR0FkYndRamI4bnZGWG5vend4UEdjREFFVER6a1F1cVVlaWVOeVVkU2ZGYUhfV3dGQzVBcHQ1MTJzemdUa0dkUXhkbXZWMVE?oc=5"
     },
     {
+      "headline": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-05-23T08:00:06.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVi0xbFNHeUNkRXItRE1uQmdVQmx4RHU1T0JkUlp0OE1sUEFBR0VNLUlhRHBHUlVYcmNOYm1VSmtHM1hhNS0xZGp2dmJnVmtia2tSdGVvZ2hkQTVSLTNlN09hMjZXZUZNaWZfWm4xeFFoRFpFUEExbVFOLXptZG1Od0JYSV8?oc=5"
+    },
+    {
       "headline": "Google DeepMind's AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectures - Crypto Briefing",
       "source": "Crypto Briefing",
       "timestamp": "2026-05-23T04:11:24.000Z",
@@ -80,16 +90,6 @@
       "summary": "Google DeepMind's AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectures &nbsp;&nbsp; Crypto Briefing",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EVExRczZFcGZMUkRQdHZubEpBWEFJZjZnQkdKMjZWdHM5RmJTLW1qQVhpV1U5UzlPV1JTUTRBUVlsNEFESnhYcEVwY2hrYXBvdW13N2FrNU5LUnRKMGNoLUVHd04wV003ekwtUGtFaHM2M1NvRnRZ?oc=5"
-    },
-    {
-      "headline": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-05-22T22:41:51.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmh1MlgtU0o5dnVYLUp3R0M1N0g2dktROGE1dkpDZm05eVpJSWtHZFlIMkc1QTdDeW9KM3RwalNfR21lZGp3VXdkdXpHXzlHVnVVS3ZVRjRBSjU2V21ncC1EREo4RG9qUFowRUNoY0pkcUhkX0dJTzhRUDZVbG1GcHctUDVhdEY1V21SWHJkS0VURjg5TG5mckg0T19ZcGxkdjJFSTV4djdtWlN5ZVZiag?oc=5"
     },
     {
       "headline": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force - Business Insider",
@@ -115,22 +115,22 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "UK Institute Is Hunting for Dangers Lurking in AI - The New York Times",
+        "headline": "What to know about the AI models that are jolting Washington - Politico",
+        "source": "Politico",
+        "timestamp": "2026-05-24T11:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV6ekc5dDFsd0N5dklhaV9RTV9TdHQ1NHFqdGFLdGRqZ0NMdUZKd2thdTFRNHU4NkhuWm5iS2FhaE42X1FYMm1CeXJMa0F0ZkdJczREUXkzZktoTm5hT2JqNnBfNm90RWg2dWlvMHZjM2ZBa0x1MFFTaDJfb21naExDYk5HX2dsQ081ZFFXRQ?oc=5",
+        "summary": "What to know about the AI models that are jolting Washington &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "Inside the British Lab Hunting for Dangers Lurking in A.I. - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-05-24T09:01:42.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMXlsbmw1ZHh4b0RpVlJicm1qRUNaUXh5YjZYVW5vY0dWSnhfZmpBRDNfVlJPY19aX2JaTFQydFNFVHBJVVJZTGVwNnltZEh4VXA2Z09BSURLbUVwbmVxWUg4Rks2MW40MENpTUJNeDV0WGZQOGtwVUlPRXVqdw?oc=5",
-        "summary": "UK Institute Is Hunting for Dangers Lurking in AI &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "I saw up close the dark reality of OpenAI’s race to create god - The Times",
-        "source": "The Times",
-        "timestamp": "2026-05-23T18:17:22.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC1CaGNESExrcWM4SDAyMy1UdTFzWXN0Q2lpNklKVmUzZF94SEJSRy03clJSTVpYXzhmUGdXUlkyMjh3S1V2MzdabWIxaW5MRDdZWV9LbkUzMG54ZURFeUlkd3pJbFU0SXJFMlA1czdWUTkxR19GQnFjMnItX3RYUzRIRmVObGg4NFNWMktPLXE4dw?oc=5",
-        "summary": "I saw up close the dark reality of OpenAI’s race to create god &nbsp;&nbsp; The Times"
+        "summary": "Inside the British Lab Hunting for Dangers Lurking in A.I. &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs - PCMag",
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
