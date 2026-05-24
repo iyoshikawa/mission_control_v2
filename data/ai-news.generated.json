@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-24T14:26:05.697Z",
+    "generatedAt": "2026-05-24T16:03:39.093Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,13 +12,23 @@
   },
   "newsFeed": [
     {
+      "headline": "Pope Leo will take on AI alongside an Anthropic co-founder - NBC News",
+      "source": "NBC News",
+      "timestamp": "2026-05-24T12:00:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5"
+    },
+    {
       "headline": "What to know about the AI models that are jolting Washington - Politico",
       "source": "Politico",
       "timestamp": "2026-05-24T11:00:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "What to know about the AI models that are jolting Washington &nbsp;&nbsp; Politico",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV6ekc5dDFsd0N5dklhaV9RTV9TdHQ1NHFqdGFLdGRqZ0NMdUZKd2thdTFRNHU4NkhuWm5iS2FhaE42X1FYMm1CeXJMa0F0ZkdJczREUXkzZktoTm5hT2JqNnBfNm90RWg2dWlvMHZjM2ZBa0x1MFFTaDJfb21naExDYk5HX2dsQ081ZFFXRQ?oc=5"
     },
     {
@@ -40,26 +50,6 @@
       "summary": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbExTMlNUczZxT0hDUkpFRUt4MlBnMjlLNGJHc0RiaWpzOGVZZURhdnZXMDEtQ2NCZ1dMdXcxUU1XcTM1YlpSSzh4a1ZDelJLOFdNUWVGakMtWExSMkZ5bFQ1TDRTVU5EbEZ5R2l0LWhLc0FnTjd4VmszZ1hDYjdGdlJMdEEwdkg1VVpiSUYtVWYtcUZLaDdVZ093?oc=5"
-    },
-    {
-      "headline": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs - PCMag",
-      "source": "PCMag",
-      "timestamp": "2026-05-23T16:41:59.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs &nbsp;&nbsp; PCMag",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnRteENoYllxeFotbl92SVJ5QnZtZVRfMGRzZGxISTBkLWlPbDJjbkdkRWtoZnBrRTFNZXFKNUFDM1N1VDduUEhwbUFqR01QaV9mNGhWaVFsU3licElESlJtXzM1MHJzNUg1SFlSSllnMDR0ZnhNdldael9XY2xQeWZRNnhFVWtvNHdvZ28xdFhHUFVNTEhTQzdUdlMyZw?oc=5"
-    },
-    {
-      "headline": "Anthropic shares ‘initial update’ on Mythos findings, says ‘there is a clear …’ - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-05-23T13:50:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic shares ‘initial update’ on Mythos findings, says ‘there is a clear …’ &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNy03ZnVvQWxwd1JFUS05RVp5V202VUJPdHZJbUhsZE9uRTV1SXdRWjRPTkJVM3N0Q000eVhUMy1fQkhwbzdBbkdMb0QxTk5DcHVZM3RLaUVFcWxiWTNHV0llTHBZY0RCN0dUb1E5RlVoNkhMWkVTRnZ1MXpyeElCbWN4Qk1LYVlfNktBeXhBMFhhQk5PbDkxNGN5bFNpWC15dUlmdEFxZ0ZEWEdyVmxaVlpyZ1JXVEptZHRNNVE1YXNlWEZUOUZvUkhObExiSzZVd3RQZERnWWMtWGVmVFZEcWs1WEs2ZmROcUFyZ9IB8gFBVV95cUxQLTdON0JiRklsamJ0dmFtekg4cTlFTU5qWVVZOEFOZDRnaEdGWGJXR3phU0laaGRZR0NCNDJ1bDlGRlJ0blFKeVpHSTlyRFRac1VkRXlNUFFPZF9yMFhPM1lkNE9iYW1NakVaN1o0TlVoMXI5NnlXc0UzRk0wYzg3SUI2MmVlb1V6YVNmT213bzZ3Wm9UTlF4ZU0yLUJVVTh6U2R1Z1dsOF9kOVpWVHRYV1p3WUpUTU9UNFpSZlhKYzJ3T1FvY2EtbjBMNklGNVlSZjdZMmhWOUtJdWpQUzU5dUZ4NWZjNTFZWVV0b3o5b1Njdw?oc=5"
     },
     {
       "headline": "Microsoft Maia Chip Talks With Anthropic Test Azure AI Investment Thesis - Yahoo Finance",
@@ -110,16 +100,35 @@
       "summary": "'I got drafted': Inside Meta's push to move 7,000 staff into its AI task force &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBY0VxSkE2bWZvVmlhd0wySFY4bjdOdmg2WnNuQWIwZVdhNElMVEJ0LWRtYl81eC1NMzJ4R0hUbUMxNUNxSXowQ1hpNldLWk9ZQmJVWkFVYmVXbmRiZGZ1YVZpeGljYnVyX0NOYllKTy05dzA?oc=5"
+    },
+    {
+      "headline": "Project Glasswing: An initial update - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-05-22T19:35:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Project Glasswing: An initial update &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xYzlNUUlJNFFKOFg2VGJsdFNCVkdJaWJ0Qi1tZnh2bUxIUzIta0RfUHR1dnB4blV5NmpsUVZ2ZWJiSWlSUzhYQUVmdTNXMnZSWmNQVGRUbEMxa0kteTFzbFJJWklYdFpoZkgw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Pope Leo will take on AI alongside an Anthropic co-founder - NBC News",
+        "source": "NBC News",
+        "timestamp": "2026-05-24T12:00:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5",
+        "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News"
+      },
+      {
         "headline": "What to know about the AI models that are jolting Washington - Politico",
         "source": "Politico",
         "timestamp": "2026-05-24T11:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV6ekc5dDFsd0N5dklhaV9RTV9TdHQ1NHFqdGFLdGRqZ0NMdUZKd2thdTFRNHU4NkhuWm5iS2FhaE42X1FYMm1CeXJMa0F0ZkdJczREUXkzZktoTm5hT2JqNnBfNm90RWg2dWlvMHZjM2ZBa0x1MFFTaDJfb21naExDYk5HX2dsQ081ZFFXRQ?oc=5",
         "summary": "What to know about the AI models that are jolting Washington &nbsp;&nbsp; Politico"
       },
@@ -142,24 +151,6 @@
         "summary": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs - PCMag",
-        "source": "PCMag",
-        "timestamp": "2026-05-23T16:41:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnRteENoYllxeFotbl92SVJ5QnZtZVRfMGRzZGxISTBkLWlPbDJjbkdkRWtoZnBrRTFNZXFKNUFDM1N1VDduUEhwbUFqR01QaV9mNGhWaVFsU3licElESlJtXzM1MHJzNUg1SFlSSllnMDR0ZnhNdldael9XY2xQeWZRNnhFVWtvNHdvZ28xdFhHUFVNTEhTQzdUdlMyZw?oc=5",
-        "summary": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs &nbsp;&nbsp; PCMag"
-      },
-      {
-        "headline": "Anthropic shares ‘initial update’ on Mythos findings, says ‘there is a clear …’ - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-05-23T13:50:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNy03ZnVvQWxwd1JFUS05RVp5V202VUJPdHZJbUhsZE9uRTV1SXdRWjRPTkJVM3N0Q000eVhUMy1fQkhwbzdBbkdMb0QxTk5DcHVZM3RLaUVFcWxiWTNHV0llTHBZY0RCN0dUb1E5RlVoNkhMWkVTRnZ1MXpyeElCbWN4Qk1LYVlfNktBeXhBMFhhQk5PbDkxNGN5bFNpWC15dUlmdEFxZ0ZEWEdyVmxaVlpyZ1JXVEptZHRNNVE1YXNlWEZUOUZvUkhObExiSzZVd3RQZERnWWMtWGVmVFZEcWs1WEs2ZmROcUFyZ9IB8gFBVV95cUxQLTdON0JiRklsamJ0dmFtekg4cTlFTU5qWVVZOEFOZDRnaEdGWGJXR3phU0laaGRZR0NCNDJ1bDlGRlJ0blFKeVpHSTlyRFRac1VkRXlNUFFPZF9yMFhPM1lkNE9iYW1NakVaN1o0TlVoMXI5NnlXc0UzRk0wYzg3SUI2MmVlb1V6YVNmT213bzZ3Wm9UTlF4ZU0yLUJVVTh6U2R1Z1dsOF9kOVpWVHRYV1p3WUpUTU9UNFpSZlhKYzJ3T1FvY2EtbjBMNklGNVlSZjdZMmhWOUtJdWpQUzU5dUZ4NWZjNTFZWVV0b3o5b1Njdw?oc=5",
-        "summary": "Anthropic shares ‘initial update’ on Mythos findings, says ‘there is a clear …’ &nbsp;&nbsp; The Times of India"
-      },
-      {
         "headline": "Microsoft Maia Chip Talks With Anthropic Test Azure AI Investment Thesis - Yahoo Finance",
         "source": "Yahoo Finance",
         "timestamp": "2026-05-23T13:15:43.000Z",
@@ -167,14 +158,23 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzNDU215ZXZQWF96d2NkRlc4dnBPRE9NY2R5bVlUMDhSeHFKUFNpbF95ZW53VGdNT2wyU3FCY21SX25peUxURGpZNWVzckY1STV1dFlYWEtVbGdfWXJZZkktNDVWOFBnNzJJOHplRVg0RnZiZHpKS0RVUmMzWUp4Z0RKR1ZLLWlZeHZCUC10UWg3XzZXS3k4ZUFMS28wS2llcEE?oc=5",
         "summary": "Microsoft Maia Chip Talks With Anthropic Test Azure AI Investment Thesis &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-23T09:00:00.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnhEWkNwdzg1dVZ5eG40U1RLMkEyakw0N0NHODRqc3l3T3Blc0drN2hNOGw0cWt6ak5mb1NXLXg3Q09kQi0yNlZrNW11ZFFTR0FkYndRamI4bnZGWG5vend4UEdjREFFVER6a1F1cVVlaWVOeVVkU2ZGYUhfV3dGQzVBcHQ1MTJzemdUa0dkUXhkbXZWMVE?oc=5",
+        "summary": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' &nbsp;&nbsp; Business Insider"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
