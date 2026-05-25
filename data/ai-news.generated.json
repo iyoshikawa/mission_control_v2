@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-24T23:06:36.111Z",
+    "generatedAt": "2026-05-25T04:14:42.165Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-25T00:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5"
+    },
+    {
       "headline": "Pope Leo will take on AI alongside an Anthropic co-founder - NBC News",
       "source": "NBC News",
       "timestamp": "2026-05-24T12:00:41.000Z",
@@ -22,23 +32,13 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5"
     },
     {
-      "headline": "Project Glasswing by Anthropic didn't just find the bugs. It also found the real vulnerability in cybersecurity. - CTech",
-      "source": "CTech",
-      "timestamp": "2026-05-24T11:02:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Project Glasswing by Anthropic didn't just find the bugs. It also found the real vulnerability in cybersecurity. &nbsp;&nbsp; CTech",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zc191MjAwQXdtZDdlclhNdlhrbWE4OEh1a0x2bWNZYS1lZmFoTXo5V3VGekxSN0IzTE81d050YUVjMGd2VE1MQ0d0NkZmMkw2clhKRmRPMS1YdWY4b0NFUFlKZ0huN0tOY2c?oc=5"
-    },
-    {
       "headline": "What to know about the AI models that are jolting Washington - Politico",
       "source": "Politico",
       "timestamp": "2026-05-24T11:00:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "What to know about the AI models that are jolting Washington &nbsp;&nbsp; Politico",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV6ekc5dDFsd0N5dklhaV9RTV9TdHQ1NHFqdGFLdGRqZ0NMdUZKd2thdTFRNHU4NkhuWm5iS2FhaE42X1FYMm1CeXJMa0F0ZkdJczREUXkzZktoTm5hT2JqNnBfNm90RWg2dWlvMHZjM2ZBa0x1MFFTaDJfb21naExDYk5HX2dsQ081ZFFXRQ?oc=5"
     },
     {
@@ -52,14 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMXlsbmw1ZHh4b0RpVlJicm1qRUNaUXh5YjZYVW5vY0dWSnhfZmpBRDNfVlJPY19aX2JaTFQydFNFVHBJVVJZTGVwNnltZEh4VXA2Z09BSURLbUVwbmVxWUg4Rks2MW40MENpTUJNeDV0WGZQOGtwVUlPRXVqdw?oc=5"
     },
     {
-      "headline": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' - Business Insider",
+      "headline": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-05-23T09:00:00.000Z",
-      "impact": "WATCH",
+      "timestamp": "2026-05-24T08:21:00.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnhEWkNwdzg1dVZ5eG40U1RLMkEyakw0N0NHODRqc3l3T3Blc0drN2hNOGw0cWt6ak5mb1NXLXg3Q09kQi0yNlZrNW11ZFFTR0FkYndRamI4bnZGWG5vend4UEdjREFFVER6a1F1cVVlaWVOeVVkU2ZGYUhfV3dGQzVBcHQ1MTJzemdUa0dkUXhkbXZWMVE?oc=5"
+      "summary": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbExTMlNUczZxT0hDUkpFRUt4MlBnMjlLNGJHc0RiaWpzOGVZZURhdnZXMDEtQ2NCZ1dMdXcxUU1XcTM1YlpSSzh4a1ZDelJLOFdNUWVGakMtWExSMkZ5bFQ1TDRTVU5EbEZ5R2l0LWhLc0FnTjd4VmszZ1hDYjdGdlJMdEEwdkg1VVpiSUYtVWYtcUZLaDdVZ093?oc=5"
     },
     {
       "headline": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom - Financial Times",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-25T00:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5",
+        "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "Pope Leo will take on AI alongside an Anthropic co-founder - NBC News",
         "source": "NBC News",
         "timestamp": "2026-05-24T12:00:41.000Z",
@@ -124,20 +133,11 @@
         "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News"
       },
       {
-        "headline": "Project Glasswing by Anthropic didn't just find the bugs. It also found the real vulnerability in cybersecurity. - CTech",
-        "source": "CTech",
-        "timestamp": "2026-05-24T11:02:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zc191MjAwQXdtZDdlclhNdlhrbWE4OEh1a0x2bWNZYS1lZmFoTXo5V3VGekxSN0IzTE81d050YUVjMGd2VE1MQ0d0NkZmMkw2clhKRmRPMS1YdWY4b0NFUFlKZ0huN0tOY2c?oc=5",
-        "summary": "Project Glasswing by Anthropic didn't just find the bugs. It also found the real vulnerability in cybersecurity. &nbsp;&nbsp; CTech"
-      },
-      {
         "headline": "What to know about the AI models that are jolting Washington - Politico",
         "source": "Politico",
         "timestamp": "2026-05-24T11:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnV6ekc5dDFsd0N5dklhaV9RTV9TdHQ1NHFqdGFLdGRqZ0NMdUZKd2thdTFRNHU4NkhuWm5iS2FhaE42X1FYMm1CeXJMa0F0ZkdJczREUXkzZktoTm5hT2JqNnBfNm90RWg2dWlvMHZjM2ZBa0x1MFFTaDJfb21naExDYk5HX2dsQ081ZFFXRQ?oc=5",
         "summary": "What to know about the AI models that are jolting Washington &nbsp;&nbsp; Politico"
       },
@@ -151,13 +151,13 @@
         "summary": "Inside the British Lab Hunting for Dangers Lurking in A.I. &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' - Business Insider",
+        "headline": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-05-23T09:00:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnhEWkNwdzg1dVZ5eG40U1RLMkEyakw0N0NHODRqc3l3T3Blc0drN2hNOGw0cWt6ak5mb1NXLXg3Q09kQi0yNlZrNW11ZFFTR0FkYndRamI4bnZGWG5vend4UEdjREFFVER6a1F1cVVlaWVOeVVkU2ZGYUhfV3dGQzVBcHQ1MTJzemdUa0dkUXhkbXZWMVE?oc=5",
-        "summary": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' &nbsp;&nbsp; Business Insider"
+        "timestamp": "2026-05-24T08:21:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbExTMlNUczZxT0hDUkpFRUt4MlBnMjlLNGJHc0RiaWpzOGVZZURhdnZXMDEtQ2NCZ1dMdXcxUU1XcTM1YlpSSzh4a1ZDelJLOFdNUWVGakMtWExSMkZ5bFQ1TDRTVU5EbEZ5R2l0LWhLc0FnTjd4VmszZ1hDYjdGdlJMdEEwdkg1VVpiSUYtVWYtcUZLaDdVZ093?oc=5",
+        "summary": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest harbinger from the 4 horsemen of the AI age &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom - Financial Times",
@@ -172,14 +172,14 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
