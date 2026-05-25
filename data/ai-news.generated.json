@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-25T17:47:04.896Z",
+    "generatedAt": "2026-05-25T19:47:30.746Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
+      "source": "Kotaku",
+      "timestamp": "2026-05-25T14:58:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them &nbsp;&nbsp; Kotaku",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk8tLVRpSnotaGFvX3phU1Y1VEU0ZWU5Sk1aemhmVXF4R1VOZjh6LWpvNXc0MDBXTk9hRE43VERkcWUwT0FUOUpHOExmN0V0eTQwSFMzS1JCbml4dWR5Q1pnUHJtTlVXaHEwYW5La25hZXhFdzQ5QmlEWXN6dldsZA?oc=5"
+    },
+    {
       "headline": "Anthropic's Olah says AI must be guided from outside Big Tech - Reuters",
       "source": "Reuters",
       "timestamp": "2026-05-25T14:31:44.000Z",
@@ -20,6 +30,16 @@
       "summary": "Anthropic's Olah says AI must be guided from outside Big Tech &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjdKY25UdUNKeUJ2dU96T2Jrc0xHNTJ3bkwtMFpkS0s3SjYtU0NDNUxXTVZGM2xoOXM3eWNVSVFXUVJOdk9vT3ZXNlVpcXZVSXd3MU1JQXZaanc4RXNGRUQ0blFUejc4a2Nzak85dzQ5a3A5WlRuSHNNa3drSVd1QTdGRnl0d0VEVWFiTm1FQVZHaWw2bmQ1c2cwWkRYYWl1Vi13YTVqUQ?oc=5"
+    },
+    {
+      "headline": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-25T12:31:22.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5"
     },
     {
       "headline": "SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the Day - Yahoo Finance",
@@ -32,24 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZWZZTUdPNFJ1Szc0UnA3TmFKSUlRT3ZXcGJNalZhLVFlWThQSGhjUHh5c1lqNWpLZWppX1hRbmEwci1IWHREM3hGdW5HOHlZX05kbVBFTGJDRXRBOU1HSGJmTnd6UDdkc3JkckNrWEtzSlpKRkdGTkRJSnFXOVJRQVpEOUFNbndRMHdhOTgzM3BoNmtyZDE1Z3JyeDFGRVZTZzg0M1pYWnZEdWxNSHFxZXVPQXRqb3EzVzFTS2tMRjVwSzRseWxERDFMekRPcFpHcjdVZ2ZtVVhrQWZRWUFLUW5ybw?oc=5"
     },
     {
-      "headline": "AI guardrails stripped from Meta and Google models in minutes - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-05-25T08:31:09.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "AI guardrails stripped from Meta and Google models in minutes &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JMlRNTUFWVWdVWGFxVDlhUElMSTRHR2tyZC1uSTcwRlR2SzZtZE1uTlo1d18zb2c2a1dNZWxZXzZHMUFxR0kybGRocGM4Q2JLbkI0RFFQYVVnbFkxbUpSSWxMYVRTNlpYUG1pUllfcS0?oc=5"
-    },
-    {
-      "headline": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-24T17:31:22.000Z",
+      "headline": "This couple fed 161,000 texts into Claude Code for the ultimate wedding flex - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-25T09:30:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5"
+      "category": "models",
+      "summary": "This couple fed 161,000 texts into Claude Code for the ultimate wedding flex &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUs4ZjQ2VnRzcUVVMjV4ejlrTnNVZm0xSVJxcW42SGVncjgzaG1aaHBnVGtHM0RWbGp5OTluSHNZclBTdDNESlpldFN3RHI5TG1wc1N1NEoxVHJrWjR1WkVWWE9mbFpPMTF1VTJTc0tiSVhGVkpnSnpOcnFhMS1LNThZZW0xTVdxd1dRR2I1MFNocTI4?oc=5"
     },
     {
       "headline": "Pope Leo will take on AI alongside an Anthropic co-founder - NBC News",
@@ -57,7 +67,7 @@
       "timestamp": "2026-05-24T12:00:41.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News Anthropic Billionaire Olah To Vatican: Don’t Trust Us &nbsp;&nbsp; Forbes Pope Leo, Anthropic co-founder call for church-tech ethics partnership at 'Magnifica Humanitas' release &nbsp;&nbsp; National Catholic Reporter",
+      "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News Pope Leo, Anthropic co-founder call for church-tech ethics partnership at 'Magnifica Humanitas' release &nbsp;&nbsp; National Catholic Reporter Pope calls for robust regulation of AI in manifesto that ponders the future of humanity &nbsp;&nbsp; AP News",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5"
     },
@@ -72,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMXlsbmw1ZHh4b0RpVlJicm1qRUNaUXh5YjZYVW5vY0dWSnhfZmpBRDNfVlJPY19aX2JaTFQydFNFVHBJVVJZTGVwNnltZEh4VXA2Z09BSURLbUVwbmVxWUg4Rks2MW40MENpTUJNeDV0WGZQOGtwVUlPRXVqdw?oc=5"
     },
     {
+      "headline": "Microsoft Maia Chip Talks With Anthropic Test Azure AI Investment Thesis - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-23T13:15:43.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Maia Chip Talks With Anthropic Test Azure AI Investment Thesis &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzNDU215ZXZQWF96d2NkRlc4dnBPRE9NY2R5bVlUMDhSeHFKUFNpbF95ZW53VGdNT2wyU3FCY21SX25peUxURGpZNWVzckY1STV1dFlYWEtVbGdfWXJZZkktNDVWOFBnNzJJOHplRVg0RnZiZHpKS0RVUmMzWUp4Z0RKR1ZLLWlZeHZCUC10UWg3XzZXS3k4ZUFMS28wS2llcEE?oc=5"
+    },
+    {
       "headline": "Inside the bloodletting at Meta as Mark Zuckerberg pivots to AI - The Times",
       "source": "The Times",
       "timestamp": "2026-05-23T12:15:07.000Z",
@@ -82,38 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmxTTkJVSE14Ty1SQlFWbmtSZnBLa0p6RzBaZm9VallOckg4eDVyZmZ5V0dSZGpoZzZlQ1JBRXFwX0drYkdIa0VEMkIxWXVHOVRiTUdybXJaZGd5aTJ5enVhdTZiaVhBZWdRejAwTjFIQUJrNmNLWm1uQTVXYUdFQU5ramRIWUVHbFp0VjRKa0cxb2hvRWxraDJCOUN3dGZnSEE?oc=5"
     },
     {
-      "headline": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-05-23T08:00:06.000Z",
-      "impact": "LOW",
+      "headline": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-05-23T09:00:00.000Z",
+      "impact": "WATCH",
       "category": "ecosystem",
-      "summary": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom &nbsp;&nbsp; Financial Times",
+      "summary": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVi0xbFNHeUNkRXItRE1uQmdVQmx4RHU1T0JkUlp0OE1sUEFBR0VNLUlhRHBHUlVYcmNOYm1VSmtHM1hhNS0xZGp2dmJnVmtia2tSdGVvZ2hkQTVSLTNlN09hMjZXZUZNaWZfWm4xeFFoRFpFUEExbVFOLXptZG1Od0JYSV8?oc=5"
-    },
-    {
-      "headline": "Google DeepMind's AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectures - Crypto Briefing",
-      "source": "Crypto Briefing",
-      "timestamp": "2026-05-23T04:11:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind's AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectures &nbsp;&nbsp; Crypto Briefing",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EVExRczZFcGZMUkRQdHZubEpBWEFJZjZnQkdKMjZWdHM5RmJTLW1qQVhpV1U5UzlPV1JTUTRBUVlsNEFESnhYcEVwY2hrYXBvdW13N2FrNU5LUnRKMGNoLUVHd04wV003ekwtUGtFaHM2M1NvRnRZ?oc=5"
-    },
-    {
-      "headline": "Video Building A.I.: The Deep Mind Behind the Moment - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "timestamp": "2026-05-23T01:23:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Video Building A.I.: The Deep Mind Behind the Moment &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mamZKdmluNHRDR1R0b0F3cFBRYnEtaUo3akV2WlR6MUNJdUpOelpHV2gxeE9lTFN5VHZDaXR0MEp2Z0FqT0F2ZmxTaW8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnhEWkNwdzg1dVZ5eG40U1RLMkEyakw0N0NHODRqc3l3T3Blc0drN2hNOGw0cWt6ak5mb1NXLXg3Q09kQi0yNlZrNW11ZFFTR0FkYndRamI4bnZGWG5vend4UEdjREFFVER6a1F1cVVlaWVOeVVkU2ZGYUhfV3dGQzVBcHQ1MTJzemdUa0dkUXhkbXZWMVE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them - Kotaku",
+        "source": "Kotaku",
+        "timestamp": "2026-05-25T14:58:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk8tLVRpSnotaGFvX3phU1Y1VEU0ZWU5Sk1aemhmVXF4R1VOZjh6LWpvNXc0MDBXTk9hRE43VERkcWUwT0FUOUpHOExmN0V0eTQwSFMzS1JCbml4dWR5Q1pnUHJtTlVXaHEwYW5La25hZXhFdzQ5QmlEWXN6dldsZA?oc=5",
+        "summary": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them &nbsp;&nbsp; Kotaku"
+      },
       {
         "headline": "Anthropic's Olah says AI must be guided from outside Big Tech - Reuters",
         "source": "Reuters",
@@ -122,6 +131,15 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjdKY25UdUNKeUJ2dU96T2Jrc0xHNTJ3bkwtMFpkS0s3SjYtU0NDNUxXTVZGM2xoOXM3eWNVSVFXUVJOdk9vT3ZXNlVpcXZVSXd3MU1JQXZaanc4RXNGRUQ0blFUejc4a2Nzak85dzQ5a3A5WlRuSHNNa3drSVd1QTdGRnl0d0VEVWFiTm1FQVZHaWw2bmQ1c2cwWkRYYWl1Vi13YTVqUQ?oc=5",
         "summary": "Anthropic's Olah says AI must be guided from outside Big Tech &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-25T12:31:22.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5",
+        "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the Day - Yahoo Finance",
@@ -133,22 +151,13 @@
         "summary": "SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the Day &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "AI guardrails stripped from Meta and Google models in minutes - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-05-25T08:31:09.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JMlRNTUFWVWdVWGFxVDlhUElMSTRHR2tyZC1uSTcwRlR2SzZtZE1uTlo1d18zb2c2a1dNZWxZXzZHMUFxR0kybGRocGM4Q2JLbkI0RFFQYVVnbFkxbUpSSWxMYVRTNlpYUG1pUllfcS0?oc=5",
-        "summary": "AI guardrails stripped from Meta and Google models in minutes &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-24T17:31:22.000Z",
+        "headline": "This couple fed 161,000 texts into Claude Code for the ultimate wedding flex - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-05-25T09:30:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5",
-        "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta &nbsp;&nbsp; WSJ"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUs4ZjQ2VnRzcUVVMjV4ejlrTnNVZm0xSVJxcW42SGVncjgzaG1aaHBnVGtHM0RWbGp5OTluSHNZclBTdDNESlpldFN3RHI5TG1wc1N1NEoxVHJrWjR1WkVWWE9mbFpPMTF1VTJTc0tiSVhGVkpnSnpOcnFhMS1LNThZZW0xTVdxd1dRR2I1MFNocTI4?oc=5",
+        "summary": "This couple fed 161,000 texts into Claude Code for the ultimate wedding flex &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Pope Leo will take on AI alongside an Anthropic co-founder - NBC News",
@@ -157,16 +166,7 @@
         "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVF2TGQ3ZFh4NGttVWtTTXhQeERoRnlmcENNT1ZLcjhmNnVwam81MHNxVVRkemRsVFBaWXFVSnJuNXhrZkxSSmxvZkllckJvdHRQTENuSzFvNFJhMGExNzdnMmxEb3FYYXRaS2lJRWFXVGxXU0lwMEJiQllYSFgxQ0FfRDNjU2taWGtBWXhIQXY?oc=5",
-        "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News Anthropic Billionaire Olah To Vatican: Don’t Trust Us &nbsp;&nbsp; Forbes Pope Leo, Anthropic co-founder call for church-tech ethics partnership at 'Magnifica Humanitas' release &nbsp;&nbsp; National Catholic Reporter"
-      },
-      {
-        "headline": "UK Institute Is Hunting for Dangers Lurking in AI - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-05-24T09:01:43.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMXlsbmw1ZHh4b0RpVlJicm1qRUNaUXh5YjZYVW5vY0dWSnhfZmpBRDNfVlJPY19aX2JaTFQydFNFVHBJVVJZTGVwNnltZEh4VXA2Z09BSURLbUVwbmVxWUg4Rks2MW40MENpTUJNeDV0WGZQOGtwVUlPRXVqdw?oc=5",
-        "summary": "UK Institute Is Hunting for Dangers Lurking in AI &nbsp;&nbsp; The New York Times"
+        "summary": "Pope Leo will take on AI alongside an Anthropic co-founder &nbsp;&nbsp; NBC News Pope Leo, Anthropic co-founder call for church-tech ethics partnership at 'Magnifica Humanitas' release &nbsp;&nbsp; National Catholic Reporter Pope calls for robust regulation of AI in manifesto that ponders the future of humanity &nbsp;&nbsp; AP News"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
