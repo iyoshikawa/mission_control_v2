@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-26T18:31:00.298Z",
+    "generatedAt": "2026-05-26T20:56:57.541Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic aligns with Vatican over White House as Pope Leo addresses AI fears - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-05-26T17:39:36.000Z",
+      "headline": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-05-26T20:46:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic aligns with Vatican over White House as Pope Leo addresses AI fears &nbsp;&nbsp; The Washington Post Anthropic Billionaire Olah To Vatican: Don’t Trust Us &nbsp;&nbsp; Forbes Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" &nbsp;&nbsp; Anthropic",
+      "summary": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation &nbsp;&nbsp; WIRED",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmJHLVFCU0J1blg1bkFaVzU5Mlg5VnpqYy1ONTd4MHVFeTNjN1ZWNC1fRk55emthcTVteTNPbFRTVm85Y2V3YUg0X0FaaUtORHBiNC15ZkVjM1lwY0QzT3BZOUsyMzFJSEV0Yll4NUVzQWFHSjFuV3Y4LVc4dVFUVWNobUdLZThVNUxDWDdQSnFMRTFiRjRjelNSVXl2SWZ2OXRJY0JTR1Q4UjA1T3JtQkpQcGlvNU5Zb18wTkNoVTNHNEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WlBpRURiY1d3aTFuMlhEM0NqQzU1VkFkQnp5ZlpoOHc0MGF1YkZoT2g0R2otV2hPMTZENzlQM3JUMzcybXFjQzVhLXpoRXNjZlg4dkNyRGxIMDY4cldmaG9tb2dNLXFyejVIMVhOd01wTUlmQ0IwUmJKeEdkbmM?oc=5"
+    },
+    {
+      "headline": "Anthropic's Claude Mythos, or a model like it, to get public release - Mashable",
+      "source": "Mashable",
+      "timestamp": "2026-05-26T19:43:35.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic's Claude Mythos, or a model like it, to get public release &nbsp;&nbsp; Mashable",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNUtpeTNOcWVyWHRSOGRRQkpYdGhKQ1cxd0M5MEs5cFVoQ1QwZnZPQ1gtWk5zbWMtTjR6a0lmR2FxN1hXWHh3YTBBcGVDdWN2cktDM2lkLWdfcm9kbEZsN2NMb19SdEJYVTM2VXRPaklnNnFrbkE?oc=5"
     },
     {
       "headline": "Microsoft's AI Momentum Builds: Analyst Sees Copilot Seats Topping 25 Million, Azure Growth Above 40% - Benzinga",
@@ -32,44 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY1hmTHROVmlkZHVGQktvanM2RHU2b0sxREJOMDBscVFMY0FGN19mSHVuQlNyZFJZRG9nNlhqSDNLTUZSbEd4Rjh0ei1Demt4WGRZNkFRTVRZUmlXZlNxUTlodXRGcHFKLUxURGRtUDRiQ3UzSXZkN2p2SHR2N05LMDlPRDJnMUttT19XZ3FVTDRfcmhMUlgwR204Qy11M3JCY1Y4dWhZWlg4N0d5VmRzMk5xaTJXUWJTeWlXaUg1d0tmYnhWNmU5T1NGRlYxZnJHTHNaOFFUSWZIV3JYLWVLVENtVkNEQ1J0aGc?oc=5"
     },
     {
-      "headline": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-26T14:20:08.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5"
-    },
-    {
-      "headline": "Sam Altman says he's 'delighted to be wrong' about AI destroying white-collar jobs - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-05-26T13:05:10.000Z",
+      "headline": "OpenAI’s PR Challenge - The Information",
+      "source": "The Information",
+      "timestamp": "2026-05-26T14:01:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Sam Altman says he's 'delighted to be wrong' about AI destroying white-collar jobs &nbsp;&nbsp; Business Insider",
+      "summary": "OpenAI’s PR Challenge &nbsp;&nbsp; The Information",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdU92VndoM210UzJVYlQwNzdPSWJ1WU1aMUs5Ykt3V2NNWWZmS1FMSHBOM0xMbENxRWtZaVhuWkhLVE1PVFh5clFxMHVIN0RlNXlPR1hNX2NneDZ0dGRlZ2ZtU2hwWVRhMzZ3MGl6eEZJWlFQRXNtb3pNandWZ2FCdmt5b21nN0todDktOHBqYl9JWElFamZjczNmb0FCS0kySlh0ZUwxWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rRzdvbUFRb2RCTmhGUjM1cDRMSnhQazVnX2VlTl9xb1BhMTRJdEdldDctVnJIeTA3OGlzaXVHMlBrZGFWTGlGeWZRRkFvMlNYSHFaWXpXYUtZMGRKUWNjQmVqNlEtdG5xaWRqeUp5OTRuRkpEVnZQZkp4OWxtQQ?oc=5"
     },
     {
       "headline": "Zammo.ai accelerates AI adoption with Microsoft Azure and Microsoft Marketplace - Technology Record",
       "source": "Technology Record",
-      "timestamp": "2026-05-26T12:58:40.000Z",
+      "timestamp": "2026-05-26T13:13:39.000Z",
       "impact": "LOW",
       "category": "market",
       "summary": "Zammo.ai accelerates AI adoption with Microsoft Azure and Microsoft Marketplace &nbsp;&nbsp; Technology Record",
       "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVdSdTRHbHB1X0NuLXhPWnZ1c3h2TzJGM0l0VDVhSUtrTHVpZDVDWDBfU3o5V1UzcWg4XzVBb3dNSTJCY0U4elFJMUNnNVRlNUozZ1d6QUJ2YV9hTDlkZWZESjJuR09rc28yWXNPTWtoenBNU3RWRHhNR29yUGNOSVdaS1N5Q0J1OVc2b0ZVcDNNZUFETGF1MDU2LVItbEZBMVBTU0lmMDR3V0QtbG93eDNVTlhFTDdERFk4?oc=5"
-    },
-    {
-      "headline": "OpenAI boss: artificial intelligence won’t cause jobs apocalypse - The Times",
-      "source": "The Times",
-      "timestamp": "2026-05-26T11:41:36.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI boss: artificial intelligence won’t cause jobs apocalypse &nbsp;&nbsp; The Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWd3SGU2b1MwUWJqZWYzSm9YUi1jWU9FTzRMWXdsZTV3TmdZdEg1SGV5Vkh4V0ZZdlpudndZXzBENTBMNG9rMldUamVGV2swX0o2N2p1R0M2blBBTl9uaWdxcWFrMFlyMEN6Z2ExakJzeW1UTUFEcExncTNIbU5yTUhEbjlVRTJqajFfcFFlcG14djkwa05IM29kNHFHQ19lZ1NxXzBZNHdxUm5aN3VGMzdrRE9nZUkzZ1hYNWdSamNzN0kt?oc=5"
     },
     {
       "headline": "Big Four consulting has 2 AI nightmares. KPMG’s answer to both is the same - Fortune",
@@ -88,13 +78,13 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Tech titans prepare for blockbuster IPOs in new front of AI race &nbsp;&nbsp; The Hill",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlBZZi12UWFNM21pdDYwNVczSG50QV9DT0M5aTNIWDRCLW1nTEVxeFRzY1hiandMN3VzQlpYMHRzci1CMmxONUliaUlNTzFZOWVWWi15X2h5TmJ5cWNJVUoyRGoyWG1OeC1id0wwWkFxU25oUDl6eFo0Q2diVXpWOWo5VlpKeElyekpR0gGQAUFVX3lxTE9hM05nZklrb09RMmNEeXF4aEFWQUJLdDZ3ZUdMeFNQZmxwNllQTzdFSXI3SjhjRWNNcTMxeXhPUTJ2ekRrNHB1cGJpNHY0WmVydkhqODd0MzVPcC1SWnh3OGtNOHVneUpRM3VGUjNlLWtDMFJKNWptTTN2cjFZNHN4QkJTclVNdjkycHJKNzl2cA?oc=5"
     },
     {
       "headline": "DeepMind CEO predicts AGI in 2030 - Axios",
       "source": "Axios",
-      "timestamp": "2026-05-26T09:22:05.000Z",
+      "timestamp": "2026-05-26T09:12:19.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "DeepMind CEO predicts AGI in 2030 &nbsp;&nbsp; Axios",
@@ -110,18 +100,37 @@
       "summary": "Soderbergh’s Lennon Documentary Built With Meta’s AI Tools Divided Cannes 2026 &nbsp;&nbsp; CineD",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbXNfa29qZFVqeHlJLU80M09XWE9zcC01VnJ2QUtUM0hfQkxBVWFYRFRVUWdtaXVZNm9ZYm8yZXpGN29kangxN3c3VzdMT1FSNW1FMWFZeDMzbkF1VFJlUmtIemRlOW56dXl3cm04dVJrQXRPWjZCRjkwZVVMWXBfMjc0VXZHeWZkSDZqaE1CeXFPUWF4Y1BuUzkzSUUzYkZY?oc=5"
+    },
+    {
+      "headline": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-26T07:23:16.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' &nbsp;&nbsp; Yahoo Finance Will AI eat your job? OpenAI's Sam Altman has a new prediction. &nbsp;&nbsp; USA Today Sam Altman Says AI ‘Jobs Apocalypse’ He Predicted Probably Won’t Happen. What Changed? &nbsp;&nbsp; Time Magazine",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmtOSlJlcmtBa3N4WWpaQVdkOFJiRkxjb21VUlg3bmdmS3EwUDJWWmdmempoWThkNEx6MEFkT05EazNRREpPSUlIenpjS005WGl0Wnk4R1RUZ0s0Z0JReHNRYWM3SWc0N2NPOC03MmtUdUppVDk0ZDBVMkdmQ3VXU0stZHQ3TjVKQ2tGbk92N29COUxwWm51ZnlFT2xxdUVtS0E?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic aligns with Vatican over White House as Pope Leo addresses AI fears - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-05-26T17:39:36.000Z",
+        "headline": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-05-26T20:46:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmJHLVFCU0J1blg1bkFaVzU5Mlg5VnpqYy1ONTd4MHVFeTNjN1ZWNC1fRk55emthcTVteTNPbFRTVm85Y2V3YUg0X0FaaUtORHBiNC15ZkVjM1lwY0QzT3BZOUsyMzFJSEV0Yll4NUVzQWFHSjFuV3Y4LVc4dVFUVWNobUdLZThVNUxDWDdQSnFMRTFiRjRjelNSVXl2SWZ2OXRJY0JTR1Q4UjA1T3JtQkpQcGlvNU5Zb18wTkNoVTNHNEE?oc=5",
-        "summary": "Anthropic aligns with Vatican over White House as Pope Leo addresses AI fears &nbsp;&nbsp; The Washington Post Anthropic Billionaire Olah To Vatican: Don’t Trust Us &nbsp;&nbsp; Forbes Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" &nbsp;&nbsp; Anthropic"
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WlBpRURiY1d3aTFuMlhEM0NqQzU1VkFkQnp5ZlpoOHc0MGF1YkZoT2g0R2otV2hPMTZENzlQM3JUMzcybXFjQzVhLXpoRXNjZlg4dkNyRGxIMDY4cldmaG9tb2dNLXFyejVIMVhOd01wTUlmQ0IwUmJKeEdkbmM?oc=5",
+        "summary": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation &nbsp;&nbsp; WIRED"
+      },
+      {
+        "headline": "Anthropic's Claude Mythos, or a model like it, to get public release - Mashable",
+        "source": "Mashable",
+        "timestamp": "2026-05-26T19:43:35.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwNUtpeTNOcWVyWHRSOGRRQkpYdGhKQ1cxd0M5MEs5cFVoQ1QwZnZPQ1gtWk5zbWMtTjR6a0lmR2FxN1hXWHh3YTBBcGVDdWN2cktDM2lkLWdfcm9kbEZsN2NMb19SdEJYVTM2VXRPaklnNnFrbkE?oc=5",
+        "summary": "Anthropic's Claude Mythos, or a model like it, to get public release &nbsp;&nbsp; Mashable"
       },
       {
         "headline": "Microsoft's AI Momentum Builds: Analyst Sees Copilot Seats Topping 25 Million, Azure Growth Above 40% - Benzinga",
@@ -133,48 +142,39 @@
         "summary": "Microsoft's AI Momentum Builds: Analyst Sees Copilot Seats Topping 25 Million, Azure Growth Above 40% &nbsp;&nbsp; Benzinga"
       },
       {
-        "headline": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-05-26T14:20:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5",
-        "summary": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Sam Altman says he's 'delighted to be wrong' about AI destroying white-collar jobs - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-05-26T13:05:10.000Z",
+        "headline": "OpenAI’s PR Challenge - The Information",
+        "source": "The Information",
+        "timestamp": "2026-05-26T14:01:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdU92VndoM210UzJVYlQwNzdPSWJ1WU1aMUs5Ykt3V2NNWWZmS1FMSHBOM0xMbENxRWtZaVhuWkhLVE1PVFh5clFxMHVIN0RlNXlPR1hNX2NneDZ0dGRlZ2ZtU2hwWVRhMzZ3MGl6eEZJWlFQRXNtb3pNandWZ2FCdmt5b21nN0todDktOHBqYl9JWElFamZjczNmb0FCS0kySlh0ZUwxWQ?oc=5",
-        "summary": "Sam Altman says he's 'delighted to be wrong' about AI destroying white-collar jobs &nbsp;&nbsp; Business Insider"
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rRzdvbUFRb2RCTmhGUjM1cDRMSnhQazVnX2VlTl9xb1BhMTRJdEdldDctVnJIeTA3OGlzaXVHMlBrZGFWTGlGeWZRRkFvMlNYSHFaWXpXYUtZMGRKUWNjQmVqNlEtdG5xaWRqeUp5OTRuRkpEVnZQZkp4OWxtQQ?oc=5",
+        "summary": "OpenAI’s PR Challenge &nbsp;&nbsp; The Information"
       },
       {
         "headline": "Zammo.ai accelerates AI adoption with Microsoft Azure and Microsoft Marketplace - Technology Record",
         "source": "Technology Record",
-        "timestamp": "2026-05-26T12:58:40.000Z",
+        "timestamp": "2026-05-26T13:13:39.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVdSdTRHbHB1X0NuLXhPWnZ1c3h2TzJGM0l0VDVhSUtrTHVpZDVDWDBfU3o5V1UzcWg4XzVBb3dNSTJCY0U4elFJMUNnNVRlNUozZ1d6QUJ2YV9hTDlkZWZESjJuR09rc28yWXNPTWtoenBNU3RWRHhNR29yUGNOSVdaS1N5Q0J1OVc2b0ZVcDNNZUFETGF1MDU2LVItbEZBMVBTU0lmMDR3V0QtbG93eDNVTlhFTDdERFk4?oc=5",
         "summary": "Zammo.ai accelerates AI adoption with Microsoft Azure and Microsoft Marketplace &nbsp;&nbsp; Technology Record"
       },
       {
-        "headline": "OpenAI boss: artificial intelligence won’t cause jobs apocalypse - The Times",
-        "source": "The Times",
-        "timestamp": "2026-05-26T11:41:36.000Z",
+        "headline": "Big Four consulting has 2 AI nightmares. KPMG’s answer to both is the same - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-05-26T10:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWd3SGU2b1MwUWJqZWYzSm9YUi1jWU9FTzRMWXdsZTV3TmdZdEg1SGV5Vkh4V0ZZdlpudndZXzBENTBMNG9rMldUamVGV2swX0o2N2p1R0M2blBBTl9uaWdxcWFrMFlyMEN6Z2ExakJzeW1UTUFEcExncTNIbU5yTUhEbjlVRTJqajFfcFFlcG14djkwa05IM29kNHFHQ19lZ1NxXzBZNHdxUm5aN3VGMzdrRE9nZUkzZ1hYNWdSamNzN0kt?oc=5",
-        "summary": "OpenAI boss: artificial intelligence won’t cause jobs apocalypse &nbsp;&nbsp; The Times"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOFNMQW5pOXM2YzNMUTR2bkZzM2FyRFh4N3NkbFg3T3RlN20yMGM4TWxwajN1ZUc0UkRFbkFSV3BwYmdpOHF2UUR3Z2FROWxsUGZwNEVhcjNZU2RvenlJLXNEd3l1TG5QZkctMmluSWk2VzFtMEJKQzdTZ1diLWtWQzQ5cw?oc=5",
+        "summary": "Big Four consulting has 2 AI nightmares. KPMG’s answer to both is the same &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
