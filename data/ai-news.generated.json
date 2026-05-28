@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-28T16:56:20.357Z",
+    "generatedAt": "2026-05-28T21:58:04.161Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,84 @@
   },
   "newsFeed": [
     {
+      "headline": "Apollo, Blackstone work on $36 billion debt deal for Anthropic, Bloomberg News reports - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-28T21:27:28.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Apollo, Blackstone work on $36 billion debt deal for Anthropic, Bloomberg News reports &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnFPWWJhVENITDNTMlBKbnhLYlNObW5BVko3YUVpc3hId19iRm1NN0h6dG5oOXpQdnBXWjAzcGpNQWVZcVlCcThuMDVMclBvVHk3V1hqUVFKbUZxbFJRemQwUGJLM181T0J3RXJSUzd6bHYweXJqV1pTYmJ3R2tKWXRyTDdXVThydHJwbGRic1pRbkhydWpCTWxVOWt6Wms?oc=5"
+    },
+    {
+      "headline": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-05-28T18:35:44.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up &nbsp;&nbsp; The New York Times Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges &nbsp;&nbsp; ABC7 Chicago",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5"
+    },
+    {
+      "headline": "Anthropic raises $65B in Series H funding at $965B post-money valuation - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-05-28T18:15:01.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Anthropic raises $65B in Series H funding at $965B post-money valuation &nbsp;&nbsp; Anthropic Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges &nbsp;&nbsp; ABC7 Chicago",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FbzhQTWUzSGozVXNfbDYxWWUzTFBZZlpldmQyeDBnSExRdHVMSkJyVVV4OHdlNmx3LVBFcHVXTmJ0ck9TclZvVVlPRnpoZVhW?oc=5"
+    },
+    {
+      "headline": "Microsoft Stock (MSFT) Opinions on AI Hyperscaler Dominance - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "timestamp": "2026-05-28T17:33:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Stock (MSFT) Opinions on AI Hyperscaler Dominance &nbsp;&nbsp; Quiver Quantitative",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHhxVVZoRzFBbjlCWGRUWU13TlMwekR6ZEt3VlpTUFFVUTlrenZpOFdDWFA3MEJWeWcxX0N6ckd4WUFBOGxFdHJBODkxS1lYS0ZKOEpnTDFPZ0lIVXpLU28ycFNuZ1k4SG1VX1dqbTNuTWQ3dE04U2w0aDA2MUxzQVBoenRqSFg2LWJwNFpmLWs3R0Q1emdaeXpwMFA?oc=5"
+    },
+    {
+      "headline": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-28T17:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlF0QjN6M0xESHdNMGJKRXdBX1d2MmhESGcwbks4UFdicjZRWHdnWWhpcUZiZWZPc0tZNFpzLWFaYlJrY3dndFFOVHZsNXl1S05oMGVSb29hejRQVHhCa0h0ekI0SzJEald5X21YaWNuS2VWVUNReEJ2SXNxMzJ1cXlFM3BrLVF0U01FY3FIX1pVdkxnVUJIU0VXZHZvZWJ1MjJjYmdrVE1RTENtV0NCd1Jodk5sMlFxSFRXcFpybmk1cjVrcF84?oc=5"
+    },
+    {
       "headline": "Introducing Claude Opus 4.8 - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-05-28T16:51:43.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Claude Opus 4.8 &nbsp;&nbsp; Anthropic",
+      "summary": "Introducing Claude Opus 4.8 &nbsp;&nbsp; Anthropic Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up &nbsp;&nbsp; Yahoo Finance Anthropic Debuts Claude Opus 4.8, Teases Upcoming Launch of ‘Mythos-Class Models’ &nbsp;&nbsp; Gizmodo",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5"
     },
     {
-      "headline": "EU Girds for Talks With Anthropic on Access to Mythos AI Model - Bloomberg.com",
+      "headline": "What It Takes to Get a Job at Anthropic - Bloomberg.com",
       "source": "Bloomberg.com",
-      "timestamp": "2026-05-28T16:35:12.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "EU Girds for Talks With Anthropic on Access to Mythos AI Model &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm1iUzFMamZlQ1RaM1hiTm5YTEdXcWxkQ1FyWHo3bGk4RUFBXzhvd2FLWjBNLV9RNnVlVDNuVm54NW5ab2psenQxUDAxUHNyeDRBSmpuRVFtbUdlWkJqXzhobTRnUHB4cUtCdTNwZk0tZnFoM0VLRjlVaVhUc1ZHaXljeXZXa3BlbWMzamxRUUkxTTVnNVBMRlVpZU8yMDUzZU90VzlPSVJQQ1lQY1lzcHcxdw?oc=5"
+      "timestamp": "2026-05-28T09:00:04.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What It Takes to Get a Job at Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSll3NFhTeXBDenF6VU1KOENkM29BWENOclg5ZjNablQ4R1pJZURDdWtEblFTMkpZc2FaZzZQRjNTb0pvRE5pbFBzWGhLMW9HM2FVeVpXZnRyNjhISVBfS3hMOXcxc1NfbzVjb0pOeVZBNm5yc21vS18waWp0d1JwRVFHeTBleGIwRnZGcHgyTlIyYlQzdTBvaG1YdWJwVDdua3pOYmI1TzBRWkl4Wk9JUlFIMy1aLU1h?oc=5"
     },
     {
-      "headline": "Coding agents in the social sciences - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-05-27T23:09:02.000Z",
+      "headline": "France’s Answer to OpenAI Warns of Dangers of U.S. Tech Dominance - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-28T08:45:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Coding agents in the social sciences &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5"
+      "category": "ecosystem",
+      "summary": "France’s Answer to OpenAI Warns of Dangers of U.S. Tech Dominance &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkF3ck96d1pOMDlkek05UTBndjR3TTZRZ1NQSUFNZU55c0lMX0lMai1tTklNX2V6eGtFUVM0Ri1zYjJpNC1uLVdNNVdjSjVTUVFnY1dtZDNnVjRYcURrOUpsWThoV3Z5VFEwOVZJUjZFelc0YU1ieWNQM3RMOHlzSkt6dFdtY0Juc0NVRE5CTTlyTjREZVBsSEdxX19sdw?oc=5"
     },
     {
       "headline": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table' - CNBC",
@@ -60,127 +110,77 @@
       "summary": "Internal Memo Reveals Meta’s Plan to Kickstart Its Enterprise AI Business &nbsp;&nbsp; The Information",
       "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUdBVG5xT204TUhDLWlUeW5mby1VZGthRHI1ODhvVUMyX2N3TE9PNFV3LUZqa2ZhZ2QtZmxtdkFWeGRZeUhVMHdHYWdpMWJTT1huZ1NtdW9xWTdUSnBFWVJYYndISEVXaDRubG5QQkZaSmZnTWdxY3RPTEY5NFliNEhJUXRjUk5ORmE4bUM1cVQwYXBHYkl6MEV3U1I0SmdQN0FrUmFXcW42Zw?oc=5"
-    },
-    {
-      "headline": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-05-27T19:54:47.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month &nbsp;&nbsp; CNBC Meta to Sell AI Chatbot Subscriptions in Bid to Offset Spending &nbsp;&nbsp; Bloomberg.com Meta Tests AI Subscriptions and Rolls Out New Paid Plans for Facebook, Instagram &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG1HVWpzUE1BWEZXVWc0cU1yNTE4c1l2TTNEbndpajNFUjhJRW5rQVQwN05VeHU5UmExb0RYSVRZbFFHa2hvN3BPMWxFalQ2SEtZVklQbVM4OTZJb01PLUI2NFpQMDA5d3BZd0IyR05RbGlhdTVKRzFHTDN5ME9yQnV0aWE4X2VvUW1QZjQ4WndCWF9PU2dYRU4zeEI5THJqRmdISk5vNG5kbHc30gGyAUFVX3lxTE45dmRLTnBPTE5JQk1fS05VODNmcUk5cnRWVmhtcWF5UlpZNkExVU9DTlUybUVLbUFRa0xTSG9iZDA3NV83UGhoNzN6d3FTMjNqYWtOcGxEeGl5S1d0TmlWd0hzdjdrcWkwck5NeXJSdmZ2OG5kaWs2SXkzeWVSTG1WOGx2VVJtR045al80MlowcTdTSk9XV3loQTRuRllVdnRoNDFFMThrMHA4dWZMTXpJa1E?oc=5"
-    },
-    {
-      "headline": "Google DeepMind’s Hassabis: AGI is 3 to 4 years away - Sherwood News",
-      "source": "Sherwood News",
-      "timestamp": "2026-05-27T19:23:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind’s Hassabis: AGI is 3 to 4 years away &nbsp;&nbsp; Sherwood News",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXFNTndMc3ZjNTBEYnJoTTR0TW1kQ1VsSDdHRnRpc1pLMl9WbVZMLXFZLW80aWpFOGFyTFlGTGNkaDQzbHg5MDBPTGM1Q1lueDJXUkVRdTlBUVdvVExwVlFray0yZUtCd3VVeXdpSHZhdjZ1VkE2d0prckctY2hCZVQ5aWM?oc=5"
-    },
-    {
-      "headline": "OpenAI and Anthropic dig in against each other on AI jobs apocalypse - Axios",
-      "source": "Axios",
-      "timestamp": "2026-05-27T16:44:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI and Anthropic dig in against each other on AI jobs apocalypse &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kNmxnTW9Fc3lrMnV3RHN4WmtQV2VwRGVhdEdGd3RKX25hYXZVWVlNR0JKamFYVVFoMjhXQ1ZXME1hX0JYODUxb0dsSUpFdHBaY3BKZUJ6U0R3dllYRVRtN1R0LUlTWXgxNlo4U25NVQ?oc=5"
-    },
-    {
-      "headline": "OpenAI Foundation to Spend $250 Million on AI Economic Impact - The Information",
-      "source": "The Information",
-      "timestamp": "2026-05-27T16:32:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI Foundation to Spend $250 Million on AI Economic Impact &nbsp;&nbsp; The Information",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFpaYzB4NTliMUZIMHNKNV93RHpwMkxhdF9DU0Ezd0gwNFRzbWJxTGc4b3NBYmJJU09TZlFxdXFhRVBua1p6WloxbDZWWjdveEZMVThseUFmSEg5TG80WUFqeGRhS3NRVXlXajQwaTV5Q004UmI2anlJdzNNT2d1c3VoWmIxVVRzOVY3bzRMWU9DZUhTUXA1VHVmNA?oc=5"
-    },
-    {
-      "headline": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-27T15:07:47.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Apollo, Blackstone work on $36 billion debt deal for Anthropic, Bloomberg News reports - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-05-28T21:27:28.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnFPWWJhVENITDNTMlBKbnhLYlNObW5BVko3YUVpc3hId19iRm1NN0h6dG5oOXpQdnBXWjAzcGpNQWVZcVlCcThuMDVMclBvVHk3V1hqUVFKbUZxbFJRemQwUGJLM181T0J3RXJSUzd6bHYweXJqV1pTYmJ3R2tKWXRyTDdXVThydHJwbGRic1pRbkhydWpCTWxVOWt6Wms?oc=5",
+        "summary": "Apollo, Blackstone work on $36 billion debt deal for Anthropic, Bloomberg News reports &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-05-28T18:35:44.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55NUFBcFNtS3B3SU9zTmxpZ3hkVlE5UXZqendEb1pIcTIzeXBuSFVLX2ZKSXF5cmljZThjVmFFcW9xVDAyUE5LRHB0WEdlMWtXdEp2ZERJME9PZEV5RkRSaHkxRzBqR2J2UHRTMUR5a0RlY0dVb3ZB0gF8QVVfeXFMTzVRMWxaakV4Z3J5WFA3aERDUm1EWXZDQ2pDS0NnVEFSd0VuelBOeXd3cHdPdWFNUXVIa0dVUm94X0MyTWFNNy00eEViS0hfZlNvOS1xT3dfNmh2MjNKYzk4WnJ2bDVwUER6NmljWFg1Zzk2aTlmYW43cklYUw?oc=5",
+        "summary": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up &nbsp;&nbsp; The New York Times Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges &nbsp;&nbsp; ABC7 Chicago"
+      },
+      {
+        "headline": "Anthropic raises $65B in Series H funding at $965B post-money valuation - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-05-28T18:15:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FbzhQTWUzSGozVXNfbDYxWWUzTFBZZlpldmQyeDBnSExRdHVMSkJyVVV4OHdlNmx3LVBFcHVXTmJ0ck9TclZvVVlPRnpoZVhW?oc=5",
+        "summary": "Anthropic raises $65B in Series H funding at $965B post-money valuation &nbsp;&nbsp; Anthropic Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC Anthropic: San Francisco AI company vaults to a $965 billion valuation with new funding as Claude demand surges &nbsp;&nbsp; ABC7 Chicago"
+      },
+      {
+        "headline": "Microsoft Stock (MSFT) Opinions on AI Hyperscaler Dominance - Quiver Quantitative",
+        "source": "Quiver Quantitative",
+        "timestamp": "2026-05-28T17:33:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHhxVVZoRzFBbjlCWGRUWU13TlMwekR6ZEt3VlpTUFFVUTlrenZpOFdDWFA3MEJWeWcxX0N6ckd4WUFBOGxFdHJBODkxS1lYS0ZKOEpnTDFPZ0lIVXpLU28ycFNuZ1k4SG1VX1dqbTNuTWQ3dE04U2w0aDA2MUxzQVBoenRqSFg2LWJwNFpmLWs3R0Q1emdaeXpwMFA?oc=5",
+        "summary": "Microsoft Stock (MSFT) Opinions on AI Hyperscaler Dominance &nbsp;&nbsp; Quiver Quantitative"
+      },
+      {
+        "headline": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-05-28T17:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlF0QjN6M0xESHdNMGJKRXdBX1d2MmhESGcwbks4UFdicjZRWHdnWWhpcUZiZWZPc0tZNFpzLWFaYlJrY3dndFFOVHZsNXl1S05oMGVSb29hejRQVHhCa0h0ekI0SzJEald5X21YaWNuS2VWVUNReEJ2SXNxMzJ1cXlFM3BrLVF0U01FY3FIX1pVdkxnVUJIU0VXZHZvZWJ1MjJjYmdrVE1RTENtV0NCd1Jodk5sMlFxSFRXcFpybmk1cjVrcF84?oc=5",
+        "summary": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
         "headline": "Introducing Claude Opus 4.8 - Anthropic",
         "source": "Anthropic",
         "timestamp": "2026-05-28T16:51:43.000Z",
-        "impact": "LOW",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5",
-        "summary": "Introducing Claude Opus 4.8 &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "EU Girds for Talks With Anthropic on Access to Mythos AI Model - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-05-28T16:35:12.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm1iUzFMamZlQ1RaM1hiTm5YTEdXcWxkQ1FyWHo3bGk4RUFBXzhvd2FLWjBNLV9RNnVlVDNuVm54NW5ab2psenQxUDAxUHNyeDRBSmpuRVFtbUdlWkJqXzhobTRnUHB4cUtCdTNwZk0tZnFoM0VLRjlVaVhUc1ZHaXljeXZXa3BlbWMzamxRUUkxTTVnNVBMRlVpZU8yMDUzZU90VzlPSVJQQ1lQY1lzcHcxdw?oc=5",
-        "summary": "EU Girds for Talks With Anthropic on Access to Mythos AI Model &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Coding agents in the social sciences - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-05-27T23:09:02.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5",
-        "summary": "Coding agents in the social sciences &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table' - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-05-27T23:04:19.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUkwTlNCTmRZa3pka1R4RS1HZ19URFh6cGVFRzhPeWt5R1lxT2ZXTEN5cjBIRGhtUVZxeWtuME9LWWZqYlI4R3hlT2JBSVhrQy0yNkF4TnlzSXZMSm8zdEs4T1AxREdacHpCN1BxN3ItSnBCYUJYd2ItVVdSTkpxTXNLU2tiUWtJeG1GWm9xbVFHYWVWci0zV3kxTmVCeWVM0gGmAUFVX3lxTE05aTVsRS01RTJtMVhqVGFXZktmTjFOX2IyV2dkWS1KdldTWWxKV1dpQjBlSXhmdF9lSm9iZzFpUDZyeXRBSU8tQlQ4SGptTjdHTENVTzdQRnhDX1hsOUJBNHJpd2VQZ1Z3NTZFd05OSU05SVBIR3FRZlFZTjRvdmVGMlVoUnZ0RFQ5ZnNkaEg2Rmh3dzJpMWtaeUhmQ2ppamw4bFRqcEE?oc=5",
-        "summary": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table' &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Internal Memo Reveals Meta’s Plan to Kickstart Its Enterprise AI Business - The Information",
-        "source": "The Information",
-        "timestamp": "2026-05-27T22:09:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUdBVG5xT204TUhDLWlUeW5mby1VZGthRHI1ODhvVUMyX2N3TE9PNFV3LUZqa2ZhZ2QtZmxtdkFWeGRZeUhVMHdHYWdpMWJTT1huZ1NtdW9xWTdUSnBFWVJYYndISEVXaDRubG5QQkZaSmZnTWdxY3RPTEY5NFliNEhJUXRjUk5ORmE4bUM1cVQwYXBHYkl6MEV3U1I0SmdQN0FrUmFXcW42Zw?oc=5",
-        "summary": "Internal Memo Reveals Meta’s Plan to Kickstart Its Enterprise AI Business &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-05-27T19:54:47.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG1HVWpzUE1BWEZXVWc0cU1yNTE4c1l2TTNEbndpajNFUjhJRW5rQVQwN05VeHU5UmExb0RYSVRZbFFHa2hvN3BPMWxFalQ2SEtZVklQbVM4OTZJb01PLUI2NFpQMDA5d3BZd0IyR05RbGlhdTVKRzFHTDN5ME9yQnV0aWE4X2VvUW1QZjQ4WndCWF9PU2dYRU4zeEI5THJqRmdISk5vNG5kbHc30gGyAUFVX3lxTE45dmRLTnBPTE5JQk1fS05VODNmcUk5cnRWVmhtcWF5UlpZNkExVU9DTlUybUVLbUFRa0xTSG9iZDA3NV83UGhoNzN6d3FTMjNqYWtOcGxEeGl5S1d0TmlWd0hzdjdrcWkwck5NeXJSdmZ2OG5kaWs2SXkzeWVSTG1WOGx2VVJtR045al80MlowcTdTSk9XV3loQTRuRllVdnRoNDFFMThrMHA4dWZMTXpJa1E?oc=5",
-        "summary": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month &nbsp;&nbsp; CNBC Meta to Sell AI Chatbot Subscriptions in Bid to Offset Spending &nbsp;&nbsp; Bloomberg.com Meta Tests AI Subscriptions and Rolls Out New Paid Plans for Facebook, Instagram &nbsp;&nbsp; WSJ"
+        "summary": "Introducing Claude Opus 4.8 &nbsp;&nbsp; Anthropic Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up &nbsp;&nbsp; Yahoo Finance Anthropic Debuts Claude Opus 4.8, Teases Upcoming Launch of ‘Mythos-Class Models’ &nbsp;&nbsp; Gizmodo"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
