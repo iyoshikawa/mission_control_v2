@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-28T03:28:16.978Z",
+    "generatedAt": "2026-05-28T07:55:59.484Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,37 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump administration in talks to fund US drone companies, WSJ reports",
-      "summary": "Trump administration in talks to fund US drone companies, WSJ reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-28T02:21:00.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWFPTHNsY1JTb3Q2alVvWE9ocDUtSHNkcmZ4Q1NIeEdjdEcxZXBJcDZ0U2ZYTmx6QzVLYWRRVEpObWx3RmxBS1R5R3BfSVBuRnFBSzhSbjQ1SDZiZXRjelViekdEZGh2MzlKS2hCcWtKdG1rd3hoQnJDZkR2V2c3SkQ5cTlvNDB1ZEN3bTY0QnM2LWhsV25rVTMzWnA1bTVzWTdfQUJhbw?oc=5"
-    },
-    {
-      "headline": "Dollar near one-week high as US-Iran tensions flare, yen nears intervention zone",
-      "summary": "Dollar near one-week high as US-Iran tensions flare, yen nears intervention zone &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-28T01:37:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblF0TDBZLW5ybzdYaUR3aGdiQ2J2NVVRQi1oYXh5aG5mdHBVUlZZNWpsWlk0UXVJcW1jT0NuajE5b21LbnZ0Q2tEUll2TEZ5LW96eThIdWlLUlBHb05HNVBtMkVTeURaZFpTYXhZdkttUkZEeFhVcm9fdGNPWDNvMW95ak9pNVRRVlE0Z0tQWkVGTTNrcGxBZ3k5Y2paNXJ2bE1NN0Exb2ttSlJXQkFqZ0NaaFpoRHZYU0pZaGxnZEdEMzg?oc=5"
-    },
-    {
       "headline": "The paper trail linking a US fuel trader to a notorious Mexican cartel",
       "summary": "The paper trail linking a US fuel trader to a notorious Mexican cartel &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-28T01:29:29.000Z",
+      "timestamp": "2026-05-28T07:31:26.000Z",
       "impact": "HIGH",
       "region": "United States",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1BmcklqSnh3R0dvVWtKRG5yR29id3lXN09FeXJhWlN3dl9tZkRyNW5hemltRTVBYmkwTmotTEZRTE14YmdWMUVCSVZ6cmpERFhrS0NpOEpqUU04aEJDd0NXcnE0LW92dWxDRWN4Tnk0S2VpVXZLblBXVXhHLW8wd2pIU0hTSlRYbHh5VFpLTV92dWdKOUNVZE9jSXFOYjV3Nm1SX2thaWdrWkNuOE9KYTVIeVJ3UG1H?oc=5"
+    },
+    {
+      "headline": "Morning Bid: The US-Iran ceasefire is unravelling",
+      "summary": "Morning Bid: The US-Iran ceasefire is unravelling &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-28T04:36:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sd29STjJKTTBfWEN4NXUwdjI2YmVYOTJEVU16QzlfWWlhNDY5dVd5SlJuTk5wTEh0d1BoSjFadzRTd0I0V3daeGVJZjh0c1d1cTNFUkV1UmpwUWRtN056c1ZSNFBzS0Z1eDR5RWFTNWdsT3UwVm52SU5zNjdSbHc?oc=5"
+    },
+    {
+      "headline": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal",
+      "summary": "Iran and US trade air strikes after Trump dismisses report of Hormuz deal &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-28T04:25:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDAxUGdSUGJhV19NajdXRE5yZGtxMFRVYnpEb1I3ZEMwZlZsUnBvdlJyb3RlbG4tX0dLMXFEN25ZeER4N3pOblRJYjJGS3NyR1JEZFNlR3VsN1gxd3MxMnhTVHU5VVVadWxCV1VBcFNiRHAtczFfX3FIMW9GZEJRTHFWMzIya1ZQa0ZSMUVQQXhLWVJVSUMzTVNFOGVBNUxKMEhvQW92eWZwaW8zMFpPbDRTYjlxa3NTTVNTaQ?oc=5"
+    },
+    {
+      "headline": "Iran's IRGC say they targeted US airbase after strike near Bandar Abbas",
+      "summary": "Iran's IRGC say they targeted US airbase after strike near Bandar Abbas &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-28T03:20:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY01FaGpRUl9JM2hqakNvTVNiUV91Ri00WjFlZU5mUTRJcDZManY4RjFWZWc3TlkxcnRCY1JFbm9oVGF4UjkyV29qWXdhdXVOSDlpS21RMXQxYWFFa2JaWmxQRVBqUnVWb2ZlUjVNR1ZnR3R0VU9uaWRNOGhnWFFkYk1xQWVfbWdjTXZjMEVmbGRCOGdibU9BV0JXLXVUaktLbkN1Wk5OakNSMHNDVU5uQ3VPb2U4Smp2QmJmS3JCcFU1UQ?oc=5"
     },
     {
       "headline": "South Korea exports set to rise for 12th month on chip boom: Reuters poll",
@@ -56,8 +67,8 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFlpV29fNm5ocDlCNFliSWo2WGZJS216X1ZuZWoxaXl3Wk52RXo0aDFhYWViQ0Q2bi1fdXVoN0NnUHpDVS1aWTcwc0pvUEZvLU1qSlRHQ1ljTHRibU1oQm1FLWRjaURxS09OUUtzNzRPa3pBS2V6Um1WSHpHMUE0YWVHY3dIWWg4MTFYVDFXZDlzcHRQcmNGRUd6cFYzQmxrREtBSVZDSQ?oc=5"
     },
     {
-      "headline": "Any conflict over Taiwan would risk U.S.-China nuclear escalation, study finds",
-      "summary": "Any conflict over Taiwan would risk U.S.-China nuclear escalation, study finds &nbsp;&nbsp; Reuters",
+      "headline": "U.S.-China conflict over Taiwan risks a nuclear escalation, study finds",
+      "summary": "U.S.-China conflict over Taiwan risks a nuclear escalation, study finds &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-05-28T01:02:00.000Z",
       "impact": "HIGH",
@@ -78,26 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0pUSGwyYnJVX3pnZnlGb05Fb1RMODZwRURTaEMxWlBkZHpEN3hObTdPNW1mOXozMlJHRS1iam1seGVYZHJRd1ctb0lWbUxyMXcyVk5tNmg3UXA2TlNqd3pab1VacmJqZUt0bTI0TEx0eWpVVUpGNUJhSTVKeUdDR2lQdng3WjhpcFlGanZSRFNGM1Q3MEttWk9sdjl2LXZYSkN4UXJjbjREbTRiT01IWFZvSjh3U1lBZDZEMWZiaF9XeEZIbTl3ZGhsZw?oc=5"
     },
     {
-      "headline": "Exclusive: US carries out new strikes in Iran against a military site and drones, official says",
-      "summary": "Exclusive: US carries out new strikes in Iran against a military site and drones, official says &nbsp;&nbsp; Reuters",
+      "headline": "US military strike in eastern Pacific kills two men",
+      "summary": "US military strike in eastern Pacific kills two men &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-05-27T23:28:00.000Z",
+      "timestamp": "2026-05-28T00:30:00.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
+      "region": "United States",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRRSVJycmxrcVZhN2F2OF8zR2JIWW1Ua0F4V1dIV2NIYUxEMGZSRElNYzBVVlRGazQtX1NuZGNmTzZBYWx3cWlCdVg3Q0xPQkVUZHhTM21ReXdrWHNKMDhzVHRiUkJ5N0tSM1BuNl9NbmhCMUFVRFd1N0dYelB2RkpBYmRTZDVQOExXU1JtdlVsaEw1bGR6aHJUR3lFLVN3dl9ERnVnNlF2b2lLdjhkX1dHLUJNZy1HT1dIdVNB?oc=5"
-    },
-    {
-      "headline": "After bitter proxy fight, Lululemon CEO could use war chest to revamp bruised brand",
-      "summary": "After bitter proxy fight, Lululemon CEO could use war chest to revamp bruised brand &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-27T23:09:40.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTZhcFFNMXR6ZXhjUTdNMmZoNXhKcV9vS2RHdWt4TFR1VjdxeHJhdzd5enFTaC1NUGtpRnpjUUFwSHFmcDBwb2hmUmpaVktKTzFnaFZXYUFNU3VwaFR1U3VsWjFWVW1ZNmVnVEJXV2xkS3FHVGFIUnpaQjB1OWZZejQ1Tmt2YTRMT3V1QWEzWlFaZ0FMOWtiNlhNMHRTRHF4T25lQ0dxYTZsbzJRT21fcHRLQ0MzeUI2aXNHV2RkUWpQdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjU0a0RpWFpPN2VRTVd3MWEyZUh2Q2xtSXFtMTcwSERLN2RkQ2VDUFdYYkJCOXVBVXI4U3BaaFdJSWI5QUZsUGZRS1ZLN19acDMxZTBJQ3JPZGxJblVBa2FCOC1oS2E4VXRyc3JuYTdIUnRIdUlER1NuNGVibkFDM20yVzZaVmpDeG1JMWdpYVRscHZX?oc=5"
     }
   ]
 }
