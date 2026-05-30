@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T11:24:34.757Z",
+    "generatedAt": "2026-05-30T13:48:44.047Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "‘This Is a War’: How Powerful A.I. Super PACs Are Dueling Over the Midterms - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-30T09:01:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "‘This Is a War’: How Powerful A.I. Super PACs Are Dueling Over the Midterms &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkh0VnREeGFLVDhIWklvTEpkY0ROLTNmc0wyV3RxRWlIV3ZiNDU4TkJsS2FNbndPb1VORjhFdzhwd1c4cU5yMHFBbWc2eVBnWTlDZ3NpUmg5MTI3MzFnQjdzU2NQOUhHNGI0LXp6T2pBb3JfbEtmM1FPaFFJNlhJbENxTXk0Z2NnaWprTXJ1OTlhZw?oc=5"
-    },
     {
       "headline": "Meta plans AI pendant, 'wearables for work' in hardware boost, The Information reports - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -42,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmFqamtrZTBibVJVTTJmOU1JdWxaNFpuS1R5OEFNNTctZFJxaUExWWdOWGFSMTloajBmcUVjLUdPRlZHZTNRLWEyakphX0R4Q2h0QWtJVC1Vd3BPU1J5NG5OYVVtYTdEbHRzR1Z4QmNfbW1JYzFlR19BTENtcHhLd2U3elpXLVJRX1Q3dHk0eGh3ZEtqV3ZteklJRjhjenhpNVUxcW5iVFl3V0J1?oc=5"
     },
     {
+      "headline": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-29T17:31:31.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5"
+    },
+    {
       "headline": "Boston Children’s uses AI to unlock new diagnoses - OpenAI",
       "source": "OpenAI",
       "timestamp": "2026-05-29T17:18:04.000Z",
@@ -52,24 +52,24 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qV1UzUkQxQkp1bmFfaHhnNHFkVFRuTFQydlkxQl9QTkdqNGE5M1NpeG5kRlhYV0dvRFE4NzRtSi1XcHFVNFVEbUZWakk5S0ZWYUJEamdTemUySWZscFRQZg?oc=5"
     },
     {
-      "headline": "The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-05-29T16:25:34.000Z",
-      "impact": "LOW",
+      "headline": "\"They have the biggest bullsh*t detectors on the planet\": How the unlikely EVE Online x Google DeepMind AI partnership landed with players - Rock Paper Shotgun",
+      "source": "Rock Paper Shotgun",
+      "timestamp": "2026-05-29T16:30:00.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "The $900 Billion Giant: How Anthropic Got So Big, So Fast &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVMdnBMem1lN0JjcGN6XzZTSG9jQjljZnFRcS1US29WNXhGVUhWaG1zVHhmdU9ydWRmMTgxM3dlMlVUWGFTR1o3V1p0RHVEWEI4Y2JLeGQ3V3RURndJTGtKWEk3V1V1ajRoRVhhSzVYdkEtbWdEaTZmeERqN1VLQXlxOA?oc=5"
+      "summary": "\"They have the biggest bullsh*t detectors on the planet\": How the unlikely EVE Online x Google DeepMind AI partnership landed with players &nbsp;&nbsp; Rock Paper Shotgun",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSUM3ODdhQjJ3Sm9aNXFnQWxNNk1wUkNNSHZqVDhGbWJ3UzlZVkRwekhpX3U3UTNXMmluV2FBalc4eDE1clZ4ZUxvZXlLcXhDUGFNTXNCMnlhUDV5d2NGNk01RVlsMGFnbU80WmNKbjYwNm9ocnNKSTk5OWdUZklGd09OWjRidGdsVnBUTmp3NFRvbVlsYW9kSHhiVWZ4ZnlRYUFwNkVGRTRaNDFVYWE0aVZLTTNITWY4elZaendwVG5XZUptWTJoVHM0LVlmSWdZaWdCUDY5Rl9WS0ppSzhXR1dXSklZcnRSRkEzUTU1QmpYSktUR1UtNVBlUQ?oc=5"
     },
     {
-      "headline": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-05-29T14:31:31.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5"
+      "headline": "Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-05-29T13:55:11.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI &nbsp;&nbsp; Yahoo Finance Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC Anthropic raises $65B in Series H funding at $965B post-money valuation &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5"
     },
     {
       "headline": "Watch Google Deepmind's Parada on Robotics Technology - Bloomberg.com",
@@ -92,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeFZoaVpfX1hnTlJPS05nQWZYRnB6bUdOc3pzSmlyX3dpN3BleUlVQm53Z3Bxd29JOUw1MENDMWk5VF9CX1VSU0Q2eV9zMXZWNUVOb2V4N2VaUQ?oc=5"
     },
     {
+      "headline": "Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-05-28T20:33:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown &nbsp;&nbsp; WSJ Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC The $900 Billion Giant: How Anthropic Got So Big, So Fast &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3a3JRY0JjY0VPalNrZTNGWFVXTmNodEVCLUZEaUFneS1Kalo5UlU0QzZJcjdYN3ZFX0tlUVlMalJ0NjNZRV82c0NjSnFVMzg5OTQyZ0JjaDk5Zk5LMjQ2NE94VnQxWnRpcWpvUlJpVVU?oc=5"
+    },
+    {
       "headline": "Anthropic releases new Claude Opus 4.8 AI model - Yahoo Finance",
       "source": "Yahoo Finance",
       "timestamp": "2026-05-28T20:08:42.000Z",
@@ -100,29 +110,10 @@
       "summary": "Anthropic releases new Claude Opus 4.8 AI model &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlo2NTVyZnJJNmI4SDVTNDAxNWlYLUhWMHc4ejFYdDl5R0hSYnBZbURId3NiLV9QRkJFdDNHeUJiRU91M0R6UHRVNkZzSlBfV1pPM3VmM0U3d0dEOXg4RWY0NTNFX01FcUwtYk5GckV6NFhQb0RLQV9TT0tXUW9OWW5RTkp3Sk9adFVFTVhWWDJzTDRkSmJfVA?oc=5"
-    },
-    {
-      "headline": "The Ad Council helps navigate nuanced conversations about youth firearm injury prevention using Copilot Studio and Microsoft Azure - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-05-28T17:13:14.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "The Ad Council helps navigate nuanced conversations about youth firearm injury prevention using Copilot Studio and Microsoft Azure &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHVJdkhnMmJQeGcyWTZ0YWdhSlJseXhodjNjdjhPMkRrY1o0ZVBNYm03aFNDV2V5VHkzV0pnZ3B2TFhqTmVMUWczVW1mR0RBNjJoNENqQUoxZHFsWlFPYU9FMzdqQXNHVDhTTG9ReGZWRHA0eExZclhRaE41S1IyVmJnclEydlJPOUg4bjRYRQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "‘This Is a War’: How Powerful A.I. Super PACs Are Dueling Over the Midterms - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-05-30T09:01:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkh0VnREeGFLVDhIWklvTEpkY0ROLTNmc0wyV3RxRWlIV3ZiNDU4TkJsS2FNbndPb1VORjhFdzhwd1c4cU5yMHFBbWc2eVBnWTlDZ3NpUmg5MTI3MzFnQjdzU2NQOUhHNGI0LXp6T2pBb3JfbEtmM1FPaFFJNlhJbENxTXk0Z2NnaWprTXJ1OTlhZw?oc=5",
-        "summary": "‘This Is a War’: How Powerful A.I. Super PACs Are Dueling Over the Midterms &nbsp;&nbsp; The New York Times"
-      },
       {
         "headline": "Meta plans AI pendant, 'wearables for work' in hardware boost, The Information reports - Yahoo Finance",
         "source": "Yahoo Finance",
@@ -142,6 +133,15 @@
         "summary": "Meta Memo Outlines Ambitious Hardware Plans, Including New AI Pendant &nbsp;&nbsp; The Information"
       },
       {
+        "headline": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-05-29T17:31:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5",
+        "summary": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "Boston Children’s uses AI to unlock new diagnoses - OpenAI",
         "source": "OpenAI",
         "timestamp": "2026-05-29T17:18:04.000Z",
@@ -151,28 +151,28 @@
         "summary": "Boston Children’s uses AI to unlock new diagnoses &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-05-29T16:25:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVMdnBMem1lN0JjcGN6XzZTSG9jQjljZnFRcS1US29WNXhGVUhWaG1zVHhmdU9ydWRmMTgxM3dlMlVUWGFTR1o3V1p0RHVEWEI4Y2JLeGQ3V3RURndJTGtKWEk3V1V1ajRoRVhhSzVYdkEtbWdEaTZmeERqN1VLQXlxOA?oc=5",
-        "summary": "The $900 Billion Giant: How Anthropic Got So Big, So Fast &nbsp;&nbsp; The New York Times"
+        "headline": "\"They have the biggest bullsh*t detectors on the planet\": How the unlikely EVE Online x Google DeepMind AI partnership landed with players - Rock Paper Shotgun",
+        "source": "Rock Paper Shotgun",
+        "timestamp": "2026-05-29T16:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSUM3ODdhQjJ3Sm9aNXFnQWxNNk1wUkNNSHZqVDhGbWJ3UzlZVkRwekhpX3U3UTNXMmluV2FBalc4eDE1clZ4ZUxvZXlLcXhDUGFNTXNCMnlhUDV5d2NGNk01RVlsMGFnbU80WmNKbjYwNm9ocnNKSTk5OWdUZklGd09OWjRidGdsVnBUTmp3NFRvbVlsYW9kSHhiVWZ4ZnlRYUFwNkVGRTRaNDFVYWE0aVZLTTNITWY4elZaendwVG5XZUptWTJoVHM0LVlmSWdZaWdCUDY5Rl9WS0ppSzhXR1dXSklZcnRSRkEzUTU1QmpYSktUR1UtNVBlUQ?oc=5",
+        "summary": "\"They have the biggest bullsh*t detectors on the planet\": How the unlikely EVE Online x Google DeepMind AI partnership landed with players &nbsp;&nbsp; Rock Paper Shotgun"
       },
       {
-        "headline": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-05-29T14:31:31.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5",
-        "summary": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI &nbsp;&nbsp; WSJ"
+        "headline": "Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-05-29T13:55:11.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU9Zbl84ZnRYa29kel9qQ3RrU2QyaXp1VkJZNTBfTkxjMFVzdlpkWVNBMDhCRjV1b3NfVTBmeUY5Rk5vMU5iaEw0WS1acW53dGpJQVRCTlFzeGZFQ01Yd293VlhVUmZIZXBhT3MxSTY4V0hIVnAwb0VESy10eDhuTWVBSDFKZVZrTU01VUh6Q3N4bmZpX0w4dHp0bXFtOFRucWM2V1NMUDBCQXNXSG53cUprY2VsTEs5Qm45RE1aQlBnZG15aTA1WTlkVWMtcTZyMExoeEJGTVVack81?oc=5",
+        "summary": "Anthropic raises $65 billion in latest funding round, making it more valuable than OpenAI &nbsp;&nbsp; Yahoo Finance Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round &nbsp;&nbsp; CNBC Anthropic raises $65B in Series H funding at $965B post-money valuation &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -184,8 +184,8 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
