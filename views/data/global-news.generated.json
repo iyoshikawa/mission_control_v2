@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T19:38:04.861Z",
+    "generatedAt": "2026-05-31T20:58:19.126Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,28 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
+      "summary": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-31T20:19:06.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5"
+    },
+    {
+      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
+      "summary": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-05-31T20:13:36.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5"
+    },
     {
       "headline": "Israeli strike kills at least two at Gaza seaport cafe, medics say",
       "summary": "Israeli strike kills at least two at Gaza seaport cafe, medics say &nbsp;&nbsp; Reuters",
@@ -32,17 +54,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfYUVyODZCSUNqMWd4djdRbUFVSmdDU1JRY1pZLWtYcDBVbjluYjhKSi0tc1FIcGxHRjU2anl6cGI1cUhWMGd4NzRsZHVxTk5LWkZCT2FtUlFGSV9pYWlrQVllVEhlcTQ?oc=5"
-    },
-    {
-      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
-      "summary": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-31T16:41:41.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5"
     },
     {
       "headline": "Israel seizes Beaufort Castle, Trump's 2020 claims, PSG and Stalin's wine",
@@ -87,17 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE5ycVlXQ2lyWmppTS1UaElHQzhyOEROU0hwMTBxeno2bWkzZFVxdVJIa2hRYUpRVE9nanBHNV9qTGVrMEk5ZVZ3ajRBcGpKNVJMbElKalFwQndfeDlubTlvM2J2dndOZ1lkR3RrbExaYW5BenM3TWFseHZ2RXV1cGk4enVfXzlkM3gyUUpxWXZtT1ZEWHFfYVJNbGpHU3BDSlRJTTNjdFoxdEF4?oc=5"
-    },
-    {
-      "headline": "Ukraine's war crimes investigators are short on time — and funding",
-      "summary": "Ukraine's war crimes investigators are short on time — and funding &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-05-31T11:36:03.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkT2FKTi1FeDNiUmFKWXZJbm1yRTFpTWlPcDFCbkFUM3JFZkt2aElaNEpGblFVTmEtYU12STlNNTlKbnJNdWg3REFqQmNsaHpsa0szU0NmVmVvcWdGLUZTRGQ3QlZDSWc?oc=5"
     }
   ]
 }
