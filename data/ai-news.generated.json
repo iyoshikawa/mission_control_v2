@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-02T14:08:54.914Z",
+    "generatedAt": "2026-06-02T18:43:15.715Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,84 @@
   },
   "newsFeed": [
     {
+      "headline": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-02T18:34:34.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWRZdno3dVcxQjJtTFdjMlRsVThmQ3MyVk5mdF8yVC1jVkpHUEVlR3RLSjAwd0E0VF9SeDFHTVhGMFlhZGE0Yjk1VkVHWmtFS3FucUZDZHBZVnFhUURXLU5IYllVSkx5dW56cVJzUDgteGQzR0YzNk9oT3VRNHl2eXJscDE1RzNGM0FPLVdPSHRlQ2hfdF9Kb1lXZWI0N19xVXJoUHVTMXl1QdIBrwFBVV95cUxQUzhkQkl3R1FLaWwzVXdGUWlmMXhqR2h3SVVpQVlEQTREZjliZzgxVkJzTy1WS3pzdV9jenAySXVTXzRKWHRjMXZTbXliQkhNd1Nmd2ZSc2tiMzBUSm00SEZ3MkRkQ1F3N2NyNTlaYTFZSmJKT2hKVXdldktTMEtTY29zMFRmZWJnNl9ISWEyVWwwUFZJTFlzRDk4UEdTSVg1eTZ5LW00QV8tc0JfUWVj?oc=5"
+    },
+    {
+      "headline": "Anthropic Lets Claude Mythos Spread Its Glasswings - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-06-02T18:15:13.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic Lets Claude Mythos Spread Its Glasswings &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnJKVHdEdnp6ZVJlQkp3b2prM09pMHp6U1BWYnlPLS1DRHdCTWMxOEcwRVF0QzF2bDRySUhBS0VrbktIRWgtNFhkR2hjVWJpYkZETHFHUzYxRWxQcklqY0JYZXdTWnhRV2QzckVPbzBhQ2tFaVEzTHh1Uy1BNmpoM05zUi1VMXE3?oc=5"
+    },
+    {
+      "headline": "Microsoft targets Anthropic with new model releases - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-06-02T18:00:06.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Microsoft targets Anthropic with new model releases &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Xzl1VHplUjN2NXU2NDhBcm4zcmdkSy1IZ0d1X3JmdG9JNkF2UndWakNpTFR3Rk5GSXhfS1l3WFlWOFZ0M2NIbVR5VDI1R0FzRnVRSFc2X0hOdTd1QXNaRnhFaVlVbjV3RDZTakdhYjU?oc=5"
+    },
+    {
+      "headline": "Hackers tricked Meta's chatbot into giving access to Instagram accounts — just by asking - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-06-02T17:57:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Hackers tricked Meta's chatbot into giving access to Instagram accounts — just by asking &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWF0SGhQbFAxeFJrbDRCT0dCaU1CN3dYLTNGR181Z0doZHVhOHBzUGRxdDhlRWc2LVFkMDMxeHFhYlU4OGJnVFBXS0FTZ2ZqVFhOMXdVc2EtUGZPWGVKaWRVS2RDQWx3UVRhOHE5Znc1czZsUk9PcFpwME8tQnl2SS00UmFHNDFfeWZ2SXR6ZWlZZkxZRkJfRw?oc=5"
+    },
+    {
+      "headline": "Hackers didn't hack Instagram; they just asked Meta AI - Bitdefender",
+      "source": "Bitdefender",
+      "timestamp": "2026-06-02T16:41:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Hackers didn't hack Instagram; they just asked Meta AI &nbsp;&nbsp; Bitdefender",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjB6XzRkMHJXZG1hTHFJb2tScDZYRzVqNFg0RmZMdkN5UEYtSUY4eG1paXhZUzdsWlQtbG9Fc2w5ZmtrVGlkZWNBdnBsdWhOQ0JQVVFjd2RZaGZYNVZoWERIbmQxNEhwWVBCNjR3X3pVQmE1ZGl2MGxWYmlpQkVReEVpUk52SGpkUGtodldNeFo4QQ?oc=5"
+    },
+    {
+      "headline": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-06-02T15:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget &nbsp;&nbsp; WIRED",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGx5N1JGTmhpWWZ6aGhuUmZac0I2bmJ3dkhkZmpUYWlKTEJhVjhyVFI1MlpTRFdoZWZSeWFScDJteDhZWk1GSkpTakJybmZxdHpQVktYR1Q4U1Zaa203WDVsNjBidXFhNVRQOW42YUpZNlMyaVJlM2dYM3pUUURmektueGE5b2JrMUF5Qjh3dHk?oc=5"
+    },
+    {
       "headline": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries - CNBC",
       "source": "CNBC",
       "timestamp": "2026-06-02T13:22:25.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries &nbsp;&nbsp; CNBC Anthropic expanding Project Glasswing to 200 partners &nbsp;&nbsp; qz.com Expanding Project Glasswing &nbsp;&nbsp; Anthropic",
+      "summary": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Lc0lBWlNIcnlwX0VScW1iLWZ1eU53RjBONUxKUG54bzFpNjRjZDh6YTlLaFFxa2FPLXE5ZGpuTVgtdFBpUnpQdWxYS0dHc0gtX0ZENEYzX0JRRkVhMmxVSU9zR0FkODA0RGlPQ1Y1azFGVGwtRDdUMWtPTjZUTTjSAYQBQVVfeXFMT0dkanlwZFlQLWJSYWdvYnl4WVhFWnRlOXZmSWE3TmIwWGFnSUd1Z0pWd0kwZ2o4YkVaWkNzcTVuQ1lReWlIdnRMWDFVWDVIRFNqWW9LNi03ZWlkQ1pfZm43ckRqaTNNTTZLSlFJRHhZMlM1Sm11b3VJUjNfeTJ5OUtUbVc2?oc=5"
+    },
+    {
+      "headline": "Expanding Project Glasswing - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-02T13:05:18.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Expanding Project Glasswing &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRWF6VVZqQWo3VEJKQ2NDOTRXT1dQaUNzcURtbkdocEg1bnY1WEFFWF8zRGxwd0R0d1NxZFZVQ3dBeXdGU1hpNEZMd2JFcHFzU0UxLTdUVnNKXzM3dTZSanU4b2ZGM1lwUnc?oc=5"
     },
     {
       "headline": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
@@ -32,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5"
     },
     {
-      "headline": "Stock Markets Signal They’re Ready to Absorb Google and Anthropic Capital Raises - Barron's",
-      "source": "Barron's",
-      "timestamp": "2026-06-02T10:58:00.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Stock Markets Signal They’re Ready to Absorb Google and Anthropic Capital Raises &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFFUMUVCZHBHZjRfdjZXNU83M29ZVVpoS19EQUZ0OHp1VTB4X0N4b2ctMTBna2NCNHRWYUVmVGotWGtCdW5tQlFtRWtzdW1VUGMwYXlpUENERG5uVEd1ZFpHcjZ3QmtzOUpULXhhakpqRkpQRlBqU2pDZmRTVzBQODNPOEV5aE94SzQ4?oc=5"
-    },
-    {
       "headline": "Is Microsoft AI the Ultimate Enterprise Trojan Horse? - AI Magazine",
       "source": "AI Magazine",
       "timestamp": "2026-06-02T10:21:42.000Z",
@@ -50,123 +110,63 @@
       "summary": "Is Microsoft AI the Ultimate Enterprise Trojan Horse? &nbsp;&nbsp; AI Magazine",
       "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnBabEpXbkJoMWJlOXBSVkZEb0huMGJyY0VzWmxjSmxvWTk5bUNvZGdVMEdaRElhZmdCX2xwb0FUTklPWjFBTk4zVlZFbWEyaTQwbVN0Q2NZTDEzTHlSLXJQeDRfcVM5c2N5MzhGSUctNEd1ZmFhNU9oM3o4RlRfRUlTXzVPZGs?oc=5"
-    },
-    {
-      "headline": "Hackers trick Meta’s own AI into revealing passwords of popular Instagram accounts - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "timestamp": "2026-06-02T05:39:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Hackers trick Meta’s own AI into revealing passwords of popular Instagram accounts &nbsp;&nbsp; Yahoo Finance UK",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JYmJRUTZsS21MVVVJTzZ2RWhIT3VRak5hMzhDZnZ3SVBUT3B2dXVUaDk5QWsxcWxRWE5VREt5c1VZZU5kMlVxUnZ1MHBmV05vR2UxNWs1aGMzc3JiNUZzVzVHZ3JSNHNwTlZkVDdnV1F1VU5UazkwQkNFai1HZUE?oc=5"
-    },
-    {
-      "headline": "Top AI labs expand research into machine ‘consciousness’ - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-06-02T04:00:51.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Top AI labs expand research into machine ‘consciousness’ &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1lNOWphWDE5VlN3YlJXZVhnSnBVZFhPcVFBN1F5RTB4elJDUUEwZ2otdmtPV09FWGhMQkh4cnZYbjM2Q2NyM3BoRVprVlVsTDRYc1NhVWVGUHFPbklsWjh3UUkyR3NZTGJ5MHVOTzd2YWs5WlRjTWpKUHBfSjdnUDNlQTE?oc=5"
-    },
-    {
-      "headline": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI - Snowflake",
-      "source": "Snowflake",
-      "timestamp": "2026-06-02T00:12:27.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI &nbsp;&nbsp; Snowflake",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdEFTM29Lel9FNmVCUjBOS0dqb2JHbnJvZm4xbnFPZ2hhdjdWUG9FU25pd0F5MktzM0ktVFBiOFhUMmtlVWZ4NHNrQ3pBeUxJSFUwT0t3UjdPeThVX1BjREtjLWFhTy1xcWRneVJRcHB1dDk3XzNLNXJRbFlDUGk3MjFsTGpOUzJMQnlQeHhkQk1jeHgzTUN1dS1xdk51bkNVNlBJd0R3OUp0blVNMG9lb2VjLTdSWjNCZWJ2Ymo0Qzc5WmNKaUtKUFc5cmJIOFFNUXc2LXo2Ylg4bFREN2wzZA?oc=5"
-    },
-    {
-      "headline": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked - 404 Media",
-      "source": "404 Media",
-      "timestamp": "2026-06-01T22:21:34.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked &nbsp;&nbsp; 404 Media Instagram AI chatbot tricked by hackers to give access to others' accounts &nbsp;&nbsp; BBC Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account &nbsp;&nbsp; The Guardian Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access &nbsp;&nbsp; TechCrunch Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts &nbsp;&nbsp; Krebs on Security Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts &nbsp;&nbsp; Ars Technica Meta's AI chatbot reportedly helped hackers steal Instagram accounts — all they had to do was ask &nbsp;&nbsp; Yahoo Tech Meta's AI support chatbot made it ridiculously easy for hackers to take over Instagram accounts &nbsp;&nbsp; Engadget Meta's AI Support Bot Is Giving Hackers Access to Other People's Instagram Accounts Just by Asking &nbsp;&nbsp; Futurism",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXpSRjNYQmFTYmZ2N3R1QWlUTWRkdVFzZTJ5N2ZWZVpCRmRuVWhvel9OT19IdExEWnNCNklUX2lPd3VxUzkwTXltZUdzTUhjMWJkVWY3WWlvRTFSQXlfMkYyc2RMdDQ5bTl6WUZ1dktzNE9qb2kzTS1sRGNQeG9xZ25jOTNVTFFpdE4tVzJlZHFRQ3BSZDV1dDhHNGtCWkw1Um14MnJZdFRxdV9hQTE3QUpiMVRrMjg5RHc?oc=5"
-    },
-    {
-      "headline": "OpenAI frontier models and Codex are now available on AWS - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-01T21:51:53.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI frontier models and Codex are now available on AWS &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmhkdlNPYTFmbHBacG9ja1ZFU2F2YUsxTFd6cFdCdy1PVzh5NmdUdGtTSDhNV3I0WXMzc0NlR1Y2YWlyVjZEeFB3ZU1WSU5KZ0FxUjFuOFNzZVVxSzJFa2VkdmtfQ3ZXajhnUlZkSHV5VnR5dTN4ZTZEMzZyRXVTZlJHZ3IzVzFnYWRB?oc=5"
-    },
-    {
-      "headline": "Meta's AI Chatbot Allegedly Helped Hackers Hijack Instagram Accounts - PCMag",
-      "source": "PCMag",
-      "timestamp": "2026-06-01T19:58:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's AI Chatbot Allegedly Helped Hackers Hijack Instagram Accounts &nbsp;&nbsp; PCMag",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjVleXBCWVhyLUJmMG5FLS1Gem9PTndJcHBmeWZWSTYzd1RpVWFURXAzblIxWkl0Y2VGSGtQdHU5ZFFLSFViWjBVUFNaZFRDS25wUm93NTJsbXJQVk1Hc1hsODYybnY3V2EtVThXeml4WDQ4Q2dJeF9vWVVGWU1JZVJZZU9kOXFldHZZT3lpWmkwMm1CNUYwdzN3?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries - CNBC",
+        "headline": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers - CNBC",
         "source": "CNBC",
-        "timestamp": "2026-06-02T13:22:25.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Lc0lBWlNIcnlwX0VScW1iLWZ1eU53RjBONUxKUG54bzFpNjRjZDh6YTlLaFFxa2FPLXE5ZGpuTVgtdFBpUnpQdWxYS0dHc0gtX0ZENEYzX0JRRkVhMmxVSU9zR0FkODA0RGlPQ1Y1azFGVGwtRDdUMWtPTjZUTTjSAYQBQVVfeXFMT0dkanlwZFlQLWJSYWdvYnl4WVhFWnRlOXZmSWE3TmIwWGFnSUd1Z0pWd0kwZ2o4YkVaWkNzcTVuQ1lReWlIdnRMWDFVWDVIRFNqWW9LNi03ZWlkQ1pfZm43ckRqaTNNTTZLSlFJRHhZMlM1Sm11b3VJUjNfeTJ5OUtUbVc2?oc=5",
-        "summary": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries &nbsp;&nbsp; CNBC Anthropic expanding Project Glasswing to 200 partners &nbsp;&nbsp; qz.com Expanding Project Glasswing &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
-        "source": "TradingKey",
-        "timestamp": "2026-06-02T13:02:19.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
-        "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey"
-      },
-      {
-        "headline": "Stock Markets Signal They’re Ready to Absorb Google and Anthropic Capital Raises - Barron's",
-        "source": "Barron's",
-        "timestamp": "2026-06-02T10:58:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFFUMUVCZHBHZjRfdjZXNU83M29ZVVpoS19EQUZ0OHp1VTB4X0N4b2ctMTBna2NCNHRWYUVmVGotWGtCdW5tQlFtRWtzdW1VUGMwYXlpUENERG5uVEd1ZFpHcjZ3QmtzOUpULXhhakpqRkpQRlBqU2pDZmRTVzBQODNPOEV5aE94SzQ4?oc=5",
-        "summary": "Stock Markets Signal They’re Ready to Absorb Google and Anthropic Capital Raises &nbsp;&nbsp; Barron's"
-      },
-      {
-        "headline": "Is Microsoft AI the Ultimate Enterprise Trojan Horse? - AI Magazine",
-        "source": "AI Magazine",
-        "timestamp": "2026-06-02T10:21:42.000Z",
+        "timestamp": "2026-06-02T18:34:34.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnBabEpXbkJoMWJlOXBSVkZEb0huMGJyY0VzWmxjSmxvWTk5bUNvZGdVMEdaRElhZmdCX2xwb0FUTklPWjFBTk4zVlZFbWEyaTQwbVN0Q2NZTDEzTHlSLXJQeDRfcVM5c2N5MzhGSUctNEd1ZmFhNU9oM3o4RlRfRUlTXzVPZGs?oc=5",
-        "summary": "Is Microsoft AI the Ultimate Enterprise Trojan Horse? &nbsp;&nbsp; AI Magazine"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWRZdno3dVcxQjJtTFdjMlRsVThmQ3MyVk5mdF8yVC1jVkpHUEVlR3RLSjAwd0E0VF9SeDFHTVhGMFlhZGE0Yjk1VkVHWmtFS3FucUZDZHBZVnFhUURXLU5IYllVSkx5dW56cVJzUDgteGQzR0YzNk9oT3VRNHl2eXJscDE1RzNGM0FPLVdPSHRlQ2hfdF9Kb1lXZWI0N19xVXJoUHVTMXl1QdIBrwFBVV95cUxQUzhkQkl3R1FLaWwzVXdGUWlmMXhqR2h3SVVpQVlEQTREZjliZzgxVkJzTy1WS3pzdV9jenAySXVTXzRKWHRjMXZTbXliQkhNd1Nmd2ZSc2tiMzBUSm00SEZ3MkRkQ1F3N2NyNTlaYTFZSmJKT2hKVXdldktTMEtTY29zMFRmZWJnNl9ISWEyVWwwUFZJTFlzRDk4UEdTSVg1eTZ5LW00QV8tc0JfUWVj?oc=5",
+        "summary": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Hackers trick Meta’s own AI into revealing passwords of popular Instagram accounts - Yahoo Finance UK",
-        "source": "Yahoo Finance UK",
-        "timestamp": "2026-06-02T05:39:00.000Z",
+        "headline": "Anthropic Lets Claude Mythos Spread Its Glasswings - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-06-02T18:15:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnJKVHdEdnp6ZVJlQkp3b2prM09pMHp6U1BWYnlPLS1DRHdCTWMxOEcwRVF0QzF2bDRySUhBS0VrbktIRWgtNFhkR2hjVWJpYkZETHFHUzYxRWxQcklqY0JYZXdTWnhRV2QzckVPbzBhQ2tFaVEzTHh1Uy1BNmpoM05zUi1VMXE3?oc=5",
+        "summary": "Anthropic Lets Claude Mythos Spread Its Glasswings &nbsp;&nbsp; Gizmodo"
+      },
+      {
+        "headline": "Microsoft targets Anthropic with new model releases - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-06-02T18:00:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Xzl1VHplUjN2NXU2NDhBcm4zcmdkSy1IZ0d1X3JmdG9JNkF2UndWakNpTFR3Rk5GSXhfS1l3WFlWOFZ0M2NIbVR5VDI1R0FzRnVRSFc2X0hOdTd1QXNaRnhFaVlVbjV3RDZTakdhYjU?oc=5",
+        "summary": "Microsoft targets Anthropic with new model releases &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "Hackers tricked Meta's chatbot into giving access to Instagram accounts — just by asking - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-06-02T17:57:36.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JYmJRUTZsS21MVVVJTzZ2RWhIT3VRak5hMzhDZnZ3SVBUT3B2dXVUaDk5QWsxcWxRWE5VREt5c1VZZU5kMlVxUnZ1MHBmV05vR2UxNWs1aGMzc3JiNUZzVzVHZ3JSNHNwTlZkVDdnV1F1VU5UazkwQkNFai1HZUE?oc=5",
-        "summary": "Hackers trick Meta’s own AI into revealing passwords of popular Instagram accounts &nbsp;&nbsp; Yahoo Finance UK"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWF0SGhQbFAxeFJrbDRCT0dCaU1CN3dYLTNGR181Z0doZHVhOHBzUGRxdDhlRWc2LVFkMDMxeHFhYlU4OGJnVFBXS0FTZ2ZqVFhOMXdVc2EtUGZPWGVKaWRVS2RDQWx3UVRhOHE5Znc1czZsUk9PcFpwME8tQnl2SS00UmFHNDFfeWZ2SXR6ZWlZZkxZRkJfRw?oc=5",
+        "summary": "Hackers tricked Meta's chatbot into giving access to Instagram accounts — just by asking &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Top AI labs expand research into machine ‘consciousness’ - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-06-02T04:00:51.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1lNOWphWDE5VlN3YlJXZVhnSnBVZFhPcVFBN1F5RTB4elJDUUEwZ2otdmtPV09FWGhMQkh4cnZYbjM2Q2NyM3BoRVprVlVsTDRYc1NhVWVGUHFPbklsWjh3UUkyR3NZTGJ5MHVOTzd2YWs5WlRjTWpKUHBfSjdnUDNlQTE?oc=5",
-        "summary": "Top AI labs expand research into machine ‘consciousness’ &nbsp;&nbsp; Financial Times"
+        "headline": "Hackers didn't hack Instagram; they just asked Meta AI - Bitdefender",
+        "source": "Bitdefender",
+        "timestamp": "2026-06-02T16:41:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjB6XzRkMHJXZG1hTHFJb2tScDZYRzVqNFg0RmZMdkN5UEYtSUY4eG1paXhZUzdsWlQtbG9Fc2w5ZmtrVGlkZWNBdnBsdWhOQ0JQVVFjd2RZaGZYNVZoWERIbmQxNEhwWVBCNjR3X3pVQmE1ZGl2MGxWYmlpQkVReEVpUk52SGpkUGtodldNeFo4QQ?oc=5",
+        "summary": "Hackers didn't hack Instagram; they just asked Meta AI &nbsp;&nbsp; Bitdefender"
+      },
+      {
+        "headline": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-06-02T15:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGx5N1JGTmhpWWZ6aGhuUmZac0I2bmJ3dkhkZmpUYWlKTEJhVjhyVFI1MlpTRFdoZWZSeWFScDJteDhZWk1GSkpTakJybmZxdHpQVktYR1Q4U1Zaa203WDVsNjBidXFhNVRQOW42YUpZNlMyaVJlM2dYM3pUUURmektueGE5b2JrMUF5Qjh3dHk?oc=5",
+        "summary": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget &nbsp;&nbsp; WIRED"
       }
     ],
     "whyItMatters": [
