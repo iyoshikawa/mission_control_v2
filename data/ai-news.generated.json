@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T08:52:24.892Z",
+    "generatedAt": "2026-06-04T12:01:04.927Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI - South China Morning Post",
-      "source": "South China Morning Post",
-      "timestamp": "2026-06-04T07:00:10.000Z",
+      "headline": "What’s fueling AI companies’ IPO rush - vox.com",
+      "source": "vox.com",
+      "timestamp": "2026-06-04T11:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What’s fueling AI companies’ IPO rush &nbsp;&nbsp; vox.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUtTa2VFUzFuQ29Mdnc5SG14d3NhWnhhUjBtOUh4ZG0wWFNBSGVsX0JidGxmY1BtcW0zNjNKYW4xV0pNai1QbFNrMVZfZ3JVNGwzSzJjbXluUGg3YXdicDUxNWJ3MDdtTTg5OWdlekhNdjhCUFZDand4OWgwc2owcElXSEJwRHZCQVZlWTBWc1N4eVAzbTVUcFh2THhmMTA?oc=5"
+    },
+    {
+      "headline": "Microsoft’s AI Chief Says Anthropic Models Are Too Expensive - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-06-04T11:08:45.000Z",
       "impact": "HIGH",
-      "category": "market",
-      "summary": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI &nbsp;&nbsp; South China Morning Post",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGxDU3ltdm5xUmJPZWxWb3BmRHpaYURjM0NEQmtpc0c0SzlrbnZVdjdzS2xsTHdmRS1tRlZFdnNVMW44WmlfRTgzZTJ4S2llNXBfeUo1cXZ6bTg0cUNINXVldXE5V2pudnc2V1RybUxxOGV4dFN3Y1c1aVBXSDVlWC0tc19jNVo2NVpfVjk0eEZ0SHpCWldNRzlNd3FVOXNfWlczaTlvdjhud0tYRGkwUzVsR0tXTlVvdVHSAboBQVVfeXFMTjJ0UUUtRHg2NTY3NXU4SlRVdFUyR09XWEplSlNIZndyU1BROVBRV25wMnhhYW53aDREZXB6NV9DTkFFa0tBZjI5X1BUNTRVWW9xYzYxQlFSMUMxNUFIbThSTFVaY1c5Q1NXSnZPQnkxMGNvQVczTTRodzJPMWU2MlRYazlzVk9GMjVhbS1HcVhQV1Ewdl9DakZwTENrQVlzUmswalYzUnNmQ1VDRWh3a25GMDZhNDVISGd3?oc=5"
+      "category": "models",
+      "summary": "Microsoft’s AI Chief Says Anthropic Models Are Too Expensive &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1Z5SnN2TXZiQXh3YWd5TXBiRmhmMFlCMlV1TTRnR0lxSzhfdEhGYmVSbmEzVGRJVHNPRHQ0MF8yU3g3VXIyY2lrLXlZRlNoRVBvU2ktUnBETUJrRzNnS04yRVdVRkRyX1IycTlrb0RtV1FzclN3RWNYT0JCNTFyNWRqWWNIMWZXYjNKcnRxS3V5ZzlOVkwxQ3c5TkJQbWpTUy1PLUdR?oc=5"
+    },
+    {
+      "headline": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era' - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-06-04T09:46:20.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era' &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1pTYzZoeGFxYlFScWRidWFxVjI1VUJMdWlZNWJ6WXJGc3M3cFpnZlVVSWMzbVJLOTQxLTljZlhJTC1kYU05b0pNaHg4UW9kQnNaSFJUV0RjZjItNUdfdVVxcUJRc2hydkRWY2hxZWN4M01pVmxOR3RkZWFia3R3SkQ0WHlUTXRpWDZhVUlnUk5EZWN0NWc?oc=5"
+    },
+    {
+      "headline": "A handful of American households pay for AI. Is the future free — or a subscription? - NPR",
+      "source": "NPR",
+      "timestamp": "2026-06-04T09:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A handful of American households pay for AI. Is the future free — or a subscription? &nbsp;&nbsp; NPR",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDFleFZUYWIzWklfQy02UFJ3QTFVNVFvNUVKZXpmR0pzU2p3UURjOVc3Vl94a1dIZzU2NzV1bW80ZU9QN0x5ZDRrbko5Mi1LcFhuODA5WXd2bHlnTmtDWFM5NGpqb2owUmZVM1V0X3BPbWpUb1VYRlBpMVp2X3N3ZGVrNjBjMklLVmhEM3paZHBUaklYdHQ3NWFB?oc=5"
+    },
+    {
+      "headline": "Anthropic’s relentless race to the top - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-06-04T04:00:23.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic’s relentless race to the top &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjFfTFFGc3FTc2xFOUpGT2NSSUNPVmVsOFY3TlJxSTBiQnFBSEZWZzBjTEUtLUVJLXZpVHdRY0daaTNKZzhWWmFPMTViek5IaTJzTkJEemYzNEVmRzAxRElZTE9RazZCS3B4blNNYWpnbmhOeWxFQ2NSSjZvcVlwYVk5elo?oc=5"
+    },
+    {
+      "headline": "Exclusive | Meta Keeps Delaying the Release of Its New AI Model to Developers - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-06-04T02:50:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive | Meta Keeps Delaying the Release of Its New AI Model to Developers &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzFMQXZWZ1pBUXo2V0Z4eXJQdkMwbHVndW9rQjlmdUN5Y2ZLcmRPNUs3VERiaUZpS2VYMU9GN0l5VGxXbnltajlha2EySWRVUnJhSklTcGMyb1piOWFLX3JCdm42UUJPVmJOM1paUjFEREZMR21aRWJ2eWJfaDV0NzR5QmhaWll6b2Q3dTFCUUVGOHRJa0VkQzR5TjRDS2JwZ1JhVg?oc=5"
     },
     {
       "headline": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons - WIRED",
@@ -52,26 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHNtZkt0RXFoWkhqcmh3S0c0YkRid3hFOVNQMXZKQ1RRQW1nQms2dmJ4bHdOOVhRSmFVdE0tYl9uRVRjcGZYdjVVZ2ZidllHQV9PTmRUNWVlRk04STRHSFJUOGE1SFI4aXhaM2d5aXVtb2dJRDdIRUxXVFVQYjFObXlCMGVlRG5uZlpMVWVIb0NkLXJ4?oc=5"
     },
     {
-      "headline": "Sight Machine and Microsoft use AI-driven optimization to increase manufacturing productivity by 10% with Microsoft Foundry - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-06-03T21:23:29.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Sight Machine and Microsoft use AI-driven optimization to increase manufacturing productivity by 10% with Microsoft Foundry &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXY2dzkyVXVKNmsyXzZuZEZka19QWWZzR1hYS1FCOWg0NmlkUFlYZDVuZW5yTXlxcWJaYmw1UG1lZGt4Mkp0dVhoMU83YW9VVXBZUFdWdkc5ZE94TGZVRm50S1NwMzdxSWRHNXBBX2txTUQyZWxzZTlSV3FIVFR5enM5RGNKMjV4UVE?oc=5"
-    },
-    {
-      "headline": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM - the-decoder.com",
-      "source": "the-decoder.com",
-      "timestamp": "2026-06-03T20:42:40.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM &nbsp;&nbsp; the-decoder.com",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTZMX1ZNTllPYk8yZmtySldjRE9xeThmdHpkUjdqYVh1XzlrN3ZVM3J6V0hpVU4yRi1Sd3pLeldkaE9DMzYySXV0anNoN2hPYkJlNGlqWGtVenBZazFsZTdnd2JwOVhmbm95VV85R0xRblFoT3F2NHh0Zy1kNDBSa2VuVUtwZmNtMXVNX1JYRlFlOFFkcVlvMC1Dc0ZPd0xQY3hzN2pWRTRjRUl0ay1zQmNlOA?oc=5"
-    },
-    {
       "headline": "Sam Altman says OpenAI's top token spender uses 100 billion tokens a month — and they're not even the world leader - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-06-03T16:32:00.000Z",
@@ -80,93 +110,63 @@
       "summary": "Sam Altman says OpenAI's top token spender uses 100 billion tokens a month — and they're not even the world leader &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnpxdjNKRVV1QWtXZG11WHBKcnktRF9peDJRdXE1NzQxd3FtSUlnRnI1THJFWDJDMkttZWRONGg1N1I3dHRBdURobzBBZFlLQ3hNTzhNaTRSaDI1T2lxSHBIQnJpV3pGQnFkSFl0cGVhWEtqQXk2UXlnZ3hUdzF0VXlOTHpUZlpOaWJ4eEgxZHpmY00?oc=5"
-    },
-    {
-      "headline": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-06-03T16:10:37.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdUNDVqeHpOQ3AtSDdyeE1oR2VVXzA2ZFNOTi1mZWh6ek9ZWkhjY19hZU1la2tBalJzcjVsVkk2RENHLWo5c2VDai13QXlZaGs2TXpfYWpkWTBKZnBNbnItYy0yUGpxSzRhQmpUT3NhSHhHOWZGUERHVjZWaDF6am0zUGJLekYtemp2SmhQODU4dDg1?oc=5"
-    },
-    {
-      "headline": "Microsoft AI chief Mustafa Suleyman says there are three labs that matter — and he wants Microsoft to be the fourth. - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-06-03T14:04:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft AI chief Mustafa Suleyman says there are three labs that matter — and he wants Microsoft to be the fourth. &nbsp;&nbsp; The Verge",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVdFdEdQQTRodDJqeW95ZGJxRzdoRjZOWWdvSU5Rc2EyeHJoLTRrZ0d1Z3FJSVpTSmJRNVBIU2tKSTJwVWtqS2lCT1VUSG9GbVhKY19vVHNyeDJxaTgzRkJHdklHV25SNTN6NlFnYURWVlNxMTdsb09neHhSOC1meWZWb2psMFl5Q2VDY2dXcnpTVUVsOUR6cDZNTTIxWDByMHcwdENn?oc=5"
-    },
-    {
-      "headline": "Mark Zuckerberg Wants Meta’s New AI Agents to Run Your Whole Business - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-03T13:56:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Mark Zuckerberg Wants Meta’s New AI Agents to Run Your Whole Business &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkthUlJlSTFOV29kR1A4S3ZMTmEzMDluY1pIampKY3RZUkxQX1NKajFwaVRnLVkwSzFHdTJ5aERYVWhHNGFOWlNtRWV1SXlpaXVLeXI0c18wcUhBNU1HRzYwRlZDWUhBeGk3S1hmcGV1LTBBS3dmSm1tX2g4eFdvSVJDcHp5QkdSNFZ3Y291MHlZTlN4Qzg5Ty05UEpWYUVPNEcxSQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI - South China Morning Post",
-        "source": "South China Morning Post",
-        "timestamp": "2026-06-04T07:00:10.000Z",
+        "headline": "What’s fueling AI companies’ IPO rush - vox.com",
+        "source": "vox.com",
+        "timestamp": "2026-06-04T11:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUtTa2VFUzFuQ29Mdnc5SG14d3NhWnhhUjBtOUh4ZG0wWFNBSGVsX0JidGxmY1BtcW0zNjNKYW4xV0pNai1QbFNrMVZfZ3JVNGwzSzJjbXluUGg3YXdicDUxNWJ3MDdtTTg5OWdlekhNdjhCUFZDand4OWgwc2owcElXSEJwRHZCQVZlWTBWc1N4eVAzbTVUcFh2THhmMTA?oc=5",
+        "summary": "What’s fueling AI companies’ IPO rush &nbsp;&nbsp; vox.com"
+      },
+      {
+        "headline": "Microsoft’s AI Chief Says Anthropic Models Are Too Expensive - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-06-04T11:08:45.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZGxDU3ltdm5xUmJPZWxWb3BmRHpaYURjM0NEQmtpc0c0SzlrbnZVdjdzS2xsTHdmRS1tRlZFdnNVMW44WmlfRTgzZTJ4S2llNXBfeUo1cXZ6bTg0cUNINXVldXE5V2pudnc2V1RybUxxOGV4dFN3Y1c1aVBXSDVlWC0tc19jNVo2NVpfVjk0eEZ0SHpCWldNRzlNd3FVOXNfWlczaTlvdjhud0tYRGkwUzVsR0tXTlVvdVHSAboBQVVfeXFMTjJ0UUUtRHg2NTY3NXU4SlRVdFUyR09XWEplSlNIZndyU1BROVBRV25wMnhhYW53aDREZXB6NV9DTkFFa0tBZjI5X1BUNTRVWW9xYzYxQlFSMUMxNUFIbThSTFVaY1c5Q1NXSnZPQnkxMGNvQVczTTRodzJPMWU2MlRYazlzVk9GMjVhbS1HcVhQV1Ewdl9DakZwTENrQVlzUmswalYzUnNmQ1VDRWh3a25GMDZhNDVISGd3?oc=5",
-        "summary": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI &nbsp;&nbsp; South China Morning Post"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1Z5SnN2TXZiQXh3YWd5TXBiRmhmMFlCMlV1TTRnR0lxSzhfdEhGYmVSbmEzVGRJVHNPRHQ0MF8yU3g3VXIyY2lrLXlZRlNoRVBvU2ktUnBETUJrRzNnS04yRVdVRkRyX1IycTlrb0RtV1FzclN3RWNYT0JCNTFyNWRqWWNIMWZXYjNKcnRxS3V5ZzlOVkwxQ3c5TkJQbWpTUy1PLUdR?oc=5",
+        "summary": "Microsoft’s AI Chief Says Anthropic Models Are Too Expensive &nbsp;&nbsp; Bloomberg"
       },
       {
-        "headline": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-06-04T01:01:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTDZrcUlKWDFEeVBkTDNUQ096SHhvVVVQTmRvTjI0X0lqMFhJcHhTYlh5YU9oWktjOTVqVjBfMFY0TkxPV05mZFkyT0REY1RuUHVpN0JGZnpZUWZuVmhMdGhhdE5hTnkwZ3YwZXI3M0Z4b3NFdDBLbzZiQmh1ZkU?oc=5",
-        "summary": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Unstructured Expands Integration with Microsoft Azure to Power Enterprise AI Workflows - HPCwire",
-        "source": "HPCwire",
-        "timestamp": "2026-06-04T00:07:08.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0RwcV8zSDdVQ2Q2djVxYnRTTkh4QWJybG5yaW5BdERXc25uQUNMQVl4eE5tdm0xNnFESjNkaGdvR1lrWFAwUFRtd19HeVcwbkZucTJUVUJSTHF0ZFZYSl8xTXItQThJWjZyaG45eTIwRmttdVpETUhRZTZzak1pTGZ5d0dDWlFLSWFoYnY4WmRLb1VxNEU5Q1JyejI2S29qd0ZjQ1BWUmxkVko1WUwtSXNYbm8wTnVCS2xSRFJOVEpZSG5tNDJBbnBqYzVJVmREQ0E?oc=5",
-        "summary": "Unstructured Expands Integration with Microsoft Azure to Power Enterprise AI Workflows &nbsp;&nbsp; HPCwire"
-      },
-      {
-        "headline": "Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent - The Information",
-        "source": "The Information",
-        "timestamp": "2026-06-03T22:01:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHNtZkt0RXFoWkhqcmh3S0c0YkRid3hFOVNQMXZKQ1RRQW1nQms2dmJ4bHdOOVhRSmFVdE0tYl9uRVRjcGZYdjVVZ2ZidllHQV9PTmRUNWVlRk04STRHSFJUOGE1SFI4aXhaM2d5aXVtb2dJRDdIRUxXVFVQYjFObXlCMGVlRG5uZlpMVWVIb0NkLXJ4?oc=5",
-        "summary": "Meta Looks to Charge Up to $200 a Month for Planned ‘Hatch’ AI Agent &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "Sight Machine and Microsoft use AI-driven optimization to increase manufacturing productivity by 10% with Microsoft Foundry - Microsoft",
-        "source": "Microsoft",
-        "timestamp": "2026-06-03T21:23:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXY2dzkyVXVKNmsyXzZuZEZka19QWWZzR1hYS1FCOWg0NmlkUFlYZDVuZW5yTXlxcWJaYmw1UG1lZGt4Mkp0dVhoMU83YW9VVXBZUFdWdkc5ZE94TGZVRm50S1NwMzdxSWRHNXBBX2txTUQyZWxzZTlSV3FIVFR5enM5RGNKMjV4UVE?oc=5",
-        "summary": "Sight Machine and Microsoft use AI-driven optimization to increase manufacturing productivity by 10% with Microsoft Foundry &nbsp;&nbsp; Microsoft"
-      },
-      {
-        "headline": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM - the-decoder.com",
-        "source": "the-decoder.com",
-        "timestamp": "2026-06-03T20:42:40.000Z",
+        "headline": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era' - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-06-04T09:46:20.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTZMX1ZNTllPYk8yZmtySldjRE9xeThmdHpkUjdqYVh1XzlrN3ZVM3J6V0hpVU4yRi1Sd3pLeldkaE9DMzYySXV0anNoN2hPYkJlNGlqWGtVenBZazFsZTdnd2JwOVhmbm95VV85R0xRblFoT3F2NHh0Zy1kNDBSa2VuVUtwZmNtMXVNX1JYRlFlOFFkcVlvMC1Dc0ZPd0xQY3hzN2pWRTRjRUl0ay1zQmNlOA?oc=5",
-        "summary": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM &nbsp;&nbsp; the-decoder.com"
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1pTYzZoeGFxYlFScWRidWFxVjI1VUJMdWlZNWJ6WXJGc3M3cFpnZlVVSWMzbVJLOTQxLTljZlhJTC1kYU05b0pNaHg4UW9kQnNaSFJUV0RjZjItNUdfdVVxcUJRc2hydkRWY2hxZWN4M01pVmxOR3RkZWFia3R3SkQ0WHlUTXRpWDZhVUlnUk5EZWN0NWc?oc=5",
+        "summary": "Google DeepMind CEO says we don't have much time to prepare for the 'new human era' &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "A handful of American households pay for AI. Is the future free — or a subscription? - NPR",
+        "source": "NPR",
+        "timestamp": "2026-06-04T09:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDFleFZUYWIzWklfQy02UFJ3QTFVNVFvNUVKZXpmR0pzU2p3UURjOVc3Vl94a1dIZzU2NzV1bW80ZU9QN0x5ZDRrbko5Mi1LcFhuODA5WXd2bHlnTmtDWFM5NGpqb2owUmZVM1V0X3BPbWpUb1VYRlBpMVp2X3N3ZGVrNjBjMklLVmhEM3paZHBUaklYdHQ3NWFB?oc=5",
+        "summary": "A handful of American households pay for AI. Is the future free — or a subscription? &nbsp;&nbsp; NPR"
+      },
+      {
+        "headline": "Anthropic’s relentless race to the top - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-06-04T04:00:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjFfTFFGc3FTc2xFOUpGT2NSSUNPVmVsOFY3TlJxSTBiQnFBSEZWZzBjTEUtLUVJLXZpVHdRY0daaTNKZzhWWmFPMTViek5IaTJzTkJEemYzNEVmRzAxRElZTE9RazZCS3B4blNNYWpnbmhOeWxFQ2NSSjZvcVlwYVk5elo?oc=5",
+        "summary": "Anthropic’s relentless race to the top &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "Exclusive | Meta Keeps Delaying the Release of Its New AI Model to Developers - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-06-04T02:50:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzFMQXZWZ1pBUXo2V0Z4eXJQdkMwbHVndW9rQjlmdUN5Y2ZLcmRPNUs3VERiaUZpS2VYMU9GN0l5VGxXbnltajlha2EySWRVUnJhSklTcGMyb1piOWFLX3JCdm42UUJPVmJOM1paUjFEREZMR21aRWJ2eWJfaDV0NzR5QmhaWll6b2Q3dTFCUUVGOHRJa0VkQzR5TjRDS2JwZ1JhVg?oc=5",
+        "summary": "Exclusive | Meta Keeps Delaying the Release of Its New AI Model to Developers &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
