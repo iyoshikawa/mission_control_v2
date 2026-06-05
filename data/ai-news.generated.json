@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T15:57:28.785Z",
+    "generatedAt": "2026-06-05T18:03:52.305Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI and Anthropic's next lock-in play: Databases of coding intent - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-05T14:31:15.000Z",
+      "headline": "Anthropic warns AI may soon begin recursive self-improvement - Scientific American",
+      "source": "Scientific American",
+      "timestamp": "2026-06-05T17:58:12.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI and Anthropic's next lock-in play: Databases of coding intent &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjB3V2JjZUZodnhackZiVUVYb1BXck05RzFjV0xmQnJMNVhFdTlDWFgwejFpTjZodGlkbGtpeGtCWmdqVTN0UHNEQmhYM09TVmdhdFRtTmFxZng3Y2JKRm54Y0tfSVpWdVgybXo0OEhCVTZ1UWduRHFnME1VZktVYXp4cURYNDFXdjhNQlEtVHFjdHhIQm5QSjhQMEtuTEVydEx6SUpYTQ?oc=5"
-    },
-    {
-      "headline": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought - Gizmodo",
-      "source": "Gizmodo",
-      "timestamp": "2026-06-05T14:30:29.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFZ4YWdWYWxQWTB2UnNvbkdIdzhMaHVOWWhHMnB0Q0MwSTdtcFczMEowU2JxUFFRenV3ZkNvZGpJRVBfS1g4R3c1aW9na0dreU5teUFBNkEtNlp2WnV0cFdJOHJLaXpVWDVQdFF3MXh5NjlaZWFMME5vZGUySmdSbmFNQ1dEa1gzNFJvM25KSy1fclByMFNtWGdHX3MxVmdJMkw4RldYNHE?oc=5"
-    },
-    {
-      "headline": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-06-05T14:27:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development &nbsp;&nbsp; Fortune",
+      "summary": "Anthropic warns AI may soon begin recursive self-improvement &nbsp;&nbsp; Scientific American",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2ljWWNYcTRCOUpaRmlRRHByaG9EclRLLVU0dWx6T1QtU28wU2xEQVZVanMxZll5WHBzVldqdUNLT2UwRnkxM0VoSHRtMzkyNmJvMkswUXVDZi0zdWU4N0tyOUphaS1iWEl3QkRKY2UyejMxTkdGZ0x5bldZTU8zS2xQRWUzODhwMkJfaFdLd3JETnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDBjNWRscG40YjNuQzBiN2ZMcE5jU1pkNU1KY2FKaHdxZC1sa1pRQjhSNFBZWlQwaXVXTV95bjBNaFJoMkhmUlFTbkNZNWJlZFc0dDg1eUl2UFIxeXlRd1dTdVJ1cUtHR05qUUhjOW5rVmgyU3Z6SjZNTUdaejFJOTBlUzdkd3hyY0hnRTVTTHVUcmtQTXdYY3gtVDhqUkoyeVNjYXh0WQ?oc=5"
     },
     {
-      "headline": "AI is designing OpenAI's next model in a sign of 'super intelligence': SoftBank's Masayoshi Son to CNBC - CNBC",
+      "headline": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC",
       "source": "CNBC",
-      "timestamp": "2026-06-05T13:15:50.000Z",
+      "timestamp": "2026-06-05T17:06:49.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "AI is designing OpenAI's next model in a sign of 'super intelligence': SoftBank's Masayoshi Son to CNBC &nbsp;&nbsp; CNBC",
+      "summary": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5"
+    },
+    {
+      "headline": "Claude Becomes The Enterprise Favorite As Anthropic Passes OpenAI - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-06-05T16:46:53.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Claude Becomes The Enterprise Favorite As Anthropic Passes OpenAI &nbsp;&nbsp; Forbes",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0VfTUI4bUZvd3pYM1JJcVdjWk53eW83enVmclNOYXpINGxPYlhkTUNYbjlNWFR6LWsxeHhxbjRRM19IcDY4UnF5bHMyMVFWTVdQeDVBWDlGVzkxRlhLT2l6MThDLTNOSWMyVU0wZ3FxR3lwVGV0Rkp2ZVdiRjBXR2xVd3JhemJ6MHBmYXZHdU9Lcm4tZFhhRWRoYnBoa2t0UmY1S0REcnF1T0oxdWJoa2xmNnJQbE52Z1E?oc=5"
+    },
+    {
+      "headline": "OpenAI to Allow US Government Early Access to Frontier Models - PYMNTS.com",
+      "source": "PYMNTS.com",
+      "timestamp": "2026-06-05T16:44:58.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI to Allow US Government Early Access to Frontier Models &nbsp;&nbsp; PYMNTS.com",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUFlUS1USE1SN0k1dnBDMzBYS1VKT0VlT29BUjRMdGVWM3B3TTU3LWM5Ukx3amQyRGJBUjZEZ2VhT3FZYlBjczZXUUNMeXJYY1ZmLVZNNjd1QjJMZXpkdXRyOHJkMUt2OUlOMTkwdHRlTEpwTndUWlRZSzd5LWxhUG9ueXQwVC1jQ0d6b2FzSG11MC1qMEJ6anZabktEQXNCdkRfUTJ5djJzbjgtd1NQYldsZXlWZG80VEZmbDY5ZDc0dw?oc=5"
+    },
+    {
+      "headline": "Meta Ray-Ban glasses may soon identify faces using AI - 9to5Google",
+      "source": "9to5Google",
+      "timestamp": "2026-06-05T14:52:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Meta Ray-Ban glasses may soon identify faces using AI &nbsp;&nbsp; 9to5Google",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTlCdnNFN3VYRFJnbzNrM0FQLTlDRjZ1WlNWcTRZcGY4Y3hiNmdxRUhHdE45cENNUGlMQXo3a1Z1eWwtekc1djNxMUFsSE1CNUg4LU9SNkxNUGFSRE96OU9peTFvVVBnNnA0dE9Xb1FrS3diaWRjM21Dc25tbjFGMTZKRTY4b3M?oc=5"
+    },
+    {
+      "headline": "OpenAI says it will comply with Trump's order requiring AI model reviews before release - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-05T08:57:21.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI says it will comply with Trump's order requiring AI model reviews before release &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRS1vSzV1aDZrVkx0STlwUTA3VWsyajBMeDY1WE1rZGlLbmRoTjMtdWg4Q043amdOUTBUb0tQSS1KWUVmYzJEZ1I3U3ZrZWt1US01UHRyampyRll1TnNiRTlWc3dqNU8wRzZVV3pOYmZIdlhPRkpFT2RNX0hDTjRFaWRfZzNOM2RWV0FqUm1NOV8yT1hrM3fSAZsBQVVfeXFMT2JQTVkyalg2YnUtMHFUb3BtdjBsSE9NLU14YjJHVkU3a1hnMUw0YmtyNHFvNXIyd3hiMmFwNFl6NjYwbDlCTGI0UFhwWTNYYkNYbFFraEtrTklydnFBbHhFNzhfVXJHaUtjLWFva1E5UWxlTFFIemdxZmtmSmRZQzFCaDNVczJHcUtTZUdxZHoxZWhOcmdvalU5Tnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5"
     },
     {
       "headline": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons - Fortune",
@@ -67,29 +87,9 @@
       "timestamp": "2026-06-05T06:58:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic calls for pause of global AI development &nbsp;&nbsp; Yahoo Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk &nbsp;&nbsp; WSJ Anthropic urges ‘temporary pause’ on AI development to discuss risks &nbsp;&nbsp; The Guardian Anthropic warns that AI will soon be able to improve itself without human intervention &nbsp;&nbsp; CNN An Anthropic employee's 2-sentence quote crystallizes the state of AI confusion at work &nbsp;&nbsp; Business Insider Anthropic Calls for AI Pause Button to Let Humans Take Stock &nbsp;&nbsp; Bloomberg.com No need to panic about Anthropic’s new blog, and some more good news &nbsp;&nbsp; Marcus on AI | Substack Anthropic’s Call for A.I. Nonproliferation &nbsp;&nbsp; The New York Times Anthropic co-founder Jack Clark warns AI needs a 'brake pedal' &nbsp;&nbsp; BBC",
+      "summary": "Anthropic calls for pause of global AI development &nbsp;&nbsp; Yahoo Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk &nbsp;&nbsp; WSJ Anthropic (Sorta) Calls for Pause on AI Development. You Should (Sorta) Take It Seriously &nbsp;&nbsp; Gizmodo",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2h6dGJrQU15R1BSZmVYZWFmNUVEaVdPV2hiS0dqZHNXa2toamlvaDZGQ1NSUDh6aVI5aHRnTUM0YVhZZlh0WkIxVENYT1czQktTbWdzZ1pVek50Rm01cnFGVkc2UWxDOS1wUVZkbUhHalVCUFhqUnpqcEtyRkdYMXVZREt0Z3JXR2RSRGVaSm4yM2tk?oc=5"
-    },
-    {
-      "headline": "Anthropic warns AI could soon help build its own successors - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-05T05:28:55.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic warns AI could soon help build its own successors &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rZmxSdFJrejlfQjg1YXZ3U29fZGdWMnVWRFFJaGRIc09aUDZtd0hmc3FHeXUzemxHRmtJN1RSYlMtV2o5aTZ2VzVWdl84QjRTOVlKTGlBSW50eUQweVE2UGJQZ3dnTFplMkNqV1pSTHVicWpOWWs0?oc=5"
-    },
-    {
-      "headline": "Biodefense in the Intelligence Age - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-04T21:21:18.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Biodefense in the Intelligence Age &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6dWw2T1VkRXUtVmtGVTBHdG03cEpEUlFoRlVGdjdnQnVqU0hyUWlIZ3FkNHpnOHR3ZFluRElJQ3V1WEhIbkFJaEQ2YmJJVmx5T2xCd3BFNTJiXzZJYUpUVkllNEhsWlNLWFFMNQ?oc=5"
     },
     {
       "headline": "Wired Found Code For An Unreleased Facial Recognition Feature In Meta's AI App - Engadget",
@@ -115,71 +115,71 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI and Anthropic's next lock-in play: Databases of coding intent - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-06-05T14:31:15.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjB3V2JjZUZodnhackZiVUVYb1BXck05RzFjV0xmQnJMNVhFdTlDWFgwejFpTjZodGlkbGtpeGtCWmdqVTN0UHNEQmhYM09TVmdhdFRtTmFxZng3Y2JKRm54Y0tfSVpWdVgybXo0OEhCVTZ1UWduRHFnME1VZktVYXp4cURYNDFXdjhNQlEtVHFjdHhIQm5QSjhQMEtuTEVydEx6SUpYTQ?oc=5",
-        "summary": "OpenAI and Anthropic's next lock-in play: Databases of coding intent &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought - Gizmodo",
-        "source": "Gizmodo",
-        "timestamp": "2026-06-05T14:30:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFZ4YWdWYWxQWTB2UnNvbkdIdzhMaHVOWWhHMnB0Q0MwSTdtcFczMEowU2JxUFFRenV3ZkNvZGpJRVBfS1g4R3c1aW9na0dreU5teUFBNkEtNlp2WnV0cFdJOHJLaXpVWDVQdFF3MXh5NjlaZWFMME5vZGUySmdSbmFNQ1dEa1gzNFJvM25KSy1fclByMFNtWGdHX3MxVmdJMkw4RldYNHE?oc=5",
-        "summary": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-05T14:27:00.000Z",
+        "headline": "Anthropic warns AI may soon begin recursive self-improvement - Scientific American",
+        "source": "Scientific American",
+        "timestamp": "2026-06-05T17:58:12.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2ljWWNYcTRCOUpaRmlRRHByaG9EclRLLVU0dWx6T1QtU28wU2xEQVZVanMxZll5WHBzVldqdUNLT2UwRnkxM0VoSHRtMzkyNmJvMkswUXVDZi0zdWU4N0tyOUphaS1iWEl3QkRKY2UyejMxTkdGZ0x5bldZTU8zS2xQRWUzODhwMkJfaFdLd3JETnc?oc=5",
-        "summary": "Anthropic warns AI could soon build itself without human involvement—and urges a global pause on development &nbsp;&nbsp; Fortune"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDBjNWRscG40YjNuQzBiN2ZMcE5jU1pkNU1KY2FKaHdxZC1sa1pRQjhSNFBZWlQwaXVXTV95bjBNaFJoMkhmUlFTbkNZNWJlZFc0dDg1eUl2UFIxeXlRd1dTdVJ1cUtHR05qUUhjOW5rVmgyU3Z6SjZNTUdaejFJOTBlUzdkd3hyY0hnRTVTTHVUcmtQTXdYY3gtVDhqUkoyeVNjYXh0WQ?oc=5",
+        "summary": "Anthropic warns AI may soon begin recursive self-improvement &nbsp;&nbsp; Scientific American"
       },
       {
-        "headline": "AI is designing OpenAI's next model in a sign of 'super intelligence': SoftBank's Masayoshi Son to CNBC - CNBC",
+        "headline": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic - CNBC",
         "source": "CNBC",
-        "timestamp": "2026-06-05T13:15:50.000Z",
+        "timestamp": "2026-06-05T17:06:49.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5",
+        "summary": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Claude Becomes The Enterprise Favorite As Anthropic Passes OpenAI - Forbes",
+        "source": "Forbes",
+        "timestamp": "2026-06-05T16:46:53.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0VfTUI4bUZvd3pYM1JJcVdjWk53eW83enVmclNOYXpINGxPYlhkTUNYbjlNWFR6LWsxeHhxbjRRM19IcDY4UnF5bHMyMVFWTVdQeDVBWDlGVzkxRlhLT2l6MThDLTNOSWMyVU0wZ3FxR3lwVGV0Rkp2ZVdiRjBXR2xVd3JhemJ6MHBmYXZHdU9Lcm4tZFhhRWRoYnBoa2t0UmY1S0REcnF1T0oxdWJoa2xmNnJQbE52Z1E?oc=5",
+        "summary": "Claude Becomes The Enterprise Favorite As Anthropic Passes OpenAI &nbsp;&nbsp; Forbes"
+      },
+      {
+        "headline": "OpenAI to Allow US Government Early Access to Frontier Models - PYMNTS.com",
+        "source": "PYMNTS.com",
+        "timestamp": "2026-06-05T16:44:58.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUFlUS1USE1SN0k1dnBDMzBYS1VKT0VlT29BUjRMdGVWM3B3TTU3LWM5Ukx3amQyRGJBUjZEZ2VhT3FZYlBjczZXUUNMeXJYY1ZmLVZNNjd1QjJMZXpkdXRyOHJkMUt2OUlOMTkwdHRlTEpwTndUWlRZSzd5LWxhUG9ueXQwVC1jQ0d6b2FzSG11MC1qMEJ6anZabktEQXNCdkRfUTJ5djJzbjgtd1NQYldsZXlWZG80VEZmbDY5ZDc0dw?oc=5",
+        "summary": "OpenAI to Allow US Government Early Access to Frontier Models &nbsp;&nbsp; PYMNTS.com"
+      },
+      {
+        "headline": "Meta Ray-Ban glasses may soon identify faces using AI - 9to5Google",
+        "source": "9to5Google",
+        "timestamp": "2026-06-05T14:52:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTlCdnNFN3VYRFJnbzNrM0FQLTlDRjZ1WlNWcTRZcGY4Y3hiNmdxRUhHdE45cENNUGlMQXo3a1Z1eWwtekc1djNxMUFsSE1CNUg4LU9SNkxNUGFSRE96OU9peTFvVVBnNnA0dE9Xb1FrS3diaWRjM21Dc25tbjFGMTZKRTY4b3M?oc=5",
+        "summary": "Meta Ray-Ban glasses may soon identify faces using AI &nbsp;&nbsp; 9to5Google"
+      },
+      {
+        "headline": "OpenAI says it will comply with Trump's order requiring AI model reviews before release - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-06-05T08:57:21.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRS1vSzV1aDZrVkx0STlwUTA3VWsyajBMeDY1WE1rZGlLbmRoTjMtdWg4Q043amdOUTBUb0tQSS1KWUVmYzJEZ1I3U3ZrZWt1US01UHRyampyRll1TnNiRTlWc3dqNU8wRzZVV3pOYmZIdlhPRkpFT2RNX0hDTjRFaWRfZzNOM2RWV0FqUm1NOV8yT1hrM3fSAZsBQVVfeXFMT2JQTVkyalg2YnUtMHFUb3BtdjBsSE9NLU14YjJHVkU3a1hnMUw0YmtyNHFvNXIyd3hiMmFwNFl6NjYwbDlCTGI0UFhwWTNYYkNYbFFraEtrTklydnFBbHhFNzhfVXJHaUtjLWFva1E5UWxlTFFIemdxZmtmSmRZQzFCaDNVczJHcUtTZUdxZHoxZWhOcmdvalU5Tnc?oc=5",
-        "summary": "AI is designing OpenAI's next model in a sign of 'super intelligence': SoftBank's Masayoshi Son to CNBC &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-05T08:14:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdLYTJTa05SMzlRTFlZR0hJdldabVl0Wm5teU0yd3ZGWTRJVVlWQm1SUm1yWjVsQVhnSFFTUENMZUU4YlZOeXlGV19weUdRdkprdkdpZnJzRnZaQVJQNmtCaXFsNl9hNkVlaUx6NHNQVEhQX01jWHY3b3dVZjlFcXhjeXR0MmlESS1NcU5rZTlqM1JYVDFPYw?oc=5",
-        "summary": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Anthropic calls for pause of global AI development - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-06-05T06:58:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2h6dGJrQU15R1BSZmVYZWFmNUVEaVdPV2hiS0dqZHNXa2toamlvaDZGQ1NSUDh6aVI5aHRnTUM0YVhZZlh0WkIxVENYT1czQktTbWdzZ1pVek50Rm01cnFGVkc2UWxDOS1wUVZkbUhHalVCUFhqUnpqcEtyRkdYMXVZREt0Z3JXR2RSRGVaSm4yM2tk?oc=5",
-        "summary": "Anthropic calls for pause of global AI development &nbsp;&nbsp; Yahoo Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk &nbsp;&nbsp; WSJ Anthropic urges ‘temporary pause’ on AI development to discuss risks &nbsp;&nbsp; The Guardian Anthropic warns that AI will soon be able to improve itself without human intervention &nbsp;&nbsp; CNN An Anthropic employee's 2-sentence quote crystallizes the state of AI confusion at work &nbsp;&nbsp; Business Insider Anthropic Calls for AI Pause Button to Let Humans Take Stock &nbsp;&nbsp; Bloomberg.com No need to panic about Anthropic’s new blog, and some more good news &nbsp;&nbsp; Marcus on AI | Substack Anthropic’s Call for A.I. Nonproliferation &nbsp;&nbsp; The New York Times Anthropic co-founder Jack Clark warns AI needs a 'brake pedal' &nbsp;&nbsp; BBC"
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yUjF5VUpfMHBpcmtsU29sWWVNT3JCbkdzdTl0OW1hUmEzelBDUXpGWVdUWVh1ZG9uR2xuLU55TlFnQzgwdkVGenFPcHpJRXY4Y2tIVkh2STFFNUpQcjNseVVYNjE2dDVfTFBXTTdsWDF4RkVpTXJjdmhmUdIBgAFBVV95cUxQTVhpZVBBTWhDcHc5TThGak5LSEtRSDhUM2U0NjBVWlBJS3RwWkx2S1REWHNHU2h2cFRYLUE0YWJpY0dpUFpUaUNnYzE1M2ZoQVp0al9rWDZvZk9aemo3ZlZ1dTNKeDVNdVU0TExYQ2tGOGg4WU1oT0tXQ3p1TzVKTQ?oc=5",
+        "summary": "OpenAI says it will comply with Trump's order requiring AI model reviews before release &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,7 +196,7 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
