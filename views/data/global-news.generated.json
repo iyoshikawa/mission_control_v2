@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T00:05:39.335Z",
+    "generatedAt": "2026-06-05T05:15:31.897Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,50 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "US House backs Russia sanctions, Ukraine aid, in latest blow to Trump",
+      "summary": "US House backs Russia sanctions, Ukraine aid, in latest blow to Trump &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-05T02:45:24.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU8zSVNZN0FKTnFpdlNVNmdPVkZyTFNJanZsclRyNmNRaEozcnYwd093VVVrRzE1aWp3RlRDeUw0dXVqMk1KcURLZlptSGc4LVl1bkJLV0dlQjk2ZTlCY3BLTDQ1UFE0enk1VjJlMWJIM19WbmhMWlVvaEM0X0FJTDNPUHlUTGlNZGhPYWF4TmpaUEtjbmVPSGpQUnNaTEJLQkc2bTJxWVpQZw?oc=5"
+    },
+    {
+      "headline": "New US tariff, exemptions will provide growth stimulus for Indonesia, minister says",
+      "summary": "New US tariff, exemptions will provide growth stimulus for Indonesia, minister says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-05T02:30:02.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTFvdnR2OHZxVjVyNlU4ckUyR2I3UEY5LUJJX0FNWkoxYm5FR0F4NVR2UWVMM242VWVFczRBNTNXM2lYZWNBc1pSd3hEQjFZZjRvblJRZE1vazdzcHpCR3lJV2FpM1lIQWE2VGhnRVktT0VMS3pSNXVVQVZPX2tObW51R3hTZHFwR2tta0xVclphSFozcW96S2ZDV0VHX1lZaTNZQVp2elhrZTV1MURlV2lEYVhUZzBuRmVBSy1yS2w1R1hfd1NtNW5KajI?oc=5"
+    },
+    {
+      "headline": "Stocks drop as AI rally pauses, US-Iran peace talks stall",
+      "summary": "Stocks drop as AI rally pauses, US-Iran peace talks stall &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-05T01:35:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5"
+    },
+    {
+      "headline": "Zelenskiy, in open letter, invites Putin to talks to end the war",
+      "summary": "Zelenskiy, in open letter, invites Putin to talks to end the war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-04T23:07:40.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkZhWnVxeU0zSy02QnlmbUFKeGtVUmNXM3NNWEtvc3RXOUZ5VUc4Rkw0WUlaS09FbGx4bkZfc3lMSnc1TEZSLXZOMTZQVHpZSnJSbktBWklGSGNKeDJlVk5CMjNsZEowRDRpOHlWb1Y4QUZNVkp5MzBrS1poWVVDMDYwS3ByMHBmRGxGS2c3VF9SUEo5bnBzeXhrMkhqZWc?oc=5"
+    },
     {
       "headline": "PAHO strengthens Ebola preparedness, prepares shipments for virus detection",
       "summary": "PAHO strengthens Ebola preparedness, prepares shipments for virus detection &nbsp;&nbsp; Reuters",
@@ -54,50 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmt4MmlhUHI0SjcweUxuY181M0VRa2I3cHNqZ3c0enFRN1N0a3AxYXB0TkFXM2E0M25mLWEwTjZ3ZDNUa0RQMVRhclB5MjR2bnpKMFlMbU5WTVVHT3FVUGowN3hNTjJ5eEQ0MzBhTGVrcVpmRy1ITVFIVG55aFp2M0J2Z1F3WjItMm1mUzkxS3o3a3lmZGxvSHllVUgyUkJhSzN5RW1zaEVnNDdmZ2NwYm9ldlljcmFvMFE?oc=5"
-    },
-    {
-      "headline": "Zelenskiy, in open letter, invites Putin to talks to end the war",
-      "summary": "Zelenskiy, in open letter, invites Putin to talks to end the war &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-04T20:27:58.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkZhWnVxeU0zSy02QnlmbUFKeGtVUmNXM3NNWEtvc3RXOUZ5VUc4Rkw0WUlaS09FbGx4bkZfc3lMSnc1TEZSLXZOMTZQVHpZSnJSbktBWklGSGNKeDJlVk5CMjNsZEowRDRpOHlWb1Y4QUZNVkp5MzBrS1poWVVDMDYwS3ByMHBmRGxGS2c3VF9SUEo5bnBzeXhrMkhqZWc?oc=5"
-    },
-    {
-      "headline": "United issued safety bulletin to pilots after plane struck light pole near Newark airport",
-      "summary": "United issued safety bulletin to pilots after plane struck light pole near Newark airport &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-04T19:44:09.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN18wTG8zUjV6c0liM1RLRVBReC1aaFdkeS01SmdzR1g1bFZnMGFKQXR6dEtRSllMWnBqczdCQjBULVdVSXpKQ1VNaHZkQmdvUkI4Z2NVZXlJcm5BM3ZFWVJHamNTbjU1Wm50T0FVOExZVkIzREFfaXU2SWp2WThmNVAzZ0tWaGtQV05KNmMzYXAyNGtmZHJtN0d2R0tlV3QyWGZkZW9jY3NNUUlMaWl3Xy0xYmJEcnN0UjVNVFBfMHc?oc=5"
-    },
-    {
-      "headline": "Putin on Ukraine war, Trump, peace and power",
-      "summary": "Putin on Ukraine war, Trump, peace and power &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-04T19:31:37.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXhSZDVST1ctQXQ0SDZ1STNoNDUxOGFrUkJVVHM2UWc1RnpyTGk0dFRjYW51cUlNM1hYRVBLN2t3ZmNOS2FhdEdkeFlmNklzWktpTUxkeFh0Q09OekpNV1BBa0szUTlGcjNYdlNuc1RjVm10TnVKYnEtWkxlNUxWWQ?oc=5"
-    },
-    {
-      "headline": "Congo reports attack on Ebola burial team as cases rise",
-      "summary": "Congo reports attack on Ebola burial team as cases rise &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-04T19:27:13.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHkwT19LYjQ5TklxZ2hpZjh2ZGRCS0FTeWhfQkxJZUlacEZWOG1oMEdYODdtaGo5RloxakFOVVBSNENoUmduWVM1a1NtWnJUSm5JUG1jMmQzbjlSOVc0a1JhZy1NdHZXYmFFMUNnaS1qbXJxVWpyeGhENzBHZWlyQWxVUGJOYXdVTVBrU3VZNjEybnFWaG9OM3RwS29GZDJ3R3NKdWZ5UFJSNnZWNFVGbGl6UXhRa3VVLTNZQkVB?oc=5"
     }
   ]
 }
