@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T00:11:38.355Z",
+    "generatedAt": "2026-06-06T04:56:28.349Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump says he’s considering government stake in top AI companies - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-06-05T23:25:45.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Trump says he’s considering government stake in top AI companies &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5"
+      "headline": "Donald Trump, Bernie Sanders and Sam Altman Are All Talking About Public Ownership in AI - U.S. News & World Report",
+      "source": "U.S. News & World Report",
+      "timestamp": "2026-06-06T04:02:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Donald Trump, Bernie Sanders and Sam Altman Are All Talking About Public Ownership in AI &nbsp;&nbsp; U.S. News & World Report",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcnY3MVBOZXk4SGtJZ3BMNGd0Y0JDRmVacldpRFFvV1dDa2dVR1c0T01OQVFjT2w0TjMxT3o3SXBVM2dnaWprT1gwM25tdmpiVFdUYUJWbTVYcDhSOWxkZEdOcEhrSjJiMzVISGNtbXgxTENjdF9SVTBFMTEwM0ZVQXJudVZCQ0FTN3l6cmhUN3lXcVJCR21ReURGV2pTYVZsUXhvc3BSNk1SZHNXeS13M0R3ZjBpQlZSNEFGbTM5UDQtTFNGeVdFWHZLSHJ0UnVKa0JVV05CQk1lNVow?oc=5"
     },
     {
-      "headline": "Making Claude a chemist - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-05T19:27:40.000Z",
+      "headline": "Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera",
+      "source": "Al Jazeera",
+      "timestamp": "2026-06-05T19:17:49.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Making Claude a chemist &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5"
+      "category": "ecosystem",
+      "summary": "Anthropic urges AI labs to pause, warns humans risk losing control &nbsp;&nbsp; Al Jazeera Anthropic calls for global pause in AI development before humans lose control &nbsp;&nbsp; SiliconANGLE After CEO Dario Amodei's repeated warning that AI will wipe away millions of jobs, Anthropic publishes a &nbsp;&nbsp; The Times of India",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5"
+    },
+    {
+      "headline": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-06-05T18:45:20.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFDb3M2ejdac21uTFBYTGNfaFJzemNtU01NaHJiRlFHV2gzV3RhczJYUkJaOGhldUxORkU5c1BCMFNZNGlvaWN2dDBaUUFWZ1pxcXZ4Y05oc1VjX1hVUUtXdW1FUjFYeE5oQ19teWJTcXo4aUNtdnJ3NGFTc2ROaUEzdmd1OGh0QmRPRDF3Q3ZqcVBpQm9abXB2UFNMT0NQMUN6R0dDdEhsSk5zQWc4aUh0N0pBc1U5amc?oc=5"
     },
     {
       "headline": "Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC",
@@ -52,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM09LX2p4QkFZQ1FSTHc5c1hoQmlEcDQxVXpoTzhRQUVDMDNxMmc0cWo0bHZmeGtUM3ZFby1SZk5XWlBqZkRIdFotUDhHc0xhTmROM2Rrb1JTMnBqc3d1WG83LWxfVkYzUmZob0p3eUVCeFhoYWpkZ2FZYl80T3I0Y3gzM0FFaDFCYnhkUXJsU1c0WGRPOXlqcld30gGfAUFVX3lxTE5CRC1RQkRvRGlUc1VadzdQeHdKSFU5Ykl3MXZFel9yR0pBQ0lmWTl6VTFzaWZtOUlhNjk4RzhibnkwYjEtZnUyaURQSEFCLXZGUmxyX2J0WFVnMFhlalBMM3BiSVE1dnRXX1Z3QXQ5YmxhWExfaTRQNXgxcll5WXdpRHZ3WWxFMGIzLUNFOFFhUWJsTFJxMlhEQWZxX0xCUQ?oc=5"
     },
     {
+      "headline": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-06-05T14:51:21.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5"
+    },
+    {
       "headline": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought - Gizmodo",
       "source": "Gizmodo",
       "timestamp": "2026-06-05T14:30:29.000Z",
@@ -62,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFZ4YWdWYWxQWTB2UnNvbkdIdzhMaHVOWWhHMnB0Q0MwSTdtcFczMEowU2JxUFFRenV3ZkNvZGpJRVBfS1g4R3c1aW9na0dreU5teUFBNkEtNlp2WnV0cFdJOHJLaXpVWDVQdFF3MXh5NjlaZWFMME5vZGUySmdSbmFNQ1dEa1gzNFJvM25KSy1fclByMFNtWGdHX3MxVmdJMkw4RldYNHE?oc=5"
     },
     {
-      "headline": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-06-05T13:50:04.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5"
-    },
-    {
       "headline": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons - Fortune",
       "source": "Fortune",
       "timestamp": "2026-06-05T08:14:00.000Z",
@@ -80,16 +90,6 @@
       "summary": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdLYTJTa05SMzlRTFlZR0hJdldabVl0Wm5teU0yd3ZGWTRJVVlWQm1SUm1yWjVsQVhnSFFTUENMZUU4YlZOeXlGV19weUdRdkprdkdpZnJzRnZaQVJQNmtCaXFsNl9hNkVlaUx6NHNQVEhQX01jWHY3b3dVZjlFcXhjeXR0MmlESS1NcU5rZTlqM1JYVDFPYw?oc=5"
-    },
-    {
-      "headline": "Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-04T22:51:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Urges Global Pause in AI Development, Flags ‘Self-Improvement’ Risk &nbsp;&nbsp; WSJ Anthropic urges AI labs to pause, warns humans risk losing control &nbsp;&nbsp; Al Jazeera Anthropic warns self‑improving AI could escape control &nbsp;&nbsp; USA Today",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZCalRnRjNtN09pZ25OckdJNUhjeVBVWlZnZVNVc0lxQm1NNjcwcjBkTENibi1DS05wQlR5WElPaXE2dTFpc19pUTIxckFXU2tLTjRZTmE4WHdTMGxBX3VjWmRrUGpEZkRNNUVKOVBkQzRqWHk2Mm9RdkFjWGNZTXVxM3NrVFc0UmZnQ1VXMmRKMnpGUUhhYU0ybGZLVS1ST3NIRl94Y1lOTVVTX2RnRA?oc=5"
     },
     {
       "headline": "Wired Found Code For An Unreleased Facial Recognition Feature In Meta's AI App - Engadget",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Trump says he’s considering government stake in top AI companies - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-06-05T23:25:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5",
-        "summary": "Trump says he’s considering government stake in top AI companies &nbsp;&nbsp; The Washington Post"
+        "headline": "Donald Trump, Bernie Sanders and Sam Altman Are All Talking About Public Ownership in AI - U.S. News & World Report",
+        "source": "U.S. News & World Report",
+        "timestamp": "2026-06-06T04:02:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcnY3MVBOZXk4SGtJZ3BMNGd0Y0JDRmVacldpRFFvV1dDa2dVR1c0T01OQVFjT2w0TjMxT3o3SXBVM2dnaWprT1gwM25tdmpiVFdUYUJWbTVYcDhSOWxkZEdOcEhrSjJiMzVISGNtbXgxTENjdF9SVTBFMTEwM0ZVQXJudVZCQ0FTN3l6cmhUN3lXcVJCR21ReURGV2pTYVZsUXhvc3BSNk1SZHNXeS13M0R3ZjBpQlZSNEFGbTM5UDQtTFNGeVdFWHZLSHJ0UnVKa0JVV05CQk1lNVow?oc=5",
+        "summary": "Donald Trump, Bernie Sanders and Sam Altman Are All Talking About Public Ownership in AI &nbsp;&nbsp; U.S. News & World Report"
       },
       {
-        "headline": "Making Claude a chemist - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-06-05T19:27:40.000Z",
+        "headline": "Anthropic urges AI labs to pause, warns humans risk losing control - Al Jazeera",
+        "source": "Al Jazeera",
+        "timestamp": "2026-06-05T19:17:49.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5",
-        "summary": "Making Claude a chemist &nbsp;&nbsp; Anthropic"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZFb29NY1U5VVNOTnFxQ2x1LWRMNzBZX3BMck9pY0FmRTdaTDNYeksxQmRaS2JvWHBLa0p6TndvSnBDaGJlTHU3cDA1bGhkUGt5VE5WYWx5Qi1MVjJTdExybGpNVFdDUkhTOHpIV1R0Nk5sWWNSZG5YSUdtQklZam9NRHJJZkxaTDhEMVJEc3F0UjFaY0Y3Yzc3UHBCUDFEWUpKVm1tSjRPZXlO0gGyAUFVX3lxTFBQWG5kREVYWUliZ0tUX29LLTV4RnpDVzBiWjNxRjdUbXpjRDJSNnVmSWc0bTVqendjblFtajVCOEFpd29MSjY4WlBWdWxRN0RHMEM3REc5Sl9zdXNTZzljdHRXRHZsUlBIYlpMY0xqeHRZWVk4TnF2dDBIZ2g3NjExLW02dmdWclo0LW9HN3BTa2NqRDJHdGpEUU5HUGVhSVozbXZpdlhCVU5SaHI3XzJsQUE?oc=5",
+        "summary": "Anthropic urges AI labs to pause, warns humans risk losing control &nbsp;&nbsp; Al Jazeera Anthropic calls for global pause in AI development before humans lose control &nbsp;&nbsp; SiliconANGLE After CEO Dario Amodei's repeated warning that AI will wipe away millions of jobs, Anthropic publishes a &nbsp;&nbsp; The Times of India"
+      },
+      {
+        "headline": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-06-05T18:45:20.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFDb3M2ejdac21uTFBYTGNfaFJzemNtU01NaHJiRlFHV2gzV3RhczJYUkJaOGhldUxORkU5c1BCMFNZNGlvaWN2dDBaUUFWZ1pxcXZ4Y05oc1VjX1hVUUtXdW1FUjFYeE5oQ19teWJTcXo4aUNtdnJ3NGFTc2ROaUEzdmd1OGh0QmRPRDF3Q3ZqcVBpQm9abXB2UFNMT0NQMUN6R0dDdEhsSk5zQWc4aUh0N0pBc1U5amc?oc=5",
+        "summary": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic &nbsp;&nbsp; Ars Technica"
       },
       {
         "headline": "Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC",
@@ -151,18 +160,9 @@
         "summary": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought - Gizmodo",
-        "source": "Gizmodo",
-        "timestamp": "2026-06-05T14:30:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFZ4YWdWYWxQWTB2UnNvbkdIdzhMaHVOWWhHMnB0Q0MwSTdtcFczMEowU2JxUFFRenV3ZkNvZGpJRVBfS1g4R3c1aW9na0dreU5teUFBNkEtNlp2WnV0cFdJOHJLaXpVWDVQdFF3MXh5NjlaZWFMME5vZGUySmdSbmFNQ1dEa1gzNFJvM25KSy1fclByMFNtWGdHX3MxVmdJMkw4RldYNHE?oc=5",
-        "summary": "Meta’s Facial Recognition Plans for Smart Glasses Are Worse Than We Thought &nbsp;&nbsp; Gizmodo"
-      },
-      {
         "headline": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
         "source": "qz.com",
-        "timestamp": "2026-06-05T13:50:04.000Z",
+        "timestamp": "2026-06-05T14:51:21.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
