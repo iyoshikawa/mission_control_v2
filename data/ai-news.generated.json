@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T18:10:34.398Z",
+    "generatedAt": "2026-06-06T20:12:41.561Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -22,16 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0lKU0xtZGp0ck13LTExMUlxS1ZpQVE5TnVTdkk2aEJ6UzczWjlvX3BTa21IcktQNEhzOFRHc0FJNXJ3WmEyYjk0QXlvUXFnUGVqX2xZQzRaTEtMbDRtTkpLUHRYRUpzRmluSFR2c0FOWnpGcDVod3QyWHNpakFhMVlsU2dZM0w5RnhHNjh6UUpqTWVQT1dVNThHNjA?oc=5"
     },
     {
-      "headline": "Trump signs AI memo addressing issues in Anthropic-Pentagon feud - ETLegalWorld.com",
-      "source": "ETLegalWorld.com",
-      "timestamp": "2026-06-06T15:22:04.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Trump signs AI memo addressing issues in Anthropic-Pentagon feud &nbsp;&nbsp; ETLegalWorld.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlVqVHlodFVoMGlfaGxUTzA2eTQyaGRoNzZoTWVMeWZ3SXdsZC1EcnJOZjRjdy0zcGxwVTBZaGNoZDBocTk4VEZKbHBqTDQxQWhVdG9OeTg5WFRCeWpRNk83ckVTX0tPZW1uS2tOdVlCOFNhOUdBSDZDYTcyQURrNkd6ampVMmZlZzlpdlh5aEJKOGtWLVl0TWR6WEtURGxwbThHQmwtaW0taEhlX1htTnBsd1JLNFQxX1RRMmJOY1JMcGhfOC1hcHExVdIB0AFBVV95cUxOT29XcFJkNUc4QTAzTUY0UE5zY0ZWUzFJZENGYkJVc0xMbkl0UjZTX2hEUjhnbG9hR1huMVJmUndKZUpxWUp0SFZ6SnMyQzRadmZnYTc4cnU3RktRMVU1MFFqUEpla2REdG13VFJfbmdtSkdnWTZibTVNTmh1N3RGM1dIdUt5ZjNpaDhJajdfOFZsQlpDNlk4MFFVblJyeXlGa0U5THZkVUp2eGFEUVB6N1RNTkx0N2E5dnJTNWxFU2xXNzU0dkhkZjlPampUVXA3?oc=5"
-    },
-    {
       "headline": "Meta made its own AI-generated clickbait news feed - The Verge",
       "source": "The Verge",
       "timestamp": "2026-06-06T14:00:00.000Z",
@@ -50,6 +40,16 @@
       "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law &nbsp;&nbsp; qz.com",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5"
+    },
+    {
+      "headline": "Making Claude a chemist - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-05T19:27:40.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Making Claude a chemist &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5"
     },
     {
       "headline": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push - CNBC",
@@ -124,15 +124,6 @@
         "summary": "The Trump administration might take an equity stake in OpenAI &nbsp;&nbsp; TechCrunch"
       },
       {
-        "headline": "Trump signs AI memo addressing issues in Anthropic-Pentagon feud - ETLegalWorld.com",
-        "source": "ETLegalWorld.com",
-        "timestamp": "2026-06-06T15:22:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlVqVHlodFVoMGlfaGxUTzA2eTQyaGRoNzZoTWVMeWZ3SXdsZC1EcnJOZjRjdy0zcGxwVTBZaGNoZDBocTk4VEZKbHBqTDQxQWhVdG9OeTg5WFRCeWpRNk83ckVTX0tPZW1uS2tOdVlCOFNhOUdBSDZDYTcyQURrNkd6ampVMmZlZzlpdlh5aEJKOGtWLVl0TWR6WEtURGxwbThHQmwtaW0taEhlX1htTnBsd1JLNFQxX1RRMmJOY1JMcGhfOC1hcHExVdIB0AFBVV95cUxOT29XcFJkNUc4QTAzTUY0UE5zY0ZWUzFJZENGYkJVc0xMbkl0UjZTX2hEUjhnbG9hR1huMVJmUndKZUpxWUp0SFZ6SnMyQzRadmZnYTc4cnU3RktRMVU1MFFqUEpla2REdG13VFJfbmdtSkdnWTZibTVNTmh1N3RGM1dIdUt5ZjNpaDhJajdfOFZsQlpDNlk4MFFVblJyeXlGa0U5THZkVUp2eGFEUVB6N1RNTkx0N2E5dnJTNWxFU2xXNzU0dkhkZjlPampUVXA3?oc=5",
-        "summary": "Trump signs AI memo addressing issues in Anthropic-Pentagon feud &nbsp;&nbsp; ETLegalWorld.com"
-      },
-      {
         "headline": "Meta made its own AI-generated clickbait news feed - The Verge",
         "source": "The Verge",
         "timestamp": "2026-06-06T14:00:00.000Z",
@@ -149,6 +140,15 @@
         "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
         "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "Making Claude a chemist - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-05T19:27:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5",
+        "summary": "Making Claude a chemist &nbsp;&nbsp; Anthropic"
       },
       {
         "headline": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push - CNBC",
