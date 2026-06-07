@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T14:03:22.220Z",
+    "generatedAt": "2026-06-07T16:20:37.221Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic CEO Dario Amodei says culture, not products, will win the AI race—he spends 40% on it - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-06-07T13:42:00.000Z",
+      "headline": "The Era of Cheap AI Is Over - Jacobin",
+      "source": "Jacobin",
+      "timestamp": "2026-06-07T13:23:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic CEO Dario Amodei says culture, not products, will win the AI race—he spends 40% on it &nbsp;&nbsp; Fortune",
+      "summary": "The Era of Cheap AI Is Over &nbsp;&nbsp; Jacobin",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1djTjV1SG00WXBZNW9zZ0RESGh0SGJmcTNPeDI3MnJMbG4yLXpSajA3V0VZWWpzMFl2cG1mbWxBaDJfQVZ0WC16UGZxd1JpOWVPZmpVSk9HXzZta2VSSkxKSmo5RTBsMXQ1T1FKWmxSXzJQNEZ6bktsal9XdkpNbmZJOTNNYUZYWlp5OFE4c1AxUTdHa0lFM0hVY2lzMUR0UVBaS1lGdw?oc=5"
-    },
-    {
-      "headline": "ChatGPT is no longer OpenAI's most important product. Here's why. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-07T10:32:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "ChatGPT is no longer OpenAI's most important product. Here's why. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX21QYm0yWjl1amxITHloYlBDYUQxQU01Vjk1ZVVVUFFaNzlzOXNaUDNKZGJndEtoODI0cnlTbjhneWJ0MWRaX0R6YzJpUnNqaGJfY28wNEVPWVNTekNnSVdac3ROeDZIemN5bHFybkF3VTctdGw0cjBkUEZVaFlPV0FZUXcxcXBKOUNkYmFB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00NTZzYU82akNnWlFsakVleUN4T2dXWllPVmNHOFh3WThoNXhWTnJTcElWVGN3SlpXYlJaZXZpNVNJci1tcDQybHdjSVZoOFJsTlltRjJvRVRaZ2xoUHJkbEd3YjREVzJIdkVENmtoemQ?oc=5"
     },
     {
       "headline": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
@@ -110,27 +100,28 @@
       "summary": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents &nbsp;&nbsp; StepSecurity",
       "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbVIxMjMtUFBDc3hpLThYT0QwWXJRTURLeHNuV0NnUTJFYkhRQzZNQkU3M0hNdkJlVkdhMHVnaXZLTF8wTnVPbUZ4YVlLbExCQ3dFbzh6M2VRSjFNRWQxN2YxRWZycHhvWVVlWVRXTldUdTUwSU40Tk9qdHFGb1JVSkw2ckFqOF9Qd2RCMU5tNTRjeXFwcnlzV2FWNnZwWE9peUhLczBDR2hRVmxXZkZ2SmI5LUNxOTBnYWo4WWpjU3doZmE0eFVXdjdJUDBjQ1NubnZtVDdQd1duME1OZEtPYmJpdUpWTnFFMlBzbGtIdUR0dWZlazctMVhBTndGX21BZWU2TXkwMA?oc=5"
+    },
+    {
+      "headline": "Aviatrix Highlights Real-Time Policy Enforcement for AI Workloads in Azure - TipRanks",
+      "source": "TipRanks",
+      "timestamp": "2026-06-05T00:19:51.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Aviatrix Highlights Real-Time Policy Enforcement for AI Workloads in Azure &nbsp;&nbsp; TipRanks",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjZ4c1hhN2MzYi0xWHptVFd6ZFZpTG96STBITXZNZXRWWUlncTNDeS0wZHZENGJnV3VJQTAwOTNDa0N6Nk5Ma3dPQlFrVFlWMl85dkU5eGM5aFRwbzFCY3BUSjNCTG1VVzFHdmdLdkplaVlNVjVfdkFXZnJTZC0zcEZ6Z0JlYXlrb1FBYlAzdjE0MXZMRTBVX3JNOGtISnlUS0FGdHdzR0tHRXFVSDJZQ01qbFgwQzN3RjdRQTRSQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic CEO Dario Amodei says culture, not products, will win the AI race—he spends 40% on it - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-07T13:42:00.000Z",
+        "headline": "The Era of Cheap AI Is Over - Jacobin",
+        "source": "Jacobin",
+        "timestamp": "2026-06-07T13:23:52.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1djTjV1SG00WXBZNW9zZ0RESGh0SGJmcTNPeDI3MnJMbG4yLXpSajA3V0VZWWpzMFl2cG1mbWxBaDJfQVZ0WC16UGZxd1JpOWVPZmpVSk9HXzZta2VSSkxKSmo5RTBsMXQ1T1FKWmxSXzJQNEZ6bktsal9XdkpNbmZJOTNNYUZYWlp5OFE4c1AxUTdHa0lFM0hVY2lzMUR0UVBaS1lGdw?oc=5",
-        "summary": "Anthropic CEO Dario Amodei says culture, not products, will win the AI race—he spends 40% on it &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "ChatGPT is no longer OpenAI's most important product. Here's why. - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-06-07T10:32:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX21QYm0yWjl1amxITHloYlBDYUQxQU01Vjk1ZVVVUFFaNzlzOXNaUDNKZGJndEtoODI0cnlTbjhneWJ0MWRaX0R6YzJpUnNqaGJfY28wNEVPWVNTekNnSVdac3ROeDZIemN5bHFybkF3VTctdGw0cjBkUEZVaFlPV0FZUXcxcXBKOUNkYmFB?oc=5",
-        "summary": "ChatGPT is no longer OpenAI's most important product. Here's why. &nbsp;&nbsp; Business Insider"
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00NTZzYU82akNnWlFsakVleUN4T2dXWllPVmNHOFh3WThoNXhWTnJTcElWVGN3SlpXYlJaZXZpNVNJci1tcDQybHdjSVZoOFJsTlltRjJvRVRaZ2xoUHJkbEd3YjREVzJIdkVENmtoemQ?oc=5",
+        "summary": "The Era of Cheap AI Is Over &nbsp;&nbsp; Jacobin"
       },
       {
         "headline": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
@@ -167,6 +158,15 @@
         "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
         "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "Making Claude a chemist - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-05T19:27:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5",
+        "summary": "Making Claude a chemist &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
