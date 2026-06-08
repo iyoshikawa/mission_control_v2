@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T22:08:19.120Z",
+    "generatedAt": "2026-06-08T00:13:38.019Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "AI Companies Are Rapidly Expanding Into Each Other's Markets - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-06-08T00:00:12.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "AI Companies Are Rapidly Expanding Into Each Other's Markets &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmd5bVJvejdpeGlGZHRyVmZyd0JwSlU4bXNaaFhOczRfdEFCUWU2bkEzRFY5YlVHbUxfR29UWUdPajZORnVZd0VMeUZNYmxvQUJ6ZEo3ZUs4RWd5U0w5MVU5MjMxUFRSWkVxYlVVbEVtTGlNOXhYUEJOeWg0bmRtcFk4blIyOThPd2dMWHlzRnVJVFB6NTlESmZhcmxPSXFwYzBNZWRkdnMzeW1J?oc=5"
+    },
     {
       "headline": "Anthropic adviser says it's \"not hypothetical\" that AI could abet biological weapons risk - CBS News",
       "source": "CBS News",
@@ -72,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5"
     },
     {
-      "headline": "Making Claude a chemist - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-05T19:27:40.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Making Claude a chemist &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMkgxR3JCakJ0S2pJLUEzQ2gzZjVHdjNjUjBaV2hVTHE4UFYtTVdpdmdUcUtzeldxWXpEXzJRX2dTTzJjSGlpbm1CME9mZkJZa2FWVnpCdU1UeDhYbEprQjVSeVdQakUzMGc?oc=5"
-    },
-    {
       "headline": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push - CNBC",
       "source": "CNBC",
       "timestamp": "2026-06-05T19:05:58.000Z",
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "AI Companies Are Rapidly Expanding Into Each Other's Markets - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-06-08T00:00:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmd5bVJvejdpeGlGZHRyVmZyd0JwSlU4bXNaaFhOczRfdEFCUWU2bkEzRFY5YlVHbUxfR29UWUdPajZORnVZd0VMeUZNYmxvQUJ6ZEo3ZUs4RWd5U0w5MVU5MjMxUFRSWkVxYlVVbEVtTGlNOXhYUEJOeWg0bmRtcFk4blIyOThPd2dMWHlzRnVJVFB6NTlESmZhcmxPSXFwYzBNZWRkdnMzeW1J?oc=5",
+        "summary": "AI Companies Are Rapidly Expanding Into Each Other's Markets &nbsp;&nbsp; Business Insider"
+      },
       {
         "headline": "Anthropic adviser says it's \"not hypothetical\" that AI could abet biological weapons risk - CBS News",
         "source": "CBS News",
@@ -158,15 +167,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzdRZ3ZkM29nVTFXUlpUdE5HTGxodEJXQXBOMW10UHdpaGVhUXd5WjFGdElCMlozRlVUc2x3V0ZiOXIyN0lXM3ViVWd1UkEyTFpFdXppXzN3Um9PeXh5MzktRFBlV2pkT0w1Y3JXcDJkaXdvNnpkc2ZQZ1NiX0NKbkl2SDJYaU1PMkhoZFdacktheTg?oc=5",
         "summary": "Meta made its own AI-generated clickbait news feed &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-06-05T22:20:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
-        "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law &nbsp;&nbsp; qz.com"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
