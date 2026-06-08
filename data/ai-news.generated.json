@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T19:22:59.498Z",
+    "generatedAt": "2026-06-08T21:52:50.887Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,46 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI files paperwork for an IPO - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-08T21:23:38.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "OpenAI files paperwork for an IPO &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYlJFR3NXNW5ndGtZeVFKRHUyRkdVMmNJZHF6MENydkVtODlaNWd4Zk04a0t6QktUS25QNzdwd09kLWl6VWVRZlZkLVdNNmlaeVZlR1l3?oc=5"
+    },
+    {
+      "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-08T21:14:27.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZw?oc=5"
+    },
+    {
+      "headline": "Built to benefit everyone: our plan - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-08T21:11:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Built to benefit everyone: our plan &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5"
+    },
+    {
+      "headline": "Paving the way for agents in biology - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-08T17:46:55.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Paving the way for agents in biology &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDc0poWWVRZXlzMldPQXVoMWdSeWZSSFBSeG96QjdWWUNJc1g2ZXE5V253SWhOWmpfWlUwVDhubGdTY1dYYXljektTaFp1NHhuSVFGczBEM3NmWGNVWGVsSHFB?oc=5"
+    },
+    {
       "headline": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report - WIRED",
       "source": "WIRED",
       "timestamp": "2026-06-08T17:31:00.000Z",
@@ -20,16 +60,6 @@
       "summary": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report &nbsp;&nbsp; WIRED",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTNHdkx3TFE0TVptSzBOSWtRbGhPa3N0VU1wVllaaW5Jb1VabjVqVnp0bEhvOVdvZTQ5eXdDTVNoMW9Ua1pxazVlWTV2azhDT3FkLUZYbWNVRV9zYllMQXU0VU94WjlGVWlSdzl3amdvbzk2bFI4Y0J3dEdjRlYwcEdBRGtyMUJHVGNUaEFlb2U4TUE?oc=5"
-    },
-    {
-      "headline": "Opinion | Anthropic might be the most powerful company in the world - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-06-08T17:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Opinion | Anthropic might be the most powerful company in the world &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGJoWnZyOTFkUXNFSXlVRVFrcTdLeUh5QzFMS0V3TTZoUWdmYnI1QjB2ejc4Zk80OGRtQzhkTnlyRy1NVTRJczc2R3VhSXBHUmhHLW5wZnFuNW9VUUFNX2NXbWlPREZtUVRFcEZUWjhQYWFKS2YxUnczdDBhQmdCd1VmXzktNWdN?oc=5"
     },
     {
       "headline": "Anthropic says Mythos can turn software patches into exploits in minutes - Axios",
@@ -42,14 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2QxVEJFRzVZYXVONnFrZjRUWE9iOGs0SDBHMFQ4WEMyZTlSXzYxaUVOSXd6Z0xNd2UySGtLWTR5Qk5MSS1TcXZxcWJ5a2pRcUstWlN4eFdTcHhvNV9kMjdzQXdOX21aQk82Ql9lOXFDTC1rUUp3ZmgtUzhvQVBKLXNFNzNlN3F1em9XMU1NTEFXdUVGdUE?oc=5"
     },
     {
-      "headline": "Developers of OpenAI’s Stargate Data Center Face Higher Costs - The Information",
-      "source": "The Information",
-      "timestamp": "2026-06-08T15:00:00.000Z",
+      "headline": "\"Pure Advocacy-Driven Click Bait\": Meta Furious Over Bombshell Smart Glasses Revelation - Futurism",
+      "source": "Futurism",
+      "timestamp": "2026-06-08T15:19:12.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Developers of OpenAI’s Stargate Data Center Face Higher Costs &nbsp;&nbsp; The Information",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWt6R2JRMkVvekxvYXNGd2szNHRwX0ZuZkxGQ3BBallsaGQ5bldVaDZKaEZ1US10TDdyd01oSlBqdzJocFJlTHJXbEwwajUtTktxeXhzQmtDcDRmbXpUS1ZraHhBQUZvUmx0R2F6VnBfZUZxeW1HOGlOOUpWT1NaZ2NnRjRuS2h1cEZ2MEE2c0RDbWltcVFVNkpONXY2Q3NIcU04ejg3eVltOHpKN0xFRW04ZzJnVmptelpDQkNTYnNFQ242TDB2TWJ5cW1TWERwMkE?oc=5"
+      "summary": "\"Pure Advocacy-Driven Click Bait\": Meta Furious Over Bombshell Smart Glasses Revelation &nbsp;&nbsp; Futurism",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84ZmNvNUUwQ1RhLTdhUk1YOGx5Vm5qVklNVDVDSHRtQmJPNGFtTnluQWZWWGhVaXdPYkhmazNWeF9GWUdGUVRFR25WTXVjWjNhN3piTl9qaDA2OWtTSS1zVmN0ZUU3anM4TGNuNHhrNk5MMHhqUEJWYkE2NA?oc=5"
     },
     {
       "headline": "Google AI CEO Demis Hassabis wants everyone to take note on AI: Humans only have a few years left to prep - The Times of India",
@@ -72,26 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRzbzVCSHBQWjhOWFV3MGlmMC04Uzd2V2t4SlFGNnRsdl9tWm53QnNfVXBkcVZHRWVFX0VZX1FGOGV5dDFTd2o4R3FpUWlhRHBpejZtb2RvWmxvblcxQkZVTUVRUkRLNzVLaHJ0bXN5c1JKdXFxcFg2Szl3SDJRTVpR?oc=5"
     },
     {
-      "headline": "My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-07T08:47:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkpHektOZ2NyRXdPYm9pdHc3Sjg1ZlBINWpmeE00M2tNdU0wUjRmdVdpbHowQ1NnWUNGN1RvdUZJS2hfWTVsWXg3OXQzUExyRWdjMUVMZGRUbW9aMmVWbVBDelpfU3BkdUNYLS0wdHlBSkNSTVZSOWZWb2FVMzZoXzVSTmZud1FTUklGTjRyWjZYdW9FLWZqTWFUeFhQZUY0NFZCelNSTXdRNElh?oc=5"
-    },
-    {
-      "headline": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-06-07T04:01:23.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI plots biggest ChatGPT overhaul since launch &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGJ0WEREdmV6SGUyOG5rbWU2ZFA5Z2Z4Wjg5MTZiQ0V5SGk5RFVHYnZuSXJ3QjZpQXpvRXNwN2s3bXNBZlNkRThwc2hxTG1oQnBkakxnOHBuOUE0NGN3Y0h0R084ZXRKeTBOM1BUaTg1TXRHX1BOU3M4TWFnOHR2bW1ER1Y?oc=5"
-    },
-    {
       "headline": "Microsoft Faces Protests Over AI Data Center Growth - WinBuzzer",
       "source": "WinBuzzer",
       "timestamp": "2026-06-06T14:16:01.000Z",
@@ -100,20 +110,46 @@
       "summary": "Microsoft Faces Protests Over AI Data Center Growth &nbsp;&nbsp; WinBuzzer",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXJUVU9WSkpsOTAzMjRGOEdQVkNfVW1YSERfVnk3MGNxRjd0aEl2QnFMRWhPYVBycDBVTE1acThRZHNnUFIwT1BEUWE5Q09xZC1wOXh0c216Z1NUOEUyWHZDeWMtODdUSk5acGlVb2JQenVPVEdtdXduTW9ReHZISVFIbHJxTnhvdkNnaWpIVng5YnRvejdRcUxB?oc=5"
-    },
-    {
-      "headline": "Meta made its own AI-generated clickbait news feed - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-06-06T14:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta made its own AI-generated clickbait news feed &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzdRZ3ZkM29nVTFXUlpUdE5HTGxodEJXQXBOMW10UHdpaGVhUXd5WjFGdElCMlozRlVUc2x3V0ZiOXIyN0lXM3ViVWd1UkEyTFpFdXppXzN3Um9PeXh5MzktRFBlV2pkT0w1Y3JXcDJkaXdvNnpkc2ZQZ1NiX0NKbkl2SDJYaU1PMkhoZFdacktheTg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI files paperwork for an IPO - Axios",
+        "source": "Axios",
+        "timestamp": "2026-06-08T21:23:38.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYlJFR3NXNW5ndGtZeVFKRHUyRkdVMmNJZHF6MENydkVtODlaNWd4Zk04a0t6QktUS25QNzdwd09kLWl6VWVRZlZkLVdNNmlaeVZlR1l3?oc=5",
+        "summary": "OpenAI files paperwork for an IPO &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-06-08T21:14:27.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZw?oc=5",
+        "summary": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Built to benefit everyone: our plan - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-06-08T21:11:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5",
+        "summary": "Built to benefit everyone: our plan &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "Paving the way for agents in biology - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-08T17:46:55.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDc0poWWVRZXlzMldPQXVoMWdSeWZSSFBSeG96QjdWWUNJc1g2ZXE5V253SWhOWmpfWlUwVDhubGdTY1dYYXljektTaFp1NHhuSVFGczBEM3NmWGNVWGVsSHFB?oc=5",
+        "summary": "Paving the way for agents in biology &nbsp;&nbsp; Anthropic"
+      },
       {
         "headline": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report - WIRED",
         "source": "WIRED",
@@ -124,15 +160,6 @@
         "summary": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "Opinion | Anthropic might be the most powerful company in the world - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-06-08T17:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGJoWnZyOTFkUXNFSXlVRVFrcTdLeUh5QzFMS0V3TTZoUWdmYnI1QjB2ejc4Zk80OGRtQzhkTnlyRy1NVTRJczc2R3VhSXBHUmhHLW5wZnFuNW9VUUFNX2NXbWlPREZtUVRFcEZUWjhQYWFKS2YxUnczdDBhQmdCd1VmXzktNWdN?oc=5",
-        "summary": "Opinion | Anthropic might be the most powerful company in the world &nbsp;&nbsp; The Washington Post"
-      },
-      {
         "headline": "Anthropic says Mythos can turn software patches into exploits in minutes - Axios",
         "source": "Axios",
         "timestamp": "2026-06-08T17:03:04.000Z",
@@ -140,33 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2QxVEJFRzVZYXVONnFrZjRUWE9iOGs0SDBHMFQ4WEMyZTlSXzYxaUVOSXd6Z0xNd2UySGtLWTR5Qk5MSS1TcXZxcWJ5a2pRcUstWlN4eFdTcHhvNV9kMjdzQXdOX21aQk82Ql9lOXFDTC1rUUp3ZmgtUzhvQVBKLXNFNzNlN3F1em9XMU1NTEFXdUVGdUE?oc=5",
         "summary": "Anthropic says Mythos can turn software patches into exploits in minutes &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Developers of OpenAI’s Stargate Data Center Face Higher Costs - The Information",
-        "source": "The Information",
-        "timestamp": "2026-06-08T15:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWt6R2JRMkVvekxvYXNGd2szNHRwX0ZuZkxGQ3BBallsaGQ5bldVaDZKaEZ1US10TDdyd01oSlBqdzJocFJlTHJXbEwwajUtTktxeXhzQmtDcDRmbXpUS1ZraHhBQUZvUmx0R2F6VnBfZUZxeW1HOGlOOUpWT1NaZ2NnRjRuS2h1cEZ2MEE2c0RDbWltcVFVNkpONXY2Q3NIcU04ejg3eVltOHpKN0xFRW04ZzJnVmptelpDQkNTYnNFQ242TDB2TWJ5cW1TWERwMkE?oc=5",
-        "summary": "Developers of OpenAI’s Stargate Data Center Face Higher Costs &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "Google AI CEO Demis Hassabis wants everyone to take note on AI: Humans only have a few years left to prep - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-06-08T10:29:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSzZyVlZVbW1STzczMHBZVVNHdWZQdTRqcTRDV1hMb3hDTUdOOEFHdVE5blg1cEhUYmZnOFFpNzdHY1F0aGVEalg3aFRrX0dlWnlXMk03dVdrc2xzd2E3bVFVZGdkampBTW1QaVRzZnNmT1BsTkxwNXdtTmlCYVBHX216M1l3MXdGajFDYUJzekdFZXhuNVZFdkFWY3pGR3JtUG50WjRldWhsemN5Q0VNWDlwQkVWaFJna21BZnl3WmtDTURydzFKeTVLclZPZFdVQVVBUlIxMmtQeVJ3ZDhRZXljRkdlLWlKYTA5VWtsd1o5WDZpdFVDR21sbmx2bldYUG00cjQ4WW53UjJtU3RYQ1NmTVhaRnZKTkNZS2FYNXfSAaYCQVVfeXFMTTI4Qm13VTdwR2wzZDBxeldLVWkxMjA1UkxoVGIxRVBHWVRjQ1BrWXhDbFppN2NHS0N3dG9rb2hQTGxObDRaelBtR3AtZXg1OGxPQUZ6UlBxOGFJczFXWWtFLUM5cDVfQ1BLSnJ1YVJEcE9BSmwzVWd4NHB0R1ZkTUs1R092NTJDcXBkVllxUUJDVnNYQUVUQjBjVktkV3BkOG9qeXFCazZTaVQtRGhidi1MNXRvS3ZoM1JaMzYyOUFKZVRPaVd2N1pOZWtKR1pRRGNnLXk4amliclFkRVRqblNVN1BwdkN5WGQ4RG1rVnp2ZUY5X3VwTDdwcDlzVHNucGFfc0oyajc3clN4c001cWg0NTdXSWlKa2ZXRWZTZGJzbGg2Q3N3?oc=5",
-        "summary": "Google AI CEO Demis Hassabis wants everyone to take note on AI: Humans only have a few years left to prep &nbsp;&nbsp; The Times of India"
-      },
-      {
-        "headline": "OpenAI is still working on that ‘super app’ - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-06-07T16:23:22.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRzbzVCSHBQWjhOWFV3MGlmMC04Uzd2V2t4SlFGNnRsdl9tWm53QnNfVXBkcVZHRWVFX0VZX1FGOGV5dDFTd2o4R3FpUWlhRHBpejZtb2RvWmxvblcxQkZVTUVRUkRLNzVLaHJ0bXN5c1JKdXFxcFg2Szl3SDJRTVpR?oc=5",
-        "summary": "OpenAI is still working on that ‘super app’ &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
