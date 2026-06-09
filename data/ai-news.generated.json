@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T07:57:08.700Z",
+    "generatedAt": "2026-06-09T11:25:18.552Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI plans to go public setting up new race with Anthropic - BBC",
-      "source": "BBC",
-      "timestamp": "2026-06-08T23:37:21.000Z",
+      "headline": "Google DeepMind forms AI genomics consortium | ETIH EdTech News - EdTech Innovation Hub",
+      "source": "EdTech Innovation Hub",
+      "timestamp": "2026-06-09T10:32:05.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI plans to go public setting up new race with Anthropic &nbsp;&nbsp; BBC OpenAI files for US IPO after Anthropic as AI giants head to public markets &nbsp;&nbsp; Reuters Opinion | Anthropic might be the most powerful company in the world &nbsp;&nbsp; The Washington Post",
+      "summary": "Google DeepMind forms AI genomics consortium | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaThQOHM5QURZVFBsSy1oX2JjY0JTcmhxTUF2VGF2WUhNN09GOW1IRlp6dkZZdDBYQlJNOGRnZzVFUlpFX3hIUHdzdGdXNFVySk8xOEMzNmt0bVRDdV9rWmkzRm9ib0J6eUxvazRfYWlfOG5Ub3dHRVBOX0JhazRQNkhrTEhIanRNWmlpWm0zVzBSY1oyanRwSVY2MkwzOU9Db2psYUFiRUNCbk9US1EtbXo5c3BsZk1UaHh2SVpHYlFRUQ?oc=5"
+    },
+    {
+      "headline": "Apple finally ships its AI assistant upgrade - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-09T09:33:45.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Apple finally ships its AI assistant upgrade &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0WDNseWFfc0ZidGVqczllelh3eVZhZmNVVkk2b0xzMkU0MnZCcUxTWTNLXzR2Y0xaaTIydGQtbkNVbkxDZ3NURnB0d3MwWF9OSDhPUjROZklvZVFZUG5VTDNPcUh5NmlhSlE?oc=5"
+    },
+    {
+      "headline": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access? - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-06-09T09:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access? &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjdYOUxlY1BXR0xRV1hhU0FsbF9JYU5xallzTHVUQTFGbUpSS1JDZndWeE1Zdkx4SGt4d0RpTzd5cUw1SWtIUi1rMmt3Wmo4UDd6ZlVVeFQtRnpkQnY1M0N2dUdoWi1GUHQ0Y2taaGZqRTVYYTc3VzFSQzY4TGxCb1U3NXhXNXpGMVpjVGlGQVFhZ0hwQ2hRNkFmaHhvdjdnTml1dVo3bEdOc2VyWnlz?oc=5"
+    },
+    {
+      "headline": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
+      "source": "BBC",
+      "timestamp": "2026-06-09T08:02:43.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "OpenAI plans stock market debut, setting up new race with Anthropic &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5"
+    },
+    {
+      "headline": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
+      "source": "UploadVR",
+      "timestamp": "2026-06-09T07:17:22.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses &nbsp;&nbsp; UploadVR",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5"
+    },
+    {
+      "headline": "Inside Apple's Siri revamp, Anthropic readies Mythos - Sources | Alex Heath",
+      "source": "Sources | Alex Heath",
+      "timestamp": "2026-06-09T02:12:12.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Inside Apple's Siri revamp, Anthropic readies Mythos &nbsp;&nbsp; Sources | Alex Heath",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfblNrMHYwX2VCQS03ak5wczFtaF94emFVWGpFWHpGMkYyWVF6cGlBVWUxUHFSSmVQVjktN21IR1lvb2d6ZjVHQXBKY01xR1p1N09pUExFMHR2akg5R0d0dGllb2hyeVZCS1E?oc=5"
     },
     {
       "headline": "Built to benefit everyone: our plan - OpenAI",
@@ -30,6 +80,16 @@
       "summary": "Built to benefit everyone: our plan &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5"
+    },
+    {
+      "headline": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-08T21:17:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets &nbsp;&nbsp; Reuters OpenAI files confidentially for IPO, following Anthropic &nbsp;&nbsp; TechCrunch OpenAI plans stock market debut, setting up new race with Anthropic &nbsp;&nbsp; BBC",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5"
     },
     {
       "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC",
@@ -50,123 +110,63 @@
       "summary": "Microsoft’s open source tools were hacked to steal passwords of AI developers &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjF2ekYxczVvcC1UVTBsTWQ0QUlDYmhDVjQ2Ul9ieGNWb0ZLakxQbS1zLUw0ZnVTamtYSEtiQmRzUjFoR3AzQWZ2VzQ5VmZkaGtHV3dwRU5ycGlFRmV0aHZaQWhTcHYxbndnZ0Z5OVh2NkdJWGE2b1EyWHZfNUR1a0d2TVlOeklpTjBwamlORFI5cW1vNENjZE5RU1M2bk9OUkNNcm5NUWJmQVV0SnNsTg?oc=5"
-    },
-    {
-      "headline": "Paving the way for agents in biology - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-08T17:46:55.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Paving the way for agents in biology &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDc0poWWVRZXlzMldPQXVoMWdSeWZSSFBSeG96QjdWWUNJc1g2ZXE5V253SWhOWmpfWlUwVDhubGdTY1dYYXljektTaFp1NHhuSVFGczBEM3NmWGNVWGVsSHFB?oc=5"
-    },
-    {
-      "headline": "Anthropic says Mythos can turn software patches into exploits in minutes - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-08T17:33:17.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic says Mythos can turn software patches into exploits in minutes &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2QxVEJFRzVZYXVONnFrZjRUWE9iOGs0SDBHMFQ4WEMyZTlSXzYxaUVOSXd6Z0xNd2UySGtLWTR5Qk5MSS1TcXZxcWJ5a2pRcUstWlN4eFdTcHhvNV9kMjdzQXdOX21aQk82Ql9lOXFDTC1rUUp3ZmgtUzhvQVBKLXNFNzNlN3F1em9XMU1NTEFXdUVGdUE?oc=5"
-    },
-    {
-      "headline": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-06-08T17:31:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTNHdkx3TFE0TVptSzBOSWtRbGhPa3N0VU1wVllaaW5Jb1VabjVqVnp0bEhvOVdvZTQ5eXdDTVNoMW9Ua1pxazVlWTV2azhDT3FkLUZYbWNVRV9zYllMQXU0VU94WjlGVWlSdzl3amdvbzk2bFI4Y0J3dEdjRlYwcEdBRGtyMUJHVGNUaEFlb2U4TUE?oc=5"
-    },
-    {
-      "headline": "Italy regulator drops investigation into Meta's WhatsApp AI bot - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-08T16:26:58.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Italy regulator drops investigation into Meta's WhatsApp AI bot &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd0o0dHFsb25vMllYMW1HMGs2WHg3eFE1NUtyVFE5TC02SHZVUUpsQ29JQnVWNmV3Y1VqeDVaMjRBMmlmMXhXTDF5SGNRZ0V5R0R0TXlFM1R3cTdQbmU1VzdSbTZOYkNpR1ZYaVE1Qzd4VVY2dTE1NXUxMkxHQzdfRmtuQV9qcURuaXJZUHVBcTFndUZHUlhhZTJwZWZOVFp5bjM5S1FJWUR6T1E?oc=5"
-    },
-    {
-      "headline": "Google AI CEO Demis Hassabis wants everyone to take note on AI: Humans only have a few years left to prep - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-06-08T10:29:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google AI CEO Demis Hassabis wants everyone to take note on AI: Humans only have a few years left to prep &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSzZyVlZVbW1STzczMHBZVVNHdWZQdTRqcTRDV1hMb3hDTUdOOEFHdVE5blg1cEhUYmZnOFFpNzdHY1F0aGVEalg3aFRrX0dlWnlXMk03dVdrc2xzd2E3bVFVZGdkampBTW1QaVRzZnNmT1BsTkxwNXdtTmlCYVBHX216M1l3MXdGajFDYUJzekdFZXhuNVZFdkFWY3pGR3JtUG50WjRldWhsemN5Q0VNWDlwQkVWaFJna21BZnl3WmtDTURydzFKeTVLclZPZFdVQVVBUlIxMmtQeVJ3ZDhRZXljRkdlLWlKYTA5VWtsd1o5WDZpdFVDR21sbmx2bldYUG00cjQ4WW53UjJtU3RYQ1NmTVhaRnZKTkNZS2FYNXfSAaYCQVVfeXFMTTI4Qm13VTdwR2wzZDBxeldLVWkxMjA1UkxoVGIxRVBHWVRjQ1BrWXhDbFppN2NHS0N3dG9rb2hQTGxObDRaelBtR3AtZXg1OGxPQUZ6UlBxOGFJczFXWWtFLUM5cDVfQ1BLSnJ1YVJEcE9BSmwzVWd4NHB0R1ZkTUs1R092NTJDcXBkVllxUUJDVnNYQUVUQjBjVktkV3BkOG9qeXFCazZTaVQtRGhidi1MNXRvS3ZoM1JaMzYyOUFKZVRPaVd2N1pOZWtKR1pRRGNnLXk4amliclFkRVRqblNVN1BwdkN5WGQ4RG1rVnp2ZUY5X3VwTDdwcDlzVHNucGFfc0oyajc3clN4c001cWg0NTdXSWlKa2ZXRWZTZGJzbGg2Q3N3?oc=5"
-    },
-    {
-      "headline": "My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-07T08:47:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkpHektOZ2NyRXdPYm9pdHc3Sjg1ZlBINWpmeE00M2tNdU0wUjRmdVdpbHowQ1NnWUNGN1RvdUZJS2hfWTVsWXg3OXQzUExyRWdjMUVMZGRUbW9aMmVWbVBDelpfU3BkdUNYLS0wdHlBSkNSTVZSOWZWb2FVMzZoXzVSTmZud1FTUklGTjRyWjZYdW9FLWZqTWFUeFhQZUY0NFZCelNSTXdRNElh?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI plans to go public setting up new race with Anthropic - BBC",
-        "source": "BBC",
-        "timestamp": "2026-06-08T23:37:21.000Z",
+        "headline": "Google DeepMind forms AI genomics consortium | ETIH EdTech News - EdTech Innovation Hub",
+        "source": "EdTech Innovation Hub",
+        "timestamp": "2026-06-09T10:32:05.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5",
-        "summary": "OpenAI plans to go public setting up new race with Anthropic &nbsp;&nbsp; BBC OpenAI files for US IPO after Anthropic as AI giants head to public markets &nbsp;&nbsp; Reuters Opinion | Anthropic might be the most powerful company in the world &nbsp;&nbsp; The Washington Post"
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaThQOHM5QURZVFBsSy1oX2JjY0JTcmhxTUF2VGF2WUhNN09GOW1IRlp6dkZZdDBYQlJNOGRnZzVFUlpFX3hIUHdzdGdXNFVySk8xOEMzNmt0bVRDdV9rWmkzRm9ib0J6eUxvazRfYWlfOG5Ub3dHRVBOX0JhazRQNkhrTEhIanRNWmlpWm0zVzBSY1oyanRwSVY2MkwzOU9Db2psYUFiRUNCbk9US1EtbXo5c3BsZk1UaHh2SVpHYlFRUQ?oc=5",
+        "summary": "Google DeepMind forms AI genomics consortium | ETIH EdTech News &nbsp;&nbsp; EdTech Innovation Hub"
       },
       {
-        "headline": "Built to benefit everyone: our plan - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-06-08T21:19:58.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5",
-        "summary": "Built to benefit everyone: our plan &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-06-08T21:14:27.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZ9IBrwFBVV95cUxNYmdiVHBYUUVMODVqaDh4ZjJmV3RyXzNJa1BtblRDRWRFbEIzb2tQNURabU1hSmEtQkZCSDhva3JCVWFIYV9leDVYaVFxWXBQeTNpeHoxbVQzRk5vMVdsa1dpZW0tLXVNRXhuVzZtLVBCSTU2U0pBRDE2NzFKOFRqT041anVxS0RfamwtcEpqeHhiTnNxZ3ZIZWotSzZsSHQ5eTRJcW8xRGdMRkdjWmxF?oc=5",
-        "summary": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Microsoft’s open source tools were hacked to steal passwords of AI developers - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-06-08T20:03:44.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjF2ekYxczVvcC1UVTBsTWQ0QUlDYmhDVjQ2Ul9ieGNWb0ZLakxQbS1zLUw0ZnVTamtYSEtiQmRzUjFoR3AzQWZ2VzQ5VmZkaGtHV3dwRU5ycGlFRmV0aHZaQWhTcHYxbndnZ0Z5OVh2NkdJWGE2b1EyWHZfNUR1a0d2TVlOeklpTjBwamlORFI5cW1vNENjZE5RU1M2bk9OUkNNcm5NUWJmQVV0SnNsTg?oc=5",
-        "summary": "Microsoft’s open source tools were hacked to steal passwords of AI developers &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Paving the way for agents in biology - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-06-08T17:46:55.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDc0poWWVRZXlzMldPQXVoMWdSeWZSSFBSeG96QjdWWUNJc1g2ZXE5V253SWhOWmpfWlUwVDhubGdTY1dYYXljektTaFp1NHhuSVFGczBEM3NmWGNVWGVsSHFB?oc=5",
-        "summary": "Paving the way for agents in biology &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Anthropic says Mythos can turn software patches into exploits in minutes - Axios",
+        "headline": "Apple finally ships its AI assistant upgrade - Axios",
         "source": "Axios",
-        "timestamp": "2026-06-08T17:33:17.000Z",
+        "timestamp": "2026-06-09T09:33:45.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0WDNseWFfc0ZidGVqczllelh3eVZhZmNVVkk2b0xzMkU0MnZCcUxTWTNLXzR2Y0xaaTIydGQtbkNVbkxDZ3NURnB0d3MwWF9OSDhPUjROZklvZVFZUG5VTDNPcUh5NmlhSlE?oc=5",
+        "summary": "Apple finally ships its AI assistant upgrade &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access? - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-06-09T09:30:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2QxVEJFRzVZYXVONnFrZjRUWE9iOGs0SDBHMFQ4WEMyZTlSXzYxaUVOSXd6Z0xNd2UySGtLWTR5Qk5MSS1TcXZxcWJ5a2pRcUstWlN4eFdTcHhvNV9kMjdzQXdOX21aQk82Ql9lOXFDTC1rUUp3ZmgtUzhvQVBKLXNFNzNlN3F1em9XMU1NTEFXdUVGdUE?oc=5",
-        "summary": "Anthropic says Mythos can turn software patches into exploits in minutes &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjdYOUxlY1BXR0xRV1hhU0FsbF9JYU5xallzTHVUQTFGbUpSS1JDZndWeE1Zdkx4SGt4d0RpTzd5cUw1SWtIUi1rMmt3Wmo4UDd6ZlVVeFQtRnpkQnY1M0N2dUdoWi1GUHQ0Y2taaGZqRTVYYTc3VzFSQzY4TGxCb1U3NXhXNXpGMVpjVGlGQVFhZ0hwQ2hRNkFmaHhvdjdnTml1dVo3bEdOc2VyWnlz?oc=5",
+        "summary": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access? &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "OpenAI plans stock market debut, setting up new race with Anthropic - BBC",
+        "source": "BBC",
+        "timestamp": "2026-06-09T08:02:43.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56ZFNfSG9fbUdOYjh4RllpYlZpT1poMExmVHBsWndaMHlZaHpSSG4zalhSeFJNRDc0bms0MjdYa3JaZk9ubzVPaThLNjdRNjJRdlQwNDY2RUNiZw?oc=5",
+        "summary": "OpenAI plans stock market debut, setting up new race with Anthropic &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses - UploadVR",
+        "source": "UploadVR",
+        "timestamp": "2026-06-09T07:17:22.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWxBYktCNF9FdDhWVzZxcTVQRE9PS01NRndmRTBTNGlYbXRzSW4ycjh3NnJZLTYtdmMtaHpkUjFiX3E2UHA3MThlNG5UNDdYc19LaXZLd0l3T0o3dlJwTFFnYzV6enUzcHNTZVN0Y0xYMmNEaXJBcUJhWkxfZjRMX1RjNFN3WUtFbFE?oc=5",
+        "summary": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses &nbsp;&nbsp; UploadVR"
+      },
+      {
+        "headline": "Inside Apple's Siri revamp, Anthropic readies Mythos - Sources | Alex Heath",
+        "source": "Sources | Alex Heath",
+        "timestamp": "2026-06-09T02:12:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfblNrMHYwX2VCQS03ak5wczFtaF94emFVWGpFWHpGMkYyWVF6cGlBVWUxUHFSSmVQVjktN21IR1lvb2d6ZjVHQXBKY01xR1p1N09pUExFMHR2akg5R0d0dGllb2hyeVZCS1E?oc=5",
+        "summary": "Inside Apple's Siri revamp, Anthropic readies Mythos &nbsp;&nbsp; Sources | Alex Heath"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
