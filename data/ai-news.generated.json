@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T16:37:22.736Z",
+    "generatedAt": "2026-06-10T19:36:49.618Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,59 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic urges US to require safety tests for most capable AI models - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-10T19:30:15.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic urges US to require safety tests for most capable AI models &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGswMmJtWE5seHQzaWRSWXhPRktmbHc1SHZpYndBM1hjTzdLUlp0LVdmM3BQTTN1NnIxeWsxR2JubC1qeS03XzdVVjR0amttUUQxUWpVUlN2MzdsRTlSZDdJT1ZUTnlQTmlDc2h5WC1VdlQwYm5OQ2xROG1lT3BUVmhHS1V1bE4xeHhpazlwTGJSYWNNSnBtX0tFdkFBX0M1VTdZVDNwQQ?oc=5"
+    },
+    {
+      "headline": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-06-10T19:29:21.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUNjSmdLQjVNUW1QV2ZhTEJvT1Z3aVI2eXJjd21USmpuMWhHV2FiNGkwUnIxbDZiZ01OT2I5Ty1sZDVSd3RaSU1aY2dUcElDY0NKTDNKRXhFX1AyWWZyeDFiOVRZeXQ0VjRsOFUzRnllMGNTTDdtRGJnTGZsSmgxcmptZG5iQllIb2lvZ2F4T3lFQXh3RUxhQTJrWXNPamV4Z3FOMktFSlFJenNidXloSw?oc=5"
+    },
+    {
+      "headline": "Trump believes AI companies will be 'giving back' stakes to public (OPENAI:Private) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-06-10T18:58:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Trump believes AI companies will be 'giving back' stakes to public (OPENAI:Private) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdhTHBUTW1EZlNpRUZVOF9HY1h6MGk2em00OGJtakV2aW9tcGsxQ2JCaGl3TkVNY2FpX2Myakh6WnJtM0toODVneXVLdTAwQ0lYc1VXdW50WWNjRzJLMC1CNjlXSlFGZzE0VlVselZub01sRVBxYVRPY0pfUmZhNEVOSm1vV0FYeS01Tk5tSlZHLTJoSTNRYUo0VWFpX2tnTGxILQ?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO says government should block dangerous AI - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-10T18:50:31.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic CEO says government should block dangerous AI &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGFPeVR2VldXM21VWDNBRFdaVEVtVDNwZDBCcnhzWmp1a3p2YTN3eGhUTE13TTRZMzhpckkza0QzRUxaZkJLQ3Q4UnY1U1JweTluZ19zNGdhZndyZW9SQ2JSWGd5dWRJQnJkb1ZhY0pCWmkwaTFkZnVZdTRLYnowMWNR?oc=5"
+    },
+    {
+      "headline": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-06-10T18:40:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEtRbUVBNldBSEl0bTBVeHdGYWUzdi1TQ256RTVnbWhwaEFTYXpQLVdWZ1V6MkpwYXh1TXZydlUxWHpncW5SYlhJaXJNWXJsSXVBUFd1ZGZJWnhBMndDTUhST0dmYUoybGFMdUlWSjM3MGtPM3NkSW9tZ3BsZng1akc3UURSWkNHVGZSQ3dpOUFJZVBKOVktV0w2TTB1TzMxTFYwd2g2Wl9SZw?oc=5"
+    },
+    {
       "headline": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI - NVIDIA Blog",
       "source": "NVIDIA Blog",
-      "timestamp": "2026-06-10T16:18:45.000Z",
+      "timestamp": "2026-06-10T16:21:19.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI &nbsp;&nbsp; NVIDIA Blog",
@@ -22,59 +72,19 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByMVFNeDd5VENidnBnZ0lqUi1CcUtYbmR5eGdjbU1XYk5jRVkyRkNQSWNwT010cmNMMmNsM25tcnNvd0MzTTRCWkszYW9SdDV4UHF6TUJ4Um1zVHl3T2dpeHdjRzV2X19aZlNTbDl0ZHl3eWJX?oc=5"
     },
     {
-      "headline": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-10T16:16:44.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjJYNTE0TGIzZDBRd3lBVGVZLWpoNWY2WHo4TUhwb05pdjhZbnpaNXVyLTh5R2YtbEFWZ29RQzFTMkpWM0VEVDEzZnh1NFkxSURBSVM1MHRnMEdYV1NBWTBZNVFHRDdCd3pxVU5jbmFVcm02SVYzMEpXSi05U0xWcXhhVzNIX1VwTXZFeGE3UkJ4VFBnX2l2WjZaYXVrNFotRUIxZXRwdU4?oc=5"
-    },
-    {
-      "headline": "Apollo leads $35 billion debt deal for Anthropic's compute - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-10T16:11:29.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Apollo leads $35 billion debt deal for Anthropic's compute &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekgxT29XU2tHZW42UklJbU9KQlU1S2JEVVh0bXBFWE1yOVZ4R1pNRDIycUE3VHJ4WEU5ZlMwS1NGZ2VPelA4ZWd1SEZVTzdNYjdYUUNKVWM1N21MTTlkUmI2VFVsenowSFFiSnpfd19qOTQ5RmNLeQ?oc=5"
-    },
-    {
-      "headline": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
-      "source": "The Information",
-      "timestamp": "2026-06-10T15:34:44.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ &nbsp;&nbsp; The Information",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5"
-    },
-    {
-      "headline": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks - Bloomberg",
+      "source": "Bloomberg",
       "timestamp": "2026-06-10T12:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks &nbsp;&nbsp; Bloomberg.com",
+      "summary": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks &nbsp;&nbsp; Bloomberg",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3k5aU1FVk92aE1lb2h0Yi1oNWFWbDg2QjZOSGk2d29vV3E2NHhnQW1mSW5CaTZzaURZTEVtdFJRWU1FY3hyOElHaGpwNG0wYmVFeDdSMDBjUEYtWlcxZGZCckhXNHJKTHV2SS1WN0djZHlqcXo0RkVJT2hjVjFCVDFzXzZhenpldTZSN1JiTkJxd016ZDRwRnZIenF5dndNeGNoTEhmYkViNVhLNnVxa3J2Yw?oc=5"
     },
     {
-      "headline": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-06-10T09:24:53.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5"
-    },
-    {
       "headline": "Google DeepMind economist sees no AI jobs bloodbath yet, but warns of a layoff cascade - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-06-10T08:11:00.000Z",
+      "timestamp": "2026-06-10T08:11:09.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Google DeepMind economist sees no AI jobs bloodbath yet, but warns of a layoff cascade &nbsp;&nbsp; Business Insider",
@@ -92,88 +102,78 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1hTLWxObk5LZkpocHg3ODhNa3pDYmxxT3k4dHE0UlJITkU4eUNkXzdFV3ZwUUhtUUUtanhJQUtPcFJGQ2N5OEFZYUVHQXlpZW9ldG9INXRqWW9HVHhKQUJwYlBQX2ZFTHllV2lMVS0tclIxSE90M000ZUJMNHlWNjNHaExtNHhQOHpvcXJ3NFE3NkFUamdhd3M2eXpvVWtYc09KVVk5elVFMklCY2c?oc=5"
     },
     {
-      "headline": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-06-09T18:26:09.000Z",
+      "headline": "Watch Inside Anthropic, the $965 Billion AI Titan - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-06-10T00:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Watch Inside Anthropic, the $965 Billion AI Titan &nbsp;&nbsp; Bloomberg",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlJxREZCMUtTU0FaYmt0bDd3Ty1Kd0FyLXAyZzNfNm84YklFXzExakVmSmp1Z2pveklIQWVnQ1FuR2xVdDJueExXR24tdUhzMmNjTUtYRnBwLXhmVEVCbUdsWFRadmUyTnktcXBCZjluZHhSNklVdFZ5ejBoOXpFRnNtZmRSU2gxWGo5Q3R3Y0kxMzNjYTJRTGtfOEgzUlJSU1ZMbWVYWncta3k3NVdWOTFNOA?oc=5"
-    },
-    {
-      "headline": "Reconstructing AI activity in investigations - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-06-09T17:35:06.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Reconstructing AI activity in investigations &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUVJTE9rWG1PRnRwTVhqN1FCc1JMY3p1TERiLWo3MFpldk5NSTRrWnJOY01RbDM5TnY1S1BiSjZnRFRYbEN1RzZfTS0zSU1CeTczSTg2SjRXSnUyckR6LUdjXzVDU1BDSGhmVjY0d1I5ZWd4Y2duZFBVb2VfM016MTRiNC1yUE5ySlR2UGxvbktXR0t4T0hySjRnTERpRVot?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2pRdi1IN3B6N04yWXhDLUtwWllHRUV1Mzk5TVFwazRUalVVbmd5TUJSWHVab3YxT1ZXc24tLUhkZTdrR3NIVXZEUkhzMGJJSDhYTXQ4a05kSWkxaTR3WGhXVGNuQVV3VVUtb1dTaVBJWjBTM1pwYmNZaldOclZWLXdEUUFjTUhVRVJzdVl6aDBlRy1PQmNzSV8xOUZ6SEJpd3dB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Anthropic urges US to require safety tests for most capable AI models - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-06-10T19:30:15.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGswMmJtWE5seHQzaWRSWXhPRktmbHc1SHZpYndBM1hjTzdLUlp0LVdmM3BQTTN1NnIxeWsxR2JubC1qeS03XzdVVjR0amttUUQxUWpVUlN2MzdsRTlSZDdJT1ZUTnlQTmlDc2h5WC1VdlQwYm5OQ2xROG1lT3BUVmhHS1V1bE4xeHhpazlwTGJSYWNNSnBtX0tFdkFBX0M1VTdZVDNwQQ?oc=5",
+        "summary": "Anthropic urges US to require safety tests for most capable AI models &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-06-10T19:29:21.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUNjSmdLQjVNUW1QV2ZhTEJvT1Z3aVI2eXJjd21USmpuMWhHV2FiNGkwUnIxbDZiZ01OT2I5Ty1sZDVSd3RaSU1aY2dUcElDY0NKTDNKRXhFX1AyWWZyeDFiOVRZeXQ0VjRsOFUzRnllMGNTTDdtRGJnTGZsSmgxcmptZG5iQllIb2lvZ2F4T3lFQXh3RUxhQTJrWXNPamV4Z3FOMktFSlFJenNidXloSw?oc=5",
+        "summary": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "Trump believes AI companies will be 'giving back' stakes to public (OPENAI:Private) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-06-10T18:58:21.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdhTHBUTW1EZlNpRUZVOF9HY1h6MGk2em00OGJtakV2aW9tcGsxQ2JCaGl3TkVNY2FpX2Myakh6WnJtM0toODVneXVLdTAwQ0lYc1VXdW50WWNjRzJLMC1CNjlXSlFGZzE0VlVselZub01sRVBxYVRPY0pfUmZhNEVOSm1vV0FYeS01Tk5tSlZHLTJoSTNRYUo0VWFpX2tnTGxILQ?oc=5",
+        "summary": "Trump believes AI companies will be 'giving back' stakes to public (OPENAI:Private) &nbsp;&nbsp; Seeking Alpha"
+      },
+      {
+        "headline": "Anthropic CEO says government should block dangerous AI - Axios",
+        "source": "Axios",
+        "timestamp": "2026-06-10T18:50:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGFPeVR2VldXM21VWDNBRFdaVEVtVDNwZDBCcnhzWmp1a3p2YTN3eGhUTE13TTRZMzhpckkza0QzRUxaZkJLQ3Q4UnY1U1JweTluZ19zNGdhZndyZW9SQ2JSWGd5dWRJQnJkb1ZhY0pCWmkwaTFkZnVZdTRLYnowMWNR?oc=5",
+        "summary": "Anthropic CEO says government should block dangerous AI &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-06-10T18:40:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEtRbUVBNldBSEl0bTBVeHdGYWUzdi1TQ256RTVnbWhwaEFTYXpQLVdWZ1V6MkpwYXh1TXZydlUxWHpncW5SYlhJaXJNWXJsSXVBUFd1ZGZJWnhBMndDTUhST0dmYUoybGFMdUlWSjM3MGtPM3NkSW9tZ3BsZng1akc3UURSWkNHVGZSQ3dpOUFJZVBKOVktV0w2TTB1TzMxTFYwd2g2Wl9SZw?oc=5",
+        "summary": "Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI - NVIDIA Blog",
         "source": "NVIDIA Blog",
-        "timestamp": "2026-06-10T16:18:45.000Z",
+        "timestamp": "2026-06-10T16:21:19.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByMVFNeDd5VENidnBnZ0lqUi1CcUtYbmR5eGdjbU1XYk5jRVkyRkNQSWNwT010cmNMMmNsM25tcnNvd0MzTTRCWkszYW9SdDV4UHF6TUJ4Um1zVHl3T2dpeHdjRzV2X19aZlNTbDl0ZHl3eWJX?oc=5",
         "summary": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI &nbsp;&nbsp; NVIDIA Blog"
-      },
-      {
-        "headline": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-06-10T16:16:44.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjJYNTE0TGIzZDBRd3lBVGVZLWpoNWY2WHo4TUhwb05pdjhZbnpaNXVyLTh5R2YtbEFWZ29RQzFTMkpWM0VEVDEzZnh1NFkxSURBSVM1MHRnMEdYV1NBWTBZNVFHRDdCd3pxVU5jbmFVcm02SVYzMEpXSi05U0xWcXhhVzNIX1VwTXZFeGE3UkJ4VFBnX2l2WjZaYXVrNFotRUIxZXRwdU4?oc=5",
-        "summary": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Apollo leads $35 billion debt deal for Anthropic's compute - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-10T16:11:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekgxT29XU2tHZW42UklJbU9KQlU1S2JEVVh0bXBFWE1yOVZ4R1pNRDIycUE3VHJ4WEU5ZlMwS1NGZ2VPelA4ZWd1SEZVTzdNYjdYUUNKVWM1N21MTTlkUmI2VFVsenowSFFiSnpfd19qOTQ5RmNLeQ?oc=5",
-        "summary": "Apollo leads $35 billion debt deal for Anthropic's compute &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
-        "source": "The Information",
-        "timestamp": "2026-06-10T15:34:44.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5",
-        "summary": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-06-10T12:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3k5aU1FVk92aE1lb2h0Yi1oNWFWbDg2QjZOSGk2d29vV3E2NHhnQW1mSW5CaTZzaURZTEVtdFJRWU1FY3hyOElHaGpwNG0wYmVFeDdSMDBjUEYtWlcxZGZCckhXNHJKTHV2SS1WN0djZHlqcXo0RkVJT2hjVjFCVDFzXzZhenpldTZSN1JiTkJxd016ZDRwRnZIenF5dndNeGNoTEhmYkViNVhLNnVxa3J2Yw?oc=5",
-        "summary": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-06-10T09:24:53.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
-        "summary": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
