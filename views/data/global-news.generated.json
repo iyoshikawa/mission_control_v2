@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T09:56:41.934Z",
+    "generatedAt": "2026-06-10T13:34:14.224Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,59 @@
   },
   "newsFeed": [
     {
-      "headline": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
-      "summary": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz &nbsp;&nbsp; Reuters",
+      "headline": "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
+      "summary": "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-10T08:25:50.000Z",
+      "timestamp": "2026-06-10T12:26:35.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEV5c1ZSZmVISHc0SEJoM19pdjUydm1qOUJWYThWbldHcTd3bE9PNEJlZ2NOVW91ZHJKZ3RCX205QnFOQzVEdGtRYm9rVm02QjlBMTk5V3dxMTVYUXhOTWdGRnZlNDBGRkg0WUs4cktqS0szdHp1X3k5cHhPSmJ1UjVvYjlPbnc3Yjhjb3l1elo1LW52OENYeURPWi1YNE9JbkxIUl9XZjRKTzFpdWtNbHNuZllha2M?oc=5"
+    },
+    {
+      "headline": "Trump says Iran has taken too long to negotiate, will 'pay the price'",
+      "summary": "Trump says Iran has taken too long to negotiate, will 'pay the price' &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-10T11:54:51.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjBfR0dyb2k4WjB2MkZEMjVxLTladHdVNmk5R2tjUHh2SmVmRGs5SDZBLTRuSEJOMzdxMnFoZmZDWEh3VzhBalF3MmtGMUFfelB5Vm9fb3JROUFOaVUwWUxqUTBtbURXTnYtOUNUZ1U2UkxoZnNoN1ZvLWlIN2VvNVBhNmJlUlRZYlJ4ZERYRnA5LTJ3QktSU1VwUkNzS2RWeGpmR05ndllnalFqeVp5endGQQ?oc=5"
+    },
+    {
+      "headline": "Anti-immigrant violence erupts across Belfast after knife attack",
+      "summary": "Anti-immigrant violence erupts across Belfast after knife attack &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-10T10:49:35.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUZSLXVQNElRTl9hVGVMZzFGVDhnM3d0U0dFWi1RSWhJbEV5VlRMcmpoRW1aV2ZIZjVPc1k4bzZtTEZJX3J0Wm42SU56XzQ4R3NPdVFTYWdaVFJVekRTX19xS2d4aHhza1NucFEzT2VEN3I1YlNhbEFmWFRDMXpYMEtOWTVLaWFuakxGZDdrTk5mZnJxN0FsX0RsRTJKa0ZhaG1qeWpIQ1NtWGNod3c?oc=5"
+    },
+    {
+      "headline": "UK to consider easing steel tariff plan after industry warnings, Sky News says",
+      "summary": "UK to consider easing steel tariff plan after industry warnings, Sky News says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-10T10:17:39.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRktTQktrZ2dIbWxaM0FybmZvWldkYkhkWlNvTVZEZmJvNXlCbWczS0k3SGw1Yml6aUUxdWZfem9mV19PRG9oNk1NQ0ctSGxzMWlZWlNSNlB4dHk4WkwyOWo2OHl4WmVRWERFZDdBNzlQUGRHeW1heThoTzJIS1VjVmV3aVQ4Zm5jNnpoNjF3MVE5dWpsdmthdEJqUmc0Yi1ZNkY1a1RLdTJLeEluYWwzZWowQ0kyeFQxdkl3?oc=5"
+    },
+    {
+      "headline": "Russia condemns EU plan for warships to stop 'shadow fleet' vessels in Mediterranean",
+      "summary": "Russia condemns EU plan for warships to stop 'shadow fleet' vessels in Mediterranean &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-10T09:07:17.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWdDb1UzNmEyRGtEOTNrVXdGbWlUMllmRzF1V2Zndm9sb3RaNHE2LWxIYnFiM0RCN1I5M0ZqS2NOY0FHTnJ5aXFOT2RUd182N0lBUTNucGctOHI4cDFlc3F0WVJSSHpaX0NKRTFEX0s4aXhIOG5IUkpNWkFWa2tHd0t1VmdCRnpMTzVpcW9tNW95dUwxWjFlenFPbG4tbUVYYmR4UUFxXy1aYnJEc3JzLXB3NFV1T1B4cUNiVkZn?oc=5"
     },
     {
       "headline": "India's Modi, Trump likely to meet at G7, discuss trade, visas, source says",
@@ -34,8 +78,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHZwelRQQ0c0dmY1TVNkUnRfMXAydUhJTjlYU3pLMlBYNGQ0VkJrbUJQZDQ3TEM2b05QdHoydDlPNllGbHVDRDVDdVlNTDJtYnd5WFdXQ1ByejB3dm9JM2pMUFZ4Y2Qxa01Xb0FLZWhrNXN6dEZURlI3R0ExcTZUd3JyRG52Qk9zQmo1Q3NLOVZaVzBFZ1g2MEpUUFc3cFF3QmMwOEVMRnZBQXVxblgtcVBvZjhJZw?oc=5"
     },
     {
-      "headline": "Russian-held Crimea grapples with fuel shortages amid Ukrainian drone attacks",
-      "summary": "Russian-held Crimea grapples with fuel shortages amid Ukrainian drone attacks &nbsp;&nbsp; Reuters",
+      "headline": "Indian central bank likely intervenes to support rupee, conducts swaps, traders say",
+      "summary": "Indian central bank likely intervenes to support rupee, conducts swaps, traders say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-10T05:49:00.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNnFnMkFpS1NDcFZmWVF5ZDBHUDNNSXA0MWgxQVBOaUlqN19lMEF3RnhOZWo2RUJTTWNGMWkzUFhSOWFEbGpNLWZMR0RHT0RqYzVfZDZwRDJWTmNMbFhYSGstTkIzajJYazRMRC1MVDZoNGdORC1rekZydUFiRzhDV1gwYmRJeXBtS3p0THJENXBBOUxkUXltTTU2T3pSSVk2cV9lQ3BMTzlCZ0NRQWgxdHo1LXBsbWoybjg4MnljS3p6MUpM?oc=5"
+    },
+    {
+      "headline": "Russian-held Crimea grapples with fuel shortages as Ukraine conducts more drone attacks",
+      "summary": "Russian-held Crimea grapples with fuel shortages as Ukraine conducts more drone attacks &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-06-10T04:03:00.000Z",
       "impact": "HIGH",
@@ -43,61 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGllalBfeVQzMUlnOU5VZUZkeTNLUUc2ajJHV1pFU1JhTU9HdmpVeTdLSEpXd0lMVUdscFJMNldHZlZQa0ZvbmdpZzY1V25SeEF4UzRrQllqOXV2M3lwZ21iNlY4TXdDaHYwNFVqLXMtM0syS0RfSFNlTEUtRGgyazVHcXZuS282YlRXVElCTnVkZmt3d2hJbkZrVkxMU3ZNVlBJOG0xTXEtLXktY1h0QzlheW42ZjdYTDI3QkZR?oc=5"
-    },
-    {
-      "headline": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports",
-      "summary": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-10T01:56:00.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdS1FSmJ2ckNYY1ZyVmtnZVJ4LXVxNjl5OGVySDgyaWxlcTk2MmRWNzI5Q25HbGZXQ3JjcnNUb2VCelA2TTk3VFJxM3ZlbUYyTFhfc3FqSFNKNWxsaWRFQ1NyTzRxQ1ktU0hPWk1heERrYWVqYmRwMzJFakp4NVJCcFA0REh0aE96MElCN3NaRmZDRGU3TTM4dVJVQ0oyUnRnZWg5SXRoLWVvazFvaXBWSHRPbnNEbVFSRjBJaXI3Ni1nUFBLT0RRc05NaEh2R1ZnT3c?oc=5"
-    },
-    {
-      "headline": "CMA CGM chief says 'unwise' to assume Hormuz will return to pre-war situation",
-      "summary": "CMA CGM chief says 'unwise' to assume Hormuz will return to pre-war situation &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-09T23:07:44.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdE1hYUo1Y3NHei1uTFlqVzJVRTdYX0VWUXM0ZkNCQ3V1LVVsc1NOSU1RaGNzYnM0amcxVHg0RHAzd0h0WmcwUVlRSUpZaVJkOFVBN04tWmJDa1kzR2lhOUNkQkZWTnZBeUxoU2pQaUtsNUVsSHJKSC1sQ2N4SVQwR1RodkdUcUthOUpRdVFJaExkZVRuSlVHNVVMVjBORS1JRS1VNnZXaWxDdUYzSVVkZk1WcDY?oc=5"
-    },
-    {
-      "headline": "Congress has backed Iran war powers resolutions. Now what?",
-      "summary": "Congress has backed Iran war powers resolutions. Now what? &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-09T21:21:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3dOU1IyOFhLMUxNVkRtMzV3RHJxNGlJemJhVXpkaFhPdGxMYVctaVBTVkloR2JuZ3VOc2pfeUhHVUxkMWZzWUk4V2txUS1mVXFieHdpbTVSTWNidGNLUUtKOHVGYlZNelZqRmNsTUE2d2cyZEE1c1VWTDFWQVJWcXBZazFvVnhVSThra2VUZHNGMVRuMVBJWW9vSmpCWjdsQ1lZ?oc=5"
-    },
-    {
-      "headline": "IMF warns Nigeria of risks in $5 billion swap deal with UAE lender",
-      "summary": "IMF warns Nigeria of risks in $5 billion swap deal with UAE lender &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-09T20:35:46.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDZKanAtRW1iVmR5Qi1RTkxpQjdmN255LUwxbjZsNEF2WGhReGF3RVpkTmhuOWlmVFQ4aER3SS1UeFVfQ1J1QkhoLVIzRUNzVElVWFgtVEl3NVlBWG04cmwtSThBbUZqRzNsanFQSG12cHlTcmFkSkQtVTd0UWhPcEpsXzJfZHNvOXdvUGRLTFdTbEtGZC1yTU9iel9QNTU1eXBXcGxZZG1URzRGcDBRTWRB?oc=5"
-    },
-    {
-      "headline": "Three blasts hit gas pipeline in Russia's Dagestan, TASS reports",
-      "summary": "Three blasts hit gas pipeline in Russia's Dagestan, TASS reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-09T20:33:19.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3lPazNIR2VGVTdyTDhyQzVXTVVIUFJXV0FpUVdrczZPblZ2cGNJaHNDdVR3V21nc1RRRDFJdFVpeFdLMkRsajVGME9Eb3ZvQUZEZnRDRk9waVE4VUxqamVjM1lxSkFpajVvcTdjbXZUdU80QXUxSVczazFkekE5endBaTNhWUExenZXUml0cjZOUGhoRUJYekY1bmJORENrVlctUFNWN0JoMVRWNksxTg?oc=5"
     }
   ]
 }
