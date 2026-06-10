@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T12:25:53.265Z",
+    "generatedAt": "2026-06-10T16:37:22.736Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic CEO Dario Amodei Has Only One Direct Report - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-06-10T12:22:12.000Z",
+      "headline": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI - NVIDIA Blog",
+      "source": "NVIDIA Blog",
+      "timestamp": "2026-06-10T16:18:45.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic CEO Dario Amodei Has Only One Direct Report &nbsp;&nbsp; Bloomberg.com",
+      "summary": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI &nbsp;&nbsp; NVIDIA Blog",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByMVFNeDd5VENidnBnZ0lqUi1CcUtYbmR5eGdjbU1XYk5jRVkyRkNQSWNwT010cmNMMmNsM25tcnNvd0MzTTRCWkszYW9SdDV4UHF6TUJ4Um1zVHl3T2dpeHdjRzV2X19aZlNTbDl0ZHl3eWJX?oc=5"
+    },
+    {
+      "headline": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-06-10T16:16:44.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjJYNTE0TGIzZDBRd3lBVGVZLWpoNWY2WHo4TUhwb05pdjhZbnpaNXVyLTh5R2YtbEFWZ29RQzFTMkpWM0VEVDEzZnh1NFkxSURBSVM1MHRnMEdYV1NBWTBZNVFHRDdCd3pxVU5jbmFVcm02SVYzMEpXSi05U0xWcXhhVzNIX1VwTXZFeGE3UkJ4VFBnX2l2WjZaYXVrNFotRUIxZXRwdU4?oc=5"
+    },
+    {
+      "headline": "Apollo leads $35 billion debt deal for Anthropic's compute - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-10T16:11:29.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Apollo leads $35 billion debt deal for Anthropic's compute &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUhIY0RHYXd6a3ZfVF9iMk44NGxDOWZOX2tBRS1oakZVOHl1X0VTamY4akZBMk9lYXBDclBsZ245MlBUcGhoQzFrNnc0QngwNkF5U2NTY3NWOENfT1EtUk1CVW95Ym1SUmUtMUZ0elN6VjNmSV9iNkRDbU1UUG03UmxFY1JKQ2RveHhjQVJwVmZJd043Ykdsc2dCNEsyNzZlTzlPckY2RGVCTG9aSXExck5JSEVodnM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekgxT29XU2tHZW42UklJbU9KQlU1S2JEVVh0bXBFWE1yOVZ4R1pNRDIycUE3VHJ4WEU5ZlMwS1NGZ2VPelA4ZWd1SEZVTzdNYjdYUUNKVWM1N21MTTlkUmI2VFVsenowSFFiSnpfd19qOTQ5RmNLeQ?oc=5"
+    },
+    {
+      "headline": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
+      "source": "The Information",
+      "timestamp": "2026-06-10T15:34:44.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ &nbsp;&nbsp; The Information",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5"
     },
     {
       "headline": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks - Bloomberg.com",
@@ -32,19 +62,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3k5aU1FVk92aE1lb2h0Yi1oNWFWbDg2QjZOSGk2d29vV3E2NHhnQW1mSW5CaTZzaURZTEVtdFJRWU1FY3hyOElHaGpwNG0wYmVFeDdSMDBjUEYtWlcxZGZCckhXNHJKTHV2SS1WN0djZHlqcXo0RkVJT2hjVjFCVDFzXzZhenpldTZSN1JiTkJxd016ZDRwRnZIenF5dndNeGNoTEhmYkViNVhLNnVxa3J2Yw?oc=5"
     },
     {
-      "headline": "OpenAI heads for Wall Street - DW.com",
-      "source": "DW.com",
-      "timestamp": "2026-06-10T11:57:53.000Z",
+      "headline": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-10T09:24:53.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI heads for Wall Street &nbsp;&nbsp; DW.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1SFQ4ejZwSDVJb2Vnd0MwQ1pOanJSUS1lZnFVTklpUmpsSkU1VTNySXJNNjFpMEJLXzRhYVh6Um1Qa2t0cU5POHZ6QzR0enFyN1FwNmo5RmdEVFQ0Q2JhZWdBZFJlVU9ua0pNeFZ4TGtDaE0?oc=5"
+      "summary": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5"
     },
     {
       "headline": "Google DeepMind economist sees no AI jobs bloodbath yet, but warns of a layoff cascade - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-06-10T08:11:09.000Z",
+      "timestamp": "2026-06-10T08:11:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Google DeepMind economist sees no AI jobs bloodbath yet, but warns of a layoff cascade &nbsp;&nbsp; Business Insider",
@@ -52,24 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4aHZMRUhfUzNBUEh0U0dVR3Jyekkyc3BqaXJfcnZ0UzZlTERnN25qVTQzejJ1TEl3NzcyUDZWM21rMEliYTZpbkYtMy1Yd1hmejROeXN1Xzk0VURJZ1NRUXJseXFiQzJBalhBYzV2ejAzWmVNUlUyOVk1UDJTSzA?oc=5"
     },
     {
-      "headline": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-09T20:07:42.000Z",
+      "headline": "SpaceX's landmark IPO benefits Microsoft? AI compute shortage propels Azure into a new growth window - 富途牛牛",
+      "source": "富途牛牛",
+      "timestamp": "2026-06-10T03:56:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts &nbsp;&nbsp; The New York Times Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account &nbsp;&nbsp; The Guardian Instagram is alerting users who were targeted by hackers during AI chatbot attacks &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5"
+      "summary": "SpaceX's landmark IPO benefits Microsoft? AI compute shortage propels Azure into a new growth window &nbsp;&nbsp; 富途牛牛",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1hTLWxObk5LZkpocHg3ODhNa3pDYmxxT3k4dHE0UlJITkU4eUNkXzdFV3ZwUUhtUUUtanhJQUtPcFJGQ2N5OEFZYUVHQXlpZW9ldG9INXRqWW9HVHhKQUJwYlBQX2ZFTHllV2lMVS0tclIxSE90M000ZUJMNHlWNjNHaExtNHhQOHpvcXJ3NFE3NkFUamdhd3M2eXpvVWtYc09KVVk5elVFMklCY2c?oc=5"
     },
     {
-      "headline": "Anthropic and OpenAI spark new race for frontier AI access - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-09T18:49:20.000Z",
+      "headline": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-06-09T18:26:09.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic and OpenAI spark new race for frontier AI access &nbsp;&nbsp; Axios",
+      "summary": "Google’s Backstops Underpin $35 Billion Chip Deal for Anthropic &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zY3Y4V3VZVkI2d0l2OTNXQTNXeGh4el9kUW43blpVWDRPb01sUy1YM0M5YWhMX3BKeTN6ZG5jLU41cGZubnNFd3NTTzVVcS1aOWxjVkI1LUVfLTlxM1RGa3FsN2VGM29JcTVVYVZUdzZlOXVTbDUyaVBfLXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlJxREZCMUtTU0FaYmt0bDd3Ty1Kd0FyLXAyZzNfNm84YklFXzExakVmSmp1Z2pveklIQWVnQ1FuR2xVdDJueExXR24tdUhzMmNjTUtYRnBwLXhmVEVCbUdsWFRadmUyTnktcXBCZjluZHhSNklVdFZ5ejBoOXpFRnNtZmRSU2gxWGo5Q3R3Y0kxMzNjYTJRTGtfOEgzUlJSU1ZMbWVYWncta3k3NVdWOTFNOA?oc=5"
     },
     {
       "headline": "Reconstructing AI activity in investigations - Microsoft",
@@ -80,48 +110,45 @@
       "summary": "Reconstructing AI activity in investigations &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUVJTE9rWG1PRnRwTVhqN1FCc1JMY3p1TERiLWo3MFpldk5NSTRrWnJOY01RbDM5TnY1S1BiSjZnRFRYbEN1RzZfTS0zSU1CeTczSTg2SjRXSnUyckR6LUdjXzVDU1BDSGhmVjY0d1I5ZWd4Y2duZFBVb2VfM016MTRiNC1yUE5ySlR2UGxvbktXR0t4T0hySjRnTERpRVot?oc=5"
-    },
-    {
-      "headline": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-09T17:08:42.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Claude Fable 5 and Claude Mythos 5 &nbsp;&nbsp; Anthropic Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street &nbsp;&nbsp; CNBC Anthropic Has Publicly Released A Version Of The Mythos AI They Suggested Was Too Risky To Publicly Release &nbsp;&nbsp; IFLScience",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tNXJJQXNGZWM1d1VmMVRfOFZlYU9VUFcwdm03RFhDRE5uajJOY19mbUQ5ZVpXYW9IOWhzd3JOS3F2c0xIdFRYVUgtZF9RVVI1VW1KVExGb0RVRDBWdlpNTXN1cTA?oc=5"
-    },
-    {
-      "headline": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents - Microsoft Azure",
-      "source": "Microsoft Azure",
-      "timestamp": "2026-06-09T17:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents &nbsp;&nbsp; Microsoft Azure",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSW5BNkhvSXNYVEpPcDdMTDlINGIzZVVsazh5bjcyYW0yMWdKaGZ2UHVHWmEybmpLRE5ZblppR0U0c0VWcUZFaUFhTkFxd29UbzRvbmFTc1M4TDNDZXNhTXdoNUJweGdwaERaN0M2ZlBlaFhkUWIwZDdJb2xFNTZYSlgzN2JQNVpTOEpaNVQ5Um81Zk5XQ3ZyeV9hM1hFclJrMHBCLTVFVDY1YkdqRHMtaVVIeTdicVBmdlQyWTZIN1dKT21XcTZiNWh2TU0xVWF3?oc=5"
-    },
-    {
-      "headline": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-06-09T13:00:19.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGxaODhWMGdPMm1mQ2phVTB4bkszM2d4S3NzWVBIT2wzdG5YNmpZUmxjdW55cEM2UEFWb0JZdzVLTjRlU3JfVEFuS25icXZUTWJNdmwzeFBuLVZoTURxU2l2UmkxUGY5LWRxUW13c2pKa0xXOFM4WENkb28zZjl0WGJCSWh1VklpQTBHV1hvY3V4YVQ4cXdfMmQxQV9rZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic CEO Dario Amodei Has Only One Direct Report - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-06-10T12:22:12.000Z",
+        "headline": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI - NVIDIA Blog",
+        "source": "NVIDIA Blog",
+        "timestamp": "2026-06-10T16:18:45.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByMVFNeDd5VENidnBnZ0lqUi1CcUtYbmR5eGdjbU1XYk5jRVkyRkNQSWNwT010cmNMMmNsM25tcnNvd0MzTTRCWkszYW9SdDV4UHF6TUJ4Um1zVHl3T2dpeHdjRzV2X19aZlNTbDl0ZHl3eWJX?oc=5",
+        "summary": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI &nbsp;&nbsp; NVIDIA Blog"
+      },
+      {
+        "headline": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-06-10T16:16:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjJYNTE0TGIzZDBRd3lBVGVZLWpoNWY2WHo4TUhwb05pdjhZbnpaNXVyLTh5R2YtbEFWZ29RQzFTMkpWM0VEVDEzZnh1NFkxSURBSVM1MHRnMEdYV1NBWTBZNVFHRDdCd3pxVU5jbmFVcm02SVYzMEpXSi05U0xWcXhhVzNIX1VwTXZFeGE3UkJ4VFBnX2l2WjZaYXVrNFotRUIxZXRwdU4?oc=5",
+        "summary": "How giant IPOs from Anthropic and OpenAI will reshape the stock market's AI trade &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Apollo leads $35 billion debt deal for Anthropic's compute - Axios",
+        "source": "Axios",
+        "timestamp": "2026-06-10T16:11:29.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUhIY0RHYXd6a3ZfVF9iMk44NGxDOWZOX2tBRS1oakZVOHl1X0VTamY4akZBMk9lYXBDclBsZ245MlBUcGhoQzFrNnc0QngwNkF5U2NTY3NWOENfT1EtUk1CVW95Ym1SUmUtMUZ0elN6VjNmSV9iNkRDbU1UUG03UmxFY1JKQ2RveHhjQVJwVmZJd043Ykdsc2dCNEsyNzZlTzlPckY2RGVCTG9aSXExck5JSEVodnM?oc=5",
-        "summary": "Anthropic CEO Dario Amodei Has Only One Direct Report &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekgxT29XU2tHZW42UklJbU9KQlU1S2JEVVh0bXBFWE1yOVZ4R1pNRDIycUE3VHJ4WEU5ZlMwS1NGZ2VPelA4ZWd1SEZVTzdNYjdYUUNKVWM1N21MTTlkUmI2VFVsenowSFFiSnpfd19qOTQ5RmNLeQ?oc=5",
+        "summary": "Apollo leads $35 billion debt deal for Anthropic's compute &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ - The Information",
+        "source": "The Information",
+        "timestamp": "2026-06-10T15:34:44.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOejRWZEdqM0VSajdUU2JjMWJ4YlZqeWNxU21kQnhmTTlvbS1Xc0ZsWUt3VUlVWmdNTXNabWpkLXJHQ2k2bm9BZGpsRzVGYUNBSk9fUVlWR2hYcG5kZ2JLV0pqcmlybDlyTTVPNkFnVHZqcGNMbkNvZzlHSkg5MEE4WDZXM3RPTzFnblM3SEY3aUhLN2NPVEdhanFMRUhqNU5ITERJVlpIektCQXg1UjBzSA?oc=5",
+        "summary": "Exclusive: OpenAI Preps New AI Model, Expects To Go Public ‘Within the Next Year’ &nbsp;&nbsp; The Information"
       },
       {
         "headline": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks - Bloomberg.com",
@@ -133,40 +160,13 @@
         "summary": "OpenAI Backs AI Startup Fielding Compliance, Underwriting Tasks &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "OpenAI heads for Wall Street - DW.com",
-        "source": "DW.com",
-        "timestamp": "2026-06-10T11:57:53.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1SFQ4ejZwSDVJb2Vnd0MwQ1pOanJSUS1lZnFVTklpUmpsSkU1VTNySXJNNjFpMEJLXzRhYVh6Um1Qa2t0cU5POHZ6QzR0enFyN1FwNmo5RmdEVFQ0Q2JhZWdBZFJlVU9ua0pNeFZ4TGtDaE0?oc=5",
-        "summary": "OpenAI heads for Wall Street &nbsp;&nbsp; DW.com"
-      },
-      {
-        "headline": "Google DeepMind economist sees no AI jobs bloodbath yet, but warns of a layoff cascade - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-06-10T08:11:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4aHZMRUhfUzNBUEh0U0dVR3Jyekkyc3BqaXJfcnZ0UzZlTERnN25qVTQzejJ1TEl3NzcyUDZWM21rMEliYTZpbkYtMy1Yd1hmejROeXN1Xzk0VURJZ1NRUXJseXFiQzJBalhBYzV2ejAzWmVNUlUyOVk1UDJTSzA?oc=5",
-        "summary": "Google DeepMind economist sees no AI jobs bloodbath yet, but warns of a layoff cascade &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-09T20:07:42.000Z",
+        "headline": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-06-10T09:24:53.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNaEdMSGhOQlZ5enc2ZS14alliYnlENGwwbVg3WnBJcVVqTU81VHhzUEVyaC1NUXB4UV94clg3Tzg4Z2s3UXFmN2ZzUE85c0pCbFZ6TDVuLUxENDRXa2lxeVlEYThhN3VSVndIVkRQWmxqWHNsdE9RQVBSSDE?oc=5",
-        "summary": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts &nbsp;&nbsp; The New York Times Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account &nbsp;&nbsp; The Guardian Instagram is alerting users who were targeted by hackers during AI chatbot attacks &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Anthropic and OpenAI spark new race for frontier AI access - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-09T18:49:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zY3Y4V3VZVkI2d0l2OTNXQTNXeGh4el9kUW43blpVWDRPb01sUy1YM0M5YWhMX3BKeTN6ZG5jLU41cGZubnNFd3NTTzVVcS1aOWxjVkI1LUVfLTlxM1RGa3FsN2VGM29JcTVVYVZUdzZlOXVTbDUyaVBfLXc?oc=5",
-        "summary": "Anthropic and OpenAI spark new race for frontier AI access &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm84RnM5cXpFMWI3Y0NVemtrWkNTSU1YTjFDTU9SLWN2X2ZJMERUQjFZWWI1M0p6aC0xM0tSbEhXOUJKaWJoVU1Pc3hnMlRWLWJCZjl0eHgtUkhFSVE5cWxNVW9xV3BIN3Z5LWIwaGx5WW9iVERObGIzV2dUREg0WEVONWFGYkFOcGFwYmVWNnc5OTREUHBzUG9SNHMwWHlXOUHSAacBQVVfeXFMT0ZMTFRIUG1BUFJWRUFxNVZ5NWN2REF1dzRVVy1mUGZSc3FNSzlYa1N4RGh0N0FldjhXN0tLeDhqQkk3V19qVzBsbWpUam1wdVQzYlJ3SmtfQVk3U2FZSHhvb1NBRVdPY1lGZDZjWTMzMFFWaGhIdy1NdEU0TUJSQ0dZUlRQNXdyTUcwSE55VHM0X0gyUlpYTldsVGRRdzNQSlRNY0p2Tnc?oc=5",
+        "summary": "Meta agrees to Indian AI data center deal as hyperscaler bolsters its infrastructure &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
