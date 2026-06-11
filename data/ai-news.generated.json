@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T18:18:44.402Z",
+    "generatedAt": "2026-06-11T21:24:23.346Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-06-11T17:33:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool &nbsp;&nbsp; qz.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LS3YzY21TYVdtekFFdE1TeEJPaFpkRkp1M0s2eDRXcEtCOFNMVGp0d3pKNF9SWnRDNTE1dEdDbms4Qi1uNURBcDQtN2t1NVh4RUpkODJpcGxLRDF0RmVYTEs0ZlJCTFdPWWE2d1pn?oc=5"
+      "headline": "Businesses feeling the pain from AI spending, so OpenAI reportedly weighs price cuts - KOMO",
+      "source": "KOMO",
+      "timestamp": "2026-06-11T20:02:39.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Businesses feeling the pain from AI spending, so OpenAI reportedly weighs price cuts &nbsp;&nbsp; KOMO",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3ZNQmVReUdjZ1FEdjc0RzJVVHUydlZaaWhwV0llLVRmMHdfbjhncGQ4SGl2cEpyU2ljLUVvcjdLUFBSRHFIaTZxYXVrRWRIZ2d2VHhIRWI4NUl1anVNZ3ZaQlJJY2x2bnd6eEFZSXVOR3FTd1pRLVViWmRqZzB1WHVuM0I4aGo3MW02d3c1aHJpWTZTYnh4NWpZNGZvSmg3OGlvbUpUZUFtN0Zvclk0STVsOEgzS2xVWUQzeEZsaw?oc=5"
     },
     {
-      "headline": "Anthropic Pursues First Data Center Leases, Seeks Financial Backing From Google - The Information",
-      "source": "The Information",
-      "timestamp": "2026-06-11T16:30:00.000Z",
+      "headline": "As Some A.I. Firms Go Public, China Is Being Shut Out - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-11T19:02:59.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Pursues First Data Center Leases, Seeks Financial Backing From Google &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUJIZHlETzNiaG8xTzUyVnRTZG5SQ3N6MlcxLXY2dWdrcG5kWVBEbEw2cnpnUUgtYkFqYzJXQWJzc3FBenBBNUtoV2FjbzhQYlh4TnlHLUNiczhITmM3ZDJ1X0RkUGE3Xy1oSjIxTUp3R2I0a2R5emRHcGlDc2phbXZBM1ZJVDlGMzA1OVNUYzZDckNSSWFWdVU2TFNiUkl4OTVqcEFEZmFMa25oZnRvemc4OA?oc=5"
+      "summary": "As Some A.I. Firms Go Public, China Is Being Shut Out &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGU21Fa3BKQXFBZEJZZkNkNGhuNEV0QV9LOHg5ZG4zSU1CblFvS0w2Nnh3T1NEZ2l2U1RnUG42ZF9lTnBLQ1N2R2U4QXpMZUpQZmVlWHpMal9oMnNJaEI2ZVRpQkhaYy0xbG1DMk1sTWZRZ2ZoR0xZZUE5aGQ?oc=5"
+    },
+    {
+      "headline": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-11T17:52:09.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnY0TUhBUFZKdU9tZmRDQ1dKVWkxOU5FYzJ4aWhfc1dIbmZyZDByM01ULUNoeVNOakxfUjNLUGJ4MklSYWxRbTU0dTQ5MzM5UDNNUHdhWDJEd1FyaWJHSmwwTjVXMk1MY1BsYVBxTWJMSk9ST01zWk02ZHBoLWZBaU92MUJtUU5uOXRyTjBJVC1qdWdMQ0xrTzhISUMwTm8tVDhiTlp6NzZKaEc0V1ZtcjRod3JyZTJOc19LQlluSXd2Zw?oc=5"
     },
     {
       "headline": "OpenAI to acquire Ona to support its AI coding assistant, Codex - CNBC",
@@ -45,11 +55,21 @@
       "headline": "Introducing Claude Corps - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-06-11T13:01:09.000Z",
-      "impact": "HIGH",
+      "impact": "WATCH",
       "category": "models",
-      "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions &nbsp;&nbsp; AP News Anthropic launches $150M Claude Corps nonprofit fellowship program &nbsp;&nbsp; qz.com",
+      "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' &nbsp;&nbsp; Fortune Anthropic CEO Floats Tax on AI Firms to Fund Universal Income &nbsp;&nbsp; news.bloombergtax.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5"
+    },
+    {
+      "headline": "NTT DATA Completes Acquisition of WinWire to Scale Enterprise AI with Microsoft - NTT, Inc.",
+      "source": "NTT, Inc.",
+      "timestamp": "2026-06-11T12:55:33.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "NTT DATA Completes Acquisition of WinWire to Scale Enterprise AI with Microsoft &nbsp;&nbsp; NTT, Inc.",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEwxbVN0c2hqWXFRTU8xd3pwTjJqZk1CWlg0Qy1ObDFwT2hVaHZ5X2lQTHlzX1lRY0hpMWlIeE5yMEZkUVhQZFZCLXh6NzVLZDdsbnJybnhMZUpNVFB2TnVzVGUzZnlUd0JWSGY1djgzbU9rYUFWa3phSzJWTnZTVFFwMkZDWVdRR1dSSg?oc=5"
     },
     {
       "headline": "Investing in multi-agent AI safety research - Google DeepMind",
@@ -87,50 +107,39 @@
       "timestamp": "2026-06-11T01:36:00.000Z",
       "impact": "HIGH",
       "category": "market",
-      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic &nbsp;&nbsp; WSJ Anthropic v. OpenAI: Behind the bitter battle for the future of AI &nbsp;&nbsp; Reuters Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview &nbsp;&nbsp; CNBC",
+      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic &nbsp;&nbsp; WSJ OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ &nbsp;&nbsp; CNBC OpenAI Weighs Significant Price Cuts in Rivalry With Anthropic &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5"
-    },
-    {
-      "headline": "Microsoft Azure Cuts In China Highlight Regulatory And AI Rebalancing - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-06-11T00:20:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Microsoft Azure Cuts In China Highlight Regulatory And AI Rebalancing &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnUyOENxZ2c1UVBHOHFHVHhVekU5TVBmaEVFcG5aV1E0eVl4ZTBSZERjVDNLQzR3OUdKbkNfMHN6Q0c5WFd6dDNCNGdRMFFtOHBsYTVHMkNINVZVeFdaODd1TVBFeUN4aWo1UGhNQzhzbXRSd3JkdW1vaDNFV3BHZmE5RkdVTUVORk43N3AteC0wcU5HYVNDMDIxVVZ6bVdfQVZj?oc=5"
-    },
-    {
-      "headline": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost - Ars Technica",
-      "source": "Ars Technica",
-      "timestamp": "2026-06-10T19:29:21.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost &nbsp;&nbsp; Ars Technica",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUNjSmdLQjVNUW1QV2ZhTEJvT1Z3aVI2eXJjd21USmpuMWhHV2FiNGkwUnIxbDZiZ01OT2I5Ty1sZDVSd3RaSU1aY2dUcElDY0NKTDNKRXhFX1AyWWZyeDFiOVRZeXQ0VjRsOFUzRnllMGNTTDdtRGJnTGZsSmgxcmptZG5iQllIb2lvZ2F4T3lFQXh3RUxhQTJrWXNPamV4Z3FOMktFSlFJenNidXloSw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-06-11T17:33:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LS3YzY21TYVdtekFFdE1TeEJPaFpkRkp1M0s2eDRXcEtCOFNMVGp0d3pKNF9SWnRDNTE1dEdDbms4Qi1uNURBcDQtN2t1NVh4RUpkODJpcGxLRDF0RmVYTEs0ZlJCTFdPWWE2d1pn?oc=5",
-        "summary": "OpenAI acquires Ona cloud startup to boost Codex AI coding tool &nbsp;&nbsp; qz.com"
+        "headline": "Businesses feeling the pain from AI spending, so OpenAI reportedly weighs price cuts - KOMO",
+        "source": "KOMO",
+        "timestamp": "2026-06-11T20:02:39.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3ZNQmVReUdjZ1FEdjc0RzJVVHUydlZaaWhwV0llLVRmMHdfbjhncGQ4SGl2cEpyU2ljLUVvcjdLUFBSRHFIaTZxYXVrRWRIZ2d2VHhIRWI4NUl1anVNZ3ZaQlJJY2x2bnd6eEFZSXVOR3FTd1pRLVViWmRqZzB1WHVuM0I4aGo3MW02d3c1aHJpWTZTYnh4NWpZNGZvSmg3OGlvbUpUZUFtN0Zvclk0STVsOEgzS2xVWUQzeEZsaw?oc=5",
+        "summary": "Businesses feeling the pain from AI spending, so OpenAI reportedly weighs price cuts &nbsp;&nbsp; KOMO"
       },
       {
-        "headline": "Anthropic Pursues First Data Center Leases, Seeks Financial Backing From Google - The Information",
-        "source": "The Information",
-        "timestamp": "2026-06-11T16:30:00.000Z",
+        "headline": "As Some A.I. Firms Go Public, China Is Being Shut Out - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-11T19:02:59.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUJIZHlETzNiaG8xTzUyVnRTZG5SQ3N6MlcxLXY2dWdrcG5kWVBEbEw2cnpnUUgtYkFqYzJXQWJzc3FBenBBNUtoV2FjbzhQYlh4TnlHLUNiczhITmM3ZDJ1X0RkUGE3Xy1oSjIxTUp3R2I0a2R5emRHcGlDc2phbXZBM1ZJVDlGMzA1OVNUYzZDckNSSWFWdVU2TFNiUkl4OTVqcEFEZmFMa25oZnRvemc4OA?oc=5",
-        "summary": "Anthropic Pursues First Data Center Leases, Seeks Financial Backing From Google &nbsp;&nbsp; The Information"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGU21Fa3BKQXFBZEJZZkNkNGhuNEV0QV9LOHg5ZG4zSU1CblFvS0w2Nnh3T1NEZ2l2U1RnUG42ZF9lTnBLQ1N2R2U4QXpMZUpQZmVlWHpMal9oMnNJaEI2ZVRpQkhaYy0xbG1DMk1sTWZRZ2ZoR0xZZUE5aGQ?oc=5",
+        "summary": "As Some A.I. Firms Go Public, China Is Being Shut Out &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-06-11T17:52:09.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnY0TUhBUFZKdU9tZmRDQ1dKVWkxOU5FYzJ4aWhfc1dIbmZyZDByM01ULUNoeVNOakxfUjNLUGJ4MklSYWxRbTU0dTQ5MzM5UDNNUHdhWDJEd1FyaWJHSmwwTjVXMk1MY1BsYVBxTWJMSk9ST01zWk02ZHBoLWZBaU92MUJtUU5uOXRyTjBJVC1qdWdMQ0xrTzhISUMwTm8tVDhiTlp6NzZKaEc0V1ZtcjRod3JyZTJOc19LQlluSXd2Zw?oc=5",
+        "summary": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "OpenAI to acquire Ona to support its AI coding assistant, Codex - CNBC",
@@ -145,41 +154,32 @@
         "headline": "Introducing Claude Corps - Anthropic",
         "source": "Anthropic",
         "timestamp": "2026-06-11T13:01:09.000Z",
-        "impact": "HIGH",
+        "impact": "WATCH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-        "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic Anthropic pledges $200 million to research AI's economic impact as CEO suggests job loss solutions &nbsp;&nbsp; AP News Anthropic launches $150M Claude Corps nonprofit fellowship program &nbsp;&nbsp; qz.com"
+        "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic Anthropic is worth $965 billion and just hired 1,000 coaches for nonprofits: 'The fox can't guard the henhouse' &nbsp;&nbsp; Fortune Anthropic CEO Floats Tax on AI Firms to Fund Universal Income &nbsp;&nbsp; news.bloombergtax.com"
       },
       {
-        "headline": "Investing in multi-agent AI safety research - Google DeepMind",
-        "source": "Google DeepMind",
-        "timestamp": "2026-06-11T11:17:28.000Z",
+        "headline": "NTT DATA Completes Acquisition of WinWire to Scale Enterprise AI with Microsoft - NTT, Inc.",
+        "source": "NTT, Inc.",
+        "timestamp": "2026-06-11T12:55:33.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6ZTIyTWFiOG9PQmJKR0FIVHJ6WlNuMEZFTmFGM2hSb3Vyb3F5N0VmckU5clpMSmFKN1RMYmJPdjctckRseFpwZ2YxeDJmc0Npb0FqcWFLNk1Ma2g5UW1mM2hzUW1IN2NVWU95SmJWRDQ2bDVRdTRvWV8wZG9ZQQ?oc=5",
-        "summary": "Investing in multi-agent AI safety research &nbsp;&nbsp; Google DeepMind"
-      },
-      {
-        "headline": "Google DeepMind is worried about what happens when millions of agents start to interact - MIT Technology Review",
-        "source": "MIT Technology Review",
-        "timestamp": "2026-06-11T11:00:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBFZElKbGtTUF8tWlA4Vk80R3AzOG9ISWxOQUgwQVRxQi13S0t2UFdtb1hqM05nd1ZDV0lHRnBQamo4NzJqRG1ucmQwcS1BZ1BFa1JKLVgxN3dnTXZkbW5Bb3RqMTdtNTNPTXVya1ZTdmJRTUVvRXVwM0xmNzVNWDR3Y3g0UHh1MUdYMXVmTl9tcFJIMmtqWEpZU0E3UGNMMGw5QlY2TW5scnVEanphYWlfVVNKSmpYY1VtLTB6U0xXc3ZfakcxVTQ5R2sydTFlMUVCWElkNNIB3AFBVV95cUxPTGVXZHA1LUl0bHVoWGJEcTB6RFQ1LUIyYmYyaDZTR2JnTFJOZG9iVDRHczljMHVybzdXWjFYaE1faW14UE5FRUFwbGZ2TEhEZFVSQlpOU2FFdnFBN1VnWS12VkNiVGtabkw0V2Fua3psWjhRWnZGdG5Qd19PQk5ybG5KRzd2TUo1dnpWU1ZZeERJYzNxQXMwak5oSnc4LUxnX01oS1BXMkNsZ0R0bmxTcWZHSVhRS3NoU3dzeFhjZlplNEd1TzFtVzN3Qk1VYjFOaXRSWGliZURkYlFw?oc=5",
-        "summary": "Google DeepMind is worried about what happens when millions of agents start to interact &nbsp;&nbsp; MIT Technology Review"
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEwxbVN0c2hqWXFRTU8xd3pwTjJqZk1CWlg0Qy1ObDFwT2hVaHZ5X2lQTHlzX1lRY0hpMWlIeE5yMEZkUVhQZFZCLXh6NzVLZDdsbnJybnhMZUpNVFB2TnVzVGUzZnlUd0JWSGY1djgzbU9rYUFWa3phSzJWTnZTVFFwMkZDWVdRR1dSSg?oc=5",
+        "summary": "NTT DATA Completes Acquisition of WinWire to Scale Enterprise AI with Microsoft &nbsp;&nbsp; NTT, Inc."
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
