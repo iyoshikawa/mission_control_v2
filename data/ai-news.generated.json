@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T19:09:05.002Z",
+    "generatedAt": "2026-06-12T21:51:31.040Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions - The Information",
+      "source": "The Information",
+      "timestamp": "2026-06-12T18:57:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions &nbsp;&nbsp; The Information",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhZTkFMcTNNam4zbVlUZF81Tm1nQnBQaHh0b1JhZmFPSDhxc0JsQ3c3VzR3THdWOFpsaVFLdHJfTnB0MUhLbjVzejA3SVlhQzF2WGRVN19iY09KSTFMQ1JZLXA3c3RyU3owUkczenFwdzI2bHVaQmFuaUQ2eExKeTdkMUExUHNWZThCU1VSMDBDMndrdDIyUEE2cmNpWHplVGN0Y3MwS21GdU5lTHdTM1hIdw?oc=5"
+    },
+    {
       "headline": "What the SpaceX I.P.O. Means for OpenAI and Anthropic - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-06-12T18:53:32.000Z",
@@ -22,24 +32,34 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV19JRTlzVG02X0M5VnFRMUtNX243OWpaX3hDWkRtOS1Ldk5JdEN0X2tEdDUtcFlmZnhhUDlnbl9MT0JvUDI4NmZPbU92d2tyNlZZOEFvbnVhdGhDVmFFT1RiM1BTaW9aNDRSOXJJMTNwV0pRMTFxUVpFVFhQMzJocFV2a24?oc=5"
     },
     {
-      "headline": "Top 8 AI App Dev Platforms in 2026 - Security Boulevard",
-      "source": "Security Boulevard",
-      "timestamp": "2026-06-12T12:59:10.000Z",
+      "headline": "Claude Corps: Charitable work or charity washing? - Computerworld",
+      "source": "Computerworld",
+      "timestamp": "2026-06-12T16:29:24.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Top 8 AI App Dev Platforms in 2026 &nbsp;&nbsp; Security Boulevard",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TTnFuZzdkZVFOX2NQSkVNZ2hXNDJNZnNxLXFoWmFObHYyX1l2cDFKNUpOMVdHc1ZzZmdleHlTdUw2ODBER2RUWVp5TmlSM0N0YzBGX2RJYWxBamltTTRZak5pWDM4bG84RXJ6ZHJGLVdMWEUzVTdEejM1Mm1rUQ?oc=5"
+      "category": "models",
+      "summary": "Claude Corps: Charitable work or charity washing? &nbsp;&nbsp; Computerworld",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWFnMjVMSUp3N3Z0UmpJdWEwQTdHcUlNMlp4XzlVa2RBc0NSb0RwUWhNWXFUQUE2UExLZlFCVDlxWXluV0tMUGUwMHI5ZUg5SFZJc2lKSkVrazN3Nk1RN3N3NWJNSmNWWHREakxudWM3TndwcDBaSUgyVGdUa2lxNEh4V004V05TVng4OVgwUlpOVWdxQTNxR0o5eEtLeGc?oc=5"
     },
     {
-      "headline": "Anthropic CEO floats AI tax to fund universal basic income - Fox Business",
-      "source": "Fox Business",
-      "timestamp": "2026-06-11T23:12:40.000Z",
+      "headline": "Results from the first Anthropic Public Record - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-12T16:04:04.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic CEO floats AI tax to fund universal basic income &nbsp;&nbsp; Fox Business",
+      "summary": "Results from the first Anthropic Public Record &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cjZGOUJqRmJKUGltSDRFU3F5dFdCQl9MVXRETVp0RnZyMDVlWUFTdlN6ZV8xUnc2bzBuSzJ5UHhiTmJjUnVMdzVpdEVmeDBIYUlhZEdmNkJuYkk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5"
+    },
+    {
+      "headline": "New OpenAI Academy courses for the next era of work - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-12T14:49:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "New OpenAI Academy courses for the next era of work &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04c214STNfR3hUQi10QnRUUXNDSzZidVp4VTl1dWJKVDJGT3Naem1URGkxUEk5Y0o1MTVZOERYMjU2ejlHcDBhWjJpZUppTVFCSVFnUU44UUlCTDQzd2VkdlN0d2psVy1rX3lZb29B?oc=5"
     },
     {
       "headline": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI. - CBS News",
@@ -50,16 +70,6 @@
       "summary": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI. &nbsp;&nbsp; CBS News",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEdhRldYYkpwTkVyWFJhbGVFTTVZWm0tZDI0SmxLTEpvcmZqMnMxeVZKQTkyVldBNGhRcHJtd2FWQmpGWlA1NUN5RDl0d2VKbWJ6dXFnSkpmandPVExQNVZXb1pVUVFBbC1VU25xWGRkM0hKX0xZalU1RG1JUWZ2SWRVWXp6eC1fOHp3QXdsOWY5SU5hUUc5dzZGaUhoYXBWcVhsNVVHQjA5VnFNS0swSnZTOA?oc=5"
-    },
-    {
-      "headline": "Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-11T19:02:59.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGU21Fa3BKQXFBZEJZZkNkNGhuNEV0QV9LOHg5ZG4zSU1CblFvS0w2Nnh3T1NEZ2l2U1RnUG42ZF9lTnBLQ1N2R2U4QXpMZUpQZmVlWHpMal9oMnNJaEI2ZVRpQkhaYy0xbG1DMk1sTWZRZ2ZoR0xZZUE5aGQ?oc=5"
     },
     {
       "headline": "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively - AP News",
@@ -92,28 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6ZTIyTWFiOG9PQmJKR0FIVHJ6WlNuMEZFTmFGM2hSb3Vyb3F5N0VmckU5clpMSmFKN1RMYmJPdjctckRseFpwZ2YxeDJmc0Npb0FqcWFLNk1Ma2g5UW1mM2hzUW1IN2NVWU95SmJWRDQ2bDVRdTRvWV8wZG9ZQQ?oc=5"
     },
     {
-      "headline": "Google DeepMind is worried about what happens when millions of agents start to interact - MIT Technology Review",
-      "source": "MIT Technology Review",
-      "timestamp": "2026-06-11T11:00:45.000Z",
+      "headline": "After seeing Parkinson's take his father, this Googler found a new mission: teaching AI to chase cures - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-06-11T09:00:00.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Google DeepMind is worried about what happens when millions of agents start to interact &nbsp;&nbsp; MIT Technology Review",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHBFZElKbGtTUF8tWlA4Vk80R3AzOG9ISWxOQUgwQVRxQi13S0t2UFdtb1hqM05nd1ZDV0lHRnBQamo4NzJqRG1ucmQwcS1BZ1BFa1JKLVgxN3dnTXZkbW5Bb3RqMTdtNTNPTXVya1ZTdmJRTUVvRXVwM0xmNzVNWDR3Y3g0UHh1MUdYMXVmTl9tcFJIMmtqWEpZU0E3UGNMMGw5QlY2TW5scnVEanphYWlfVVNKSmpYY1VtLTB6U0xXc3ZfakcxVTQ5R2sydTFlMUVCWElkNNIB3AFBVV95cUxPTGVXZHA1LUl0bHVoWGJEcTB6RFQ1LUIyYmYyaDZTR2JnTFJOZG9iVDRHczljMHVybzdXWjFYaE1faW14UE5FRUFwbGZ2TEhEZFVSQlpOU2FFdnFBN1VnWS12VkNiVGtabkw0V2Fua3psWjhRWnZGdG5Qd19PQk5ybG5KRzd2TUo1dnpWU1ZZeERJYzNxQXMwak5oSnc4LUxnX01oS1BXMkNsZ0R0bmxTcWZHSVhRS3NoU3dzeFhjZlplNEd1TzFtVzN3Qk1VYjFOaXRSWGliZURkYlFw?oc=5"
-    },
-    {
-      "headline": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-11T01:36:00.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Exclusive | OpenAI Considers Drastic Price Cuts, Anticipating War for Users With Anthropic &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnFqNTRNQ3kyTnVCSTY1Z1V2QXEzUUd4MndFc2dNLWJqSWNHWTIxa19CelFzT3IzTFVsTEdiY2xJOU52OW1qVERrLTFfSlptTV83cmxtYkYyX3lIRzJjT2xScENLeGdyeEdTaGdFRHp1aGQxRGd4Tm5YS3RWRGlibWJtYXRVeVlXUEtvLUVOM3ZqZlJTTEh5eDJlWVRpRm9PNThFbTNNUXdPRFB3Q2tGa19na0M?oc=5"
+      "category": "ecosystem",
+      "summary": "After seeing Parkinson's take his father, this Googler found a new mission: teaching AI to chase cures &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGYxQ0hKMV9oaVJWVnpHaWZ6ei0xX3JhZVJiWGJtbk1kQUF4TDh6eFZfdW9OVXVSU254XzZkLVZPMXQwTFFVVGFSYlJELUxFY2JYTDE5TGFDR19kLVllUlJHOEZsZTcwUVJzeElwNmd0blZNU0JSWmpQUURaWVFYX0QxeWhWS3VOS3BsX0Zn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions - The Information",
+        "source": "The Information",
+        "timestamp": "2026-06-12T18:57:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGhZTkFMcTNNam4zbVlUZF81Tm1nQnBQaHh0b1JhZmFPSDhxc0JsQ3c3VzR3THdWOFpsaVFLdHJfTnB0MUhLbjVzejA3SVlhQzF2WGRVN19iY09KSTFMQ1JZLXA3c3RyU3owUkczenFwdzI2bHVaQmFuaUQ2eExKeTdkMUExUHNWZThCU1VSMDBDMndrdDIyUEE2cmNpWHplVGN0Y3MwS21GdU5lTHdTM1hIdw?oc=5",
+        "summary": "Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions &nbsp;&nbsp; The Information"
+      },
       {
         "headline": "What the SpaceX I.P.O. Means for OpenAI and Anthropic - The New York Times",
         "source": "The New York Times",
@@ -124,22 +133,31 @@
         "summary": "What the SpaceX I.P.O. Means for OpenAI and Anthropic &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Top 8 AI App Dev Platforms in 2026 - Security Boulevard",
-        "source": "Security Boulevard",
-        "timestamp": "2026-06-12T12:59:10.000Z",
+        "headline": "Claude Corps: Charitable work or charity washing? - Computerworld",
+        "source": "Computerworld",
+        "timestamp": "2026-06-12T16:29:24.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TTnFuZzdkZVFOX2NQSkVNZ2hXNDJNZnNxLXFoWmFObHYyX1l2cDFKNUpOMVdHc1ZzZmdleHlTdUw2ODBER2RUWVp5TmlSM0N0YzBGX2RJYWxBamltTTRZak5pWDM4bG84RXJ6ZHJGLVdMWEUzVTdEejM1Mm1rUQ?oc=5",
-        "summary": "Top 8 AI App Dev Platforms in 2026 &nbsp;&nbsp; Security Boulevard"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWFnMjVMSUp3N3Z0UmpJdWEwQTdHcUlNMlp4XzlVa2RBc0NSb0RwUWhNWXFUQUE2UExLZlFCVDlxWXluV0tMUGUwMHI5ZUg5SFZJc2lKSkVrazN3Nk1RN3N3NWJNSmNWWHREakxudWM3TndwcDBaSUgyVGdUa2lxNEh4V004V05TVng4OVgwUlpOVWdxQTNxR0o5eEtLeGc?oc=5",
+        "summary": "Claude Corps: Charitable work or charity washing? &nbsp;&nbsp; Computerworld"
       },
       {
-        "headline": "Anthropic CEO floats AI tax to fund universal basic income - Fox Business",
-        "source": "Fox Business",
-        "timestamp": "2026-06-11T23:12:40.000Z",
+        "headline": "Results from the first Anthropic Public Record - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-12T16:04:04.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cjZGOUJqRmJKUGltSDRFU3F5dFdCQl9MVXRETVp0RnZyMDVlWUFTdlN6ZV8xUnc2bzBuSzJ5UHhiTmJjUnVMdzVpdEVmeDBIYUlhZEdmNkJuYkk?oc=5",
-        "summary": "Anthropic CEO floats AI tax to fund universal basic income &nbsp;&nbsp; Fox Business"
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sUXRvWW91TTJBazFqVWdITGR6VmdQWGp3UnJ5MG5INEZPZHhlajVpdzFLSUtoeEdkMFdZX3hZSlRLNE9IbTFUMDRYLTBJZWJkMUtPYjBxVlNXOGRDSmxmWk1sV1U?oc=5",
+        "summary": "Results from the first Anthropic Public Record &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "New OpenAI Academy courses for the next era of work - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-06-12T14:49:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04c214STNfR3hUQi10QnRUUXNDSzZidVp4VTl1dWJKVDJGT3Naem1URGkxUEk5Y0o1MTVZOERYMjU2ejlHcDBhWjJpZUppTVFCSVFnUU44UUlCTDQzd2VkdlN0d2psVy1rX3lZb29B?oc=5",
+        "summary": "New OpenAI Academy courses for the next era of work &nbsp;&nbsp; OpenAI"
       },
       {
         "headline": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI. - CBS News",
@@ -149,32 +167,14 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEdhRldYYkpwTkVyWFJhbGVFTTVZWm0tZDI0SmxLTEpvcmZqMnMxeVZKQTkyVldBNGhRcHJtd2FWQmpGWlA1NUN5RDl0d2VKbWJ6dXFnSkpmandPVExQNVZXb1pVUVFBbC1VU25xWGRkM0hKX0xZalU1RG1JUWZ2SWRVWXp6eC1fOHp3QXdsOWY5SU5hUUc5dzZGaUhoYXBWcVhsNVVHQjA5VnFNS0swSnZTOA?oc=5",
         "summary": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI. &nbsp;&nbsp; CBS News"
-      },
-      {
-        "headline": "Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors. - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-11T19:02:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGU21Fa3BKQXFBZEJZZkNkNGhuNEV0QV9LOHg5ZG4zSU1CblFvS0w2Nnh3T1NEZ2l2U1RnUG42ZF9lTnBLQ1N2R2U4QXpMZUpQZmVlWHpMal9oMnNJaEI2ZVRpQkhaYy0xbG1DMk1sTWZRZ2ZoR0xZZUE5aGQ?oc=5",
-        "summary": "Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors. &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively - AP News",
-        "source": "AP News",
-        "timestamp": "2026-06-11T18:03:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcU1IVkgybVFHRUtfSnNValYtQm1XOGFMX3hKRHFvUmlrS2djaGlRcVcxYW1HYnZod1oxdUZ2dFkxaDgzc0FyQ2labE9IaEFwV2xYQnlEbnUyTVVnaWZmVUFrN19sSFlGV1RDSDdDbkU5b1laN0R6SWdKMXRoQ0pZZUdqcjAtWFFKYjBCcl9xU1RHYW1kejEyVU9FM2V2WXhJNlE?oc=5",
-        "summary": "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively &nbsp;&nbsp; AP News"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
@@ -184,15 +184,15 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
