@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T11:18:34.466Z",
+    "generatedAt": "2026-06-13T14:09:06.860Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic suspends access to latest AI models following US order - politico.eu",
-      "source": "politico.eu",
-      "timestamp": "2026-06-13T10:12:15.000Z",
+      "headline": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-06-13T11:00:00.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic suspends access to latest AI models following US order &nbsp;&nbsp; politico.eu",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW0yaFkwdWtHVjg4U3dsUlZuV29QY2dwbngyWmVUMGlMbFZkWTZqLWJVdlE1VjVzNkhUM2swdnVHb2VLSXQtXy1zdXVvRWlfYm1XNE4tN2dFYW9kZks2YUw3bTNaLXoyTkRrTTJOdWhmY016NjB5alUyNTFaQ0hrSHotYmRLTjdKR3A2Tnp1TGQ0dmFQYlhiXzhKbkpiUQ?oc=5"
-    },
-    {
-      "headline": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-06-13T04:25:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access &nbsp;&nbsp; Fortune Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 &nbsp;&nbsp; Bloomberg.com Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEg1ZTBqMnhKa2FranJlb2QxUmJEUzNZNFE5SUhvRTBKTU9JeXUzdEdybHZxYWpZN2syVWl3SkR5MXhudERUSVVuRXZvUEdxbWpMRmFPdHdVV0RXTFJvT1hfalF4R29xbnE1c1RFS3hSN3F3V2txX1hjdU9jTkZfT3pYejlVc2JUQ3JLRHp0a29LR0VjWTFKdWZQVmVQUzV2MWI0TG9JUQ?oc=5"
+      "category": "models",
+      "summary": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQktxcHpIZS1YQ2NDRGdSWXlNbkMxenAyYTY4eUprQ01sYlQ5S2FOQUhYaVJzcVZIY2hXeTIxbU1xX3A0LW9kRkt4UEFqa0RMOWdDZEkxbjBDS2s3cjA0LVV5aVI1cDZHNi00MVZ4dTlIWEhCeTlEaTI1bTZieGxadUhXNHItZkJ6VUl2Vi1uaXllUElObWNtbnNRYUlMMUg4c24wa2lWbHh3U1ZwVHQtWnhVRW1KTGdfM2c?oc=5"
     },
     {
       "headline": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
@@ -40,6 +30,16 @@
       "summary": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZTNFalowWHVUV2FhOGlEcWgxVWdISzBVLXJfN2FXOXBjdkVhRG0wVFRyNURuMHNxREtKeENYSkdWdm45OXBTd2xaUzlZQjBTQ2dQWjgzOUtCZw?oc=5"
+    },
+    {
+      "headline": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-13T03:48:18.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models &nbsp;&nbsp; The New York Times Anthropic suspends new AI models after government directive &nbsp;&nbsp; NBC News Anthropic to disable its most advanced AI models after US order limiting foreign access &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5"
     },
     {
       "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
@@ -115,22 +115,13 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic suspends access to latest AI models following US order - politico.eu",
-        "source": "politico.eu",
-        "timestamp": "2026-06-13T10:12:15.000Z",
+        "headline": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-06-13T11:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW0yaFkwdWtHVjg4U3dsUlZuV29QY2dwbngyWmVUMGlMbFZkWTZqLWJVdlE1VjVzNkhUM2swdnVHb2VLSXQtXy1zdXVvRWlfYm1XNE4tN2dFYW9kZks2YUw3bTNaLXoyTkRrTTJOdWhmY016NjB5alUyNTFaQ0hrSHotYmRLTjdKR3A2Tnp1TGQ0dmFQYlhiXzhKbkpiUQ?oc=5",
-        "summary": "Anthropic suspends access to latest AI models following US order &nbsp;&nbsp; politico.eu"
-      },
-      {
-        "headline": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-13T04:25:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEg1ZTBqMnhKa2FranJlb2QxUmJEUzNZNFE5SUhvRTBKTU9JeXUzdEdybHZxYWpZN2syVWl3SkR5MXhudERUSVVuRXZvUEdxbWpMRmFPdHdVV0RXTFJvT1hfalF4R29xbnE1c1RFS3hSN3F3V2txX1hjdU9jTkZfT3pYejlVc2JUQ3JLRHp0a29LR0VjWTFKdWZQVmVQUzV2MWI0TG9JUQ?oc=5",
-        "summary": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access &nbsp;&nbsp; Fortune Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 &nbsp;&nbsp; Bloomberg.com Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use &nbsp;&nbsp; WSJ"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQktxcHpIZS1YQ2NDRGdSWXlNbkMxenAyYTY4eUprQ01sYlQ5S2FOQUhYaVJzcVZIY2hXeTIxbU1xX3A0LW9kRkt4UEFqa0RMOWdDZEkxbjBDS2s3cjA0LVV5aVI1cDZHNi00MVZ4dTlIWEhCeTlEaTI1bTZieGxadUhXNHItZkJ6VUl2Vi1uaXllUElObWNtbnNRYUlMMUg4c24wa2lWbHh3U1ZwVHQtWnhVRW1KTGdfM2c?oc=5",
+        "summary": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models &nbsp;&nbsp; The Verge"
       },
       {
         "headline": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
@@ -140,6 +131,15 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZTNFalowWHVUV2FhOGlEcWgxVWdISzBVLXJfN2FXOXBjdkVhRG0wVFRyNURuMHNxREtKeENYSkdWdm45OXBTd2xaUzlZQjBTQ2dQWjgzOUtCZw?oc=5",
         "summary": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-13T03:48:18.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5",
+        "summary": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models &nbsp;&nbsp; The New York Times Anthropic suspends new AI models after government directive &nbsp;&nbsp; NBC News Anthropic to disable its most advanced AI models after US order limiting foreign access &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
@@ -184,8 +184,8 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
