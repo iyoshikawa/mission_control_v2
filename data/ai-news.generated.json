@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T00:12:13.271Z",
+    "generatedAt": "2026-06-14T05:53:47.195Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic’s Fable 5 Safeguards Were Always A ‘Judgement Call’ - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-06-13T23:48:51.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s Fable 5 Safeguards Were Always A ‘Judgement Call’ &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWdYSERUaE8wbE92czFzVUNyeHlyWHlkRjNsX0E1MEU1ZHRVMzNqbjZkZzRxdjNjT0V6dlZkY0hvMmdzMGt2VkRhM25QelhnU0l1QzFER3YxN05zd21aVTh6TG1mcnZndnJMS2ZWMm04OG40WDFWSlMxTHZZUUVGdG85RGtuNHowSlhR?oc=5"
+      "headline": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-14T00:41:06.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVhzZDAxRnI0OHVIdjk0TDI4UTBsLWN6Mi1ZU2tjZVZtTnNYQ1I2bl81elRjbWtxQTIwSkxSNzhlOGw0YVQ3WVlGYjYwWk1PVVNLS0hjczN5OEVqQXAzNHRheWxJMU8tbnZQTDFxM202ZnNJVC1Oby1zcVQtRk95NWsybw?oc=5"
+    },
+    {
+      "headline": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-06-13T23:46:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5"
     },
     {
       "headline": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic - Politico",
@@ -34,12 +44,32 @@
     {
       "headline": "State Attorneys General Are Investigating OpenAI - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-06-13T23:25:43.000Z",
+      "timestamp": "2026-06-13T23:25:44.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "State Attorneys General Are Investigating OpenAI &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdPdDNQRGVKMXIxVGNLWURkQjZLZExOZ1JabldULVQyV3lOZ1lYWlhpYzA1eWpCZ2dVNTEzSk8xd2Z1ZzVob2hwVHBJMV9uZlFYcVZWMEVfRFdRWTdhek5ENGMyUjN2NWs1U1FlSXN2Q0RJSnlXZ0NGaS1wcnJqekFsaDA?oc=5"
+    },
+    {
+      "headline": "OpenAI hit with multistate probe into possible user harm as its IPO looms - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "timestamp": "2026-06-13T23:12:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGhMeEdKQkJ5SXgxR2hxM21yOXZBcXlyVUNCSVg5dnVXaFFiWE9nZkEzam55c0xEN215dkFCNlhETVRxTWIwYXlhclFRZUM2VFBwdTl1VXJEWnM2a2t0QVFhN0RiSHB4bkFLaXFBc1oyOF9tVzk3REF1NENaSGx6UFhHamJabmtTejl1ZEFxME1FQ24tekt5eE5kRlFjWWvSAaQBQVVfeXFMTTJiaXhSM09oQk1aSzh2djdrZEx2YThDeE5NenNHZWIzUF9HUXhManFQLW4xWnVNeVQ1LTUtc3N4NjJ2SXRXRFEySkE4NGZ0MFltR0MxemxoNjFJSF9mb0gyYnhOa1JQeEJpV2FZcGdtUUtQVlR1dkNHaUhjQVRNeURCbDdLbnVQQ3UtUzJ1ekxsenBIMTE2RXN4VTVncVBjTDIxb28?oc=5"
+    },
+    {
+      "headline": "'It's not a jailbreak' — Research leading to U.S. export restrictions on top Anthropic models was for defense, cybersecurity CEO says - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-06-13T17:44:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "'It's not a jailbreak' — Research leading to U.S. export restrictions on top Anthropic models was for defense, cybersecurity CEO says &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUhUV250U2xkTVNyLWVOTW45WUw0bW5lRlhkdnlGc1g4VW1EclRMdlV0RlBxV1lwLU9tQ25Za0Y1NlVpa1Yzcm5fWmlWNGxuZHJ2SlVDeUdFeGxyd2NlRzZJSVdhbzNOYTQwQ29xVDRhelEwc0J0U0w5TThlcW5Kd0RzN253SUs2VDFHMUJvVkpKbmhES1UtVHB5OUFpNndSUzJjODlOX0UwVjZwclgyNjM0N2JtYTBtcXJzdFpOZjdjUjlQbngw?oc=5"
     },
     {
       "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
@@ -52,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjY2dDg3bWt1LUg5SlNIZkxrbUJZQV9zN3VEZXVYQ2FBQkZ1RGU4ZEFqMVV2S0s5NnU4YUtCd0VTT1MwWGRraXJzc3RFdEdEemViUzAzaElaX1FHYWlrVHBlR2VTSkVVTWJqdXJaUmNmSTVnZzh4elFVTWZFRWVqSWxKYkxLVjZieFBiM0xLZXVHMGE4U1dtdFNyTW9EWEIyazl2c0JHVmFZbnVUdFlQSNIBtgFBVV95cUxNTU9PMFlSWEhOYXFfb0tpY1hqTzFSR3R4bms4bV9aS1dWUFRUY1BSLV9Xekt5UGpEeFZKcUJheWZwbTc4QzZHS0JsTkE2Yy1SZ3hJRk8yaHUyQ0U4UUdBYUZtV3hJdVhZUVBObFBEVV9TVnVnd0J5X0hyTzF2UFhSb2NMT1lIVVhvemdWRUE5aFplYkhpZ2R0ZFhIcVB3djZrWTR4UXN5b3dlYmJGdHV1eWlaQTZRZw?oc=5"
     },
     {
-      "headline": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-13T02:26:06.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models &nbsp;&nbsp; The New York Times Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access &nbsp;&nbsp; Fortune Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5"
-    },
-    {
       "headline": "Meta’s Applied AI team revolted, employee hijacked company stream with profanity - mezha.net",
       "source": "mezha.net",
       "timestamp": "2026-06-12T23:38:39.000Z",
@@ -72,14 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhdW5hb2MyWkxtZHAxc1NqMVZ2UXVXQnlUV0RrUl94QWs4aDF1djhLV1pjdnNxMUpPX3NZN0FtcEZwUEtvM1F5dlpwSDlFT1lPOEE0M1k2YldFR1k5OXpMc19xelhSUQ?oc=5"
     },
     {
-      "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - TechCrunch",
-      "source": "TechCrunch",
+      "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it - Yahoo Finance",
+      "source": "Yahoo Finance",
       "timestamp": "2026-06-12T23:00:54.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it &nbsp;&nbsp; TechCrunch",
+      "summary": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTDEtMkUzZ3c2cGd2SDgzeklzT2RWRTA3QkxzSjktWFYxSng2UFhSaGdwdXJKTWktR3ZFMWE0ck1Tc0NUWGJJODRXY2dmaXJ3aFhncTRIZ293NWlvYzUtQnozRkR0LXVMcmNpRlBOSTJvdlhWc2FuSnpDcmUtVlE4YnJsSWQ3WDhscVZ1RUtrYjk3Q0hSbmdVeEVBeTYxU3hxREN0YldURFNCT0UzN2YwYXJyZmF4UDBDN2c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEJYZ2haZzZBSTh2SmFvcEdDeWcwamdxMHliMzlLZk1QaTNveGYzZ19sTXdjV1ZoN2xJUVd2RV9LbW1Gc2Z5STlEVHdwNjFPTFFUbVlDYW1GMjBEbmU2ckh3R2pFYkd5S2F2ZElYdHF6ZlpGNTlCR1NBc2QyN1dBa2liWW82SlMyZXZYUU9wSkNyRmRoSy13?oc=5"
     },
     {
       "headline": "Zuckerberg says Meta made 'mistakes' in AI workforce shift - Reuters",
@@ -90,38 +110,27 @@
       "summary": "Zuckerberg says Meta made 'mistakes' in AI workforce shift &nbsp;&nbsp; Reuters",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDl3TDBSSG5DbXEwYTcwNlcwaTJ5dWpZV29IWEpNYnVKc2UzT2NpaWdZMXdpbWU1WklwMHdqWXBXRG13cU9Dc0h1NDdQcTRNN1JLR1hjU0RuUkRxSUl4NzFtRTJoTUJPVS1xdzJKdGR0TFVXUTRVbzBscFY4OHJqbzVRUkoycTNvV2s0eWY4WWxNRDJiSW5QU25Qd0tvYU5WNXc?oc=5"
-    },
-    {
-      "headline": "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure - The Register",
-      "source": "The Register",
-      "timestamp": "2026-06-12T20:12:17.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure &nbsp;&nbsp; The Register",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3Mydl9TOU0xZkNXOHJMQ2JEMXFTQzR5VEhwS2lvdlVxYXpuX1hiZDhtZVZSX3dvdGJRUnpNYk5KXy1OQUUydldHRU9POG1TZHo2Z3IzdWZ4MTJZZlNfT3pOcm5WWEVaQWFSTFpXVFlWUE9JQ1pEeUdhcnd6TEYzUHFyeF9MdlVqNG41a3AxcGtLLW9PTjFsdXl6cWdyNmV6NnJJQ3U0T0hmcGxSTjdqelBR?oc=5"
-    },
-    {
-      "headline": "New OpenAI Academy courses for the next era of work - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-12T14:49:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "New OpenAI Academy courses for the next era of work &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04c214STNfR3hUQi10QnRUUXNDSzZidVp4VTl1dWJKVDJGT3Naem1URGkxUEk5Y0o1MTVZOERYMjU2ejlHcDBhWjJpZUppTVFCSVFnUU44UUlCTDQzd2VkdlN0d2psVy1rX3lZb29B?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic’s Fable 5 Safeguards Were Always A ‘Judgement Call’ - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-06-13T23:48:51.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWdYSERUaE8wbE92czFzVUNyeHlyWHlkRjNsX0E1MEU1ZHRVMzNqbjZkZzRxdjNjT0V6dlZkY0hvMmdzMGt2VkRhM25QelhnU0l1QzFER3YxN05zd21aVTh6TG1mcnZndnJMS2ZWMm04OG40WDFWSlMxTHZZUUVGdG85RGtuNHowSlhR?oc=5",
-        "summary": "Anthropic’s Fable 5 Safeguards Were Always A ‘Judgement Call’ &nbsp;&nbsp; Forbes"
+        "headline": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-14T00:41:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVhzZDAxRnI0OHVIdjk0TDI4UTBsLWN6Mi1ZU2tjZVZtTnNYQ1I2bl81elRjbWtxQTIwSkxSNzhlOGw0YVQ3WVlGYjYwWk1PVVNLS0hjczN5OEVqQXAzNHRheWxJMU8tbnZQTDFxM202ZnNJVC1Oby1zcVQtRk95NWsybw?oc=5",
+        "summary": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-06-13T23:46:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
+        "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic - Politico",
@@ -135,45 +144,36 @@
       {
         "headline": "State Attorneys General Are Investigating OpenAI - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-06-13T23:25:43.000Z",
+        "timestamp": "2026-06-13T23:25:44.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdPdDNQRGVKMXIxVGNLWURkQjZLZExOZ1JabldULVQyV3lOZ1lYWlhpYzA1eWpCZ2dVNTEzSk8xd2Z1ZzVob2hwVHBJMV9uZlFYcVZWMEVfRFdRWTdhek5ENGMyUjN2NWs1U1FlSXN2Q0RJSnlXZ0NGaS1wcnJqekFsaDA?oc=5",
         "summary": "State Attorneys General Are Investigating OpenAI &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report - Fox Business",
-        "source": "Fox Business",
-        "timestamp": "2026-06-13T02:44:00.000Z",
+        "headline": "OpenAI hit with multistate probe into possible user harm as its IPO looms - ABC News - Breaking News, Latest News and Videos",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "timestamp": "2026-06-13T23:12:01.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjY2dDg3bWt1LUg5SlNIZkxrbUJZQV9zN3VEZXVYQ2FBQkZ1RGU4ZEFqMVV2S0s5NnU4YUtCd0VTT1MwWGRraXJzc3RFdEdEemViUzAzaElaX1FHYWlrVHBlR2VTSkVVTWJqdXJaUmNmSTVnZzh4elFVTWZFRWVqSWxKYkxLVjZieFBiM0xLZXVHMGE4U1dtdFNyTW9EWEIyazl2c0JHVmFZbnVUdFlQSNIBtgFBVV95cUxNTU9PMFlSWEhOYXFfb0tpY1hqTzFSR3R4bms4bV9aS1dWUFRUY1BSLV9Xekt5UGpEeFZKcUJheWZwbTc4QzZHS0JsTkE2Yy1SZ3hJRk8yaHUyQ0U4UUdBYUZtV3hJdVhZUVBObFBEVV9TVnVnd0J5X0hyTzF2UFhSb2NMT1lIVVhvemdWRUE5aFplYkhpZ2R0ZFhIcVB3djZrWTR4UXN5b3dlYmJGdHV1eWlaQTZRZw?oc=5",
-        "summary": "Mark Zuckerberg admits Meta has 'made mistakes' as AI overhaul reshapes 20% of its workforce: report &nbsp;&nbsp; Fox Business"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGhMeEdKQkJ5SXgxR2hxM21yOXZBcXlyVUNCSVg5dnVXaFFiWE9nZkEzam55c0xEN215dkFCNlhETVRxTWIwYXlhclFRZUM2VFBwdTl1VXJEWnM2a2t0QVFhN0RiSHB4bkFLaXFBc1oyOF9tVzk3REF1NENaSGx6UFhHamJabmtTejl1ZEFxME1FQ24tekt5eE5kRlFjWWvSAaQBQVVfeXFMTTJiaXhSM09oQk1aSzh2djdrZEx2YThDeE5NenNHZWIzUF9HUXhManFQLW4xWnVNeVQ1LTUtc3N4NjJ2SXRXRFEySkE4NGZ0MFltR0MxemxoNjFJSF9mb0gyYnhOa1JQeEJpV2FZcGdtUUtQVlR1dkNHaUhjQVRNeURCbDdLbnVQQ3UtUzJ1ekxsenBIMTE2RXN4VTVncVBjTDIxb28?oc=5",
+        "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "headline": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-13T02:26:06.000Z",
+        "headline": "'It's not a jailbreak' — Research leading to U.S. export restrictions on top Anthropic models was for defense, cybersecurity CEO says - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-06-13T17:44:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5",
-        "summary": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models &nbsp;&nbsp; The New York Times Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access &nbsp;&nbsp; Fortune Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Meta’s Applied AI team revolted, employee hijacked company stream with profanity - mezha.net",
-        "source": "mezha.net",
-        "timestamp": "2026-06-12T23:38:39.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhdW5hb2MyWkxtZHAxc1NqMVZ2UXVXQnlUV0RrUl94QWs4aDF1djhLV1pjdnNxMUpPX3NZN0FtcEZwUEtvM1F5dlpwSDlFT1lPOEE0M1k2YldFR1k5OXpMc19xelhSUQ?oc=5",
-        "summary": "Meta’s Applied AI team revolted, employee hijacked company stream with profanity &nbsp;&nbsp; mezha.net"
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNUhUV250U2xkTVNyLWVOTW45WUw0bW5lRlhkdnlGc1g4VW1EclRMdlV0RlBxV1lwLU9tQ25Za0Y1NlVpa1Yzcm5fWmlWNGxuZHJ2SlVDeUdFeGxyd2NlRzZJSVdhbzNOYTQwQ29xVDRhelEwc0J0U0w5TThlcW5Kd0RzN253SUs2VDFHMUJvVkpKbmhES1UtVHB5OUFpNndSUzJjODlOX0UwVjZwclgyNjM0N2JtYTBtcXJzdFpOZjdjUjlQbngw?oc=5",
+        "summary": "'It's not a jailbreak' — Research leading to U.S. export restrictions on top Anthropic models was for defense, cybersecurity CEO says &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
