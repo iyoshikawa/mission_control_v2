@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T10:57:09.451Z",
+    "generatedAt": "2026-06-15T16:20:20.426Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-06-15T09:38:28.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? &nbsp;&nbsp; Mashable",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5"
-    },
-    {
-      "headline": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-15T01:12:00.000Z",
+      "headline": "Anthropic Set to Meet Trump Officials Over AI Security Concerns - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-06-15T16:00:22.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions &nbsp;&nbsp; WSJ",
+      "summary": "Anthropic Set to Meet Trump Officials Over AI Security Concerns &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDB5M2RIbUFud1NSbFE4UFAxM3kzTkJoem84TTJRakdieUJsQ21naVpYZGxaLUY0S0ZOZFdVTk9saU5WVWFsQzMySldadlg1a2pxYk9tWl84Q2pxQWc2QU51b2YwQktkM0FyR3l0eDVPUURiNEpSeUwzZUhzeElnREcwZkItUldaSTI1N3R2U2tqY2ZPeHVDMll2Y2ZrQ0UzZ1ZzamNzNVhJa3dlaVlDdQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnRwRVdLeTRfVFhZellQZkIwVmlCSGxkVGpEcFFnWjdoR2ZyejFkTWNGNjJONG1LVUt4V3JYZ3IwQnNJc0czaGw1NFJTa2EzbkFBMl9jM3U1b3NscENYT25JLWxHaEswUEV4c1ZhSTl5cjZjbWlvcWtUZG5RMUhzSktYOU5wZ2hmWFZwRUFRUkFvLU9SVmR5aHZLdTZtLW1adXA2cnBuX01Jc05PTXhfSjlRR2w?oc=5"
+    },
+    {
+      "headline": "Microsoft sued by shareholders over expenses, cloud business, AI - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-15T15:49:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Microsoft sued by shareholders over expenses, cloud business, AI &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5"
+    },
+    {
+      "headline": "Microsoft Shareholders Sue Over Azure Growth And AI Spend Claims - Finimize",
+      "source": "Finimize",
+      "timestamp": "2026-06-15T15:04:30.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Shareholders Sue Over Azure Growth And AI Spend Claims &nbsp;&nbsp; Finimize",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjNoc1pXVklhbmxvVXlrN3dPTTgwV3lUS3pHT2RlV1FrUzRZLURLSGR1TWVELVJqZ01jbW85bUlDLTdVYXVpd0hIUWdFSXF3MlEyVlZ5V25fVUNycWlub2l0NW5rODRFTTctVm1EZzhYUHc1cHhRdnQxaE1lS2tpNHlVVE1PbHpKSUtnaEVZT0h6Y3hfOE5kUQ?oc=5"
+    },
+    {
+      "headline": "Anthropic to meet with Trump administration over Mythos dispute - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-15T14:49:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic to meet with Trump administration over Mythos dispute &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMkxIeW50V0lJNE9adjByRTNFMlJJaVgzUFFhc1Vud0J3eWNRLWlNVndqQTNORE1IYmRTbmdqVUNWUEtPNUZNLXRjLVl6a0NycUNPdkJGeXEzWU9kalVGTzRpUklEM0NhYlJaVHNLVdIBdEFVX3lxTE1rQzFZc0hkX2NFNzJMNTNIQncwcGhpUDc3ZlExekxSaW9mSjVVMFJrdGZUcS1YWVhST0VZYlhPOFJXd1ZsSjBWVkkxOGVZT0FGalVPQkt1eVJFeWFCOFpMdHJBUzRiU2JzQ0l0Z0lBYjlGbnpr?oc=5"
+    },
+    {
+      "headline": "Meta AI glasses help blind veterans live independently - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-06-15T14:09:20.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta AI glasses help blind veterans live independently &nbsp;&nbsp; Fox News",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLW1mZHVKbWlwOHEwWnMzMkIwc25Kb1hXYUIzVmxPNG9IZTBXVkEyOThubjFZcGd0WUJ5b0ZiaHNYNkZBRlJ2ZzRhOEt2Y01KdWJhNEVn?oc=5"
+    },
+    {
+      "headline": "Can open-source beat OpenAI? - Rest of World",
+      "source": "Rest of World",
+      "timestamp": "2026-06-15T10:00:30.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Can open-source beat OpenAI? &nbsp;&nbsp; Rest of World",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44V2RXTEZnRWZCMTczZXdDaDNCSkJwdXNkdm92QllzVk9fSVpnU1pHZkRNSklMbzk4b2IydWd6Z0ZQNk5vVERvSGw1ZW9mMV9ZbUt2b1N2N1FtaWJacnl5X1YwanlZRGxDbUMxbFE3ZE9uQ2Vz?oc=5"
     },
     {
       "headline": "Introducing the OpenAI Partner Network - OpenAI",
@@ -42,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMkJtTlNBalBxNWxuLVlzbHlsaTFGdXdmUks2Z1pqZ0IyZkNyYmZUU1JkYlc4emNMclpXUWo1aEpyRVJRX3VKQnlScl93bkdrN1pBeWlaVVNSeWk2cmh5dlpWRF9ZTkY2LW9qMw?oc=5"
     },
     {
-      "headline": "Anthropic scrambles after Trump administration freezes its top AI models - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-06-14T23:43:28.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic scrambles after Trump administration freezes its top AI models &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd082R3dYYTZMZ2tMSlFGSHZSS19ZOGpweE9nTEZpMFJxTzctNF9fNDA5NnBlTzhZMGhKdnFYb0w5czJzbU1iMXZHc0x0cTBxeTRaUURLR2NLYW8zOC1lRHVRd25vZnBBM1BwVWpmOVBXa1ZVY3Ywa3BvaFhkSXJ2STlVWkQ?oc=5"
+      "headline": "Donald Trump’s blocking of Anthropic is capricious and chaotic - The Economist",
+      "source": "The Economist",
+      "timestamp": "2026-06-14T18:56:34.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Donald Trump’s blocking of Anthropic is capricious and chaotic &nbsp;&nbsp; The Economist",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkQ4TGFDTGx6YlQ4U2VraWxFaUlpY2l6VnEtYjhmajlDLWZwbU9DV2hlbTQ1S3gxRWlmYzRPTWR1TFBhZmxkVmRoMVc5dm1vZGM5cUMxSl9KcG9KTWZOeC1lZGYzdWNxWnZ4RlBHeGlDUG1OTzVSZU02d2pSWXZUMEFfVjJKUDVfUUtrVzExcEZIbUxIN3dmUEFlRmMtNHAxUWxMaUFJaGhiTU0?oc=5"
     },
     {
       "headline": "I tested AI glasses in Paris. Here’s what they got wrong - BBC",
@@ -70,117 +110,77 @@
       "summary": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it &nbsp;&nbsp; CNBC",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5"
-    },
-    {
-      "headline": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic - Politico",
-      "source": "Politico",
-      "timestamp": "2026-06-13T23:32:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmNyT0lUWmM2aVFRWTFwcjd3QmpMTGtWNnRQd0puTW5rZXhfaEUwRHVKajRveTVtWFNfTWdwLUZDZHlqUTJyVkFheGJaNzZrNF9rSUFXWWN3MDY1YTVaU29MR0JJTGJ6OC00aU9tdVhzLWVSeVZJa2JNTlJaVUdkbE1OUFdSemJ4RGx0SllydzBZRVpQSDlvUUNTSDVaNW00VVBacEJmaS1mWEUwNjFIZHlORk8xWHp5c2pzWGt5OG1QeUZhVWxPQ1pnbzgzd0RrdUdrRC1jVXA?oc=5"
-    },
-    {
-      "headline": "State Attorneys General Are Investigating OpenAI - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-13T23:25:44.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "State Attorneys General Are Investigating OpenAI &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdPdDNQRGVKMXIxVGNLWURkQjZLZExOZ1JabldULVQyV3lOZ1lYWlhpYzA1eWpCZ2dVNTEzSk8xd2Z1ZzVob2hwVHBJMV9uZlFYcVZWMEVfRFdRWTdhek5ENGMyUjN2NWs1U1FlSXN2Q0RJSnlXZ0NGaS1wcnJqekFsaDA?oc=5"
-    },
-    {
-      "headline": "OpenAI hit with multistate probe into possible user harm as its IPO looms - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "timestamp": "2026-06-13T23:12:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGhMeEdKQkJ5SXgxR2hxM21yOXZBcXlyVUNCSVg5dnVXaFFiWE9nZkEzam55c0xEN215dkFCNlhETVRxTWIwYXlhclFRZUM2VFBwdTl1VXJEWnM2a2t0QVFhN0RiSHB4bkFLaXFBc1oyOF9tVzk3REF1NENaSGx6UFhHamJabmtTejl1ZEFxME1FQ24tekt5eE5kRlFjWWvSAaQBQVVfeXFMTTJiaXhSM09oQk1aSzh2djdrZEx2YThDeE5NenNHZWIzUF9HUXhManFQLW4xWnVNeVQ1LTUtc3N4NjJ2SXRXRFEySkE4NGZ0MFltR0MxemxoNjFJSF9mb0gyYnhOa1JQeEJpV2FZcGdtUUtQVlR1dkNHaUhjQVRNeURCbDdLbnVQQ3UtUzJ1ekxsenBIMTE2RXN4VTVncVBjTDIxb28?oc=5"
-    },
-    {
-      "headline": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-06-13T11:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQktxcHpIZS1YQ2NDRGdSWXlNbkMxenAyYTY4eUprQ01sYlQ5S2FOQUhYaVJzcVZIY2hXeTIxbU1xX3A0LW9kRkt4UEFqa0RMOWdDZEkxbjBDS2s3cjA0LVV5aVI1cDZHNi00MVZ4dTlIWEhCeTlEaTI1bTZieGxadUhXNHItZkJ6VUl2Vi1uaXllUElObWNtbnNRYUlMMUg4c24wa2lWbHh3U1ZwVHQtWnhVRW1KTGdfM2c?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-06-15T09:38:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
-        "summary": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? &nbsp;&nbsp; Mashable"
-      },
-      {
-        "headline": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-06-15T01:12:00.000Z",
+        "headline": "Anthropic Set to Meet Trump Officials Over AI Security Concerns - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-06-15T16:00:22.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDB5M2RIbUFud1NSbFE4UFAxM3kzTkJoem84TTJRakdieUJsQ21naVpYZGxaLUY0S0ZOZFdVTk9saU5WVWFsQzMySldadlg1a2pxYk9tWl84Q2pxQWc2QU51b2YwQktkM0FyR3l0eDVPUURiNEpSeUwzZUhzeElnREcwZkItUldaSTI1N3R2U2tqY2ZPeHVDMll2Y2ZrQ0UzZ1ZzamNzNVhJa3dlaVlDdQ?oc=5",
-        "summary": "Anthropic Dispatches Staff to D.C., Racing to Resolve AI Export Restrictions &nbsp;&nbsp; WSJ"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnRwRVdLeTRfVFhZellQZkIwVmlCSGxkVGpEcFFnWjdoR2ZyejFkTWNGNjJONG1LVUt4V3JYZ3IwQnNJc0czaGw1NFJTa2EzbkFBMl9jM3U1b3NscENYT25JLWxHaEswUEV4c1ZhSTl5cjZjbWlvcWtUZG5RMUhzSktYOU5wZ2hmWFZwRUFRUkFvLU9SVmR5aHZLdTZtLW1adXA2cnBuX01Jc05PTXhfSjlRR2w?oc=5",
+        "summary": "Anthropic Set to Meet Trump Officials Over AI Security Concerns &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "Introducing the OpenAI Partner Network - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-06-15T00:15:49.000Z",
+        "headline": "Microsoft sued by shareholders over expenses, cloud business, AI - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-06-15T15:49:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMkJtTlNBalBxNWxuLVlzbHlsaTFGdXdmUks2Z1pqZ0IyZkNyYmZUU1JkYlc4emNMclpXUWo1aEpyRVJRX3VKQnlScl93bkdrN1pBeWlaVVNSeWk2cmh5dlpWRF9ZTkY2LW9qMw?oc=5",
-        "summary": "Introducing the OpenAI Partner Network &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
+        "summary": "Microsoft sued by shareholders over expenses, cloud business, AI &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Anthropic scrambles after Trump administration freezes its top AI models - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-06-14T23:43:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd082R3dYYTZMZ2tMSlFGSHZSS19ZOGpweE9nTEZpMFJxTzctNF9fNDA5NnBlTzhZMGhKdnFYb0w5czJzbU1iMXZHc0x0cTBxeTRaUURLR2NLYW8zOC1lRHVRd25vZnBBM1BwVWpmOVBXa1ZVY3Ywa3BvaFhkSXJ2STlVWkQ?oc=5",
-        "summary": "Anthropic scrambles after Trump administration freezes its top AI models &nbsp;&nbsp; Financial Times"
+        "headline": "Microsoft Shareholders Sue Over Azure Growth And AI Spend Claims - Finimize",
+        "source": "Finimize",
+        "timestamp": "2026-06-15T15:04:30.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjNoc1pXVklhbmxvVXlrN3dPTTgwV3lUS3pHT2RlV1FrUzRZLURLSGR1TWVELVJqZ01jbW85bUlDLTdVYXVpd0hIUWdFSXF3MlEyVlZ5V25fVUNycWlub2l0NW5rODRFTTctVm1EZzhYUHc1cHhRdnQxaE1lS2tpNHlVVE1PbHpKSUtnaEVZT0h6Y3hfOE5kUQ?oc=5",
+        "summary": "Microsoft Shareholders Sue Over Azure Growth And AI Spend Claims &nbsp;&nbsp; Finimize"
       },
       {
-        "headline": "I tested AI glasses in Paris. Here’s what they got wrong - BBC",
-        "source": "BBC",
-        "timestamp": "2026-06-14T14:00:00.000Z",
+        "headline": "Anthropic to meet with Trump administration over Mythos dispute - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-06-15T14:49:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wMkxIeW50V0lJNE9adjByRTNFMlJJaVgzUFFhc1Vud0J3eWNRLWlNVndqQTNORE1IYmRTbmdqVUNWUEtPNUZNLXRjLVl6a0NycUNPdkJGeXEzWU9kalVGTzRpUklEM0NhYlJaVHNLVdIBdEFVX3lxTE1rQzFZc0hkX2NFNzJMNTNIQncwcGhpUDc3ZlExekxSaW9mSjVVMFJrdGZUcS1YWVhST0VZYlhPOFJXd1ZsSjBWVkkxOGVZT0FGalVPQkt1eVJFeWFCOFpMdHJBUzRiU2JzQ0l0Z0lBYjlGbnpr?oc=5",
+        "summary": "Anthropic to meet with Trump administration over Mythos dispute &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta AI glasses help blind veterans live independently - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-06-15T14:09:20.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGxxMFU1dmZFZ294Rk52bDJKSVhKQkJENi12WWVtVzdzNVo1eTh3bW5CMlV3cjMtSzNVa0pKZWNzV2hqYnRtYU13N1h4aEhlRXVwbW56cWJoSTdCc01JVFNFVjVjUWIxVkZGNUlrbWc4eEg3U3FJeE5ySm5aQlB5NlQ3ajc?oc=5",
-        "summary": "I tested AI glasses in Paris. Here’s what they got wrong &nbsp;&nbsp; BBC"
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLW1mZHVKbWlwOHEwWnMzMkIwc25Kb1hXYUIzVmxPNG9IZTBXVkEyOThubjFZcGd0WUJ5b0ZiaHNYNkZBRlJ2ZzRhOEt2Y01KdWJhNEVn?oc=5",
+        "summary": "Meta AI glasses help blind veterans live independently &nbsp;&nbsp; Fox News"
       },
       {
-        "headline": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-06-14T12:00:02.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1N2TjhCLXhKUEVfUl9RUEYtWHRDUjk1VmY5U05GUXpKenczbThfSlUtNExrYkVTMkw2YlNhdlFpTFdKV01yUElsejZzc3RieWhOV0o3ZmRGdTRKYUhXSUgzTGxjeTBYSmM2WmV3MU9qVUVsb3dBVVgtajgtckpkSTdvQVlSQVg3YU1CbVhndW1tNFhjMHZnOEUzTXdqN1EzV2pXaUNGVdIBrAFBVV95cUxPUlZCb19ObnlKTTJubG9qMnhFR24ydk1ralZlNWt4VmNpYTlyLUozeUl0eUxaVi1SZzdOWVJ3WGw5TWg5WDFuV3NIM0RxV1VXdDhJbzYxSTl2cnhQS0hmdU1yYW9rbEw5ajE3NGJrb3hYYjFCUzFPa0t2c3pOY3NFWGlYYlJ5N3VZMHp5R0dBbWlEaUtNM205d2Y0elVxUzBSR1UwZ19Jc0s5a3Ux?oc=5",
-        "summary": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it &nbsp;&nbsp; CNBC"
+        "headline": "Can open-source beat OpenAI? - Rest of World",
+        "source": "Rest of World",
+        "timestamp": "2026-06-15T10:00:30.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44V2RXTEZnRWZCMTczZXdDaDNCSkJwdXNkdm92QllzVk9fSVpnU1pHZkRNSklMbzk4b2IydWd6Z0ZQNk5vVERvSGw1ZW9mMV9ZbUt2b1N2N1FtaWJacnl5X1YwanlZRGxDbUMxbFE3ZE9uQ2Vz?oc=5",
+        "summary": "Can open-source beat OpenAI? &nbsp;&nbsp; Rest of World"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
