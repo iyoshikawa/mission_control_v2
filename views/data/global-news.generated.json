@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T13:11:07.203Z",
+    "generatedAt": "2026-06-15T18:24:03.013Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,21 +12,76 @@
   },
   "newsFeed": [
     {
-      "headline": "Maersk welcomes US-Iran deal, but makes no change to Middle East operation yet",
-      "summary": "Maersk welcomes US-Iran deal, but makes no change to Middle East operation yet &nbsp;&nbsp; Reuters",
+      "headline": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly",
+      "summary": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-15T12:02:53.000Z",
+      "timestamp": "2026-06-15T17:05:16.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazdGaXNZdlFhQ2J2eEtCVWRrdEZ1dUt5VFdwN3Z4Wkl0MHFMbnJHVHRpUmtRcmVSa0pyTG1IVk5VS3JjTzJ5ejRWUllCSlA4cXRzYTlMOHpWN0NvSXVpakdDUGNoeWNzdTBEakNyWnlybE9na3ZXNktWV05TdE9adVNKSnhRQ1pPUzZOUEtNX3NLdFZRdHlPcF9ZeGE4WjZNd3BjU0VXdklTQ3YxU0d2MU9EX0xXWkxOU2I3Y04xZTRBZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDJhT0VaNUlNd1pMYXYtN29wek9uaVdXTTN5RXRvZEw5Y090THB2VC1FNFIyb2FWbXJnNkRIb3RaUjA0U2N5TkNyZnJic0hfZlZUZnNHa254ejhRMVJhYW1wYXpsTzBLRXFTT2JtLVpiRWNMdGpSNFB6TnlHalU1cFhxQ1FUMzZya0J3TG9HVGVfWlN2enJHRlBaUUduZUhER3Z3?oc=5"
+    },
+    {
+      "headline": "Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran",
+      "summary": "Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-15T16:44:16.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0otOEdqZ09kUXB3bTE5eTZYSHp4QmQ3bXNRWW1vTkpPX1k2QnFScjBCdHhIeEZGeDFuakNDbFFLeDFLMC1PdjI1Nm9lZmtLdDRZQWRpZ2VnM0E1TXR2WW54QkRVczFMd095SG83dVVrMUdPSmJrWUFjaDNicGF0dVIzdFNIbno3eHltRFNiM1hOOUROeW42LW1XdFBZMENxb2FRRE5jVHZDNlNwVUpQX0tfQkxqS3MzYUdZ?oc=5"
+    },
+    {
+      "headline": "US factory production flat in May; AI investment supporting manufacturing",
+      "summary": "US factory production flat in May; AI investment supporting manufacturing &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-15T16:22:46.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkhZZGR2cEFxRXFLZTd1U2lxenZfYUdyTWNzR1lnUU9jN2dCWXF1akM4SmU4aEFYNmJRQ0dXT3dSZ1pVblRLWkZXMEwzaE1VMkI5Yi1SZlFsMzQtMFNlZHJIWWZzSDZ1ZHg0eGRHd19hWS1GS01vbzhqWXFYOEFqTHpHdndGY2IxdU9KQzBKN3pMR1VjNXVtaVhRLV8ySFRRdUxvV2dmQTY?oc=5"
+    },
+    {
+      "headline": "India's silver imports hit over three-year low in May after import curbs",
+      "summary": "India's silver imports hit over three-year low in May after import curbs &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-15T16:19:44.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEtXX3NEenVjUDZyeXgxRWwtUHFEdXBGdGp4ZGVNal9pLVVtTjg4Z1ZISDVCd1VUSURVTFBPdXZNaWUyb3ZuWjFuem9sYlc4RHJDR2NXTlNKemdXbU96ZnlkdjFTS1ZxeHNrRUNTcDFWUlF2WmVPRDdHUk4wMXhMWlVoUE15NWtnd0VxVlVWMzdUVzFYTjdqOEdOVm5wbVFoaWJGYk5zTkhFQkRMR1ZRMHNQSER4QlE?oc=5"
+    },
+    {
+      "headline": "Netanyahu and Trump on collision course as US, Iran agree to halt war",
+      "summary": "Netanyahu and Trump on collision course as US, Iran agree to halt war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-15T16:00:19.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTdPRTlRSUZXM2ZEc05FTzM5NEZSalItZ2FYSlNfSVdFcUY1UVZhVXJRZFVZd0RvMlFsSEthdHlDeDJHdWQ0TUVUMFRxNmQyaG5zUDNiTjRRQzVLWGVwVXRSWDlGSlVudk9DdDRORU9CM2ZVb05Oa3NpU2hOR2xrTzBQdTFPVmpfdFhtWWlRS3BMNGY0WlREandpSGpvUXVLaHlDS3dhdXBBeS1SQmc?oc=5"
+    },
+    {
+      "headline": "Global shippers cautious on Hormuz transit despite US-Iran deal",
+      "summary": "Global shippers cautious on Hormuz transit despite US-Iran deal &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-15T15:28:21.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWRDVWZoWlpiWXdWckhpc2Voc01ZeXBuMnN5SmE5MkZMOENCejE5bjZ1UDFDM3BUUG0tdThmZXh4TzExMlZKdVgzTWNJR0NSUmZHa2lTV29DWFBpYVhJSFBSUl9aN1g4aXBnQUxGNlVLT3hSc0JydjFxMkZUcjVsanpNOE00aTk1UkhaRkVoVHhteTlaWTNWa2t6SGhQU0Q3VV9MNVRYWlJxSlVRaHdZREp0RFU5TlVSdHJCYUxqemtBTEdjaGFV?oc=5"
     },
     {
       "headline": "Lebanon fighting eases after US-Iran deal but displaced warned not to rush home",
       "summary": "Lebanon fighting eases after US-Iran deal but displaced warned not to rush home &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-15T10:47:33.000Z",
+      "timestamp": "2026-06-15T14:40:07.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -34,70 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnUyeUdkRldVWWtYZmp2bWRwemZDd1d3Q1otckVFSWVFTWZrQkpPNENPR3gwY1dESVNQLU1YbHVMdE11QzNpQThheXBYMnU1aWRHU29RMXhYSEZCTWREZDRNbC1Ga3BldkdkOTN4Y2xUcXhzbjBVSldoV09Dc0ZvdzFnZi1HNklyS3dneHU1YXZHUXl5cG5KY3ZBeWFYT3lGV2Z5bTdPRHViU3JGaTBBSDlKUEJGVzYt?oc=5"
     },
     {
-      "headline": "French wine exporters say Trump's latest tariff threat is bad news",
-      "summary": "French wine exporters say Trump's latest tariff threat is bad news &nbsp;&nbsp; Reuters",
+      "headline": "Clean-tech partnerships hold the keys to Europe’s energy security",
+      "summary": "Clean-tech partnerships hold the keys to Europe’s energy security &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-15T10:47:15.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOERJbXJ2SVBQbVBKMUpNXzZzYklTNWhycHNVQ1Z1RVVWdWFLRVRZbEc5V3RfLWkxUm5MZ2JjQWhmNHdWSGJmRWFRT1RKUmNnaVdYa09BcDc2LXJJS0NsdXRMeklWQU1yYWFybGxocjN1ZHI2d1pHQ2VwT0duSlAtc2tZelBOZHcxb0Z4WHYzVkRsOENZbjcydzBpYmoxNlZlTWVwNHpCWWdPWDY2TWMyUGtLUTU?oc=5"
-    },
-    {
-      "headline": "Scouring the Strait of Hormuz for mines could take weeks",
-      "summary": "Scouring the Strait of Hormuz for mines could take weeks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-15T10:46:24.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUjZWMjhsRk5kcFhHYzNzcGd0aklxYUJjcE55WGN5cVpKbVNvQW5POEVGdVNBQzVQcG5jOEVfc3JBQ2J2eUs3dUI2VWgzOU9WSzZ2ZmlQOC13dzJFdU13X0lyNkZtWUxwMmUxLWtDbm00LVlNMXc1NUZRXzFKZkpMeU5zTEdSem9lQWw5VVhRTFJRckduU096UFpYazNqZlBj?oc=5"
-    },
-    {
-      "headline": "Why clean-tech partnerships are key to Europe’s energy security",
-      "summary": "Why clean-tech partnerships are key to Europe’s energy security &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-15T10:38:26.000Z",
+      "timestamp": "2026-06-15T14:36:20.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaTJCTjBUUGhLX2lZa09abVFvU3VQdFJ3UHdtRjJRVTNEVEwyYTVpYjdyVzVUU19yM2p3RG5fSkpXMFpKdTNTcWNKVHpNa01OYVZjR0QyRi1PYjZPb2EycENrOVpFSVJjWk5tRGNNX0pJOHUwYjRRY1pmeGlLUzBudmNEOUlfdm1FTW1aT196Wk1RTDR1S3lGVW5XX1oyeTQxRG9hT1NSXzY0ZEp0cGVGdFpjTEwwVEItVWFjZWtZbk1Nc3Y4N3Zjc01jMkZjTVRhbVdTUS1IN0pKQQ?oc=5"
-    },
-    {
-      "headline": "Trump threatens 100% tariff on French wine over tech tax as G7 meets, NY Post reports",
-      "summary": "Trump threatens 100% tariff on French wine over tech tax as G7 meets, NY Post reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-15T10:31:41.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTG53Vk1kQ0tvS3lGb3pTemdhMXY5RllBY3BaaHdEa3FqR1hDamhJVEpMcjFlVldJNkcwRlZwZFd4WGxpcm5zTjRvR0FodERRU0VsdTFudkFsalVMclQ2T0xKUG5KOTZ3WnNrVkZCZy1SMlFRUEMwV3YxTVMtQkdiYlc1aHJjU0cyZGtPZlRONnNVbTZBTEtvdXZUUkk3V0RXY1VsOV83eXdROVpBUWp4Vnp1X1pCVnEtSEE?oc=5"
-    },
-    {
-      "headline": "UN human rights chief welcomes US-Iran deal, urges restraint in the region",
-      "summary": "UN human rights chief welcomes US-Iran deal, urges restraint in the region &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-15T10:28:37.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWJKZzlkYlJrak9vanZpTEtNQUllTC1MZ0JoX3VyVGZ1RFVDd0F2bGdhVzgtQTF1eTNIMHRvWWtoRE4wTUNHbHRtS0xmd1I5LTcybm5GLVRza0QybE9oNE93WnQ1c2FsODdEeGdrSm9MVnZRTDFFMEpOTjFtLUMtUnhBXzRVLU5yeklRNFEwWlBpaTUzWS0wQVVMY193S1NsSThab2wyYjNDcVo2a3o1bG9JWUtKRHdkTDNlaQ?oc=5"
-    },
-    {
-      "headline": "What the US and Iran say they have agreed in the memorandum to end the war",
-      "summary": "What the US and Iran say they have agreed in the memorandum to end the war &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-15T10:28:19.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVZkSW15MTBUMWNMMFBnNkZUYlVfamY0Zlg0RmtCLXh0aXlSdW00dmdHeGJWY3dreXBwclBiRFlOdVpLNFBmaFNDTHJxRDE5YXBidFd6TkdWRVZFVFJmUGo3YzlQZFlheUVQMzdDNkJpRjEteXhwOFVFVktRNWRIbUNWcVQ2alVHSWdiSWk4dkplcmxsMi14SWxDX1EySEVjQUt5S2FlbkhoYXc?oc=5"
     }
   ]
 }
