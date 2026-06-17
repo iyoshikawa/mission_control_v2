@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T18:13:47.809Z",
+    "generatedAt": "2026-06-17T21:04:07.170Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "Israel launches fresh airstrikes in Lebanon; Trump says he could still restart war",
-      "summary": "Israel launches fresh airstrikes in Lebanon; Trump says he could still restart war &nbsp;&nbsp; Reuters",
+      "headline": "The 14-point U.S.-Iran pact as read by U.S. official",
+      "summary": "The 14-point U.S.-Iran pact as read by U.S. official &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-17T16:47:05.000Z",
+      "timestamp": "2026-06-17T18:48:30.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1lJY0Ric2o2WU9Icy1KdkRYVFVITFlSLVJXcWhSd1JJa01pdmwzQnJCSktnMmFMT2NBb0dmcnQxUjk3LXpCSUhwdjl0VGdJdm8xcWR2dEdDS3pCeFB1TTI3V3pEUmpyOE93eDdkdkxBZG9SMUJRUW9iemFJcEhGREoyVGxKeGlY?oc=5"
+    },
+    {
+      "headline": "Trump says Iran deal averted 'economic catastrophe' but says he could still restart war",
+      "summary": "Trump says Iran deal averted 'economic catastrophe' but says he could still restart war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-17T18:33:36.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5"
+    },
+    {
+      "headline": "Trump thanks China's Xi, Russia's Putin for being 'neutral' in Iran war",
+      "summary": "Trump thanks China's Xi, Russia's Putin for being 'neutral' in Iran war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-17T18:17:43.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0JiQ2VMdnBDbG5NQk9WV2RhbmlxSHl1di1NYVVrSE1wVEFxdzRlZ1FJTmpPMjJWT0phR3VjM09uaUN1c1RwOFZsUkMxSXJlam9nV2UtVGpIdE5yQ0FCWXdkMWUweWt3VktaX1U3b1FTNHFtTTZ0MEdnN2JHZno0YjJVcm1xMjJCTWIwN0pfM3pDVndYN2liT1NORk5lVTRmbloxeXFTN0U2UlE?oc=5"
     },
     {
       "headline": "While Trump hails Gulf oil flowing, Iran's fleet also gearing up to boost exports",
@@ -32,6 +54,17 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFFlYnl5QndZQXFjZmhWYzcxclFRY2x2NG1MWExhZlFhTnR3Q3ozSnhXVHg5YUpQQWhmRHZCQ2tpRVo5M1BsUVNMTHFaLWZPMzQ1NjVzdWhCM0lEMlZZMDIzN2JPNTltbVhYTkJSZ1JGRWtwUXc2dGszeldrRThyNk1RbnFWUUZtX0p1MEZ0OXBKeGdjeThhSmtCN29DbXhtRTdzWmpGU1BzTDFlRjhHOEplVF9ndGZ0WUE?oc=5"
+    },
+    {
+      "headline": "Russia to import gasoline by sea as shortage looms, sources say",
+      "summary": "Russia to import gasoline by sea as shortage looms, sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-17T13:16:10.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTk2dUxGSkc5YkZnMDk1VUo4b1A1WXJpV0RVZ1NJdG1uMFdrVHFoZ0dFOGY3eUNVa3lGSjMzZjQ1OEI5ZXQ0OVd3TFR1bGlXOFh5X2VRZl9ubl91T2hnbWJ3Qi12NFFfS19WVzNkOWk0cHVfdjZwOERBMkUxMVp4bDJkRV9UcWpQQlg2NG84TnZUZ0NqRVFaMkJMYm94czl5cEhUUU9RS19PUUdf?oc=5"
     },
     {
       "headline": "Russian businessman Ilya Traber detained in contract killing probe, media report",
@@ -56,48 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnEycGExQnBVR2VWVnZfYWpUel9zYU9nTXc5dmJHS2dreDZMeWdKYmNYWjRFS3Q4dEJfLXdFMnUtX3VlSFotVWNuUl9JWXpvVWZfVUdPWTVzdUZvMjNramRnV1FobnhLcG9IVnNOSnNsYTh0QjhLNDlSOWxlcmlhbzhSMDlxbThCQkJ1MDk4ZEFldW9ocTBZbWtmeHNDc1VJNkVSVg?oc=5"
     },
     {
-      "headline": "US, Trump have changed to more realistic view of war in Ukraine, Canada's Carney says",
-      "summary": "US, Trump have changed to more realistic view of war in Ukraine, Canada's Carney says &nbsp;&nbsp; Reuters",
+      "headline": "UK PM Starmer calls Channel incident involving Russian warship 'reckless'",
+      "summary": "UK PM Starmer calls Channel incident involving Russian warship 'reckless' &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-17T06:54:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnozN01XV2JjWUlaYTJBRW5FcExIOUk5T2YxbjltZGpVU1dxdnJXY3dINmc3RW5EZXIzbU5LMXV5Q2RrNWJMZDNtZ3VSZGFsU0hWUU1wRVJXM0tZa3Y1enF0M3JBbWk0dDEwNldoWlBzLWpjODBTczVHaThkZ25DQjZ4MGFEY21ZMjVvZ0VPcm55ZHd0czFGaE9XTVh4anloUHpWQlkxSnM1X19IRWEwWFNEZkRuZw?oc=5"
-    },
-    {
-      "headline": "Urged to consider his position, Starmer warns against UK leadership challenge",
-      "summary": "Urged to consider his position, Starmer warns against UK leadership challenge &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-17T06:41:00.000Z",
+      "timestamp": "2026-06-17T07:40:17.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5YNWs3Y0RmVE1DTE9oTHJvb1ppQkphNUc5b2FBc1pPdTFFaDBQUUpRMk1mRzRVd2VPOThmc2JsbXdFVmxleHdHZmhON0ttWUNUaTRrcVJqSUJBTlBDemJDcHlUY1F1Qy1RbDd0bFFRNmJEaXp3X0JGVGVYTnBUWjhXSnhpRG5sci1Ea01nSm1hZjV0LXY2VUZQWUFPc2tQc3FtbnA5RXplaG16alBFbzJRX2dRTTRSUkE?oc=5"
-    },
-    {
-      "headline": "BMW shares sink after profit warning highlights China and Iran risk",
-      "summary": "BMW shares sink after profit warning highlights China and Iran risk &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-17T06:36:00.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVBHYTAycFp5MmdoVGNRbE12eWJzT0c5U1NPbURoNmxHQUJZcEdEaHJ5MGU1dDhFUUw0cV9ZM0VpMGIzWk5XY1pqcFpoblJCM3NBektPRzh2clF4OW9JWnRTa25kMkk3a1NmRlVySXNubUZWUjE4bTBBTlV5MEtMd1FQajR0THZyeXdnZ0xlaFk0YXI1ZV9GZTk2b3YzMjd4aEZtZXkybnZXdXRoNDZtZDNJbFhzUVNQWlE?oc=5"
-    },
-    {
-      "headline": "Selling cheese to Hong Kong: UK exporters adapt to life outside the EU a decade after Brexit vote",
-      "summary": "Selling cheese to Hong Kong: UK exporters adapt to life outside the EU a decade after Brexit vote &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-17T06:13:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMnVKZ2EtMnMwYm9IUm5oU2RhQVlrY2k1ZERMX2dqNVhjcnU0eTE5UzliaGtuVTBNbTRJclEyc1pnSTNpS2FUMFdIZDhndUJxRU13S3l5Mk9FWTg3OGRWWkVheE9wcHhldUYzeXhLYVc0Y01XdGZSaHZPSEVLZVlzRXNKZUNWaXdGS1llY1Q0bDlvQ3dfcXM1ZENDQTNWYmJEdXc2LUh0ek1pR1hQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWk2dE1GYnJIaWNBTGduQVVCZUVrT21qU1NEZC1WR2w5aWJidnNmUGQ2R09hay1qVzF3ZDhUcDhxOGgwUGJRaVFYZ2RSNDVfNjEwX0dkaDl1ODFGNHYweDN2NGpkeGc5dElQUU10SEtENHhFSEE1YW5vM1NzS2U0bTJlREVxanBUaFlnQzBVWUZnX3puUTl5emxINnVJeGlSRjJaY01xajNwU3pFeHVHaGtwdw?oc=5"
     }
   ]
 }
