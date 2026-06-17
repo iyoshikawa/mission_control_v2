@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T21:12:07.886Z",
+    "generatedAt": "2026-06-17T23:42:10.002Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -14,7 +14,7 @@
     {
       "headline": "Trump’s Anthropic restrictions rattle U.S. allies as AI leaders gather at G-7 - The Washington Post",
       "source": "The Washington Post",
-      "timestamp": "2026-06-17T21:02:12.000Z",
+      "timestamp": "2026-06-17T23:10:57.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Trump’s Anthropic restrictions rattle U.S. allies as AI leaders gather at G-7 &nbsp;&nbsp; The Washington Post",
@@ -22,14 +22,44 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2xxWVFneHBLV0VMWDNnMF9Qd0RwMGs1NHY4TXJTZ3ktNkIyTmtxb1NNUk1iSGhwTzdZcVA2U051ZTRFZDc3X21UblhxRlhjTmw4ZVhDc3B1blRWVW5UOElMaXNobEdnX1V1YWRyRmNheHBLajZSd2JrR2VldTNUVDNOWGw3QmE2LVhfX1NvZlVFN2xFSW9hOXZpcm5qMWFRYXNYME50SHdFVkNqMWJRNnI0NDNral9sbGxvd1VSRQ?oc=5"
     },
     {
-      "headline": "Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-17T20:15:00.000Z",
+      "headline": "OpenAI works to stop ChatGPT generating 'sex crime scene' images - BBC",
+      "source": "BBC",
+      "timestamp": "2026-06-17T23:07:40.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI works to stop ChatGPT generating 'sex crime scene' images &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eXBuNDNvMXpxR0RYOEdOTTdac29maUEyQWxhU2h1MUlOMDhOM1pkNnpVRU8yZVFKV2tQSmJremlCOHF2azdrY1dnT0V1UXY4UEVMZkNQZGl1QQ?oc=5"
+    },
+    {
+      "headline": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-17T22:56:58.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5"
+    },
+    {
+      "headline": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-06-17T22:30:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5"
+    },
+    {
+      "headline": "Introducing LifeSciBench - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-17T20:43:39.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFUaFpvYnNtNFZadUZHbnNqbGtVa1Z1VkNKZnZ1aDR2a2UxUUo5XzhRY3ZVMjdtel9vVldtcXZOeFFtOTNCM050R0lNUDFSbTNqcUt4ZjUwa09HY25SNVdaNVRRNVJ2dFBCRkV3cER2VlFpWVl0ZnhYeEt5R21ESTNmTjUtRTlUUlhNN24yOTY5TktJVkVINF9mMU1qajlLYm82cU5sZnBzZHZ4ejRuRQ?oc=5"
+      "summary": "Introducing LifeSciBench &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5"
     },
     {
       "headline": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
@@ -52,24 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5"
     },
     {
-      "headline": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-17T17:13:03.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5"
+      "headline": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-17T15:06:52.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5"
     },
     {
-      "headline": "Opinion | Dear A.I. Companies: The Doom Trolling Needs to Stop - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-17T09:04:33.000Z",
+      "headline": "AI search grounded in Facebook posts? What could go wrong? - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-06-17T13:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Opinion | Dear A.I. Companies: The Doom Trolling Needs to Stop &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRrYjV6aURMY01IUk9JaXRnNjg5a0Nrb2ZYNS1hbldaTldDU0pZbWxxYjNhR1hwbmRRYlU4LXpKak10T0tZRUg4OTNUOHlybTI4ZGdGSXZLSmN2LV9WcVNSYzAyNmFHcVVWQUFnUFF6TmExTnl1aEozRDI5T0JRaFh1dw?oc=5"
+      "summary": "AI search grounded in Facebook posts? What could go wrong? &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUNnZ3JVWU5DNTRCYUtNbXVHOFRPU1p6S1hQN1lIMkxWOHNoWnNlcW1JV3lzZURycWhfT3hNbmJma0VHQWhUUVNNXzg0UnFkUzBNeERvYjN2SHp4MDRWUE9XSWJ5VWJYaWlma1pzRGw0ZGpjbWR0MDdicFdXUEtQN1kxZ1pYRXpJWFFfR1VDTlA?oc=5"
     },
     {
       "headline": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 - CNBC",
@@ -80,36 +110,6 @@
       "summary": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZE9yRkF4ZWRCUXlTM3JoR0RKVDE4Q1VfS2xNdHBZODdUTjNrcF9OVVFlMXpvZHg5REFaYy1IdGxvSkhGTGlkcWU2WjNZWEY4N0VZZWdyNWtDMG5BN3RaamlfcXlEYzl0M1Npc1ZZN0dkYXphQzVrU1RGMFk3ZE92eGZsSkJVMDd3bUJMRUhB0gGTAUFVX3lxTE9QVktTTi1feHFDS21EU2ozTTV1UTdoNS1JdEVJMURhQWxjdVVudnVMZUplWGQ5N21Yd0ZfcFZsTE9JOWxNVWNnT3JlLXRkWTU5T2R2cFdaREgwUlg2MTd3TDJjTXctRVdJRVhsX1h3NHhTYldvUzFRZUh2RUR2THpKcmJndXl1c0hWNHZRblRFVG14UQ?oc=5"
-    },
-    {
-      "headline": "Unlocking UK house-building with AI-accelerated planning - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-06-16T21:31:18.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Unlocking UK house-building with AI-accelerated planning &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWlRV0Vjdmx6eXZlMWZMMDlkRV9FS3VmeWpkWnhDNGs2cXU1SWJYcTNBRzdIajdDUndBZU5jc1J6aDlrb1dfc0VQS3d1N05mXzNDTWhjTm1VRUNUemV2THg1djg5aXFmWnk5dUhWcG1ab2pTOERWbjEzVTdSa3JVWTJDVzJZeWJoMVQ3WHVaaw?oc=5"
-    },
-    {
-      "headline": "Anthropic Ban Stirs Concerns at OpenAI and Beyond of Crackdown on Foreign AI Talent - The Information",
-      "source": "The Information",
-      "timestamp": "2026-06-16T21:07:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic Ban Stirs Concerns at OpenAI and Beyond of Crackdown on Foreign AI Talent &nbsp;&nbsp; The Information",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnBrdnJCYmJwN2NtRWE1Mm52TG1Yc0xRV1F3OGUwWEQwZ3pUT0xtVWlueDlnNWRjcEVYTTRVbHA3U1AyODFTclBJUVZSUTRHNTk0c3p2cVVKbEsxOHkwelk2bExXWWk5LXk2UUFmVlBkR3JSWXgxMTFZM0xvMHVfUkhxQzBFeFdqQ0haTHNScmNQSUVPam45bmxfejJWQWQ1TXZfVUJFQlVOQmRIVHZB?oc=5"
-    },
-    {
-      "headline": "Meta uses your public Facebook posts for AI search - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-06-16T17:28:30.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta uses your public Facebook posts for AI search &nbsp;&nbsp; Mashable",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3hncjZBaHEzU3owdlp2V1E4SVN5OW9iYUxiS0d3aXgybmctNXJWTXdxLWdKLUVJR3pRN0xISF85WXJ5U3dRUVdySWtCdzVDRFpBODVMSlFmeVlYU2VZR1Q0NjVCM2lFZnBwUm1oZmZtVm5TSzRPQVZVY056OFZTTXBlWQ?oc=5"
     }
   ],
   "aiNews": {
@@ -117,20 +117,47 @@
       {
         "headline": "Trump’s Anthropic restrictions rattle U.S. allies as AI leaders gather at G-7 - The Washington Post",
         "source": "The Washington Post",
-        "timestamp": "2026-06-17T21:02:12.000Z",
+        "timestamp": "2026-06-17T23:10:57.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2xxWVFneHBLV0VMWDNnMF9Qd0RwMGs1NHY4TXJTZ3ktNkIyTmtxb1NNUk1iSGhwTzdZcVA2U051ZTRFZDc3X21UblhxRlhjTmw4ZVhDc3B1blRWVW5UOElMaXNobEdnX1V1YWRyRmNheHBLajZSd2JrR2VldTNUVDNOWGw3QmE2LVhfX1NvZlVFN2xFSW9hOXZpcm5qMWFRYXNYME50SHdFVkNqMWJRNnI0NDNral9sbGxvd1VSRQ?oc=5",
         "summary": "Trump’s Anthropic restrictions rattle U.S. allies as AI leaders gather at G-7 &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-06-17T20:15:00.000Z",
+        "headline": "OpenAI works to stop ChatGPT generating 'sex crime scene' images - BBC",
+        "source": "BBC",
+        "timestamp": "2026-06-17T23:07:40.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFUaFpvYnNtNFZadUZHbnNqbGtVa1Z1VkNKZnZ1aDR2a2UxUUo5XzhRY3ZVMjdtel9vVldtcXZOeFFtOTNCM050R0lNUDFSbTNqcUt4ZjUwa09HY25SNVdaNVRRNVJ2dFBCRkV3cER2VlFpWVl0ZnhYeEt5R21ESTNmTjUtRTlUUlhNN24yOTY5TktJVkVINF9mMU1qajlLYm82cU5sZnBzZHZ4ejRuRQ?oc=5",
-        "summary": "Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 &nbsp;&nbsp; WSJ"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eXBuNDNvMXpxR0RYOEdOTTdac29maUEyQWxhU2h1MUlOMDhOM1pkNnpVRU8yZVFKV2tQSmJremlCOHF2azdrY1dnT0V1UXY4UEVMZkNQZGl1QQ?oc=5",
+        "summary": "OpenAI works to stop ChatGPT generating 'sex crime scene' images &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-06-17T22:56:58.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5",
+        "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-06-17T22:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5",
+        "summary": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Introducing LifeSciBench - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-06-17T20:43:39.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
+        "summary": "Introducing LifeSciBench &nbsp;&nbsp; OpenAI"
       },
       {
         "headline": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
@@ -140,41 +167,14 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5",
         "summary": "Anthropic Employees Accuse Trump Administration of Targeting Them &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-06-17T17:29:55.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5",
-        "summary": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-06-17T17:13:03.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5",
-        "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Opinion | Dear A.I. Companies: The Doom Trolling Needs to Stop - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-17T09:04:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRrYjV6aURMY01IUk9JaXRnNjg5a0Nrb2ZYNS1hbldaTldDU0pZbWxxYjNhR1hwbmRRYlU4LXpKak10T0tZRUg4OTNUOHlybTI4ZGdGSXZLSmN2LV9WcVNSYzAyNmFHcVVWQUFnUFF6TmExTnl1aEozRDI5T0JRaFh1dw?oc=5",
-        "summary": "Opinion | Dear A.I. Companies: The Doom Trolling Needs to Stop &nbsp;&nbsp; The New York Times"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
