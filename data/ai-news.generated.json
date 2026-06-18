@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T13:30:39.944Z",
+    "generatedAt": "2026-06-18T17:16:43.430Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "DeepMind plans for rogue AI agents - Axios",
+      "headline": "Anthropic's showdown with Washington could spell trouble for AI - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-18T16:34:06.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic's showdown with Washington could spell trouble for AI &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkhzVnpUa1RUR1pUcVBiTkh1b2ZNMkhzdXRLQ3p3dmlCbDBlN1gxOUNhT25GWEVaOU80bWY2VVpjclZaQVdZNXFod0VKbFF5bkl1bDJId3N0ek5pMk4yS0wwRmp5UExFbkFQRWxWbFY3eDEyOFdJelZsMzVSc01FUGZRdUdHakxfbm9VTkc2Z1ZZVmY5d0o0ZFRWWDczSWJvUmk0WkhCQTU4NmtpSF94NG9OYTNyNFFJTnNqSUxHYw?oc=5"
+    },
+    {
+      "headline": "Project Fetch: Phase two - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-18T16:23:22.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Project Fetch: Phase two &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TLWJxbE9YblE2Wk13TmJ2N0ZxekNHM2R1M01JUnQ0emxWWTBHczk0MzdCajhRSWd2N3l5NEFtQ2pyd1RPM29ncFdfWEdWbWFaOFk4cW13dTVkQWMzY2xYOXl6d3dJaUdlV0E?oc=5"
+    },
+    {
+      "headline": "Exclusive: AI scholar Dean Ball says he's heading to OpenAI - Axios",
       "source": "Axios",
-      "timestamp": "2026-06-18T13:03:49.000Z",
+      "timestamp": "2026-06-18T15:43:56.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Exclusive: AI scholar Dean Ball says he's heading to OpenAI &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54Q0t2amtnZXBxQV8xR3N5cWt2LWRrWElRdF9NbktYaFlrX08xczJLWW0zMlQwNlpZMHBBcHBnSlR5Nmd0M05vSmZUM3RiOXktbTRoU2ZPcktaRkJKS3c?oc=5"
+    },
+    {
+      "headline": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-18T15:18:59.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRm1lOHB5ZFVPa2tSb3h1M2U0Qi10dkRtM3doLTcxN0JyUkV1c1RzTDU3b0JMS0QzUmsxcTRnOXdBWk42TkJtSGl2OGE4TDhkbWNUM1VnWlNfdUhkdUlZNFd0MEt6bnBieVE2elktSExORVZrajV0ZHZR?oc=5"
+    },
+    {
+      "headline": "Google DeepMind prepares for rogue AI agents - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-18T13:06:04.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "DeepMind plans for rogue AI agents &nbsp;&nbsp; Axios",
+      "summary": "Google DeepMind prepares for rogue AI agents &nbsp;&nbsp; Axios",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWtvMHpGVUpqcmMtalRVSTZldjRyNkNQM1kwSXQ3T0JjNDVDazQ4R1NicTBHSHBhcTJiYXFEcjBmOXJZN0ZRR1dPNjBZWmlNNmZtZmpaUjhmQUFnLWlkelc0RUw1bTFyR01lbTNreTFyTEtDSnMxX25CX3NhT2VXcUQ5NA?oc=5"
     },
     {
-      "headline": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-06-18T13:00:00.000Z",
+      "headline": "How we’re securing internal systems against increasingly capable and imperfectly aligned AI - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-06-18T13:01:46.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTy10VmVENVdzSG00VjRXOUxLSHhWNkwzU2JmMGtybzNRdTY4MXE3R0tfV2JLcEZfM05va21rLWV6RWFKQVZzc3V5enFNWTBQNHY3c2JnbVB3c2lidmkxcVhjVU03QUs1em9Hc2tYbG9SZHJNOWhWd044cVY0SFU0S2FfNXB4NDVHUWxvU1FtQUVKX2RCekc0ZlVTaXllR3BjM3UwOHhBeFV0S3c?oc=5"
+      "category": "ecosystem",
+      "summary": "How we’re securing internal systems against increasingly capable and imperfectly aligned AI &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwbVhyR04tNjU3OFI5RHI4TWVqQjVxeUQ5OTVTSHkybWpPc3UwRkhWVnRfRkFSTUZEREhadFE0TWpkZnFYMGJFR1BsVGJhaXQwSkw3eDhPR1lYM1lRX2doTS1rajFzQXV3eXVBWS1IQQ?oc=5"
     },
     {
       "headline": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
@@ -42,145 +82,105 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5"
     },
     {
-      "headline": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-18T00:01:23.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5"
-    },
-    {
-      "headline": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-06-17T22:30:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5"
-    },
-    {
-      "headline": "Introducing LifeSciBench - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-17T20:43:39.000Z",
+      "headline": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-06-18T04:01:31.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Introducing LifeSciBench &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5"
-    },
-    {
-      "headline": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-06-17T17:29:55.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 &nbsp;&nbsp; CNBC",
+      "summary": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm9uWTJqZWE3R1FTQmprVlJSdWYzU21KSmVRd25RSVkwSlBNNmRYT08yZUNsRzdTVVFzYTFCX0VQVUN5dDNxa1hnYnE2Z1NBZjNTYy1VdnhaeERSazV4VzBpNlRvaTF6SGZQdHoxMWVpeXJBcU5CMHVMX0p2RTZqaFEtcWQ?oc=5"
     },
     {
-      "headline": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-17T16:34:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Exclusive: Meta head of product for 'AI for work' transformation is leaving company &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5"
-    },
-    {
-      "headline": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-17T14:14:03.000Z",
+      "headline": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-06-18T04:00:06.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Employees Accuse Trump Administration of Targeting Them &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5"
-    },
-    {
-      "headline": "AI search grounded in Facebook posts? What could go wrong? - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-06-17T13:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI search grounded in Facebook posts? What could go wrong? &nbsp;&nbsp; The Verge",
+      "summary": "Meta’s AI gamble: Dina Powell McCormick opens door to Wall Street &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUNnZ3JVWU5DNTRCYUtNbXVHOFRPU1p6S1hQN1lIMkxWOHNoWnNlcW1JV3lzZURycWhfT3hNbmJma0VHQWhUUVNNXzg0UnFkUzBNeERvYjN2SHp4MDRWUE9XSWJ5VWJYaWlma1pzRGw0ZGpjbWR0MDdicFdXUEtQN1kxZ1pYRXpJWFFfR1VDTlA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDZGd3pVZEpvOHRWd0RuZmxBWEVmYnpDek85Yi1lQ19hV2VPWWRqZ3l2VWZIcTczVUg3cXdyRmhXaHhlLWVGX2N0dDNxSmZFX1NrVzJ2bDZHX09YTWFCT25uY1U0S0lWVVg4TERTLUxWTW9DZGFvQW5JMGtiMjlKWTd4NXg?oc=5"
+    },
+    {
+      "headline": "Star Google AI Researcher Shazeer Joins OpenAI - The Information",
+      "source": "The Information",
+      "timestamp": "2026-06-18T00:09:00.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Star Google AI Researcher Shazeer Joins OpenAI &nbsp;&nbsp; The Information",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXdzWjhwM1dxSUEzM0RKNHcwQklSVlZobkdnUVZzWlJxUXR5Nkxha2NRc1NubC0wZmFqcE9QNllOWVpSYjRSNk80UWdDODdROS1ram1pUjMzNGdweFljMUwtVjZuMHQtTU45Qk9wbXQ2NDgtdHAwdzY0YUZCazlqbG9VczZzaGZqWjlUUEdBSQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "DeepMind plans for rogue AI agents - Axios",
+        "headline": "Anthropic's showdown with Washington could spell trouble for AI - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-06-18T16:34:06.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkhzVnpUa1RUR1pUcVBiTkh1b2ZNMkhzdXRLQ3p3dmlCbDBlN1gxOUNhT25GWEVaOU80bWY2VVpjclZaQVdZNXFod0VKbFF5bkl1bDJId3N0ek5pMk4yS0wwRmp5UExFbkFQRWxWbFY3eDEyOFdJelZsMzVSc01FUGZRdUdHakxfbm9VTkc2Z1ZZVmY5d0o0ZFRWWDczSWJvUmk0WkhCQTU4NmtpSF94NG9OYTNyNFFJTnNqSUxHYw?oc=5",
+        "summary": "Anthropic's showdown with Washington could spell trouble for AI &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Project Fetch: Phase two - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-18T16:23:22.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TLWJxbE9YblE2Wk13TmJ2N0ZxekNHM2R1M01JUnQ0emxWWTBHczk0MzdCajhRSWd2N3l5NEFtQ2pyd1RPM29ncFdfWEdWbWFaOFk4cW13dTVkQWMzY2xYOXl6d3dJaUdlV0E?oc=5",
+        "summary": "Project Fetch: Phase two &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "Exclusive: AI scholar Dean Ball says he's heading to OpenAI - Axios",
         "source": "Axios",
-        "timestamp": "2026-06-18T13:03:49.000Z",
+        "timestamp": "2026-06-18T15:43:56.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54Q0t2amtnZXBxQV8xR3N5cWt2LWRrWElRdF9NbktYaFlrX08xczJLWW0zMlQwNlpZMHBBcHBnSlR5Nmd0M05vSmZUM3RiOXktbTRoU2ZPcktaRkJKS3c?oc=5",
+        "summary": "Exclusive: AI scholar Dean Ball says he's heading to OpenAI &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It. - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-18T15:18:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRm1lOHB5ZFVPa2tSb3h1M2U0Qi10dkRtM3doLTcxN0JyUkV1c1RzTDU3b0JMS0QzUmsxcTRnOXdBWk42TkJtSGl2OGE4TDhkbWNUM1VnWlNfdUhkdUlZNFd0MEt6bnBieVE2elktSExORVZrajV0ZHZR?oc=5",
+        "summary": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Google DeepMind prepares for rogue AI agents - Axios",
+        "source": "Axios",
+        "timestamp": "2026-06-18T13:06:04.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWtvMHpGVUpqcmMtalRVSTZldjRyNkNQM1kwSXQ3T0JjNDVDazQ4R1NicTBHSHBhcTJiYXFEcjBmOXJZN0ZRR1dPNjBZWmlNNmZtZmpaUjhmQUFnLWlkelc0RUw1bTFyR01lbTNreTFyTEtDSnMxX25CX3NhT2VXcUQ5NA?oc=5",
-        "summary": "DeepMind plans for rogue AI agents &nbsp;&nbsp; Axios"
+        "summary": "Google DeepMind prepares for rogue AI agents &nbsp;&nbsp; Axios"
       },
       {
-        "headline": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-18T13:00:00.000Z",
+        "headline": "How we’re securing internal systems against increasingly capable and imperfectly aligned AI - Google DeepMind",
+        "source": "Google DeepMind",
+        "timestamp": "2026-06-18T13:01:46.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTy10VmVENVdzSG00VjRXOUxLSHhWNkwzU2JmMGtybzNRdTY4MXE3R0tfV2JLcEZfM05va21rLWV6RWFKQVZzc3V5enFNWTBQNHY3c2JnbVB3c2lidmkxcVhjVU03QUs1em9Hc2tYbG9SZHJNOWhWd044cVY0SFU0S2FfNXB4NDVHUWxvU1FtQUVKX2RCekc0ZlVTaXllR3BjM3UwOHhBeFV0S3c?oc=5",
-        "summary": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-06-18T10:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5",
-        "summary": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-06-18T00:01:23.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5",
-        "summary": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-06-17T22:30:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5",
-        "summary": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Introducing LifeSciBench - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-06-17T20:43:39.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
-        "summary": "Introducing LifeSciBench &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwbVhyR04tNjU3OFI5RHI4TWVqQjVxeUQ5OTVTSHkybWpPc3UwRkhWVnRfRkFSTUZEREhadFE0TWpkZnFYMGJFR1BsVGJhaXQwSkw3eDhPR1lYM1lRX2doTS1rajFzQXV3eXVBWS1IQQ?oc=5",
+        "summary": "How we’re securing internal systems against increasingly capable and imperfectly aligned AI &nbsp;&nbsp; Google DeepMind"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
