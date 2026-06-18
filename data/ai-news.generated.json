@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T09:18:23.202Z",
+    "generatedAt": "2026-06-18T13:30:39.944Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Emerging technology trends brands and agencies need to know about - Ad Age",
-      "source": "Ad Age",
-      "timestamp": "2026-06-18T09:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Emerging technology trends brands and agencies need to know about &nbsp;&nbsp; Ad Age",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWkJKZnhvTlFRRFVUcGxScHV6MG9fWjMxMlZoUGhPTWRVY3JLSzZYUm51ZGhDcG1DaXRJUFAtQ1RmT2hiUWVJeEZSRUJlalJCVGRQSDJfZG5WeUNwcV96VjBpLW5renRYaWkyUHdRaHpFUnZKLTU5TU4zNi13NGFUbW9nMUViUENsTDh0OXlR?oc=5"
-    },
-    {
-      "headline": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-18T00:25:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5"
-    },
-    {
-      "headline": "Star Google AI Researcher Shazeer Joins OpenAI - The Information",
-      "source": "The Information",
-      "timestamp": "2026-06-18T00:09:00.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Star Google AI Researcher Shazeer Joins OpenAI &nbsp;&nbsp; The Information",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXdzWjhwM1dxSUEzM0RKNHcwQklSVlZobkdnUVZzWlJxUXR5Nkxha2NRc1NubC0wZmFqcE9QNllOWVpSYjRSNk80UWdDODdROS1ram1pUjMzNGdweFljMUwtVjZuMHQtTU45Qk9wbXQ2NDgtdHAwdzY0YUZCazlqbG9VczZzaGZqWjlUUEdBSQ?oc=5"
-    },
-    {
-      "headline": "OpenAI works to stop ChatGPT generating 'sex crime scene' images - BBC",
-      "source": "BBC",
-      "timestamp": "2026-06-17T23:07:40.000Z",
+      "headline": "DeepMind plans for rogue AI agents - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-18T13:03:49.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI works to stop ChatGPT generating 'sex crime scene' images &nbsp;&nbsp; BBC",
+      "summary": "DeepMind plans for rogue AI agents &nbsp;&nbsp; Axios",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWtvMHpGVUpqcmMtalRVSTZldjRyNkNQM1kwSXQ3T0JjNDVDazQ4R1NicTBHSHBhcTJiYXFEcjBmOXJZN0ZRR1dPNjBZWmlNNmZtZmpaUjhmQUFnLWlkelc0RUw1bTFyR01lbTNreTFyTEtDSnMxX25CX3NhT2VXcUQ5NA?oc=5"
+    },
+    {
+      "headline": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-06-18T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTy10VmVENVdzSG00VjRXOUxLSHhWNkwzU2JmMGtybzNRdTY4MXE3R0tfV2JLcEZfM05va21rLWV6RWFKQVZzc3V5enFNWTBQNHY3c2JnbVB3c2lidmkxcVhjVU03QUs1em9Hc2tYbG9SZHJNOWhWd044cVY0SFU0S2FfNXB4NDVHUWxvU1FtQUVKX2RCekc0ZlVTaXllR3BjM3UwOHhBeFV0S3c?oc=5"
+    },
+    {
+      "headline": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-06-18T10:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5"
+    },
+    {
+      "headline": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-06-18T00:01:23.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5"
+    },
+    {
+      "headline": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-06-17T22:30:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eXBuNDNvMXpxR0RYOEdOTTdac29maUEyQWxhU2h1MUlOMDhOM1pkNnpVRU8yZVFKV2tQSmJremlCOHF2azdrY1dnT0V1UXY4UEVMZkNQZGl1QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5"
     },
     {
       "headline": "Introducing LifeSciBench - OpenAI",
@@ -62,32 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5"
     },
     {
-      "headline": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-06-17T20:31:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTHc2Wm5VNUU5Vk5RbjNaNzRTcnNYbWV0Nkd2bGFpWExZNC12WERWbjBYNmw5aFVNTVNYcUZDSmRuMjBUQ25fb2FNNU13UEY3WmxzSmduaXhFWVA3Vl9BNjJSQnNUakc4SFEtdHR1NzB4NlUzM2otbklNTlVOdVNKM25ncnpFSmdRZnB0b2VXY09UNi1OMlJEMTJB?oc=5"
-    },
-    {
-      "headline": "Anthropic Is Bringing Together AI Design and Coding in Claude - CNET",
-      "source": "CNET",
-      "timestamp": "2026-06-17T19:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic Is Bringing Together AI Design and Coding in Claude &nbsp;&nbsp; CNET",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3FNNmtNUHBTaUN3cE9mMjJLWUE1ZzlPRjdoRTgtTENCSkpwYTM3bTM2c0tnNWdsTm1SbFJsc3dTUC12aWNrMzBOZDdnRjN5T2ItWWMyT3N6YlA4NDZfRkJoSFdGM2t5WlRPVHRPaGktNzFaYXE1ZC1nSVVxVkVBdm5WYlRiNnhUZXcteG1sZzI1WEx4bFFV?oc=5"
-    },
-    {
       "headline": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 - CNBC",
       "source": "CNBC",
       "timestamp": "2026-06-17T17:29:55.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 &nbsp;&nbsp; CNBC Anthropic chief tells G7 leaders to ‘resist the temptation to splinter’ over AI &nbsp;&nbsp; Financial Times Trump Says Anthropic Negotiations Continue as AI Leaders Huddle at G-7 &nbsp;&nbsp; WSJ",
+      "summary": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczZWRGpYQXhGYmg3QmtZbkVSMnZPLWRHakVnZXBsXzhCcmtxY0ZGLVpVWEl4V1haODV3dTB2Y2o2UWw0OWRPdFVJV0JheWFxRTdGUjdhRVYyVFZmdTNaSFd3Q2FOaE85T0FkSmFTUEJxanVDcU5RYVdOVkxUTTBNeWF5MGt6YmZrVXh1dTRtZzEwd9IBlwFBVV95cUxOMHFmaGFVQV9mXzcwVm9UazlpRkNMQllyRDJTdFBvQUJTZEpRZXFRTXBrWTlCMTNIMG13VWR2T1JBU1V3Mkx1c3d3VFV2aEI1ZjhHbkNmZEhjQTI5cmgyRzBKRld0NVNyM2tlVTV6NnhZRlFLWl9YWVdydjNEVDhlNnR0ckNoRTEwbmF4TDNlQklrZkdvZllj?oc=5"
     },
@@ -102,53 +92,72 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5"
     },
     {
-      "headline": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-17T15:06:52.000Z",
-      "impact": "HIGH",
+      "headline": "Anthropic Employees Accuse Trump Administration of Targeting Them - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-17T14:14:03.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem &nbsp;&nbsp; Anthropic",
+      "summary": "Anthropic Employees Accuse Trump Administration of Targeting Them &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0NMMk1ub190RVVrVVVjZGVLbnQ4NjBVU3o1dldaTDBIQzNrNERRWUJyWlU2dUl3UWtHVHdPNTRhdEdibmI4Nmx2eVJjR3F3UFNUcDlXQUJ5dlZqRzhzS09QUE1xN3p2MzdEUDBhdXRpbTVKYmhYZHp4MlVCWDdac01kelRSdkE1QnVpb3FSQUs?oc=5"
+    },
+    {
+      "headline": "AI search grounded in Facebook posts? What could go wrong? - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-06-17T13:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AI search grounded in Facebook posts? What could go wrong? &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUNnZ3JVWU5DNTRCYUtNbXVHOFRPU1p6S1hQN1lIMkxWOHNoWnNlcW1JV3lzZURycWhfT3hNbmJma0VHQWhUUVNNXzg0UnFkUzBNeERvYjN2SHp4MDRWUE9XSWJ5VWJYaWlma1pzRGw0ZGpjbWR0MDdicFdXUEtQN1kxZ1pYRXpJWFFfR1VDTlA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Emerging technology trends brands and agencies need to know about - Ad Age",
-        "source": "Ad Age",
-        "timestamp": "2026-06-18T09:00:00.000Z",
+        "headline": "DeepMind plans for rogue AI agents - Axios",
+        "source": "Axios",
+        "timestamp": "2026-06-18T13:03:49.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWtvMHpGVUpqcmMtalRVSTZldjRyNkNQM1kwSXQ3T0JjNDVDazQ4R1NicTBHSHBhcTJiYXFEcjBmOXJZN0ZRR1dPNjBZWmlNNmZtZmpaUjhmQUFnLWlkelc0RUw1bTFyR01lbTNreTFyTEtDSnMxX25CX3NhT2VXcUQ5NA?oc=5",
+        "summary": "DeepMind plans for rogue AI agents &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-06-18T13:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTy10VmVENVdzSG00VjRXOUxLSHhWNkwzU2JmMGtybzNRdTY4MXE3R0tfV2JLcEZfM05va21rLWV6RWFKQVZzc3V5enFNWTBQNHY3c2JnbVB3c2lidmkxcVhjVU03QUs1em9Hc2tYbG9SZHJNOWhWd044cVY0SFU0S2FfNXB4NDVHUWxvU1FtQUVKX2RCekc0ZlVTaXllR3BjM3UwOHhBeFV0S3c?oc=5",
+        "summary": "Google DeepMind unveils a plan to protect itself from its own rogue AI agents &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-06-18T10:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWkJKZnhvTlFRRFVUcGxScHV6MG9fWjMxMlZoUGhPTWRVY3JLSzZYUm51ZGhDcG1DaXRJUFAtQ1RmT2hiUWVJeEZSRUJlalJCVGRQSDJfZG5WeUNwcV96VjBpLW5renRYaWkyUHdRaHpFUnZKLTU5TU4zNi13NGFUbW9nMUViUENsTDh0OXlR?oc=5",
-        "summary": "Emerging technology trends brands and agencies need to know about &nbsp;&nbsp; Ad Age"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5",
+        "summary": "Exclusive | Baseten, the $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-06-18T00:25:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-        "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI &nbsp;&nbsp; Reuters"
+        "headline": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-06-18T00:01:23.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5",
+        "summary": "The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "Star Google AI Researcher Shazeer Joins OpenAI - The Information",
-        "source": "The Information",
-        "timestamp": "2026-06-18T00:09:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXdzWjhwM1dxSUEzM0RKNHcwQklSVlZobkdnUVZzWlJxUXR5Nkxha2NRc1NubC0wZmFqcE9QNllOWVpSYjRSNk80UWdDODdROS1ram1pUjMzNGdweFljMUwtVjZuMHQtTU45Qk9wbXQ2NDgtdHAwdzY0YUZCazlqbG9VczZzaGZqWjlUUEdBSQ?oc=5",
-        "summary": "Star Google AI Researcher Shazeer Joins OpenAI &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "OpenAI works to stop ChatGPT generating 'sex crime scene' images - BBC",
-        "source": "BBC",
-        "timestamp": "2026-06-17T23:07:40.000Z",
-        "impact": "LOW",
+        "headline": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-06-17T22:30:00.000Z",
+        "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14eXBuNDNvMXpxR0RYOEdOTTdac29maUEyQWxhU2h1MUlOMDhOM1pkNnpVRU8yZVFKV2tQSmJremlCOHF2azdrY1dnT0V1UXY4UEVMZkNQZGl1QQ?oc=5",
-        "summary": "OpenAI works to stop ChatGPT generating 'sex crime scene' images &nbsp;&nbsp; BBC"
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5",
+        "summary": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "Introducing LifeSciBench - OpenAI",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRldkU1V6b2NGSGE1N1VvVEtkNkEzUFd0aFRJMmVyd01jVG1qa2dMbDZ0c3BDYUpTbGZfVGdWWmVwMEFsVXZCUUFZanZmYmZCMHY2UnZSU2NQRV9jNDFkUjVn?oc=5",
         "summary": "Introducing LifeSciBench &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-06-17T20:31:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTHc2Wm5VNUU5Vk5RbjNaNzRTcnNYbWV0Nkd2bGFpWExZNC12WERWbjBYNmw5aFVNTVNYcUZDSmRuMjBUQ25fb2FNNU13UEY3WmxzSmduaXhFWVA3Vl9BNjJSQnNUakc4SFEtdHR1NzB4NlUzM2otbklNTlVOdVNKM25ncnpFSmdRZnB0b2VXY09UNi1OMlJEMTJB?oc=5",
-        "summary": "Meta's New AI Search Could Generate $10 Billion A Year— And Challenge Google's Dominance &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
