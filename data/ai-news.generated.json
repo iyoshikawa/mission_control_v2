@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T19:35:49.677Z",
+    "generatedAt": "2026-06-22T22:07:12.851Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,36 @@
   },
   "newsFeed": [
     {
+      "headline": "AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-06-22T21:19:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "AI models that can take down governments and business months away, rare Five Eyes statement warns &nbsp;&nbsp; The Guardian AI regulation is a mess, and Anthropic is caught in the crosshairs &nbsp;&nbsp; CNN OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5"
+    },
+    {
+      "headline": "UFC finally rolls out new Meta AI fighter rankings after years of complaints - Yahoo Sports",
+      "source": "Yahoo Sports",
+      "timestamp": "2026-06-22T21:09:03.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "UFC finally rolls out new Meta AI fighter rankings after years of complaints &nbsp;&nbsp; Yahoo Sports",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYTZQbEVpeHlEWFcxY2hpM251LU9BYnFSY25GZm9MbmVhSnVPRy11dFJBVk9FZl9EbldWLXNZM3llNGoyYlIzUWx3c0VpYWN3OWhPaGYzQm5FTUtsZThiRDh0OGZwd0w4VzdDQ3JmeXJHMmVOSUpNMFZxZ19EUVk?oc=5"
+    },
+    {
+      "headline": "Alphabet Shares Drop After Second AI Star Departs for a Rival - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-06-22T19:35:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Alphabet Shares Drop After Second AI Star Departs for a Rival &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGd5bHRlMVJWY2RlcklxMXloNVlzOWhseDVfZmtrZXlDd2FWd1pvQW5ZZWJNeGQtdVJKWWJNX3hQVnJDcWJyWnMzZDZXSVVMRGUzdUJjRUlPQm81N1NUaFNkSlRjOEkyM0ppRkZRVVZ4VWl5eFRxZzdLOF8zUlRfYXBZblhYMl9SY3p0TzZ0TTlERGEtQWxzTy0yVEJOMHVEMUpyZFNqZzc3QzdReF85dFlR?oc=5"
+    },
+    {
       "headline": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's",
       "source": "Barron's",
       "timestamp": "2026-06-22T19:22:00.000Z",
@@ -22,34 +52,34 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5"
     },
     {
-      "headline": "Google Stock Falls As Top AI Scientists Defect To OpenAI, Anthropic - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "timestamp": "2026-06-22T18:36:00.000Z",
+      "headline": "OpenAI and Anthropic are aggressively poaching talent, dealing Google its worst stock drop in nearly a year. - Moomoo",
+      "source": "Moomoo",
+      "timestamp": "2026-06-22T18:36:43.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google Stock Falls As Top AI Scientists Defect To OpenAI, Anthropic &nbsp;&nbsp; Investor's Business Daily",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZMTjZIeVZWdURKc2RyUzRqaTUxLWI1R28tU3BVdFBKa1Bucm1tbmNuR1E0c1k5MjJlUlNqNU1UUjBaemQ2SGVkbkpJQXEyeTZtUU5YcDVGWTBrclFrV3hGWlVNUmlKYnNFeGUzYzBtMXY2VVQ1REhEWHdUekJfOE5reTcwdllpWm1IU1ZCc1NseEpLOGpOUTNfcHB5NENxUHM4SE90Z0pqdERZeGFXRjZwUEtCZlUw?oc=5"
-    },
-    {
-      "headline": "Micron, Anthropic sign AI infrastructure supply agreement - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-06-22T18:02:59.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Micron, Anthropic sign AI infrastructure supply agreement &nbsp;&nbsp; Yahoo Finance Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure &nbsp;&nbsp; Yahoo Finance Micron Stock Roars Higher on Supply Deal with Anthropic &nbsp;&nbsp; Barron's",
+      "summary": "OpenAI and Anthropic are aggressively poaching talent, dealing Google its worst stock drop in nearly a year. &nbsp;&nbsp; Moomoo",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamZkTzJzZ2lmbGcxVXVHWTlYNW4tNXktd1VZWFFqYl9jMXJkRVdVUWpULXlpVTVjU0JvaEpNVFR3a29FZ1FKWXFLM1h2YzExcXVJaUhlRjh0ZzZBRUVnQWFSU3NXSGNvNjhWYXk4UVJoS3psWW9FR21rcDNhUnJaYUtSZW54bFI2NGtQejJKMl9pREZGZFEwYWkxUzJrVDhyMHRjb3Nn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0ZZOHBEU2Z5aU9CYmV4cHM3UVJ3MDBzckN4b0tfUkFpZUs3RG43XzBfazhCblZmMnNrdHA2QjdMUUJhcWs5MlgydU1JaEUzWnNoUGItMmhzWU5QZjAwQUxwaEo1ZGpSSTZ1QnlUSDRQVjRxLXFCZ1FSTXBtOHJhdzBGVW5HT1ZSUVpsb0E1aFM3b0FfNDBEdmF3MEg4Qll2NEk5b2QwU25YM3F3YWU4U0NRVjg?oc=5"
     },
     {
-      "headline": "AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-06-22T17:04:00.000Z",
+      "headline": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-06-22T17:00:00.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "AI models that can take down governments and business months away, rare Five Eyes statement warns &nbsp;&nbsp; The Guardian AI regulation is a mess, and Anthropic is caught in the crosshairs &nbsp;&nbsp; CNN Top Intel Agencies Say AI-Driven Cyber Catastrophes Are Imminent: 'The Timeline Is Not Years, It Is Months' &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5"
+      "category": "models",
+      "summary": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos &nbsp;&nbsp; WIRED",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVVQa0VKYk5fX0llNEFqWkd6eUxPNi1vc1Q5MG9ZMG9OVkY1M2lWVXpSa3dmU2wwVS00eWM2V0hMVFVUU2tYUThyMzZ6bDh2RE14STd4azV0T05iaGdPT1Q0YnZ3NEEzNVY4R2cxcW1XaHhXU29HeFRtN1VhVWd1RHlYYU1WbzZzYW8zNEpPTHA1VmN4Wkc5dno0UDk0UHhNMGd1UUFRbkdJWVVjZF96elVkQW1WSUJ6d0x6eHhR?oc=5"
+    },
+    {
+      "headline": "Alphabet stock slides as Google loses two top AI researchers - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-06-22T16:49:55.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Alphabet stock slides as Google loses two top AI researchers &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0d3S3BlNHB5dXB3RjZyMXFXWkVBSTlrbnhzVzJjNmhzSHNscDVsX1lBTmNObGdsRVdWYld5dmVjdWhwaktja2hDWGdta2hNdEd2ODFRdVBqMEliWGU0SUJVb1B2eXlrWmI3eWhUaEJ3T19wbG1VZUM5UGpLNHdHNA?oc=5"
     },
     {
       "headline": "Google DeepMind and A24 announce first-of-its-kind research partnership - blog.google",
@@ -57,7 +87,7 @@
       "timestamp": "2026-06-22T14:35:26.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership &nbsp;&nbsp; blog.google Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal &nbsp;&nbsp; TechCrunch Google DeepMind signs AI research deal with film studio A24 &nbsp;&nbsp; Reuters",
+      "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership &nbsp;&nbsp; blog.google Google DeepMind signs AI research deal with film studio A24 &nbsp;&nbsp; Reuters Google DeepMind Partners With Hollywood Indie Darling A24 to Develop AI Filmmaking Tools &nbsp;&nbsp; CNET",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHNzeWxBQVZURjJWLXhoTURBSXZTa2stNlpYTVpfUG5WT29NNlVYc1ZORjNGajlQaE9vQmlwOGVzS1VtcWQtUTNCNVhXZ0ZnLTVJNThHTS1yQjdNWm00RHRzMEMtVWNYdGdaN0hQeTlNUkJfNTExbkMxTjFHZTR5QkpmV0RqWWNraFpJSFRRWGN6UWFwbkV4LXFiYnlvTTM0emhZNGVBcFVvWDZC?oc=5"
     },
@@ -78,42 +108,39 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "AI and tech are trying to influence the midterm elections &nbsp;&nbsp; NPR",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5"
-    },
-    {
-      "headline": "The path to a frontier AI job, according to a top Google DeepMind engineer - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-22T08:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The path to a frontier AI job, according to a top Google DeepMind engineer &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXR5ZUJUM29ubGM4WDhJT3ZiSHczb21zQnNEMllxVHdINDBrX3NjQ1pGa2lCR3g4aW83OV9WUUlURWJyR0hYU2pSVVU2M3hxdkxVc1htZEljSG9IbTlsMlFqemI2NUNFMEtLQjdlMl9BOW9uYTJyb0h4dDM0cml0aWZCcHdTM0taTmJnOU91WVRoTmZyenk5VWVINElzZw?oc=5"
-    },
-    {
-      "headline": "Getty Images Announces Display Partnership with OpenAI - Getty Images Newsroom",
-      "source": "Getty Images Newsroom",
-      "timestamp": "2026-06-22T01:32:44.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Getty Images Announces Display Partnership with OpenAI &nbsp;&nbsp; Getty Images Newsroom",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2pGbG1LaXRfY2toamx1UTBUclNTLS1NczJ3TkRXQnVoM25yeHVlWVhqOUNyY195UTVXVk9PMm1PT2tSc3hrZW52LWRqbUdudzYxNTRGWU9Md0dONUhrOUxPSWJHZXFzb0JxOURjamthMFRwU2VSUWRmUnhabEJtRXFNdndSc19ham9TN0Rvdjd3eFV0WFNqZXVoc3dLYVpuUkpjdzBB?oc=5"
-    },
-    {
-      "headline": "Samsung Electronics brings ChatGPT and Codex to employees - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-21T23:07:42.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Samsung Electronics brings ChatGPT and Codex to employees &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90VVluclVyOVNEY3I2a2hVMzg0Ylp1VFhXa1pIdHlCd19wRUI4Z1pZZUktTUxZZnlPMjJ3YXZiRWswRzdBZENMRW02WFRYYTRRV1NxLUtwZjl0djc2dFhOZm5QdTJERUl6Q2N2eTFsQ1BfLTNXWlNwR3ZR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-06-22T21:19:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
+        "summary": "AI models that can take down governments and business months away, rare Five Eyes statement warns &nbsp;&nbsp; The Guardian AI regulation is a mess, and Anthropic is caught in the crosshairs &nbsp;&nbsp; CNN OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos &nbsp;&nbsp; WIRED"
+      },
+      {
+        "headline": "UFC finally rolls out new Meta AI fighter rankings after years of complaints - Yahoo Sports",
+        "source": "Yahoo Sports",
+        "timestamp": "2026-06-22T21:09:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYTZQbEVpeHlEWFcxY2hpM251LU9BYnFSY25GZm9MbmVhSnVPRy11dFJBVk9FZl9EbldWLXNZM3llNGoyYlIzUWx3c0VpYWN3OWhPaGYzQm5FTUtsZThiRDh0OGZwd0w4VzdDQ3JmeXJHMmVOSUpNMFZxZ19EUVk?oc=5",
+        "summary": "UFC finally rolls out new Meta AI fighter rankings after years of complaints &nbsp;&nbsp; Yahoo Sports"
+      },
+      {
+        "headline": "Alphabet Shares Drop After Second AI Star Departs for a Rival - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-06-22T19:35:42.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGd5bHRlMVJWY2RlcklxMXloNVlzOWhseDVfZmtrZXlDd2FWd1pvQW5ZZWJNeGQtdVJKWWJNX3hQVnJDcWJyWnMzZDZXSVVMRGUzdUJjRUlPQm81N1NUaFNkSlRjOEkyM0ppRkZRVVZ4VWl5eFRxZzdLOF8zUlRfYXBZblhYMl9SY3p0TzZ0TTlERGEtQWxzTy0yVEJOMHVEMUpyZFNqZzc3QzdReF85dFlR?oc=5",
+        "summary": "Alphabet Shares Drop After Second AI Star Departs for a Rival &nbsp;&nbsp; Bloomberg"
+      },
       {
         "headline": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's",
         "source": "Barron's",
@@ -124,49 +151,22 @@
         "summary": "Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic &nbsp;&nbsp; Barron's"
       },
       {
-        "headline": "Google Stock Falls As Top AI Scientists Defect To OpenAI, Anthropic - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "timestamp": "2026-06-22T18:36:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZMTjZIeVZWdURKc2RyUzRqaTUxLWI1R28tU3BVdFBKa1Bucm1tbmNuR1E0c1k5MjJlUlNqNU1UUjBaemQ2SGVkbkpJQXEyeTZtUU5YcDVGWTBrclFrV3hGWlVNUmlKYnNFeGUzYzBtMXY2VVQ1REhEWHdUekJfOE5reTcwdllpWm1IU1ZCc1NseEpLOGpOUTNfcHB5NENxUHM4SE90Z0pqdERZeGFXRjZwUEtCZlUw?oc=5",
-        "summary": "Google Stock Falls As Top AI Scientists Defect To OpenAI, Anthropic &nbsp;&nbsp; Investor's Business Daily"
-      },
-      {
-        "headline": "Micron, Anthropic sign AI infrastructure supply agreement - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-06-22T18:02:59.000Z",
+        "headline": "OpenAI and Anthropic are aggressively poaching talent, dealing Google its worst stock drop in nearly a year. - Moomoo",
+        "source": "Moomoo",
+        "timestamp": "2026-06-22T18:36:43.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamZkTzJzZ2lmbGcxVXVHWTlYNW4tNXktd1VZWFFqYl9jMXJkRVdVUWpULXlpVTVjU0JvaEpNVFR3a29FZ1FKWXFLM1h2YzExcXVJaUhlRjh0ZzZBRUVnQWFSU3NXSGNvNjhWYXk4UVJoS3psWW9FR21rcDNhUnJaYUtSZW54bFI2NGtQejJKMl9pREZGZFEwYWkxUzJrVDhyMHRjb3Nn?oc=5",
-        "summary": "Micron, Anthropic sign AI infrastructure supply agreement &nbsp;&nbsp; Yahoo Finance Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure &nbsp;&nbsp; Yahoo Finance Micron Stock Roars Higher on Supply Deal with Anthropic &nbsp;&nbsp; Barron's"
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0ZZOHBEU2Z5aU9CYmV4cHM3UVJ3MDBzckN4b0tfUkFpZUs3RG43XzBfazhCblZmMnNrdHA2QjdMUUJhcWs5MlgydU1JaEUzWnNoUGItMmhzWU5QZjAwQUxwaEo1ZGpSSTZ1QnlUSDRQVjRxLXFCZ1FSTXBtOHJhdzBGVW5HT1ZSUVpsb0E1aFM3b0FfNDBEdmF3MEg4Qll2NEk5b2QwU25YM3F3YWU4U0NRVjg?oc=5",
+        "summary": "OpenAI and Anthropic are aggressively poaching talent, dealing Google its worst stock drop in nearly a year. &nbsp;&nbsp; Moomoo"
       },
       {
-        "headline": "AI models that can take down governments and business months away, rare Five Eyes statement warns - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-06-22T17:04:00.000Z",
+        "headline": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-06-22T17:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5",
-        "summary": "AI models that can take down governments and business months away, rare Five Eyes statement warns &nbsp;&nbsp; The Guardian AI regulation is a mess, and Anthropic is caught in the crosshairs &nbsp;&nbsp; CNN Top Intel Agencies Say AI-Driven Cyber Catastrophes Are Imminent: 'The Timeline Is Not Years, It Is Months' &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "Google DeepMind and A24 announce first-of-its-kind research partnership - blog.google",
-        "source": "blog.google",
-        "timestamp": "2026-06-22T14:35:26.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHNzeWxBQVZURjJWLXhoTURBSXZTa2stNlpYTVpfUG5WT29NNlVYc1ZORjNGajlQaE9vQmlwOGVzS1VtcWQtUTNCNVhXZ0ZnLTVJNThHTS1yQjdNWm00RHRzMEMtVWNYdGdaN0hQeTlNUkJfNTExbkMxTjFHZTR5QkpmV0RqWWNraFpJSFRRWGN6UWFwbkV4LXFiYnlvTTM0emhZNGVBcFVvWDZC?oc=5",
-        "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership &nbsp;&nbsp; blog.google Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal &nbsp;&nbsp; TechCrunch Google DeepMind signs AI research deal with film studio A24 &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos - The Official Microsoft Blog",
-        "source": "The Official Microsoft Blog",
-        "timestamp": "2026-06-22T13:57:48.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGVvNHhKaERSTHJncmh3dklWT3hRYlA2Zjh3UFdFd0h6VnZUX2Q1YUxVb0dpaEFMOGhwcUgzcXQ1cmlsZi10UVpoV3pzOWs0WE54c0swN29WbFVuZkZHMDNDLWRvVXpSSU9IOFEzcEZRVzNKbU54dVh4aDZzeE5hMk9WdWlFbkVvZkhERDJpQ2ZYNW1oSTZOdDEwcnlCSUFGdjR2UGJYNzVUYUM1LXNJT0xpSnIyMmZwWUdVY3lmUGVva1E?oc=5",
-        "summary": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos &nbsp;&nbsp; The Official Microsoft Blog"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVVQa0VKYk5fX0llNEFqWkd6eUxPNi1vc1Q5MG9ZMG9OVkY1M2lWVXpSa3dmU2wwVS00eWM2V0hMVFVUU2tYUThyMzZ6bDh2RE14STd4azV0T05iaGdPT1Q0YnZ3NEEzNVY4R2cxcW1XaHhXU29HeFRtN1VhVWd1RHlYYU1WbzZzYW8zNEpPTHA1VmN4Wkc5dno0UDk0UHhNMGd1UUFRbkdJWVVjZF96elVkQW1WSUJ6d0x6eHhR?oc=5",
+        "summary": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos &nbsp;&nbsp; WIRED"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
