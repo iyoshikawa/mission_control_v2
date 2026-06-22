@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T12:48:59.453Z",
+    "generatedAt": "2026-06-22T17:39:26.506Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,10 +12,21 @@
   },
   "newsFeed": [
     {
-      "headline": "Wall St futures muted as investors monitor US-Iran negotiations",
-      "summary": "Wall St futures muted as investors monitor US-Iran negotiations &nbsp;&nbsp; Reuters",
+      "headline": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
+      "summary": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-22T11:35:39.000Z",
+      "timestamp": "2026-06-22T17:03:39.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHRnOGVKZXFxVV9uVlMzMWtWeHlnMUhnVy1TclhMZ1VMQkxaZ3NwWXhnODhkYWhSSUNsSV93SEJLQ3FnSk9vZnVFeWFfcG1aNlpMUjJaV2dKbkJ0WTlWWGl4OVd2Zm05REV3MUhnczhZZDlwbUxMM1JUVTRZU0R4QWRmN3IyUWZlckJtd3JKSmlaS0RyYzJHU3BJTWlTTlFLNlhHcDlUQWZicW9OZ3RxVGFaTFRuekpabF9kM2xKd2hIYnRrVkJqMi1Od1lXLXV5OWc?oc=5"
+    },
+    {
+      "headline": "S&P 500, Nasdaq fall as megacap tech drags; Iran developments watched",
+      "summary": "S&P 500, Nasdaq fall as megacap tech drags; Iran developments watched &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-22T16:52:39.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -23,21 +34,54 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDQxcFBhNUJhWlNpLXhmbHBEcUMxSG00alpWU2t3bGpwWU82RUFLZmVFWklDZWpJSjg0a2dYdm14bkoxN3BYanhxUTMyZGprZ25rVlpCXzNQV3NaQmlUcVMydlp5eEdUQ1FMWU92ckNXWjhzTWt5R3NvNTV0UmFtbkhjTExKRm1hWlNPWThBemtwMExrWm9jcFFac2VHZVpmMmFYRGx1dWc?oc=5"
     },
     {
-      "headline": "Spain's ex-transport minister sentenced to 24 years for corruption",
-      "summary": "Spain's ex-transport minister sentenced to 24 years for corruption &nbsp;&nbsp; Reuters",
+      "headline": "Ukraine says it struck Russian missile electronics plant",
+      "summary": "Ukraine says it struck Russian missile electronics plant &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-22T11:03:21.000Z",
+      "timestamp": "2026-06-22T15:21:06.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1hWWVlGTTY4VjRGaWVNOEFzbE85amxQc0FWb3F0bU0yVG1SUmhHOUNnOHpIRlllSkt0LU9kQUE5VllEVkFlNmRSZXhQRjlmOVFPaTlWbnlMNGltN3VfdmdQLWNCZTI2Sm9pUmRZdk1oOGlBdXF3eXVKNEI5MFVaeHd0dHBzQzdSWkNJNUtsT0ZBT3I0ejVKbFIxZDBwOHVZZlYyaHlRN1c?oc=5"
+    },
+    {
+      "headline": "SpaceX launches debt sale to raise capital, reports $100.8 billion in cash",
+      "summary": "SpaceX launches debt sale to raise capital, reports $100.8 billion in cash &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-22T14:24:16.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamVGNUNCekRkV2ZtMU9IRG02N0FjajV4eVFfeVFzb1JHRzdudjlNNmQ3MGthVng0QmNiVmFrQWl0T05iTkd6bllFTW90dl9oblphQzZNbzdjZHg5Mk9NSHNpaTBTX2RRUE9TM09QVEpPb3BFRGZkU0ZuLVhlb1BNaklDVVNjUVFNcFdPRjNJN05vMmRCZVRDX2FkWTZtb2pRc0ZGVkF3MEY1RXM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnpZYWw2elZhcEd4NV81LWZtVmt1N0Q0aW05Y0FUWmcwSkU3YXBZc3cxLUpOSnVmNjItbzNWS1RaOUNHbkRSbExWMU13QThHa1U1ZnJWMlRjdFR3Z1dNVVppR2pOaHZ0SUdybnFfbElvcTRBOEQ5Z0lycVBqdXNVcE1VWTBhRnd3Vk1ObWxQMjJ2dzByMVVNOTFpSnZnUTJLQTVveDVwbXVNT0VScGJjTk9XT05pX3R0TzZLWE1sQ3NnbFk?oc=5"
+    },
+    {
+      "headline": "Lebanon ceasefire largely holds but fears persist it may collapse",
+      "summary": "Lebanon ceasefire largely holds but fears persist it may collapse &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-22T14:18:37.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEJiczdBeDQ3LUFmcVg2eUo1aEQ4SU5HenU2Z0pEWVlVOFFFQnRIRmdMbzZsVVFvWnhEQ3ROTFE2OHUyVko4QmhYX0ZDQ2VWZmI4THFrNXRxWDFGeVA1SFo0LW9zSkVuc1lDRFlSOXF6bzJOYjlCd1JDdnNpWWxmRU43REdsemxoYnRXUGkzbWxUeVMzNjFxSFBval9HZXhZNGNnN2E0RDhRaUp5WmhmTWMzVUhZT28?oc=5"
+    },
+    {
+      "headline": "China targets US rare earth and other firms with export controls",
+      "summary": "China targets US rare earth and other firms with export controls &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-22T14:00:43.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwMUNHSlo4YlRqQWJidnZCVFRFREo3S2Z4UE5tdTB0SGtNYUZpRFpTSjVER3dKWkQzWEthSFZEQ1paaEtzejc3dlBoRllKLUp3emI1cHVGT1Bqc1dJd2tkbjRCRTFCcFUtdW1ZVlpDVi1CNGRuS3B0ZFN0UHlwdw?oc=5"
     },
     {
       "headline": "Pope Leo decries leaders who 'feed' wars while millions go hungry",
       "summary": "Pope Leo decries leaders who 'feed' wars while millions go hungry &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-22T10:03:43.000Z",
+      "timestamp": "2026-06-22T12:42:29.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "conflict",
@@ -45,59 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkpUelBYZDR1UlQ2UFBQX1lnc09zRkQyNHNCaWpId2JTVDVzeFBRa3VRajBwT0FaeDIwNGdsdWNZZ2JYT2NjeklCRGZqWHo0bWg4Yi0yOVZuenljb285eUpBUnhYVWxycDJreWFuUUd3ZmpGVWl2UGR3ZUE1Y3U5WS1WaXVqTUtHbm4xQ0Z3SHJjYWR5ekw0Y0ZKYnhCTEMweXpiY0RUYlY?oc=5"
     },
     {
-      "headline": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal",
-      "summary": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal &nbsp;&nbsp; Reuters",
+      "headline": "Ukraine's military strikes Russian satellite communications site in Moscow region",
+      "summary": "Ukraine's military strikes Russian satellite communications site in Moscow region &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-22T09:27:29.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVB4ZG5yUDVOYUpKajhiSmwyOWRRUi0yQkw3SHM0Sm83Vk0tWV9QRUV6U1BjU3ZubVFwZ3BkTWMyZXVEejlVenpfZ0ZnUlBSdTYtNUFSd1p2QzZfUHJRa3FLMXR0VFF0NS1CV0duMk1VMll1QUY3TkJkU1RYb0FDNlduUE0ybmpGSkVRSG5kN0xmdDdYT1p5ZEsyUkl0dm1sWEg4ZXgyZ21KWFRmZU1IRjhJWkZ2aGlCWWJ1U2hPNldwaGt3?oc=5"
-    },
-    {
-      "headline": "Talks between Iran and US concluded successfully, Pakistan PM says",
-      "summary": "Talks between Iran and US concluded successfully, Pakistan PM says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-22T09:16:35.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUd1TkUtQ2RTNmZWcDNhUkRKNzdzeE40NVhQRVIwSElGdHRwc2JyXzV6cTE4Wkw3WmxTWDQ2emFyQkxqZDNkdTlOdDUwN1ZYZmpmTFdtZDFqYkpBS0xQQjNySkxMalJlZ0VsUFFYbERCQUkxMl9hM1ByUVB5VXpVWFo2Si0wQzFyUUZELUlRSndYOFJDR0h4NnZMVmpFTDU2cnhwTmdOUks4UmtPNWs5ZGJZcno0eU0?oc=5"
-    },
-    {
-      "headline": "EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say",
-      "summary": "EXCLUSIVE: India in talks to sell supersonic BrahMos missile to UAE, sources say &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-22T09:14:01.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnpzMm5md3pmWEpzNWs1MlM0R1Q2M25EQktFeWRBaWxwRm5vdzk2eWxGTDVZLXhoZXdwemtvZHM4aWNBMl9qZWxvVk5CbFo5cTIwTTd0M0N6a0pzLTFNdzFzalNLcmJxQ1ZKUkxjc0ZnVWtIejEwd2xnUzI0V2tQckc0bG9PYVVxUllaZlE1cldfd2kwMVVaYVpYQ2hfaV91N2swN0h4ZzdUN3M?oc=5"
-    },
-    {
-      "headline": "European shares subdued as investors weigh US-Iran talks",
-      "summary": "European shares subdued as investors weigh US-Iran talks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-22T08:34:54.000Z",
+      "timestamp": "2026-06-22T12:27:41.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDFvY2xfY0xGSDhHVGV3VHdkSmdoeWtyVkdqenNCR2dvbWtBVFhqZlkxcEMwbzRIbFdNMnZqTFd5YnNjN0dyT20zdWpEek5SMTdHMlBEaGdaX2ZoeVFNQi1wcTNHWkFTMjBZcWZtQXJ4SEZ0MDlXcjA2cGxNTWNIRFV4TzdYRVZGVlV3QUpzNkVLcm9ENGI2SG93NWp6MmF5SlZQNA?oc=5"
-    },
-    {
-      "headline": "India seeks preferential access through trade deal with US, Indian trade minister says",
-      "summary": "India seeks preferential access through trade deal with US, Indian trade minister says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-22T07:29:11.000Z",
-      "impact": "HIGH",
-      "region": "India",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVcwOC1NZ2dLbWF3WDJIUHNWaXNaS3BUTmJrSXpDUy0xUUlZeWRhZENnNXFIQjM4TllKeklkWWhoOXdYOVJpNGwwX3pHZDlzOThfQWg2LUpJdzhxU2dyX2czeFE5R3REaEUwWUcyWVV1RF9oQ0w3c2xfZWdqYUlHUVdXWkRkUUdwUnMxWHZ5NllLb2IzMGtZdVlhYXJQSWtaQm5PRXE5cnVxMHdLSHp5NGxYVkN2bnZCQWl0clVXNVk2cVFJVGhF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMEFDY3lFRUhJMVBXUHhGSUl2Y1U4YTN4YTdFdHZnYnVnSjF0T2NCMmg4LTBXNVZncFN0NmR2cXhfbzJibVVaMjVrV2g0UVZ6MlJMei1DcjJaMUF4QnBlVVllQ0NySG1keHpxc2JJdV9NSTV0NFRiUW9XMGhRVlNlWTVSMml5QzNEMnYzWW5uaHRKZkEtdjlabU1NVHgydWF4NnFlVzJ2S0dPbFJ2TVlTQnhER2Y2MVVLblI0dEt1cUhsZjlNa0hwZlZZSGtzdk44TXprV2FORQ?oc=5"
     }
   ]
 }
