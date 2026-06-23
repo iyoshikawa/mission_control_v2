@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T21:01:09.161Z",
+    "generatedAt": "2026-06-23T23:11:03.978Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,26 @@
   },
   "newsFeed": [
     {
+      "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-23T21:45:20.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5"
+    },
+    {
+      "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-23T21:15:16.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5"
+    },
+    {
       "headline": "OpenAI Courts Advertising Bigwigs At Cannes Lions - Forbes",
       "source": "Forbes",
       "timestamp": "2026-06-23T20:48:51.000Z",
@@ -20,6 +40,16 @@
       "summary": "OpenAI Courts Advertising Bigwigs At Cannes Lions &nbsp;&nbsp; Forbes",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV05IZkFYOHBZclotWjROQlVGYnV0SGRpb3g2elZLZ0Q4WmkzU3ZPNEFsUDFEV1RWNXllcEt2bklGdWtrV0RzYWw3Z3o3b0p5WlRlLTVQMExOYlprUFg3em45WEctcTBIaXd6UUZuSWg0TkMwMFJqRXN0NWJZZ002WFBOckI1UFdpT1hGa21OV0ktOHphcVA1NllnOGtCSzhPb1BB?oc=5"
+    },
+    {
+      "headline": "Meta halts worker tracking for AI training due to privacy fears - BBC",
+      "source": "BBC",
+      "timestamp": "2026-06-23T17:51:30.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta halts worker tracking for AI training due to privacy fears &nbsp;&nbsp; BBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5"
     },
     {
       "headline": "Meta's AI training oopsy - LinkedIn",
@@ -32,54 +62,24 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXRaVTZ1dEZkTkNGblVqNkhRZkExYXJVV0tYd3ZfblZEQTJzeVFpX0ZKWXNRN2dCWjdBYzBIM3hKR3RyVS1wQlprU1RXcmFPV1VQSlhhcGo3YWdocHFXS3Nzb2RQaXZDcEQzTzNHZ2RKUXpLcGl2MWlvc0swZ001Y2VB?oc=5"
     },
     {
-      "headline": "Introducing Claude Tag - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-23T17:11:36.000Z",
-      "impact": "LOW",
+      "headline": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-06-23T17:01:00.000Z",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Claude Tag &nbsp;&nbsp; Anthropic Anthropic’s Claude Tag is learning your company, one Slack message at a time &nbsp;&nbsp; TechCrunch Anthropic engineering leader says Claude code made employees' work a 'lonely experience' &nbsp;&nbsp; Fortune",
+      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5"
-    },
-    {
-      "headline": "OpenAI Could Be Worth $1 Trillion. These 3 Stocks Give Investors Exposure Today. - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "timestamp": "2026-06-23T13:54:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Could Be Worth $1 Trillion. These 3 Stocks Give Investors Exposure Today. &nbsp;&nbsp; The Globe and Mail",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTWo4V0l2Nk0ySUQ0bjVQR1BMWDdfNnhsSTZ0YXdDWV9JaVBQcWZmOTc5aGRNSk5DWXB5dXFoUVFXS0xFWVU2REJBSFFKRVNTYmRJdzBGRHZxWjZDdzFBcUJvU1ZjanN4ekpteDQ1QkZZY1dvZHo2M2VZaFpzR2cydnN2Q2NZWWRsa0JaQzlGZU0zMEVaa0Q1Tk9KWjRYbWlwQ3UxT2Vvb2x5TDJHOFFXcXBrNXRScjlBM0NpVXVtdE42LVZqRDRhMnJVSlJMdXFjMXhmLXVZMWxJU3NjVWVrTUFma0ttdjE2Mnl5M1NwajZ0QzIy?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5"
     },
     {
       "headline": "Alphabet (GOOGL) Stock Falls Again as Anthropic Poaches DeepMind Nobel Winner - Barron's",
       "source": "Barron's",
       "timestamp": "2026-06-23T13:22:00.000Z",
-      "impact": "LOW",
+      "impact": "WATCH",
       "category": "ecosystem",
-      "summary": "Alphabet (GOOGL) Stock Falls Again as Anthropic Poaches DeepMind Nobel Winner &nbsp;&nbsp; Barron's US scientist John Jumper to leave Google DeepMind for Anthropic &nbsp;&nbsp; Reuters Alphabet Shares Drop After Second AI Star Departs for a Rival &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Alphabet (GOOGL) Stock Falls Again as Anthropic Poaches DeepMind Nobel Winner &nbsp;&nbsp; Barron's Nobel Winner John Jumper to Leave Google DeepMind for Anthropic &nbsp;&nbsp; Bloomberg Billions wiped off Alphabet as two leading AI researchers defect &nbsp;&nbsp; The Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5"
-    },
-    {
-      "headline": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI - Menlo Ventures",
-      "source": "Menlo Ventures",
-      "timestamp": "2026-06-23T13:04:20.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI &nbsp;&nbsp; Menlo Ventures",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3ZkU09TWXBrVmxMWHh1Z1FDeXFmS25wVjhWNXpWYVg4empxakFuSTRFWVRhRFVJeWI2MV9xNWJkbjhDaTM3Vzl1dy0xZ3FSckJweDN6Uml2aXhTbGFBeW55WFZ6QVRqZmZETVNoNGVNSld2bERkVEU2VlhQSTJjRm9oTW5heHNSOUdoZm40WTFHc0p3M3lleHZPVURxcTJZeGc?oc=5"
-    },
-    {
-      "headline": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner - Gizmodo",
-      "source": "Gizmodo",
-      "timestamp": "2026-06-23T13:00:28.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Meta’s New AI Smart Glasses Drop Ray-Ban Branding and Add Kylie Jenner &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeG4yUGxpUmk4ZEdoRnczbWdfSkwxZUZJZEgzNE9PUS1nRjNoeVBnWndRd09fTjlEVkZKN21ETG5SVHVraXFNRlEyYXg3cFpENmpmci1NNHBYTVJ0RXdnNUt1bGFwWGE0b0hMcG5Da0dKZXI5UXd2dGRrVF9FaThtcEUtVDJKbHliRFZseGhERkxpLUhGTHprRURTTHdvQQ?oc=5"
     },
     {
       "headline": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC",
@@ -87,19 +87,9 @@
       "timestamp": "2026-06-23T13:00:01.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables &nbsp;&nbsp; CNBC Meta is now designing its own, cheaper AI smart glasses &nbsp;&nbsp; CNN We’re Partnering With EssilorLuxottica to Launch Meta Glasses &nbsp;&nbsp; Meta Store Meta debuts AI-powered Meta Glasses, starting at $299 &nbsp;&nbsp; Yahoo Finance Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 &nbsp;&nbsp; Meta Store Would You Wear Kylie Jenner Meta Glasses? &nbsp;&nbsp; The Cut Meta launches cheaper range of AI smart glasses starting at $299 &nbsp;&nbsp; Reuters Meta Glasses Hands-On: Ray-Ban Is Out, Kylie Jenner Is In &nbsp;&nbsp; Engadget Meta's Got New Smart Glasses at a Lower Price, Plus a Kylie Jenner Look &nbsp;&nbsp; CNET",
+      "summary": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables &nbsp;&nbsp; CNBC Meta is now designing its own, cheaper AI smart glasses &nbsp;&nbsp; CNN Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 &nbsp;&nbsp; Meta Store Meta debuts AI-powered Meta Glasses, starting at $299 &nbsp;&nbsp; Yahoo Finance We’re Partnering With EssilorLuxottica to Launch Meta Glasses &nbsp;&nbsp; Meta Store Meta launches cheaper smart glasses without Ray-Ban &nbsp;&nbsp; The Verge Meta launches cheaper range of AI smart glasses starting at $299 &nbsp;&nbsp; Reuters Would You Wear Kylie Jenner Meta Glasses? &nbsp;&nbsp; The Cut Meta releases new smart glasses for $300. What makes them special? &nbsp;&nbsp; USA Today",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNElkSHM0Z1kwS0o5UnAyQUFtSTJ2ZldNc3oxSjNMMmFXVkFTOWNJYi1xOGs1WDBTcXdtUWtSTGZHd1ZQZ21ZUXp6UUw5UnlHRlprVjduSlp6dTUwVWstX2lBZ0RIREl3dVJZcFNENzhoYTJGWEZHMnlmSkRRLVdkdjRwUHZZLWMycE5MdXE1ZTfSAZYBQVVfeXFMTXhIMTRFLW04cnM1Q2NiSG1MRTVpRTZVbFJEQVZVRVVSVlBzR3h0ckxGVGRTTHczTHZvWFktMlE0TW5PamxqSjBaYkNoU0pjaDQyNVNsa29IbEVFeEpSdi1XNlVVNEkyMHI5Tm9id0xqSWZsS184QUJFWGs2VndXNnRLRExBa2pxN0tnODBBVXhJZjItbUZR?oc=5"
-    },
-    {
-      "headline": "How Microsoft scales Azure Kubernetes Service for OpenAI - Techzine Global",
-      "source": "Techzine Global",
-      "timestamp": "2026-06-23T12:32:58.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How Microsoft scales Azure Kubernetes Service for OpenAI &nbsp;&nbsp; Techzine Global",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFhSQ3N4Wjh4QXg2OGNNck94T3k1WWM1dzdfYkp3MGJoMFVsVmpocmREWUZvRDJlRHA5anpST3JqZnhhTGk0bVl5Mjg2NERYbFZoTi1EM1RGRlVtZFR5ejN4SUZnOW5Lajh5NC1wWExrUHhkV09Tbnl5RVpQUmVna2tBOHlNcUU2ZnpuOEY4eXMwc2NzUkNPdDlhS3dYWEdrWThn?oc=5"
     },
     {
       "headline": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure - infoq.com",
@@ -110,10 +100,38 @@
       "summary": "Microsoft Expands Azure Kubernetes Service with Bare Metal, Fleet Management and AI Infrastructure &nbsp;&nbsp; infoq.com",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mX19Rc0dmUTUtUTlIaTJYS2w0M2FOY2l0clZ6dk5aU0M3WkJtM2NVeEtBZk5lS2tTdnpUWjg4Rm1sRklreFVuSXBVempkVHYxZDBmaGZNVzhVNklITFN5TkJieXU1MVZ3UGc?oc=5"
+    },
+    {
+      "headline": "Google takes the hit in AI's talent war - Axios",
+      "source": "Axios",
+      "timestamp": "2026-06-23T08:29:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google takes the hit in AI's talent war &nbsp;&nbsp; Axios",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SMzByMWZzTV9MNFdFTkk3YnBNZTBDaTU4ME1UaW1hbENPM3VONllGMUFXaXJkWXhoZHY4VTdnVXFwOTRJRGptQ1NoU0c4bGRuWkJmU1VBMEFrN3pQU1pneXNFMjVYMmNSNHQ0dmRpR3dpcGZSb2lTbTdR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-23T21:45:20.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
+        "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-23T21:15:16.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
+        "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times"
+      },
       {
         "headline": "OpenAI Courts Advertising Bigwigs At Cannes Lions - Forbes",
         "source": "Forbes",
@@ -122,6 +140,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV05IZkFYOHBZclotWjROQlVGYnV0SGRpb3g2elZLZ0Q4WmkzU3ZPNEFsUDFEV1RWNXllcEt2bklGdWtrV0RzYWw3Z3o3b0p5WlRlLTVQMExOYlprUFg3em45WEctcTBIaXd6UUZuSWg0TkMwMFJqRXN0NWJZZ002WFBOckI1UFdpT1hGa21OV0ktOHphcVA1NllnOGtCSzhPb1BB?oc=5",
         "summary": "OpenAI Courts Advertising Bigwigs At Cannes Lions &nbsp;&nbsp; Forbes"
+      },
+      {
+        "headline": "Meta halts worker tracking for AI training due to privacy fears - BBC",
+        "source": "BBC",
+        "timestamp": "2026-06-23T17:51:30.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5",
+        "summary": "Meta halts worker tracking for AI training due to privacy fears &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Meta's AI training oopsy - LinkedIn",
@@ -133,53 +160,26 @@
         "summary": "Meta's AI training oopsy &nbsp;&nbsp; LinkedIn"
       },
       {
-        "headline": "Introducing Claude Tag - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-06-23T17:11:36.000Z",
-        "impact": "LOW",
+        "headline": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-06-23T17:01:00.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5",
-        "summary": "Introducing Claude Tag &nbsp;&nbsp; Anthropic Anthropic’s Claude Tag is learning your company, one Slack message at a time &nbsp;&nbsp; TechCrunch Anthropic engineering leader says Claude code made employees' work a 'lonely experience' &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "OpenAI Could Be Worth $1 Trillion. These 3 Stocks Give Investors Exposure Today. - The Globe and Mail",
-        "source": "The Globe and Mail",
-        "timestamp": "2026-06-23T13:54:43.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTWo4V0l2Nk0ySUQ0bjVQR1BMWDdfNnhsSTZ0YXdDWV9JaVBQcWZmOTc5aGRNSk5DWXB5dXFoUVFXS0xFWVU2REJBSFFKRVNTYmRJdzBGRHZxWjZDdzFBcUJvU1ZjanN4ekpteDQ1QkZZY1dvZHo2M2VZaFpzR2cydnN2Q2NZWWRsa0JaQzlGZU0zMEVaa0Q1Tk9KWjRYbWlwQ3UxT2Vvb2x5TDJHOFFXcXBrNXRScjlBM0NpVXVtdE42LVZqRDRhMnJVSlJMdXFjMXhmLXVZMWxJU3NjVWVrTUFma0ttdjE2Mnl5M1NwajZ0QzIy?oc=5",
-        "summary": "OpenAI Could Be Worth $1 Trillion. These 3 Stocks Give Investors Exposure Today. &nbsp;&nbsp; The Globe and Mail"
-      },
-      {
-        "headline": "Alphabet (GOOGL) Stock Falls Again as Anthropic Poaches DeepMind Nobel Winner - Barron's",
-        "source": "Barron's",
-        "timestamp": "2026-06-23T13:22:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTc2Y1FPQno3bHpCdFJ5VXlzV0lzWFpsNFlKam5Hc2RnU1RxcXBmOWhpRUVISnJaXzh5Xzd4empiT3BKWFMxUlNOa2xSeVFxdTlyM21GVFdJcUZUU1hWd1VNekgtVU5JN3Rqak1mZFMtdXpaVjFkTXpuMi1KLU1RTHRQaFhSc0k3OFE?oc=5",
-        "summary": "Alphabet (GOOGL) Stock Falls Again as Anthropic Poaches DeepMind Nobel Winner &nbsp;&nbsp; Barron's US scientist John Jumper to leave Google DeepMind for Anthropic &nbsp;&nbsp; Reuters Alphabet Shares Drop After Second AI Star Departs for a Rival &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI - Menlo Ventures",
-        "source": "Menlo Ventures",
-        "timestamp": "2026-06-23T13:04:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3ZkU09TWXBrVmxMWHh1Z1FDeXFmS25wVjhWNXpWYVg4empxakFuSTRFWVRhRFVJeWI2MV9xNWJkbjhDaTM3Vzl1dy0xZ3FSckJweDN6Uml2aXhTbGFBeW55WFZ6QVRqZmZETVNoNGVNSld2bERkVEU2VlhQSTJjRm9oTW5heHNSOUdoZm40WTFHc0p3M3lleHZPVURxcTJZeGc?oc=5",
-        "summary": "Menlo Turns 50 and Announces $3B in Fresh Capital to Go ALL IN on AI &nbsp;&nbsp; Menlo Ventures"
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5",
+        "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
