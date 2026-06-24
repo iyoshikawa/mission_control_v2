@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T23:54:51.133Z",
+    "generatedAt": "2026-06-24T03:28:22.740Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Alibaba sues US for being linked to Chinese military",
-      "summary": "Alibaba sues US for being linked to Chinese military &nbsp;&nbsp; Reuters",
+      "headline": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports",
+      "summary": "Anthropic's Mythos model found vulnerabilities in classified US government systems, AP reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-23T23:25:38.000Z",
+      "timestamp": "2026-06-24T00:54:00.000Z",
       "impact": "HIGH",
       "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEx4cERSZUZNYkRrVFVLVXpTRlh0NDNnZEF5OGg1cXI4WGwweDdzdFM0dFVUZ3YwWXNTUEVjZHhyWUJLWTlFVUw4eXREaG8wbDZaVFFpb0owVE9RbjhTN3JrYUoycGpqamRkd3lmTDRZaUNvUmEwTXhDNHZKU1hjTWkza2hvTWVCYURISXN2eVMtcXhybldMVVBrTV9KS01rRVJPUFpGcHA2LWtKTEZQbHdYS1E0YWVkcUI4SXNvdXg?oc=5"
+    },
+    {
+      "headline": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports",
+      "summary": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-23T23:03:58.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1BkQ0VuVVRQS1dyNXlUd19NMEtTTTNhYVoxT2ZGUm9CMmx6NVIwVVp4d1RKQ2pJclpJM3E5aXVPQm5jMVNJSG5mYWNuRU5ZNU5fTEV4Z2h0T3Q1MGZYbW9ZemRRZ0hTblpwOVJaRnpMNWdoa3QwMlpYVmFHQjEzQ055dk90Q0VmZmEwckJGa09DRnlYR1NqTU9zZjVNS29fRlVwMXlPV1NTNFlLOENpSzRR?oc=5"
+    },
+    {
+      "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump",
+      "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-23T22:54:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHNDNDIxUXRsdnItUDJsUzU0T2hxUE1pZlpyZnVxRnpRdm52ZU9LMzI3d1M4YkZNQnAtSG1fMG5NMVpnU21HZDdjSV9Tekhwb2w4ZXhoMTFyNjV3SHdVd0VUWGlNM1lTVnN3ZEJReVB3UVF1S3FLSUJZLUpaMDc4WVBTM0luMHdJWTVoMjJmekJ1RUdVQnI3U2F0NW80YmhaSzE5MDduRjV4TXZyVFgxNll3Q25KLWVZZGloODl3N2hrQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5"
+    },
+    {
+      "headline": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war",
+      "summary": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-23T22:40:36.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5"
     },
     {
       "headline": "US Senate votes to halt Iran war in latest rebuke of Trump",
@@ -65,39 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWJLQVNrUDByX0d0MGo0ZEVtSzJRTTlsSjBYMUp3Wk5VZkYyeVVHYlJMQUtLZ01sV2c5cFNacnRUTHB3eFI0cGI5ZW44UG9fUW5hZVZkdE10XzkxRWp5d3dvRlBFNDJVeXE4Z3V5UW9GY0lPWWxLRG1famNNR0xTeVJMWnJRVTU0dHVwSkJkVV9tejBES0lPdkFMdzljblE0ak5VcW1kS0RSY3lycVczVmQzSnVRMnBFVGpQd2tRR25sOFlKRnRrdUhwMA?oc=5"
-    },
-    {
-      "headline": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
-      "summary": "Israel targeted Gaza children resulting in genocide, UN inquiry says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-23T19:46:42.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNVMwYS0tRVU1MjdwSkNUTW16YVBINmxKMDByajJ3Sjd0V0lMd0hlZ0UxTEJkQTNNU3R6c1BQc3JiRjNfcEd6VTZHdmd6X2t5bzBlbHRFV0habGhFbWlPeXJPUG9nYmRqMC02b1NyR09SR1k4cHJDbmZPeHdrem13MWZuNl9ueEpDcENaT093eHo0RkFfUmI3RG1lZnB6U2I4SHo3bXBKd0VLSTFaenVVWjhfR183dXEzdmc?oc=5"
-    },
-    {
-      "headline": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend?",
-      "summary": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-23T17:22:26.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWxoaHRXckdsdzBlTkJRYkJ2YnlqWU1LNVhKVW40ank0eVhLZmN5bFNJejVrcmtyU1NUZG9IZ3N6Sk1TTVdEU2g4c1hpeHgtaTZ5c1p5NERfRU8zMF9RdnlYQk1GUWlOU2szMHh0b2ZEb092akQ0NmxmSXN1VGViQ0E0aHFRanJTeHlILVFfMG16eGNpYjRmeXFDNGFhY1JtUmsycVdyWjlXVWJ3T2g2a3VsclRvQkFyelAzci10WWo1dw?oc=5"
-    },
-    {
-      "headline": "London shares fall on rate hike worries; leadership in focus",
-      "summary": "London shares fall on rate hike worries; leadership in focus &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-23T16:24:43.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOajc1SWtMZW84Q1JVS0ZIVVZZbE1jRjhubFFWUDBtYzJONWthbzRVbG5NdG5oV3hpZFpiUlpkQ05zUTRNOTFxd3haVWZCWEU5RGFhZm1Vc0ZzaVZGR2VxTWExZXdjeDJ5SmJscllZNGkwLW5UTGM5VUJuanJHUnVXZ2YyVFJEUFdoMzdDZmZLZHozZ21PVTkyUkdqclZ5ck1mTURIZHloN2VSSVZYb3RMVXF3?oc=5"
     }
   ]
 }
