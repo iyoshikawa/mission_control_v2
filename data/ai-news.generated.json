@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T13:24:53.280Z",
+    "generatedAt": "2026-06-24T16:24:21.567Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI tests homegrown AI chips - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-24T13:14:08.000Z",
+      "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them. - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-06-24T16:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Are ChatGPT and other AI chatbots politically biased? We tested them. &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjNMZk5ZYVBRRHlTbDJrZl85THhCTHJvczVHMzlPcnpUdndRdkV1NGZoNFdvMzNBLVdZaHZpS0tEY1dfWFBYTWtKUXpnQzhFa09vMXBHYmNuOEV3TmJuRWVXeTFvQW1adlNBRDg2R0NBUEhQLXlwdWZHVHNLRUVXYjdRUk9FTjFXSDRGenUyZkZxMkdZelk4OWF5VGI4S2Q4U3lyQUpEWEROTFJLUlM3alNwaEQtV1FveVU4bjV1dW1SM3ZvenFZ?oc=5"
+    },
+    {
+      "headline": "OpenAI just announced its first custom chip to help ChatGPT run better - CNN",
+      "source": "CNN",
+      "timestamp": "2026-06-24T15:11:04.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI just announced its first custom chip to help ChatGPT run better &nbsp;&nbsp; CNN",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5"
+    },
+    {
+      "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-24T15:08:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns &nbsp;&nbsp; The Guardian China’s 360 says it has developed tools to match Anthropic’s Mythos &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5"
+    },
+    {
+      "headline": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-06-24T13:55:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI tests homegrown AI chips &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5"
+      "summary": "Meta pauses employee tracker for AI training amid privacy concerns &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5"
+    },
+    {
+      "headline": "Microsoft remains under pressure from AI spending despite Azure growth - Traders Union",
+      "source": "Traders Union",
+      "timestamp": "2026-06-24T13:36:59.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft remains under pressure from AI spending despite Azure growth &nbsp;&nbsp; Traders Union",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEdqYjFjX0NQS0NiREs2dWlxemJDeFJYendFd2Z2QVA0aGo4SFdUczBibzNCU2lndS1BcUdKZUFKT3Q3Z0F2RXU3dnRaUjFtV2I3N2hQNjJTcVVzNE01NW9DZW9OaW1ZSDl2U3dWelg1bWhndDFiamswTHNoUkRFUjVOODFlOUJoVUFqT0RJZ3BmYkdFN2c?oc=5"
     },
     {
       "headline": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -32,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5"
     },
     {
-      "headline": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-06-24T13:03:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5"
-    },
-    {
       "headline": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic - Fortune",
       "source": "Fortune",
       "timestamp": "2026-06-24T09:00:00.000Z",
@@ -50,16 +80,6 @@
       "summary": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXlNQWNfMzV5UDlIb3FFa19PaXM2VmJmYlNhQ2U4MTFBOWtCOE9iSzNOdjFoTXFTQjltTkNKeHYtWTQycEFEOVNVbXZHOWhfWENOV1kxLTh4NFhlNnA0UjdxRk5nRHJmcjg0R25JOFVTS0prME10Z2hpazZEMnJMZ3g3eUZlN1BGWGUzWVNETHo?oc=5"
-    },
-    {
-      "headline": "Microsoft enhances Azure Kubernetes Service for AI workloads - techgig.com",
-      "source": "techgig.com",
-      "timestamp": "2026-06-24T04:08:03.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft enhances Azure Kubernetes Service for AI workloads &nbsp;&nbsp; techgig.com",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLU5IU05aZWJwdGQxbDdIdDVQbXRIdER1THgtUzJGQUdXRWFOU1RsWHFyWjRzZ0hsQVhIR21iNGQ5Q3NFS04zVmhDS19OZEJ2aFdSajhVVXppRjFKdWIyXzB6NHhZYnZ0aHdGNzgxT2lEUU1HTVNQNWpOUlpkbHVxVEMzR3BiMEZBclYzS1M2aWdZLXpveDAzMGRVUzNJRF9NdlJMRXFxaUllQmdVeG5LSzZlbDV5OVHSAbwBQVVfeXFMTkpZdXJRemp2ZENVSGVBNnV1Ujh0bWVDVkxLakJiTU13dlpzelJOakVVZnFTV3NlU2pnSkFLMm5rdDZkWE1VeEtzMzl5Y0d5Tk9kdG1KOTNPalhDYm1kVWFHVFVDeTcwN3hlTUlwTE83bzJobzlTdWJvem1aZHVzQTRjNmVKZ2ZJTVMzVTBpQjVFMWlKTkdyRkdoQl9GcmdjQlZONHcwX2MtZTRjOVNrTks4cHZVNDRUQm9qeVU?oc=5"
     },
     {
       "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
@@ -72,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5"
     },
     {
-      "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-23T21:15:16.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP &nbsp;&nbsp; CNBC China’s 360 says it has developed tools to match Anthropic’s Mythos &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5"
-    },
-    {
       "headline": "A24 Wouldn’t Tell Hollywood How It Works. Then It Told Google. - IndieWire",
       "source": "IndieWire",
       "timestamp": "2026-06-23T18:00:00.000Z",
@@ -90,16 +100,6 @@
       "summary": "A24 Wouldn’t Tell Hollywood How It Works. Then It Told Google. &nbsp;&nbsp; IndieWire",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmJMVzJLVXVNOXF1b2ktZ0M5a1hZT3dPcm9sVWpCTy1CRU1GWFh6SmZ2NWZzV3dSdS02a3hCZTFGQ0huTUE1TGhnN2ViUEhUd3VwS19mQllUaHk2MnpkVnlOSzNZd3FKUHUzMGZyMXM2ZzNnX2dSN3ZXX28zeDVGMlhWOG40OVBvTmRZ?oc=5"
-    },
-    {
-      "headline": "Meta halts worker tracking for AI training due to privacy fears - BBC",
-      "source": "BBC",
-      "timestamp": "2026-06-23T17:51:30.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta halts worker tracking for AI training due to privacy fears &nbsp;&nbsp; BBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5"
     },
     {
       "headline": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
@@ -115,13 +115,49 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI tests homegrown AI chips - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-24T13:14:08.000Z",
+        "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them. - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-06-24T16:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZm1BWUJCUTdCTURYbDR2TWRSZW95OExGRDNhWFhFcmkxenNYVFJZNFBuXzA5WWs4U2pLSFgtZEE0R283ZzJ4eFhPQlM2WTBZSWZKN3dEdUpBcXV2YVlSYmpYTWVBOVh0eTU3bHdna0Z2NjZucmZDYTdRSlU?oc=5",
-        "summary": "OpenAI tests homegrown AI chips &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjNMZk5ZYVBRRHlTbDJrZl85THhCTHJvczVHMzlPcnpUdndRdkV1NGZoNFdvMzNBLVdZaHZpS0tEY1dfWFBYTWtKUXpnQzhFa09vMXBHYmNuOEV3TmJuRWVXeTFvQW1adlNBRDg2R0NBUEhQLXlwdWZHVHNLRUVXYjdRUk9FTjFXSDRGenUyZkZxMkdZelk4OWF5VGI4S2Q4U3lyQUpEWEROTFJLUlM3alNwaEQtV1FveVU4bjV1dW1SM3ZvenFZ?oc=5",
+        "summary": "Are ChatGPT and other AI chatbots politically biased? We tested them. &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "OpenAI just announced its first custom chip to help ChatGPT run better - CNN",
+        "source": "CNN",
+        "timestamp": "2026-06-24T15:11:04.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5",
+        "summary": "OpenAI just announced its first custom chip to help ChatGPT run better &nbsp;&nbsp; CNN"
+      },
+      {
+        "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-24T15:08:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
+        "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns &nbsp;&nbsp; The Guardian China’s 360 says it has developed tools to match Anthropic’s Mythos &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-06-24T13:55:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5",
+        "summary": "Meta pauses employee tracker for AI training amid privacy concerns &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Microsoft remains under pressure from AI spending despite Azure growth - Traders Union",
+        "source": "Traders Union",
+        "timestamp": "2026-06-24T13:36:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEdqYjFjX0NQS0NiREs2dWlxemJDeFJYendFd2Z2QVA0aGo4SFdUczBibzNCU2lndS1BcUdKZUFKT3Q3Z0F2RXU3dnRaUjFtV2I3N2hQNjJTcVVzNE01NW9DZW9OaW1ZSDl2U3dWelg1bWhndDFiamswTHNoUkRFUjVOODFlOUJoVUFqT0RJZ3BmYkdFN2c?oc=5",
+        "summary": "Microsoft remains under pressure from AI spending despite Azure growth &nbsp;&nbsp; Traders Union"
       },
       {
         "headline": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
@@ -131,42 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
         "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-06-24T13:03:28.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGptUXJWcHBjQnZBWDcyOC0tUHJ1WmtZcldTODgxelBmencyVU11SE15dUZGSVFLTW84eFNNa0JReFpBZ19xOE9BV2ZUSFp0b1hNa2JCRlJpV0VBRm1SMzd1WjlhdnRoMkxWcWtoQUVpUks1cGNwUmYxN1F1REROeFRrVXdJMlVVM2tBa0NmMndvZmJUT0h1VEVSMTl0LWlFN0Qw0gGoAUFVX3lxTE02Y0xJN1hadWJmbzdjcEpjNElldENrREJGa3UtQ2lLNTRsVDFTYmhfTkRGZTFqT21HLWdFXzBzYVpjVjc1X0NiVTF5SDFoa3BVbUxEZVZoZnZDZDFlU1Vpc0dCWDZFbjZiVFJVMHR0c0Q0U2JSYXZrb1FqQnJlMVFFNTctUm81QTc4aDN5NHpQQVZ3c180TGZOTGppdlZyZWNwUzExSXBVVw?oc=5",
-        "summary": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-24T09:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXlNQWNfMzV5UDlIb3FFa19PaXM2VmJmYlNhQ2U4MTFBOWtCOE9iSzNOdjFoTXFTQjltTkNKeHYtWTQycEFEOVNVbXZHOWhfWENOV1kxLTh4NFhlNnA0UjdxRk5nRHJmcjg0R25JOFVTS0prME10Z2hpazZEMnJMZ3g3eUZlN1BGWGUzWVNETHo?oc=5",
-        "summary": "Reid Hoffman: SpaceX is 'not an AI company,' xAI is a 'train wreck'—and room for OpenAI, Anthropic &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Microsoft enhances Azure Kubernetes Service for AI workloads - techgig.com",
-        "source": "techgig.com",
-        "timestamp": "2026-06-24T04:08:03.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLU5IU05aZWJwdGQxbDdIdDVQbXRIdER1THgtUzJGQUdXRWFOU1RsWHFyWjRzZ0hsQVhIR21iNGQ5Q3NFS04zVmhDS19OZEJ2aFdSajhVVXppRjFKdWIyXzB6NHhZYnZ0aHdGNzgxT2lEUU1HTVNQNWpOUlpkbHVxVEMzR3BiMEZBclYzS1M2aWdZLXpveDAzMGRVUzNJRF9NdlJMRXFxaUllQmdVeG5LSzZlbDV5OVHSAbwBQVVfeXFMTkpZdXJRemp2ZENVSGVBNnV1Ujh0bWVDVkxLakJiTU13dlpzelJOakVVZnFTV3NlU2pnSkFLMm5rdDZkWE1VeEtzMzl5Y0d5Tk9kdG1KOTNPalhDYm1kVWFHVFVDeTcwN3hlTUlwTE83bzJobzlTdWJvem1aZHVzQTRjNmVKZ2ZJTVMzVTBpQjVFMWlKTkdyRkdoQl9GcmdjQlZONHcwX2MtZTRjOVNrTks4cHZVNDRUQm9qeVU?oc=5",
-        "summary": "Microsoft enhances Azure Kubernetes Service for AI workloads &nbsp;&nbsp; techgig.com"
-      },
-      {
-        "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-23T21:28:27.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
-        "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise &nbsp;&nbsp; The New York Times"
       }
     ],
     "whyItMatters": [
