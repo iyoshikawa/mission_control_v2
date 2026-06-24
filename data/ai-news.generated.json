@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T03:58:39.781Z",
+    "generatedAt": "2026-06-24T07:50:45.657Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic and OpenAI’s Killer App Might Not Be Enough - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-06-24T03:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic and OpenAI’s Killer App Might Not Be Enough &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT0NnUzNDODB4Y28tODA1XzBEVUsyLWFfdThfMjNJWEJzS0pwMXpBSjNQOUk1WjRWdmx4ZV9BVlB5VWdlRkpxSmJ4U0ZhaG9QUzRBWlRSbTZ6SDRzVGN4bkxhaWh6bHVjbDBOTURkTTQ1RDQ5RV9uODVUSWY5UkowZFR4dnFQbHozSTk5ZXhiLVFITmZRSXhqN2tNUC1tVU5McjdlT0hZTGFScm1NNlA2cEUtUnIzSTgtbEsxbkFrY09PMkkycGdoLXNnZw?oc=5"
+      "headline": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-24T00:47:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP &nbsp;&nbsp; CNBC OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down &nbsp;&nbsp; Decrypt N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjMzU3R1WjVtRXMzWmFjRXkwZVc0Vm5FZnZnQlh6VWJXbTd3TWliLXVHVmozY05QNzhudXdpZXlqMlB6b08wdl9ldElhQWx4ZG81R2xlbER5RmRnZllKRGc4Szh0TlZIMU5KOGkxQWplalI3SzJOVTJnVE1qU3hsZ1hXNC0xUDd5TFY4THBSUVBZOU1OcGRlWHk3cGxFWXRBSFBxdmxES2JxZWE4UFlPX1FrcFFiMVZyWEhQVFZjOFhoeGQzVE5lNHZFVzjSAdIBQVVfeXFMTXdoZEZvVGFuNlFIZ0puWlYtTjVQcXFqQlN3REI5ZGJxMWs0NVhsUHdFbjlzQTdvYnhiY2lnWlpZVy1uajF0LURIZk5idGZrSUZVZGlQLVdVN3NQSWVvUHRfcmRJcmVXcUlHb2U3THoxVHJHdHVQZ2llRnpyUk1ocm5oT2dVZFMzMFRfN1lXWW55QV85M1VreDRMRmtxczk4cDhxSUlWeEV6TjJ5YmxCc01iSFRLWnA4eHRUSVM1d0RmWEFMSzBPUm5fVkUzbXdVZW5R?oc=5"
     },
     {
       "headline": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg.com",
@@ -34,22 +34,12 @@
     {
       "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-06-23T21:45:20.000Z",
+      "timestamp": "2026-06-23T21:28:27.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5"
-    },
-    {
-      "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-23T21:15:16.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5"
     },
     {
       "headline": "An AI price war could steal the thunder from pending Anthropic, OpenAI IPOs - CNBC",
@@ -92,14 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZUFOUnJIQk90TzBjX092eGoybjAwMGJ1ZEVJc2k2U3plTVdkQXRLZ2E2cFV4M1JfZGxQWnpoMnhYUU9PN25vd3pVaTF0a1k3eFpZdEk2bVVGQQ?oc=5"
     },
     {
-      "headline": "Introducing Claude Tag - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-23T17:11:36.000Z",
+      "headline": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-06-23T17:01:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic launches Claude Tag, a tool that works like a virtual employee within Slack &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlxN2NjY2JHZlQweGxfOFBYc3pqbExwWFhXMjVzUmFxa2RyMURaQTFkQ2Y3dEJYdHo5V2EtdHRvd0RnUUdTWnRuQ0tESDR6c3VWX2hTVFRxVk9xRU0tUnpSRzdCRHNvWnZ3YnNEUGxRbWxvam1Zc3RFbWFKMGhhcmJicmtrTEE?oc=5"
+    },
+    {
+      "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-23T17:00:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Introducing Claude Tag &nbsp;&nbsp; Anthropic",
+      "summary": "Anthropic’s Claude Tag is learning your company, one Slack message at a time &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVQ5VktmelZuekFOV3k5TDBQN3E0VHpCNnVqOExoTDNLUzlqTGJfemlja1ZVMU4tdFh0WDc2VFRaY1BYODNyb1VBcVJhMTZvMnl0LVFaN0R1ODZ5SHRHSDdwaW4wRFJwS0t6N3RkN3hEZ053RDA0VEhndzJCNjZCWVZtSnN2VkFIY2NZdDA0RVNDeXlVV0EwaDBLeTF2SlhWYldvaldZWTFnUXByYlE?oc=5"
     },
     {
       "headline": "From insight to action: The next phase of agentic cloud operations - Microsoft Azure",
@@ -115,13 +115,13 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic and OpenAI’s Killer App Might Not Be Enough - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-06-24T03:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT0NnUzNDODB4Y28tODA1XzBEVUsyLWFfdThfMjNJWEJzS0pwMXpBSjNQOUk1WjRWdmx4ZV9BVlB5VWdlRkpxSmJ4U0ZhaG9QUzRBWlRSbTZ6SDRzVGN4bkxhaWh6bHVjbDBOTURkTTQ1RDQ5RV9uODVUSWY5UkowZFR4dnFQbHozSTk5ZXhiLVFITmZRSXhqN2tNUC1tVU5McjdlT0hZTGFScm1NNlA2cEUtUnIzSTgtbEsxbkFrY09PMkkycGdoLXNnZw?oc=5",
-        "summary": "Anthropic and OpenAI’s Killer App Might Not Be Enough &nbsp;&nbsp; Bloomberg.com"
+        "headline": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-06-24T00:47:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjMzU3R1WjVtRXMzWmFjRXkwZVc0Vm5FZnZnQlh6VWJXbTd3TWliLXVHVmozY05QNzhudXdpZXlqMlB6b08wdl9ldElhQWx4ZG81R2xlbER5RmRnZllKRGc4Szh0TlZIMU5KOGkxQWplalI3SzJOVTJnVE1qU3hsZ1hXNC0xUDd5TFY4THBSUVBZOU1OcGRlWHk3cGxFWXRBSFBxdmxES2JxZWE4UFlPX1FrcFFiMVZyWEhQVFZjOFhoeGQzVE5lNHZFVzjSAdIBQVVfeXFMTXdoZEZvVGFuNlFIZ0puWlYtTjVQcXFqQlN3REI5ZGJxMWs0NVhsUHdFbjlzQTdvYnhiY2lnWlpZVy1uajF0LURIZk5idGZrSUZVZGlQLVdVN3NQSWVvUHRfcmRJcmVXcUlHb2U3THoxVHJHdHVQZ2llRnpyUk1ocm5oT2dVZFMzMFRfN1lXWW55QV85M1VreDRMRmtxczk4cDhxSUlWeEV6TjJ5YmxCc01iSFRLWnA4eHRUSVM1d0RmWEFMSzBPUm5fVkUzbXdVZW5R?oc=5",
+        "summary": "Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP &nbsp;&nbsp; CNBC OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down &nbsp;&nbsp; Decrypt N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Anthropic Customer Sues US Over Loss of Fable AI Access - Bloomberg.com",
@@ -135,20 +135,11 @@
       {
         "headline": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-06-23T21:45:20.000Z",
+        "timestamp": "2026-06-23T21:28:27.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXpJZXF2TDlaNjM2WkZqSVFnWjZCaEdlOUpFWmJfVnlTdkUwcUZhaUpKNTV3TUVvMTFRSnlZYUJCZ3llZ0RIXzI1aXNsWjBkb1hSTDBqNklSTWRIdU9PMEpRalpuZHJsTnZIY2puN2hueVhpQ3lQOU1WX3djN2I1N2o4OXlMZzlIOFYxcA?oc=5",
         "summary": "U.S. Presses Meta to Agree to A.I. Reviews as Security Concerns Rise &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-23T21:15:16.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVY2eXB4U3g3bllfNTB1QmJ1UU05UVFPTTVJSUFJNUlKWHhRaG5NbnUtelJQQTFRTEZNLWk2WHNNTktMb19obHBMWkVrelFhcXRFeEFtZlNKNFRxM2V6VFBzUFljajlhbmJHaU1ISGRMNE5MMDJBZlNiYU1INndkdGhhSHdwVVlHTUE?oc=5",
-        "summary": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "An AI price war could steal the thunder from pending Anthropic, OpenAI IPOs - CNBC",
@@ -167,13 +158,22 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVW9EWVpNZUwzeEUwVTktdmhOOFluQkh2bjJfZlhKWGRjWWdnNXlieVN2YnMwUzhlQkNvTHFadV9FdHVPci1rV3ZFZDdiNVFNZjBWdERIN1B4WUZFX0gySzFhVGJ1Nm5BenVTNVZxZFQxY0pTVjF6NURrSWQzZy1qYkdnVU1FekZ4aTMyc2pLOFJfSExGODFrWlRaUVlEVHN4YS1jMkgxdjB6LUlVWXc?oc=5",
         "summary": "Exclusive / DeepMind Chief Demis Hassabis says Google’s still winning AI talent &nbsp;&nbsp; Semafor"
+      },
+      {
+        "headline": "A24 Wouldn’t Tell Hollywood How It Works. Then It Told Google. - IndieWire",
+        "source": "IndieWire",
+        "timestamp": "2026-06-23T18:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZmJMVzJLVXVNOXF1b2ktZ0M5a1hZT3dPcm9sVWpCTy1CRU1GWFh6SmZ2NWZzV3dSdS02a3hCZTFGQ0huTUE1TGhnN2ViUEhUd3VwS19mQllUaHk2MnpkVnlOSzNZd3FKUHUzMGZyMXM2ZzNnX2dSN3ZXX28zeDVGMlhWOG40OVBvTmRZ?oc=5",
+        "summary": "A24 Wouldn’t Tell Hollywood How It Works. Then It Told Google. &nbsp;&nbsp; IndieWire"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
