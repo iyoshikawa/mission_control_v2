@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T12:24:40.655Z",
+    "generatedAt": "2026-06-25T15:41:11.367Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,26 @@
   },
   "newsFeed": [
     {
+      "headline": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-25T15:34:40.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5"
+    },
+    {
+      "headline": "Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic - The Information",
+      "source": "The Information",
+      "timestamp": "2026-06-25T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic &nbsp;&nbsp; The Information",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHp2aWdfbjFNSFFROHdvbVlwYS1KSlZNUVduYXhjTVJEZVY1V1RFWlVjRXhaQ0JPOFJPaEtZaGZjamtLZDhGWFF4UXpsZGdpdjZDdzlqd1l1bzNKTnE5cHJjTDVMZk8tYWZDV2RMRmI5WDhjX2F6V29QV0RPaG9zc3ZXNHVrNnVDOXl5Y21RaXpESlFKSG5KcGcxTDJ1NW5VRmRhZzBVVjNyQTg2bkRR?oc=5"
+    },
+    {
       "headline": "TRUE-See Selected to Participate in Microsoft for Start-Ups Azure AI Program to Accelerate Innovation and Growth - GlobeNewswire",
       "source": "GlobeNewswire",
       "timestamp": "2026-06-25T12:00:00.000Z",
@@ -22,34 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORHFlQzd3eHNobV9ocDVRUlVjWEZLSVpDSWFFaUZZaWdsRXdnM1otdm5GMHVnQmtuSzF1UmQwTWplejBaRnN1Qlpscm9SZEh3NHdnOGp1TDhBdElwSUFER3NMaEs2dWlZTERpd1lsMTJhTC1xTG42OGR5ZW5ndE5wOEZyMHdpcHpSUUkzZ2V0aDZJTmtXY1BQTENxbXR1MEUxaDViUmx6RHFlUGEwWUNGYUR2VXh1OHdsVDhuamtobjNzZ1U0Qi1pYTIydk1iQWlBdW40VHBubDZnSE5MbHhOdmQzZS1sZEp1b19pcXBPalgyXzNKQTl3QnZpMmw3STZvOUxWWkRaTjBWMzVudDVESUFn?oc=5"
     },
     {
-      "headline": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising - Bloomberg",
-      "source": "Bloomberg",
-      "timestamp": "2026-06-25T11:02:01.000Z",
+      "headline": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-06-25T04:00:20.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising &nbsp;&nbsp; Bloomberg",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVW1OVkFBREhScmhvZTJ4SWNYUnNpWTFxQ3NCNm1GR1lqOWtzSHJjal9mREttTmZaQTZiVnV3anRJTm4xcnhHa3hmYkFPeE5ubjNYZ2hEeHRqTUJBVnE0NjJIekZzVGFGZDdpLUQyZ2NhWWRiZUV1NmlfaWdPWEw0dURmMFVfVHIyTTZheFRRV2lpUGF6Rlk2anp0TFMwZUtFQTlINnVmZUsyQnJDSUN5UGloWWVmcmNvZVpteWpfTDNnc2ZIelE?oc=5"
-    },
-    {
-      "headline": "Exclusive: Codex agents are inching into the mainstream - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-25T09:22:08.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Exclusive: Codex agents are inching into the mainstream &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xb0I4WEF1RXg1NlN1Rng3aGN0Qlk1SFh1SHU5NG45SzNLS1BnUklHT0FpRGNzRzNwZmdteDRlVThvWDJkNFBmV3NkS2xXRHpfZkN0ZmNTZEFpVEc2THVkZmVHVDl2UE11R3lB?oc=5"
-    },
-    {
-      "headline": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-06-25T01:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta pauses employee tracker for AI training amid privacy concerns &nbsp;&nbsp; The Guardian",
+      "summary": "Meta looks to AI to review harmful content in cost-cutting drive &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5"
+    },
+    {
+      "headline": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities - BBC",
+      "source": "BBC",
+      "timestamp": "2026-06-25T03:12:17.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities &nbsp;&nbsp; BBC Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities &nbsp;&nbsp; CNBC Alibaba Slides 33% as Anthropic AI Accusation Hits Shares &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsR0dJZ2hQS0JUbl9SYV9XVExWd1g1RzlKSnY4cW56NGc2SzNXTEVIM3RzVzR1cGlUVThlcmVEM25hRUxfb0pqaFhoR0RJcmk3TzBQNk9zbTV6Zw?oc=5"
     },
     {
       "headline": "A24 Knows You’re Mad About the Google AI Collab - WIRED",
@@ -62,26 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbVg1ZUx6TWI2Rkw3SGV1NmJTQ3kxS1ItV0cyZElqNWlkS2E2NUJwM3NtZWlQb3FPOUY4MHo3TWNDd2REYVdJSGVCaEFEWS1MYXdrRGFROEItZ0haRXN0UmxFYjhWb1JVU19vN0drVUVOYUNOUkhEMDgwdmVaQmhUXw?oc=5"
     },
     {
-      "headline": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-24T20:45:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities &nbsp;&nbsp; Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities &nbsp;&nbsp; CNBC Anthropic acuses Alibaba of illicitly accessing its AI &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5"
-    },
-    {
-      "headline": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-24T19:02:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Veterans’ Startup Seeks to Help Scientists Develop Their Own AI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEJWa3Yxc3UyUEM0OXhLNkFjYk5oQ291czY3dDJPSWNWbXBSMEhWUUgyWW5tZnI0VkVTdHRRMl9NRk43S19sa1A2dVo0X09MREpYVEtKWWprODRaQWRvWXhpLXNaeUNPaHVadGZ4TV9sUXFvcFo5ZnBSc1dldVpYZ192anJBN0VSQlZXWXVNaV9VMjN0YUgydGcyTUdGRlIyd3BEVUcxaFdDWEphVGc?oc=5"
-    },
-    {
       "headline": "Meta plans to release AI-powered prediction market app, documents show - NPR",
       "source": "NPR",
       "timestamp": "2026-06-24T18:39:06.000Z",
@@ -92,28 +82,56 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYXRiczFPUFM3d0lUNmtZR0p0dktKX3ZvcEFoUWVoSHI0czN5TF9VQ0JyZ1JLSm1VNHVCMUJHYlZrekJFU0NCbTdzQTNpWGt4WXRkSlQ5TkQ5dzJLSkZqUFpSVWxKQnNVRTlZSGRVa3o4R1FDR1EtblJfOVZORjg?oc=5"
     },
     {
-      "headline": "Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI model - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-24T18:39:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Google delays Gemini 3.5 Pro launch to July as it tweaks its new frontier AI model &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREwxNHVteGEyX2VHdWc4NDlHYzlocExKY1VpMExkZnl2SmM1WXJpbjM2SU5yOWhZb25DWTNSVnJYUzduSE1HY3F5MER0Y0VKQXlkX2M2LVlEUDRZUDlNcWEtU19IRURPSFJYV0VRM19BTHNBcmptaGlkZjJpTkJONngtS0liTG44NW90aEpkbHBLakk?oc=5"
+      "headline": "The Trump White House Is Over Anthropic CEO Dario Amodei - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-06-24T15:15:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Trump White House Is Over Anthropic CEO Dario Amodei &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ2dtMGZVVHNfQmNBUGpkakFqX0wyd2xKaWg5Um9HcmpBdVlXQ3pHT1V2MkpPTHJUNVJZNkRuMlJUdldDaFc3czVoV21Db29pbmc5LTV1UlFhRERKUFotc0RBd1VKaEE5Ul81aXNGa2JndXNMa1FJUEh0eDNWblNlcTdvXzZ4bmljcVE?oc=5"
     },
     {
-      "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them. - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-06-24T16:00:00.000Z",
+      "headline": "OpenAI just announced its first custom chip to help ChatGPT run better - CNN",
+      "source": "CNN",
+      "timestamp": "2026-06-24T15:11:04.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Are ChatGPT and other AI chatbots politically biased? We tested them. &nbsp;&nbsp; The Washington Post",
+      "summary": "OpenAI just announced its first custom chip to help ChatGPT run better &nbsp;&nbsp; CNN",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjNMZk5ZYVBRRHlTbDJrZl85THhCTHJvczVHMzlPcnpUdndRdkV1NGZoNFdvMzNBLVdZaHZpS0tEY1dfWFBYTWtKUXpnQzhFa09vMXBHYmNuOEV3TmJuRWVXeTFvQW1adlNBRDg2R0NBUEhQLXlwdWZHVHNLRUVXYjdRUk9FTjFXSDRGenUyZkZxMkdZelk4OWF5VGI4S2Q4U3lyQUpEWEROTFJLUlM3alNwaEQtV1FveVU4bjV1dW1SM3ZvenFZ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WUXB6aWNVTGpySTB4VTZkTnhvR29QZDdFVThwM1JucTkxQVRWc3VkOE9Ec2plRVdWaFlfY0dZb1lOb1hpaHd3MU1uMjRhTHJ1dHhzdzBrYlZVSUhMVjJZVFgyRG5pLWpSb3VDUXF1MjRyQmtMQ2ww?oc=5"
+    },
+    {
+      "headline": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-24T13:05:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-06-25T15:34:40.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
+        "summary": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic - The Information",
+        "source": "The Information",
+        "timestamp": "2026-06-25T13:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHp2aWdfbjFNSFFROHdvbVlwYS1KSlZNUVduYXhjTVJEZVY1V1RFWlVjRXhaQ0JPOFJPaEtZaGZjamtLZDhGWFF4UXpsZGdpdjZDdzlqd1l1bzNKTnE5cHJjTDVMZk8tYWZDV2RMRmI5WDhjX2F6V29QV0RPaG9zc3ZXNHVrNnVDOXl5Y21RaXpESlFKSG5KcGcxTDJ1NW5VRmRhZzBVVjNyQTg2bkRR?oc=5",
+        "summary": "Google Revamps New AI Coding Strike Team Amid Struggle to Catch Up With Anthropic &nbsp;&nbsp; The Information"
+      },
       {
         "headline": "TRUE-See Selected to Participate in Microsoft for Start-Ups Azure AI Program to Accelerate Innovation and Growth - GlobeNewswire",
         "source": "GlobeNewswire",
@@ -124,31 +142,22 @@
         "summary": "TRUE-See Selected to Participate in Microsoft for Start-Ups Azure AI Program to Accelerate Innovation and Growth &nbsp;&nbsp; GlobeNewswire"
       },
       {
-        "headline": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-06-25T11:02:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVW1OVkFBREhScmhvZTJ4SWNYUnNpWTFxQ3NCNm1GR1lqOWtzSHJjal9mREttTmZaQTZiVnV3anRJTm4xcnhHa3hmYkFPeE5ubjNYZ2hEeHRqTUJBVnE0NjJIekZzVGFGZDdpLUQyZ2NhWWRiZUV1NmlfaWdPWEw0dURmMFVfVHIyTTZheFRRV2lpUGF6Rlk2anp0TFMwZUtFQTlINnVmZUsyQnJDSUN5UGloWWVmcmNvZVpteWpfTDNnc2ZIelE?oc=5",
-        "summary": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising &nbsp;&nbsp; Bloomberg"
-      },
-      {
-        "headline": "Exclusive: Codex agents are inching into the mainstream - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-25T09:22:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xb0I4WEF1RXg1NlN1Rng3aGN0Qlk1SFh1SHU5NG45SzNLS1BnUklHT0FpRGNzRzNwZmdteDRlVThvWDJkNFBmV3NkS2xXRHpfZkN0ZmNTZEFpVEc2THVkZmVHVDl2UE11R3lB?oc=5",
-        "summary": "Exclusive: Codex agents are inching into the mainstream &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-06-25T01:30:00.000Z",
+        "headline": "Meta looks to AI to review harmful content in cost-cutting drive - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-06-25T04:00:20.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5",
-        "summary": "Meta pauses employee tracker for AI training amid privacy concerns &nbsp;&nbsp; The Guardian"
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtoSnE3cGZpWHAxTm5sM1ZlX2VFVXU5MjREdEtQRkl6ZWFKVTJKTmc4TlBPWUJUbUtOVkYxMFlWYnZsdkJZSURzR2daaDdrSDBYSElPaTJ4TXdHb083RGRpandNMHE0cmFFWHpmRE5QM0lnbnc1SVFaM1dJbTZRWGVqajg?oc=5",
+        "summary": "Meta looks to AI to review harmful content in cost-cutting drive &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities - BBC",
+        "source": "BBC",
+        "timestamp": "2026-06-25T03:12:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsR0dJZ2hQS0JUbl9SYV9XVExWd1g1RzlKSnY4cW56NGc2SzNXTEVIM3RzVzR1cGlUVThlcmVEM25hRUxfb0pqaFhoR0RJcmk3TzBQNk9zbTV6Zw?oc=5",
+        "summary": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities &nbsp;&nbsp; BBC Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities &nbsp;&nbsp; CNBC Alibaba Slides 33% as Anthropic AI Accusation Hits Shares &nbsp;&nbsp; Yahoo Finance"
       },
       {
         "headline": "A24 Knows You’re Mad About the Google AI Collab - WIRED",
@@ -158,15 +167,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbVg1ZUx6TWI2Rkw3SGV1NmJTQ3kxS1ItV0cyZElqNWlkS2E2NUJwM3NtZWlQb3FPOUY4MHo3TWNDd2REYVdJSGVCaEFEWS1MYXdrRGFROEItZ0haRXN0UmxFYjhWb1JVU19vN0drVUVOYUNOUkhEMDgwdmVaQmhUXw?oc=5",
         "summary": "A24 Knows You’re Mad About the Google AI Collab &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-06-24T20:45:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-        "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities &nbsp;&nbsp; Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities &nbsp;&nbsp; CNBC Anthropic acuses Alibaba of illicitly accessing its AI &nbsp;&nbsp; Yahoo"
       }
     ],
     "whyItMatters": [
@@ -178,14 +178,14 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
