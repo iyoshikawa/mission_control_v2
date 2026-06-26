@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T00:13:49.944Z",
+    "generatedAt": "2026-06-26T05:11:53.983Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-25T23:34:39.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanItU1E3cmxGQnpYdFFSZlRNR3dqYXpLM2R1Z0s4bGRpZ1VMM29kUEk5XzRKZElXNnYwczd2OTM0R0ZpV2tWTVVxRm1wcExjeVNUeVRsNHV1QU8tUUVUSkl6eUtWZHluekJwVzJncFdER2dvZjkwaEROV0psSFNnNGVDdjlieF9uOFNEU3ZZcFAzUXA3V1I2bEtvZWh0TWpqQWd2blZUOVZ3cXE3NDFCODlmM0l5RHR5cjhDbjFrTzVOdEJaSUpHbmVB?oc=5"
-    },
-    {
       "headline": "Is A24 Still Cool? - The Hollywood Reporter",
       "source": "The Hollywood Reporter",
       "timestamp": "2026-06-25T23:10:07.000Z",
@@ -32,9 +22,19 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVEzdXlJdFV2UkNzSV8za2VVLXpvVy02N0pjRnQxcDNLRDRpdkNGcW5hVmlaa3lMLWJrbERhUWd3S3ZxbW1ZNjA4MzZ5M2RaRHBObHEtNTduMlRFbWEyTWpFVEFTckFkLU5zeVJTM01pWVNnNEtYanFaMVk0Q3VLdExWMEN0T1hlaFF1MkVvcHE4dG11cHBVY1l0Mk54YXc?oc=5"
     },
     {
+      "headline": "White House asks OpenAI to limit its next model release - CNN",
+      "source": "CNN",
+      "timestamp": "2026-06-25T22:40:54.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "White House asks OpenAI to limit its next model release &nbsp;&nbsp; CNN",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5"
+    },
+    {
       "headline": "OpenAI Leans Toward Waiting Until Next Year for I.P.O. - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-06-25T20:58:38.000Z",
+      "timestamp": "2026-06-25T20:31:22.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI Leans Toward Waiting Until Next Year for I.P.O. &nbsp;&nbsp; The New York Times",
@@ -44,7 +44,7 @@
     {
       "headline": "Meta hires Virtue AI founders - Axios",
       "source": "Axios",
-      "timestamp": "2026-06-25T16:51:39.000Z",
+      "timestamp": "2026-06-25T16:53:04.000Z",
       "impact": "WATCH",
       "category": "ecosystem",
       "summary": "Meta hires Virtue AI founders &nbsp;&nbsp; Axios",
@@ -92,37 +92,28 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY25tVUw2ZGxxQ0R0WGxNUFdkS2ZNcWFYQ3dFSUR6d0JHWklyUDh6ZlI3eHpTWEt5Q2NNOTVnZmdnbFpFdHdqR2JVd2ZHYzAyVkRRWkZWZ1ZtdnBHR0cxb25FZ0toVkFhZm42WUE0RTk0VXhRZE1hdkNuUWhkR29mSmUwUEE1UGRUQ3JrS0xrSWo3d1lWWlN0elBvaXk0VzV5dkJkRHk5eHZ3ek0?oc=5"
     },
     {
+      "headline": "Meta pauses employee tracker for AI training amid privacy concerns - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-06-25T01:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta pauses employee tracker for AI training amid privacy concerns &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEtjQ21NNmxBbXhUVHBsUlpKZWJfbXVGVUktcjAybTlzVlo5YkJKek1fTTFjM0dYTW8wUHM5WGZockpOU1hUUHRtcGdlR3BMaUx6bmhlSGdRXzktSGlQQUJtU0xZVnBkeVZxaktJeDZ3aTNQTnUyRVFxdEJlRHI3WEFOTDVESThpRkRTdHBvVDZoeU1hZUItNjAwNDExSEVNMnFpMkJON1h4cW1PMkJDbGNOVEVKRkUx?oc=5"
+    },
+    {
       "headline": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
       "source": "Reuters",
       "timestamp": "2026-06-24T20:45:00.000Z",
       "impact": "HIGH",
       "category": "regulation",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities &nbsp;&nbsp; Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities &nbsp;&nbsp; CNBC Alibaba Slides 33% as Anthropic AI Accusation Hits Shares &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities &nbsp;&nbsp; Reuters Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities &nbsp;&nbsp; CNBC Alibaba Slides to 16-Month Low After Anthropic’s AI Accusations &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5"
-    },
-    {
-      "headline": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-06-24T19:13:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "REI gets roasted for a nonsensical Instagram ad featuring a bike with 2 sets of handlebars — and blames a Meta AI tool &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGVIRm1OLXYyUU5aM3FQeXY4MTRDanAtLVN5aDEzWnpiX19FVjQ4LXFkb2stTmsycTE2M0pJaHMwV1A3bEVmUXdGWmp6U0FqQ1d5MjFEZXpaRHgwVnFmNmJ0WXdXdFZhU19ZYkFjejRfWG5IS1RRTGRhVTFfSHlJX1ZlY1AzaHkyYTRnSnZ6VEo?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-06-25T23:34:39.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanItU1E3cmxGQnpYdFFSZlRNR3dqYXpLM2R1Z0s4bGRpZ1VMM29kUEk5XzRKZElXNnYwczd2OTM0R0ZpV2tWTVVxRm1wcExjeVNUeVRsNHV1QU8tUUVUSkl6eUtWZHluekJwVzJncFdER2dvZjkwaEROV0psSFNnNGVDdjlieF9uOFNEU3ZZcFAzUXA3V1I2bEtvZWh0TWpqQWd2blZUOVZ3cXE3NDFCODlmM0l5RHR5cjhDbjFrTzVOdEJaSUpHbmVB?oc=5",
-        "summary": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns &nbsp;&nbsp; TechCrunch"
-      },
       {
         "headline": "Is A24 Still Cool? - The Hollywood Reporter",
         "source": "The Hollywood Reporter",
@@ -133,9 +124,18 @@
         "summary": "Is A24 Still Cool? &nbsp;&nbsp; The Hollywood Reporter"
       },
       {
+        "headline": "White House asks OpenAI to limit its next model release - CNN",
+        "source": "CNN",
+        "timestamp": "2026-06-25T22:40:54.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5",
+        "summary": "White House asks OpenAI to limit its next model release &nbsp;&nbsp; CNN"
+      },
+      {
         "headline": "OpenAI Leans Toward Waiting Until Next Year for I.P.O. - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-06-25T20:58:38.000Z",
+        "timestamp": "2026-06-25T20:31:22.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5",
@@ -144,7 +144,7 @@
       {
         "headline": "Meta hires Virtue AI founders - Axios",
         "source": "Axios",
-        "timestamp": "2026-06-25T16:51:39.000Z",
+        "timestamp": "2026-06-25T16:53:04.000Z",
         "impact": "WATCH",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWVdvWFhrZGI2OWQ4NVV3OFZiZWpVZGdaMG5iWldfdXBoSWg4cmMxTTZWMkhoZDkzTDBIaHlnWm1xZGEzZWtzYjhRYWkyaHJJTEhYMHZyTzIwLXo1RVBRWUsxdTBqZllOOG8zM1hHZE9NdDVoSXFrQ0QtYw?oc=5",
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
