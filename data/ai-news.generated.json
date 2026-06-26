@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T15:25:34.040Z",
+    "generatedAt": "2026-06-26T19:56:02.239Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,64 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI staggers AI model release after Trump administration request - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-06-26T14:26:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI staggers AI model release after Trump administration request &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5"
-    },
-    {
-      "headline": "If Anthropic Goes Public at $1 Trillion Or More, This Company Could Be a Big Winner - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-06-26T14:15:33.000Z",
+      "headline": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-06-26T19:29:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "If Anthropic Goes Public at $1 Trillion Or More, This Company Could Be a Big Winner &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTU1najY2amNUNHNyelM0bjQ2blJZWDlWSGdyaUw4T0ZEU3NldWNRcktuNl9jemluTVpLS3NzZy1nTFVWLUtCSlZKREYxQmxUTjhMRXBoUEluTGVVODAxTE5nbU03T0o4YUM1ZmJNNjY1dFpnZWlQTVJrTXBXTklvNHFCemNPMGZVcWpnZmRXV3Axbk91bjlVV0NORkk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBWLTd5Q0dIYW9weEt2RC1pME5NYTJHS0lQNWdlWk9STHhYWk5zeEhNVS1pN1VUeDZxWkcyMW02c3VyRmdWN1BhLU02MU10ejJpMmtBMldTeUltOF9oNkJVYWZ4Sm5zV0UyVm5HTFJFUTVnNEljcjNfTlQ3eXlvbmt2NlRPN05QVXNpbDFzS3NoajRSeWdaa3VTR0U1OUw0V3F6eTln?oc=5"
+    },
+    {
+      "headline": "U.S. government will decide who gets to use latest upgrade to ChatGPT - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-06-26T19:20:01.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "U.S. government will decide who gets to use latest upgrade to ChatGPT &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5"
+    },
+    {
+      "headline": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ - Variety",
+      "source": "Variety",
+      "timestamp": "2026-06-26T19:03:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ &nbsp;&nbsp; Variety",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82NWZnOV9mdWZfLXFCQndvRFJ5TmZqZWxyam5ET2s2WUpObmFVSTREc3Z6S25obkNhLUR2VDVoUWJWS3Y2WG1QUk1NSUFsVDZWSFR1d19QMGwzY1NxX1BETEM3dnlXanl4LVpSZmYxVElhU0lvTmhCeldWQ1FUUQ?oc=5"
+    },
+    {
+      "headline": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-26T17:02:16.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Previewing GPT-5.6 Sol: a next-generation model &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
+    },
+    {
+      "headline": "It’s not about Anthropic vs. OpenAI anymore - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-26T16:24:47.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "It’s not about Anthropic vs. OpenAI anymore &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2xMaWJzRW1BNGxvdk5VNEQ3aTdabGVKTk9KVFo2bW5ydjNUamQ4S3A1Ny04d2JORjhGUm4zekN2VnNkYjUwa3Bick1uQTZMdXNOdE5laE5lV2tRemhvcldSV3gwUkI1XzE0MUctNzZKMG8zelFrcHFVeUF0R2VUSWNB?oc=5"
+    },
+    {
+      "headline": "Anthropic Economic Index report: Cadences - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-26T15:19:33.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Economic Index report: Cadences &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNVR0S19Od3hZaWJSaTdlRkpZOVZJa0M4TzhldFg0WElpY3duXzlHT3AtZXNoazJSbXlUSTE5dEpiUmVWc0FRaTJOc2tValRaOFJmRnlHS3IwYk5DNnp6OGtCY3p0cWFRR0dNQjVfcVhXbk5X?oc=5"
+    },
+    {
+      "headline": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-06-26T12:00:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5"
     },
     {
       "headline": "How the DeepMind mafia brought the AI boom to London - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-06-26T04:01:46.000Z",
+      "timestamp": "2026-06-26T04:00:25.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "How the DeepMind mafia brought the AI boom to London &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1R4Q3pFQ1ZUN2NONFZKaEdzaDlYYVpFR3JGcHJrOWxrUElPM3pJQWxtZXVhYkhNWkxYaFE5X3VUWndOc3VsV3RYOEJCVE9qWkZPalRoY1lzWkNjbUtaaXRGMVp3RWNBZFI1bHhUYk5nNy1xeS1TNjdYV2x6N0dpVHRrOGU?oc=5"
-    },
-    {
-      "headline": "Anthropic Thinks Its Own Success Is Key to Making AI Safe - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-06-26T00:49:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Thinks Its Own Success Is Key to Making AI Safe &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHBwUko0c3RxQmJjWkwxOFloZFk0UGR3LVBfWEdsd2J3aWVkdklyUGtOWDdPMnpDaVlDTXZQTFJleFp3Zlh3RG5XSjRqaTB0ck55LWhhUlJBUjhBODR2RjgwQTRqVV9nX3FXM2l1NjhNaGJRR1dkb21zQkU4ZWwwVVNhQzM2V0pDcGMw?oc=5"
-    },
-    {
-      "headline": "Is A24 Still Cool? - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "timestamp": "2026-06-25T23:10:07.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Is A24 Still Cool? &nbsp;&nbsp; The Hollywood Reporter",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVEzdXlJdFV2UkNzSV8za2VVLXpvVy02N0pjRnQxcDNLRDRpdkNGcW5hVmlaa3lMLWJrbERhUWd3S3ZxbW1ZNjA4MzZ5M2RaRHBObHEtNTduMlRFbWEyTWpFVEFTckFkLU5zeVJTM01pWVNnNEtYanFaMVk0Q3VLdExWMEN0T1hlaFF1MkVvcHE4dG11cHBVY1l0Mk54YXc?oc=5"
-    },
-    {
-      "headline": "White House asks OpenAI to limit its next model release - CNN",
-      "source": "CNN",
-      "timestamp": "2026-06-25T22:40:54.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "White House asks OpenAI to limit its next model release &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5"
     },
     {
       "headline": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year - The New York Times",
@@ -82,104 +102,84 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5"
     },
     {
-      "headline": "How agents are transforming work - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-25T17:06:11.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "How agents are transforming work &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHNYTEZhLU5SOXBrb1BCR1ZyUFdoVmhCVVZkdDdLd1ppekRnZkE5M1otaGxUVTZqSjlwZTk3WmJCYzE3ekctSW9MNEFZSXM1RmR1Wmlya3VXdkZjZGtJRkZIaXFFbk8wUEE?oc=5"
-    },
-    {
       "headline": "Meta hires Virtue AI founders - Axios",
       "source": "Axios",
-      "timestamp": "2026-06-25T16:57:36.000Z",
+      "timestamp": "2026-06-25T16:38:04.000Z",
       "impact": "WATCH",
       "category": "ecosystem",
       "summary": "Meta hires Virtue AI founders &nbsp;&nbsp; Axios",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWVdvWFhrZGI2OWQ4NVV3OFZiZWpVZGdaMG5iWldfdXBoSWg4cmMxTTZWMkhoZDkzTDBIaHlnWm1xZGEzZWtzYjhRYWkyaHJJTEhYMHZyTzIwLXo1RVBRWUsxdTBqZllOOG8zM1hHZE9NdDVoSXFrQ0QtYw?oc=5"
-    },
-    {
-      "headline": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-06-25T15:34:41.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI staggers AI model release after Trump administration request - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-06-26T14:26:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5",
-        "summary": "OpenAI staggers AI model release after Trump administration request &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "If Anthropic Goes Public at $1 Trillion Or More, This Company Could Be a Big Winner - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-06-26T14:15:33.000Z",
+        "headline": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-06-26T19:29:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTU1najY2amNUNHNyelM0bjQ2blJZWDlWSGdyaUw4T0ZEU3NldWNRcktuNl9jemluTVpLS3NzZy1nTFVWLUtCSlZKREYxQmxUTjhMRXBoUEluTGVVODAxTE5nbU03T0o4YUM1ZmJNNjY1dFpnZWlQTVJrTXBXTklvNHFCemNPMGZVcWpnZmRXV3Axbk91bjlVV0NORkk?oc=5",
-        "summary": "If Anthropic Goes Public at $1 Trillion Or More, This Company Could Be a Big Winner &nbsp;&nbsp; Yahoo Finance"
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBWLTd5Q0dIYW9weEt2RC1pME5NYTJHS0lQNWdlWk9STHhYWk5zeEhNVS1pN1VUeDZxWkcyMW02c3VyRmdWN1BhLU02MU10ejJpMmtBMldTeUltOF9oNkJVYWZ4Sm5zV0UyVm5HTFJFUTVnNEljcjNfTlQ3eXlvbmt2NlRPN05QVXNpbDFzS3NoajRSeWdaa3VTR0U1OUw0V3F6eTln?oc=5",
+        "summary": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "How the DeepMind mafia brought the AI boom to London - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-06-26T04:01:46.000Z",
+        "headline": "U.S. government will decide who gets to use latest upgrade to ChatGPT - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-06-26T19:20:01.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5",
+        "summary": "U.S. government will decide who gets to use latest upgrade to ChatGPT &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ - Variety",
+        "source": "Variety",
+        "timestamp": "2026-06-26T19:03:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1R4Q3pFQ1ZUN2NONFZKaEdzaDlYYVpFR3JGcHJrOWxrUElPM3pJQWxtZXVhYkhNWkxYaFE5X3VUWndOc3VsV3RYOEJCVE9qWkZPalRoY1lzWkNjbUtaaXRGMVp3RWNBZFI1bHhUYk5nNy1xeS1TNjdYV2x6N0dpVHRrOGU?oc=5",
-        "summary": "How the DeepMind mafia brought the AI boom to London &nbsp;&nbsp; Financial Times"
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82NWZnOV9mdWZfLXFCQndvRFJ5TmZqZWxyam5ET2s2WUpObmFVSTREc3Z6S25obkNhLUR2VDVoUWJWS3Y2WG1QUk1NSUFsVDZWSFR1d19QMGwzY1NxX1BETEM3dnlXanl4LVpSZmYxVElhU0lvTmhCeldWQ1FUUQ?oc=5",
+        "summary": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ &nbsp;&nbsp; Variety"
       },
       {
-        "headline": "Anthropic Thinks Its Own Success Is Key to Making AI Safe - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-06-26T00:49:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHBwUko0c3RxQmJjWkwxOFloZFk0UGR3LVBfWEdsd2J3aWVkdklyUGtOWDdPMnpDaVlDTXZQTFJleFp3Zlh3RG5XSjRqaTB0ck55LWhhUlJBUjhBODR2RjgwQTRqVV9nX3FXM2l1NjhNaGJRR1dkb21zQkU4ZWwwVVNhQzM2V0pDcGMw?oc=5",
-        "summary": "Anthropic Thinks Its Own Success Is Key to Making AI Safe &nbsp;&nbsp; WIRED"
-      },
-      {
-        "headline": "Is A24 Still Cool? - The Hollywood Reporter",
-        "source": "The Hollywood Reporter",
-        "timestamp": "2026-06-25T23:10:07.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVEzdXlJdFV2UkNzSV8za2VVLXpvVy02N0pjRnQxcDNLRDRpdkNGcW5hVmlaa3lMLWJrbERhUWd3S3ZxbW1ZNjA4MzZ5M2RaRHBObHEtNTduMlRFbWEyTWpFVEFTckFkLU5zeVJTM01pWVNnNEtYanFaMVk0Q3VLdExWMEN0T1hlaFF1MkVvcHE4dG11cHBVY1l0Mk54YXc?oc=5",
-        "summary": "Is A24 Still Cool? &nbsp;&nbsp; The Hollywood Reporter"
-      },
-      {
-        "headline": "White House asks OpenAI to limit its next model release - CNN",
-        "source": "CNN",
-        "timestamp": "2026-06-25T22:40:54.000Z",
+        "headline": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-06-26T17:02:16.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5",
-        "summary": "White House asks OpenAI to limit its next model release &nbsp;&nbsp; CNN"
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
+        "summary": "Previewing GPT-5.6 Sol: a next-generation model &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "It’s not about Anthropic vs. OpenAI anymore - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-06-26T16:24:47.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2xMaWJzRW1BNGxvdk5VNEQ3aTdabGVKTk9KVFo2bW5ydjNUamQ4S3A1Ny04d2JORjhGUm4zekN2VnNkYjUwa3Bick1uQTZMdXNOdE5laE5lV2tRemhvcldSV3gwUkI1XzE0MUctNzZKMG8zelFrcHFVeUF0R2VUSWNB?oc=5",
+        "summary": "It’s not about Anthropic vs. OpenAI anymore &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "Anthropic Economic Index report: Cadences - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-26T15:19:33.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNVR0S19Od3hZaWJSaTdlRkpZOVZJa0M4TzhldFg0WElpY3duXzlHT3AtZXNoazJSbXlUSTE5dEpiUmVWc0FRaTJOc2tValRaOFJmRnlHS3IwYk5DNnp6OGtCY3p0cWFRR0dNQjVfcVhXbk5X?oc=5",
+        "summary": "Anthropic Economic Index report: Cadences &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
