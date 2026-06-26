@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T21:23:31.952Z",
+    "generatedAt": "2026-06-26T23:11:32.019Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,19 @@
   },
   "newsFeed": [
     {
+      "headline": "Exclusive / US releases powerful Anthropic model Mythos to some US companies - Semafor",
+      "source": "Semafor",
+      "timestamp": "2026-06-26T22:30:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive / US releases powerful Anthropic model Mythos to some US companies &nbsp;&nbsp; Semafor",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG1SQ2UxUF9nRHQ1ejZ2VU95NllPMFBvd3d4NzVMcEU2ai1JSzlTS3p2em5naEZickIyZWw3S0RPVzl0c0JBZnM5SDBzaEViRWoxY3FXNnBvQy1OdHEySlJmS0x3ZGVaa000RFpUNWwxTjI0bmdkSkhEMGFmMTJrTmE1YWZ0RUsxYnEzS1o3QlMxdHpxTHZDbHVrbFRGQUlCMGl3TmI2Z1dPN1U?oc=5"
+    },
+    {
       "headline": "U.S. government will decide who gets to use latest upgrade to ChatGPT - The Washington Post",
       "source": "The Washington Post",
-      "timestamp": "2026-06-26T21:01:58.000Z",
+      "timestamp": "2026-06-26T22:20:01.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "U.S. government will decide who gets to use latest upgrade to ChatGPT &nbsp;&nbsp; The Washington Post",
@@ -22,54 +32,44 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5"
     },
     {
-      "headline": "A24 Will Survive the AI Backlash, but Some Are Convinced the Company Has ‘Sold Its Soul’ - IndieWire",
-      "source": "IndieWire",
-      "timestamp": "2026-06-26T19:34:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A24 Will Survive the AI Backlash, but Some Are Convinced the Company Has ‘Sold Its Soul’ &nbsp;&nbsp; IndieWire",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajhmV25FTEJyMDAwT3FJbC1BdjlzQjJvQVd4eE5HRmFjT3RFbW81aWhyUXEwREdyUG12d1ZJSmVpUG1xT1BnaVJFRUxPdC1VWGI2MnZZelB6ZW1oRTFMcm9BVi1wY1N5M3pkaldxaU5zczRsRklKaC1vZlFHX3p3Tkdn?oc=5"
-    },
-    {
-      "headline": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-06-26T19:29:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBWLTd5Q0dIYW9weEt2RC1pME5NYTJHS0lQNWdlWk9STHhYWk5zeEhNVS1pN1VUeDZxWkcyMW02c3VyRmdWN1BhLU02MU10ejJpMmtBMldTeUltOF9oNkJVYWZ4Sm5zV0UyVm5HTFJFUTVnNEljcjNfTlQ3eXlvbmt2NlRPN05QVXNpbDFzS3NoajRSeWdaa3VTR0U1OUw0V3F6eTln?oc=5"
-    },
-    {
-      "headline": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ - Variety",
-      "source": "Variety",
-      "timestamp": "2026-06-26T19:03:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ &nbsp;&nbsp; Variety",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82NWZnOV9mdWZfLXFCQndvRFJ5TmZqZWxyam5ET2s2WUpObmFVSTREc3Z6S25obkNhLUR2VDVoUWJWS3Y2WG1QUk1NSUFsVDZWSFR1d19QMGwzY1NxX1BETEM3dnlXanl4LVpSZmYxVElhU0lvTmhCeldWQ1FUUQ?oc=5"
-    },
-    {
-      "headline": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-26T17:02:16.000Z",
+      "headline": "OpenAI staggers AI model release after Trump administration request - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-06-26T21:26:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Previewing GPT-5.6 Sol: a next-generation model &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
+      "summary": "OpenAI staggers AI model release after Trump administration request &nbsp;&nbsp; The Guardian Anthropic Moves Toward Deal With US to Lift Curbs on AI Models &nbsp;&nbsp; Bloomberg.com Opinion | What if Trump is right to pump the brakes on the most advanced AI? &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5"
     },
     {
-      "headline": "Anthropic Economic Index report: Cadences - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-06-26T15:19:33.000Z",
+      "headline": "Phoebe Gates Steps Out for N.Y.C. Date Night with Boyfriend Chaz Flynn - People.com",
+      "source": "People.com",
+      "timestamp": "2026-06-26T21:23:09.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Economic Index report: Cadences &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNVR0S19Od3hZaWJSaTdlRkpZOVZJa0M4TzhldFg0WElpY3duXzlHT3AtZXNoazJSbXlUSTE5dEpiUmVWc0FRaTJOc2tValRaOFJmRnlHS3IwYk5DNnp6OGtCY3p0cWFRR0dNQjVfcVhXbk5X?oc=5"
+      "summary": "Phoebe Gates Steps Out for N.Y.C. Date Night with Boyfriend Chaz Flynn &nbsp;&nbsp; People.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXhnZjZRVUhWUGRqS0dibGxEdDRyVWV0YU1abWdMY1RqYWFwQlRjcE1Ic1ZXRnQzOXNaZ1Y2NlJCV3BOeUlVaWZHelJVZ1VGTy1Gb3Ewc3g0S1JxR0llaU9DMU96aHBJbVQ1TnVDWEFCd01qdFFUdFIwSFRKUGMyU0R3MnBNQWdEOGdLU0U0a1E0VzU0YWM0dE42VS1ybUQ5WURwdUR6VDhOWDBI?oc=5"
+    },
+    {
+      "headline": "A24 Defends Google AI Partnership - Deadline",
+      "source": "Deadline",
+      "timestamp": "2026-06-26T21:03:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "A24 Defends Google AI Partnership &nbsp;&nbsp; Deadline",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TmpNZWdHeV91dTl0TC16VEltMnYwNkgxVy1kOHo5c1loT3Q2YV9QWTFKbHJLeFV5ZWxiaVNxcEVtc2ZySTR1SFFHcVdOS1FMbndCbWlsXy04Vzh6Z0JYeTNqMmliOTBtZlhMQXhMODNwRE03amhGZ205S0JGbms?oc=5"
+    },
+    {
+      "headline": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-06-26T19:22:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanNmRDl4VjEtcDNPRVFrOHdBWHJuOTlFUXlwcnM2cm9OalcyZnVneXhzanh6NC10ZzJrVkpZQzJpbXFVdmxBNEJqZmdnbWpZaUZCXzRrdnRKUm1IeloxVldiejFXbFR1N3ZnaVh0c2dNeHNra2Q1Tlo1dGxpMFU2SDY2Q2RGQ01SVVljb2lSNjZSZFVfQ2pJU2w2aWIwakpZVlZvSS1NVVgwNFRtcGpzQTg1c1RBdk1rb0NoWUI4eFZncWpT?oc=5"
     },
     {
       "headline": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency - CNBC",
@@ -82,24 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMF8taEF1Z1U2WElGXzIwUWt0LXpIUVNQSWhGblA4c1NGdmZDNjRqc2tnZ0pLYlYyMzdhVkplOG83b1FpRkFHRkJKMDR6WmtQQkoxVVRFc0hJRV84WGUwUjNFNFhYNk81aWR4MUpyNkdFcFRIbk9TSU0zNjJtaGZQdFowVW9IaGdlMG5vc0tIUTVaOVdEUkVvMi1aQXBiSEpSQ2xWQmRZVnpYd9IBrwFBVV95cUxOaC1qYUpwNng0bktoMjVCOG9qTTZOcW83SDNEY0hHX1cwdER0VElycDNnVFZSaXZ0ZDVMSm5PX1RQT3J0eEZHVFJBLXpZVG5oWmxtWWtFN3p5dXdvY2Nud09BSnlVVWktX1Z4MmV5TjdMZENMY2pRTVBVVFVnaC10NlZlRnVfWTI1TWpqNDVwbmk5WkEtREpzVTZuX0xkclFXS1Iyd1RsXzlPTy1aRFE4?oc=5"
     },
     {
+      "headline": "Key facts: MSFT FY26 capex +60%; EU flags Azure DMA; in-house AI, OpenAI - TradingView",
+      "source": "TradingView",
+      "timestamp": "2026-06-26T07:13:42.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Key facts: MSFT FY26 capex +60%; EU flags Azure DMA; in-house AI, OpenAI &nbsp;&nbsp; TradingView",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjlpTW8wR1hadWpkb25faEFrUk9MeXZ5RF9DcThndjRDZ2RRQjdhNlNXSlc2ellYZ2xXZjhWS1RLQzhLMXMzdHNyUHRfWUllbURsck9qVjBUckpEUTZrRHRGVFhCUVJzWjZ3S2sta3RTS2I4YTRJUjg3dDlyLUtJX2YzVWE2NFUzTl9UemEzOG1qVTA4OG1vU0x1R0xnNkI2MDNBZVQ1SUZhMl9wV2toSnh3MzRqLWZzdk1JYlk5TFpnR25uYS1J?oc=5"
+    },
+    {
       "headline": "How the DeepMind mafia brought the AI boom to London - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-06-26T04:01:46.000Z",
+      "timestamp": "2026-06-26T04:00:25.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "How the DeepMind mafia brought the AI boom to London &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1R4Q3pFQ1ZUN2NONFZKaEdzaDlYYVpFR3JGcHJrOWxrUElPM3pJQWxtZXVhYkhNWkxYaFE5X3VUWndOc3VsV3RYOEJCVE9qWkZPalRoY1lzWkNjbUtaaXRGMVp3RWNBZFI1bHhUYk5nNy1xeS1TNjdYV2x6N0dpVHRrOGU?oc=5"
-    },
-    {
-      "headline": "Is A24 Still Cool? - The Hollywood Reporter",
-      "source": "The Hollywood Reporter",
-      "timestamp": "2026-06-25T23:10:07.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Is A24 Still Cool? &nbsp;&nbsp; The Hollywood Reporter",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVEzdXlJdFV2UkNzSV8za2VVLXpvVy02N0pjRnQxcDNLRDRpdkNGcW5hVmlaa3lMLWJrbERhUWd3S3ZxbW1ZNjA4MzZ5M2RaRHBObHEtNTduMlRFbWEyTWpFVEFTckFkLU5zeVJTM01pWVNnNEtYanFaMVk0Q3VLdExWMEN0T1hlaFF1MkVvcHE4dG11cHBVY1l0Mk54YXc?oc=5"
     },
     {
       "headline": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year - The New York Times",
@@ -115,84 +115,84 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Exclusive / US releases powerful Anthropic model Mythos to some US companies - Semafor",
+        "source": "Semafor",
+        "timestamp": "2026-06-26T22:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG1SQ2UxUF9nRHQ1ejZ2VU95NllPMFBvd3d4NzVMcEU2ai1JSzlTS3p2em5naEZickIyZWw3S0RPVzl0c0JBZnM5SDBzaEViRWoxY3FXNnBvQy1OdHEySlJmS0x3ZGVaa000RFpUNWwxTjI0bmdkSkhEMGFmMTJrTmE1YWZ0RUsxYnEzS1o3QlMxdHpxTHZDbHVrbFRGQUlCMGl3TmI2Z1dPN1U?oc=5",
+        "summary": "Exclusive / US releases powerful Anthropic model Mythos to some US companies &nbsp;&nbsp; Semafor"
+      },
+      {
         "headline": "U.S. government will decide who gets to use latest upgrade to ChatGPT - The Washington Post",
         "source": "The Washington Post",
-        "timestamp": "2026-06-26T21:01:58.000Z",
+        "timestamp": "2026-06-26T22:20:01.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXc2OG91ajlMZGxyMk1kSk43SmRsTFFUU0RQRngtRGxlN3NDbWZyUXJJNzcxRnJpR1V4WUREOFRXZXFPencyOW50b1U3Wk5GNy1lNzhQRWI3cjBnaDJXTGNZS04xTUt2Z2lCWFlrSFNtRGQzd1R0a0J2X1JlRmxZdXJBWVZ1TzR6aVk3ZWVMTlFCY0F1S2VOVUFoS2dXZjBrR0I2TVplcFpXUE5jaVppMU1faFA?oc=5",
         "summary": "U.S. government will decide who gets to use latest upgrade to ChatGPT &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "A24 Will Survive the AI Backlash, but Some Are Convinced the Company Has ‘Sold Its Soul’ - IndieWire",
-        "source": "IndieWire",
-        "timestamp": "2026-06-26T19:34:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajhmV25FTEJyMDAwT3FJbC1BdjlzQjJvQVd4eE5HRmFjT3RFbW81aWhyUXEwREdyUG12d1ZJSmVpUG1xT1BnaVJFRUxPdC1VWGI2MnZZelB6ZW1oRTFMcm9BVi1wY1N5M3pkaldxaU5zczRsRklKaC1vZlFHX3p3Tkdn?oc=5",
-        "summary": "A24 Will Survive the AI Backlash, but Some Are Convinced the Company Has ‘Sold Its Soul’ &nbsp;&nbsp; IndieWire"
-      },
-      {
-        "headline": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-06-26T19:29:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBWLTd5Q0dIYW9weEt2RC1pME5NYTJHS0lQNWdlWk9STHhYWk5zeEhNVS1pN1VUeDZxWkcyMW02c3VyRmdWN1BhLU02MU10ejJpMmtBMldTeUltOF9oNkJVYWZ4Sm5zV0UyVm5HTFJFUTVnNEljcjNfTlQ3eXlvbmt2NlRPN05QVXNpbDFzS3NoajRSeWdaa3VTR0U1OUw0V3F6eTln?oc=5",
-        "summary": "Anthropic and OpenAI waged a $27 million proxy war in a Manhattan congressional race. The winner told them both to get lost &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ - Variety",
-        "source": "Variety",
-        "timestamp": "2026-06-26T19:03:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82NWZnOV9mdWZfLXFCQndvRFJ5TmZqZWxyam5ET2s2WUpObmFVSTREc3Z6S25obkNhLUR2VDVoUWJWS3Y2WG1QUk1NSUFsVDZWSFR1d19QMGwzY1NxX1BETEM3dnlXanl4LVpSZmYxVElhU0lvTmhCeldWQ1FUUQ?oc=5",
-        "summary": "A24 Explains Why AI Deal With Google Exists: ‘We’d Rather Have a Seat at the Table Than on the Sidelines’ &nbsp;&nbsp; Variety"
-      },
-      {
-        "headline": "Previewing GPT-5.6 Sol: a next-generation model - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-06-26T17:02:16.000Z",
+        "headline": "OpenAI staggers AI model release after Trump administration request - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-06-26T21:26:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5",
-        "summary": "Previewing GPT-5.6 Sol: a next-generation model &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHpsR0FaODVIVE4zSnJ6NUpxYzNLbmFwQWJscnh6bEZlS1BUSE1TOGxEd3B1WlhpUWk2bVZkejJWejVqSG5WNUhSR3NKS2tCQTRxX2MwSTloaXNHeTVwZmFJeFZkWG1MX2dtTW92VlhVclZXZ3JhcUZ4TnB1Wl85VzZkcTRwYWxtanZ0UkhuejYtNTJmVkk0WEo3S1pHMkVFOS1qcnR5RVU0QlVZQkJUUHNoc3lNdw?oc=5",
+        "summary": "OpenAI staggers AI model release after Trump administration request &nbsp;&nbsp; The Guardian Anthropic Moves Toward Deal With US to Lift Curbs on AI Models &nbsp;&nbsp; Bloomberg.com Opinion | What if Trump is right to pump the brakes on the most advanced AI? &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "Anthropic Economic Index report: Cadences - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-06-26T15:19:33.000Z",
+        "headline": "Phoebe Gates Steps Out for N.Y.C. Date Night with Boyfriend Chaz Flynn - People.com",
+        "source": "People.com",
+        "timestamp": "2026-06-26T21:23:09.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNVR0S19Od3hZaWJSaTdlRkpZOVZJa0M4TzhldFg0WElpY3duXzlHT3AtZXNoazJSbXlUSTE5dEpiUmVWc0FRaTJOc2tValRaOFJmRnlHS3IwYk5DNnp6OGtCY3p0cWFRR0dNQjVfcVhXbk5X?oc=5",
-        "summary": "Anthropic Economic Index report: Cadences &nbsp;&nbsp; Anthropic"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXhnZjZRVUhWUGRqS0dibGxEdDRyVWV0YU1abWdMY1RqYWFwQlRjcE1Ic1ZXRnQzOXNaZ1Y2NlJCV3BOeUlVaWZHelJVZ1VGTy1Gb3Ewc3g0S1JxR0llaU9DMU96aHBJbVQ1TnVDWEFCd01qdFFUdFIwSFRKUGMyU0R3MnBNQWdEOGdLU0U0a1E0VzU0YWM0dE42VS1ybUQ5WURwdUR6VDhOWDBI?oc=5",
+        "summary": "Phoebe Gates Steps Out for N.Y.C. Date Night with Boyfriend Chaz Flynn &nbsp;&nbsp; People.com"
+      },
+      {
+        "headline": "A24 Defends Google AI Partnership - Deadline",
+        "source": "Deadline",
+        "timestamp": "2026-06-26T21:03:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TmpNZWdHeV91dTl0TC16VEltMnYwNkgxVy1kOHo5c1loT3Q2YV9QWTFKbHJLeFV5ZWxiaVNxcEVtc2ZySTR1SFFHcVdOS1FMbndCbWlsXy04Vzh6Z0JYeTNqMmliOTBtZlhMQXhMODNwRE03amhGZ205S0JGbms?oc=5",
+        "summary": "A24 Defends Google AI Partnership &nbsp;&nbsp; Deadline"
+      },
+      {
+        "headline": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-06-26T19:22:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQanNmRDl4VjEtcDNPRVFrOHdBWHJuOTlFUXlwcnM2cm9OalcyZnVneXhzanh6NC10ZzJrVkpZQzJpbXFVdmxBNEJqZmdnbWpZaUZCXzRrdnRKUm1IeloxVldiejFXbFR1N3ZnaVh0c2dNeHNra2Q1Tlo1dGxpMFU2SDY2Q2RGQ01SVVljb2lSNjZSZFVfQ2pJU2w2aWIwakpZVlZvSS1NVVgwNFRtcGpzQTg1c1RBdk1rb0NoWUI4eFZncWpT?oc=5",
+        "summary": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
-      },
-      {
-        "topic": "Google DeepMind",
         "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
         "urgency": "LOW",
         "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
-        "topic": "Microsoft Azure AI",
+        "topic": "Google DeepMind",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "Microsoft Azure AI",
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
