@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T12:15:10.202Z",
+    "generatedAt": "2026-06-28T14:47:03.612Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,10 +12,32 @@
   },
   "newsFeed": [
     {
+      "headline": "Gulf markets mixed as US-Iran trade attacks",
+      "summary": "Gulf markets mixed as US-Iran trade attacks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-28T13:11:43.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN0w3QkJTYncxeTYxQlBfSFJ4TDRIRFYwR0tmMTdnUXFVZDhudGpnOG9aeXBNMWZtYzF5M2dkaENRU2p1RVVuVmsyZjVPWHU1NHloT3duaTRuREwzX292VzVuYXd1RW5tZ0NjYkQxUnJYOWtLT1RVX0I3Z29QYU1SZ241SkpScnBNdWF0dm12REhmR0ozS1BzeXNB?oc=5"
+    },
+    {
+      "headline": "Israeli army forces near Lebanon border, amid fragile ceasefire",
+      "summary": "Israeli army forces near Lebanon border, amid fragile ceasefire &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-28T12:59:28.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jbWN3WXV1NmU0UXMybklNU0YzR0h1VEVOMVdEMFNNaWc5TFN4S1lWbGsySzQ3QTdJVmNQM3Y3RUtSSWxxX2hCQVRGVGtqV3NyRjJtdzdUOW5lSzV5eGRjVmtQUUo1VFE?oc=5"
+    },
+    {
       "headline": "Israel damaged heritage sites across south Lebanon, minister says",
       "summary": "Israel damaged heritage sites across south Lebanon, minister says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-28T10:31:54.000Z",
+      "timestamp": "2026-06-28T12:44:45.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -56,8 +78,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDEtc3VaN1lWQmNYSGVfeWlpR1MzaG9wZ0pab2dOU041S3JzTlVKdno3bW5qaTcxRE9ObEN4ZnMxUERyOUNlTUlkZG5SZ3lzclV6WXo2TWxKMElUdHB5VFVNZGhkVzU4WXpVdXRILXpKcnlpaEE3UGV3NEQyd0huMW1SVVJMQjN6cktMbmJSQ3BxaG5FXzVxeG5mZ2NlWm1QWGgtZ2RHMk0xWmpEYkhOcXVPbTBkeFFC?oc=5"
     },
     {
-      "headline": "Iran, US continue escalating attacks, recriminations over peace deal",
-      "summary": "Iran, US continue escalating attacks, recriminations over peace deal &nbsp;&nbsp; Reuters",
+      "headline": "Israeli military says it killed Hezbollah militants and attacked a launcher in the Nabatieh area",
+      "summary": "Israeli military says it killed Hezbollah militants and attacked a launcher in the Nabatieh area &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-28T04:47:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZW9oUGZaMm8xOUZTaXdfUjRIRWMta3lUckxjeGszRDJwWkR6Tm9LWGFpdDExRkdWcDE3YmR4a3ZDYXk2U0tKZG1DNzU1aXdFcmFhcEwzRkJwZjFhbXJ3cjNzZ0JqUHgxRXo3M1U0amtNdE4xSXY1ak8yVFZjc3pkTm1FbWQzVlk2bE1LbnBvbXZRUjF1THhpODd6ZUF2SnZET2FRVHNMbXU4YUx2MnROOUdNMElud2RJTE9UdFI4dVh5SEFPVjUxMEVzYlQ?oc=5"
+    },
+    {
+      "headline": "Iran and US step up attacks and threaten to escalate",
+      "summary": "Iran and US step up attacks and threaten to escalate &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-06-27T22:28:00.000Z",
       "impact": "HIGH",
@@ -65,39 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5"
-    },
-    {
-      "headline": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal",
-      "summary": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-27T22:09:28.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5"
-    },
-    {
-      "headline": "Drone, artillery attacks kill civilians on both sides of Russia-Ukraine border",
-      "summary": "Drone, artillery attacks kill civilians on both sides of Russia-Ukraine border &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-27T21:40:14.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0NrV1pOQjBGczFRSk9Pd29MSzBZOUVmaXpRaEdjQTZYSDBkcTJuU0ZvVUFvR3VOTVpzc0E5T3duR0FNT01SU2tVT0l5SjdadTdZQ3dRRExnUUZSQm9jVGhONkVrQ3k0elpCbElFSGJEaGZmUk9pR3NQdU4xaXNsNjFncWtyQUxaVHkzS0JuTjFUQmlZaUNVRHZUX0J1a1pCVmZHYlhwZnlFWlBpM2pjZHlFVQ?oc=5"
-    },
-    {
-      "headline": "Tanker struck in Hormuz as Iran and US trade attacks",
-      "summary": "Tanker struck in Hormuz as Iran and US trade attacks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-27T19:45:58.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EOG1lcGZiblN5RkxyNkctT0lUSS1uTkk5Z1FCakxrczVQV0trMTJwLTgzNUVQSzYxNjhZdEZ4bUplRGw2b3ZGbjZYXzIyaTZPSkwxWE05OTFBS0NaUFpCZmtSQlNOMXM?oc=5"
     }
   ]
 }
