@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T08:24:06.405Z",
+    "generatedAt": "2026-06-28T11:11:02.304Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Google limits Meta’s use of its Gemini AI models, FT reports - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-28T05:23:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5"
+    },
     {
       "headline": "A24 Wants You to Be Nice About Its Google AI Deal - Gizmodo",
       "source": "Gizmodo",
@@ -62,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5"
     },
     {
-      "headline": "An REI Ad Went Viral for All the Wrong Reasons. The Company Says Meta AI Is Responsible - inc.com",
-      "source": "inc.com",
-      "timestamp": "2026-06-26T22:27:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "An REI Ad Went Viral for All the Wrong Reasons. The Company Says Meta AI Is Responsible &nbsp;&nbsp; inc.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmdJem9VTzhjTkZTclhVOTIxbE1SUGpScmduVTIxYlFoVzNReHcySHZnQk1NN2h0cE5FNVdaZWxRUEQwSGZFVHdONk5Gb1p5WTV6WVdQSUIwRzRHaHloMDNtSFJXTmtfY1ZxclhYczRRSkJ2SzFyM29PUFA0Wk9Nay1wOXNHWjgzR1JxTnl3OHhwQURPQl9Ba1RWZzRKZmZ2ekExUVEtNjJQOGota0k1LU1lNnhkandoSDBveHkxZUNLbjlOei1TQw?oc=5"
-    },
-    {
       "headline": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back - CNBC",
       "source": "CNBC",
       "timestamp": "2026-06-26T22:08:09.000Z",
@@ -80,16 +80,6 @@
       "summary": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFBiWXhDV3VHdk83TGVfaWRuem1fODFCeUg2ckJFcGlXZzJFYUJKTzFQb0FKQ1BJLUZZN0Z3VkxKOW5Yb0lEQkw4WXB5cTRsenFGdnZLUURTeW1KdWZGakFWdlV0dFNRVkdpcElQS3lRNDhSN2x4R2xQT0FCT1Yxa01SbDdkNFdFM2fSAY8BQVVfeXFMTkFzUHpXWjJ3dGkybjdSLXBaNTEyX1Uyek4zU2ROMDRBbU5MdkV5Y3BwRm9PNEx5dzYyRDF5Y0ItMVNPZEVEZ1QzVWFRZHRhbVBJQ2FMRm01Wl9NMkxfbVVzaWcyMmh5bTczQy05MWtSeFRUWUxyeFZoekV2S0kzQXA3Si1xb2ltNVRNQXpXZWs?oc=5"
-    },
-    {
-      "headline": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will? - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-06-26T17:45:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will? &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGFXZU5JaDNvd0g2eUExS2JzaVFabHYtZHYwbGNoNm0wdndqdkNMNnc5TUJqQm1yeUVCaXctemljTk9RNXEtR3c3LWR0SDJqNC11d0ZZcWMwUkgtT19yTlRVUVpyQ3NrbkRfUV9zZmkxLUc2UGg5WW9BX3I1cklhMnd6Vkk1UEpfTXVpaXg5c01KNXFfdUNud3cydVV6R0dhUVQ1eWdYMENEdUdCTHRsUXVHemhqbDA?oc=5"
     },
     {
       "headline": "Anthropic Economic Index report: Cadences - Anthropic",
@@ -110,10 +100,29 @@
       "summary": "Key facts: MSFT FY26 capex +60%; EU flags Azure DMA; in-house AI, OpenAI &nbsp;&nbsp; TradingView",
       "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjlpTW8wR1hadWpkb25faEFrUk9MeXZ5RF9DcThndjRDZ2RRQjdhNlNXSlc2ellYZ2xXZjhWS1RLQzhLMXMzdHNyUHRfWUllbURsck9qVjBUckpEUTZrRHRGVFhCUVJzWjZ3S2sta3RTS2I4YTRJUjg3dDlyLUtJX2YzVWE2NFUzTl9UemEzOG1qVTA4OG1vU0x1R0xnNkI2MDNBZVQ1SUZhMl9wV2toSnh3MzRqLWZzdk1JYlk5TFpnR25uYS1J?oc=5"
+    },
+    {
+      "headline": "How the DeepMind mafia brought the AI boom to London - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-06-26T04:01:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How the DeepMind mafia brought the AI boom to London &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1R4Q3pFQ1ZUN2NONFZKaEdzaDlYYVpFR3JGcHJrOWxrUElPM3pJQWxtZXVhYkhNWkxYaFE5X3VUWndOc3VsV3RYOEJCVE9qWkZPalRoY1lzWkNjbUtaaXRGMVp3RWNBZFI1bHhUYk5nNy1xeS1TNjdYV2x6N0dpVHRrOGU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Google limits Meta’s use of its Gemini AI models, FT reports - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-06-28T05:23:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
+        "summary": "Google limits Meta’s use of its Gemini AI models, FT reports &nbsp;&nbsp; Reuters"
+      },
       {
         "headline": "A24 Wants You to Be Nice About Its Google AI Deal - Gizmodo",
         "source": "Gizmodo",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5",
         "summary": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns &nbsp;&nbsp; CNN Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use &nbsp;&nbsp; Bloomberg.com US close to allowing Anthropic to restore Fable 5 model, Axios reports &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "An REI Ad Went Viral for All the Wrong Reasons. The Company Says Meta AI Is Responsible - inc.com",
-        "source": "inc.com",
-        "timestamp": "2026-06-26T22:27:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmdJem9VTzhjTkZTclhVOTIxbE1SUGpScmduVTIxYlFoVzNReHcySHZnQk1NN2h0cE5FNVdaZWxRUEQwSGZFVHdONk5Gb1p5WTV6WVdQSUIwRzRHaHloMDNtSFJXTmtfY1ZxclhYczRRSkJ2SzFyM29PUFA0Wk9Nay1wOXNHWjgzR1JxTnl3OHhwQURPQl9Ba1RWZzRKZmZ2ekExUVEtNjJQOGota0k1LU1lNnhkandoSDBveHkxZUNLbjlOei1TQw?oc=5",
-        "summary": "An REI Ad Went Viral for All the Wrong Reasons. The Company Says Meta AI Is Responsible &nbsp;&nbsp; inc.com"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
