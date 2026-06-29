@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T09:51:05.302Z",
+    "generatedAt": "2026-06-29T14:12:27.557Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "The pro-AI movement is splintering - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-29T09:32:34.000Z",
+      "headline": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-06-29T11:03:14.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots &nbsp;&nbsp; Engadget",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEpSelctNTVTd1lGcHMyaDM4MlJ4X294UWJ3dXJGQ0EtNWpMNERGOWIyZ3JfQkZUblZFaE92ZENRUXlFTS1pM0xrWFpJRW1oUmdmeWwwTFROR1hZdHhqWlhKVml6d3JtY1lNaEFEMTA4Y2E1cXlMRVF2Yk9aa2FpVWNYZ3Y5QUw3UWE2bENFc1F0OHp5WGdRMTBSZUVRZm1VNkE?oc=5"
+    },
+    {
+      "headline": "Mapping Europe’s AI Workforce Opportunity - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-29T10:26:23.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Mapping Europe’s AI Workforce Opportunity &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5"
+    },
+    {
+      "headline": "OpenAI's head of Codex says AI still can't get creative design right: 'Give it up for the human brain' - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-06-29T09:31:07.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The pro-AI movement is splintering &nbsp;&nbsp; Axios",
+      "summary": "OpenAI's head of Codex says AI still can't get creative design right: 'Give it up for the human brain' &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1lEWXIwNVpwQlpLb3YzM2dGNmZaZ2pqdTZZNWItMHA3eV8zWHJvTFZlelNpZmZzcFhvR1BDNy1sSGtwSUxUUFZIXzRZbkpaVEFyVDIyM2FJQXdiN29UZXYwYWRmLXg4aG5MVVpLUlR0RUlBbXY0My1Ec05LXzExd3lR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEhnRmFsUjEyNUxZTGtnM01Ga3VUNENOa25PWWg0dWRpTnNTNktyZjJTRnRZd1VTeXRuX3B4NTM4dVBUbEFBblREQUV0RmkyRVF5QlFqYkotSUJLQ2U5YUdHTjZtaktKX1JwclJmSnBXX2pFNHlnMzNNWlEyTXU5aGE3T092UkFnQjBaQ183RTVPbnpOd01HeGh3MExtZw?oc=5"
     },
     {
       "headline": "Microsoft Rose 6% Today as AI Stocks Rebounded. Here’s Where Shares Could Head in 2026 - TIKR.com",
@@ -40,16 +60,6 @@
       "summary": "HP Inc. launches Frontier strategic partnership with OpenAI &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5"
-    },
-    {
-      "headline": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-06-28T23:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks? &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTFOQmJVZ3VFZWlHVzR6aDRlaFNJVS1Ycm1aUmhYbmpXYlF0UVBJdHVzSUplTXo3RURJeXJlZi1TdGFvU0JPVEs0eENfQkI3dld6QVV4MW5iMzRTOXBDZlhZckRIU0FJY0tmeXR1emphQU9FVmZNcExUN2dnMUJGVXUtWWh6elFfX3BWNlhoamxGdTRyRUNRdENrWXpJZXUwUFpsdzg3dw?oc=5"
     },
     {
       "headline": "China’s Z.ai claims it can match Mythos on cybersecurity - The Verge",
@@ -100,28 +110,36 @@
       "summary": "Google caps Meta’s Gemini use as AI demand strains capacity &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5"
-    },
-    {
-      "headline": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-28T01:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "The pro-AI movement is splintering - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-29T09:32:34.000Z",
+        "headline": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-06-29T11:03:14.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEpSelctNTVTd1lGcHMyaDM4MlJ4X294UWJ3dXJGQ0EtNWpMNERGOWIyZ3JfQkZUblZFaE92ZENRUXlFTS1pM0xrWFpJRW1oUmdmeWwwTFROR1hZdHhqWlhKVml6d3JtY1lNaEFEMTA4Y2E1cXlMRVF2Yk9aa2FpVWNYZ3Y5QUw3UWE2bENFc1F0OHp5WGdRMTBSZUVRZm1VNkE?oc=5",
+        "summary": "Google Reportedly Capped Meta's Use Of Gemini AI For Coding And Chatbots &nbsp;&nbsp; Engadget"
+      },
+      {
+        "headline": "Mapping Europe’s AI Workforce Opportunity - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-06-29T10:26:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5",
+        "summary": "Mapping Europe’s AI Workforce Opportunity &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "OpenAI's head of Codex says AI still can't get creative design right: 'Give it up for the human brain' - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-06-29T09:31:07.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1lEWXIwNVpwQlpLb3YzM2dGNmZaZ2pqdTZZNWItMHA3eV8zWHJvTFZlelNpZmZzcFhvR1BDNy1sSGtwSUxUUFZIXzRZbkpaVEFyVDIyM2FJQXdiN29UZXYwYWRmLXg4aG5MVVpLUlR0RUlBbXY0My1Ec05LXzExd3lR?oc=5",
-        "summary": "The pro-AI movement is splintering &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEhnRmFsUjEyNUxZTGtnM01Ga3VUNENOa25PWWg0dWRpTnNTNktyZjJTRnRZd1VTeXRuX3B4NTM4dVBUbEFBblREQUV0RmkyRVF5QlFqYkotSUJLQ2U5YUdHTjZtaktKX1JwclJmSnBXX2pFNHlnMzNNWlEyTXU5aGE3T092UkFnQjBaQ183RTVPbnpOd01HeGh3MExtZw?oc=5",
+        "summary": "OpenAI's head of Codex says AI still can't get creative design right: 'Give it up for the human brain' &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Microsoft Rose 6% Today as AI Stocks Rebounded. Here’s Where Shares Could Head in 2026 - TIKR.com",
@@ -142,15 +160,6 @@
         "summary": "HP Inc. launches Frontier strategic partnership with OpenAI &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-06-28T23:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTFOQmJVZ3VFZWlHVzR6aDRlaFNJVS1Ycm1aUmhYbmpXYlF0UVBJdHVzSUplTXo3RURJeXJlZi1TdGFvU0JPVEs0eENfQkI3dld6QVV4MW5iMzRTOXBDZlhZckRIU0FJY0tmeXR1emphQU9FVmZNcExUN2dnMUJGVXUtWWh6elFfX3BWNlhoamxGdTRyRUNRdENrWXpJZXUwUFpsdzg3dw?oc=5",
-        "summary": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks? &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
         "headline": "China’s Z.ai claims it can match Mythos on cybersecurity - The Verge",
         "source": "The Verge",
         "timestamp": "2026-06-28T21:42:51.000Z",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWpqalNvdnhQN21nTk1HaGRRaXliTFdPWlVhem85ZHAwX2JLMENOWXRmT0t0a2IxQ0dsakJSTXdwRFJTTVpDUEZQSGR1cFphMFFxT0p5OWRXZnBvMERWWFhWUE9oOEFoUWdWYkltTFhJV2doUE12WnN3QmRYV2o4VUpuRXZEeEpPYVdTNmd4Wm1GQUh2b3dxYmVoTGNQRzA?oc=5",
         "summary": "China’s Z.ai claims it can match Mythos on cybersecurity &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-06-28T13:49:38.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
-        "summary": "Austria urges Europe to host Anthropic following US curbs on AI access &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
