@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T17:41:07.889Z",
+    "generatedAt": "2026-06-29T20:04:17.115Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,74 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI becomes latest AI firm to delay model rollout - KATU",
+      "source": "KATU",
+      "timestamp": "2026-06-29T19:51:23.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI becomes latest AI firm to delay model rollout &nbsp;&nbsp; KATU",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUNZUUJRWmdmNHJJY0ktVUxmSXVWWkROUXFPc3Z3UTUtLURCdFAtMVdKTlVTWEFySVo3aDVSbWhxckphWjl0OExaeWtUS1BvY0tFRDZiWVNpbTlkLUJIYmlmYzNFdUpEY2RrUWpVYUlhVUpXVGUtRThTMlgtMzJLZUZCeHFUc1BhamlPc2NVRVVtZXpJa1BzeUR5bVFKSGkwQkJUTXhyVDJrYXhJcGowMFAzSHFydU51NkNwTmIxbmh2Zw?oc=5"
+    },
+    {
+      "headline": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-06-29T18:59:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5"
+    },
+    {
+      "headline": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-29T17:31:08.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure &nbsp;&nbsp; Crypto Briefing",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UVdtbVdzakljcThQV3gyQXRxQTBjSDJVM2l0QzkxTzBPd1NDbkpKby04ck16a1NXd3FaS3Z1bk1ZcWZzTy1hUXVuanVpb1lEMVNDZjMwbGFXZ09lRXdRQkdSTkp5Yms4M3VpWXZUcnE?oc=5"
+    },
+    {
       "headline": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-06-29T16:00:08.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5"
     },
     {
-      "headline": "Exclusive: Newsom, Anthropic ink deal to expand government use - Politico",
-      "source": "Politico",
-      "timestamp": "2026-06-29T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2ZSeVJSNTdYWFpXdkFzSVBHelFiTXhwTmtKUFNkcm5kM1hMbjhZQXFxVFZfVXBKLURHdlM2UXNjRHl4eXBRaGZWYWJJYU5pZkcydUZwRWpzWDR6Yzk2TFR4ck9HeEotcG9oZmMxZ2VPS0xMSjlaMWNFSkVfWHlBZ1RKWkliWnJwa3VlblBNMzBzQVljeDFzMGJlLWk2cGNGLV9kdHBwWXFwR09WTURB?oc=5"
+      "headline": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians - California State Portal | CA.gov",
+      "source": "California State Portal | CA.gov",
+      "timestamp": "2026-06-29T14:01:37.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico Anthropic partners with California to expand AI use by government workers &nbsp;&nbsp; Los Angeles Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5"
     },
     {
-      "headline": "The pro-AI movement is splintering - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-29T09:32:34.000Z",
+      "headline": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
+      "source": "AI at Meta",
+      "timestamp": "2026-06-29T12:50:35.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The pro-AI movement is splintering &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1lEWXIwNVpwQlpLb3YzM2dGNmZaZ2pqdTZZNWItMHA3eV8zWHJvTFZlelNpZmZzcFhvR1BDNy1sSGtwSUxUUFZIXzRZbkpaVEFyVDIyM2FJQXdiN29UZXYwYWRmLXg4aG5MVVpLUlR0RUlBbXY0My1Ec05LXzExd3lR?oc=5"
+      "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery &nbsp;&nbsp; AI at Meta",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5"
+    },
+    {
+      "headline": "Mapping Europe’s AI Workforce Opportunity - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-29T10:26:23.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Mapping Europe’s AI Workforce Opportunity &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5"
     },
     {
       "headline": "Microsoft Rose 6% Today as AI Stocks Rebounded. Here’s Where Shares Could Head in 2026 - TIKR.com",
@@ -52,26 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1ZDcjVLNExUZk50VE5BMXFTeElhdWkwRFRCUUlHbVBLZm5LeGRpb2l5ZFNWWElDZzdGUzNaOG0ySmZuMVBtMW5kaGk3TS0tdk9DSjJMYnFuSHEwSUNCejhYU296dlJQTm9hN3VuTVNOQUdHUEhPa21BcjI1S0lJZDdkVW5CczhROENOTTBwdTc4YVJmcFFlOHN0bEFHUUthS3JEd0p5dUs0eC1kbmc?oc=5"
     },
     {
-      "headline": "HP Inc. launches Frontier strategic partnership with OpenAI - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-29T00:04:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "HP Inc. launches Frontier strategic partnership with OpenAI &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5"
-    },
-    {
-      "headline": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-28T13:49:38.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Austria urges Europe to host Anthropic following US curbs on AI access &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5"
-    },
-    {
       "headline": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
       "source": "CNBC",
       "timestamp": "2026-06-28T10:30:27.000Z",
@@ -82,98 +102,78 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNNIBoAFBVV95cUxQcWRyNHVZQ3VZbGllcnlSRkF6YmtZNVh1NGo4QlI0T0pYcDA1Q3k5X292cElkMVo4Zm4zVkpaZm1Nb3ZJMFlDQ0k0WXAxMldiOWlEdG5ZYWZfdlZpd1RacFBLbGlQaEkwRTRuaUcyNzk1ZmlkOEVVNmcxQ1c0Qk9QZnBvTUZzTnJNN21PV0VsSUprUzBpd2JPYTZ2bUgtbEx5?oc=5"
     },
     {
-      "headline": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-06-28T09:02:14.000Z",
+      "headline": "Opinion | The Real A.I. Race Isn’t America vs. China - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-06-28T05:00:06.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGFVZEVKcTJqU3VyQXBCcWVXR1dhY0ZHajFJZG0waWJfMkY3Vmgyc042SkdNWUVOY2lva1RwY1p5c1ZkbEs4eUVfSXZFTFlhd3cyaEFSSHROYWpIY0N0aTBDdGhBWDhJUk5icTMySlc4c2hMRlhJR3R0bm5hUHRLUUpUREIyWnpzV0xoNnZkUHZqTnRCb09vY3NRSmxNc1N2akJNN0dvbE45Vi1yN3NV?oc=5"
-    },
-    {
-      "headline": "Google caps Meta’s Gemini use as AI demand strains capacity - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-06-28T04:01:09.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Google caps Meta’s Gemini use as AI demand strains capacity &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5"
-    },
-    {
-      "headline": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-06-28T01:00:00.000Z",
-      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race &nbsp;&nbsp; WSJ Chinese A.I. Models Close the Gap With Anthropic and OpenAI &nbsp;&nbsp; The New York Times China’s Z.ai claims it can match Mythos on cybersecurity &nbsp;&nbsp; The Verge",
+      "summary": "Opinion | The Real A.I. Race Isn’t America vs. China &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pc19aeWFjcDExazZvazdiaHh2c3d3Tmw2WGNFRS1BX0JCTDBZUUVKRXQ2dFRRRGp4UFZGR1BrdE1uM1dfVzhzcDNqSlhJNUxXbGcwdW9hbGdBZjZiaEgteGFoeTMyXzdfME1ZY3VfdldaZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "OpenAI becomes latest AI firm to delay model rollout - KATU",
+        "source": "KATU",
+        "timestamp": "2026-06-29T19:51:23.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUNZUUJRWmdmNHJJY0ktVUxmSXVWWkROUXFPc3Z3UTUtLURCdFAtMVdKTlVTWEFySVo3aDVSbWhxckphWjl0OExaeWtUS1BvY0tFRDZiWVNpbTlkLUJIYmlmYzNFdUpEY2RrUWpVYUlhVUpXVGUtRThTMlgtMzJLZUZCeHFUc1BhamlPc2NVRVVtZXpJa1BzeUR5bVFKSGkwQkJUTXhyVDJrYXhJcGowMFAzSHFydU51NkNwTmIxbmh2Zw?oc=5",
+        "summary": "OpenAI becomes latest AI firm to delay model rollout &nbsp;&nbsp; KATU"
+      },
+      {
+        "headline": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-06-29T18:59:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5",
+        "summary": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. &nbsp;&nbsp; Barron's"
+      },
+      {
+        "headline": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "timestamp": "2026-06-29T17:31:08.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UVdtbVdzakljcThQV3gyQXRxQTBjSDJVM2l0QzkxTzBPd1NDbkpKby04ck16a1NXd3FaS3Z1bk1ZcWZzTy1hUXVuanVpb1lEMVNDZjMwbGFXZ09lRXdRQkdSTkp5Yms4M3VpWXZUcnE?oc=5",
+        "summary": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure &nbsp;&nbsp; Crypto Briefing"
+      },
+      {
         "headline": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-06-29T16:00:08.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5",
         "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Exclusive: Newsom, Anthropic ink deal to expand government use - Politico",
-        "source": "Politico",
-        "timestamp": "2026-06-29T12:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2ZSeVJSNTdYWFpXdkFzSVBHelFiTXhwTmtKUFNkcm5kM1hMbjhZQXFxVFZfVXBKLURHdlM2UXNjRHl4eXBRaGZWYWJJYU5pZkcydUZwRWpzWDR6Yzk2TFR4ck9HeEotcG9oZmMxZ2VPS0xMSjlaMWNFSkVfWHlBZ1RKWkliWnJwa3VlblBNMzBzQVljeDFzMGJlLWk2cGNGLV9kdHBwWXFwR09WTURB?oc=5",
-        "summary": "Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico"
-      },
-      {
-        "headline": "The pro-AI movement is splintering - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-29T09:32:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1lEWXIwNVpwQlpLb3YzM2dGNmZaZ2pqdTZZNWItMHA3eV8zWHJvTFZlelNpZmZzcFhvR1BDNy1sSGtwSUxUUFZIXzRZbkpaVEFyVDIyM2FJQXdiN29UZXYwYWRmLXg4aG5MVVpLUlR0RUlBbXY0My1Ec05LXzExd3lR?oc=5",
-        "summary": "The pro-AI movement is splintering &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Microsoft Rose 6% Today as AI Stocks Rebounded. Here’s Where Shares Could Head in 2026 - TIKR.com",
-        "source": "TIKR.com",
-        "timestamp": "2026-06-29T07:33:37.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd1ZDcjVLNExUZk50VE5BMXFTeElhdWkwRFRCUUlHbVBLZm5LeGRpb2l5ZFNWWElDZzdGUzNaOG0ySmZuMVBtMW5kaGk3TS0tdk9DSjJMYnFuSHEwSUNCejhYU296dlJQTm9hN3VuTVNOQUdHUEhPa21BcjI1S0lJZDdkVW5CczhROENOTTBwdTc4YVJmcFFlOHN0bEFHUUthS3JEd0p5dUs0eC1kbmc?oc=5",
-        "summary": "Microsoft Rose 6% Today as AI Stocks Rebounded. Here’s Where Shares Could Head in 2026 &nbsp;&nbsp; TIKR.com"
-      },
-      {
-        "headline": "HP Inc. launches Frontier strategic partnership with OpenAI - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-06-29T00:04:00.000Z",
+        "headline": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians - California State Portal | CA.gov",
+        "source": "California State Portal | CA.gov",
+        "timestamp": "2026-06-29T14:01:37.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdVhXOXlwOW4zZ1djUXRwNFE1aktMeDZKMDZqYXFLRzkxd080UmJUUXdvY21QYTZuSE12S0tnYWdaUXBraXo5OEoyNVNfYTZMb1ZWLXNSZEJLTGlBX2c?oc=5",
-        "summary": "HP Inc. launches Frontier strategic partnership with OpenAI &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5",
+        "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico Anthropic partners with California to expand AI use by government workers &nbsp;&nbsp; Los Angeles Times"
       },
       {
-        "headline": "Austria urges Europe to host Anthropic following US curbs on AI access - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-06-28T13:49:38.000Z",
+        "headline": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
+        "source": "AI at Meta",
+        "timestamp": "2026-06-29T12:50:35.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
-        "summary": "Austria urges Europe to host Anthropic following US curbs on AI access &nbsp;&nbsp; Reuters"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
+        "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery &nbsp;&nbsp; AI at Meta"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
