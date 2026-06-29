@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T22:00:33.878Z",
+    "generatedAt": "2026-06-29T00:07:34.337Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,6 +12,28 @@
   },
   "newsFeed": [
     {
+      "headline": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
+      "summary": "Israel destroys Hezbollah underground infrastructure in southern Lebanon &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-28T23:13:13.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHpnQ2htRldyN2wyQkhMc0JqSVdwbDA5VkRCZklRS0t1QURDWHFWRUJEM1BxNnFhN0hCcnRNQ3hvQm9USV9wSkhKZXl2OXJSc2xObjFxRTdCNXVaUVNsdlVsZHd4dDNwVHZTUU5LY1BodWRrZkZHdU1NcFVGMDhfVmpJTnkwSDc4NzdBWTlVUnhKaFg2ZTZiSnNFeDdteG5TVmZDbEtFRGhLSk0yNDFabDdUTDV6SmFJejQ0akZ4OWg?oc=5"
+    },
+    {
+      "headline": "Russian attacks kill five in Ukraine, local officials say",
+      "summary": "Russian attacks kill five in Ukraine, local officials say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-06-28T22:45:34.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXZQOTBuOUFrSFI1NmgwMWZPeFROZzBIa1gtQW5LR1FUX3F1c0pvdHNMZHFUM0NpWW9uLU9QUGlkMnB0QU9yenQwS2NpeXZBVDJUeDZRbVZIeEtIREJHQzIzbWVkSDJZa1dPRmVELXU2OXRGZXBweWtMOTlWZkg1NXNWaVNqN3NjbC1GVlZ3U0I0YUJmOGZGU3VvSW8?oc=5"
+    },
+    {
       "headline": "Israel damaged heritage sites across south Lebanon, minister says",
       "summary": "Israel damaged heritage sites across south Lebanon, minister says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -21,17 +43,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlFsWjdyLTVfeVdablVHR3p5WGE2Q3g1UEdBYmRhTDlDNEM5WE82U0JRV3oyX3hWRE1BWlRwMkNKQktBNWhhVzUwVWtnOWNzUEN4R0k2djBuMHBVNTRHMVJFeW5sSnlpOW5LTjN1UXRpdEVnM3VoMnZXMGwyVXB0RFF2SEMwanJSY1p2MXk2RVZjaVNndkx5RUV0aDFPSzJEc20zTVBkSFBEalVfSE85TTN2TGxMWFRyc3c?oc=5"
-    },
-    {
-      "headline": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
-      "summary": "Israel destroys Hezbollah underground infrastructure in southern Lebanon &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-28T20:36:16.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHpnQ2htRldyN2wyQkhMc0JqSVdwbDA5VkRCZklRS0t1QURDWHFWRUJEM1BxNnFhN0hCcnRNQ3hvQm9USV9wSkhKZXl2OXJSc2xObjFxRTdCNXVaUVNsdlVsZHd4dDNwVHZTUU5LY1BodWRrZkZHdU1NcFVGMDhfVmpJTnkwSDc4NzdBWTlVUnhKaFg2ZTZiSnNFeDdteG5TVmZDbEtFRGhLSk0yNDFabDdUTDV6SmFJejQ0akZ4OWg?oc=5"
     },
     {
       "headline": "Iran canceled participation in technical talks over recent attacks, official tells state TV",
@@ -45,15 +56,15 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcjJ0V01LU0UwTXVYdzY5LXk2SURZV0t2cVhsZ1NyWVlHUklkeHVKZ1FQTHQ5bVdwcWFQZ09RajN0YXFsY01qR1J1OVNJcF96Qkg4SndTX1hzU0REN29aWDZfMHNkVGhzZC1qdVkzNlJtX2dscC1EZU9yM1lBSmNxZ3Z4cF9oSEdXLXRHc3hkSjU2NUN6UGNEM0ItSjl0OEJtcjR6VnN1czEtTEpRYzlTOTJ0dVRjbTVlYWZySkg0QW0zU29uR1VUdXJ1d2k?oc=5"
     },
     {
-      "headline": "Russian attacks kills four in Ukraine, local officials say",
-      "summary": "Russian attacks kills four in Ukraine, local officials say &nbsp;&nbsp; Reuters",
+      "headline": "Volkswagen plans to end automated driving tie-up with Bosch, Bild reports",
+      "summary": "Volkswagen plans to end automated driving tie-up with Bosch, Bild reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-06-28T19:44:35.000Z",
+      "timestamp": "2026-06-28T19:38:18.000Z",
       "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXZQOTBuOUFrSFI1NmgwMWZPeFROZzBIa1gtQW5LR1FUX3F1c0pvdHNMZHFUM0NpWW9uLU9QUGlkMnB0QU9yenQwS2NpeXZBVDJUeDZRbVZIeEtIREJHQzIzbWVkSDJZa1dPRmVELXU2OXRGZXBweWtMOTlWZkg1NXNWaVNqN3NjbC1GVlZ3U0I0YUJmOGZGU3VvSW8?oc=5"
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQmJhYTBIS0NHSi1USGFWYWg3aGR6ZmJ4ZnVON29qdTBfam5VT05IbkdCRlJwQl9aMXRKZGpBV1VDdU5jWUMzXzBlVHVNMEZ5UDBSbzcyMXVSMEdUVGNMX2UxeUNWbEJmSHMwU3FhRXFscXk4dmN2X3lsdllhUkJJWXRURFhKaEtHamtnTGl1aG9JUy1EUkwySy1zRE5Od0VYRzFjSWJzQUxERlRvN1A2NW5ybks0c0NmaGVPbUZZRjI5NnA3WUtpOWVWYy1lNC15?oc=5"
     },
     {
       "headline": "Iran strikes US Gulf, Trump warns Iran 'will no longer exist'",
@@ -87,17 +98,6 @@
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN0w3QkJTYncxeTYxQlBfSFJ4TDRIRFYwR0tmMTdnUXFVZDhudGpnOG9aeXBNMWZtYzF5M2dkaENRU2p1RVVuVmsyZjVPWHU1NHloT3duaTRuREwzX292VzVuYXd1RW5tZ0NjYkQxUnJYOWtLT1RVX0I3Z29QYU1SZ241SkpScnBNdWF0dm12REhmR0ozS1BzeXNB?oc=5"
-    },
-    {
-      "headline": "Israeli army forces near Lebanon border, amid fragile ceasefire",
-      "summary": "Israeli army forces near Lebanon border, amid fragile ceasefire &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-06-28T12:59:28.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jbWN3WXV1NmU0UXMybklNU0YzR0h1VEVOMVdEMFNNaWc5TFN4S1lWbGsySzQ3QTdJVmNQM3Y3RUtSSWxxX2hCQVRGVGtqV3NyRjJtdzdUOW5lSzV5eGRjVmtQUUo1VFE?oc=5"
     }
   ]
 }
