@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T00:09:16.348Z",
+    "generatedAt": "2026-06-30T05:07:55.088Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
-      "source": "Barron's",
-      "timestamp": "2026-06-29T18:59:00.000Z",
+      "headline": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-06-30T04:00:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNmlqTGdtM2QyUHB1UE95blQ1TzNlNzhWb1dHTjZzN1FseFZ0X1djSTZYakJzNHpQWWxIOUtoWXUzQkxBX1k2YWI3WUZscmIwVXlLTUNxUjNfRzZtRjlONjNJLW0zcldJSkw4d2NmSDBvWnI4WnNKMHE0cDZpWXVnUlF2ZjZWMnFCWUd4dnltd1dLWXk3N0RtbHZlMm9Vcno0aS1YOVdVc0x0b216cnBaOExtYzlWMmtJaHU3V1AzaXp4eHBlMTlhTlhfcFZ5VkhfMGpvSURlU1htQU5IeU83Nnd0LXE0Vm9RNnc?oc=5"
+    },
+    {
+      "headline": "The Briefing: AI for Science - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-06-29T21:41:38.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5"
+      "summary": "The Briefing: AI for Science &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbm5oWi02TE93S3FObHowMk9MUkRxS0NvWnpOcHZWd3UyQWhPN3g3OFE0WERWckpQa2U3T3dyQ2tCWm9Qcy15bWd1OTNQTTJvMHM4ZDNuNDkzNWpXRWt2STRqSzBhZTNocGpxYg?oc=5"
+    },
+    {
+      "headline": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents - Wccftech",
+      "source": "Wccftech",
+      "timestamp": "2026-06-29T19:05:00.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents &nbsp;&nbsp; Wccftech",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXU5cmVDSGdWQXNVZG94YUpwdk9FOWEwOTE1dzZHcW5ZakhFVnJUWlpBNi1oTUF1N19DbU9heWtkNDJSbF9RSjl2dmNUa2s5Q3FzN2JOeU1pTmVlSmEwZTV6UnRJVFR4cmpPdUNqU3ZxOXRzVTZmeTVGZV9XRm9IaFBaWHdrMmN4OC16QjdndV9PdW1EQndKOVF30gGfAUFVX3lxTFBscFp2RVpnQmI2Rm1xd1ltc1lNMlY3SlpfQXhGNC1rbF9EQVVzUUZJQ1RscUhrOVY4TWRqWHlrX2Z0eXNSUWQ5SHgtN2M4Tlh1VmlCQW02ZkhDX2lmenMyTzlzQTR1cUJHLWFadmRiUEZiSi1kdklaT3ozQkZySG55d1poN1gtdWxLaHE5RkJXS1BoXzFlUkF1TkhfODlQTQ?oc=5"
+    },
+    {
+      "headline": "OpenAI is teasing new hardware… for Codex - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-06-29T18:52:03.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI is teasing new hardware… for Codex &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0lTMVR3Z1lGRDRTMjZZMTJvOUJsbHJ1R2FpNmFqbV92VzNmcVUwQlAtTkFWNzk4Ynp4REQtRmJqazhaU2g4RjhrMWM1QUtGZ05BN21TYnVlakVKOEViUEtzUzBYdFVIS2E2UGNfWGlaSlpFcjRzN3Znc3c4Mk4td21qQjN0anF2UHRGaGJaVkRhRkZYN01B?oc=5"
     },
     {
       "headline": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure - Crypto Briefing",
@@ -32,14 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UVdtbVdzakljcThQV3gyQXRxQTBjSDJVM2l0QzkxTzBPd1NDbkpKby04ck16a1NXd3FaS3Z1bk1ZcWZzTy1hUXVuanVpb1lEMVNDZjMwbGFXZ09lRXdRQkdSTkp5Yms4M3VpWXZUcnE?oc=5"
     },
     {
-      "headline": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report - New York Post",
-      "source": "New York Post",
-      "timestamp": "2026-06-29T16:52:00.000Z",
+      "headline": "Claude in Microsoft Foundry is now generally available - Microsoft Azure",
+      "source": "Microsoft Azure",
+      "timestamp": "2026-06-29T17:00:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report &nbsp;&nbsp; New York Post",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkhkOW1lQUl2ZnFtQ3BQMnRWZFlIa1I2aVVIWGVaUTJGaEJKNnVZTHBsZWMwOFkzSnpVWFFaM0pfWVUwSEwzSEtoREZTRVZUVWtfa1psZUpsOEVYWWtfb0VkUXN3ellETXZ0TnRRZGhzZXZMMXJtSFBsSGV1TzNFOExnZkVVbEhfREY2NHdVdXlhNUczNnFvZGtPdHM3czlYbEk4dDgtaklrZ2NIZWItM0tn?oc=5"
+      "category": "models",
+      "summary": "Claude in Microsoft Foundry is now generally available &nbsp;&nbsp; Microsoft Azure",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPek1uUEdRZ21YNnBJUkFpYXpaVkJ0Q0dfOXVIaWZaSVRsQWRGMnVUZEpROEZ6cmwtZTUyOVE0RG01UnNXYWtRNWFOZ0xGSEswejR6UzdIWDRpNUhuYzhFVzNIWnI3NHNDMHpubE53dGxFSm5wVXYyV0hjM1oyU05QekhyMV9Bd0pyMUZXOWRYaU5keEV4NkxEWDhR?oc=5"
     },
     {
       "headline": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
@@ -48,28 +78,8 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5"
-    },
-    {
-      "headline": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-06-29T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5"
-    },
-    {
-      "headline": "Microsoft Cloud Enables AI-Powered ERP Transformation - Let's Data Science",
-      "source": "Let's Data Science",
-      "timestamp": "2026-06-29T14:19:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Cloud Enables AI-Powered ERP Transformation &nbsp;&nbsp; Let's Data Science",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmVoRjJkekVJNjVSVkVwV2tYd0ctcVZuS0ZLNGUtaHoyVm1Pb25zVU95T3RQV3ViOWZOeXhuRzRneWFBM2kzQU1BZURHdWpVXzZGNm52dnRFbFdpVG1vR2h0eElQQU8xbzlzWUtWVlpRT3dCWVd4TEYxZnk2R29PM2xxV2xsUUxHVGpWdUlza0xTOHZaaHpNSV9qTQ?oc=5"
     },
     {
       "headline": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians - California State Portal | CA.gov",
@@ -77,7 +87,7 @@
       "timestamp": "2026-06-29T14:01:37.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico Newsom's office touts Anthropic 'partnership,' 50% discount on Claude AI for California agencies, localities &nbsp;&nbsp; Fox Business",
+      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price &nbsp;&nbsp; TechCrunch Newsom's office touts Anthropic 'partnership,' 50% discount on Claude AI for California agencies, localities &nbsp;&nbsp; Fox Business",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5"
     },
@@ -100,28 +110,45 @@
       "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery &nbsp;&nbsp; AI at Meta",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5"
-    },
-    {
-      "headline": "Mapping Europe’s AI Workforce Opportunity - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-06-29T10:26:23.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Mapping Europe’s AI Workforce Opportunity &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
-        "source": "Barron's",
-        "timestamp": "2026-06-29T18:59:00.000Z",
+        "headline": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-06-30T04:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0k1TXJOVVctSXA1ZWx3R1c5WDRydk84a21iSjd5M1hNQXBSajNOWlU5Snp2VWJBelpzcElZRVZoZUVzV0lHQUhsbG1RSjh1TEhnTW1zSWY3RFpYQ0JUWWlLSk5fQnRRZzhSdnBxbUM3VjBDZUFlZlFzQ0xLa1FMWkQteUZwVWVtOGgtdQ?oc=5",
-        "summary": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. &nbsp;&nbsp; Barron's"
+        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNmlqTGdtM2QyUHB1UE95blQ1TzNlNzhWb1dHTjZzN1FseFZ0X1djSTZYakJzNHpQWWxIOUtoWXUzQkxBX1k2YWI3WUZscmIwVXlLTUNxUjNfRzZtRjlONjNJLW0zcldJSkw4d2NmSDBvWnI4WnNKMHE0cDZpWXVnUlF2ZjZWMnFCWUd4dnltd1dLWXk3N0RtbHZlMm9Vcno0aS1YOVdVc0x0b216cnBaOExtYzlWMmtJaHU3V1AzaXp4eHBlMTlhTlhfcFZ5VkhfMGpvSURlU1htQU5IeU83Nnd0LXE0Vm9RNnc?oc=5",
+        "summary": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "The Briefing: AI for Science - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-06-29T21:41:38.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbm5oWi02TE93S3FObHowMk9MUkRxS0NvWnpOcHZWd3UyQWhPN3g3OFE0WERWckpQa2U3T3dyQ2tCWm9Qcy15bWd1OTNQTTJvMHM4ZDNuNDkzNWpXRWt2STRqSzBhZTNocGpxYg?oc=5",
+        "summary": "The Briefing: AI for Science &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents - Wccftech",
+        "source": "Wccftech",
+        "timestamp": "2026-06-29T19:05:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXU5cmVDSGdWQXNVZG94YUpwdk9FOWEwOTE1dzZHcW5ZakhFVnJUWlpBNi1oTUF1N19DbU9heWtkNDJSbF9RSjl2dmNUa2s5Q3FzN2JOeU1pTmVlSmEwZTV6UnRJVFR4cmpPdUNqU3ZxOXRzVTZmeTVGZV9XRm9IaFBaWHdrMmN4OC16QjdndV9PdW1EQndKOVF30gGfAUFVX3lxTFBscFp2RVpnQmI2Rm1xd1ltc1lNMlY3SlpfQXhGNC1rbF9EQVVzUUZJQ1RscUhrOVY4TWRqWHlrX2Z0eXNSUWQ5SHgtN2M4Tlh1VmlCQW02ZkhDX2lmenMyTzlzQTR1cUJHLWFadmRiUEZiSi1kdklaT3ozQkZySG55d1poN1gtdWxLaHE5RkJXS1BoXzFlUkF1TkhfODlQTQ?oc=5",
+        "summary": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents &nbsp;&nbsp; Wccftech"
+      },
+      {
+        "headline": "OpenAI is teasing new hardware… for Codex - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-06-29T18:52:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0lTMVR3Z1lGRDRTMjZZMTJvOUJsbHJ1R2FpNmFqbV92VzNmcVUwQlAtTkFWNzk4Ynp4REQtRmJqazhaU2g4RjhrMWM1QUtGZ05BN21TYnVlakVKOEViUEtzUzBYdFVIS2E2UGNfWGlaSlpFcjRzN3Znc3c4Mk4td21qQjN0anF2UHRGaGJaVkRhRkZYN01B?oc=5",
+        "summary": "OpenAI is teasing new hardware… for Codex &nbsp;&nbsp; The Verge"
       },
       {
         "headline": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure - Crypto Briefing",
@@ -133,40 +160,13 @@
         "summary": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure &nbsp;&nbsp; Crypto Briefing"
       },
       {
-        "headline": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report - New York Post",
-        "source": "New York Post",
-        "timestamp": "2026-06-29T16:52:00.000Z",
+        "headline": "Claude in Microsoft Foundry is now generally available - Microsoft Azure",
+        "source": "Microsoft Azure",
+        "timestamp": "2026-06-29T17:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkhkOW1lQUl2ZnFtQ3BQMnRWZFlIa1I2aVVIWGVaUTJGaEJKNnVZTHBsZWMwOFkzSnpVWFFaM0pfWVUwSEwzSEtoREZTRVZUVWtfa1psZUpsOEVYWWtfb0VkUXN3ellETXZ0TnRRZGhzZXZMMXJtSFBsSGV1TzNFOExnZkVVbEhfREY2NHdVdXlhNUczNnFvZGtPdHM3czlYbEk4dDgtaklrZ2NIZWItM0tn?oc=5",
-        "summary": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report &nbsp;&nbsp; New York Post"
-      },
-      {
-        "headline": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-06-29T16:00:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTlvSnhabHpKWnZOaC1xeFVjNnRnaEQ1NTQyMzlMVXRjZUEwdE50Sll0MG9maHN0X09zdGJUTlViYkN2VkxCVHpqcUFoZnk3YWhrQTNQYTNOZXRWc1hqRHRYeWNQajNubjNockVSTGUtMUpxYXB6dEtjWEhFbENacGx4YzA?oc=5",
-        "summary": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading - Microsoft",
-        "source": "Microsoft",
-        "timestamp": "2026-06-29T16:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeFhSdy1jMW80QkI4QzNtekk5YXlGdXBfRHRpV3NRQ2hOUGhhemZ3V2ozQVM5TzJsN19SYVBPM3BQd3pGSlZGQ0NHRmstaXZubFQ3WUtSOGpESkVMVXNpVVY3U0ZLM1hqMkQ1T2VrUjVEemJxcFltNk01UmsyS2JwU1A4Y0dKd2x4dDJsa2tNQVNhRm5Sc2lJU3BYRXZid2tRczM1aXZvNmVlVFFsUTlSbWl0cEtjX2xKRE1mQ0wwUDFJalVtMFAyY09Uekd3NXZKZ3B6dF9vMnBEVUNLZHB6MTlMbmU?oc=5",
-        "summary": "Small and medium businesses aren’t waiting for an AI invitation—they’re already leading &nbsp;&nbsp; Microsoft"
-      },
-      {
-        "headline": "Microsoft Cloud Enables AI-Powered ERP Transformation - Let's Data Science",
-        "source": "Let's Data Science",
-        "timestamp": "2026-06-29T14:19:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmVoRjJkekVJNjVSVkVwV2tYd0ctcVZuS0ZLNGUtaHoyVm1Pb25zVU95T3RQV3ViOWZOeXhuRzRneWFBM2kzQU1BZURHdWpVXzZGNm52dnRFbFdpVG1vR2h0eElQQU8xbzlzWUtWVlpRT3dCWVd4TEYxZnk2R29PM2xxV2xsUUxHVGpWdUlza0xTOHZaaHpNSV9qTQ?oc=5",
-        "summary": "Microsoft Cloud Enables AI-Powered ERP Transformation &nbsp;&nbsp; Let's Data Science"
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPek1uUEdRZ21YNnBJUkFpYXpaVkJ0Q0dfOXVIaWZaSVRsQWRGMnVUZEpROEZ6cmwtZTUyOVE0RG01UnNXYWtRNWFOZ0xGSEswejR6UzdIWDRpNUhuYzhFVzNIWnI3NHNDMHpubE53dGxFSm5wVXYyV0hjM1oyU05QekhyMV9Bd0pyMUZXOWRYaU5keEV4NkxEWDhR?oc=5",
+        "summary": "Claude in Microsoft Foundry is now generally available &nbsp;&nbsp; Microsoft Azure"
       }
     ],
     "whyItMatters": [
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
