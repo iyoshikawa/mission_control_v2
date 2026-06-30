@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T12:12:51.817Z",
+    "generatedAt": "2026-06-30T15:32:00.904Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix - infoq.com",
-      "source": "infoq.com",
-      "timestamp": "2026-06-30T12:00:05.000Z",
-      "impact": "WATCH",
+      "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-30T15:00:00.000Z",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix &nbsp;&nbsp; infoq.com",
+      "summary": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2huR3VaVzlfTTFxbW5IOEhtT1FrVnV1VmQ2b1RzNTBtYXctSV9uQWtjV3lxOVdxMFBKd2tQa0ZSQVJpTVFqcEJ3RVhNRTl0Vjk1WVRvSjBhd3prbHQybjM0b1ZRVDlFYk5UZU9HeEZXU2NrZ0hFa3p4dlg5VHhxblNjSU4xYk11dDl5cmtGem5SOFVXVmk5TXgyWi1zdkk3WWVxazZ3?oc=5"
+    },
+    {
+      "headline": "OpenAI Discovers New Way to Cut Inference Costs in Half - The Information",
+      "source": "The Information",
+      "timestamp": "2026-06-30T14:06:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Discovers New Way to Cut Inference Costs in Half &nbsp;&nbsp; The Information",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVFNUHpDQkVVazdjUmloMlM2eFZzc1J6bXVXQnJQdHFtQXppWm85V2pJcTIyM3FsUnpxSDh0YmNpQzBnZ3E5WTU3STk1b1d6TDBLdjRkX0NJanp1eG83Vnp0bTdfOGtieWpnREtpdTBmd0RWQndHbkxmTWg4UkY1ZDZrSl9iQXhUUDJIOHJETDJSZi1iVW9wLWxCdjJER2E2Znp6RA?oc=5"
+    },
+    {
+      "headline": "Anthropic Claude Launches On Microsoft Azure Foundry - Dataconomy",
+      "source": "Dataconomy",
+      "timestamp": "2026-06-30T14:02:55.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Claude Launches On Microsoft Azure Foundry &nbsp;&nbsp; Dataconomy",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RYy1ycXdTc19sdER2M0c4SE5wOWprcEVod2hFS3d2X2c2Rmc1WlJneWNlREhlekZMX29ma094M0VieGVIMG1kWTVfa0Z6Rlp0ZUd3aGVsb2tlWDVDY2hHSHptamNnUHRsNkxGcUliTl8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXg3aGhjOFdWY2NwWjdtSGNseFRXaldzQXdSTEJUNTBBLWRqMTMwVkRabUJVRzZSZDBCbkM2NW45NEU5eVd1OHNMd3pCNWlmV3hDNDhQbHZBRzIwX2dvRlB3VWdaTldyY2VYM2RNOHZySW1jQm1oOUNjTjFobG8yckJkYWZRVjFkOGFLb2ZYZW5nZw?oc=5"
     },
     {
       "headline": "White House AI crackdown opens door for Chinese model makers to close gap - CNBC",
@@ -32,14 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eW1BR2s2ZmN6emZhR3lhU0Fld2pPbnhHdjYwTE0ydlNpLVpVdXQ4bWtQcnJHN3VibXNaTHdWd0dlQmdoTk1RaWR3clFzVVg3bENvbFNtSXJtUll5dFFyanhITUcydHdoeE51bmNIYlZBVUU0MFHSAXtBVV95cUxOb2FoUmJLOXA5RlRJM21Ia3hIbEtRbzktc2t2a0ZIMVByZjhNb3Azem9OU0J0bzlKTXZ2Yy0wc21vZ0E2MkZrMHdoM09QZDBHdDJNZ0lXalhwNEVYaE1UeFpzRkh5eV9WMkprM21PR2ZubWMwZWpiMEpHX1U?oc=5"
     },
     {
-      "headline": "AI CEOs wrong about white-collar bloodbath, Zynga's Mark Pincus says - Axios",
-      "source": "Axios",
-      "timestamp": "2026-06-30T09:29:30.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI CEOs wrong about white-collar bloodbath, Zynga's Mark Pincus says &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc2pfRHVsQzB4WGx6aDVHSzJLY0pBdzJSSVE2N0tZMDUyVklyMVRaUkpUeDNieVhFT2lmcV9JTG93SDJQQVQxbm1qNTE4M2tua2RjeC1aMWJZenh5dFVLeXZ5T1lJcWJXaEhXSA?oc=5"
+      "headline": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "timestamp": "2026-06-30T11:58:10.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon &nbsp;&nbsp; Tom's Hardware",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2Zrb05yRG9jVWFGUTUxVmlobzM4MkZTZEltbkdtZUc2MW9GWFVtQTllUGpieXFpYkdvU1EzdzZmc2t3UXctVVViSXRrZnFCeDF0UG1XSGNsS0Z3UUJIZGNUSW5ZNlFOa3pqcFFLOUdxRkJZb2wxbk9FcF9YMEpteHlkOU5vSFBvc29fVnA4XzNPOW1zMklEOEZTWHF6dERueEZnS0ZFcTAwODd6RWMxaUNCUFN6UzFSRURXSGFWRFJHVjRSZFI2elUwc1VwQkl1U1U3cFhB?oc=5"
     },
     {
       "headline": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI - The Guardian",
@@ -52,26 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNmlqTGdtM2QyUHB1UE95blQ1TzNlNzhWb1dHTjZzN1FseFZ0X1djSTZYakJzNHpQWWxIOUtoWXUzQkxBX1k2YWI3WUZscmIwVXlLTUNxUjNfRzZtRjlONjNJLW0zcldJSkw4d2NmSDBvWnI4WnNKMHE0cDZpWXVnUlF2ZjZWMnFCWUd4dnltd1dLWXk3N0RtbHZlMm9Vcno0aS1YOVdVc0x0b216cnBaOExtYzlWMmtJaHU3V1AzaXp4eHBlMTlhTlhfcFZ5VkhfMGpvSURlU1htQU5IeU83Nnd0LXE0Vm9RNnc?oc=5"
     },
     {
-      "headline": "Is Anthropic’s Fable 5 Coming Back This Week? - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-06-29T20:25:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Is Anthropic’s Fable 5 Coming Back This Week? &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGlCUkc1cXpNdzRFZUhQWW5HSGRRUGlJQ3Z6RFQ2dlUzU0pYTFFrNnM5akNxSVhMSmVOWG9MMWJNektqeTdlNnFlaDRfc0pWcXRaRElLbVM1eEVleDRvd24zallvYkFqOHlUbWF5eXNSdS1CX3I3akVYWlR3bVp0Y0tLbFhQZDdiN3ZiMnUzcW1sOGRWVHlfQUFKOEZCUQ?oc=5"
-    },
-    {
-      "headline": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents - Wccftech",
-      "source": "Wccftech",
-      "timestamp": "2026-06-29T19:05:00.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents &nbsp;&nbsp; Wccftech",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXU5cmVDSGdWQXNVZG94YUpwdk9FOWEwOTE1dzZHcW5ZakhFVnJUWlpBNi1oTUF1N19DbU9heWtkNDJSbF9RSjl2dmNUa2s5Q3FzN2JOeU1pTmVlSmEwZTV6UnRJVFR4cmpPdUNqU3ZxOXRzVTZmeTVGZV9XRm9IaFBaWHdrMmN4OC16QjdndV9PdW1EQndKOVF30gGfAUFVX3lxTFBscFp2RVpnQmI2Rm1xd1ltc1lNMlY3SlpfQXhGNC1rbF9EQVVzUUZJQ1RscUhrOVY4TWRqWHlrX2Z0eXNSUWQ5SHgtN2M4Tlh1VmlCQW02ZkhDX2lmenMyTzlzQTR1cUJHLWFadmRiUEZiSi1kdklaT3ozQkZySG55d1poN1gtdWxLaHE5RkJXS1BoXzFlUkF1TkhfODlQTQ?oc=5"
-    },
-    {
       "headline": "OpenAI is teasing new hardware… for Codex - The Verge",
       "source": "The Verge",
       "timestamp": "2026-06-29T18:52:03.000Z",
@@ -80,6 +80,16 @@
       "summary": "OpenAI is teasing new hardware… for Codex &nbsp;&nbsp; The Verge",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0lTMVR3Z1lGRDRTMjZZMTJvOUJsbHJ1R2FpNmFqbV92VzNmcVUwQlAtTkFWNzk4Ynp4REQtRmJqazhaU2g4RjhrMWM1QUtGZ05BN21TYnVlakVKOEViUEtzUzBYdFVIS2E2UGNfWGlaSlpFcjRzN3Znc3c4Mk4td21qQjN0anF2UHRGaGJaVkRhRkZYN01B?oc=5"
+    },
+    {
+      "headline": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-06-29T17:31:08.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure &nbsp;&nbsp; Crypto Briefing",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UVdtbVdzakljcThQV3gyQXRxQTBjSDJVM2l0QzkxTzBPd1NDbkpKby04ck16a1NXd3FaS3Z1bk1ZcWZzTy1hUXVuanVpb1lEMVNDZjMwbGFXZ09lRXdRQkdSTkp5Yms4M3VpWXZUcnE?oc=5"
     },
     {
       "headline": "Claude in Microsoft Foundry is now generally available - Microsoft Azure",
@@ -97,31 +107,39 @@
       "timestamp": "2026-06-29T14:01:37.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price &nbsp;&nbsp; TechCrunch California State Agencies Get 50% Off Anthropic Claude Under New Partnership &nbsp;&nbsp; Yahoo",
+      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5"
-    },
-    {
-      "headline": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
-      "source": "AI at Meta",
-      "timestamp": "2026-06-29T12:50:35.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery &nbsp;&nbsp; AI at Meta",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix - infoq.com",
-        "source": "infoq.com",
-        "timestamp": "2026-06-30T12:00:05.000Z",
-        "impact": "WATCH",
+        "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-06-30T15:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2huR3VaVzlfTTFxbW5IOEhtT1FrVnV1VmQ2b1RzNTBtYXctSV9uQWtjV3lxOVdxMFBKd2tQa0ZSQVJpTVFqcEJ3RVhNRTl0Vjk1WVRvSjBhd3prbHQybjM0b1ZRVDlFYk5UZU9HeEZXU2NrZ0hFa3p4dlg5VHhxblNjSU4xYk11dDl5cmtGem5SOFVXVmk5TXgyWi1zdkk3WWVxazZ3?oc=5",
+        "summary": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "OpenAI Discovers New Way to Cut Inference Costs in Half - The Information",
+        "source": "The Information",
+        "timestamp": "2026-06-30T14:06:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSVFNUHpDQkVVazdjUmloMlM2eFZzc1J6bXVXQnJQdHFtQXppWm85V2pJcTIyM3FsUnpxSDh0YmNpQzBnZ3E5WTU3STk1b1d6TDBLdjRkX0NJanp1eG83Vnp0bTdfOGtieWpnREtpdTBmd0RWQndHbkxmTWg4UkY1ZDZrSl9iQXhUUDJIOHJETDJSZi1iVW9wLWxCdjJER2E2Znp6RA?oc=5",
+        "summary": "OpenAI Discovers New Way to Cut Inference Costs in Half &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "Anthropic Claude Launches On Microsoft Azure Foundry - Dataconomy",
+        "source": "Dataconomy",
+        "timestamp": "2026-06-30T14:02:55.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RYy1ycXdTc19sdER2M0c4SE5wOWprcEVod2hFS3d2X2c2Rmc1WlJneWNlREhlekZMX29ma094M0VieGVIMG1kWTVfa0Z6Rlp0ZUd3aGVsb2tlWDVDY2hHSHptamNnUHRsNkxGcUliTl8?oc=5",
-        "summary": "Microsoft Brings AI-Powered Vulnerability Remediation to Azure DevOps with Copilot Autofix &nbsp;&nbsp; infoq.com"
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXg3aGhjOFdWY2NwWjdtSGNseFRXaldzQXdSTEJUNTBBLWRqMTMwVkRabUJVRzZSZDBCbkM2NW45NEU5eVd1OHNMd3pCNWlmV3hDNDhQbHZBRzIwX2dvRlB3VWdaTldyY2VYM2RNOHZySW1jQm1oOUNjTjFobG8yckJkYWZRVjFkOGFLb2ZYZW5nZw?oc=5",
+        "summary": "Anthropic Claude Launches On Microsoft Azure Foundry &nbsp;&nbsp; Dataconomy"
       },
       {
         "headline": "White House AI crackdown opens door for Chinese model makers to close gap - CNBC",
@@ -133,13 +151,13 @@
         "summary": "White House AI crackdown opens door for Chinese model makers to close gap &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "AI CEOs wrong about white-collar bloodbath, Zynga's Mark Pincus says - Axios",
-        "source": "Axios",
-        "timestamp": "2026-06-30T09:29:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Zc2pfRHVsQzB4WGx6aDVHSzJLY0pBdzJSSVE2N0tZMDUyVklyMVRaUkpUeDNieVhFT2lmcV9JTG93SDJQQVQxbm1qNTE4M2tua2RjeC1aMWJZenh5dFVLeXZ5T1lJcWJXaEhXSA?oc=5",
-        "summary": "AI CEOs wrong about white-collar bloodbath, Zynga's Mark Pincus says &nbsp;&nbsp; Axios"
+        "headline": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon - Tom's Hardware",
+        "source": "Tom's Hardware",
+        "timestamp": "2026-06-30T11:58:10.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2Zrb05yRG9jVWFGUTUxVmlobzM4MkZTZEltbkdtZUc2MW9GWFVtQTllUGpieXFpYkdvU1EzdzZmc2t3UXctVVViSXRrZnFCeDF0UG1XSGNsS0Z3UUJIZGNUSW5ZNlFOa3pqcFFLOUdxRkJZb2wxbk9FcF9YMEpteHlkOU5vSFBvc29fVnA4XzNPOW1zMklEOEZTWHF6dERueEZnS0ZFcTAwODd6RWMxaUNCUFN6UzFSRURXSGFWRFJHVjRSZFI2elUwc1VwQkl1U1U3cFhB?oc=5",
+        "summary": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon &nbsp;&nbsp; Tom's Hardware"
       },
       {
         "headline": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI - The Guardian",
@@ -149,30 +167,12 @@
         "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNmlqTGdtM2QyUHB1UE95blQ1TzNlNzhWb1dHTjZzN1FseFZ0X1djSTZYakJzNHpQWWxIOUtoWXUzQkxBX1k2YWI3WUZscmIwVXlLTUNxUjNfRzZtRjlONjNJLW0zcldJSkw4d2NmSDBvWnI4WnNKMHE0cDZpWXVnUlF2ZjZWMnFCWUd4dnltd1dLWXk3N0RtbHZlMm9Vcno0aS1YOVdVc0x0b216cnBaOExtYzlWMmtJaHU3V1AzaXp4eHBlMTlhTlhfcFZ5VkhfMGpvSURlU1htQU5IeU83Nnd0LXE0Vm9RNnc?oc=5",
         "summary": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Is Anthropic’s Fable 5 Coming Back This Week? - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-06-29T20:25:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGlCUkc1cXpNdzRFZUhQWW5HSGRRUGlJQ3Z6RFQ2dlUzU0pYTFFrNnM5akNxSVhMSmVOWG9MMWJNektqeTdlNnFlaDRfc0pWcXRaRElLbVM1eEVleDRvd24zallvYkFqOHlUbWF5eXNSdS1CX3I3akVYWlR3bVp0Y0tLbFhQZDdiN3ZiMnUzcW1sOGRWVHlfQUFKOEZCUQ?oc=5",
-        "summary": "Is Anthropic’s Fable 5 Coming Back This Week? &nbsp;&nbsp; Forbes"
-      },
-      {
-        "headline": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents - Wccftech",
-        "source": "Wccftech",
-        "timestamp": "2026-06-29T19:05:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXU5cmVDSGdWQXNVZG94YUpwdk9FOWEwOTE1dzZHcW5ZakhFVnJUWlpBNi1oTUF1N19DbU9heWtkNDJSbF9RSjl2dmNUa2s5Q3FzN2JOeU1pTmVlSmEwZTV6UnRJVFR4cmpPdUNqU3ZxOXRzVTZmeTVGZV9XRm9IaFBaWHdrMmN4OC16QjdndV9PdW1EQndKOVF30gGfAUFVX3lxTFBscFp2RVpnQmI2Rm1xd1ltc1lNMlY3SlpfQXhGNC1rbF9EQVVzUUZJQ1RscUhrOVY4TWRqWHlrX2Z0eXNSUWQ5SHgtN2M4Tlh1VmlCQW02ZkhDX2lmenMyTzlzQTR1cUJHLWFadmRiUEZiSi1kdklaT3ozQkZySG55d1poN1gtdWxLaHE5RkJXS1BoXzFlUkF1TkhfODlQTQ?oc=5",
-        "summary": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents &nbsp;&nbsp; Wccftech"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -190,8 +190,8 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
