@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T22:11:33.796Z",
+    "generatedAt": "2026-06-30T00:09:16.348Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -30,6 +30,16 @@
       "summary": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure &nbsp;&nbsp; Crypto Briefing",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UVdtbVdzakljcThQV3gyQXRxQTBjSDJVM2l0QzkxTzBPd1NDbkpKby04ck16a1NXd3FaS3Z1bk1ZcWZzTy1hUXVuanVpb1lEMVNDZjMwbGFXZ09lRXdRQkdSTkp5Yms4M3VpWXZUcnE?oc=5"
+    },
+    {
+      "headline": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report - New York Post",
+      "source": "New York Post",
+      "timestamp": "2026-06-29T16:52:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report &nbsp;&nbsp; New York Post",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkhkOW1lQUl2ZnFtQ3BQMnRWZFlIa1I2aVVIWGVaUTJGaEJKNnVZTHBsZWMwOFkzSnpVWFFaM0pfWVUwSEwzSEtoREZTRVZUVWtfa1psZUpsOEVYWWtfb0VkUXN3ellETXZ0TnRRZGhzZXZMMXJtSFBsSGV1TzNFOExnZkVVbEhfREY2NHdVdXlhNUczNnFvZGtPdHM3czlYbEk4dDgtaklrZ2NIZWItM0tn?oc=5"
     },
     {
       "headline": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
@@ -67,7 +77,7 @@
       "timestamp": "2026-06-29T14:01:37.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico California’s Massive AI Deal Promises Faster Government—and Critics Aren’t Buying It &nbsp;&nbsp; inc.com",
+      "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico Newsom's office touts Anthropic 'partnership,' 50% discount on Claude AI for California agencies, localities &nbsp;&nbsp; Fox Business",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5"
     },
@@ -100,16 +110,6 @@
       "summary": "Mapping Europe’s AI Workforce Opportunity &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5"
-    },
-    {
-      "headline": "Google limits Meta’s use of its Gemini AI models, FT reports - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-06-28T10:30:27.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOallHQVB2WkxmbVZtVUIwRmg1NnBkclB4bkx4bmF0cGp6eThCUTNkMS0tQUdadHRrWnhuTUZzaHlCZUVSRGM3TEkxa1d1YU1jVTM4azlsTnZ0MEJocGdUV0dRZWhJajNBQ2NrT1BOUGFkRjhwYzc2TWxVOTJmOWxGMXBleFdIaE5Nai1KOFd2dTUtTGI5RWl6cWRlNA?oc=5"
     }
   ],
   "aiNews": {
@@ -131,6 +131,15 @@
         "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UVdtbVdzakljcThQV3gyQXRxQTBjSDJVM2l0QzkxTzBPd1NDbkpKby04ck16a1NXd3FaS3Z1bk1ZcWZzTy1hUXVuanVpb1lEMVNDZjMwbGFXZ09lRXdRQkdSTkp5Yms4M3VpWXZUcnE?oc=5",
         "summary": "Anthropic's Claude models now run on Nvidia GB300 Blackwell Ultra systems via Microsoft Azure &nbsp;&nbsp; Crypto Briefing"
+      },
+      {
+        "headline": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report - New York Post",
+        "source": "New York Post",
+        "timestamp": "2026-06-29T16:52:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkhkOW1lQUl2ZnFtQ3BQMnRWZFlIa1I2aVVIWGVaUTJGaEJKNnVZTHBsZWMwOFkzSnpVWFFaM0pfWVUwSEwzSEtoREZTRVZUVWtfa1psZUpsOEVYWWtfb0VkUXN3ellETXZ0TnRRZGhzZXZMMXJtSFBsSGV1TzNFOExnZkVVbEhfREY2NHdVdXlhNUczNnFvZGtPdHM3czlYbEk4dDgtaklrZ2NIZWItM0tn?oc=5",
+        "summary": "Chinese AI is now on par with Anthropic in terms of cybersecurity: report &nbsp;&nbsp; New York Post"
       },
       {
         "headline": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough - The New York Times",
@@ -158,22 +167,13 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmVoRjJkekVJNjVSVkVwV2tYd0ctcVZuS0ZLNGUtaHoyVm1Pb25zVU95T3RQV3ViOWZOeXhuRzRneWFBM2kzQU1BZURHdWpVXzZGNm52dnRFbFdpVG1vR2h0eElQQU8xbzlzWUtWVlpRT3dCWVd4TEYxZnk2R29PM2xxV2xsUUxHVGpWdUlza0xTOHZaaHpNSV9qTQ?oc=5",
         "summary": "Microsoft Cloud Enables AI-Powered ERP Transformation &nbsp;&nbsp; Let's Data Science"
-      },
-      {
-        "headline": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians - California State Portal | CA.gov",
-        "source": "California State Portal | CA.gov",
-        "timestamp": "2026-06-29T14:01:37.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVdrb0JtdWt6OU1tU2FicENIa0R3SFBPaHVPYjJHQThPX1ZQR0dZNndHeEI1Nlo1eDVJMDJNQlJUOEcxZldnUUtGQVUyWEhrV29SMGhFMmpubEt6MWxUai0zdmluM1k4YTBNUVBkUmsyZUFwVXRpWVhpcDJKRnpBR1ppNjBMZXhoX0RNUTlOUERKenlyQkc4Tjd3aXh1ZHpzSV9wWGdvWlRDNHpsWUEwVE1BVS1ZVHYwVnNackQ0ejl4NElKVHpXS1NkX2VaMDA3TFRjX3kzVEloS3Q2S1Yzc1phekx0UjE1clFzQVN1NkZRb3VfMGZETWV3cXV6ZnNMQWUwSzNkOA?oc=5",
-        "summary": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians &nbsp;&nbsp; California State Portal | CA.gov Exclusive: Newsom, Anthropic ink deal to expand government use &nbsp;&nbsp; Politico California’s Massive AI Deal Promises Faster Government—and Critics Aren’t Buying It &nbsp;&nbsp; inc.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
