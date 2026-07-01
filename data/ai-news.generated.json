@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T15:45:36.790Z",
+    "generatedAt": "2026-07-01T18:01:13.645Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm - AP News",
-      "source": "AP News",
-      "timestamp": "2026-07-01T14:49:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm &nbsp;&nbsp; AP News",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUFUaE4wVlNYRDNtWjhaNXdpRV80eUR2ZzhrMklvNDJKcENfMFNjblluVnZVcEYwbjNEdXhIWms2VGMwQ1NZRzY3Y1c4U0pLbl84ajhaZ05fcklpZ1V6bHZkQi10SHV1YjBvSC1FOEwwNjh6YWdVZm9ZMWJhd0FpLU9QVTVNOFNtVU4wcEhJUThQdjZXN1pZaGtJQQ?oc=5"
+      "headline": "Meta’s AI Storage Blueprint at Scale - Engineering at Meta",
+      "source": "Engineering at Meta",
+      "timestamp": "2026-07-01T16:01:25.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s AI Storage Blueprint at Scale &nbsp;&nbsp; Engineering at Meta",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmltbE5rNVprRUVYM3lLNFdYMlZzaTZ3UDJxbWk4djVqS0JfYnROeGttalRLSnpOeWFrZDhMc09CQWNQLWhwOWMyRC11N2FnQmhtV2M0YVd0cFFwMDBQSVQ4YWh5TWhGdzdNeWhNYUs0QU5xWHhWNlpKZldjTzhQMUc4ZkdNeFpObHdfNmI2QkU1alBuN1A0SjR3?oc=5"
+    },
+    {
+      "headline": "Meta names Alex Schultz first-ever chief data officer - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-01T15:14:43.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta names Alex Schultz first-ever chief data officer &nbsp;&nbsp; Axios",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EQzFiWXBhSzV4aEp3YThZNzRXV0s2NVdNa3Z6WTVoNmNYbDRVMDZNMGdDS0w1c21ZdkdyR1ZQUHRTMGhsU3BKcEdmckhNbTd6WElMd0VaM3lCN1U5Z3NVNXpYV2JlUjNjbjA5ZWRhUVhyV29aR01Waw?oc=5"
     },
     {
       "headline": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
@@ -32,42 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFFfb2FXMUNJVDQ2MnBIS0l3MHRiTFN2MUlxelFrc01rakRIeWRMaUktQlRwczl2UWZpdXEwWWRLMlFSQXBNQVh4UFJla0gzbUVNVkV2VXlLdW9mZGlOdVl3ak9Sc2lOdUNiLWlkNkNMWUhwOXNpUXdxd000bmVRR9IBhgFBVV95cUxPTHlva1FyR0F0anlNZjNRd2c4bDYxWXhTNEJUUHhUYkpNQm9qV3UtX3BLMFlWZ2NEc2dheWloeU9Jd3dNekpQMEswY0NwT1pUcTFTeC1kOW83UmluenZoT21kbk5jbTFhQ3NBNUxnQi12TU9QUWdpSml5UWxnTDQzSEN6UnRXdw?oc=5"
     },
     {
-      "headline": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-01T14:15:03.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92Y0tZOWFfR0o1YUdSSHhaWVhGbE9QN0FQa01WUkNyZFZqUDZoa0MwZUpFeWZzX2pHQ2YyZnhrWC1OTVhaU2owcHJlX19weW1nT1l1LU5TajUtQnVaN0k5b2ZoTHRCWDFfZ3NHeFJGM1I2Z9IBd0FVX3lxTE9BTkt2YUI0WDRRQnMtckF1aFlmM3FBTzZ4VTZ0SkFKckZnUzdwcEl6XzdYTHlVeUxRa3lCbUFHOXktWXhGRjV1aG9sRnRnVjh4M21Pa0VsZUtFelFBZ0JiN2d0V2tLZ3h3V2hJTVRqcHhzWFg0enRz?oc=5"
-    },
-    {
-      "headline": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-01T14:04:05.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5"
-    },
-    {
-      "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-01T13:43:07.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta, like SpaceX, looks to turn excess AI compute into cash &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUZfbVhkRXYzMGNzWC1Wc3FzeEpFLXNVMlhCcFFPTEdqSldHVWpySGJpYlh0TWRSdDRFeGZwejR5cTNqRXhfa3hHTW9tdkFHRU1HVlBqQ3F2WjZpR0VkZUdlNjdZUVZkOUpmQ0JtakVCbHNoV0RrVk54RmItbmhwQ0diT0ZnMUIwTTBYVmtqV3BHMmlHcEtLSg?oc=5"
-    },
-    {
-      "headline": "Meta Is Building a Cloud Business to Sell Excess AI Compute - Bloomberg.com",
+      "headline": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-07-01T12:35:21.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Is Building a Cloud Business to Sell Excess AI Compute &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power &nbsp;&nbsp; Bloomberg.com Meta pops 10% as company makes cloud push to sell excess AI compute power capacity &nbsp;&nbsp; CNBC Meta building cloud business to sell excess AI capacity, Bloomberg News reports &nbsp;&nbsp; Reuters Meta building cloud business to sell excess AI capacity, Bloomberg News reports &nbsp;&nbsp; Yahoo Finance Meta, like SpaceX, looks to turn excess AI compute into cash &nbsp;&nbsp; TechCrunch Meta jumps on report it is building cloud business for excess AI compute (META:NASDAQ) &nbsp;&nbsp; Seeking Alpha Meta is building a cloud business to sell its excess AI computing power &nbsp;&nbsp; qz.com Meta Stock Rallies On Reported Plan For AI Cloud Business; CoreWeave Slides &nbsp;&nbsp; Investor's Business Daily CoreWeave Stock Drops Sharply on Report of Meta AI Cloud Business &nbsp;&nbsp; Benzinga",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5"
     },
@@ -82,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQW5yUWxjd0szLW1HV3pGTXMwTnh6Q295ZncyeWtYbHBCc0JjR2lWeFdIZGN4ckdQWVRILXNEWkduNGtDSkNWZkNIVkhGcVlhaDJHV29NNUNTcjh4Qy16VTBxWkRlR01HSGVqX0lWUGFpRkJzaU9TRUYtUXo5U0ZzU2xuZGxVLWpSMFZvQ2VHMkJvSTdDc3VmYWtB?oc=5"
     },
     {
-      "headline": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-01T03:17:31.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFZkTWw1SDJBWVZnalNlVDJVQTNvckpuVm9uNkJRTm51ZVdOdy1RaGgtdWhWUnBxWHF3RlJJeDJOeDVKU3N1LWFlSnRCRUNOYWtTak9faTZES2NTRzVSME5oXzVFa0pBQmJydXE5RFNNSFIxSWk0S0d1SHh0R2ZWV0UxTzk3VlFReXc?oc=5"
-    },
-    {
       "headline": "Introducing Claude Sonnet 5 - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-07-01T00:21:29.000Z",
@@ -102,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5"
     },
     {
+      "headline": "Anthropic Wants You to Know Its New AI Model Is Definitely Not Too Dangerous to Release - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-06-30T21:00:12.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Wants You to Know Its New AI Model Is Definitely Not Too Dangerous to Release &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGd1NzhfQXRjaF9WbFhSaGZNTnduYVJ4bjhGNTdwaGE4RnRtMkdVVHE1Qm9PMS04b3RhZUR5T1VlNjlObl9NU1RRdWFNUDEtUzJ0NzBRRzZfbTZYS2loeGxvY2RJaEdXeWdzUGJNUHhVcmlweGxwZWNWMUlROUNCT1V2OENJd2dOU0h5NTNqYVZGQzlSYlRmUXluckpqZS1PbTJhUVd1S3NFTTlKbExwenVWWGNrazBkUEE?oc=5"
+    },
+    {
       "headline": "A24, Google DeepMind and the Dangerous Business of Selling Cool - The Ankler",
       "source": "The Ankler",
       "timestamp": "2026-06-30T20:18:07.000Z",
@@ -110,18 +90,47 @@
       "summary": "A24, Google DeepMind and the Dangerous Business of Selling Cool &nbsp;&nbsp; The Ankler",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE1FN3FIOGhNaGluRnlwLTNXYXN4TGJTMTVGbmVhUEdkcUVneDAxV3NQNVNVTmFlUjFFMDdfZU9YWnQ1YWx1UUhudXNVSVNtQm9JeE43UWJrTmJ4T1p1YXpCNW9UdEgtNEtIRi00SjlhYnF3UU5OUEZsV1ZRNkFBcXdLS21UUXFnRkZwUVFB?oc=5"
+    },
+    {
+      "headline": "Anthropic launches cheaper Claude Sonnet 5 model, as tech searches for AI savings - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-06-30T18:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic launches cheaper Claude Sonnet 5 model, as tech searches for AI savings &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeG5qOHVQUUc5TG9SRUszU2RNZUszUXRCWHVmQmpiZExOZFNuaTZNLTgzZElxSUxfZk5najZrbkhJVG9FUlE5bURVUGtUY01aQ3ZlNWdrZmJIbFI2ZGNVUUVCUjNaUzlVRGFyVWJjTXlPVjBDTU9HbGQtU3NGMDZlN1J3UWJFNXp6UlpSQURRSUwwcHYzLW40bG04ckJsU2wwVF84NVBhR1FJbWdBZi1qWnhlY0tuSTZjTlNZSWFIRVQ1YW9TZFVRNnJZRmktcDJjWWJvNEo4RQ?oc=5"
+    },
+    {
+      "headline": "Introducing GeneBench-Pro - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-06-30T17:25:28.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Introducing GeneBench-Pro &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pT20yVzBDMlA4SmhaYW9xX2piZUlYY2hZRk14bFU4bzJ5VGVmWWlhd0ZMNnpwRkVwaGpEMzFnZVZpOVlveUR3NHpBa2R1aFZCbDlfNGFNVlpOam44d1pVOA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm - AP News",
-        "source": "AP News",
-        "timestamp": "2026-07-01T14:49:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUFUaE4wVlNYRDNtWjhaNXdpRV80eUR2ZzhrMklvNDJKcENfMFNjblluVnZVcEYwbjNEdXhIWms2VGMwQ1NZRzY3Y1c4U0pLbl84ajhaZ05fcklpZ1V6bHZkQi10SHV1YjBvSC1FOEwwNjh6YWdVZm9ZMWJhd0FpLU9QVTVNOFNtVU4wcEhJUThQdjZXN1pZaGtJQQ?oc=5",
-        "summary": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm &nbsp;&nbsp; AP News"
+        "headline": "Meta’s AI Storage Blueprint at Scale - Engineering at Meta",
+        "source": "Engineering at Meta",
+        "timestamp": "2026-07-01T16:01:25.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmltbE5rNVprRUVYM3lLNFdYMlZzaTZ3UDJxbWk4djVqS0JfYnROeGttalRLSnpOeWFrZDhMc09CQWNQLWhwOWMyRC11N2FnQmhtV2M0YVd0cFFwMDBQSVQ4YWh5TWhGdzdNeWhNYUs0QU5xWHhWNlpKZldjTzhQMUc4ZkdNeFpObHdfNmI2QkU1alBuN1A0SjR3?oc=5",
+        "summary": "Meta’s AI Storage Blueprint at Scale &nbsp;&nbsp; Engineering at Meta"
+      },
+      {
+        "headline": "Meta names Alex Schultz first-ever chief data officer - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-01T15:14:43.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EQzFiWXBhSzV4aEp3YThZNzRXV0s2NVdNa3Z6WTVoNmNYbDRVMDZNMGdDS0w1c21ZdkdyR1ZQUHRTMGhsU3BKcEdmckhNbTd6WElMd0VaM3lCN1U5Z3NVNXpYV2JlUjNjbjA5ZWRhUVhyV29aR01Waw?oc=5",
+        "summary": "Meta names Alex Schultz first-ever chief data officer &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
@@ -133,40 +142,31 @@
         "summary": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-01T14:15:03.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92Y0tZOWFfR0o1YUdSSHhaWVhGbE9QN0FQa01WUkNyZFZqUDZoa0MwZUpFeWZzX2pHQ2YyZnhrWC1OTVhaU2owcHJlX19weW1nT1l1LU5TajUtQnVaN0k5b2ZoTHRCWDFfZ3NHeFJGM1I2Z9IBd0FVX3lxTE9BTkt2YUI0WDRRQnMtckF1aFlmM3FBTzZ4VTZ0SkFKckZnUzdwcEl6XzdYTHlVeUxRa3lCbUFHOXktWXhGRjV1aG9sRnRnVjh4M21Pa0VsZUtFelFBZ0JiN2d0V2tLZ3h3V2hJTVRqcHhzWFg0enRz?oc=5",
-        "summary": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-01T14:04:05.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
-        "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-07-01T13:43:07.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUZfbVhkRXYzMGNzWC1Wc3FzeEpFLXNVMlhCcFFPTEdqSldHVWpySGJpYlh0TWRSdDRFeGZwejR5cTNqRXhfa3hHTW9tdkFHRU1HVlBqQ3F2WjZpR0VkZUdlNjdZUVZkOUpmQ0JtakVCbHNoV0RrVk54RmItbmhwQ0diT0ZnMUIwTTBYVmtqV3BHMmlHcEtLSg?oc=5",
-        "summary": "Meta, like SpaceX, looks to turn excess AI compute into cash &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Meta Is Building a Cloud Business to Sell Excess AI Compute - Bloomberg.com",
+        "headline": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
         "source": "Bloomberg.com",
         "timestamp": "2026-07-01T12:35:21.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5",
-        "summary": "Meta Is Building a Cloud Business to Sell Excess AI Compute &nbsp;&nbsp; Bloomberg.com"
+        "summary": "Meta Is Planning a Cloud Business to Sell AI Computing Power &nbsp;&nbsp; Bloomberg.com Meta pops 10% as company makes cloud push to sell excess AI compute power capacity &nbsp;&nbsp; CNBC Meta building cloud business to sell excess AI capacity, Bloomberg News reports &nbsp;&nbsp; Reuters Meta building cloud business to sell excess AI capacity, Bloomberg News reports &nbsp;&nbsp; Yahoo Finance Meta, like SpaceX, looks to turn excess AI compute into cash &nbsp;&nbsp; TechCrunch Meta jumps on report it is building cloud business for excess AI compute (META:NASDAQ) &nbsp;&nbsp; Seeking Alpha Meta is building a cloud business to sell its excess AI computing power &nbsp;&nbsp; qz.com Meta Stock Rallies On Reported Plan For AI Cloud Business; CoreWeave Slides &nbsp;&nbsp; Investor's Business Daily CoreWeave Stock Drops Sharply on Report of Meta AI Cloud Business &nbsp;&nbsp; Benzinga"
+      },
+      {
+        "headline": "Will Genpact's (G) New Azure AI Deductions Tool Reframe Its Higher-Value Services Narrative? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-01T08:20:45.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQW5yUWxjd0szLW1HV3pGTXMwTnh6Q295ZncyeWtYbHBCc0JjR2lWeFdIZGN4ckdQWVRILXNEWkduNGtDSkNWZkNIVkhGcVlhaDJHV29NNUNTcjh4Qy16VTBxWkRlR01HSGVqX0lWUGFpRkJzaU9TRUYtUXo5U0ZzU2xuZGxVLWpSMFZvQ2VHMkJvSTdDc3VmYWtB?oc=5",
+        "summary": "Will Genpact's (G) New Azure AI Deductions Tool Reframe Its Higher-Value Services Narrative? &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Introducing Claude Sonnet 5 - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-07-01T00:21:29.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5",
+        "summary": "Introducing Claude Sonnet 5 &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
