@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T12:58:24.782Z",
+    "generatedAt": "2026-07-03T15:18:19.653Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,26 @@
   },
   "newsFeed": [
     {
+      "headline": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-03T14:55:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazV3SlFQNmtsMUs0VnBGWjJaUHNyUkJsSkxaNGd4R0FGZFo5RE5rcktkV3FEdUhHWnFMZ2xnTzJndXdpWkxzbDdaMi1UVDFwQ0xDYUdDaW9ZMEpNLS1sNjJaV1V6TlBfNXZVZlVmcDh4SVhWRXI5c3ZBUFRFYUpkR2NpeE1QUThMN2FKRF9GWHd2RnZxQ09GZHg1eHZMbXhkZTdVU0ExWQ?oc=5"
+    },
+    {
+      "headline": "Alibaba bars employees from using Anthropic's Claude Code (BABA:NYSE) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-07-03T14:00:52.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Alibaba bars employees from using Anthropic's Claude Code (BABA:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVkydE1LVmRVTXVNbUlMQ0lGUlZBT3BfSXRwMFNqNzBRNjJ6SG9DM1RjNVFvZFZxUDNnbE00NWxFdjN3dGdHRjJJRWwtbVVvMDJYS0VqOWpmSjdwOXlkUEF5SzNVQU9QTUdZZ3hGMlFldnd5dVNzSnZQeVptMk1rUkF1UDdVelJvVnJucmpRWFRPb09DS0ExblFR?oc=5"
+    },
+    {
       "headline": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents - Barron's",
       "source": "Barron's",
       "timestamp": "2026-07-03T12:44:00.000Z",
@@ -22,24 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fNndGUUxhc3pHRTlEcDZ4UzlBaFVVZGRfa0tuM2RJTXhjallpZkFtNVVndmlMTU9CQzUxcWZtWUt2UGxjSERIbXZiWWZ0engwZnVVcjgxRXVWZVJOeVB2cHBtOVdYS1pONmJ6N1JLMG1GaUNzajdQS1NmWkl4dw?oc=5"
     },
     {
-      "headline": "California Expands AI Push With Statewide Anthropic Partnership - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-07-03T11:31:10.000Z",
-      "impact": "HIGH",
+      "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
+      "source": "Mashable",
+      "timestamp": "2026-07-03T10:00:58.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "California Expands AI Push With Statewide Anthropic Partnership &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5"
+      "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5"
     },
     {
-      "headline": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-03T06:50:29.000Z",
+      "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-03T06:50:00.000Z",
       "impact": "HIGH",
-      "category": "models",
-      "summary": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmJCeUswWFNwa1VwYUFJSElvZHRfdUpJNTNvVDBUSUE4X3hJelVyUXF6RkhmenpJanQ1ay1nTXpLOFdTRzByMVNYdDV6aDhyZ3Nnb1hUNDZCS3lVb2lIS052M1RxcUtrcEVaem53dVhnYzkwTmM3WDJSZ3JqclpBRDUxRXBaOVpXajd3RUppWGdLVE9sMzN3SUMwUWRaZw?oc=5"
+      "category": "regulation",
+      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5"
     },
     {
       "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
@@ -60,16 +80,6 @@
       "summary": "Meta is finally catching up to OpenAI, its AI leader says &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5"
-    },
-    {
-      "headline": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-02T22:13:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5"
     },
     {
       "headline": "Anthropic Claude Goes GA in Microsoft Foundry - Redmondmag.com",
@@ -100,20 +110,28 @@
       "summary": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFdTNEs5RVp6eW96enZyOUIxSmcxa1RhamRMeWNROXZxVlN2amMyakRub1E0M29JYXE2aXNpYk5sTk1OSXVDMVZ0UlNVazZrTTJrOVM3ajVuWnR2WmRKZ2VoRTJLRkhmOFp2b1BiOW8xQzk1Q2JkQUNVQUw0N3NFcHBFV3p5VjE4UUYxVXhB?oc=5"
-    },
-    {
-      "headline": "Microsoft (MSFT) Stock Faces New AI Cloud Risk as Meta Plans to Rival Azure - TipRanks",
-      "source": "TipRanks",
-      "timestamp": "2026-07-02T14:36:06.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft (MSFT) Stock Faces New AI Cloud Risk as Meta Plans to Rival Azure &nbsp;&nbsp; TipRanks",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1Zkd0JJcTNEMnlzbHFyUWxkcml0c1VUMmhJd2pzdGRuaXdmRV9iem15LTRUelpGVHI4cVRFUE9CRFFLakh0UDVsaFEybDhOTzJJbXFIcHNOZTE5STBUVDZUalBoM1psLUJKMUJxc2Fzblh1bmRCMElxNmhURDU0WlNvTDM4ZjBwRlphR2ltQWdCSWlGWVFEQXNkaFBMOUhUMjNjNTZR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-03T14:55:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazV3SlFQNmtsMUs0VnBGWjJaUHNyUkJsSkxaNGd4R0FGZFo5RE5rcktkV3FEdUhHWnFMZ2xnTzJndXdpWkxzbDdaMi1UVDFwQ0xDYUdDaW9ZMEpNLS1sNjJaV1V6TlBfNXZVZlVmcDh4SVhWRXI5c3ZBUFRFYUpkR2NpeE1QUThMN2FKRF9GWHd2RnZxQ09GZHg1eHZMbXhkZTdVU0ExWQ?oc=5",
+        "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Alibaba bars employees from using Anthropic's Claude Code (BABA:NYSE) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-07-03T14:00:52.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVkydE1LVmRVTXVNbUlMQ0lGUlZBT3BfSXRwMFNqNzBRNjJ6SG9DM1RjNVFvZFZxUDNnbE00NWxFdjN3dGdHRjJJRWwtbVVvMDJYS0VqOWpmSjdwOXlkUEF5SzNVQU9QTUdZZ3hGMlFldnd5dVNzSnZQeVptMk1rUkF1UDdVelJvVnJucmpRWFRPb09DS0ExblFR?oc=5",
+        "summary": "Alibaba bars employees from using Anthropic's Claude Code (BABA:NYSE) &nbsp;&nbsp; Seeking Alpha"
+      },
       {
         "headline": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents - Barron's",
         "source": "Barron's",
@@ -124,22 +142,22 @@
         "summary": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents &nbsp;&nbsp; Barron's"
       },
       {
-        "headline": "California Expands AI Push With Statewide Anthropic Partnership - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-07-03T11:31:10.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
-        "summary": "California Expands AI Push With Statewide Anthropic Partnership &nbsp;&nbsp; Yahoo"
+        "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
+        "source": "Mashable",
+        "timestamp": "2026-07-03T10:00:58.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5",
+        "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable"
       },
       {
-        "headline": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-07-03T06:50:29.000Z",
+        "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-07-03T06:50:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmJCeUswWFNwa1VwYUFJSElvZHRfdUpJNTNvVDBUSUE4X3hJelVyUXF6RkhmenpJanQ1ay1nTXpLOFdTRzByMVNYdDV6aDhyZ3Nnb1hUNDZCS3lVb2lIS052M1RxcUtrcEVaem53dVhnYzkwTmM3WDJSZ3JqclpBRDUxRXBaOVpXajd3RUppWGdLVE9sMzN3SUMwUWRaZw?oc=5",
-        "summary": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says &nbsp;&nbsp; Yahoo Finance"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
+        "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
@@ -149,30 +167,12 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
         "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-02T23:52:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5",
-        "summary": "Meta is finally catching up to OpenAI, its AI leader says &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-02T22:13:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5",
-        "summary": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall &nbsp;&nbsp; Business Insider"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
