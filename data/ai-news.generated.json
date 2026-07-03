@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T21:11:55.854Z",
+    "generatedAt": "2026-07-03T23:08:24.475Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
+      "source": "Mashable",
+      "timestamp": "2026-07-03T19:10:12.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5"
+    },
+    {
       "headline": "We can debate the ethics of AI but can’t seem to change course | Letters - The Guardian",
       "source": "The Guardian",
       "timestamp": "2026-07-03T18:18:00.000Z",
@@ -20,16 +30,6 @@
       "summary": "We can debate the ethics of AI but can’t seem to change course | Letters &nbsp;&nbsp; The Guardian",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5"
-    },
-    {
-      "headline": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-03T16:58:18.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's AI Payoff Timeline Looks Messier &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5"
     },
     {
       "headline": "Google DeepMind Unionization Talks Are Off to a Rocky Start - WIRED",
@@ -52,6 +52,26 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazV3SlFQNmtsMUs0VnBGWjJaUHNyUkJsSkxaNGd4R0FGZFo5RE5rcktkV3FEdUhHWnFMZ2xnTzJndXdpWkxzbDdaMi1UVDFwQ0xDYUdDaW9ZMEpNLS1sNjJaV1V6TlBfNXZVZlVmcDh4SVhWRXI5c3ZBUFRFYUpkR2NpeE1QUThMN2FKRF9GWHd2RnZxQ09GZHg1eHZMbXhkZTdVU0ExWQ?oc=5"
     },
     {
+      "headline": "Business Central Integrates with Azure AI Architecture - Let's Data Science",
+      "source": "Let's Data Science",
+      "timestamp": "2026-07-03T14:24:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Business Central Integrates with Azure AI Architecture &nbsp;&nbsp; Let's Data Science",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW56aWM5cGNBdGExUUd2NmJVY2w5N2tEUzhld3RIS0EtTUVQZnVvM3l6ZDB1WTJGZkRBb1ZMZUViUTNvdnpXQV9fbVE1LUJqdU54NlFORWhNWW9aT3dnbGJyX3ZuWU9weHlSR1dsYlNqXzdnSGpfTWRPLWRkNVZMQk5kMUdHUzIxTTNMQjZtbUxsLV9neW1makRBUWk?oc=5"
+    },
+    {
+      "headline": "How the world's top AI models were revived - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-03T13:27:15.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "How the world's top AI models were revived &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkJnT1VCbHFmNF9ZUVAzQUFneDJ3TE1UWElhSTBvdFo2enB1Q29DMG1SQlUzY290MmhPT3dyc3pDaXZFMmFNSDhFUTlvWTlQX2V5V0ZUMzJIYk51S0FqcmxlYmh5dkVoWUtIX054QTkteWdON18yM2hjbGRCM0lIVG0taHQ?oc=5"
+    },
+    {
       "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
       "source": "Reuters",
       "timestamp": "2026-07-03T06:50:00.000Z",
@@ -60,16 +80,6 @@
       "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5"
-    },
-    {
-      "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-07-03T04:01:47.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5"
     },
     {
       "headline": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5"
     },
     {
-      "headline": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-02T23:05:13.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5"
-    },
-    {
       "headline": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-07-02T22:13:00.000Z",
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0JCM2lSVlJscWE5czJOV0NjMmtPQW10VF94WVZrUWVBak42RjYzMGNBUEZvN2NIY0h6QlU4Yl9UUUN5all2NzU3V0dvODdUemZRY0NBVV9ZZEFZa1FpTHVDTFdNYzZGUFpFckRuLWpxaTJmYnMwUHJRVFltWmllRE5rWXlyNDZqaVc3Zlp0ZzFDYVRsUlBMVDZWOWtxQnJoaHFUeA?oc=5"
     },
     {
-      "headline": "Anthropic Claude Goes GA in Microsoft Foundry - Redmondmag.com",
-      "source": "Redmondmag.com",
-      "timestamp": "2026-07-02T21:52:05.000Z",
+      "headline": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-02T20:11:23.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic Claude Goes GA in Microsoft Foundry &nbsp;&nbsp; Redmondmag.com",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE1LWjhRQ29OT1dwVjdnZFRRQ29zOGFSeXYtaVM4NG9QdTRBLWVYTTlNQ3JzQWtoQ0dVZkoyWDFUTzRaLV90ZWNxVERwSFNvWDFabFdnR0toY0pIV0Z5MXpJMVZfZURuR0NWcE5zMmJBX25oQUtraUdFeWludjdmMU5lbnN6RFNKRWxmYndTd2xGQ3NkU1hZaQ?oc=5"
+      "summary": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVUa3FPOVpVNWJzbS00NWNEb3dWYjVjVFdzM052RnpOdFE0cUhXVXNORm15WGZHUXpxdHE3bzRXYUJPeE1SSS0zWWlOb2dJUklfeWJpNl9ZOVNNRF9wa3B4QmM5bTJDNmEwYVlwLU84aEMxVG1TSmNNV3VWQVc3VW51NmRXODV1dy14QktRa013ZDJ6ak5MeXo3OUM4Sjg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
+        "source": "Mashable",
+        "timestamp": "2026-07-03T19:10:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5",
+        "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable"
+      },
       {
         "headline": "We can debate the ethics of AI but can’t seem to change course | Letters - The Guardian",
         "source": "The Guardian",
@@ -122,15 +131,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5",
         "summary": "We can debate the ethics of AI but can’t seem to change course | Letters &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-07-03T16:58:18.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5",
-        "summary": "Meta's AI Payoff Timeline Looks Messier &nbsp;&nbsp; Yahoo Finance"
       },
       {
         "headline": "Google DeepMind Unionization Talks Are Off to a Rocky Start - WIRED",
@@ -151,28 +151,28 @@
         "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-03T06:50:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
-        "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters"
+        "headline": "Business Central Integrates with Azure AI Architecture - Let's Data Science",
+        "source": "Let's Data Science",
+        "timestamp": "2026-07-03T14:24:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW56aWM5cGNBdGExUUd2NmJVY2w5N2tEUzhld3RIS0EtTUVQZnVvM3l6ZDB1WTJGZkRBb1ZMZUViUTNvdnpXQV9fbVE1LUJqdU54NlFORWhNWW9aT3dnbGJyX3ZuWU9weHlSR1dsYlNqXzdnSGpfTWRPLWRkNVZMQk5kMUdHUzIxTTNMQjZtbUxsLV9neW1makRBUWk?oc=5",
+        "summary": "Business Central Integrates with Azure AI Architecture &nbsp;&nbsp; Let's Data Science"
       },
       {
-        "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-07-03T04:01:47.000Z",
-        "impact": "LOW",
+        "headline": "How the world's top AI models were revived - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-03T13:27:15.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
-        "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude &nbsp;&nbsp; Financial Times"
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkJnT1VCbHFmNF9ZUVAzQUFneDJ3TE1UWElhSTBvdFo2enB1Q29DMG1SQlUzY290MmhPT3dyc3pDaXZFMmFNSDhFUTlvWTlQX2V5V0ZUMzJIYk51S0FqcmxlYmh5dkVoWUtIX054QTkteWdON18yM2hjbGRCM0lIVG0taHQ?oc=5",
+        "summary": "How the world's top AI models were revived &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
