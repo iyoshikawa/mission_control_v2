@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T10:41:07.698Z",
+    "generatedAt": "2026-07-03T12:58:24.782Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,29 +12,39 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI Woos Trump Administration as Investor - Time Magazine",
-      "source": "Time Magazine",
-      "timestamp": "2026-07-03T10:07:59.000Z",
+      "headline": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-07-03T12:44:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Woos Trump Administration as Investor &nbsp;&nbsp; Time Magazine",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHlvU3F0S1FQX0pLVzZkOWZqMTBOZ0NiUWE2VGtiT3RnRXBuOVNoSGlXekRFN1UzaE5rSGNmclMwMGExQmdqZHBIa0hkVkJtMU9GSHphbmZoTWEwTE8zN0hINXk5SHI5TE1xMl9PYlFMbHYtRm4tSDlINTl5RWVTejNUelE2WXZmZUhRdXZR?oc=5"
+      "category": "models",
+      "summary": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fNndGUUxhc3pHRTlEcDZ4UzlBaFVVZGRfa0tuM2RJTXhjallpZkFtNVVndmlMTU9CQzUxcWZtWUt2UGxjSERIbXZiWWZ0engwZnVVcjgxRXVWZVJOeVB2cHBtOVdYS1pONmJ6N1JLMG1GaUNzajdQS1NmWkl4dw?oc=5"
     },
     {
-      "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-03T06:50:00.000Z",
+      "headline": "California Expands AI Push With Statewide Anthropic Partnership - Yahoo",
+      "source": "Yahoo",
+      "timestamp": "2026-07-03T11:31:10.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5"
+      "category": "ecosystem",
+      "summary": "California Expands AI Push With Statewide Anthropic Partnership &nbsp;&nbsp; Yahoo",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5"
+    },
+    {
+      "headline": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-03T06:50:29.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmJCeUswWFNwa1VwYUFJSElvZHRfdUpJNTNvVDBUSUE4X3hJelVyUXF6RkhmenpJanQ1ay1nTXpLOFdTRzByMVNYdDV6aDhyZ3Nnb1hUNDZCS3lVb2lIS052M1RxcUtrcEVaem53dVhnYzkwTmM3WDJSZ3JqclpBRDUxRXBaOVpXajd3RUppWGdLVE9sMzN3SUMwUWRaZw?oc=5"
     },
     {
       "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-07-03T04:00:37.000Z",
+      "timestamp": "2026-07-03T04:01:47.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude &nbsp;&nbsp; Financial Times",
@@ -50,16 +60,6 @@
       "summary": "Meta is finally catching up to OpenAI, its AI leader says &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5"
-    },
-    {
-      "headline": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-02T23:05:13.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5"
     },
     {
       "headline": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
@@ -82,60 +82,69 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE1LWjhRQ29OT1dwVjdnZFRRQ29zOGFSeXYtaVM4NG9QdTRBLWVYTTlNQ3JzQWtoQ0dVZkoyWDFUTzRaLV90ZWNxVERwSFNvWDFabFdnR0toY0pIV0Z5MXpJMVZfZURuR0NWcE5zMmJBX25oQUtraUdFeWludjdmMU5lbnN6RFNKRWxmYndTd2xGQ3NkU1hZaQ?oc=5"
     },
     {
-      "headline": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
+      "headline": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-02T20:11:23.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVUa3FPOVpVNWJzbS00NWNEb3dWYjVjVFdzM052RnpOdFE0cUhXVXNORm15WGZHUXpxdHE3bzRXYUJPeE1SSS0zWWlOb2dJUklfeWJpNl9ZOVNNRF9wa3B4QmM5bTJDNmEwYVlwLU84aEMxVG1TSmNNV3VWQVc3VW51NmRXODV1dy14QktRa013ZDJ6ak5MeXo3OUM4Sjg?oc=5"
+    },
+    {
+      "headline": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? - Yahoo Finance",
+      "source": "Yahoo Finance",
       "timestamp": "2026-07-02T19:17:30.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjduYllqUlJKcWNEQXZSNW1ORlFIRS1EYzVWWTRvYURSUk9zLW1iQ1NVUkgybXYzOWE4RVJRYlY4bWIta3hpcWlnT0dRWnJBY2pwamJ0al9qVDZfQXFQcjRRaWtTUVM5QjJVOHh1UThFYngwa3Y3UENhN1RXQVQ0cXlYMVBnTHRWdUxtYWhBU0p4c0g1WTZNX0c3T3pRb3M5MEpyQ0Rra3ZJM2I3c1F4ag?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFdTNEs5RVp6eW96enZyOUIxSmcxa1RhamRMeWNROXZxVlN2amMyakRub1E0M29JYXE2aXNpYk5sTk1OSXVDMVZ0UlNVazZrTTJrOVM3ajVuWnR2WmRKZ2VoRTJLRkhmOFp2b1BiOW8xQzk1Q2JkQUNVQUw0N3NFcHBFV3p5VjE4UUYxVXhB?oc=5"
     },
     {
-      "headline": "Microsoft launches Frontier Company with $2.5B for scaling enterprise AI transformation - fiercewireless.com",
-      "source": "fiercewireless.com",
-      "timestamp": "2026-07-02T13:34:45.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Microsoft launches Frontier Company with $2.5B for scaling enterprise AI transformation &nbsp;&nbsp; fiercewireless.com",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhQVi1tSElCeDBhQkR4UzA4TGI0c05UeGhENG80d3dVWUhwQjJKODlpaklTS2RkMGxhU2ZjR3VQQXdOOEJqSzctRk1fRWR6Tnk1d1JBaFdKRVNuNEotNWRCZnBQVVVnaGtHVUZ6RGozbW1EUnZQTHBqdVBuU21YaG9JNkVpc2NRZmxJRVFjaGszbVNjVDc2dFhqSGdjUkdLRXpvLVAwR19BLTRTWU1mUlFpRQ?oc=5"
-    },
-    {
-      "headline": "OpenAI in talks to give Trump administration a 5% stake in the company, FT reports - CNN",
-      "source": "CNN",
-      "timestamp": "2026-07-02T09:05:33.000Z",
+      "headline": "Microsoft (MSFT) Stock Faces New AI Cloud Risk as Meta Plans to Rival Azure - TipRanks",
+      "source": "TipRanks",
+      "timestamp": "2026-07-02T14:36:06.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI in talks to give Trump administration a 5% stake in the company, FT reports &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Mb0VyRUF3TlRzWUd6dHFSQjQ5eE9PSFdJbHF3S0NUNVdXYkNETFV3UzRuMTItRjdhYTIyb3A2dk1neldfdkhCMDBkc2JvZjB3MlZhNHV2NDVIMFVZdG5qVUxCaktNb09TMGRSTjA2SXU?oc=5"
+      "summary": "Microsoft (MSFT) Stock Faces New AI Cloud Risk as Meta Plans to Rival Azure &nbsp;&nbsp; TipRanks",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1Zkd0JJcTNEMnlzbHFyUWxkcml0c1VUMmhJd2pzdGRuaXdmRV9iem15LTRUelpGVHI4cVRFUE9CRFFLakh0UDVsaFEybDhOTzJJbXFIcHNOZTE5STBUVDZUalBoM1psLUJKMUJxc2Fzblh1bmRCMElxNmhURDU0WlNvTDM4ZjBwRlphR2ltQWdCSWlGWVFEQXNkaFBMOUhUMjNjNTZR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Woos Trump Administration as Investor - Time Magazine",
-        "source": "Time Magazine",
-        "timestamp": "2026-07-03T10:07:59.000Z",
+        "headline": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-07-03T12:44:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHlvU3F0S1FQX0pLVzZkOWZqMTBOZ0NiUWE2VGtiT3RnRXBuOVNoSGlXekRFN1UzaE5rSGNmclMwMGExQmdqZHBIa0hkVkJtMU9GSHphbmZoTWEwTE8zN0hINXk5SHI5TE1xMl9PYlFMbHYtRm4tSDlINTl5RWVTejNUelE2WXZmZUhRdXZR?oc=5",
-        "summary": "OpenAI Woos Trump Administration as Investor &nbsp;&nbsp; Time Magazine"
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fNndGUUxhc3pHRTlEcDZ4UzlBaFVVZGRfa0tuM2RJTXhjallpZkFtNVVndmlMTU9CQzUxcWZtWUt2UGxjSERIbXZiWWZ0engwZnVVcjgxRXVWZVJOeVB2cHBtOVdYS1pONmJ6N1JLMG1GaUNzajdQS1NmWkl4dw?oc=5",
+        "summary": "Meta AI Fears Ease Despite Zuckerberg’s Disappointment in Agents &nbsp;&nbsp; Barron's"
       },
       {
-        "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-03T06:50:00.000Z",
+        "headline": "California Expands AI Push With Statewide Anthropic Partnership - Yahoo",
+        "source": "Yahoo",
+        "timestamp": "2026-07-03T11:31:10.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
-        "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzBUajJMWWllSzVldktRYUlIRFk4WGVYZjZpYzlIdnB1bU9ST01vLUdabEhZRldMVGZoVjItQmZoZC1tT0l1VFFxbUZiekF2UlJOS3F6czFDNnNkUmF0cWtvX3V3Mzdid1pSZkVOclYwT2dMalZ5RTE0NWpXbkIzT2ZCb2I5eWI2Wno5aTZ2ZG1FcjhvRVhDYmhRV0w?oc=5",
+        "summary": "California Expands AI Push With Statewide Anthropic Partnership &nbsp;&nbsp; Yahoo"
+      },
+      {
+        "headline": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-03T06:50:29.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmJCeUswWFNwa1VwYUFJSElvZHRfdUpJNTNvVDBUSUE4X3hJelVyUXF6RkhmenpJanQ1ay1nTXpLOFdTRzByMVNYdDV6aDhyZ3Nnb1hUNDZCS3lVb2lIS052M1RxcUtrcEVaem53dVhnYzkwTmM3WDJSZ3JqclpBRDUxRXBaOVpXajd3RUppWGdLVE9sMzN3SUMwUWRaZw?oc=5",
+        "summary": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says &nbsp;&nbsp; Yahoo Finance"
       },
       {
         "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
         "source": "Financial Times",
-        "timestamp": "2026-07-03T04:00:37.000Z",
+        "timestamp": "2026-07-03T04:01:47.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
@@ -151,15 +160,6 @@
         "summary": "Meta is finally catching up to OpenAI, its AI leader says &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-02T23:05:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
-        "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Reuters"
-      },
-      {
         "headline": "Mark Zuckerberg said AI agent tech is advancing more slowly than expected in an internal town hall - Business Insider",
         "source": "Business Insider",
         "timestamp": "2026-07-02T22:13:00.000Z",
@@ -172,15 +172,15 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
