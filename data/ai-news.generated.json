@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T09:25:28.644Z",
+    "generatedAt": "2026-07-04T11:35:56.579Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -42,16 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW56aWM5cGNBdGExUUd2NmJVY2w5N2tEUzhld3RIS0EtTUVQZnVvM3l6ZDB1WTJGZkRBb1ZMZUViUTNvdnpXQV9fbVE1LUJqdU54NlFORWhNWW9aT3dnbGJyX3ZuWU9weHlSR1dsYlNqXzdnSGpfTWRPLWRkNVZMQk5kMUdHUzIxTTNMQjZtbUxsLV9neW1makRBUWk?oc=5"
     },
     {
-      "headline": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns - South China Morning Post",
-      "source": "South China Morning Post",
-      "timestamp": "2026-07-03T14:15:48.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns &nbsp;&nbsp; South China Morning Post",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcThKRkdtby1ET3JWem4wNzJKNGZqOFVObk9fOTlNeHJRSGMyQWJUYkJreDdzeTdya3Z5UUhQZzhBLXJZZG02b0lQakxaeFVjMk5UdkZpQzEyTUx0eXNfbzZiN291ZHFPTFR4M2tqbDk1Y2ZaTFhIZG1FVmsweURlUmIxcV9QWFpLb2RtalBkMVpQa3dSLUdZdXVyUVZiT3lvSkN2bHJ4cEV6Y3dsMm1kRUtnTkZLdlllYjNF0gG7AUFVX3lxTFBZTTdGR1JiLU1ZX3RoOUt5SnZVYjkzZWl4cUJ1RmtFUTg4RkZzTkI1cE5JdzlGRjh0RUFrb3FZUmtPX1UyVTNIeUNIbnBjczViSEhNOXp5US13N1V1Uk4xRGQ5eHNPOXFLNHpmb3hncUlMRXNEcUc5M2tTcHpMRTZGSWxvbWpoa3BHS2Q4SWhwWVowbUpGVUtXUFozYlZxeXZMWmZEZk1aaXVhRzhDeHo1b2szVFVqOHctS2s?oc=5"
-    },
-    {
       "headline": "Alibaba bars employees from using Anthropic's Claude Code (BABA:NYSE) - Seeking Alpha",
       "source": "Seeking Alpha",
       "timestamp": "2026-07-03T14:00:52.000Z",
@@ -64,12 +54,32 @@
     {
       "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-03T06:50:00.000Z",
+      "timestamp": "2026-07-03T09:21:32.000Z",
       "impact": "HIGH",
       "category": "regulation",
       "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5"
+    },
+    {
+      "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-07-03T04:01:47.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5"
+    },
+    {
+      "headline": "More details on Fable 5’s cyber safeguards and our jailbreak framework - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-03T00:03:32.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5"
     },
     {
       "headline": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
@@ -87,7 +97,7 @@
       "timestamp": "2026-07-02T23:05:13.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Reuters Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped &nbsp;&nbsp; TechCrunch Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable",
+      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Reuters Exclusive-Zuckerberg says AI agent development going slower than expected &nbsp;&nbsp; Yahoo Finance Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5"
     },
@@ -100,16 +110,6 @@
       "summary": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFdTNEs5RVp6eW96enZyOUIxSmcxa1RhamRMeWNROXZxVlN2amMyakRub1E0M29JYXE2aXNpYk5sTk1OSXVDMVZ0UlNVazZrTTJrOVM3ajVuWnR2WmRKZ2VoRTJLRkhmOFp2b1BiOW8xQzk1Q2JkQUNVQUw0N3NFcHBFV3p5VjE4UUYxVXhB?oc=5"
-    },
-    {
-      "headline": "Microsoft (MSFT) Stock Faces New AI Cloud Risk as Meta Plans to Rival Azure - TipRanks",
-      "source": "TipRanks",
-      "timestamp": "2026-07-02T14:36:06.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft (MSFT) Stock Faces New AI Cloud Risk as Meta Plans to Rival Azure &nbsp;&nbsp; TipRanks",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1Zkd0JJcTNEMnlzbHFyUWxkcml0c1VUMmhJd2pzdGRuaXdmRV9iem15LTRUelpGVHI4cVRFUE9CRFFLakh0UDVsaFEybDhOTzJJbXFIcHNOZTE5STBUVDZUalBoM1psLUJKMUJxc2Fzblh1bmRCMElxNmhURDU0WlNvTDM4ZjBwRlphR2ltQWdCSWlGWVFEQXNkaFBMOUhUMjNjNTZR?oc=5"
     }
   ],
   "aiNews": {
@@ -142,15 +142,6 @@
         "summary": "Business Central Integrates with Azure AI Architecture &nbsp;&nbsp; Let's Data Science"
       },
       {
-        "headline": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns - South China Morning Post",
-        "source": "South China Morning Post",
-        "timestamp": "2026-07-03T14:15:48.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcThKRkdtby1ET3JWem4wNzJKNGZqOFVObk9fOTlNeHJRSGMyQWJUYkJreDdzeTdya3Z5UUhQZzhBLXJZZG02b0lQakxaeFVjMk5UdkZpQzEyTUx0eXNfbzZiN291ZHFPTFR4M2tqbDk1Y2ZaTFhIZG1FVmsweURlUmIxcV9QWFpLb2RtalBkMVpQa3dSLUdZdXVyUVZiT3lvSkN2bHJ4cEV6Y3dsMm1kRUtnTkZLdlllYjNF0gG7AUFVX3lxTFBZTTdGR1JiLU1ZX3RoOUt5SnZVYjkzZWl4cUJ1RmtFUTg4RkZzTkI1cE5JdzlGRjh0RUFrb3FZUmtPX1UyVTNIeUNIbnBjczViSEhNOXp5US13N1V1Uk4xRGQ5eHNPOXFLNHpmb3hncUlMRXNEcUc5M2tTcHpMRTZGSWxvbWpoa3BHS2Q4SWhwWVowbUpGVUtXUFozYlZxeXZMWmZEZk1aaXVhRzhDeHo1b2szVFVqOHctS2s?oc=5",
-        "summary": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns &nbsp;&nbsp; South China Morning Post"
-      },
-      {
         "headline": "Alibaba bars employees from using Anthropic's Claude Code (BABA:NYSE) - Seeking Alpha",
         "source": "Seeking Alpha",
         "timestamp": "2026-07-03T14:00:52.000Z",
@@ -162,18 +153,27 @@
       {
         "headline": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-07-03T06:50:00.000Z",
+        "timestamp": "2026-07-03T09:21:32.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
         "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Anthropic moves to close loopholes that allow Chinese access to Claude - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-07-03T04:01:47.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU9qQVN5REsxUUQtTTBFSEhPbE0zeF9ZSFJ2UWJvRVBQb0oyMFBSX1gxaEF5RjVvV1ZPOTJVT1Jibkw2bVZFNG1lVEo1WUdRWE9OY0JYenhhZWFnVUhzRk1RM01POF9LMWhSa2pKWXltVFNsWm44REVRVHcxTkdMS0lmOEM?oc=5",
+        "summary": "Anthropic moves to close loopholes that allow Chinese access to Claude &nbsp;&nbsp; Financial Times"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
