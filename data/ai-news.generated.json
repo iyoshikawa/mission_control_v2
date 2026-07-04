@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T19:20:27.944Z",
+    "generatedAt": "2026-07-04T21:02:22.985Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -30,6 +30,16 @@
       "summary": "OpenAI’s apparent failure to visit key site raises questions over UK investment &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2tQWXRkeWVkSjJ2RXZ3LWdBZnRoeko3MnR2RHVVLVlWQXc3NllsbnpSaUJ0NC04Rndkb1ZtLXBBU1pZdENaRGlrNjE5TGk3N2pJR3VGblhpSnAxWG1pRFdXRFNBdmxaZ0Zya1NkeXQ5N2pzVy1rLWV5aDhETGYyZ3ZWSHlmODFhRHBoTGtKYjd5enF0RWo3aFFGWWJTVWV5RmxndTgzd21DNkNfdC1JUUZjOU5DZF9XdmM0?oc=5"
+    },
+    {
+      "headline": "We can debate the ethics of AI but can’t seem to change course | Letters - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-03T18:18:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "We can debate the ethics of AI but can’t seem to change course | Letters &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5"
     },
     {
       "headline": "Google DeepMind Unionization Talks Are Off to a Rocky Start - WIRED",
@@ -100,16 +110,6 @@
       "summary": "Did the World’s Best AI Lab Really Sell to Google for Just $5 Million? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFdTNEs5RVp6eW96enZyOUIxSmcxa1RhamRMeWNROXZxVlN2amMyakRub1E0M29JYXE2aXNpYk5sTk1OSXVDMVZ0UlNVazZrTTJrOVM3ajVuWnR2WmRKZ2VoRTJLRkhmOFp2b1BiOW8xQzk1Q2JkQUNVQUw0N3NFcHBFV3p5VjE4UUYxVXhB?oc=5"
-    },
-    {
-      "headline": "Meta quietly launches vibe-coded gaming app Pocket - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-02T18:44:02.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta quietly launches vibe-coded gaming app Pocket &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2dWaUxJU2Y3eDdTcVFMUGw0OEZCS2twb3hKN2tPNERLSGRWZjctUFVYTk5IZzZtZHk5WVhlS05ROXB1cFlCSHk3Y05iTEd4Sm5hME1UTEIyakh0c25UdEl2Yzl3dTRWcGF2NnE2RGo3WFNEbzlWMVBJNF9iTXdubFZBZWRieURObXE2TVN3?oc=5"
     }
   ],
   "aiNews": {
@@ -131,6 +131,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2tQWXRkeWVkSjJ2RXZ3LWdBZnRoeko3MnR2RHVVLVlWQXc3NllsbnpSaUJ0NC04Rndkb1ZtLXBBU1pZdENaRGlrNjE5TGk3N2pJR3VGblhpSnAxWG1pRFdXRFNBdmxaZ0Zya1NkeXQ5N2pzVy1rLWV5aDhETGYyZ3ZWSHlmODFhRHBoTGtKYjd5enF0RWo3aFFGWWJTVWV5RmxndTgzd21DNkNfdC1JUUZjOU5DZF9XdmM0?oc=5",
         "summary": "OpenAI’s apparent failure to visit key site raises questions over UK investment &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "We can debate the ethics of AI but can’t seem to change course | Letters - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-03T18:18:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5",
+        "summary": "We can debate the ethics of AI but can’t seem to change course | Letters &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "Google DeepMind Unionization Talks Are Off to a Rocky Start - WIRED",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUJoM1JuTHA3NFFTR29IZUJZM1FVbEx6WThBTnNlWjAtMjliYzRiYkU4azVqV1BOS0JmdFBiMnUydWVtQW9OaWx0UXQ1ajMtMERxR2hCZWw0NFozWDB5dHpDdUZYMGlYT3dvTzNHaHRKR01TYmRJbjBBUENXdVlwTmVNTFA1dWxuUDVrc0dIWE5XNEJxcW5JMW01RTdzSUl3czM2SmN3?oc=5",
         "summary": "Anthropic wants to develop its own drugs &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-07-03T10:00:58.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92cG1WUU1veGNzQnZVNzFWMlNtQjRJRk13NVV4c0YwX2JWdEpvX0RaQzd5dnRDalRGS3V1Q3JiMjhjWWlwWmR0MHVQR2xSZmlfRWU2Y0YwY3d6eW5VbXp1WFgwV2E?oc=5",
-        "summary": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says &nbsp;&nbsp; Mashable EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected &nbsp;&nbsp; Reuters Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
