@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T14:46:35.336Z",
+    "generatedAt": "2026-07-05T16:12:30.799Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "timestamp": "2026-07-05T12:20:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens &nbsp;&nbsp; Tom's Hardware",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWEdVUUN6MVgwQlFIN1F4QTRBdkFyTFdtbEJEYUV4RGhtanJvYmIzQVF5bkJ1MlZwQjdLekQ1Mkc4SXpVbV9pZnhJT2U2Yjh3YUpsRTZHSW5sM3BBc2JTMk1LRzBOS2cxSDFiM0w0YTZrQ0hPNVQ5MllMcG5ZdkVmdTQtT1pSdXFRLURwNjlqUkxrR1NTZGJ2WEpTSDljOG9fZHFvaTh4ZldwU1hxWEN2R0dxOXREQmRVejdCUUlRSWJqblBoTHZCVVU3aklKLU5uZDhxWHNCLVMyR092Yk13NGI2RXUxRGREdE1aeWdkcnVRSGlBMm1lUUd4Q3RFTHA2Qk8zQURKanlQa1ZIb0pZbHhJYkhmUjA5Y3pFRnJ4WW1TRGNvUlhCTkF4OVlxTVBpM01mdXBnNkhjRjAwSkxpbGFfYzFLTG1XdWhZOVpIUVNWRzZFYkE?oc=5"
+    },
     {
       "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
       "source": "Mashable",
@@ -92,28 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSW56aWM5cGNBdGExUUd2NmJVY2w5N2tEUzhld3RIS0EtTUVQZnVvM3l6ZDB1WTJGZkRBb1ZMZUViUTNvdnpXQV9fbVE1LUJqdU54NlFORWhNWW9aT3dnbGJyX3ZuWU9weHlSR1dsYlNqXzdnSGpfTWRPLWRkNVZMQk5kMUdHUzIxTTNMQjZtbUxsLV9neW1makRBUWk?oc=5"
     },
     {
-      "headline": "Anthropic wants to develop its own drugs - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-07-03T13:56:52.000Z",
+      "headline": "More details on Fable 5’s cyber safeguards and our jailbreak framework - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-03T00:03:32.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic wants to develop its own drugs &nbsp;&nbsp; The Verge",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUJoM1JuTHA3NFFTR29IZUJZM1FVbEx6WThBTnNlWjAtMjliYzRiYkU4azVqV1BOS0JmdFBiMnUydWVtQW9OaWx0UXQ1ajMtMERxR2hCZWw0NFozWDB5dHpDdUZYMGlYT3dvTzNHaHRKR01TYmRJbjBBUENXdVlwTmVNTFA1dWxuUDVrc0dIWE5XNEJxcW5JMW01RTdzSUl3czM2SmN3?oc=5"
-    },
-    {
-      "headline": "Meta is finally catching up to OpenAI, its AI leader says - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-02T23:52:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta is finally catching up to OpenAI, its AI leader says &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjh2SUJVeHpHVzFWV0hfNk96bWJ4UTdYdHh1UDB0bGRUZ0lDbzFpelZSWTlaanpfS3dDU3hVNllieUl3NVBFMjRMeGh4T3FTMnkwNUcxTmtzWEluXzIzd0t6a1dXQm9nV18xQkNxMFJ1UUtxLXV5V0x3R0RPdTBvRjRpOGExeWNp?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aUmUwaFFoeGMxbmo1RWtnemM2dFRFS1pCZUlUWTd6ckJEUC16ZzFwVFZ4QW5jeGdCa0VzbGpFQW96TmpUTmpYd1pyb1U2X3hRQXRyZG9CY1R4RFo0QnhlWlc0YVVLZjVyTEc2TkUxNnpuZllxUmc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens - Tom's Hardware",
+        "source": "Tom's Hardware",
+        "timestamp": "2026-07-05T12:20:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWEdVUUN6MVgwQlFIN1F4QTRBdkFyTFdtbEJEYUV4RGhtanJvYmIzQVF5bkJ1MlZwQjdLekQ1Mkc4SXpVbV9pZnhJT2U2Yjh3YUpsRTZHSW5sM3BBc2JTMk1LRzBOS2cxSDFiM0w0YTZrQ0hPNVQ5MllMcG5ZdkVmdTQtT1pSdXFRLURwNjlqUkxrR1NTZGJ2WEpTSDljOG9fZHFvaTh4ZldwU1hxWEN2R0dxOXREQmRVejdCUUlRSWJqblBoTHZCVVU3aklKLU5uZDhxWHNCLVMyR092Yk13NGI2RXUxRGREdE1aeWdkcnVRSGlBMm1lUUd4Q3RFTHA2Qk8zQURKanlQa1ZIb0pZbHhJYkhmUjA5Y3pFRnJ4WW1TRGNvUlhCTkF4OVlxTVBpM01mdXBnNkhjRjAwSkxpbGFfYzFLTG1XdWhZOVpIUVNWRzZFYkE?oc=5",
+        "summary": "Alibaba bans Anthropic's Claude Code after an alleged hidden China-detection backdoor is uncovered — employees told to switch to Qoder as the rift between the firms widens &nbsp;&nbsp; Tom's Hardware"
+      },
       {
         "headline": "Mark Zuckerberg admits the AI restructuring isn't going all that great, report says - Mashable",
         "source": "Mashable",
@@ -158,22 +167,13 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalJ1ZjM1d1RvMHNvc3YzVV8zdW5WOW53dk5McnQwVjhqcTgwQjVKa1p3TEJpVmNpZkVFbzk1MWE2NGtXekZ2TlJrRU9lR1gxRDFvRjg1MjFjbmFteXJMSHlSQk9FbnBYd1pZamppcWY2ZFBEZnd5WlltUXVhM3BfQWxCckRtR3p1QjAxR2REbXBsbmtEVlk2MWtKaDE4dl9zTFdOUl9WMWhaNUVUa25YRFBR?oc=5",
         "summary": "We can debate the ethics of AI but can’t seem to change course | Letters &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Meta's AI Payoff Timeline Looks Messier - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-07-03T16:58:18.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2J4TzhNQi0zWm01cl9OUUdpQktOTUQ3UnBpczZLSHY5ZXV3dGhFU29BZDJxNy1yeUxRVnVEVThnTk1DQlFWUVNTdGZST1FKZ3RRQ1ZjQUhIaURUdEJwMFd4Y1dOSkVvQ0g0Q09qVDYxNWtaSURVanFHbjJGUWNHYjJnVDZudDl5NEEtUWtYX3VQYWNGUk8wT1Jn?oc=5",
-        "summary": "Meta's AI Payoff Timeline Looks Messier &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
