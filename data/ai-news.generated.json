@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T17:20:22.639Z",
+    "generatedAt": "2026-07-07T20:01:31.163Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "Meta Unveils an A.I. Image Generator - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-07T19:50:54.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta Unveils an A.I. Image Generator &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUUcxd0lXNnBmbUtySE1MalRjLVc2d2JMbXA1MkVrdnZGQjNIb2tFUHVqQXBWSHR3ZzF3MnVSbEh5SFZaWEJFY2EzcDdEM0gzY3pqc1ZoUkcyOV9qdmZteXJNODYzekp4LXp5WWdoMmtfa21wS3lBZg?oc=5"
+    },
+    {
+      "headline": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
+      "source": "Meta Store",
+      "timestamp": "2026-07-07T18:05:34.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Introducing Muse Image: Image Generation Built for Your World &nbsp;&nbsp; Meta Store",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5"
+    },
+    {
+      "headline": "Meta enters AI image model race in bid to court advertisers and subscribers - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-07T18:00:01.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta enters AI image model race in bid to court advertisers and subscribers &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5"
+    },
+    {
+      "headline": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-07T18:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXVxZUk4RjNJWWtpa3ZwTTYzN19VR3pNaXppNUhZUjZYR3doeUNrSEZfNjMwb1RHQUhOT0EwRWFmRTFYQmxyWHlxbjhhT3ZfdTE4MTIwdEtYeG5iSlM3MU5KNWVfVTMyWWFNYkk5WHIwZnY4MThTRDZZRWhCcVphRE9yQm9lYUhzTUI4WFkyeWV2eXVmdnYzTnVYUQ?oc=5"
+    },
+    {
+      "headline": "Anthropic Is Closing the Doors To Chinese Engineers - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-07T17:26:39.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Is Closing the Doors To Chinese Engineers &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWtLYlp3TDgwcXJIa0dqU28zWEU4YW1jVlpjd1oxLWVLUEFaNHR3VXNnS2h6QmlTUm45S21xb1dnTVhldllvVm1CVjQwdldBbnNVVkRPVnk1bnlrVGdNTFlOU2pPU1JXM2FNT3FGeGgwU0Jfbm1mZng2elJJTjdNblJ6cUxmMXNWeE5mcjI4TXNMV09UbUFQZ3BDYTRyOVdOZk9nTTM1SXo?oc=5"
+    },
+    {
+      "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
+      "source": "Yahoo Finance",
       "timestamp": "2026-07-07T16:19:46.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5"
+      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5"
     },
     {
       "headline": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric - Yahoo Finance",
       "source": "Yahoo Finance",
       "timestamp": "2026-07-07T16:00:00.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric &nbsp;&nbsp; Yahoo Finance Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone &nbsp;&nbsp; WIRED Anthropic is launching Claude Cowork on mobile and web &nbsp;&nbsp; The Verge",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5"
-    },
-    {
-      "headline": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-07T12:15:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEh0RHJha2tmYnRBMmFwYVgzV2F1REJ0c3lKREViV0tXWTZqM3RUcTlwMkxlNzU3ams4RVNUbjhVeTl3M252bi1FR0NQcDRMUWFBZnl6RFBvTUs0eXJrQWtDV0tUSTNKeHQzRHlQY0NSbUhWSUNnWVZWRjlaWm5pVkI5X1FOQkxvLW5NSVIxZVZ6WVdV?oc=5"
     },
     {
       "headline": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
@@ -50,16 +90,6 @@
       "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals &nbsp;&nbsp; Forbes",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5"
-    },
-    {
-      "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - TradingView",
-      "source": "TradingView",
-      "timestamp": "2026-07-07T07:54:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity &nbsp;&nbsp; TradingView",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTYtNHprMFJwZVo0SDBETi1DWlM2ek1VdmZjSFo3Ym0xZkM3LVhwN0w3VjhjQVJ3c2piOEFxTUo5OTZOWGhWOEJuYVZPM2x0MC1LMEV4SGI3WnNXMHpUM0hMVkQ5MzRTcVNYZVFFRDVFdko1dE1ZZ3ZwMmFnX0Z1a0VhZ285Wm1yemhrNmxmNTljamw2S1RHYTQyOEJfUFNwTTc0UnkyVUljaThhajI1bU9QY2RncFJyZzN5S18ydVRlaXR5dnBxNGgwUDRrZHJyejNOWmdGaWVWMW9TMEowNzk0MzFCZEtzWXh3ZEJQZHFzYkllU1YwVHYwYWdhd3F1?oc=5"
     },
     {
       "headline": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
@@ -80,99 +110,69 @@
       "summary": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5"
-    },
-    {
-      "headline": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-07-06T18:45:56.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria &nbsp;&nbsp; Futurism",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGIzUVZMMGJSRUwyTjAwSmEwVTBTNVFzZDItWDJpYTBVaE5ubTVJQ0NRc2Z6Z3FCMU9ZS2NrbmtDY2VOZW1wR3Ewc01WbXRONFYxMnIxTldfNzJBUk5fRWQ0UmhzQkxEakxlaDZVa3pDeXp1NXU0aE1zZi1TY3N4WlNDb2Ffc3c?oc=5"
-    },
-    {
-      "headline": "A global workspace in language models - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-07-06T17:19:26.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "A global workspace in language models &nbsp;&nbsp; Anthropic Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness &nbsp;&nbsp; VentureBeat The more we learn about how AI ‘thinks,’ the weirder it gets &nbsp;&nbsp; PCWorld",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5"
-    },
-    {
-      "headline": "Como 1907, Como Ventures, and - Como 1907 Sito Ufficiale",
-      "source": "Como 1907 Sito Ufficiale",
-      "timestamp": "2026-07-06T16:16:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Como 1907, Como Ventures, and &nbsp;&nbsp; Como 1907 Sito Ufficiale",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZXg0aEk1Z01HQ3dKdktTblhsMG9SdEJfQmhfM0MxUTdNcXRuMHZQOXM3QVUyZHAtUUtCbUI4UjFnbjB1NV9BSWRYeWtJaFAzUlo5VjlGLW41cUsySGJmV0djTjc5T0QwLXJXVHRQem5MUFVDdG1aSEt3ZG5CRnRsckhuYkJwVmNOeWN3dDkxeGl3UXVMNnI4eTlUSWYwNm1zVThhSWMyZUgtY3lpdDFVNVBFWWRpdUY2NE9ZMDhtS0Fwd0hKZC1md0dfbkZQVmEtMDllUWFNY1JIOTE5bEN2XzVZc2dDWTFq?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-07-07T16:19:46.000Z",
+        "headline": "Meta Unveils an A.I. Image Generator - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-07-07T19:50:54.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUUcxd0lXNnBmbUtySE1MalRjLVc2d2JMbXA1MkVrdnZGQjNIb2tFUHVqQXBWSHR3ZzF3MnVSbEh5SFZaWEJFY2EzcDdEM0gzY3pqc1ZoUkcyOV9qdmZteXJNODYzekp4LXp5WWdoMmtfa21wS3lBZg?oc=5",
+        "summary": "Meta Unveils an A.I. Image Generator &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Introducing Muse Image: Image Generation Built for Your World - Meta Store",
+        "source": "Meta Store",
+        "timestamp": "2026-07-07T18:05:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CNkVjdFdKWjN4T0xWTUdtU0YxZU8yUWFaMWpQV3ZpY093M0g5cmd2NXNzSXRGemNQMmZROC1FODZJVmYzOVRnYk9aSFdkdGZUZWNXREx4bmlMV2pOYWdCYVVzZDlSSEhuRS14R1h4QkhJME3SAXhBVV95cUxOSW9rd1hNVy05WW5zSlU5WVhNVi1YQUxvSnVjMm8wSVN1cmdJMVdDdDJyLVZCS2VsQWc3eEtmanNYbjNxTTBuQ0ZrbGsteXJ5WlQzUEZEUHBDMERiMFYzdGFSRERQc28yOTl4STdGU2NwcDJkY3B5SXI?oc=5",
+        "summary": "Introducing Muse Image: Image Generation Built for Your World &nbsp;&nbsp; Meta Store"
+      },
+      {
+        "headline": "Meta enters AI image model race in bid to court advertisers and subscribers - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-07T18:00:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aGRQd3BBT3JyLU13c0pvVDVXS2x5WU8xQ3dUVjE3NnVLOXhCWEw5eE94ZnBTZXRVSmVpUUNJbU0zUUVqZFVBOXE2eDRBREZ5MUtGSVBBZHhTZ2dWYnBxZ0hSY1FlUdIBa0FVX3lxTE9ZZWpjSW0xOFFlaDBha0FjLUhXWWktSWU2eUZDbVFsN3lYMTVLdll3UW1WdDFWLTdUYS1qQ0QxWmJDS0wySXJpTExiRFRpeXpCbm9tMnloblEwQXEyOE44VW1lV0lPeVJRVHVj?oc=5",
+        "summary": "Meta enters AI image model race in bid to court advertisers and subscribers &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-07T18:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXVxZUk4RjNJWWtpa3ZwTTYzN19VR3pNaXppNUhZUjZYR3doeUNrSEZfNjMwb1RHQUhOT0EwRWFmRTFYQmxyWHlxbjhhT3ZfdTE4MTIwdEtYeG5iSlM3MU5KNWVfVTMyWWFNYkk5WHIwZnY4MThTRDZZRWhCcVphRE9yQm9lYUhzTUI4WFkyeWV2eXVmdnYzTnVYUQ?oc=5",
+        "summary": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Anthropic Is Closing the Doors To Chinese Engineers - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-07T17:26:39.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
-        "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWtLYlp3TDgwcXJIa0dqU28zWEU4YW1jVlpjd1oxLWVLUEFaNHR3VXNnS2h6QmlTUm45S21xb1dnTVhldllvVm1CVjQwdldBbnNVVkRPVnk1bnlrVGdNTFlOU2pPU1JXM2FNT3FGeGgwU0Jfbm1mZng2elJJTjdNblJ6cUxmMXNWeE5mcjI4TXNMV09UbUFQZ3BDYTRyOVdOZk9nTTM1SXo?oc=5",
+        "summary": "Anthropic Is Closing the Doors To Chinese Engineers &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric - Yahoo Finance",
+        "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Yahoo Finance",
         "source": "Yahoo Finance",
-        "timestamp": "2026-07-07T16:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5",
-        "summary": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-07-07T12:15:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEh0RHJha2tmYnRBMmFwYVgzV2F1REJ0c3lKREViV0tXWTZqM3RUcTlwMkxlNzU3ams4RVNUbjhVeTl3M252bi1FR0NQcDRMUWFBZnl6RFBvTUs0eXJrQWtDV0tUSTNKeHQzRHlQY0NSbUhWSUNnWVZWRjlaWm5pVkI5X1FOQkxvLW5NSVIxZVZ6WVdV?oc=5",
-        "summary": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-07-07T10:30:00.000Z",
+        "timestamp": "2026-07-07T16:19:46.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5",
-        "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals &nbsp;&nbsp; Forbes"
-      },
-      {
-        "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - TradingView",
-        "source": "TradingView",
-        "timestamp": "2026-07-07T07:54:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTYtNHprMFJwZVo0SDBETi1DWlM2ek1VdmZjSFo3Ym0xZkM3LVhwN0w3VjhjQVJ3c2piOEFxTUo5OTZOWGhWOEJuYVZPM2x0MC1LMEV4SGI3WnNXMHpUM0hMVkQ5MzRTcVNYZVFFRDVFdko1dE1ZZ3ZwMmFnX0Z1a0VhZ285Wm1yemhrNmxmNTljamw2S1RHYTQyOEJfUFNwTTc0UnkyVUljaThhajI1bU9QY2RncFJyZzN5S18ydVRlaXR5dnBxNGgwUDRrZHJyejNOWmdGaWVWMW9TMEowNzk0MzFCZEtzWXh3ZEJQZHFzYkllU1YwVHYwYWdhd3F1?oc=5",
-        "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity &nbsp;&nbsp; TradingView"
-      },
-      {
-        "headline": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-07T05:00:01.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5",
-        "summary": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzJ1VThSWk9hWkNJcXBlUFZjU3BsMWhFZ0pEZW11WXo0Wm1FNUU5cHR5T0dsdFFqTTlteGV2S1lsQ3JEOGdqSUhCSlFldU5TcFFsdzdhYU9RRFlaSk9MeUV0WXFtNHJKUlc5VXh4U2FwZ0tOVGU5VTNON01IeW15WWM3S2JYZjB4ZW9pa1ROSWtwbFZ3NFJnLWtpQm8tQ3ROYXppX2J3?oc=5",
+        "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
