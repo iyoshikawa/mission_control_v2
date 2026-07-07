@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T14:46:06.343Z",
+    "generatedAt": "2026-07-07T17:20:22.639Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump puts brakes on OpenAI’s newest AI model - Fox News",
-      "source": "Fox News",
-      "timestamp": "2026-07-07T12:34:19.000Z",
-      "impact": "HIGH",
+      "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-07-07T16:19:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5"
+    },
+    {
+      "headline": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-07T16:00:00.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Trump puts brakes on OpenAI’s newest AI model &nbsp;&nbsp; Fox News",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lT1BsS3p2WTBfakRQOHBha3hDbDRHWEJOaEhYZGhSc19jOGxxa3R1aXpGNGZybmF6UC1IdERXVWxqNXBxV2VyRnQ4MWF4cWxzZTR6ODVmLXVKWDVHNWhja0EyZVdJbjBXRTJiR3g1cHFfVTItbkVTbjVrakNyUdIBgwFBVV95cUxNZEsxTEthdWJaOW5pM2M1U0pTdkZXTDdqZFJDbDdSOUYxU0hTRGx5ek9xVWpUcWlsNkQ2ZVVJWnBBc1duZGFHTUkxQlFQNjhlNmpuTWl0OE5yb2xVVEpwcUxmYW9HR3RkNWtIMldlZjBEYk1PYzJuM2h4TEY4cUxCbEZXaw?oc=5"
+      "summary": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5"
     },
     {
       "headline": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
@@ -32,34 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEh0RHJha2tmYnRBMmFwYVgzV2F1REJ0c3lKREViV0tXWTZqM3RUcTlwMkxlNzU3ams4RVNUbjhVeTl3M252bi1FR0NQcDRMUWFBZnl6RFBvTUs0eXJrQWtDV0tUSTNKeHQzRHlQY0NSbUhWSUNnWVZWRjlaWm5pVkI5X1FOQkxvLW5NSVIxZVZ6WVdV?oc=5"
     },
     {
-      "headline": "Anthropic says Claude has carved out its own space to ponder - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-07T11:34:51.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic says Claude has carved out its own space to ponder &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5"
-    },
-    {
-      "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits",
-      "source": "Stocktwits",
-      "timestamp": "2026-07-07T07:54:00.000Z",
+      "headline": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-07-07T10:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity &nbsp;&nbsp; Stocktwits",
+      "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals &nbsp;&nbsp; Forbes",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5"
+    },
+    {
+      "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - TradingView",
+      "source": "TradingView",
+      "timestamp": "2026-07-07T07:54:24.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity &nbsp;&nbsp; TradingView",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnV5RFdJUHRjcXM2Nko1RkFPc3JTRklsTHBDcklaOGxrSkZRdm81Z3hUTE1WX0QzcjE5TUFNTDBPMGpSeXBwM2Z4b0ZkS3ZpMjJFQ1FxbDZzZWxXdVpVRkJFaTRUcGxCdVF6S014YzJ1cDN0X2FnS2ZicG1VU19wUzZnY1h0ZXNmS0lpOVlURkJVUUl4SHVBMDJiLWdQVjU3VHY0VzZlSUY4X09QaGJqLU9XR0hVdnRoTkNXOTB6M05rLWZqWENlTVRfQW15MXJjTEhnUU5pbzBRbGd1ZmstUnhUaUVvOWI1Y0FSX0dwR2ZEN2R3cWZWdnNKUTYzZjVNczlXeA?oc=5"
-    },
-    {
-      "headline": "Microsoft Frontier Company: $2.5B AI Deployment Bet in 2026 - Memeburn",
-      "source": "Memeburn",
-      "timestamp": "2026-07-07T05:18:23.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Frontier Company: $2.5B AI Deployment Bet in 2026 &nbsp;&nbsp; Memeburn",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDVrb0JGbllxUU1qSUY2bXV0RmtRWlBpUlVna1d1ZE1SS0VqRHdjdkFfYUJWR0RDZGhXM1BYRzB1YnBLZ1RQTHEtVkZjeWZGTi1FSFJCUlRteTUxdEJuZGw0dU9GcnZiOTd5Ulc5VFVhT3dySzZBWGhvM1dFWGJ1NWY3YkN4dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTYtNHprMFJwZVo0SDBETi1DWlM2ek1VdmZjSFo3Ym0xZkM3LVhwN0w3VjhjQVJ3c2piOEFxTUo5OTZOWGhWOEJuYVZPM2x0MC1LMEV4SGI3WnNXMHpUM0hMVkQ5MzRTcVNYZVFFRDVFdko1dE1ZZ3ZwMmFnX0Z1a0VhZ285Wm1yemhrNmxmNTljamw2S1RHYTQyOEJfUFNwTTc0UnkyVUljaThhajI1bU9QY2RncFJyZzN5S18ydVRlaXR5dnBxNGgwUDRrZHJyejNOWmdGaWVWMW9TMEowNzk0MzFCZEtzWXh3ZEJQZHFzYkllU1YwVHYwYWdhd3F1?oc=5"
     },
     {
       "headline": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
@@ -82,26 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5"
     },
     {
-      "headline": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness - Venturebeat",
-      "source": "Venturebeat",
-      "timestamp": "2026-07-06T21:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness &nbsp;&nbsp; Venturebeat",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaGt4NlVwNDlnZmtRbTM3VDZPZy1mTGpLRWpDQmJ5SzdaVWh0N28zZmFqMVh0NVRTYkZ5TW9nQ1VEYVMtMWNRM2M5UmwtUC1sbEI5amdKTHQwYUhSZHpXSndFQ0xJMGl6enc4aFN6MmZENVNkN3EyRndJQUJkRVhwbFA2ZnBXZFl0NFNlaDNGSjhKajJpeVp5NDNTdHNyM1QtQ3BUSEN6VmpkZzlDNmIxTXN0d3lHTWVxaHhsUjNrYXdteGpROHA0SXJzWlJtMmZBWHdtaXQ1Z0hxQzR6?oc=5"
-    },
-    {
-      "headline": "Microsoft Q4 Preview: Azure And AI Investments Focal Points As Shares Lag Behind (MSFT) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-07-06T19:23:50.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Microsoft Q4 Preview: Azure And AI Investments Focal Points As Shares Lag Behind (MSFT) &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVBZRFJ2emhfZmRYb29uYm9vOHR6RVVnZ3VmZEhuLWtzbEFST2gzN3JnRUNQNndHbFUwNG5hNEVOZ2phdXlJRnd4cDJPWU5ES2cxbUJaeFlxQURLbS1vYzNlRGJ1MkkxNGtzcmVndURQMVlpNkRHc25lb2VYMjNmMEJTQjNtSHlLUzRsV3pYeGoya19fUURfdjdRZ2NxM0ZOdHhDQmhjRTFuZGRVWFRtbUl1THAzZW13MktKNQ?oc=5"
-    },
-    {
       "headline": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria - Futurism",
       "source": "Futurism",
       "timestamp": "2026-07-06T18:45:56.000Z",
@@ -110,18 +90,47 @@
       "summary": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria &nbsp;&nbsp; Futurism",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGIzUVZMMGJSRUwyTjAwSmEwVTBTNVFzZDItWDJpYTBVaE5ubTVJQ0NRc2Z6Z3FCMU9ZS2NrbmtDY2VOZW1wR3Ewc01WbXRONFYxMnIxTldfNzJBUk5fRWQ0UmhzQkxEakxlaDZVa3pDeXp1NXU0aE1zZi1TY3N4WlNDb2Ffc3c?oc=5"
+    },
+    {
+      "headline": "A global workspace in language models - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-06T17:19:26.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "A global workspace in language models &nbsp;&nbsp; Anthropic Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness &nbsp;&nbsp; VentureBeat The more we learn about how AI ‘thinks,’ the weirder it gets &nbsp;&nbsp; PCWorld",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5"
+    },
+    {
+      "headline": "Como 1907, Como Ventures, and - Como 1907 Sito Ufficiale",
+      "source": "Como 1907 Sito Ufficiale",
+      "timestamp": "2026-07-06T16:16:16.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Como 1907, Como Ventures, and &nbsp;&nbsp; Como 1907 Sito Ufficiale",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZXg0aEk1Z01HQ3dKdktTblhsMG9SdEJfQmhfM0MxUTdNcXRuMHZQOXM3QVUyZHAtUUtCbUI4UjFnbjB1NV9BSWRYeWtJaFAzUlo5VjlGLW41cUsySGJmV0djTjc5T0QwLXJXVHRQem5MUFVDdG1aSEt3ZG5CRnRsckhuYkJwVmNOeWN3dDkxeGl3UXVMNnI4eTlUSWYwNm1zVThhSWMyZUgtY3lpdDFVNVBFWWRpdUY2NE9ZMDhtS0Fwd0hKZC1md0dfbkZQVmEtMDllUWFNY1JIOTE5bEN2XzVZc2dDWTFq?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Trump puts brakes on OpenAI’s newest AI model - Fox News",
-        "source": "Fox News",
-        "timestamp": "2026-07-07T12:34:19.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lT1BsS3p2WTBfakRQOHBha3hDbDRHWEJOaEhYZGhSc19jOGxxa3R1aXpGNGZybmF6UC1IdERXVWxqNXBxV2VyRnQ4MWF4cWxzZTR6ODVmLXVKWDVHNWhja0EyZVdJbjBXRTJiR3g1cHFfVTItbkVTbjVrakNyUdIBgwFBVV95cUxNZEsxTEthdWJaOW5pM2M1U0pTdkZXTDdqZFJDbDdSOUYxU0hTRGx5ek9xVWpUcWlsNkQ2ZVVJWnBBc1duZGFHTUkxQlFQNjhlNmpuTWl0OE5yb2xVVEpwcUxmYW9HR3RkNWtIMldlZjBEYk1PYzJuM2h4TEY4cUxCbEZXaw?oc=5",
-        "summary": "Trump puts brakes on OpenAI’s newest AI model &nbsp;&nbsp; Fox News"
+        "headline": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-07-07T16:19:46.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
+        "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-07T16:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaThxSklXejEtNlNaRHZFbS1lSlQ3bURvOERFNGFzdnBJemN6LTVmc0dYclFOT2NnN2RWVHB4RG8tQkI0ZjRBcDJ2SnFsVl9VRC1KVG9hOUwwWGVMZVNQcEVudkZ1X2N5azVyc25Xem5hcUlneHhhVzdCa2YxNkxCNVF3b0FjbEVsdlhUZlRFVzZfSXc5T2xXZDBxS1BySkFFWGloNGFEa2lfYkxLQ1I4Z0VyUVpWcGVHMFh1MXBBdGtjS3pBa1Z4aUlmQ3RGTlJwZnY5WFB5VURJMFlocXdBZTQwdHNyUlhpUDZZclVEQ2dkUmtJd3hHY1hqcnZhRkJ1c2JZRQ?oc=5",
+        "summary": "Anthropic says customers are using Claude Cowork for 'the work around work,' as AI companies soften job-loss rhetoric &nbsp;&nbsp; Yahoo Finance"
       },
       {
         "headline": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected - Yahoo Finance",
@@ -133,31 +142,22 @@
         "summary": "After Laying Off 8,000 Employees, Zuckerberg Admits Meta’s AI ‘Hasn’t Really Accelerated’ As Expected &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "Anthropic says Claude has carved out its own space to ponder - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-07T11:34:51.000Z",
+        "headline": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals - Forbes",
+        "source": "Forbes",
+        "timestamp": "2026-07-07T10:30:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
-        "summary": "Anthropic says Claude has carved out its own space to ponder &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dDR0ItMW05RzJ2RDBsUC0tNHVQNnVaeDVYZ0tkbXlXcnhzV0xaOWhiWjB1ZHBXV1h0VC1oQU5aTWl2SVJKZVBlMFNiV2VjZW5lNHJBcG13aFlmWUlocVhISTRNcnFXcl9ycVR2UzdyNEFtMGVuZG5Pa3BJa3NfdEk0MW9nZkE5WHBPMHhVZU1WbWpsM2Vuc0VfU05maERwaXNaZ0hjOXpORTRPaFR6Yg?oc=5",
+        "summary": "How OpenAI Plans To Win Over Doctors, Patients And Hospitals &nbsp;&nbsp; Forbes"
       },
       {
-        "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits",
-        "source": "Stocktwits",
-        "timestamp": "2026-07-07T07:54:00.000Z",
+        "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - TradingView",
+        "source": "TradingView",
+        "timestamp": "2026-07-07T07:54:24.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVnV5RFdJUHRjcXM2Nko1RkFPc3JTRklsTHBDcklaOGxrSkZRdm81Z3hUTE1WX0QzcjE5TUFNTDBPMGpSeXBwM2Z4b0ZkS3ZpMjJFQ1FxbDZzZWxXdVpVRkJFaTRUcGxCdVF6S014YzJ1cDN0X2FnS2ZicG1VU19wUzZnY1h0ZXNmS0lpOVlURkJVUUl4SHVBMDJiLWdQVjU3VHY0VzZlSUY4X09QaGJqLU9XR0hVdnRoTkNXOTB6M05rLWZqWENlTVRfQW15MXJjTEhnUU5pbzBRbGd1ZmstUnhUaUVvOWI1Y0FSX0dwR2ZEN2R3cWZWdnNKUTYzZjVNczlXeA?oc=5",
-        "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity &nbsp;&nbsp; Stocktwits"
-      },
-      {
-        "headline": "Microsoft Frontier Company: $2.5B AI Deployment Bet in 2026 - Memeburn",
-        "source": "Memeburn",
-        "timestamp": "2026-07-07T05:18:23.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDVrb0JGbllxUU1qSUY2bXV0RmtRWlBpUlVna1d1ZE1SS0VqRHdjdkFfYUJWR0RDZGhXM1BYRzB1YnBLZ1RQTHEtVkZjeWZGTi1FSFJCUlRteTUxdEJuZGw0dU9GcnZiOTd5Ulc5VFVhT3dySzZBWGhvM1dFWGJ1NWY3YkN4dw?oc=5",
-        "summary": "Microsoft Frontier Company: $2.5B AI Deployment Bet in 2026 &nbsp;&nbsp; Memeburn"
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTYtNHprMFJwZVo0SDBETi1DWlM2ek1VdmZjSFo3Ym0xZkM3LVhwN0w3VjhjQVJ3c2piOEFxTUo5OTZOWGhWOEJuYVZPM2x0MC1LMEV4SGI3WnNXMHpUM0hMVkQ5MzRTcVNYZVFFRDVFdko1dE1ZZ3ZwMmFnX0Z1a0VhZ285Wm1yemhrNmxmNTljamw2S1RHYTQyOEJfUFNwTTc0UnkyVUljaThhajI1bU9QY2RncFJyZzN5S18ydVRlaXR5dnBxNGgwUDRrZHJyejNOWmdGaWVWMW9TMEowNzk0MzFCZEtzWXh3ZEJQZHFzYkllU1YwVHYwYWdhd3F1?oc=5",
+        "summary": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity &nbsp;&nbsp; TradingView"
       },
       {
         "headline": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
