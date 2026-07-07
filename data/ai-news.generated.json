@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T00:12:23.754Z",
+    "generatedAt": "2026-07-07T04:55:55.186Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,36 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Anthropic says Claude has carved out its own space to ponder - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-07T02:34:26.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic says Claude has carved out its own space to ponder &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5"
+    },
+    {
+      "headline": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-07-07T01:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5"
+    },
+    {
+      "headline": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness - Venturebeat",
+      "source": "Venturebeat",
+      "timestamp": "2026-07-06T21:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness &nbsp;&nbsp; Venturebeat",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaGt4NlVwNDlnZmtRbTM3VDZPZy1mTGpLRWpDQmJ5SzdaVWh0N28zZmFqMVh0NVRTYkZ5TW9nQ1VEYVMtMWNRM2M5UmwtUC1sbEI5amdKTHQwYUhSZHpXSndFQ0xJMGl6enc4aFN6MmZENVNkN3EyRndJQUJkRVhwbFA2ZnBXZFl0NFNlaDNGSjhKajJpeVp5NDNTdHNyM1QtQ3BUSEN6VmpkZzlDNmIxTXN0d3lHTWVxaHhsUjNrYXdteGpROHA0SXJzWlJtMmZBWHdtaXQ1Z0hxQzR6?oc=5"
+    },
     {
       "headline": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC",
       "source": "CNBC",
@@ -30,6 +60,16 @@
       "summary": "Microsoft Q4 Preview: Azure And AI Investments Focal Points As Shares Lag Behind (MSFT) &nbsp;&nbsp; Seeking Alpha",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVBZRFJ2emhfZmRYb29uYm9vOHR6RVVnZ3VmZEhuLWtzbEFST2gzN3JnRUNQNndHbFUwNG5hNEVOZ2phdXlJRnd4cDJPWU5ES2cxbUJaeFlxQURLbS1vYzNlRGJ1MkkxNGtzcmVndURQMVlpNkRHc25lb2VYMjNmMEJTQjNtSHlLUzRsV3pYeGoya19fUURfdjdRZ2NxM0ZOdHhDQmhjRTFuZGRVWFRtbUl1THAzZW13MktKNQ?oc=5"
+    },
+    {
+      "headline": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria - Futurism",
+      "source": "Futurism",
+      "timestamp": "2026-07-06T18:45:56.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria &nbsp;&nbsp; Futurism",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGIzUVZMMGJSRUwyTjAwSmEwVTBTNVFzZDItWDJpYTBVaE5ubTVJQ0NRc2Z6Z3FCMU9ZS2NrbmtDY2VOZW1wR3Ewc01WbXRONFYxMnIxTldfNzJBUk5fRWQ0UmhzQkxEakxlaDZVa3pDeXp1NXU0aE1zZi1TY3N4WlNDb2Ffc3c?oc=5"
     },
     {
       "headline": "A global workspace in language models - Anthropic",
@@ -52,26 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZXg0aEk1Z01HQ3dKdktTblhsMG9SdEJfQmhfM0MxUTdNcXRuMHZQOXM3QVUyZHAtUUtCbUI4UjFnbjB1NV9BSWRYeWtJaFAzUlo5VjlGLW41cUsySGJmV0djTjc5T0QwLXJXVHRQem5MUFVDdG1aSEt3ZG5CRnRsckhuYkJwVmNOeWN3dDkxeGl3UXVMNnI4eTlUSWYwNm1zVThhSWMyZUgtY3lpdDFVNVBFWWRpdUY2NE9ZMDhtS0Fwd0hKZC1md0dfbkZQVmEtMDllUWFNY1JIOTE5bEN2XzVZc2dDWTFq?oc=5"
     },
     {
-      "headline": "American A.I. Companies Say Chinese Copycats Are Quickly Catching Up - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-06T16:04:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "American A.I. Companies Say Chinese Copycats Are Quickly Catching Up &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5"
-    },
-    {
-      "headline": "Inside the secret AI war between Silicon Valley and China - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-07-06T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Inside the secret AI war between Silicon Valley and China &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5"
-    },
-    {
       "headline": "Microsoft to cut 4,800 jobs, joining the wave of AI-driven tech layoffs - NBC News",
       "source": "NBC News",
       "timestamp": "2026-07-06T14:26:46.000Z",
@@ -90,30 +110,37 @@
       "summary": "How frontier firms are using Microsoft AI tools to redesign how work gets done &nbsp;&nbsp; Technology Record",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQTRCUUg0bmlpTFQ3WThDdDJ4Y01kUWRReTYzLXZFTVNuRHFPaUFwYmNqdmVTOERYYlFzbFNZY3c4ck1jT01jMXZTc2F3NVZ1TUhSYTJ6clRGem5HZ0U5Z2U0V0w1TWNkekN4eldfOEtuTnJYZE1GRGNKU2taY2RBY2lHb1M2dENTLThtOXZRVHVnalhzOGJ2LUsxM3gySkNkLWJTV01YcjIyQ0tZY2I5dXhLZmV2TDA0ZEk4?oc=5"
-    },
-    {
-      "headline": "Why some Google employees are leaving: It's not just the AI boom - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-06T09:15:35.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why some Google employees are leaving: It's not just the AI boom &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanotcmdLVG9jYmFTMmhuMi0xeUVUOHJWTDlURGVrNGtMWlFtVGFSSi1Ud000RVlHZHJzd2Fya2U4WFFjM3dheTRZNmlzd1RhOHZSU0N4V3BFZFVaelVqXzdqMEhkcU5tVHRuOFdRcjM1R1VRSGpESWs2RC1mbHhNN0w1dlNtMEw3RVZqQUJVbWpWaHdFOER0cUFURzkzemZORm5UQXdJcGs?oc=5"
-    },
-    {
-      "headline": "Why OpenAI and Anthropic may struggle to float - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-07-06T04:01:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why OpenAI and Anthropic may struggle to float &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHdrUnpBd0c1Z0IxbkFrNUdkM1FJZlFhU3VnSVRCZVVLRU8zRjN2NURBdGxVYXdCQkc1UUthYTIzcHcyU0hkM21DOWpYbjVINUkyRWV6cDR5VGxteUVQazQ4TmhTME1nZHZyenJ6clVOVzBjMFJwS3VtWTR0alhweG9Pc1o?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic says Claude has carved out its own space to ponder - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-07T02:34:26.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1TVMyVm52dWlYU0ljcl80SEU1cmRlNG9ZaUllUVAzMmNOVjdoVC01OWRoSERoMi1PZ0dlWGdYZldhb0hlZkExNFlMRXloMURBbWNEWkkyaW5ETnZHQ0lEQ25tQXhxVjI3d19sa3ljcw?oc=5",
+        "summary": "Anthropic says Claude has carved out its own space to ponder &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-07-07T01:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek1pRE45bkJuOXNxLUlQcHNITkVDMXZNNUFCaERxdjFqU3VwcTh2ZndleC1IYXZRUDBBMlVoellRT3NTT2tUR1hscVNCZjYwWmh5R2dEdE1jZG5nQjk5Y3ViMnlYcjE5NmU3cnZ5U0YwY3ZRa3NCTFNDclBFR184UDVHbGlET0JBbFVqTjFNd2daZjU5Z0tmVVpFaWN4eVV0T0g5eTJFUVNDa2Q2QW1HVmxCcw?oc=5",
+        "summary": "AI Giants Are Handing Out Tons of Free Computing Power to Grab Startup Share &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness - Venturebeat",
+        "source": "Venturebeat",
+        "timestamp": "2026-07-06T21:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaGt4NlVwNDlnZmtRbTM3VDZPZy1mTGpLRWpDQmJ5SzdaVWh0N28zZmFqMVh0NVRTYkZ5TW9nQ1VEYVMtMWNRM2M5UmwtUC1sbEI5amdKTHQwYUhSZHpXSndFQ0xJMGl6enc4aFN6MmZENVNkN3EyRndJQUJkRVhwbFA2ZnBXZFl0NFNlaDNGSjhKajJpeVp5NDNTdHNyM1QtQ3BUSEN6VmpkZzlDNmIxTXN0d3lHTWVxaHhsUjNrYXdteGpROHA0SXJzWlJtMmZBWHdtaXQ1Z0hxQzR6?oc=5",
+        "summary": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness &nbsp;&nbsp; Venturebeat"
+      },
       {
         "headline": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC",
         "source": "CNBC",
@@ -133,40 +160,13 @@
         "summary": "Microsoft Q4 Preview: Azure And AI Investments Focal Points As Shares Lag Behind (MSFT) &nbsp;&nbsp; Seeking Alpha"
       },
       {
-        "headline": "A global workspace in language models - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-07-06T17:19:26.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZzhNYnVQekYwQzlfQmt2Q2JWbXNXUmNqVk1JaWU4SkM2d1dORGE1eHdQdFdVQ1l1VDNUaExHMTZVRW5jS3pfanFHYWh5dzFmTmg2U0pMd2JfX2otLThTWA?oc=5",
-        "summary": "A global workspace in language models &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Como 1907, Como Ventures, and - Como 1907 Sito Ufficiale",
-        "source": "Como 1907 Sito Ufficiale",
-        "timestamp": "2026-07-06T16:16:16.000Z",
+        "headline": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria - Futurism",
+        "source": "Futurism",
+        "timestamp": "2026-07-06T18:45:56.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZXg0aEk1Z01HQ3dKdktTblhsMG9SdEJfQmhfM0MxUTdNcXRuMHZQOXM3QVUyZHAtUUtCbUI4UjFnbjB1NV9BSWRYeWtJaFAzUlo5VjlGLW41cUsySGJmV0djTjc5T0QwLXJXVHRQem5MUFVDdG1aSEt3ZG5CRnRsckhuYkJwVmNOeWN3dDkxeGl3UXVMNnI4eTlUSWYwNm1zVThhSWMyZUgtY3lpdDFVNVBFWWRpdUY2NE9ZMDhtS0Fwd0hKZC1md0dfbkZQVmEtMDllUWFNY1JIOTE5bEN2XzVZc2dDWTFq?oc=5",
-        "summary": "Como 1907, Como Ventures, and &nbsp;&nbsp; Como 1907 Sito Ufficiale"
-      },
-      {
-        "headline": "American A.I. Companies Say Chinese Copycats Are Quickly Catching Up - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-07-06T16:04:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5",
-        "summary": "American A.I. Companies Say Chinese Copycats Are Quickly Catching Up &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Inside the secret AI war between Silicon Valley and China - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-07-06T16:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
-        "summary": "Inside the secret AI war between Silicon Valley and China &nbsp;&nbsp; The Washington Post"
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGIzUVZMMGJSRUwyTjAwSmEwVTBTNVFzZDItWDJpYTBVaE5ubTVJQ0NRc2Z6Z3FCMU9ZS2NrbmtDY2VOZW1wR3Ewc01WbXRONFYxMnIxTldfNzJBUk5fRWQ0UmhzQkxEakxlaDZVa3pDeXp1NXU0aE1zZi1TY3N4WlNDb2Ffc3c?oc=5",
+        "summary": "Meta’s AI Data Center Caught Infecting Town Water Supply With Deadly Bacteria &nbsp;&nbsp; Futurism"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
