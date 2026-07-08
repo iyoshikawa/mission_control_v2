@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T19:22:24.099Z",
+    "generatedAt": "2026-07-08T21:05:29.316Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,50 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "US military is conducting fresh strikes on Iran",
+      "summary": "US military is conducting fresh strikes on Iran &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-08T20:26:25.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTQwUnZhbGt0S2NCc3VqWUt2TnJ5Y2FZNmNUeDZBU0doUDlVMHlwc3F1ZDMwMVlIVjB6eXkwM3pqTUdPU01oNHEyaF9XZUhMeXEtcFNNNVczcHAtcF84OF85SDFuRVVWdjNld2RvR0swYTJtUGhiSk9iTFM4N1hxNHhTSXc1MjRHUjRHWHJVb3Y0ZWNwQ1ZqWWhWTExsbTA?oc=5"
+    },
+    {
+      "headline": "Explainer: How can Trump 'cut off all trade' with Spain?",
+      "summary": "Explainer: How can Trump 'cut off all trade' with Spain? &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-08T20:06:32.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmlKRXlnd0QtYmZLQnVZSFZ0MzdSakJTbWVWem5RbmE1SllvUWttSm1wUlpuelZYN3Zqd1FERFpxNFB3Z0lqMlRZU0JLOWVReTNJYzFDUnk5NjVaQjFudDY3NnZSVDR6eDc0aGlLS181LXFBYzQ3eFhOc0RIemRsUk5oQVdsQ3JwOWZPTmlkQUcxQmRQMTVRVg?oc=5"
+    },
+    {
+      "headline": "Trump says he doesn't think Iran conflict will start again",
+      "summary": "Trump says he doesn't think Iran conflict will start again &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-08T18:51:05.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjNfYy16UERGMkFmTE01eDZtUXllSmtob0sxSHNnSzE2S1g2NFBSbm9kc1hkWEQ2alp2NV9WVG9YSjlfLWxwVDRnYjhNZTAtanB3LW42eFNTUTNaVHp4TkJjdHNoTURyTXduMnpRQzlBcndEZndjQm5DcWowVHk0OG1yUWltQWlyMmpOdTlRQURydUJla2w2UHJQRENvbnhZQjRKTW1pV3hzUWNKWWsydg?oc=5"
+    },
+    {
+      "headline": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
+      "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-08T18:50:43.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5"
+    },
     {
       "headline": "S&P 500 dips after Trump says Iran deal is 'over'",
       "summary": "S&P 500 dips after Trump says Iran deal is 'over' &nbsp;&nbsp; Reuters",
@@ -34,6 +78,17 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRXd6QnJtZEVMdGFlS1NzcWlLNVhYSDQ2eUw2bzRXV21BSTFrUFJNdy03S3pOSzROc3J6eUNpclY3M2FWb2x1dkduM3JkR3RyRnFXc21LX0N4NHJwZk5QQ3h5SUVIOEl4SGJ1bkxQaWxDTkFxelZGNlpoUWZwejdFNzlLUW9tNDlRamdVUWxkY0xTTXE1ZE1QVVMzREVHa0Nxb2lGOExyNFdmeXRBbjNxZ2pqa2xoSVUtLXRjZVJaTkR0Z2VnbkRGUG1UTQ?oc=5"
     },
     {
+      "headline": "NEWSLETTER: Are the US and Iran escalating to negotiate?",
+      "summary": "NEWSLETTER: Are the US and Iran escalating to negotiate? &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-08T17:32:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdldjRXdXaGl4UFZKVGw2cTF4SHBFa19TNWtyLWZlNm5lTnc0VTNZdTdiSnRRVzdGUjhTWWJNaF8wOTRFbHo1dTFFSmFNRVI1VzJRWjZQeFV3bERqVG52eXk4akV1c01QaEZuZG5HRDRzNURjTWg4blZKeDJSTmJlTTJQcm9ON3AtUnBTR2hwNA?oc=5"
+    },
+    {
       "headline": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes",
       "summary": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -43,61 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGJYMUZ3UGdSbzVjQ1lZdEE2RWJYclBpczc3c3k2OXhROTk5NTFtTjJrbUhuWGhaaEhCQm1KQ19jQWxfZEFjUHZoS0J5Wjg0Z1lmNTQ0azNJblhrV3NCWS0zeTNGS2VsdTZ4eHJtV0Jmci14MVI2UXF0Wlh6UXBZMGczM1RsUkVOT09Mb0JCdlB3LVZDaGZfRzkxaHI3VkxYVlJGSVVhNmlBWmhOWDJ1cWVteGowZzRPbFE?oc=5"
-    },
-    {
-      "headline": "Trump says he doesn't think Iran conflict will start again",
-      "summary": "Trump says he doesn't think Iran conflict will start again &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-08T16:56:59.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjNfYy16UERGMkFmTE01eDZtUXllSmtob0sxSHNnSzE2S1g2NFBSbm9kc1hkWEQ2alp2NV9WVG9YSjlfLWxwVDRnYjhNZTAtanB3LW42eFNTUTNaVHp4TkJjdHNoTURyTXduMnpRQzlBcndEZndjQm5DcWowVHk0OG1yUWltQWlyMmpOdTlRQURydUJla2w2UHJQRENvbnhZQjRKTW1pV3hzUWNKWWsydg?oc=5"
-    },
-    {
-      "headline": "US judge orders four states be given access to citizenship data for voter checks",
-      "summary": "US judge orders four states be given access to citizenship data for voter checks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-08T16:47:08.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2VwT01EanNKbXI3blpHZnBjcVJwd2h5UkVDblVrTTI0UWNBNDdtQnd1LURxaklRazh1LTVCNi1JcVhOWWJCa3ZYVGVtYkRLNTJsVFp1Q3dRM1EzZ2JiQ2NxblZLTmM0QUlDcjlVMUt0eXdBRDlPSzk4R2R5Z1VsUWJBaTEydUVYLVZaMHFsc2FtYWN4NksyRGNlVk5NSmQtVEVwdDdPdDhoWGpLaTFaUXZvSTZzRlhQQklUbTE2NFl5MzRw?oc=5"
-    },
-    {
-      "headline": "Britain's FTSE 100 sees worst day since May as Trump says Iran deal 'over'",
-      "summary": "Britain's FTSE 100 sees worst day since May as Trump says Iran deal 'over' &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-08T16:19:17.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEVhZjhTc3R1UFNlUnpESVozQi1MZUQyYy1GV2hhbmRSUWxrX2VGdUhBdy1LdWFVdV9WdlRIRlhmSUJfZmVuODE0TDNzdnkwWVNzZXprdlNsVUVJZ2JibGVyZ2d6ZGNsUW5qZXRJbHV5U2JSTVFrY09CU1VMQ2c5eWxSNVkxcDVJdmxOTS15VDhFS1I5YTM3UUFDUEFFdw?oc=5"
-    },
-    {
-      "headline": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over'",
-      "summary": "VIEW Stocks, bonds retreat after Trump says Iran MOU 'is over' &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-08T16:11:07.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2NZR0VCUmNCZGxrSS1qamhkR3g4MkJfTjNaV1AzSGpOSzJydGwyT2FGeUJFZm5vY3ZrNVNjRlhmbGs3a1RmV0NWTEZSWTRyS09tMTBaT2padWxOSi1CN2hwTGxkZlh5aWtTT0lRb3VyaUk3WkdOMjAya09UXzBGNE9Oa1NMdXBpeDJSdzJXN1k?oc=5"
-    },
-    {
-      "headline": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
-      "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-08T15:58:44.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5"
     }
   ]
 }
