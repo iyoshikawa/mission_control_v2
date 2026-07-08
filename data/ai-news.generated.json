@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T15:24:16.173Z",
+    "generatedAt": "2026-07-08T17:41:08.288Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model - Axios",
+      "headline": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise. - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-08T17:11:18.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise. &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDVRaU9wUU1DcnlWV0JfeS1wazJCNU9qYzRkbDJTS25vR0U4VUdXbWlxMmV2VFYydW02RTdUeG81eFdwMlRxVzZfSE1od0txd3IwS3h1OGd3cENaN25SeHVLQUx1MjZDcWlxSjFTMjdNTVR4REx6dTVHY1M4SzRnV0NHMmFHTTg4b0VxYXo3YlBsVWF5VUY3U1d3UmRPbGFmd2U0M0NCcWxEWGRCRzdnUg?oc=5"
+    },
+    {
+      "headline": "OpenAI bets voice will become AI's primary interface with new models - Axios",
       "source": "Axios",
-      "timestamp": "2026-07-08T15:03:14.000Z",
+      "timestamp": "2026-07-08T17:00:16.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYUY3MDBTNXpNM0pkRldURVUtY0NTejJvZkpqMzF3WmItZ3FxTHhNYnU2eTl4NlRQSnpLQzFkNXJaX1FnaHVseUVNNVhlZUU5ZTlORHFaeWUzQXdTaWJNdjVyWF91dzYxVnZLVTNKR0hBbjdhdHZj?oc=5"
+      "summary": "OpenAI bets voice will become AI's primary interface with new models &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjFjX2Vfc2RrZTNYN2NjZHY2VUUtX2czeUoxbDlpa1E5azVYOGhnaVVLdkNiRmZoMFRiWmRKMXhUb3lseUwtb2lSNlJfVWJhZkhSMXM5TEYteElmYU5SRXo0djhvZGJEQ2RVY3h5NHRsOGJveWJveFVUa2JxaDhGVElaY1QyOEVaZlFFeGhXYmFHT0x4cTExOGNocDVhcUhtWUE?oc=5"
     },
     {
       "headline": "Let’s Make a Deal: My San Francisco House for Your A.I. Stock - The New York Times",
@@ -37,7 +47,7 @@
       "timestamp": "2026-07-08T08:14:28.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "China warns about AI risks with Anthropic's Claude Code &nbsp;&nbsp; CNBC China warns of \"security backdoor\" in Anthropic AI coding tool &nbsp;&nbsp; CBS News China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code &nbsp;&nbsp; WSJ",
+      "summary": "China warns about AI risks with Anthropic's Claude Code &nbsp;&nbsp; CNBC China issues 'backdoor' security alert over Anthropic's Claude Code &nbsp;&nbsp; Reuters China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5"
     },
@@ -62,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVEtUkY5dmpvcDZSUFdtZlR0QVZWYVpfdmdyZTEwYmlGb2ZuXzBvYm1YY3ZjaDRjT1M1Zl80UmMtd21zOFZiLUgtWHZybHdNNGFTcFRSeGhGX2IwYXRVYUF6UTNtZFlEMU1jYmZkSDNvZFZvdkNDSWwwSV80MTdLUnJHZS1GdGpoN3psWjU4WE9pS0tEZzBCVGE5SThZVHhxQmt5NWxnOTlFcVJKY3JZbW11SFFaZHJYcGNKc0NVcHFDbGNQV19F0gHHAUFVX3lxTE9IQkxsSnhzaWpTbnJ0ZHB0dHJtY3FGanBrOXdNa2JmVE9GOVFpYnRlRzJwYUNXU3B0clB0TnlxZk15Wi15dzNZY2d4MXUwbjRYWXIwQ2NVUHpkelg0b0RXdzlocEZ6dnZZdE9vWXl4eEZEQk1YMUtldllhS2NPX2tBRVVMM0ZHXzhWZ1Q5V3FwdUNGV0VXMWYzZjFDM1hOOU5ILXZDWVJwZHFWcS1YSG1QS0E1X0ZITUdtcjEta2NYNHZac1R3azA?oc=5"
     },
     {
+      "headline": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-07-08T05:24:58.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta tests ‘super sensing’ AI glasses that can capture every moment &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVVVR193Qm40SXNlX1VXRmdOVmVkX05VMUIzUnYxRk5peks2clYxSmVNY2w5cUw2cXhNc0ZOVnA0QW1LNUVTT0xaV0NNeng3SmxiM196R1VGZG1FTFN6MDBOdnhKRXMyM3p4RVNsUnJfeWhLbkRKNlFsS1hvS3pCdEYwYWs?oc=5"
+    },
+    {
       "headline": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
       "source": "Reuters",
       "timestamp": "2026-07-08T03:19:00.000Z",
@@ -82,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnV6X2hGQWFhYXdkZUR4UkJjNVBlNlFkNktlcTVRNGtkQ3BUTUJUZTBJeHBydGFNekFIQWgyQjFoclY0SkFOLVFuY2Nkei0tNFFHbGo3OGRLUGFwdGtKMjQzZGIyVnBDeXRpT0c0M09Hd0hGcmliYVA3cnplZG82VVdvUEs1RTBfSjk5eUFBa1g2VTdybVhZNWlhWG5MNVV1SWFFYlJEQdIBrAFBVV95cUxQM3U1bnhqYkdRNTZfTTRGTnNfYUN2eXZsYVVmTVRJRUJnQ2hHUkFiclUtbWV5Y3pyYVVLTDRERUVNLU02c0dyUW5kZE5qYnRBR3p0cDBmV3IzZm5RTFJUOV92TGRpblNmcWtLdDNIbVVGTVNieU1kMm1oTXhWMWdZZWZGbUsxOXFMLUNkdkUyYWVrQ09NbUthalVnSkQ5RnJtMmtWcEtja091V0E2?oc=5"
     },
     {
-      "headline": "Meta’s AI Glasses: Your Questions Answered - Meta Store",
-      "source": "Meta Store",
-      "timestamp": "2026-07-07T23:35:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta’s AI Glasses: Your Questions Answered &nbsp;&nbsp; Meta Store",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3ltNndDSDNFQy1aRzZwZ1gzckcxS2ZfWjh2SGFRRmJFQWpDUGhTUjA4Y3dxRVdnSC01bDVBWjlJRmo4WXF5dTZqZDB4dGtNV2NVb0FuN2RVSkN2QmhRYlFMYUdhYk5zVFI2WEU0T1BTWEpPQnYtM21Da25KQ0lfRtIBhgFBVV95cUxNTjJwa1o0UEZVVUl5aUdiN0Ywcl82RklaVlROVWc1MERrNHNfc1RKMm84MGswMDMwdG9KUEVUR1drVWJmdngyZDNTc0tZd05UQUhVSnVSeUptNkh1QThRWEZfQkdra0FqQ0V6eWFsNlNtTjFCTkJSS0RRamV4bEpsSmxHelQ2Zw?oc=5"
-    },
-    {
       "headline": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram - CNET",
       "source": "CNET",
       "timestamp": "2026-07-07T22:03:00.000Z",
@@ -100,28 +110,27 @@
       "summary": "Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend's Instagram &nbsp;&nbsp; CNET",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0h1cU9CM0Z3aTlZVENpbERLbFZvbkdNdDRUVFdiZDN5Y2pUam5NS09SdFBNcWpRRkxEVjZfckJqM3hYdGp0aGNlUHVKOE94UXRMeTVLUjg4cXNGZ08xaE05aWxHZ2U1T3F2Q3RoTUx5SjJiRHRfWEhsTXNMQU5LTzdkZkp0TjVWZEp3a2VRbUQ5Um9wVWMzRHNISQ?oc=5"
-    },
-    {
-      "headline": "Meta’s new Muse Image model can pull other Instagram users into AI photos - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-07-07T20:31:58.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta’s new Muse Image model can pull other Instagram users into AI photos &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QYVROSFNJRXdlcUVxWGs5cjFuSHprNDFjZEZHMDRUS1ZkVGg5SEJYcDRuUXlLbHJpSUZDZ1RLMzhoTy1xcXhSYjJYWXZWMGNOUnZPMXJzSzRZOUNNcTNjcjA1ZUcxZHZoNUF6V0RrdWRTOFpGaURnY1VTWQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model - Axios",
+        "headline": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise. - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-07-08T17:11:18.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDVRaU9wUU1DcnlWV0JfeS1wazJCNU9qYzRkbDJTS25vR0U4VUdXbWlxMmV2VFYydW02RTdUeG81eFdwMlRxVzZfSE1od0txd3IwS3h1OGd3cENaN25SeHVLQUx1MjZDcWlxSjFTMjdNTVR4REx6dTVHY1M4SzRnV0NHMmFHTTg4b0VxYXo3YlBsVWF5VUY3U1d3UmRPbGFmd2U0M0NCcWxEWGRCRzdnUg?oc=5",
+        "summary": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise. &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "OpenAI bets voice will become AI's primary interface with new models - Axios",
         "source": "Axios",
-        "timestamp": "2026-07-08T15:03:14.000Z",
+        "timestamp": "2026-07-08T17:00:16.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TYUY3MDBTNXpNM0pkRldURVUtY0NTejJvZkpqMzF3WmItZ3FxTHhNYnU2eTl4NlRQSnpLQzFkNXJaX1FnaHVseUVNNVhlZUU5ZTlORHFaeWUzQXdTaWJNdjVyWF91dzYxVnZLVTNKR0hBbjdhdHZj?oc=5",
-        "summary": "GPT-5.6 buzz builds. Here's what to know about OpenAI's new Sol model &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjFjX2Vfc2RrZTNYN2NjZHY2VUUtX2czeUoxbDlpa1E5azVYOGhnaVVLdkNiRmZoMFRiWmRKMXhUb3lseUwtb2lSNlJfVWJhZkhSMXM5TEYteElmYU5SRXo0djhvZGJEQ2RVY3h5NHRsOGJveWJveFVUa2JxaDhGVElaY1QyOEVaZlFFeGhXYmFHT0x4cTExOGNocDVhcUhtWUE?oc=5",
+        "summary": "OpenAI bets voice will become AI's primary interface with new models &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Let’s Make a Deal: My San Francisco House for Your A.I. Stock - The New York Times",
@@ -139,7 +148,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWdNNXlUVVVRc0x4M2dHYVNnejA4SjE1SkR1LUdROVotOUN6V0RNcVFqWW1seGU2RDRjMUo0RHhPZG1ISGJJWFBsd0tTVEEyc0tMcFNlUWR5R1BvbzNDN1FDMS1CQWtrbzJrTFFIS2pha2d3dmc4eFdtNWl5OU5WQ1RvQU13NC1BWFBlX19PaTM5LUNWeDFR0gGcAUFVX3lxTE94bVUtdmNPZTlZbUdoMkt4RmpUVU81QVBJU1dJZ3R3MXR2Qm5vWER2RGFUS3FVVHNCTGlPTFcxZXZDNjRVaTF6bzdadFhqREswRDZkQnN3c2ZFUmFCY1c5dFFHZjJsOGFkUzBIVHYtSy1ORTVTYVBmYkJSVVhWbFFGaEpBa2JqS2g2UmlEOHJZdWJaVlRPTXBGcGFScA?oc=5",
-        "summary": "China warns about AI risks with Anthropic's Claude Code &nbsp;&nbsp; CNBC China warns of \"security backdoor\" in Anthropic AI coding tool &nbsp;&nbsp; CBS News China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code &nbsp;&nbsp; WSJ"
+        "summary": "China warns about AI risks with Anthropic's Claude Code &nbsp;&nbsp; CNBC China issues 'backdoor' security alert over Anthropic's Claude Code &nbsp;&nbsp; Reuters China Says It Has Found Security Vulnerabilities in Anthropic’s Claude Code &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Nomagic AI lab led by former Google DeepMind researcher claims success with 'AI brain' for robots - Fortune",
@@ -158,22 +167,13 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVEtUkY5dmpvcDZSUFdtZlR0QVZWYVpfdmdyZTEwYmlGb2ZuXzBvYm1YY3ZjaDRjT1M1Zl80UmMtd21zOFZiLUgtWHZybHdNNGFTcFRSeGhGX2IwYXRVYUF6UTNtZFlEMU1jYmZkSDNvZFZvdkNDSWwwSV80MTdLUnJHZS1GdGpoN3psWjU4WE9pS0tEZzBCVGE5SThZVHhxQmt5NWxnOTlFcVJKY3JZbW11SFFaZHJYcGNKc0NVcHFDbGNQV19F0gHHAUFVX3lxTE9IQkxsSnhzaWpTbnJ0ZHB0dHJtY3FGanBrOXdNa2JmVE9GOVFpYnRlRzJwYUNXU3B0clB0TnlxZk15Wi15dzNZY2d4MXUwbjRYWXIwQ2NVUHpkelg0b0RXdzlocEZ6dnZZdE9vWXl4eEZEQk1YMUtldllhS2NPX2tBRVVMM0ZHXzhWZ1Q5V3FwdUNGV0VXMWYzZjFDM1hOOU5ILXZDWVJwZHFWcS1YSG1QS0E1X0ZITUdtcjEta2NYNHZac1R3azA?oc=5",
         "summary": "Google DeepMind director Cao Liangliang makes a boomerang return to Hong Kong &nbsp;&nbsp; South China Morning Post"
-      },
-      {
-        "headline": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-08T03:19:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
-        "summary": "OpenAI set to launch most capable GPT model after delayed rollout &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
