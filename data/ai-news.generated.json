@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T16:59:08.564Z",
+    "generatedAt": "2026-07-10T18:39:10.095Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -24,7 +24,7 @@
     {
       "headline": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-07-10T04:00:19.000Z",
+      "timestamp": "2026-07-10T04:00:51.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "OpenAI and Google sell AI models to blacklisted China groups &nbsp;&nbsp; Financial Times",
@@ -38,8 +38,18 @@
       "impact": "LOW",
       "category": "regulation",
       "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5"
+    },
+    {
+      "headline": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-09T21:57:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5"
     },
     {
       "headline": "Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review",
@@ -82,12 +92,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5"
     },
     {
-      "headline": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg.com",
+      "source": "Bloomberg.com",
       "timestamp": "2026-07-09T14:00:00.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI &nbsp;&nbsp; Bloomberg",
+      "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5"
     },
@@ -100,16 +110,6 @@
       "summary": "A new way to reflect on how you use Claude &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5"
-    },
-    {
-      "headline": "Goldman Sachs Targets $610: Microsoft's AI Story Hinges on This Azure Battle - odaily.news",
-      "source": "odaily.news",
-      "timestamp": "2026-07-09T12:37:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Goldman Sachs Targets $610: Microsoft's AI Story Hinges on This Azure Battle &nbsp;&nbsp; odaily.news",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ENUxzNkNPOTA3QzJtODRFZXVsVUVtVkR0OGo2a3hBZFloRkJBNVBsN2p6bW9pdC1jT2haQlFoa3JnMGdSNVBzQ1FuNWh3akk2?oc=5"
     }
   ],
   "aiNews": {
@@ -126,7 +126,7 @@
       {
         "headline": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
         "source": "Financial Times",
-        "timestamp": "2026-07-10T04:00:19.000Z",
+        "timestamp": "2026-07-10T04:00:51.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
@@ -137,9 +137,18 @@
         "source": "Reuters",
         "timestamp": "2026-07-09T23:08:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
         "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-07-09T21:57:42.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWg4QlB6VW5lZ282SHlQRWphdjRWSnVLUkhXNWUyYlN6dnhPYjVST2t6UmVXWmRMX3NDZFk0dzdtdVhaZV9DTUxnTkt2R2VuMlhRYnJwY3VBNlk5bXFTZEFzTGxLRlM3aG1aYmVLSU84UVFyRE1IOWkxR2NiRnVyT1AyOXFiLTFuTW5KekFqLUZTTHJxbFFXS0tmOEg5d0Jw?oc=5",
+        "summary": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "Anthropic found a hidden space where Claude puzzles over concepts - MIT Technology Review",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
         "summary": "GPT-5.6: Frontier intelligence that scales with your ambition &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Introducing Muse Spark 1.1 - AI at Meta",
-        "source": "AI at Meta",
-        "timestamp": "2026-07-09T14:36:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-        "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta"
       }
     ],
     "whyItMatters": [
