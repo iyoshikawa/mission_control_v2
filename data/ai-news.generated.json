@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T03:43:12.660Z",
+    "generatedAt": "2026-07-10T07:39:43.306Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+      "headline": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-07-10T04:00:51.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI and Google sell AI models to blacklisted China groups &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5"
+    },
+    {
+      "headline": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-09T23:48:25.000Z",
+      "timestamp": "2026-07-09T23:08:18.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5"
+      "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5"
     },
     {
       "headline": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
@@ -30,16 +40,6 @@
       "summary": "GPT-5.6: Frontier intelligence that scales with your ambition &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5"
-    },
-    {
-      "headline": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - AP News",
-      "source": "AP News",
-      "timestamp": "2026-07-09T18:45:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight &nbsp;&nbsp; AP News",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5"
     },
     {
       "headline": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
@@ -57,7 +57,7 @@
       "timestamp": "2026-07-09T14:36:32.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta Meta jumps into AI coding market in effort to chase Anthropic and OpenAI &nbsp;&nbsp; CNBC Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5"
     },
@@ -70,6 +70,16 @@
       "summary": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1dxU1JNM2gybUFmVWR1STVhX2VWVGVGWGhxMEdXX0RBR243dGIzaDBqR1NCS2VSX2Z6ZVFXa181QUZSeHB0SDNhM25wYzNzYk1iY1NObWs3bE5iNlZKdC1jMmFhaklWNHpLQlN6UU5UT01HalhfY0hRRWFzbVk1ZDVSR1V1X1VuMTBsMFlMb0c0eTdVcnU0bDQ1aFE3NTFw0gGmAUFVX3lxTE1nWm5QWUJiRDFLYkZVcEdjUjZJcHlyRXItanp5YUhRSkRIMjVIRFd4YW5uYmlkWjNaLW4yY3FjanBOV2ZlUDY0TjFBZkVaeXh2NzFSdzVoYUZGQlpGaGUzMWVYNHktMkVrRVJWakdxbExxUjRyMVd2VDh0bF9SeG11VTNHRXIwdWFzdmlaNGZ4TzB1RXYteTI0aWFVcmJRQkRMNFpSNEE?oc=5"
+    },
+    {
+      "headline": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-07-09T14:00:00.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5"
     },
     {
       "headline": "A new way to reflect on how you use Claude - Anthropic",
@@ -100,28 +110,27 @@
       "summary": "Goldman Sachs Targets $610: Microsoft's AI Story Hinges on This Azure Battle &nbsp;&nbsp; odaily.news",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ENUxzNkNPOTA3QzJtODRFZXVsVUVtVkR0OGo2a3hBZFloRkJBNVBsN2p6bW9pdC1jT2haQlFoa3JnMGdSNVBzQ1FuNWh3akk2?oc=5"
-    },
-    {
-      "headline": "Meta to put AI chip into production in September as it looks to double computing capacity, Reuters reports - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-09T11:44:40.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Meta to put AI chip into production in September as it looks to double computing capacity, Reuters reports &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdlFBODIwQ1VKejIzRFRNR1VSajQ4M3FIakI4MUlaUUJWdndyUjllZnRyX1FzSktpa1V1cUJXaXNuYXlQbzRIUFQyeW1sT1VnVU1odWxXT1hCLWdYMnFKdVU0VXB6c0NFR3dmbFhVTGFqQlFBUEhDel9hNW1hQmhqeHdrWDFrbk9xVkUtdkhnWjY2b3VzMUpB0gGcAUFVX3lxTE5zYklWUHBpdEIzeDlKV1k3dzNvQXFVMmFZdjg5aV82VEVEUmEteGxMUmJvR2cwS2l6SXdkVElOUE96MUFOM0NRTDF2Rm1DNHV0bHZnTE43UW1JclV3R1haMzRuLXBOWUl5ZnpUVk1mR0NiakpaLW02a0l6SHNMSzBmcW5mT1cxekVQbWVxeW8tVHYtVGItbUpVMzl3QQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
+        "headline": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-07-10T04:00:51.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
+        "summary": "OpenAI and Google sell AI models to blacklisted China groups &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-07-09T23:48:25.000Z",
+        "timestamp": "2026-07-09T23:08:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-        "summary": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows &nbsp;&nbsp; Reuters"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
+        "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
@@ -131,15 +140,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
         "summary": "GPT-5.6: Frontier intelligence that scales with your ambition &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - AP News",
-        "source": "AP News",
-        "timestamp": "2026-07-09T18:45:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5",
-        "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight &nbsp;&nbsp; AP News"
       },
       {
         "headline": "Anthropic's Reflection: AI gets its screen-time moment - Axios",
@@ -157,7 +157,7 @@
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-        "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta Meta jumps into AI coding market in effort to chase Anthropic and OpenAI &nbsp;&nbsp; CNBC Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI &nbsp;&nbsp; Bloomberg.com"
+        "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta"
       },
       {
         "headline": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
