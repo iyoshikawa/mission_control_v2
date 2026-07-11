@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T22:54:59.812Z",
+    "generatedAt": "2026-07-11T23:59:56.482Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ - San Francisco Chronicle",
+      "source": "San Francisco Chronicle",
+      "timestamp": "2026-07-11T23:31:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ &nbsp;&nbsp; San Francisco Chronicle",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVZob3BlX25qanJ3VjYwdUR0bmFJWW9zUmUxLUczWHVvZ1didnZOODZMRHZ0cWdGWk1LNDNTM3FqOFU3a0FtZUF3OWxaUGFiSXVHRDdFU3M3OTVVZC1ZcTFPZUVxbUVPMmtfMDg4WkhPQXhCcjlsSmkzaWQ2OEpxR2dzcGM?oc=5"
+    },
+    {
       "headline": "What it’s like to be part of one of the biggest wealth creation events in history - The Washington Post",
       "source": "The Washington Post",
       "timestamp": "2026-07-11T21:41:25.000Z",
@@ -20,16 +30,6 @@
       "summary": "What it’s like to be part of one of the biggest wealth creation events in history &nbsp;&nbsp; The Washington Post",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYk9GX3F5dzZTempKdTVYV1ZodHdRZENuaDlhTnJzS0dBVC1uUlJXY21pOWtIYl9INzFldHlWeVdIdktsNUQ2ZkRJRWpaMXhiRUk0aS12S0FPYXZHVzh6VHdmWVVNc1EwREtfSEZuLW1tbGR4RnBnbnBHYnlna0k1aWJSZHVMc1V5S2JOTThRb0xEUENLTWJpdm5JVThOc0N1aTBhN1FpczZLQTNLUl9jZUU0Z29sUS01V1Iw?oc=5"
-    },
-    {
-      "headline": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-11T18:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5"
     },
     {
       "headline": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
@@ -47,9 +47,19 @@
       "timestamp": "2026-07-11T01:45:59.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta pulls new AI image feature after days of backlash &nbsp;&nbsp; BBC Meta Suspends AI Image Feature After Days of Backlash &nbsp;&nbsp; Variety Meta’s AI Detector Can’t Detect Images It Generated Itself, Report Finds &nbsp;&nbsp; Gizmodo",
+      "summary": "Meta pulls new AI image feature after days of backlash &nbsp;&nbsp; BBC Meta Suspends AI Image Feature After Days of Backlash &nbsp;&nbsp; Variety Meta Removes A.I. Feature on Instagram After Days of Backlash &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5"
+    },
+    {
+      "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-10T20:30:47.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5"
     },
     {
       "headline": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
@@ -100,20 +110,19 @@
       "summary": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3ZaLWo1ZkNjYlo2YWxyX0NLdWdSY1BUYmhFV0M4cmpaWDRsOVRlYjZYS0JKekR4LU1yTjZWZmtMV25lX1lnSG53ZlR1SjFoOUxLTUdwdlNFZkdMNVRadUtkTFdVemZVODVVaTB3R2ZhN0R1aXhDYWRhS3lBaWFINHNOd2RSMV9rNkR3WUlMZTJJUTJOcXNSLVNDNjBHZUNfY3JPeVhGaGJ4TnhnSk9nczJB?oc=5"
-    },
-    {
-      "headline": "A new way to reflect on how you use Claude - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-07-09T13:31:02.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "A new way to reflect on how you use Claude &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQmgzMW5SUGNxN3VQLUJmU3YtcEhCVXpyUl9aOVRMVEFDZU94NGJyVS1yV1NUMGoyY2Fycm1iamhuNVBNUlFEQjd2djFiRGRXSmRiZW14akhXdS1XZlNB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ - San Francisco Chronicle",
+        "source": "San Francisco Chronicle",
+        "timestamp": "2026-07-11T23:31:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVZob3BlX25qanJ3VjYwdUR0bmFJWW9zUmUxLUczWHVvZ1didnZOODZMRHZ0cWdGWk1LNDNTM3FqOFU3a0FtZUF3OWxaUGFiSXVHRDdFU3M3OTVVZC1ZcTFPZUVxbUVPMmtfMDg4WkhPQXhCcjlsSmkzaWQ2OEpxR2dzcGM?oc=5",
+        "summary": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ &nbsp;&nbsp; San Francisco Chronicle"
+      },
       {
         "headline": "What it’s like to be part of one of the biggest wealth creation events in history - The Washington Post",
         "source": "The Washington Post",
@@ -122,15 +131,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYk9GX3F5dzZTempKdTVYV1ZodHdRZENuaDlhTnJzS0dBVC1uUlJXY21pOWtIYl9INzFldHlWeVdIdktsNUQ2ZkRJRWpaMXhiRUk0aS12S0FPYXZHVzh6VHdmWVVNc1EwREtfSEZuLW1tbGR4RnBnbnBHYnlna0k1aWJSZHVMc1V5S2JOTThRb0xEUENLTWJpdm5JVThOc0N1aTBhN1FpczZLQTNLUl9jZUU0Z29sUS01V1Iw?oc=5",
         "summary": "What it’s like to be part of one of the biggest wealth creation events in history &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-07-11T18:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKUzJZN0pQMUl5TnQwdjdMWVJfM3lWVmhOdHhoTlY5RldFcENVRnNOR0N1Q3NrVU9qTzZkZXJGWGtnenY4UWN4WXBZdm1JVjF6OW5PXzV1cGhZUmhYdHdjWFNLT0dOOHpEMTY0RG5HTmxjYzdEaHAza3I4VQ?oc=5",
-        "summary": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
@@ -148,7 +148,16 @@
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5",
-        "summary": "Meta pulls new AI image feature after days of backlash &nbsp;&nbsp; BBC Meta Suspends AI Image Feature After Days of Backlash &nbsp;&nbsp; Variety Meta’s AI Detector Can’t Detect Images It Generated Itself, Report Finds &nbsp;&nbsp; Gizmodo"
+        "summary": "Meta pulls new AI image feature after days of backlash &nbsp;&nbsp; BBC Meta Suspends AI Image Feature After Days of Backlash &nbsp;&nbsp; Variety Meta Removes A.I. Feature on Instagram After Days of Backlash &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-10T20:30:47.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5",
+        "summary": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
@@ -158,23 +167,14 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
         "summary": "GPT-5.6: Frontier intelligence that scales with your ambition &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Taming software licensing sprawl at Microsoft with an AI-driven solution - Microsoft",
-        "source": "Microsoft",
-        "timestamp": "2026-07-09T16:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1ZLQ1RSZlAzbWZhdGxKME5NUlZ4SFpDeWE1dnVNWkJRbjJUTHdhQ1I5TlNHUjdseGZFTmhqZXJXamZrdjAzdml6cl9JN1lqeHhsanFNLWxVdGtMMDdRc0dNVHhEUV91RDFJSTJPUUZzYTJxWkRjSGlxTnEzaHA4MVM3cEVVb2RqWHJnZnBjTmtzWFhKRlhBbzl0VHJ4dnc3UjFBRnU3N0hJb1BQWlJ3b1FUX1pka2s?oc=5",
-        "summary": "Taming software licensing sprawl at Microsoft with an AI-driven solution &nbsp;&nbsp; Microsoft"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
