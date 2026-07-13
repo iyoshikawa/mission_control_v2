@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T19:27:16.206Z",
+    "generatedAt": "2026-07-13T20:59:55.804Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T18:11:37.000Z",
+      "headline": "OpenAI employees want everyone to know Sam Altman is totally receptive to pushback - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-13T20:02:09.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI employees want everyone to know Sam Altman is totally receptive to pushback &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlk1RmZDZ1RZcEwwemRmcDdsWFdXM2NWa2NuR0tnUU9TNHNsM2w0NHBlMTdFWnJJZWg3X1hOdVJXdno2Ui1JRXhVY1JmaXBqTkluZHNEZmZocUZoNmFweUtZSmlnN3R2dzZzVkVqdDB4a2taVlJ6TmhuLUoyOEFSNXQzTEppVVlYeFQzY3cyRWhkaFRRakh2bF9YdEdvZElxbDdlQUY0TWV6Wk0?oc=5"
+    },
+    {
+      "headline": "How Claude's values vary by model and language - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-13T17:25:41.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5"
+      "category": "models",
+      "summary": "How Claude's values vary by model and language &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5"
+    },
+    {
+      "headline": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP - The Register",
+      "source": "The Register",
+      "timestamp": "2026-07-13T17:20:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP &nbsp;&nbsp; The Register",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWUtoeVJ3VEY3RWJXYXBvTDVIajF4d21PUzRLYkEzNHl6T29MTjdkRGNEblAzVnBBa2FYS2pQWXFUM2pJZHNSMExhZFJxS3RxWklWTXI3WHl6WUk0TFQ5MFJsX0NoLTJ4NFBnUXJCOU9xVFcybXBDbFpnZHZBQTFMcDB4NldLUDFvNElNb0lRSzlFNHE2U1JhREdSRTBfTExjUWFCTThoYjBMeDJabGw0eWFXRmFwSHhlNmU0aDBySFlMU1BIV291aU14ejBCMWJDOXZJSDRfSQ?oc=5"
     },
     {
       "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US - TechCrunch",
@@ -44,22 +64,12 @@
     {
       "headline": "Meta's AI advertising dreams have become a nightmare for brands - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-07-13T14:17:37.000Z",
+      "timestamp": "2026-07-13T14:16:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Meta's AI advertising dreams have become a nightmare for brands &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWdXWmRZel9FUENkN2FVQmFickVUUmVEYi1WUk9qMHRuZW5vQXJwSi1sLWdPZ18tZXVGV1FBdUdkLVY4WEM5dDBzUmkwalp3cVYwZmFxbFVMZk5UTDZhVGNIZUdhOHpBNUM2U1p4S2l4Y3RiMUxIQk1rSmYzdDlJRTRHNkloRGc?oc=5"
-    },
-    {
-      "headline": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-07-13T11:00:21.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Washington Is Looking to Keep China From Training Its AI on US Models &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWVhRldnTDlKa3JYTVp3N0JxVnFSMlVjYlVyYzFSeklUeWZBLTNfX3ZIeDI0VXFpQWEtRTZuUjB4Z1lPX1hFMlZ4VjJybmN6WTdUYkF5eTVRZGtScWJKQnc3dlFGUExLTVV0TWNfTkZNTTBNZTFiVXpZdzI2cWY3VVdYVlIyWGNfR24zSXFYWFB5QjMyMmlkUW1fVnU2OHhzY2tCdFBVNkRIWmJ4dHc?oc=5"
     },
     {
       "headline": "This new AI model thinks in images, not just words - fastcompany.com",
@@ -70,6 +80,16 @@
       "summary": "This new AI model thinks in images, not just words &nbsp;&nbsp; fastcompany.com",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWoyVWRqLVRYN08xWndFYUdFQjBJN1ZJX0pvU0hqLXMxR3Z0UXh4aU5nRVNXcGRQeFhDNTZDcUI4amtqckxiZEVLbHY0VGxSVnpjakxYdmdMTnBxMkdyUjRlNWpHXzk2ZkFxd1FqZS1lOXI0V0ZJR0hIZmtVdWpUcUF4T001NjhUQ3FGQ1VR?oc=5"
+    },
+    {
+      "headline": "Anthropic's latest big-name hire: Monzo cofounder Tom Blomfield - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-13T09:44:19.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Anthropic's latest big-name hire: Monzo cofounder Tom Blomfield &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb21lWTlqUXJfZFZzd0tIdTFhYkdoMm1HNTE2MGhBOE1BWUZpRGVpTWNuOXZYVFdHLWJzVnVFQ05KNWp3T2V0WmJCZWtZVjZNcDNaV1ptM1JWVGxhRm51MUJRUE54N1NHUU1wQnk2N09IWTczX2JDX3pNRHg4YUVEVkh0QTU0MUxrX0NlR2VROFlsTUk2U3BlalBzVlNOaGRwUm00aGFGWmNVR3pR?oc=5"
     },
     {
       "headline": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC",
@@ -90,38 +110,36 @@
       "summary": "Opinion | What the Fight With Anthropic Reveals About Free Speech in America &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUXJYdDFkLUdfcUNoaWlhZjdmSFEwaFpxSWRBZ3RQeTlZaEtPQndESGduWmk3Z1dHWWFzV3BzMGFqQVE2aUJFSWZEU1NZeXl3VEtmQ3hrem00aDJ1UzVydHlQdkZMMElLT2RBaGxndnc1c0g4TXc?oc=5"
-    },
-    {
-      "headline": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’ - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-07-12T20:10:19.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’ &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTdXMklDZXRwaE1wTDVfMDBLXzVpZ3BGMklFWWg2aE1YOG8yOGVGb0o2bC1NQ0wwWnhGM1lxUVhuMXhrT0RVYkE3M3Jsa0FzNVlMbnpWOHMwV0dDLWtPZTM3TEc3VWUyMHcxX0p2ejNLRXRkVWlGRDdId1NscEl4eGplN3Q0TGYyYUZBWDRiQ0dJeEUwX2VUY2F4ZHkzSWRMdnd4T1k2SFlnUQ?oc=5"
-    },
-    {
-      "headline": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-07-12T14:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENTWFpvMXlpQS1vNU03VGZ3aGZKak1ZVlFPWkliOVVSbFpmZ2I1Ui1LMGVtWHd3N2xkaElHUV9CYXhKYlY1eXhmd1lZUzZGRzVXbzYzVVhvUERWN0RzWGVUMVoyUXBoWGR6dHBCeWEtZkl5ZzJKVVlUVXZFYkVBVjdCcXozOGpOUVNSMlpPbElYVGZQbUR2d0tnQ1pWOTJoekJKZzdWMjZ1eVlPNFgtVUZlTQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-13T18:11:37.000Z",
+        "headline": "OpenAI employees want everyone to know Sam Altman is totally receptive to pushback - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-07-13T20:02:09.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlk1RmZDZ1RZcEwwemRmcDdsWFdXM2NWa2NuR0tnUU9TNHNsM2w0NHBlMTdFWnJJZWg3X1hOdVJXdno2Ui1JRXhVY1JmaXBqTkluZHNEZmZocUZoNmFweUtZSmlnN3R2dzZzVkVqdDB4a2taVlJ6TmhuLUoyOEFSNXQzTEppVVlYeFQzY3cyRWhkaFRRakh2bF9YdEdvZElxbDdlQUY0TWV6Wk0?oc=5",
+        "summary": "OpenAI employees want everyone to know Sam Altman is totally receptive to pushback &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "How Claude's values vary by model and language - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-07-13T17:25:41.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
-        "summary": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows &nbsp;&nbsp; Reuters"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
+        "summary": "How Claude's values vary by model and language &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP - The Register",
+        "source": "The Register",
+        "timestamp": "2026-07-13T17:20:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWUtoeVJ3VEY3RWJXYXBvTDVIajF4d21PUzRLYkEzNHl6T29MTjdkRGNEblAzVnBBa2FYS2pQWXFUM2pJZHNSMExhZFJxS3RxWklWTXI3WHl6WUk0TFQ5MFJsX0NoLTJ4NFBnUXJCOU9xVFcybXBDbFpnZHZBQTFMcDB4NldLUDFvNElNb0lRSzlFNHE2U1JhREdSRTBfTExjUWFCTThoYjBMeDJabGw0eWFXRmFwSHhlNmU0aDBySFlMU1BIV291aU14ejBCMWJDOXZJSDRfSQ?oc=5",
+        "summary": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP &nbsp;&nbsp; The Register"
       },
       {
         "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US - TechCrunch",
@@ -144,36 +162,18 @@
       {
         "headline": "Meta's AI advertising dreams have become a nightmare for brands - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-07-13T14:17:37.000Z",
+        "timestamp": "2026-07-13T14:16:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWdXWmRZel9FUENkN2FVQmFickVUUmVEYi1WUk9qMHRuZW5vQXJwSi1sLWdPZ18tZXVGV1FBdUdkLVY4WEM5dDBzUmkwalp3cVYwZmFxbFVMZk5UTDZhVGNIZUdhOHpBNUM2U1p4S2l4Y3RiMUxIQk1rSmYzdDlJRTRHNkloRGc?oc=5",
         "summary": "Meta's AI advertising dreams have become a nightmare for brands &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Washington Is Looking to Keep China From Training Its AI on US Models - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-07-13T11:00:21.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWVhRldnTDlKa3JYTVp3N0JxVnFSMlVjYlVyYzFSeklUeWZBLTNfX3ZIeDI0VXFpQWEtRTZuUjB4Z1lPX1hFMlZ4VjJybmN6WTdUYkF5eTVRZGtScWJKQnc3dlFGUExLTVV0TWNfTkZNTTBNZTFiVXpZdzI2cWY3VVdYVlIyWGNfR24zSXFYWFB5QjMyMmlkUW1fVnU2OHhzY2tCdFBVNkRIWmJ4dHc?oc=5",
-        "summary": "Washington Is Looking to Keep China From Training Its AI on US Models &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "This new AI model thinks in images, not just words - fastcompany.com",
-        "source": "fastcompany.com",
-        "timestamp": "2026-07-13T10:08:35.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWoyVWRqLVRYN08xWndFYUdFQjBJN1ZJX0pvU0hqLXMxR3Z0UXh4aU5nRVNXcGRQeFhDNTZDcUI4amtqckxiZEVLbHY0VGxSVnpjakxYdmdMTnBxMkdyUjRlNWpHXzk2ZkFxd1FqZS1lOXI0V0ZJR0hIZmtVdWpUcUF4T001NjhUQ3FGQ1VR?oc=5",
-        "summary": "This new AI model thinks in images, not just words &nbsp;&nbsp; fastcompany.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
