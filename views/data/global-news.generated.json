@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T16:30:56.388Z",
+    "generatedAt": "2026-07-13T18:42:16.108Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,6 +12,50 @@
   },
   "newsFeed": [
     {
+      "headline": "UK targets Russian cyber networks with new sanctions",
+      "summary": "UK targets Russian cyber networks with new sanctions &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T17:32:07.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy12R0FCU0cyRnZiZTZsZE96WG9SNi1XLXUtSXZVMUpmN0YzQzItS25XNUM5ZW1mdXhTZUxNQ1dwczh4czNzWkNaS01ia3k0ZDF1UzFteXNBXzZoYmR5cTFwRmxjY0dNS1ZPUVFQRm42RElvaFp5TVZyNmJmSjdPZnBBWHhwczVDd282b0NFcnNlQkxMVDhzRVJDMWYzUQ?oc=5"
+    },
+    {
+      "headline": "Iranian-born engineer convicted in US of exporting technology to Iran",
+      "summary": "Iranian-born engineer convicted in US of exporting technology to Iran &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T16:36:20.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjRGVm92N1B3TGQ1aWlmTDdQa3llVWhraXJ1Mm5PSE14SVI5NDBHUkc4WDljdUZyQjZzRVBGMzdiak9RekNxZ2lWWXJCaGIyQm5YSjdIQVpPMHhpazgxVVJZSWM0VGJ2Y0ZBWU9EMHJXQjhySWJSR1FTWXVSbWVGdzllY0x4dmpvRllSVEhwTk9CMFRmVmhEdy1LUHQzbTRTZDdGRTJuUm81SHFNYkwyRlp1cw?oc=5"
+    },
+    {
+      "headline": "Wall Street slips as Iran tensions hit sentiment; chipmakers drop",
+      "summary": "Wall Street slips as Iran tensions hit sentiment; chipmakers drop &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T16:35:27.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5"
+    },
+    {
+      "headline": "Asia's LNG imports recover, drawing cargoes from needy Europe",
+      "summary": "Asia's LNG imports recover, drawing cargoes from needy Europe &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T16:33:20.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1lzZFB5dWJYWUVIZ0gwdkxlbnVELVNMWXVHY3N4dzhRUUVydmdoOW50eHhpdGI3M3N5ZDJ4WkRzUVhsRy1IU0N0eHZ6SEJaQXZmWGp6cmhTU2phZnV2MEo1U0NqZUZJNmUzMnYxS2E0OC1Uai1KUzNPZkNDS2VQUTBScU5jNHhRY0N3UUw5RTRMczBwVkhIQlgyWl9XdU94eFdFSFpTWFM0WXlleHFpdlBFejFxMklGZG5kMllvNko?oc=5"
+    },
+    {
       "headline": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation",
       "summary": "Houthis accuse Saudi Arabia of striking Sanaa airport, vow retaliation &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -21,28 +65,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5"
-    },
-    {
-      "headline": "Western leaders agree anti-ballistic missile coalition with Ukraine",
-      "summary": "Western leaders agree anti-ballistic missile coalition with Ukraine &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T15:07:02.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSUJ0anRLODRFQ0lXTWE4emFJVWZwM2Y4WTZtRUFXeFNwQ3ctQXlUWGJZQ2lRMUdGWnUxTVViM3pBaWpzdGZ2THdQTHVfQWpkNWNCZGJCWGg5bzk3eE5YQTdwT2xzQXROV1hfVHppekZCYTh3TFAyZkdTNHZjRjViX1pMWHJjQUhRZnkyUmJGcEw5bFMxMW1pM0c5RjJ5dkFoaVItYUo0LTNzN0JZSXJtYW5LTEFoSWpZSTh2SUhxSlBtcTFpMTZMRWJ3?oc=5"
-    },
-    {
-      "headline": "US agency closes Starship review ahead of SpaceX's next test flight",
-      "summary": "US agency closes Starship review ahead of SpaceX's next test flight &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T14:54:54.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSDlGX0dNNkh1R0ttWnF1YjkweWdic25XU3dQUGtKTTRmWldTenhab0d0dk80c0JZZUJkdkJGTm5pT01tVVJsMDFOdG02UlRGbG9TY0Z2bGp2Q3VhazVORzd4ZkFCd1pzSlFTQzdkT21LLU1hanNBMWVMaFBHclNQb2VRcmE0VkJraVpjbWxOM2hrdHU4eHBfMVNXSG5RRS05NUh2T0VZQmY1N05mRFlUMGYtYldtRWxZbndtU3RUSHZwN05Y?oc=5"
     },
     {
       "headline": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo",
@@ -67,17 +89,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWUyOGFycUhGQjF0M2p4QnBLOW1ITHpqTVdMaDAzM0pIb1ptUERoaF9XZm1pRm5XZTM3bFB1WG5IeWh4UGszUlNEYjltSFBhd2tEVDdleXFVX19XYW9QZkRTUzNBM3ozOWc2YTV0TVF2OFpHMGdxQm56ZHMyS0RMaDBNcGE2UUc4VVVLcEJCV1F0UzB6TmYyYy03WjdWVWM3TkdrSXpnU3hidTFXcFVXN3ZVTXFOVUhBMWVRMVBPdjh5YWI3c1YxUGRES25GV0h4aDBBSw?oc=5"
     },
     {
-      "headline": "S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
-      "summary": "S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T14:29:41.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5"
-    },
-    {
       "headline": "Shipping still restricted in Russia's key Azov Sea grains trade route, sources say",
       "summary": "Shipping still restricted in Russia's key Azov Sea grains trade route, sources say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -87,17 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2FoMnVKREpuekdLYW5nQk05bEJNSFJOQ2dUUVd1ZXY1V21CMlpLVW9FWWgyMDI1a3huX0lEWU9jYl9tdE5vUWlpaXdreXpPbU82LTM3WkJfa28yWE9oOHRiNVFJUkhvXy1WUmkxUFBQdWVMcDZ4VlVNNWROOVBMOFFPeDNjUEpzWW1DdWNJRFZaZjF2WGFZb3k1dmllQUFpMHVwRVVXWWx4YUlzRVhfUWJyT1hSZ3JZcDNpOVFMUjJUUQ?oc=5"
-    },
-    {
-      "headline": "UK bans support for two Iranian groups over antisemitic attacks in Britain",
-      "summary": "UK bans support for two Iranian groups over antisemitic attacks in Britain &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T13:58:01.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5"
     }
   ]
 }
