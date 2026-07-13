@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T06:15:53.061Z",
+    "generatedAt": "2026-07-13T10:23:54.385Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,81 @@
   },
   "newsFeed": [
     {
-      "headline": "China June exports growth set to cool, but AI demand underpins overall strength - Reuters poll",
-      "summary": "China June exports growth set to cool, but AI demand underpins overall strength - Reuters poll &nbsp;&nbsp; Reuters",
+      "headline": "EU imports record LNG volumes from Russia's biggest plant",
+      "summary": "EU imports record LNG volumes from Russia's biggest plant &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-13T05:32:44.000Z",
+      "timestamp": "2026-07-13T09:01:44.000Z",
       "impact": "HIGH",
-      "region": "China",
+      "region": "Europe",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNyNnRCbkNIbXJUSmtSLUl2blR3VmdJckhYcFhVd0lGSzlJRVk5M1hUbS1nOVc4SHYtSldGVXJrdnFCa0RqTjBHM0l5bmRjZmlrUEtlWmFCR3htczFWR3llSUFpblFVd1NMYVAtRWlObzhWbmJKZkY2b2Q4eXNTdTljbW12Q05FZzFGeU1KYVp5MUpPSFpFZ0ZDbTlRZFNvTS0yRlpkNEtpblVDMDNpMGNlV0ZNN3lsRUkw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFNYaWdWVnhkOWpJTTItbGUtMUtPdTFoUmlndFExemVGOEsySmx2RkdCVzItZjNtS21sZ2EzMHZLd1MzNzVjNXk1bzdqSUx6dXNvWTBhUVpfSGs5QWQ5TnlKZXVwNHVqY3lONnNWMVNPMjR3U0Iwbm1sTVdZM1RjTUlkaFJWSEtUY0VUS3Vab0swczJpQkthMXlWUm5RMzJMZWQ3c0tR?oc=5"
+    },
+    {
+      "headline": "UK targets Russian cyber networks with new sanctions",
+      "summary": "UK targets Russian cyber networks with new sanctions &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T09:01:43.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy12R0FCU0cyRnZiZTZsZE96WG9SNi1XLXUtSXZVMUpmN0YzQzItS25XNUM5ZW1mdXhTZUxNQ1dwczh4czNzWkNaS01ia3k0ZDF1UzFteXNBXzZoYmR5cTFwRmxjY0dNS1ZPUVFQRm42RElvaFp5TVZyNmJmSjdPZnBBWHhwczVDd282b0NFcnNlQkxMVDhzRVJDMWYzUQ?oc=5"
+    },
+    {
+      "headline": "France set to summon Russian ambassador to Paris over alleged cyberattack campaign",
+      "summary": "France set to summon Russian ambassador to Paris over alleged cyberattack campaign &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T08:27:43.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWdORHF0VmZIR0NyNDdnWXgzREtsLUw1VFhBbF9WMl9nVnBvN2J5emJieUJwQmRkTEJ2SkQ4SkJNSTNkNWlQWC1XY1NiZDhSeGEtZEJ4UldYVk5ZWTlKTHppQ3M1YnJUNldjaTZrZEFSREY5M2oxc1BFOURHT1QzN21XckVLeC1jak5ZZzk1MV9XaHpyelhpQldHLWI2eDRRY2EtdzlvalFPSmNEdFN0WHptNEowbzczUC1VUlA4RndQOXM?oc=5"
+    },
+    {
+      "headline": "Stellantis vehicle shipments rise 10% in the second quarter, led by North America",
+      "summary": "Stellantis vehicle shipments rise 10% in the second quarter, led by North America &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T08:21:16.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWUyOGFycUhGQjF0M2p4QnBLOW1ITHpqTVdMaDAzM0pIb1ptUERoaF9XZm1pRm5XZTM3bFB1WG5IeWh4UGszUlNEYjltSFBhd2tEVDdleXFVX19XYW9QZkRTUzNBM3ozOWc2YTV0TVF2OFpHMGdxQm56ZHMyS0RMaDBNcGE2UUc4VVVLcEJCV1F0UzB6TmYyYy03WjdWVWM3TkdrSXpnU3hidTFXcFVXN3ZVTXFOVUhBMWVRMVBPdjh5YWI3c1YxUGRES25GV0h4aDBBSw?oc=5"
+    },
+    {
+      "headline": "Russia says it struck Ukraine's Chornomorsk port, causing damage",
+      "summary": "Russia says it struck Ukraine's Chornomorsk port, causing damage &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T08:01:06.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXVJU01BOXpsWG1rU1pEWEk3bkhOdFMweWJvcFNGbVFnZmxhSUd0dGFkYnhOX25pbnpxRjVid2lwZzZnQk40Z2JrVlVQSFoxdlhVeGhVcG5OYU5tRDV4UXowY0JQNWVQNGc5YUZnY25KdG4xNV9INWU5YzBOR25MMG9ZUnhMQm0xcjFCQ3NDZGxrRkMzR2pjUmRONWNKX3hMR255NUoyWEVmZlF5SG5DNw?oc=5"
+    },
+    {
+      "headline": "South African rand slides as renewed Gulf conflict fuels risk-off mood",
+      "summary": "South African rand slides as renewed Gulf conflict fuels risk-off mood &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T06:54:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTBqb2tXZDROWWRVRDQxT2tibjJhSnlsMVp5bHc1YXhBcDNRNUZaeTh1Ynl6WUNhYXc3bV8xeFN4LUlxYW5wNHRERUY5Y1JaLTFScmU3T200ZENZUFo2UjZwajhyMV9YYVo4NXh2d1JLOVZwWVF1aWI3X0szenZ6MzZUcUZybzBRZ3loQk5UQ1BHUzEyVTk0YzhpZ3F3WXhRMmNMbTg4OHIzaDZmOFRQZjYwU2gxV1U?oc=5"
+    },
+    {
+      "headline": "No EU agreement yet on 21st Russian sanctions package, Kallas says",
+      "summary": "No EU agreement yet on 21st Russian sanctions package, Kallas says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T06:21:00.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUhXLWdnMVNoLTEtT3lrUVdWZU51YnZGNGpoc2g1b3REZ2xhd3ZQTEU5R1dRU1d2TU9KZXdVRVV3OVo0LUFYTW1xUTQ1OWtPcmQwS2QzTnpPblRjeHF6VVd2Ti1GYzkwUXF6SUVaTjhqX1UyZHRCQTRwajl6dVhIMjQwME11aGZlQzIxbGZDcHpyQXpBaUdBcmtTUktuZmprU0JRY1ZXYw?oc=5"
     },
     {
       "headline": "Asia's LNG imports recover, drawing cargoes from needy Europe",
@@ -32,72 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1lzZFB5dWJYWUVIZ0gwdkxlbnVELVNMWXVHY3N4dzhRUUVydmdoOW50eHhpdGI3M3N5ZDJ4WkRzUVhsRy1IU0N0eHZ6SEJaQXZmWGp6cmhTU2phZnV2MEo1U0NqZUZJNmUzMnYxS2E0OC1Uai1KUzNPZkNDS2VQUTBScU5jNHhRY0N3UUw5RTRMczBwVkhIQlgyWl9XdU94eFdFSFpTWFM0WXlleHFpdlBFejFxMklGZG5kMllvNko?oc=5"
-    },
-    {
-      "headline": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare",
-      "summary": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T05:03:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl8tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF9vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5"
-    },
-    {
-      "headline": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk",
-      "summary": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T04:52:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5"
-    },
-    {
-      "headline": "Mastercard examines sale of UK payments subsidiary Vocalink, FT reports",
-      "summary": "Mastercard examines sale of UK payments subsidiary Vocalink, FT reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T04:23:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUc3SWZkOFZTS1FnZWgtNExwMjRncnVoSjhNUVBabEY5NFhmdjJXZXUzdFdjaTJsOFBmSkl0blZsR2paWUNRakxYNUdYakliemR3SVliQjU4YzUyelZSdnRPbDRkeFdjaS1qaGhXRzQ5REp2cVF0TjAyUXhqOEUxd29xc2Z1QXpjQjh6cjRnRy1vNXVCNXpDaF9yMG0zVnNMZFBFeEdmOERHMkpXZjFCV2Fn?oc=5"
-    },
-    {
-      "headline": "Breakingviews - Asset manager IPO rewards Amundi's early India bet",
-      "summary": "Breakingviews - Asset manager IPO rewards Amundi's early India bet &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T02:01:28.000Z",
-      "impact": "HIGH",
-      "region": "India",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMF9ITjF2eFJwOWdlZU0xdlp1V3Z1OHNBVUhfZ0xLUE54MUhaZ0xrTHRaNFJXVFRMSkdFMjRjQ0dQQU5MNVlRdkdOVUVOQlotcFp4M2g3Sk5mTF9CY2hvZmhpSnpJSlJNQjQ4cjdBN0JfR3ZnMmI3dEZDVTRXdjBtRlJZUnY1VU9QZ1R6MDdSSWplOFM3a09hejB1TXlxeFptQk5mS1dndTh0X2ZoUDhJ?oc=5"
-    },
-    {
-      "headline": "An emboldened India holds out for better terms in US trade talks",
-      "summary": "An emboldened India holds out for better terms in US trade talks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T01:01:00.000Z",
-      "impact": "HIGH",
-      "region": "India",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSklkdlhBUTRGM2pHY3huUUdzMFJsVllYekhuak5CWlNMOXp1OTNEQW50WF9oQ0IyY05sTkZ5R3QwQWZCTjlya09hRkhldFhKeVIzM0xjcGVURlNuYmZVOEd5NkJpZEZUcmNHVFBOYW81a2NFYzR1czJRdnBsU0ZQMU5vSVR2cENGOUJCWmd4MmJqekJSX1czaDUxWkVZc3NWZDVVOFZ3NFg?oc=5"
-    },
-    {
-      "headline": "Dollar climbs on renewed Middle East attacks, Hormuz closure",
-      "summary": "Dollar climbs on renewed Middle East attacks, Hormuz closure &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T00:29:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVMa3FGTU1NQ1pSWXVaRllPTTBLc0xYR1dlQS1URUdySXZOb1ZaT3RxUFNlUmo4djVDcTNrWVpNOUFsNnpkcW5nWFJyZWlKamtvMlppZkYyTUpLeFBGc1dYUHYtcTNSTjk2aVhDSjI2OUV0MU81eDBsMUNaRGxiZHQ2SzUzRTBsd290RGZRTWl0NUZ0Mi1LVnBsMVMzSWlqNVJUeEJQQVp4cTRUUGhj?oc=5"
     }
   ]
 }
