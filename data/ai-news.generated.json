@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T03:50:09.891Z",
+    "generatedAt": "2026-07-13T07:24:27.104Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -102,14 +102,14 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVZob3BlX25qanJ3VjYwdUR0bmFJWW9zUmUxLUczWHVvZ1didnZOODZMRHZ0cWdGWk1LNDNTM3FqOFU3a0FtZUF3OWxaUGFiSXVHRDdFU3M3OTVVZC1ZcTFPZUVxbUVPMmtfMDg4WkhPQXhCcjlsSmkzaWQ2OEpxR2dzcGM?oc=5"
     },
     {
-      "headline": "Meta pulls new AI image feature after days of backlash - BBC",
-      "source": "BBC",
-      "timestamp": "2026-07-11T01:45:59.000Z",
+      "headline": "OpenAI bets on families as ChatGPT goes deeper into households - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-11T14:13:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta pulls new AI image feature after days of backlash &nbsp;&nbsp; BBC Meta removes controversial AI feature on Instagram after backlash &nbsp;&nbsp; TechCrunch Meta shuts down AI tool after backlash over public Instagram accounts &nbsp;&nbsp; Fox Business Meta Removes A.I. Feature on Instagram After Days of Backlash &nbsp;&nbsp; The New York Times Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds &nbsp;&nbsp; Reuters Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy &nbsp;&nbsp; The Guardian SAG-AFTRA Slams Meta AI for Using Your Instagram Photos, Says Opt Out &nbsp;&nbsp; Variety How to stop Meta from using your Instagram photos to create AI images &nbsp;&nbsp; The Washington Post Meta Pulls Back on Opt-Out AI Function After Hollywood Outrage: “This Feature Missed the Mark” &nbsp;&nbsp; The Hollywood Reporter",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pck5CWFctZUtac0ZNVy10U2VxZG5oWVFwUGZmY1Z3bklVLWN5dkVZUnlqYmptWEZJblVtRVdMWXpWWEowNDhvRlZNTzFnaFRfRGlVempCNWg5UQ?oc=5"
+      "category": "models",
+      "summary": "OpenAI bets on families as ChatGPT goes deeper into households &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejc4ZzlWMHg1UjR3UTJTWjFMRHcwNGVDV3FqbEg0R2UyMUVIaWJhOXZqSjJ3dlNlbkxRTXQ4ZDJ1eDhpdmdyaTJCUlZqa2wwWExoT2ZWemkzbHY1ejZxWk5pVlBHWGpYRlVFT29xY3B1S1IyNmNwMXo1THFxa3Q4aDU4OXpLRUVuTGtxbmtwUEVxSEg0Q0pzSG9paDFVdw?oc=5"
     }
   ],
   "aiNews": {
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
