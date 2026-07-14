@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-14T12:09:47.093Z",
+    "generatedAt": "2026-07-14T16:12:31.843Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,54 +12,65 @@
   },
   "newsFeed": [
     {
-      "headline": "Crimea's Sevastopol restricts power supply after Ukrainian attacks",
-      "summary": "Crimea's Sevastopol restricts power supply after Ukrainian attacks &nbsp;&nbsp; Reuters",
+      "headline": "China's exports ride AI boom as domestic economy struggles",
+      "summary": "China's exports ride AI boom as domestic economy struggles &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-14T10:32:18.000Z",
+      "timestamp": "2026-07-14T14:45:36.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5"
+    },
+    {
+      "headline": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
+      "summary": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T14:19:48.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjRRZjhxYzV5NzlfcDFvUDBaNlpmQWtZNUdpWHdQejRERjVCTWpLMUlQX1FUZGM2dE9zRmMwTWNvZmVSN0JlQTB5bzVmV2F1NTd1WWJKNV9fV29odll4elhxOVVoQy13OHQyYUQ1R21kYUltYW9OekNablhuRHVpTjUtQ2c1SG5CTmJtZDFGTnNUc0dRMm1nUTdkNjF3bE9fOUNaa0VuQi0wMnBGNkV0X204ZVR3M0lK?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5"
     },
     {
-      "headline": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal",
-      "summary": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal &nbsp;&nbsp; Reuters",
+      "headline": "After Hormuz, Iran turns to Red Sea gateway as new pressure point",
+      "summary": "After Hormuz, Iran turns to Red Sea gateway as new pressure point &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-14T09:15:45.000Z",
+      "timestamp": "2026-07-14T14:17:52.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGg5NkVYV29DZzNPWWdfQnBqVkllT3BZYlpEMkZEb3JmODhYT0JYMVQ5SHc4cEZoMUh5bnp0TC1ITl9JZ1d2VmZ4T2dFcGY3TDVsUFJhbVdpa0w1LUdFM0M3WU90VXZFWnY4QkhyeUc3SmtlQkJYb05OUENvQWxwU2ZnTkVCcTZyRjh3UUtrYlhMVWMtTmVSTmlObnd1SEhsUk5uUk8tLUdEZ21faGhRc3J3?oc=5"
+    },
+    {
+      "headline": "Traders expect Fed to skip July rate hike as inflation cools",
+      "summary": "Traders expect Fed to skip July rate hike as inflation cools &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T13:49:07.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejVocHU3MHFoUThMM0FoSk5ILWllYXdVa09OYmEtTjFoelpoVFl3T2kyYUR3UE85SnVLb01CbjV4TkJhMC0zajNCUHhza3c5RnJJaElFbnUyMV9YSmJ6VDUtWHFBUEdwSHd4eWUxMjNONzd2SS1zaENIdVJfWFFmX200YnV3Ym5YekpxVXBjVm91OWRXUy1xVTJHbkE4cHFOTDJF?oc=5"
+    },
+    {
+      "headline": "Israeli fire kills nine in Gaza, including a 10-year-old, officials say",
+      "summary": "Israeli fire kills nine in Gaza, including a 10-year-old, officials say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T13:22:14.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVVXQVlKRGllTXBnSWpyQXlJUTZBOFl1Y1FjRE12cjc3MFZKeXRENlJXTlVuRGg1dXB3cGxSa2I1V1EwcHFxaHk5ZEo5anp0NjhuNE5NR0I2eG5Sc0xnb2p4dDZycF9rUVRVdGxPQWFYMlNGT1hLakh2MEh6dElLQU96bDN3WHhsbjF5V3UzcENhWXlSZ21pWWdkSlhjdklPWENzaFBsR2pPcGk3LV93aWVQNnEzRVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOEphWkNpMjEzLVpWQW9ZOS0yM3IyNlVMWXh4SnJkVWh5U3VjR0ZvbV95LS1fZHJhVV94enF5bDNJS2xRWnp5TTFLcjBKRG12QnR3NXk1eEUwcU1xODc1Y3BHZzFuVjg1b0YwQ0piaGJZeURoYjhfR0N3OUNocU93bTNjZGFwVFRTaHlMUXN6OHZ6TTBneG5xN0VFTkZnZDhPUkJhc1RYMXFxa1ZTNmRPRkVtblVfcUNWajZVb3N6RkY?oc=5"
     },
     {
-      "headline": "Russia prepares to reroute grain exports from Sea of Azov after Ukrainian attacks",
-      "summary": "Russia prepares to reroute grain exports from Sea of Azov after Ukrainian attacks &nbsp;&nbsp; Reuters",
+      "headline": "Most Gulf bourses retreat on US-Iran hostilities",
+      "summary": "Most Gulf bourses retreat on US-Iran hostilities &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-14T08:40:21.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY05Oc2NvVVpHV3NkT1Y5enJlbm41YUJ1aEpfamY3cEtJekRpei1mMk1KNWpxN0RQeHdSdlR3OUR4OEpObWVPeGw3alpNTGUzTkpRTG1HTHRPOUNkb2dBbG50QmtHZVMySzl1SWVBemJJeFYwZVdYOThwQTJOcnVpbHhUMVlSS2N3ZnhINC1nVkdNSVFSbHJqcFZBcmhMWFB5WXIxcXhEUUpxOV9MLXJBTUJR?oc=5"
-    },
-    {
-      "headline": "German retailers warn of worsening business conditions as costs rise",
-      "summary": "German retailers warn of worsening business conditions as costs rise &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-14T08:38:46.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHBjMkJnajhQY0lFRUxVaUFhT1dKRmZlSnBWaVp5NU0xcjdyZ09KWUFCN0ZPTlBObl8xQ1N3RXRBWDRFdDcxMng1Yzk5ZTc5QTFuUE0wLVFWcWlXd0NQOVRlMXdKNkh5X3ZIZEpkMWhjTDVzM2t0b3NGemEtMTF1c0swTjcyWXpZUUpHMEpqcHZxQkFqejl4aW5MblVIWjNMeUg5SGhld2pSc2c?oc=5"
-    },
-    {
-      "headline": "Most Gulf markets fall on US-Iran hostilities",
-      "summary": "Most Gulf markets fall on US-Iran hostilities &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-14T07:29:09.000Z",
+      "timestamp": "2026-07-14T13:17:12.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -67,37 +78,26 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEYxR3pORjFGZWRWaDVLRjFydXg5aURMT3JzOXhPa0JzamlEZFNpSE9uQjFNclAxRkdXRmxiTmJFVFRCYlE1RmxzcnRkV2RIRzI0NzBZUTF2WldGSDE5MmxSQ3YzOXRtSUZFZlVTSVExM2NlU3ROU3FfMGlRUUxfdXBScWxVUFJqS1cyNWpqNWR2dHJVZGkzdGFJTnA?oc=5"
     },
     {
-      "headline": "China smartphone shipments fall for fifth straight quarter as costs rise - IDC",
-      "summary": "China smartphone shipments fall for fifth straight quarter as costs rise - IDC &nbsp;&nbsp; Reuters",
+      "headline": "Russia accuses Ukraine of terrorism in Sea of Azov as Kyiv opens new front in war",
+      "summary": "Russia accuses Ukraine of terrorism in Sea of Azov as Kyiv opens new front in war &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-14T05:23:00.000Z",
+      "timestamp": "2026-07-14T13:13:46.000Z",
       "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQekliSVlxeFpqQzJ5aTRaelZ3VHptNU9BeXRhYUhDV2cyU29DdEJYZjFXWWpOb1lZQ1g4UnFtdjFScGpDcTRENFpFaUhiTHJaUUcyZXlQRVJfY0FSWDFWRzdDV2ZRTDNQcXFpejRRalZJVFB1aUw4bHRDQktrSERpdmNOSUJDN2JMUVFiQ25MY0dPUUwyR0xaTU5ManBSbVAtaVpSd0V2d3FRZlg2YjNCRWFIMDdLalZZSzRqbGVUYXVfU1lMR0Zj?oc=5"
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY05Oc2NvVVpHV3NkT1Y5enJlbm41YUJ1aEpfamY3cEtJekRpei1mMk1KNWpxN0RQeHdSdlR3OUR4OEpObWVPeGw3alpNTGUzTkpRTG1HTHRPOUNkb2dBbG50QmtHZVMySzl1SWVBemJJeFYwZVdYOThwQTJOcnVpbHhUMVlSS2N3ZnhINC1nVkdNSVFSbHJqcFZBcmhMWFB5WXIxcXhEUUpxOV9MLXJBTUJR?oc=5"
     },
     {
-      "headline": "China's June oil imports hit near 10-year low amid Iran war",
-      "summary": "China's June oil imports hit near 10-year low amid Iran war &nbsp;&nbsp; Reuters",
+      "headline": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal",
+      "summary": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-14T05:22:00.000Z",
+      "timestamp": "2026-07-14T13:10:28.000Z",
       "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkxRblJwR3pkdkRBLW9BQTJwT3htaWpDNXBaTi1LQ1ptQ1VlLW5VellsQ3JTWUluQ2oyOVlGLVBvSmFsM0FmTWh3eE1OV3AtN1RKRUJEQVJaQmdXTXNnNEVyUHFfanFDMjVBRGZqcmVJNWhLLWNNd0IxVGtYSUpJZnUxQmJwSFZBcjU4YVFhYy1ic2RZZXhDZnJhaHhzbG8zTkppelFCcHZoNWJhSGFN?oc=5"
-    },
-    {
-      "headline": "Nvidia halves Asia buyer list in China chip crackdown, FT reports",
-      "summary": "Nvidia halves Asia buyer list in China chip crackdown, FT reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-14T03:31:00.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ042c2NBTzI2SnhBeFZzMC03WndWMmFTRG1KbXI4V2hacnh2SWZUZ29nbkRvcUNVRi1NVEhWd19hSmNNNzh0QzNLVjhZcjFLWXhGdjFhLXIxcDRnUEQ0X0RRaXRVckJRd2Q1bmNpTklSbW5NUnNJUTdNejllLTVpTzF2QkI5V1YwUHVCWVgyREVXZG1QVS1fYWNGRVFweUlVQlpJSVhWNDF6WDd2TGc?oc=5"
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVVXQVlKRGllTXBnSWpyQXlJUTZBOFl1Y1FjRE12cjc3MFZKeXRENlJXTlVuRGg1dXB3cGxSa2I1V1EwcHFxaHk5ZEo5anp0NjhuNE5NR0I2eG5Sc0xnb2p4dDZycF9rUVRVdGxPQWFYMlNGT1hLakh2MEh6dElLQU96bDN3WHhsbjF5V3UzcENhWXlSZ21pWWdkSlhjdklPWENzaFBsR2pPcGk3LV93aWVQNnEzRVE?oc=5"
     }
   ]
 }
