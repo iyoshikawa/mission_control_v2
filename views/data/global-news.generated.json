@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T23:52:59.588Z",
+    "generatedAt": "2026-07-14T02:21:55.625Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Asia markets choppy as threat of Trump Hormuz levy spooks traders",
+      "summary": "Asia markets choppy as threat of Trump Hormuz levy spooks traders &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T01:27:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5"
+    },
     {
       "headline": "Trump sends Congress formal notice that Iran conflict has resumed",
       "summary": "Trump sends Congress formal notice that Iran conflict has resumed &nbsp;&nbsp; Reuters",
@@ -23,15 +34,26 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlnQU14UlRYVHMtT3FqRk9meEE0S2ZsVFBLcEJuRWJWc2FSZzVoYmtJSlM5RG9IWnRlRGxMSE5FTmxlNVF2Unl4ZXBwNzN1WmxYSjVHU1pWNURHZDhGTVNoYnY3Z2l1LUY0WnRjU0dSbmM5NVpWaU1mTnhZZzVpNURIdGEyMWlVcFl3U1EtYU0xSVBMcEVrckk2ZVlxbHlwS2REVlJTR1FRM1NqR3c4?oc=5"
     },
     {
-      "headline": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
-      "summary": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal &nbsp;&nbsp; Reuters",
+      "headline": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds",
+      "summary": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-13T21:08:48.000Z",
+      "timestamp": "2026-07-13T22:15:00.000Z",
       "impact": "HIGH",
-      "region": "Global",
+      "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2dZM1Z4UFFmcllDRXdWU1NXZkVHdTlOZHc5TloxS1FOQlRCYTdCbjZJRXk5OW81QnZIUFBRWnFIeThHX2ZESS1hU2JReFl4UldEcFBBS0pjdEtITlpJZWFZamtOQjhWYlVFdUJRbVdZZ1NaU2VLLTJ4Wkx1Q0dJaHdXQUE4ekNCZURKUDg5Tlo2QzRhVXNZdkdxdEFHSEFId2hEMGIwRUZuZFRPS2tqa0UzVUdkVXNNUHVLYTB3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5"
+    },
+    {
+      "headline": "Trump says the US will take out Pickaxe Mountain in Iran",
+      "summary": "Trump says the US will take out Pickaxe Mountain in Iran &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-13T20:59:43.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlSzBLVDFoeFpXc2FpRzJ3?oc=5"
     },
     {
       "headline": "EXCLUSIVE: Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
@@ -67,37 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5"
     },
     {
-      "headline": "UK targets Russian cyber networks with new sanctions",
-      "summary": "UK targets Russian cyber networks with new sanctions &nbsp;&nbsp; Reuters",
+      "headline": "Ukraine to produce French missiles, orders war planes, Macron says",
+      "summary": "Ukraine to produce French missiles, orders war planes, Macron says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-13T17:32:07.000Z",
+      "timestamp": "2026-07-13T18:30:21.000Z",
       "impact": "HIGH",
       "region": "Europe",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy12R0FCU0cyRnZiZTZsZE96WG9SNi1XLXUtSXZVMUpmN0YzQzItS25XNUM5ZW1mdXhTZUxNQ1dwczh4czNzWkNaS01ia3k0ZDF1UzFteXNBXzZoYmR5cTFwRmxjY0dNS1ZPUVFQRm42RElvaFp5TVZyNmJmSjdPZnBBWHhwczVDd282b0NFcnNlQkxMVDhzRVJDMWYzUQ?oc=5"
-    },
-    {
-      "headline": "Rivalry and revenge: the long, bitter relationship between England and Argentina",
-      "summary": "Rivalry and revenge: the long, bitter relationship between England and Argentina &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T17:15:04.000Z",
-      "impact": "HIGH",
-      "region": "Latin America",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzBES1FyeHBCUjlGQ3E5dHp5SWVTc3ZTd0hSWHI1YXFxQmNhVHRmSUU2dFJhMGRRTEp0anRLNFZBUDVKY2hPblVZTGIyV2ZZQjZwcGJfZ2FfSGtFN3dDRUFBa1poU3VBVG1LQTZVSG5UOE1EcWJBd3lFZy1oUktwbEZXUnB6Ul9yUkJua09lRmR5RU83VFp3MWJvaFh3aUpka0s4MWRyRlp3bjVFb2RpdHI0YnR3dU0?oc=5"
-    },
-    {
-      "headline": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge",
-      "summary": "UN shipping agency opposes fees for any strait, after Trump plans Hormuz charge &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T17:01:26.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNei1BMHZIWThUNUlpYVYtTlhWcGdOSjZVdDdJWGpCT1FpRm1ab2NkbDJxM1l3WmdOSHlvUjRWbE5QZmRYeEVldWdrSm5SZVI1V05KdTZFWUtOMmlPWXozRWhhWVZCRVJqZHU2Sk9vQkw0TGg5NUFaQ3ZfRmZnaU1nTWZXc2dRTTZ1aHVlNG1zSmE5TDJEQmczcUhTb0tXM2dzVVF2UlNzMlRXLXl1Ui1OT1hiaEU0c1VrNHNSclU1RnFpN21hbU84?oc=5"
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRm5QcGcwOEo3dlJTWm1xOUZnTGZ0Mk9uN2djb1VpbWtzNVdHRGZ6bS1FbDNyRTAyLWNPcjhGT0NLcm12QzIwRzBXdVc4R2pxY05mYi1aZV8tYUxMNU94YlNhVFJfb3ItS3YxdExyNC0zaXRwY1NfX1dLRDVDVGZRelFxUUtUc3BualhpeURaUXN5VnFueGRrX2poc3hxdnd3aEFyLVhXazc0d29Ed1Bud1RHbGdTRC02elZBV3Y3UkRSUQ?oc=5"
     }
   ]
 }
