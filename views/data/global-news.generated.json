@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-14T05:28:03.439Z",
+    "generatedAt": "2026-07-14T08:00:33.448Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,14 +12,47 @@
   },
   "newsFeed": [
     {
-      "headline": "China's June trade tops forecasts buoyed by AI boom",
-      "summary": "China's June trade tops forecasts buoyed by AI boom &nbsp;&nbsp; Reuters",
+      "headline": "Iran says it struck US air base in Jordan, US military ends five hours of attacks",
+      "summary": "Iran says it struck US air base in Jordan, US military ends five hours of attacks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T06:36:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5"
+    },
+    {
+      "headline": "China's June oil imports hit near 10-year low amid Iran war",
+      "summary": "China's June oil imports hit near 10-year low amid Iran war &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T05:22:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkxRblJwR3pkdkRBLW9BQTJwT3htaWpDNXBaTi1LQ1ptQ1VlLW5VellsQ3JTWUluQ2oyOVlGLVBvSmFsM0FmTWh3eE1OV3AtN1RKRUJEQVJaQmdXTXNnNEVyUHFfanFDMjVBRGZqcmVJNWhLLWNNd0IxVGtYSUpJZnUxQmJwSFZBcjU4YVFhYy1ic2RZZXhDZnJhaHhzbG8zTkppelFCcHZoNWJhSGFN?oc=5"
+    },
+    {
+      "headline": "Nvidia halves Asia buyer list in China chip crackdown, FT reports",
+      "summary": "Nvidia halves Asia buyer list in China chip crackdown, FT reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-14T03:31:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ042c2NBTzI2SnhBeFZzMC03WndWMmFTRG1KbXI4V2hacnh2SWZUZ29nbkRvcUNVRi1NVEhWd19hSmNNNzh0QzNLVjhZcjFLWXhGdjFhLXIxcDRnUEQ0X0RRaXRVckJRd2Q1bmNpTklSbW5NUnNJUTdNejllLTVpTzF2QkI5V1YwUHVCWVgyREVXZG1QVS1fYWNGRVFweUlVQlpJSVhWNDF6WDd2TGc?oc=5"
+    },
+    {
+      "headline": "China's exports ride AI boom as domestic economy struggles",
+      "summary": "China's exports ride AI boom as domestic economy struggles &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-07-14T02:57:00.000Z",
       "impact": "HIGH",
       "region": "China",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5"
     },
     {
@@ -45,17 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUndFbURmd2hTcTRfYVltMHZWV0s0dHFIRkd0YmdiWGVHS3VJWWR3YTlpQTRpQUsyUHdjUERIdU0zY0pCaTBEVzBHLTF6c25VLW52Z2NWR29DdUhKMm43RXh2QzNWN05tbmhQWjhjTHdQUFpoczhXYmFELWlWYjJoQlBsYzhPd1A5ZHo2VlJOaElrY1ljVmVybmx3a05EMUZwNzRrbjgzU0RiM3JLZVhwWHhHUEgtdFNxTDNYV2ZQZEhJYmM?oc=5"
     },
     {
-      "headline": "Houthis fire missiles at Saudi Arabia, breaking years of calm",
-      "summary": "Houthis fire missiles at Saudi Arabia, breaking years of calm &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T19:55:26.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5"
-    },
-    {
       "headline": "Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch",
       "summary": "Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -67,17 +89,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzVTX3dRNjRNZWhfaklORDE4aXE1RzV4NGwtNXVNSDBHMllBN1ZlOU44NnQxMWk5WXlXckRHcWNreFNGb3BKY1RFdjdIbWNNUF90TE1QVUtFTEMzeXNCTlFfRktPbXJETTNlLUk5MjZxQUZxVkItUkZ1NW1NWU5nVUVLYXl0d3FrU3B3U0NqQ1E0bGU3SHltSm1RTjk3NHVkdFRKOFRPNl9xZm5VNks1Q3N0bF9EZE4yRjhfZzVzT3dJVE5KZko0RFpxdjBldw?oc=5"
     },
     {
-      "headline": "Ukraine to produce French missiles, orders war planes, Macron says",
-      "summary": "Ukraine to produce French missiles, orders war planes, Macron says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T18:30:21.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRm5QcGcwOEo3dlJTWm1xOUZnTGZ0Mk9uN2djb1VpbWtzNVdHRGZ6bS1FbDNyRTAyLWNPcjhGT0NLcm12QzIwRzBXdVc4R2pxY05mYi1aZV8tYUxMNU94YlNhVFJfb3ItS3YxdExyNC0zaXRwY1NfX1dLRDVDVGZRelFxUUtUc3BualhpeURaUXN5VnFueGRrX2poc3hxdnd3aEFyLVhXazc0d29Ed1Bud1RHbGdTRC02elZBV3Y3UkRSUQ?oc=5"
-    },
-    {
       "headline": "US to begin enforcing maritime blockade on Iran on Tuesday",
       "summary": "US to begin enforcing maritime blockade on Iran on Tuesday &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -87,17 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHhfWjBMY0wxWWV6RkVYbWw0bXN6LTFSX25HY1FDNXFwb0I5MndOZ2RSSmhjengxS2xKdFdmRi1Yd1J4ZnZkR3lHaTlabTZFbFl4dkdvOHh1MUs0cTNVc2NhOWc3OTJNbVhLa3NRQ0RzRkNUUlVGdk91eHlLX1hkRFBkYndhTjlfU3BCYzUwVHZlT0ZNZHBSV3NESmZjNXItY3Z2bTJ3?oc=5"
-    },
-    {
-      "headline": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows",
-      "summary": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-13T18:06:00.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5"
     }
   ]
 }
