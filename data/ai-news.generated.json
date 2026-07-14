@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T23:56:35.104Z",
+    "generatedAt": "2026-07-14T03:19:25.563Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-07-13T22:11:05.000Z",
+      "headline": "Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-07-14T02:35:30.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazZmdm9uVDJsWm9VYnctbXpSRDBoNjc3Q0oya0hQUC1xd0pFb21rZVBYQUxncG9rQ1FtUm9GZGE4ZHZSOFRSWHZ3TVNfbXJNV3h4UHhSbEIwNEJQblhLeHdTMEtHeXF1elkzc2hUb0ZyRnFqdHEyR0hyMUJaQXBrRXdRZl9nMFU3T1lyY2lqQjh0eC1Edk82MjhDZUxaSTNicFhaQlZ3Y0l3YmRDR3F3T3UwbkI?oc=5"
+    },
+    {
+      "headline": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning - Yahoo Tech",
+      "source": "Yahoo Tech",
+      "timestamp": "2026-07-13T18:47:56.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning &nbsp;&nbsp; Yahoo Tech",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjMxUjZFZjYtZ3llTTNneFd0NW9relM0SVI5MnVDTTdBRy1tY2F1Q3FwUnZWYzlHOXNabU1CdnFYbEhpMlBnODZRNGlMSjNZNWlVSGV4LVZGMmxiVDdfMkQzbDdQMkpGaHNHY0xJaHFDaTV4V0RwOXVQVVByMXp3dVdWczdEVGNVR2dVQg?oc=5"
+    },
+    {
+      "headline": "What Anthropic’s latest AI discovery does—and doesn’t—show - MIT Technology Review",
+      "source": "MIT Technology Review",
+      "timestamp": "2026-07-13T18:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0htM1JIaFd2N0o2Wi1aTlplY3Vhc19HaUkyMXhnajQwN1loOUMtUmJRU21qbnNMY25RSGxpeXFKc0h1N0hVMGtvWTdhcGcwdlZMYWFNZkxybzRvUGl2VEo4QmJLT0NjOXozR0Iwa3luQWpDMUtSSXBvY2p0Z0VPTzl2VFgzRGQ0Unh1ZkJLeTc0X21sQXJTWjlDV0RRcXZSanc?oc=5"
+      "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show &nbsp;&nbsp; MIT Technology Review",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV04xbFRXMFBkWFJ5X3pobThNNmIwNW93RERIMTRKSEJSYThfY3JiNGU4WE5sZXRfUm1CbWVyVFJVVVJ6THEyY0FfdHBSb2lyLUtQOGk4aVRmNFNWd29odzlDbzk0emtfeWlLM2ZYOHBTSDNReXg5UUtvRE81TUJ3S2RDazhvTFN2Vm8wZkxEVEZZR1F2UUkteTJIZ3c5OWdIUFBJZjhpcWxtaHlub3fSAbMBQVVfeXFMTldHYkFfc3RVLTdKNzFPZDFiak9aV0JMN2JoSlpMdHZrejlWVzBWUTNMYlZSTG02M2RpeHV5SGtNZk83UWllRTg0NVUtaGZDY3F5TVMwRy1fd081WDM2eVNWVlU3VEZEbEs1RDFlbndKZndBY1hTQ0U2OWxkUzdKcmtFOHVCeDNnMks1R0UtQ1JaaG9PS1E1OEppemx3dzdIemNneFNDQi1SbHBMNnkxYWFUUm8?oc=5"
     },
     {
       "headline": "How Claude's values vary by model and language - Anthropic",
@@ -42,26 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWUtoeVJ3VEY3RWJXYXBvTDVIajF4d21PUzRLYkEzNHl6T29MTjdkRGNEblAzVnBBa2FYS2pQWXFUM2pJZHNSMExhZFJxS3RxWklWTXI3WHl6WUk0TFQ5MFJsX0NoLTJ4NFBnUXJCOU9xVFcybXBDbFpnZHZBQTFMcDB4NldLUDFvNElNb0lRSzlFNHE2U1JhREdSRTBfTExjUWFCTThoYjBMeDJabGw0eWFXRmFwSHhlNmU0aDBySFlMU1BIV291aU14ejBCMWJDOXZJSDRfSQ?oc=5"
     },
     {
-      "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-13T15:34:59.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Anthropic starts localizing Claude pricing for India, its biggest market after the US &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmFacXVma1BoV2RmOXgwdFdpdEhlOHphVnVyWk5RRGxJYWpmM0t4d3BpUEpnRGNQbGJSTVZLeWdXdlJEZlV0QXdtRGJxMmR6SzJTN0JSUWdQMWFPemJMbnBjTUNPLThnaVFQTzMtdGQ0NEtoUUNmODdjaHZ1aWpHeWkzeXdfY2VsOWtiVU1WS2NieTQ4Umt5cnZvZl9HOFRLVVpTNXJIdXQtZUo1eGNNWDJIVjY0Z2FSMXZn?oc=5"
-    },
-    {
-      "headline": "Here’s Why Anthropic Extended Access To Claude Fable 5 Extended—Again - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-07-13T14:48:33.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Here’s Why Anthropic Extended Access To Claude Fable 5 Extended—Again &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXc2RnNtV08tVUtmMmdOUE1DbVVqM1ppYUpKX2YwRmtxZ2gtZU1oN1ZkX0pKVFNSTW5hLWJMaHV5T2I2V1BnZWNsVzd3UW53SXhuZ0V1S0VraXQ5bC0weGZWaDRqbFpwOWZpS1VGWjZSQ3hfT2xwUk9CNlBld1pSZXhVaV9hUDdEd2pCeGFwbTZwUHB0SVZjVk5QUTM3TmR6UlhsTUFFRXhqeG5vRmFHTWZURjVNVmIzUzZTSjlsbkVHV1BVMmJj?oc=5"
-    },
-    {
       "headline": "Microsoft (MSFT) Is Turning Partner Integrations Into A Bigger Enterprise AI Footprint - simplywall.st",
       "source": "simplywall.st",
       "timestamp": "2026-07-13T14:41:47.000Z",
@@ -74,7 +74,7 @@
     {
       "headline": "Meta's AI advertising dreams have become a nightmare for brands - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-07-13T14:17:37.000Z",
+      "timestamp": "2026-07-13T14:16:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Meta's AI advertising dreams have become a nightmare for brands &nbsp;&nbsp; Business Insider",
@@ -92,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWlWdnRnVnA0OWZYUVp5SFFUNERtbVg4OGY4MTc3ZXNVTEJKMjhDNlpxMzFoNTZEd2dTUnVrR01ucjRYbWVqd1g2aGh4V09LTENqQktIczFiR0FCbm11MUhVMmQxbnhNNHJ0TVk1SVJ5XzJzUk9kREtxTHN4cGp0RHJDVzBjay1iWEhvcWZZNDE2SEtfcE9VU3JhaDF1S1E4dXZiNTZIdFBDRTBHUTJYTHlwbXF2RG90MHJINzlUNnYxZzJkYVFDYk9mME9JenM?oc=5"
     },
     {
+      "headline": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? - MyGolfSpy",
+      "source": "MyGolfSpy",
+      "timestamp": "2026-07-13T12:18:35.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Arccos Is Integrating With Meta AI Glasses: Is This A Good Thing? &nbsp;&nbsp; MyGolfSpy",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTBWdnlYMzRDWEtCa0tvTFlieEtvTS1YbEJMbDJYeTl2UVJJaFBjNzBJNE9pc05FMm1oMFdyZHVXNkpvVEFKbTVHUm5melpMalB3dC05NHlWandTOEVpUGY0aGd3Y0d6ODBjRU1haW1va3BXNFJyVjl4WUVZelUtTVVmai1JY1M3bUNDV1E3LUZtZlhqYzRzWFdpbldNRHlw?oc=5"
+    },
+    {
       "headline": "This new AI model thinks in images, not just words - Fast Company",
       "source": "Fast Company",
       "timestamp": "2026-07-13T10:08:35.000Z",
@@ -100,28 +110,36 @@
       "summary": "This new AI model thinks in images, not just words &nbsp;&nbsp; Fast Company",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWoyVWRqLVRYN08xWndFYUdFQjBJN1ZJX0pvU0hqLXMxR3Z0UXh4aU5nRVNXcGRQeFhDNTZDcUI4amtqckxiZEVLbHY0VGxSVnpjakxYdmdMTnBxMkdyUjRlNWpHXzk2ZkFxd1FqZS1lOXI0V0ZJR0hIZmtVdWpUcUF4T001NjhUQ3FGQ1VR?oc=5"
-    },
-    {
-      "headline": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-13T09:30:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUtTQ2toaDhkd1dtTmQ2MlpDVkJSSFlidkxnUjVNMllfZmd1allzZjRxUm9qYWtCOXNSUk53QWd1akdLZWJyekJjYTVhQ2ZWa1lzclhQYUpSVF9fYUg3LURpQ1dkUUg5TGpJVnY1NDVBbFBxcXFtRXU2T1VZV0dzNHVvYjVtT0xmVXJvZ19JaE9JYU52WkU5SmVnb1o4aXRrdDZPRVFDTHM5QdIBrwFBVV95cUxNSzVPT3Rpbmx1LVcwMUJnX1dKVVIzX0ZYSFZ3TExSNWtHODFpT2hOVTdOSDUteDhPdGtxOGVWaUROREVBME05dUFiSGZ2bWloN3VpZjVTaERLRENib2NSVmhkMnAzXzlvdTVWeUs0SUstME1xaE9HbXg5d3Qwd0gtT1ZVZl8tUjg0RjIzVGVsbVJMb19SSzZKTkdQR2ZFelRkaTJvaFNSQmNTWkYwMlFR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-07-13T22:11:05.000Z",
+        "headline": "Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-07-14T02:35:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0htM1JIaFd2N0o2Wi1aTlplY3Vhc19HaUkyMXhnajQwN1loOUMtUmJRU21qbnNMY25RSGxpeXFKc0h1N0hVMGtvWTdhcGcwdlZMYWFNZkxybzRvUGl2VEo4QmJLT0NjOXozR0Iwa3luQWpDMUtSSXBvY2p0Z0VPTzl2VFgzRGQ0Unh1ZkJLeTc0X21sQXJTWjlDV0RRcXZSanc?oc=5",
-        "summary": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause &nbsp;&nbsp; Yahoo"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazZmdm9uVDJsWm9VYnctbXpSRDBoNjc3Q0oya0hQUC1xd0pFb21rZVBYQUxncG9rQ1FtUm9GZGE4ZHZSOFRSWHZ3TVNfbXJNV3h4UHhSbEIwNEJQblhLeHdTMEtHeXF1elkzc2hUb0ZyRnFqdHEyR0hyMUJaQXBrRXdRZl9nMFU3T1lyY2lqQjh0eC1Edk82MjhDZUxaSTNicFhaQlZ3Y0l3YmRDR3F3T3UwbkI?oc=5",
+        "summary": "Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using &nbsp;&nbsp; Gizmodo"
+      },
+      {
+        "headline": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning - Yahoo Tech",
+        "source": "Yahoo Tech",
+        "timestamp": "2026-07-13T18:47:56.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjMxUjZFZjYtZ3llTTNneFd0NW9relM0SVI5MnVDTTdBRy1tY2F1Q3FwUnZWYzlHOXNabU1CdnFYbEhpMlBnODZRNGlMSjNZNWlVSGV4LVZGMmxiVDdfMkQzbDdQMkpGaHNHY0xJaHFDaTV4V0RwOXVQVVByMXp3dVdWczdEVGNVR2dVQg?oc=5",
+        "summary": "Meta’s Ray-Ban Smart Glasses Have Officially Earned the Public Nickname “Pervert Glasses” Amid a Massive Privacy Reckoning &nbsp;&nbsp; Yahoo Tech"
+      },
+      {
+        "headline": "What Anthropic’s latest AI discovery does—and doesn’t—show - MIT Technology Review",
+        "source": "MIT Technology Review",
+        "timestamp": "2026-07-13T18:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV04xbFRXMFBkWFJ5X3pobThNNmIwNW93RERIMTRKSEJSYThfY3JiNGU4WE5sZXRfUm1CbWVyVFJVVVJ6THEyY0FfdHBSb2lyLUtQOGk4aVRmNFNWd29odzlDbzk0emtfeWlLM2ZYOHBTSDNReXg5UUtvRE81TUJ3S2RDazhvTFN2Vm8wZkxEVEZZR1F2UUkteTJIZ3c5OWdIUFBJZjhpcWxtaHlub3fSAbMBQVVfeXFMTldHYkFfc3RVLTdKNzFPZDFiak9aV0JMN2JoSlpMdHZrejlWVzBWUTNMYlZSTG02M2RpeHV5SGtNZk83UWllRTg0NVUtaGZDY3F5TVMwRy1fd081WDM2eVNWVlU3VEZEbEs1RDFlbndKZndBY1hTQ0U2OWxkUzdKcmtFOHVCeDNnMks1R0UtQ1JaaG9PS1E1OEppemx3dzdIemNneFNDQi1SbHBMNnkxYWFUUm8?oc=5",
+        "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show &nbsp;&nbsp; MIT Technology Review"
       },
       {
         "headline": "How Claude's values vary by model and language - Anthropic",
@@ -140,24 +158,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWUtoeVJ3VEY3RWJXYXBvTDVIajF4d21PUzRLYkEzNHl6T29MTjdkRGNEblAzVnBBa2FYS2pQWXFUM2pJZHNSMExhZFJxS3RxWklWTXI3WHl6WUk0TFQ5MFJsX0NoLTJ4NFBnUXJCOU9xVFcybXBDbFpnZHZBQTFMcDB4NldLUDFvNElNb0lRSzlFNHE2U1JhREdSRTBfTExjUWFCTThoYjBMeDJabGw0eWFXRmFwSHhlNmU0aDBySFlMU1BIV291aU14ejBCMWJDOXZJSDRfSQ?oc=5",
         "summary": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP &nbsp;&nbsp; The Register"
-      },
-      {
-        "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-07-13T15:34:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmFacXVma1BoV2RmOXgwdFdpdEhlOHphVnVyWk5RRGxJYWpmM0t4d3BpUEpnRGNQbGJSTVZLeWdXdlJEZlV0QXdtRGJxMmR6SzJTN0JSUWdQMWFPemJMbnBjTUNPLThnaVFQTzMtdGQ0NEtoUUNmODdjaHZ1aWpHeWkzeXdfY2VsOWtiVU1WS2NieTQ4Umt5cnZvZl9HOFRLVVpTNXJIdXQtZUo1eGNNWDJIVjY0Z2FSMXZn?oc=5",
-        "summary": "Anthropic starts localizing Claude pricing for India, its biggest market after the US &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Here’s Why Anthropic Extended Access To Claude Fable 5 Extended—Again - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-07-13T14:48:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXc2RnNtV08tVUtmMmdOUE1DbVVqM1ppYUpKX2YwRmtxZ2gtZU1oN1ZkX0pKVFNSTW5hLWJMaHV5T2I2V1BnZWNsVzd3UW53SXhuZ0V1S0VraXQ5bC0weGZWaDRqbFpwOWZpS1VGWjZSQ3hfT2xwUk9CNlBld1pSZXhVaV9hUDdEd2pCeGFwbTZwUHB0SVZjVk5QUTM3TmR6UlhsTUFFRXhqeG5vRmFHTWZURjVNVmIzUzZTSjlsbkVHV1BVMmJj?oc=5",
-        "summary": "Here’s Why Anthropic Extended Access To Claude Fable 5 Extended—Again &nbsp;&nbsp; Forbes"
       },
       {
         "headline": "Microsoft (MSFT) Is Turning Partner Integrations Into A Bigger Enterprise AI Footprint - simplywall.st",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
