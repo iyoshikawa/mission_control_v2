@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-15T14:48:10.382Z",
+    "generatedAt": "2026-07-15T16:19:48.552Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
-      "summary": "Explainer: Who are the Houthis, Iran’s allies in Yemen? &nbsp;&nbsp; Reuters",
+      "headline": "Wall St rises with earnings in focus; PayPal jumps on takeover bid report",
+      "summary": "Wall St rises with earnings in focus; PayPal jumps on takeover bid report &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-15T13:07:41.000Z",
+      "timestamp": "2026-07-15T14:37:50.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5"
+    },
+    {
+      "headline": "The US army veteran and the mystery Boeings flying Sudan’s war routes",
+      "summary": "The US army veteran and the mystery Boeings flying Sudan’s war routes &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-15T14:24:12.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVc1NmFxVExaS01uQnJoQVF0MnZmVC1Wbk5nUDY3UllSUXpvVVRBRWwtekJ6OFpyTzI0U1VPWEw3ekE5bERROUc0ek1YX1ZaZnJxbENkalNpamI5ZlVLUHBCcG1yOFp0YWg4ZmJ1eHZ2cWFPM1czOXdfNmVIZHZPVmx5VXNENkMwZDhyT2tIS0JXMkdnZjdNbDJvY1hENVpPUFdUeWJtRnRQYnExRW5nY3dFU3YxOWZGOUlUUVNiZmo?oc=5"
+    },
+    {
+      "headline": "Most Gulf markets subdued as US-Iran tensions escalate",
+      "summary": "Most Gulf markets subdued as US-Iran tensions escalate &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-15T14:04:20.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlNacW1UNG02N1NsaVBTOTItamQweS1QSk1uRGdYZXNsOERtOXJubEYtMEF6Yk9FcEZEeDFTWXQzdDkxUENUck05ZjJqLXVJRklDQS1jcEd5dXNObFhkUmQtTTNZRU1DTU5CUExram84anBsTGhvVVJnSVZuaGlmMUNPWmt5NTloVXhWOS1fZ1JfQkRsdmpqWUVQR1prbHdoak9qQ2pyLXRtSUZY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUxLaW9PYWVNQjdpNXZiZ2U1RWNYRllQQm1WbkJrQWJWUDRGcXpneXZVUnRqajVtVmtWS0QxNHh1Vjc3cFZwaTVyZGRwSmpPamRrX0VMWVFPczRlTXFsem9aSFJzbDVsUFVTdHZuLXdEWG5pT0RtdEpPVlk5LUFOSjFIQmxWSWpNZnhsM0owYzNyZ01HMmJVMDhVWFdObFYtcGhZNTgyVnlRMmI4SEpnNFlPVVlRMDV0ZGFMZVVZR2JRdTBsUVVmaTJsOA?oc=5"
+    },
+    {
+      "headline": "Brazil braces for new U.S. tariffs as Washington broadens trade push, sources say",
+      "summary": "Brazil braces for new U.S. tariffs as Washington broadens trade push, sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-15T13:01:16.000Z",
+      "impact": "HIGH",
+      "region": "Latin America",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDlpa29KRTdDWTB6cEVwbEdWMGJ4c1VLWjMyUXNyUzB3UktBY0pIY0dkZkR3RTdOZkJKNlpUUWNtb1dqSUlCcXpRSlN3MDFjYjJDcVVxSWxXaXk0Vm1qZmJXb2l5b194d3UtdnQ5eUFZelBmNFFvd2kwQnVnRDdDTTI5dzZNMWhsX1RsakpjZUdrOUg2STctSm1qLW5wR3pvajNXM3VpeXJqV1VORU1LNEZ2eFNSVGdFQXhLY3NSUQ?oc=5"
     },
     {
       "headline": "Israel kills four people in Gaza, including a child, medics say",
@@ -56,17 +89,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2kzU2cwR0FiODVZSXN2Y0h0MFd3MVJndk9TYmFaNzJldXhaVXdWYkJiejdhY3l6VVRXTEoxaFZmWUhySWx1WWpZRmlwdlFXZ3prTTdnNHQyZlVkYVhhOGdiQU5Lc2liMy1hRlJ6Tll3RFpLWmtZU2U4SGNPUGlBX1hnbG5OcVhHcUlIc01nS2d4dklhMXdOUE11eHAzS0JRQ0hvNEp0THpuaUpQblJMM0ctT2FHOGpES1E?oc=5"
     },
     {
-      "headline": "Ukraine reshuffle puts defence minister in focus as war grinds on",
-      "summary": "Ukraine reshuffle puts defence minister in focus as war grinds on &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-15T11:01:30.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5"
-    },
-    {
       "headline": "EXCLUSIVE: Former DP World boss Bin Sulayem takes charge of Malaysia MMC Port, memo shows",
       "summary": "EXCLUSIVE: Former DP World boss Bin Sulayem takes charge of Malaysia MMC Port, memo shows &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -76,28 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkpvcGptem1LQ0tCczhhcFE0d2thU1FKdmtVV3VRT2JmMTYwaXlJNFdsdWFvSGZXU0p3RWNmMnRKVTFUX1dYc28yUHNESXpLOFQwRWt3SWJ4RTFvMmF0WnNXQ1pPUnQzU3B6NUlwRm91UjZJWWU3WV9sYWZra2MyajVuRFZGbW5rcURSQ2dBcy1fWE5uRm9yOEdmWEtNNlAxS1VpRWFfRUdHZmtFMzRYSUFVZHo0Z29pdzJYTlNabmFUYmROMnhhbw?oc=5"
-    },
-    {
-      "headline": "Japan refiners to diversify crude sources, explore support for Hormuz bypass routes",
-      "summary": "Japan refiners to diversify crude sources, explore support for Hormuz bypass routes &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-15T10:41:19.000Z",
-      "impact": "HIGH",
-      "region": "Japan",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWp2dE9rM2pIbG5lRURsTnVvRXFuRWRCanlLTW9uMWhReXlmZHUyTWMtbHNqSVQ1T1NybTFGSmtOMGd3M1RCWmFGYUpkenlRREpoQWdkR3dtekZ1eFNMczBXYjlzMGFEb0ctUmQ1SFZKNGlQNGd6NXFkYW4zSFFQUWVJbDVGaEZ5dXNwTmk3SUo5Rnk5MTBfY3hmVkh6eHEwNDJyQ2lXRXJLSjIyNHFoRHhpZjhlV1kzNXV6TGJRTzR4T2JMZVE?oc=5"
-    },
-    {
-      "headline": "Indian shares edge higher as financials lead; U.S.-Iran tensions cap gains",
-      "summary": "Indian shares edge higher as financials lead; U.S.-Iran tensions cap gains &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-15T10:16:49.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2xmYXQ2eWtSM3VTZm5TSGU5amlPMGxoeGtKNXVEaUhqbmdienYzLW5ia1V2cG5YTUVvNUJWZkhqRVZqRFZCN3Brc1NscVNNZjRpX3JXeUsxM1V1RHhzX2d6cGJpdmZ5cjRsUzJiMU55X3Rwdmh5bENZUDZSSkFOblBaVTB3WFRzVW9kNFJpRTVFREFFV0pEUDN6OWx3REZvWTBPT1FGc3VhdjhWcnNVUzFnSXhIZ0lt?oc=5"
     }
   ]
 }
