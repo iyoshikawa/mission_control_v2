@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-15T10:06:02.527Z",
+    "generatedAt": "2026-07-15T12:18:18.135Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-07-15T09:00:00.000Z",
+      "headline": "Inside Anthropic's State-by-State Plan to Ratchet up AI Rules - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-15T12:04:49.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Inside Anthropic's State-by-State Plan to Ratchet up AI Rules &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHgyNW4yeTVXekxUQkZ0VktibnJFdXpKSFJNSDBRUVVmWkdhaUNGVFhmLUZ6aFdaTVVtNUQ5MlFoM05tcmhUclRsWmtxSDhfUDdIUVVJcHh2MWhPUVBCOFJaNzNmaXBlY080V3ZHY3JyM0xob3F3Y3M2bzNFWVRpakgzRUJXSVhySjBMY0Zn?oc=5"
+    },
+    {
+      "headline": "The hottest AI models in Silicon Valley face a powerful source of competition - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-07-15T12:02:18.000Z",
       "impact": "HIGH",
-      "category": "market",
-      "summary": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss &nbsp;&nbsp; WIRED",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5"
+      "category": "models",
+      "summary": "The hottest AI models in Silicon Valley face a powerful source of competition &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1hWWUU0R2dWOFBNWUcwRHBZdm91YldIOWV3N1hWZUZoaF9sVll6R1BmVWxrbEhpVjQ1RnRqSXh2b3QzRmhKN25pZFo2NG5mTjZ2SEpfeERZay1lVlZyWmxKay1YTkRmc01lUjJkdkNWZ3RRaWlHaHlEVVJoNWptSVFVS3B5VXBXX2RqRHBxcUY4QVBSNUVia3pDWmFTRVpnYkNkVnhLTW5xYkc2UzJxc2MzeHVxcHpTSURR?oc=5"
     },
     {
       "headline": "AWS retools Security Hub for AI and multicloud threats - Help Net Security",
@@ -42,6 +52,26 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnA0Z0hHLWQybGtTd0QteUdEcUQ4SGs5S3k1TXFXWVZnVXJva01ZRzZSWDZERTlwd01jbFBEMWRZUU1HQzd1ZUZmMTUzUlA0VWc5U0h4dTM3bGRpaWZNZHdFQWp5Ry15Ni1SOHQ2SGJhTHVYZGQ1YzM1UHFlWFBzd2tXUmtDNGRuWFR0YUF0NENqRWNRMWJGSzZxR0VZd0VYZ2Z0T1ZHZWpzQTA4RVZN?oc=5"
     },
     {
+      "headline": "New Report Analyses Global Microsoft Azure AI Accelerator, CPU, DPU and Quantum Processor Deployments - Supply Chain Digital",
+      "source": "Supply Chain Digital",
+      "timestamp": "2026-07-15T07:46:58.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "New Report Analyses Global Microsoft Azure AI Accelerator, CPU, DPU and Quantum Processor Deployments &nbsp;&nbsp; Supply Chain Digital",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMVRQbXRoNWZkMDJJVmhNYmY4SkM3NVRJM28yYWplNnFuM3pNT2VGTHlScUZCS0ZROC0ycVowWTRvYk1wMFg3ME1zS2ItNE5ZZGRIWDUyX2s3R3hVaURsdHpn?oc=5"
+    },
+    {
+      "headline": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-14T23:36:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims &nbsp;&nbsp; The Guardian Meta used AI to target workers with medical conditions for layoffs, lawsuit claims &nbsp;&nbsp; Reuters 26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave &nbsp;&nbsp; AP News Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs &nbsp;&nbsp; CNBC Lawsuit claims Meta’s layoff decisions were made by AI, not humans &nbsp;&nbsp; Ars Technica Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs &nbsp;&nbsp; WSJ Lawsuit Says Meta's AI Use Resulted in Unfair Layoffs &nbsp;&nbsp; Newser Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims &nbsp;&nbsp; Futurism Meta’s AI Layoff Algorithm Reportedly Ranked Workers With Medical Conditions For Termination, And 26 Employees Are Now Suing To Block It &nbsp;&nbsp; Wccftech",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenpoTkh5ZFJ1OW13VUdZRWFmQWE5MHlMQVBieFV5TTR5ZG9CWTMzcWwyaW95UjNWNmo2aEhISUxZV2Y3eDNhc2pKc0NFeHJ1TjcySExnQUs4QUlwZGhUUjdQQnZlMm9Yck9aZmhhSkVoZGJPOHBnWDVjNUtSZTBwOGVwR01SUQ?oc=5"
+    },
+    {
       "headline": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-07-14T20:52:15.000Z",
@@ -50,6 +80,16 @@
       "summary": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHphUl80MV93dEdWUTFUelkxbFd1QktjLWhTVjdnVk9yNXBrRkYyUTFYdGRSMXltRUhnRHJvYjF3eEk0b3BEU3ZscllTajVaSWE1NmxqNnluTGthNzRoTG1NVXV0bVNhRHU4ekxDUmRjdDFvTndaY3Uxdm9yVllJWXBSdmNlVnQ1V0xVM19NNHRmMkNvTE15OFdUa2pxSjVkcnlNekUzMmNjUEtpRmhaWmc0dG1wOEk5V3pZVkR5bTNybDZXU0Z2Wndn?oc=5"
+    },
+    {
+      "headline": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-14T20:05:47.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog &nbsp;&nbsp; Axios",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw?oc=5"
     },
     {
       "headline": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure - Amazon Web Services (AWS)",
@@ -70,58 +110,27 @@
       "summary": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections &nbsp;&nbsp; SiliconANGLE",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY08wRjA5YmRSdE9tZlE0X2pvVDNtMXFzZ2E5R2Y5bW9rYkIxRHJWdC1POHNGaHFNX1FOY0lxSEZ3R3JUNEVjMkVEZFdjSkY5b2R3WkhHV3Jyc1V4VzFRTTJLdnhyU2xWa0trRDhxN3NLWFU2RXgySTUwZllsMllfa2xDNDc4YXdtWGs4eVZXZFdXcWNDYW9EYjF1Zy05emNEQlBrYkZrMXdtR2c?oc=5"
-    },
-    {
-      "headline": "DeepMind CEO calls for an independent standards body to regulate frontier AI - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-14T17:45:55.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "DeepMind CEO calls for an independent standards body to regulate frontier AI &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVZxd0xwQWU3MkVrdXRWdEtoQmI4dkV3amxObjNlRGRSZTMzQkR1TUhIUHYxSkZWYXBQTHFha1VyWll6MWU1dUs1X2dXbk5Xck1rWHJTNVg0b01USVdpUWVGNjFWSUlfOXMyOEhmNDd0UG9PaFJkWWt6RVZwVVh4OFY2RURUZTBHdVlOMVpDUmxfc3V6UEFrUlk1R2NmZTNYY3VFUVBQcnk0MVhaT3ZzRw?oc=5"
-    },
-    {
-      "headline": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-14T17:02:52.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog &nbsp;&nbsp; Axios",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw?oc=5"
-    },
-    {
-      "headline": "How to manage AI investments in the agentic era - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-07-14T17:02:24.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "How to manage AI investments in the agentic era &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ocjdrY0kxTTl6QW9lLVJaR0RjdVNaWXoybW53ZENBY0xHa3VJNFVpUWVxamlRV2dXX1BoT3ZfN1NwVFdmY2w2RDFwVlQtbVp0YzlFLWhKd05sMktZVzJ6M2xfUlVDc3BwaEJSOW5MUGpEQQ?oc=5"
-    },
-    {
-      "headline": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-14T16:44:13.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims &nbsp;&nbsp; Reuters Meta used AI to tag workers who took leave to be laid off, lawsuit claims &nbsp;&nbsp; The Guardian Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-07-15T09:00:00.000Z",
+        "headline": "Inside Anthropic's State-by-State Plan to Ratchet up AI Rules - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-07-15T12:04:49.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHgyNW4yeTVXekxUQkZ0VktibnJFdXpKSFJNSDBRUVVmWkdhaUNGVFhmLUZ6aFdaTVVtNUQ5MlFoM05tcmhUclRsWmtxSDhfUDdIUVVJcHh2MWhPUVBCOFJaNzNmaXBlY080V3ZHY3JyM0xob3F3Y3M2bzNFWVRpakgzRUJXSVhySjBMY0Zn?oc=5",
+        "summary": "Inside Anthropic's State-by-State Plan to Ratchet up AI Rules &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "The hottest AI models in Silicon Valley face a powerful source of competition - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-07-15T12:02:18.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5",
-        "summary": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss &nbsp;&nbsp; WIRED"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1hWWUU0R2dWOFBNWUcwRHBZdm91YldIOWV3N1hWZUZoaF9sVll6R1BmVWxrbEhpVjQ1RnRqSXh2b3QzRmhKN25pZFo2NG5mTjZ2SEpfeERZay1lVlZyWmxKay1YTkRmc01lUjJkdkNWZ3RRaWlHaHlEVVJoNWptSVFVS3B5VXBXX2RqRHBxcUY4QVBSNUVia3pDWmFTRVpnYkNkVnhLTW5xYkc2UzJxc2MzeHVxcHpTSURR?oc=5",
+        "summary": "The hottest AI models in Silicon Valley face a powerful source of competition &nbsp;&nbsp; The Washington Post"
       },
       {
         "headline": "AWS retools Security Hub for AI and multicloud threats - Help Net Security",
@@ -142,31 +151,22 @@
         "summary": "Inside Anthropic’s state-by-state plan to ratchet up AI rules &nbsp;&nbsp; Politico"
       },
       {
-        "headline": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-07-14T20:52:15.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHphUl80MV93dEdWUTFUelkxbFd1QktjLWhTVjdnVk9yNXBrRkYyUTFYdGRSMXltRUhnRHJvYjF3eEk0b3BEU3ZscllTajVaSWE1NmxqNnluTGthNzRoTG1NVXV0bVNhRHU4ekxDUmRjdDFvTndaY3Uxdm9yVllJWXBSdmNlVnQ1V0xVM19NNHRmMkNvTE15OFdUa2pxSjVkcnlNekUzMmNjUEtpRmhaWmc0dG1wOEk5V3pZVkR5bTNybDZXU0Z2Wndn?oc=5",
-        "summary": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure - Amazon Web Services (AWS)",
-        "source": "Amazon Web Services (AWS)",
-        "timestamp": "2026-07-14T19:16:57.000Z",
+        "headline": "New Report Analyses Global Microsoft Azure AI Accelerator, CPU, DPU and Quantum Processor Deployments - Supply Chain Digital",
+        "source": "Supply Chain Digital",
+        "timestamp": "2026-07-15T07:46:58.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEdqMTZJTTNRTDFzWWJERVRyUTZ5cW9jYVota2xoNnhWU0VKeW95VVg3Ym5pbDRkNmduYm5lN1lLbVZ0dUt4V3FFZV9iTFI3akpqSHVTTDF4STNGMkhqSDVoZXBJR2htdTh6YXVLYnFoT3BOWEZKcGk5enVnU3FtMXBrb19fSFRrTzZNTTVTTlhEM1J3M2ZaOHpNN29MbHFsckNRNlB1Q0JCUEZtN0ZqUmR4RHlfQjI2MVBUTXZDdw?oc=5",
-        "summary": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure &nbsp;&nbsp; Amazon Web Services (AWS)"
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMVRQbXRoNWZkMDJJVmhNYmY4SkM3NVRJM28yYWplNnFuM3pNT2VGTHlScUZCS0ZROC0ycVowWTRvYk1wMFg3ME1zS2ItNE5ZZGRIWDUyX2s3R3hVaURsdHpn?oc=5",
+        "summary": "New Report Analyses Global Microsoft Azure AI Accelerator, CPU, DPU and Quantum Processor Deployments &nbsp;&nbsp; Supply Chain Digital"
       },
       {
-        "headline": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections - SiliconANGLE",
-        "source": "SiliconANGLE",
-        "timestamp": "2026-07-14T19:00:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY08wRjA5YmRSdE9tZlE0X2pvVDNtMXFzZ2E5R2Y5bW9rYkIxRHJWdC1POHNGaHFNX1FOY0lxSEZ3R3JUNEVjMkVEZFdjSkY5b2R3WkhHV3Jyc1V4VzFRTTJLdnhyU2xWa0trRDhxN3NLWFU2RXgySTUwZllsMllfa2xDNDc4YXdtWGs4eVZXZFdXcWNDYW9EYjF1Zy05emNEQlBrYkZrMXdtR2c?oc=5",
-        "summary": "AWS Security Hub expands coverage to Microsoft Azure and beefs up AI protections &nbsp;&nbsp; SiliconANGLE"
+        "headline": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-14T23:36:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenpoTkh5ZFJ1OW13VUdZRWFmQWE5MHlMQVBieFV5TTR5ZG9CWTMzcWwyaW95UjNWNmo2aEhISUxZV2Y3eDNhc2pKc0NFeHJ1TjcySExnQUs4QUlwZGhUUjdQQnZlMm9Yck9aZmhhSkVoZGJPOHBnWDVjNUtSZTBwOGVwR01SUQ?oc=5",
+        "summary": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims &nbsp;&nbsp; The Guardian Meta used AI to target workers with medical conditions for layoffs, lawsuit claims &nbsp;&nbsp; Reuters 26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave &nbsp;&nbsp; AP News Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs &nbsp;&nbsp; CNBC Lawsuit claims Meta’s layoff decisions were made by AI, not humans &nbsp;&nbsp; Ars Technica Meta Workers Accuse It of Using AI to Conduct Discriminatory Layoffs &nbsp;&nbsp; WSJ Lawsuit Says Meta's AI Use Resulted in Unfair Layoffs &nbsp;&nbsp; Newser Meta Used Its Own Flawed AI to Pick Which Employees to Lay Off, Lawsuit Claims &nbsp;&nbsp; Futurism Meta’s AI Layoff Algorithm Reportedly Ranked Workers With Medical Conditions For Termination, And 26 Employees Are Now Suing To Block It &nbsp;&nbsp; Wccftech"
       }
     ],
     "whyItMatters": [
