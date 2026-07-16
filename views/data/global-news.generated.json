@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-16T08:09:42.810Z",
+    "generatedAt": "2026-07-16T10:57:45.515Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "New Delhi tells shipowners not to deploy Indian seafarers on Hormuz routes",
-      "summary": "New Delhi tells shipowners not to deploy Indian seafarers on Hormuz routes &nbsp;&nbsp; Reuters",
+      "headline": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
+      "summary": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-16T10:35:39.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5"
+    },
+    {
+      "headline": "TotalEnergies expects higher second-quarter profit on war-related price rally",
+      "summary": "TotalEnergies expects higher second-quarter profit on war-related price rally &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-16T06:21:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakY3NWpCdEExOENEX0FuREZfZUpNbVpYSFBrZDZ1OUdFSDlhZW03bDUxTHBSSkhMdksxdzdON184VWdVYmtBc081YmtDSFp3bk5GMXVlOS1uVi1mSUxQNjg3b0VsSzFjQ3dmUnhWcmFwd1dsempERFNhbTBfc251VE53azFIQzFhVjhzOC1lbzhldFFfN3ZxMDZURjJpZDFHaExDX2dyWVAtX1NRV1Y3Q0tLX3J1XzFLMGotT3Uwdw?oc=5"
+    },
+    {
+      "headline": "Explainer: Who are the Houthis, Iran’s allies in Yemen?",
+      "summary": "Explainer: Who are the Houthis, Iran’s allies in Yemen? &nbsp;&nbsp; Reuters",
       "source": "Reuters",
       "timestamp": "2026-07-16T06:13:00.000Z",
       "impact": "HIGH",
-      "region": "India",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFlEempFZ2pDNE1qaXVGeGJ0ekZzc1VfSjlROXhuQ3AxNDZGWFNFRlVYdEFjQ3BKTXkyOUNSMWNGRXB6eVZzYjVNU2oyT2F1Y1EzWEJPX3lFNV8xWFNQS2lueEZhVUlMNmRYOTBJc3lHUi16ZmZWRmpiUnZhMWR5T1lGeDRZWjFMdjk4dExJekJnNXJFUnJuUDBmVjYwM09nX2V5VTZhRFlaeFhSM2xmMGFVZEtiaXc?oc=5"
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlNacW1UNG02N1NsaVBTOTItamQweS1QSk1uRGdYZXNsOERtOXJubEYtMEF6Yk9FcEZEeDFTWXQzdDkxUENUck05ZjJqLXVJRklDQS1jcEd5dXNObFhkUmQtTTNZRU1DTU5CUExram84anBsTGhvVVJnSVZuaGlmMUNPWmt5NTloVXhWOS1fZ1JfQkRsdmpqWUVQR1prbHdoak9qQ2pyLXRtSUZY?oc=5"
     },
     {
       "headline": "Iran war leaves crisis-weary European airlines ready for a shakeout",
@@ -32,17 +54,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTZDTDdFekRhZC15N3daNVV3MDJrUXRBN2RsLWdrY0UzdWl3RVEwX0ZKd0ZmeUhWcklqcDl4c1pfMVlZUzdiQnV6dnhqbW5xVHVDd0p2NWNmZGVzMXp1cVFmRXN3czB5bkVFUEdSYkM5bjNRNkE1czBFaTBUUEN0Z1dweHlwQWpNUHhDa2YtVlBCU3NUb2FfSVJ4QUltNWFuQXoyNDNxMVUzRjJ1dU9NZ1RrWkVUSkZ0aTdPWmV0Nk92UQ?oc=5"
-    },
-    {
-      "headline": "Fewer vessels travel through Hormuz as US, Iran continue strikes",
-      "summary": "Fewer vessels travel through Hormuz as US, Iran continue strikes &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-16T02:26:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5"
     },
     {
       "headline": "Concerns grow about tariffs in US sanctions bill on Russia",
@@ -81,23 +92,12 @@
       "headline": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say",
       "summary": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-15T18:56:14.000Z",
+      "timestamp": "2026-07-15T18:52:00.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmxvcGs1aXFWckc4eXhtejF1N0hTeUlYakpDOHRfdTFRUk1ab3lTaXE0QVRNWlUyQnhrWnhaVEsySmE0R0ZuODVuUy1iMEdPbFZxNXotNkF2bU1VeENlZ3kwQTBKU3E3WDYwdnlPT00wZi0zeVplanZIbjZtWjY4TVNqRlBST2VENW1OMzFRb3VGSFgtalZodnF6c2ZPc2kyM1NDeUc3LTZnWUF4SXlaeE1LYzNWcExPamZubmhWRGRLQQ?oc=5"
-    },
-    {
-      "headline": "Uber nears €12.5bn deal to acquire Delivery Hero, FT reports",
-      "summary": "Uber nears €12.5bn deal to acquire Delivery Hero, FT reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-15T18:50:46.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZldpUnNMbzhMcmw0WjBWZk5nMmptTjlDbXRob3ZYaVFEUVpLNkNkY3U2N1hZbUEwYXFHUEpoTUdYOC1PbVhtcVhDUnlZZUN2RndjVkRucXJaT0RFc1ZDU3lWMy14UlVLRDhKMHczSnhJV3pBcWg4SlFreVRUTWdpNmZXdTFRN3d4TTZtaUwzUW4zdGtoRDI5RjFfb3BITFIzNTJTLW1oT3R5dkE?oc=5"
     }
   ]
 }
