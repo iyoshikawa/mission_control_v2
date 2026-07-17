@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-17T10:50:23.103Z",
+    "generatedAt": "2026-07-17T12:12:53.714Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,26 @@
   },
   "newsFeed": [
     {
+      "headline": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-07-17T12:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5"
+    },
+    {
+      "headline": "Apple vs. Open AI Explained: The Battle for AI Gadgets Begins With a Juicy Lawsuit - CNET",
+      "source": "CNET",
+      "timestamp": "2026-07-17T12:00:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Apple vs. Open AI Explained: The Battle for AI Gadgets Begins With a Juicy Lawsuit &nbsp;&nbsp; CNET",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlpJX05nRzh3Tk4yaEJIdUtKWU1mQ0hkVzFMNXhoWTh5b3FFOGwyLWItTXNXRGNRZmhIME5jbjljdEtUTGdkSTQzWWNuVXBUME1Ra0dyQk1NSGhPdEc1eFptdW1SdmZxOUxKTVNkekNIVEJMNlB5anhYRmpnWU5fOGlIcGl1UFhmMnExUXlqZVhFRHBROTFHRW4yUTYzUVVZcUdDMUxZOVZlRTA?oc=5"
+    },
+    {
       "headline": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) - Seeking Alpha",
       "source": "Seeking Alpha",
       "timestamp": "2026-07-17T10:15:25.000Z",
@@ -22,14 +42,14 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakJNN3o3UjZhU1BoOGRKVTdDZ3Fib0JVX2hsX04tejBrNDBtZmJNMV9CcXlJeW5JbEJQREpWcHlmOG1jRHVQYUQ1aTBIak5sSWRKcng0RDlRMmZxZjRMMUY5OUwyTWM1RmFPMnUzYzZFbmNmMW9KMUpOcHUycXZzS2pCd0V2eFRtblphcTlqa0pkZEpuNXgxbGZzSQ?oc=5"
     },
     {
-      "headline": "Apple targets dozens of OpenAI employees with legal letters - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-07-17T10:00:05.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Apple targets dozens of OpenAI employees with legal letters &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5"
+      "headline": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-17T10:07:17.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "China's open-weight Kimi model stuns AI world with frontier-level results &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVrUG9XYnlvdFlrVzlBZWpiV2R2NWxROG9zcVVUclYxcE9yeFdFQUtIU3hmV3Itc2cwS1JtZFZKdXh2WVloQWdvZGdoUUtvdUpiQUF4NmRCNl9MQWFnbTFmOHdVQW9YR2V3YTdFQ3N1bUdBak0xRFVQbmtxU2plNzEySi0?oc=5"
     },
     {
       "headline": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
@@ -50,16 +70,6 @@
       "summary": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5"
-    },
-    {
-      "headline": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-16T22:49:26.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "China's open-weight Kimi model stuns AI world with frontier-level results &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVrUG9XYnlvdFlrVzlBZWpiV2R2NWxROG9zcVVUclYxcE9yeFdFQUtIU3hmV3Itc2cwS1JtZFZKdXh2WVloQWdvZGdoUUtvdUpiQUF4NmRCNl9MQWFnbTFmOHdVQW9YR2V3YTdFQ3N1bUdBak0xRFVQbmtxU2plNzEySi0?oc=5"
     },
     {
       "headline": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models - Bloomberg.com",
@@ -92,28 +102,36 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1VMYU1kczRhQVg2QWRGa29jOTFfNmdDX2lycFdXb0pna2ZpOTBNbGZTVTZYN1lGbHFZRTNjcmdGQjNremlHODJEM09TUjV0S2F3NlpGalJma2RaR2k4WkRXUEk1VXJXX29Iajl0Z2NTVEVqelR4WHZQaElwaXlHaWdoWQ?oc=5"
     },
     {
-      "headline": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI - Meta Store",
-      "source": "Meta Store",
-      "timestamp": "2026-07-16T11:00:45.000Z",
-      "impact": "LOW",
+      "headline": "Josh Baer Reiterates Buy on Microsoft, Citing AI Leadership, Azure/M365 Budget Tailwinds and Underappreciated Earnings Power - TipRanks",
+      "source": "TipRanks",
+      "timestamp": "2026-07-16T12:04:52.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI &nbsp;&nbsp; Meta Store Teens talking to Meta AI about suicide will trigger alert &nbsp;&nbsp; Mashable Meta says it will alert parents if teen AI chats suggest suicide risk &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenlmcEtKWFduQkx4bUFFMktHMEh3c1IxTjBjd0FLOGd4NXRLS1FZTzAwcHpBeUJ0N3o4TkFMOTZIVEdUZW5ETkNodDdqRGRmd2VLUm9lRjV5eUVGZEduMHlCd2ZwTlQ3a0daUWJlZlAxREtzU1pOVkQwQk84bG5NQ1RSQmtDcjAxUEVYT3p2cldoWUlBMzU5NlpIY2_SAaIBQVVfeXFMUFdvRDNVY01RQ0EzSktZYnE0MmRqQV9nYmRMNXQ1YUFKREFsT3JJdlFMeUw4SVBPaUN0MVhBYWQxTVpyRkxtZXlldTR6b3FmMmNkZE9zeThhTXJKZ2hVSzN5Nl93Ty15cmhtT0tXYXNFenBwZUZlUzNRMk5XOHZzME5sNFh5dEV3anZlZDdEem0yQnQwbWItcGFaVkRiMXRRV3N3?oc=5"
-    },
-    {
-      "headline": "Our approach to bioresilience - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-07-16T10:06:45.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Our approach to bioresilience &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMVlybFJpR2w4ajFxY1h2QnZLcVd4dXpid1loaDhqOEJmUnhPbGljVHlQdy1Kd24yTVJJYXpfQ09ibC1ieVlkelNCYzlUMGE0RU04LWVNOUdtZmhZWkJpLWNnRkNsaXh6X2Fn?oc=5"
+      "summary": "Josh Baer Reiterates Buy on Microsoft, Citing AI Leadership, Azure/M365 Budget Tailwinds and Underappreciated Earnings Power &nbsp;&nbsp; TipRanks",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQenM0QWtUd1p4d2RQaUU1Nm1ZYXdXVFFXVldsU1NneE55Znlya2QxRkhNeUF4UzlZeUlOSVdTcFZtVGt5dElpdTZyRHpzLXctYUllc2d0OEpmc2FhWUpsT0VUTU1JSl9ia3hXb2JyMXcxRmxyXzdQSll1Y254VmtlLVJ3NGtfRmhMdVFZNHZwS25xdzF2SC1fcG1JaWZFak5EQS1HOGozWXdSNEFSZTFXazU3U3pueXBodTQtbUxYX3RESURGejBxbWtaTFJENXJNa0RWaTNuREF6cHdHc1VkbFFWTmI3eWNSV0xsZVlfajdwVkdKLUItckdseFBNRHY5RURB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-07-17T12:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
+        "summary": "AI Is Becoming a Commodity, and That’s a Problem for OpenAI and Anthropic &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Apple vs. Open AI Explained: The Battle for AI Gadgets Begins With a Juicy Lawsuit - CNET",
+        "source": "CNET",
+        "timestamp": "2026-07-17T12:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlpJX05nRzh3Tk4yaEJIdUtKWU1mQ0hkVzFMNXhoWTh5b3FFOGwyLWItTXNXRGNRZmhIME5jbjljdEtUTGdkSTQzWWNuVXBUME1Ra0dyQk1NSGhPdEc1eFptdW1SdmZxOUxKTVNkekNIVEJMNlB5anhYRmpnWU5fOGlIcGl1UFhmMnExUXlqZVhFRHBROTFHRW4yUTYzUVVZcUdDMUxZOVZlRTA?oc=5",
+        "summary": "Apple vs. Open AI Explained: The Battle for AI Gadgets Begins With a Juicy Lawsuit &nbsp;&nbsp; CNET"
+      },
       {
         "headline": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) - Seeking Alpha",
         "source": "Seeking Alpha",
@@ -124,13 +142,13 @@
         "summary": "AM Markets Need to Know: Meta's AI push, PayPal bid, and more (SP500:) &nbsp;&nbsp; Seeking Alpha"
       },
       {
-        "headline": "Apple targets dozens of OpenAI employees with legal letters - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-07-17T10:00:05.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5",
-        "summary": "Apple targets dozens of OpenAI employees with legal letters &nbsp;&nbsp; Financial Times"
+        "headline": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-17T10:07:17.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVrUG9XYnlvdFlrVzlBZWpiV2R2NWxROG9zcVVUclYxcE9yeFdFQUtIU3hmV3Itc2cwS1JtZFZKdXh2WVloQWdvZGdoUUtvdUpiQUF4NmRCNl9MQWFnbTFmOHdVQW9YR2V3YTdFQ3N1bUdBak0xRFVQbmtxU2plNzEySi0?oc=5",
+        "summary": "China's open-weight Kimi model stuns AI world with frontier-level results &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5",
         "summary": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "China's open-weight Kimi model stuns AI world with frontier-level results - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-16T22:49:26.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzVrUG9XYnlvdFlrVzlBZWpiV2R2NWxROG9zcVVUclYxcE9yeFdFQUtIU3hmV3Itc2cwS1JtZFZKdXh2WVloQWdvZGdoUUtvdUpiQUF4NmRCNl9MQWFnbTFmOHdVQW9YR2V3YTdFQ3N1bUdBak0xRFVQbmtxU2plNzEySi0?oc=5",
-        "summary": "China's open-weight Kimi model stuns AI world with frontier-level results &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-07-16T20:17:36.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnV1SzhvODhNX0trREFnR0Vfcm9VYjBleHJmUzlCWHJYOGN2Z2Rac2o0WmVrMDZHdFkwOUo4R0ZhRmV6UVFLU252Q1lkR29rNlhHQy1FZUtNbjh0UmhpMnIzb1dEV0RsY1VScGhpcDBRcUZpR2NCLXRqYzRNRTRPUkpCa3F2UjM2VlJlUjJ6a3h1MDJrSEdDXzBhVnMtSnVCekFnNmNBckZWZU9vVXZTUllPQTJrWnJaRFE?oc=5",
-        "summary": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
@@ -190,7 +190,7 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
