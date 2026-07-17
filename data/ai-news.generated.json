@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-17T14:45:52.327Z",
+    "generatedAt": "2026-07-17T16:17:54.999Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-17T13:30:07.000Z",
+      "headline": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-07-17T13:38:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value &nbsp;&nbsp; Axios",
+      "summary": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT08zNUlmQ2ljMHF6ZEQxQTZQZGEzcXZlRUNJX0h2Rk9pTUdYa01LWEVhY2dTSFhvTXp6UUUyV1J5eUZYcUx3dlJicm8tVWszd0ZKZWhKQUNHREpUUFhHSFF2YWllMTdqbVN3dQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5"
     },
     {
-      "headline": "AI critic Ed Zitron warns OpenAI collapse could crash markets - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-07-17T13:18:45.000Z",
+      "headline": "Chinese startup Moonshot closes in on Anthropic with world’s largest open-weight AI model, Kimi K3 - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "timestamp": "2026-07-17T13:06:39.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Chinese startup Moonshot closes in on Anthropic with world’s largest open-weight AI model, Kimi K3 &nbsp;&nbsp; The Globe and Mail",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRG9wT1B6alAxd2JDQU8yTEFETkVSVGczeUc0aU9aMkVMTFRKMm1fdG85b08wMW9CdFoxYXNmd1UzZzRyVHV5dk5KWW41UWNHSXEtTnpKdTZFQXVyN0ZpZVVwenZZQWF3RTdUX1loYm5WZFpaQXBnd3hISURuZ19QWXVWbVIyMjBzaWZHaW16U3pKX2pSNVFGYVl6Z1B3S09zbUdvTi1IOV9aNExqNVBCQ0RXWHpwTnVGZ2pNaWJB?oc=5"
+    },
+    {
+      "headline": "Apple targets dozens of OpenAI employees with legal letters - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-07-17T10:00:05.000Z",
       "impact": "LOW",
-      "category": "market",
-      "summary": "AI critic Ed Zitron warns OpenAI collapse could crash markets &nbsp;&nbsp; qz.com",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YY01yNTFFZEpBb2dobTlRN1B4dG8yelR4LXcyRnAtdjViS09mS2JuX1pFb2tsOUV3UGhuR2Y1X0wtOF9tZTJOSGhIRUxMV29yOEhHeE1zOVdEZldiR05KckpBOThEakhmUWlVNEpkc0hIendFaFg3ZllR?oc=5"
+      "category": "ecosystem",
+      "summary": "Apple targets dozens of OpenAI employees with legal letters &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5"
+    },
+    {
+      "headline": "China just erased America's AI lead - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-17T09:57:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "China just erased America's AI lead &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWJqOC1kUFBxdFpkVUV2RmdjaFdGQnlaRFQtdTQzLUNmN0ZkbzF4NWJEWEFwTDZiSU1oNGhvY2R2UnhlZHpzNC1jWGFnOWpNVEZJWEpBMzdwY3pSVUVWSzIwQk9mYUk0bWJ6Zm5QRXZITHVLdDlKanhfR2l0RTFFajNn?oc=5"
     },
     {
       "headline": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
@@ -62,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFR3Mk1peGVuWXZUcjAzcjNZbjh6MlBLbl81T05rSWtvdXNfYi1zYW1IUGxVLWdhYzRYY2JobVd6VHZicjJMOUJRTlpxV00zOF8wQ3VtR0otNy1mNlZuX1pyVjhPemZZTERySGlZRk9BU1RRT1RTQTBuQ2k5Sk5EQjBfUXE1Mm9KMVp0bTRtZkJxeTdJYkFXeHZmaEp5MkY5VzhWTQ?oc=5"
     },
     {
-      "headline": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-16T14:26:29.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGljNFJ6U2NlZXQwdzQ3MWVBQ1dRZnNVV0w1Mk13SXJCbmU4b2ptdnpubS1CZFAxNDdzQVhZZDg1QVdXbjlaRi10ZEQ3MTE0NmQ4OEZTUWhmQUZORUQ3clkwdnloY1BZTE9TT1ROaHhpQjBxc3F3YVlRc0Z6WmNNd1U4MjJFT3N0TTFGUFppQ0tJcWlyZVMtLVlORVFsVVloQjNXM3JwWDhYY0t0V25QS0drVXU?oc=5"
-    },
-    {
       "headline": "Josh Baer Reiterates Buy on Microsoft, Citing AI Leadership, Azure/M365 Budget Tailwinds and Underappreciated Earnings Power - TipRanks",
       "source": "TipRanks",
       "timestamp": "2026-07-16T12:04:52.000Z",
@@ -100,37 +110,45 @@
       "summary": "Our approach to bioresilience &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMVlybFJpR2w4ajFxY1h2QnZLcVd4dXpid1loaDhqOEJmUnhPbGljVHlQdy1Kd24yTVJJYXpfQ09ibC1ieVlkelNCYzlUMGE0RU04LWVNOUdtZmhZWkJpLWNnRkNsaXh6X2Fn?oc=5"
-    },
-    {
-      "headline": "Exclusive: Google DeepMind expands biosecurity effort amid AI safety push - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-16T10:00:39.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Exclusive: Google DeepMind expands biosecurity effort amid AI safety push &nbsp;&nbsp; Axios",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80MG5QTmlJdzlDSmR1TDc2bF9lUmVvVE90b1Z6ZzZWZkFKaDNwNmZ4d2ZhOWJoS3BQejVEZ3JtOERDYlQ1UkYtdkhJWVB0U2lnUFZCTWhjbGpnMkI0TEplUVBFMGEzb2d4em1UbEpUSVJPaTBWWGc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-17T13:30:07.000Z",
+        "headline": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-07-17T13:38:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT08zNUlmQ2ljMHF6ZEQxQTZQZGEzcXZlRUNJX0h2Rk9pTUdYa01LWEVhY2dTSFhvTXp6UUUyV1J5eUZYcUx3dlJicm8tVWszd0ZKZWhKQUNHREpUUFhHSFF2YWllMTdqbVN3dQ?oc=5",
-        "summary": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSeWJBNG5TTE9zVV9URzRmX1huMWJkSW11Q2J4azZ0WXpVczR6Z19yMkFjNU1ZNXgxWjNfYkFETk1QZUR0LVpLYkhhRDFvV3FPWFlnT1pvTmdKQVJBOEU1UzFHLWViQ29zRlM3ckVqMVRDRnp3dlhJbW1uc21wLUU?oc=5",
+        "summary": "AI’s Wider Availability Is Good for China, Not Great for OpenAI and Anthropic &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "AI critic Ed Zitron warns OpenAI collapse could crash markets - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-07-17T13:18:45.000Z",
+        "headline": "Chinese startup Moonshot closes in on Anthropic with world’s largest open-weight AI model, Kimi K3 - The Globe and Mail",
+        "source": "The Globe and Mail",
+        "timestamp": "2026-07-17T13:06:39.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRG9wT1B6alAxd2JDQU8yTEFETkVSVGczeUc0aU9aMkVMTFRKMm1fdG85b08wMW9CdFoxYXNmd1UzZzRyVHV5dk5KWW41UWNHSXEtTnpKdTZFQXVyN0ZpZVVwenZZQWF3RTdUX1loYm5WZFpaQXBnd3hISURuZ19QWXVWbVIyMjBzaWZHaW16U3pKX2pSNVFGYVl6Z1B3S09zbUdvTi1IOV9aNExqNVBCQ0RXWHpwTnVGZ2pNaWJB?oc=5",
+        "summary": "Chinese startup Moonshot closes in on Anthropic with world’s largest open-weight AI model, Kimi K3 &nbsp;&nbsp; The Globe and Mail"
+      },
+      {
+        "headline": "Apple targets dozens of OpenAI employees with legal letters - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-07-17T10:00:05.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YY01yNTFFZEpBb2dobTlRN1B4dG8yelR4LXcyRnAtdjViS09mS2JuX1pFb2tsOUV3UGhuR2Y1X0wtOF9tZTJOSGhIRUxMV29yOEhHeE1zOVdEZldiR05KckpBOThEakhmUWlVNEpkc0hIendFaFg3ZllR?oc=5",
-        "summary": "AI critic Ed Zitron warns OpenAI collapse could crash markets &nbsp;&nbsp; qz.com"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHVfTTYtWDJJeUZrUkxVX2I5WmtILTZKOGJTbGtrdkhxdS15Z1JPVnExQng2U1ZvVHdiZWJWMGF0dHJBcEVQVVpLbkRuR3Vib1ZocXU2azlzSFNXQW5qSTd6d1l4YTFsRTNQU0R2dUg5czFRQmEtT0E2ZnpRUG45VTBYbnM?oc=5",
+        "summary": "Apple targets dozens of OpenAI employees with legal letters &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "China just erased America's AI lead - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-17T09:57:37.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWJqOC1kUFBxdFpkVUV2RmdjaFdGQnlaRFQtdTQzLUNmN0ZkbzF4NWJEWEFwTDZiSU1oNGhvY2R2UnhlZHpzNC1jWGFnOWpNVEZJWEpBMzdwY3pSVUVWSzIwQk9mYUk0bWJ6Zm5QRXZITHVLdDlKanhfR2l0RTFFajNn?oc=5",
+        "summary": "China just erased America's AI lead &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
@@ -149,30 +167,12 @@
         "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnV1SzhvODhNX0trREFnR0Vfcm9VYjBleHJmUzlCWHJYOGN2Z2Rac2o0WmVrMDZHdFkwOUo4R0ZhRmV6UVFLU252Q1lkR29rNlhHQy1FZUtNbjh0UmhpMnIzb1dEV0RsY1VScGhpcDBRcUZpR2NCLXRqYzRNRTRPUkpCa3F2UjM2VlJlUjJ6a3h1MDJrSEdDXzBhVnMtSnVCekFnNmNBckZWZU9vVXZTUllPQTJrWnJaRFE?oc=5",
         "summary": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Microsoft's generative AI leadership is 'clear,' Morgan Stanley says (MSFT:NASDAQ) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-07-16T16:54:43.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFR3Mk1peGVuWXZUcjAzcjNZbjh6MlBLbl81T05rSWtvdXNfYi1zYW1IUGxVLWdhYzRYY2JobVd6VHZicjJMOUJRTlpxV00zOF8wQ3VtR0otNy1mNlZuX1pyVjhPemZZTERySGlZRk9BU1RRT1RTQTBuQ2k5Sk5EQjBfUXE1Mm9KMVp0bTRtZkJxeTdJYkFXeHZmaEp5MkY5VzhWTQ?oc=5",
-        "summary": "Microsoft's generative AI leadership is 'clear,' Morgan Stanley says (MSFT:NASDAQ) &nbsp;&nbsp; Seeking Alpha"
-      },
-      {
-        "headline": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-07-16T14:26:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGljNFJ6U2NlZXQwdzQ3MWVBQ1dRZnNVV0w1Mk13SXJCbmU4b2ptdnpubS1CZFAxNDdzQVhZZDg1QVdXbjlaRi10ZEQ3MTE0NmQ4OEZTUWhmQUZORUQ3clkwdnloY1BZTE9TT1ROaHhpQjBxc3F3YVlRc0Z6WmNNd1U4MjJFT3N0TTFGUFppQ0tJcWlyZVMtLVlORVFsVVloQjNXM3JwWDhYY0t0V25QS0drVXU?oc=5",
-        "summary": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8 &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
