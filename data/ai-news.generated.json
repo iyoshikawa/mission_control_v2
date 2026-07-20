@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-20T11:48:57.896Z",
+    "generatedAt": "2026-07-20T14:15:05.505Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump administration is seizing control of who can access frontier AI models - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-07-20T11:26:07.000Z",
+      "headline": "Opinion | Open models for AI were inevitable - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-07-20T14:10:47.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Trump administration is seizing control of who can access frontier AI models &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kN3FmM3NyOGxMSzRFZjZ6dEJXMmxQd2pWazRwMjZ5Um5rZ0NGR0Rxbm1EbjNpQVhJekdvdG5oaGlYRG9MNVlKR1NUM1ZLQ2xlS0JRM3N6cU5IbWkwWmJ2WXlXMWdzcllxRGh3TnlqUVhsMGcxZHowMTJhTjg?oc=5"
+      "summary": "Opinion | Open models for AI were inevitable &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
     },
     {
-      "headline": "Amazon’s ROI expected to surpass Microsoft’s in AI cloud spending - Crypto Briefing",
-      "source": "Crypto Briefing",
-      "timestamp": "2026-07-20T10:35:12.000Z",
+      "headline": "Microsoft to deploy AMD Helios AI system on Azure - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-07-20T13:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Amazon’s ROI expected to surpass Microsoft’s in AI cloud spending &nbsp;&nbsp; Crypto Briefing",
+      "summary": "Microsoft to deploy AMD Helios AI system on Azure &nbsp;&nbsp; qz.com",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXNnpLYjhIRWRka3ctZ2tnLURrSHRMYTIyeTR2UWQ1RzMyVjNqZC0zYkc1YUhsZGFOMTFhSG9yd2hxSGJ3b25kTldGREpKVVNZR3Z4bXhidms5czU5MGdWaGNQT3FoM3NEeElVblNVODlJS2M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kckxLSUlKM0l2ZnBleXNzeTFXWkJCMnR0WFd4TFRzdjZZd3dzZ2o1YkQzNGVnUWR3RnNrb0lKMEVIbUdZOG1pYmJoUDgyTklNc0ZzLW9MeUlmRGRSR0NmczN5WHlEUC1qZ1E?oc=5"
+    },
+    {
+      "headline": "AMD rises after Microsoft plans to deploy AMD chips on Azure for AI inference - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-07-20T13:15:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AMD rises after Microsoft plans to deploy AMD chips on Azure for AI inference &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWs4TXNhc3pleXJIUkhRemxDaXMtVGJtVDczZElfam9oTEc0X0JyZlIyX0laR0owY0l1NmNvZnpGUmg2QjN3SWVOMEtfTFhQVjZOaUQwYlUtaXdET0NIbF9KWnhmemEzX2JwRGE5ZDZnN2RfNmUxU08xSmQ3TkFyY2tEV1FXNTIzUm56QzFEWndvRHhMbzRZbk8yWlROVGNGUkhaeXBIdC1UbEstcG92OEhWbF9YQQ?oc=5"
+    },
+    {
+      "headline": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+      "source": "The Official Microsoft Blog",
+      "timestamp": "2026-07-20T13:09:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft expands Azure AI and HPC infrastructure with AMD &nbsp;&nbsp; The Official Microsoft Blog",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbG5XdmVxY090czBnTEhIVU54OFVFeUQ5SmxhVDdka3NBb0tEMzRHNjllRDdwdUJ4OUdndzBlMkotWW4yc2paTU9qWDVsTndIRVU3NnBlRG0wVnB3cWpOR21rd2JKY1hCWGxQSl9fM1hLcHVHTE1UcDVEZV9rT01hVTI0MWxWTVdyTy1ISjFKOFZydVZtVnYtSHlGVlRHM3h0VmRPUkFn?oc=5"
+    },
+    {
+      "headline": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "timestamp": "2026-07-20T13:05:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure &nbsp;&nbsp; Tom's Hardware",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTUc2aURpYjdsN0tuWVRDRGhFX1ZkZjhGYThLMkZtNzVuUFdyMWJta1dGSFI1RTRBT3ptc2hFZEg0MGNrZFhma3l6Q2RFUzZDT0JlNjNHREZpNG1oMlluMXAtY3J6RHA1QUprcEZhLUNzTGY3VVgtUlFJNmtiZVpidHFoc2pTUE5VbWlDYjQ0d3Vpd0hyRmpWaWFEd2RlQVFnaVFmZlYxVVB5a2dLN0UySFNVekYxRE5McERlZV9ybnhnOV9ubnBWZ2diMlA3RUE5OHFTaVpSY3plcDVyYkNsUDd3Z0NKNUF3NFRVNlNiZWtCekc4ZTlSRVo4UHVRcGhkdXFWeXdmb3dTdFpsQS1MUHFJWEV2UXA2eU01SGVON3UyeHctZU1qcmF5YXVaSGVTQjV6eklTUEhlTUZOckRKSFUzT3NLRmVENENtWEVtZTBYZklSUVIxN2UwNlhUbDktVERF?oc=5"
     },
     {
       "headline": "China delivers a one-two punch to America’s AI dominance - The Verge",
@@ -38,7 +68,7 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "China delivers a one-two punch to America’s AI dominance &nbsp;&nbsp; The Verge",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTQ1UEdiYk1ZdGlvRkVOMjJaV083RVhycWt5bUJmMndZczJTY2hzeHIxX05fOUg0SkhCalhCaDBUcFRsN0dfMEVwaTc5bE9UaXUyVHJLLS15ZkY3bS1icGh5T3F6Y3hjZHFLejZXMVFHRFExb1dzVl9HQVFxLVJqZF9zVU9tVm5ONnB0cDVrZkVNcElSRGYzSXRGYi1STlFJUHNVNl8xUHRwekU0VUdTOE9xU2JaX2tSemc?oc=5"
     },
     {
@@ -72,108 +102,78 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbktnY2YzZ0NUVENLNFZJeUcwSF9temhDeWt0UHZKZWFZNlRmRkZsNTdoOTJ5aF9laDFHTzBVU0k3UWRoaVVGcVBiX2tIRnV5X041RGxpb09mdS1UZHBwRjgxbERWaHpEQnFYanExalNEM0NQUklpbGlQcmlVUEdSVmlEemRpZEVpLXFiNlpXS21RaE9HMkh4SFhGR3YyZlVIY1Fqdw?oc=5"
     },
     {
-      "headline": "Parents to get alerts if teens discuss self-harm in Meta AI chats - The Star",
-      "source": "The Star",
-      "timestamp": "2026-07-20T04:00:00.000Z",
+      "headline": "Top Pentagon official blasts OpenAI's Dean Ball - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-19T22:31:31.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Parents to get alerts if teens discuss self-harm in Meta AI chats &nbsp;&nbsp; The Star",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjliYU5LSk5YcEFvSkFrZ2hTb21ZVU8wUmFoa1Q3cmNXWThESE1YOHZySUZseHZUMnFKSGkxUWVsd2FMUHFBZEdjZWZnM0VmSERIM3Fid0Y0R0xBMWtEcGl0aXpJOXhONUFtZlhQT2pSVUZZekdnUE91Tm0tcWEtUUctN3VCVnZTQUFBRUxxWTVucThMNjU1cWlNdC1wZkh5SzZZUmVfVzFyWVhVQnFMdVVJZElHSmlxWlE?oc=5"
-    },
-    {
-      "headline": "Jamie Dimon Says Anthropic’s Mythos Access Debate Is a Warning Sign for AI’s Future - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-19T22:00:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Jamie Dimon Says Anthropic’s Mythos Access Debate Is a Warning Sign for AI’s Future &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjM4WXlybGVVRHVxaHByU0JvbUNXNmwtUGRXVjQ3RkpjVFBUYWdjaEdhNjU5WDNWZ21JVGs3U3REaWoybXBNcnM5T3hZeFAxRHBKQk1fazJYY0FRZGdxYTRaejdTWFY1NFNjX2F4Q2tacDJSbll4VWktTmhXOVROa1lEMElpRURFMFI3VlB0M2NXV1B3WFBhaEVfMDdVdw?oc=5"
-    },
-    {
-      "headline": "Why Apple’s Lawsuit Against OpenAI Over Devices Spares Jony Ive - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-07-19T14:00:01.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Why Apple’s Lawsuit Against OpenAI Over Devices Spares Jony Ive &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOek5YX256a1JPWmJMYms3bUxQeTRrZGppZGRsSktVRDNub3FseWRTZEY4a2ZkN29EejVOWmNnYkRuSjdHWnpkR3N0MDVoNEZ0M0lzUUJOU1h4RlRSLTZVRlVVOVp4dXFsaXNMS3VvNXlMblpvUXV4SVBXb3VvSER0cEJUc2tMOUhIcmZ6OF90N3VsVThBX3p1Y3FJUGlsaERkbkZxcGNnaEpzSzA2VG9BaWZqSnJqMFdiTTdCQmVZSGdYc2xVbGdOTHc4SUVtNVVxSXJZX0k1ekQ?oc=5"
-    },
-    {
-      "headline": "Google Deepmind argues video generators already contain the world models computer vision has been missing - the-decoder.com",
-      "source": "the-decoder.com",
-      "timestamp": "2026-07-19T10:20:24.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Google Deepmind argues video generators already contain the world models computer vision has been missing &nbsp;&nbsp; the-decoder.com",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGNyZXVfbzYxb3VkU0FjU0xrVll5YnY4SldnNDRoSjNQOTNxWEZpSmJLWEJ4WHZDSTc3cmZ0YmZNbjVDdENKS0E1Z2NVVnFabkdYVnZDSG9jQjI0NTRlS2hMaXZ2YlFTODYwczhZa01wbHZpOFpvYlFTMy1NX29LV3FuM3JiT2UtYktaNld3MnJLUFVVQUdjT05jNWhOUG5qbjc5VS01ZUtNRk5OOXE1TFBxOElOM2pvcFpLckNjbkoxcWhwcnJEeGJR?oc=5"
+      "summary": "Top Pentagon official blasts OpenAI's Dean Ball &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tXzZCOW5WWXdHNU1fdVRvUUdaZTNsWlcxTTA0bU1GbDJ0TUxzVnpjVFRJTjlmTEFSYl8xWXJBZHY4TGRoNi1Yb0FoUEROVGpDWk41VUpWekZYYVA5X3ZNWnpUWXRvQjlVa3UtcmRtaHU1dkNrRVE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Trump administration is seizing control of who can access frontier AI models - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-07-20T11:26:07.000Z",
+        "headline": "Opinion | Open models for AI were inevitable - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-07-20T14:10:47.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kN3FmM3NyOGxMSzRFZjZ6dEJXMmxQd2pWazRwMjZ5Um5rZ0NGR0Rxbm1EbjNpQVhJekdvdG5oaGlYRG9MNVlKR1NUM1ZLQ2xlS0JRM3N6cU5IbWkwWmJ2WXlXMWdzcllxRGh3TnlqUVhsMGcxZHowMTJhTjg?oc=5",
-        "summary": "Trump administration is seizing control of who can access frontier AI models &nbsp;&nbsp; qz.com"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+        "summary": "Opinion | Open models for AI were inevitable &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "Amazon’s ROI expected to surpass Microsoft’s in AI cloud spending - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "timestamp": "2026-07-20T10:35:12.000Z",
+        "headline": "Microsoft to deploy AMD Helios AI system on Azure - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-07-20T13:30:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXNnpLYjhIRWRka3ctZ2tnLURrSHRMYTIyeTR2UWQ1RzMyVjNqZC0zYkc1YUhsZGFOMTFhSG9yd2hxSGJ3b25kTldGREpKVVNZR3Z4bXhidms5czU5MGdWaGNQT3FoM3NEeElVblNVODlJS2M?oc=5",
-        "summary": "Amazon’s ROI expected to surpass Microsoft’s in AI cloud spending &nbsp;&nbsp; Crypto Briefing"
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kckxLSUlKM0l2ZnBleXNzeTFXWkJCMnR0WFd4TFRzdjZZd3dzZ2o1YkQzNGVnUWR3RnNrb0lKMEVIbUdZOG1pYmJoUDgyTklNc0ZzLW9MeUlmRGRSR0NmczN5WHlEUC1qZ1E?oc=5",
+        "summary": "Microsoft to deploy AMD Helios AI system on Azure &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "AMD rises after Microsoft plans to deploy AMD chips on Azure for AI inference - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-07-20T13:15:21.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWs4TXNhc3pleXJIUkhRemxDaXMtVGJtVDczZElfam9oTEc0X0JyZlIyX0laR0owY0l1NmNvZnpGUmg2QjN3SWVOMEtfTFhQVjZOaUQwYlUtaXdET0NIbF9KWnhmemEzX2JwRGE5ZDZnN2RfNmUxU08xSmQ3TkFyY2tEV1FXNTIzUm56QzFEWndvRHhMbzRZbk8yWlROVGNGUkhaeXBIdC1UbEstcG92OEhWbF9YQQ?oc=5",
+        "summary": "AMD rises after Microsoft plans to deploy AMD chips on Azure for AI inference &nbsp;&nbsp; Seeking Alpha"
+      },
+      {
+        "headline": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+        "source": "The Official Microsoft Blog",
+        "timestamp": "2026-07-20T13:09:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbG5XdmVxY090czBnTEhIVU54OFVFeUQ5SmxhVDdka3NBb0tEMzRHNjllRDdwdUJ4OUdndzBlMkotWW4yc2paTU9qWDVsTndIRVU3NnBlRG0wVnB3cWpOR21rd2JKY1hCWGxQSl9fM1hLcHVHTE1UcDVEZV9rT01hVTI0MWxWTVdyTy1ISjFKOFZydVZtVnYtSHlGVlRHM3h0VmRPUkFn?oc=5",
+        "summary": "Microsoft expands Azure AI and HPC infrastructure with AMD &nbsp;&nbsp; The Official Microsoft Blog"
+      },
+      {
+        "headline": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure - Tom's Hardware",
+        "source": "Tom's Hardware",
+        "timestamp": "2026-07-20T13:05:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTUc2aURpYjdsN0tuWVRDRGhFX1ZkZjhGYThLMkZtNzVuUFdyMWJta1dGSFI1RTRBT3ptc2hFZEg0MGNrZFhma3l6Q2RFUzZDT0JlNjNHREZpNG1oMlluMXAtY3J6RHA1QUprcEZhLUNzTGY3VVgtUlFJNmtiZVpidHFoc2pTUE5VbWlDYjQ0d3Vpd0hyRmpWaWFEd2RlQVFnaVFmZlYxVVB5a2dLN0UySFNVekYxRE5McERlZV9ybnhnOV9ubnBWZ2diMlA3RUE5OHFTaVpSY3plcDVyYkNsUDd3Z0NKNUF3NFRVNlNiZWtCekc4ZTlSRVo4UHVRcGhkdXFWeXdmb3dTdFpsQS1MUHFJWEV2UXA2eU01SGVON3UyeHctZU1qcmF5YXVaSGVTQjV6eklTUEhlTUZOckRKSFUzT3NLRmVENENtWEVtZTBYZklSUVIxN2UwNlhUbDktVERF?oc=5",
+        "summary": "Microsoft will deploy AMD’s Helios rack-scale AI accelerator ‘at scale’ on Azure – Radeon Instinct MI455X and Epyc Venice power will be available through Redmond’s cloud infrastructure &nbsp;&nbsp; Tom's Hardware"
       },
       {
         "headline": "China delivers a one-two punch to America’s AI dominance - The Verge",
         "source": "The Verge",
         "timestamp": "2026-07-20T10:16:33.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTQ1UEdiYk1ZdGlvRkVOMjJaV083RVhycWt5bUJmMndZczJTY2hzeHIxX05fOUg0SkhCalhCaDBUcFRsN0dfMEVwaTc5bE9UaXUyVHJLLS15ZkY3bS1icGh5T3F6Y3hjZHFLejZXMVFHRFExb1dzVl9HQVFxLVJqZF9zVU9tVm5ONnB0cDVrZkVNcElSRGYzSXRGYi1STlFJUHNVNl8xUHRwekU0VUdTOE9xU2JaX2tSemc?oc=5",
         "summary": "China delivers a one-two punch to America’s AI dominance &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5 - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-07-20T05:37:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzB1S012cHg4eEkzckQ5QndPdG14Q0FPcUpyLUdGWUZGUldBTnhYWGltdnQ5bUdLOEluV05iYkd2cm44SEYyZEtqMlctbE9PNGMtUzI3MzhDdFVwRTM4MENFalE5aUx5cklkamVvX3dsWG1SSnZYakcxeEMyWWUyVFJCaks1Y0RDR2trUldGcG5JbHFwX3lkbGh1NV9WOFA4?oc=5",
-        "summary": "Alibaba Says New AI Model Is Just Second to Anthropic’s Fable 5 &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Google DeepMind CEO Demis Hassabis to everyone fearing AI replacing them: Look at what we humans have bui - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-07-20T05:24:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcWxBYTRpWEpVaExpY1hQSG9lcjVtVXlzdnJ0X3NNNkZCcHpiLXJJSTMzcDhQQldjZ255N2h2S0ZqcU5PWlI5VnRKQUJuU18zVVBZS3hDb09oREU5QlllV1R0cG5ZRnBSRlk3Y0tPaGlaNmpiZ0UxekR1MW9Ka0NYYmZ5ZXQwZmF1dUJ4RGVHNWpQdktfVTdIMGtiQjg1QVRoRlQ3NzRkUmZnVkdoSkJLX2I5V1YxVWgtakMyNHl5cWlUSDlsNnAwd3FQNXRiWnFnNE82dHY5X19LSFF0VlJyLWgxNFBSaXlheUM4SjFBdnltRWk2clVNbUJ4S21vSDZiaVFRbTFhWjM3ank3bEV0Qll3Njd2aU1SM2JLZ1c5cEtkY0pSUWNBZXNBOERvUm_SAbQCQVVfeXFMT0I1WUVSdmxOb21WekpJb2pTeGtsWTQ2VmZjUzJqcUI0cXU5QkVFS2pQMTQ2d2p5c3BiSWdIeHZOanNHZ1VVcDVDMmtPQ3F5YzNFbFlfTzRUMktkTHBMXzd5UkZFT3FFX1FleFRZS3RGZWxpMU9Jck5pamtGUVF1VGxFWkRBZ2RhMkxvWHdibkFUMDR4SkZkUThsMDFuQ0hIX21PWVlJc2ZKcVhIdWp1TUxIbEZnc3BRb1E0RVNPcHZuZ3d1UXdnZmdlTmtKUC1ISHFRS01lSWdST1hFTFZmVGJPOXBRT1o2N2lfd2xfZm1PV0czQTZyVkJyZXpNbnNxYnV4bEFaR0pDSm9oNlA5cThCcjJjNHZXUjFwRFVicE5nd1cyTkNEZkdxOGIzMldPRmljb3c?oc=5",
-        "summary": "Google DeepMind CEO Demis Hassabis to everyone fearing AI replacing them: Look at what we humans have bui &nbsp;&nbsp; The Times of India"
-      },
-      {
-        "headline": "An OpenAI exec's comments on China's Kimi K3 kicked off a big US tech debate - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-20T04:41:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbktnY2YzZ0NUVENLNFZJeUcwSF9temhDeWt0UHZKZWFZNlRmRkZsNTdoOTJ5aF9laDFHTzBVU0k3UWRoaVVGcVBiX2tIRnV5X041RGxpb09mdS1UZHBwRjgxbERWaHpEQnFYanExalNEM0NQUklpbGlQcmlVUEdSVmlEemRpZEVpLXFiNlpXS21RaE9HMkh4SFhGR3YyZlVIY1Fqdw?oc=5",
-        "summary": "An OpenAI exec's comments on China's Kimi K3 kicked off a big US tech debate &nbsp;&nbsp; Business Insider"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
