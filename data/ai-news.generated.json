@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-20T22:03:19.852Z",
+    "generatedAt": "2026-07-20T23:59:03.254Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "DeepMind CEO calls for US-led oversight of advanced AI - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-20T19:51:19.000Z",
+      "headline": "Google DeepMind: what the AI research lab does and why it matters - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-07-20T23:52:26.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Google DeepMind: what the AI research lab does and why it matters &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BSThQQlBZVWJrbW8xYmJhZXhLbk5IcDQ5ak95V3loV0QxLTJqdnBGQlhLUGFyb1BoT05Ta2otZHdYWGwyVHpkcWpIMXpDRmM?oc=5"
+    },
+    {
+      "headline": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-20T23:29:20.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5"
+    },
+    {
+      "headline": "AMD Expands Microsoft Foothold With New Azure AI Deal - crn.com",
+      "source": "crn.com",
+      "timestamp": "2026-07-20T21:56:07.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "DeepMind CEO calls for US-led oversight of advanced AI &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEYtWGU1N296MG4xbkN1bmJPclRwbkJ3SnFMSVBRTjg2SXFpcFI4YkVFU2ZSbkZqaVNYQ1I4eGFvYjJWRDUzSzhmd3d1enpzaGRJaERpUGV0VFVyUFZFeTNmdG92VWtmZWxCc25STWFKODYxSjdEZ2hMVXNHV3l5MVB1d1ptMUFsUHFnRHVmOGhYaEF5aGp2aVNlMEhhVkZrTVpB?oc=5"
+      "summary": "AMD Expands Microsoft Foothold With New Azure AI Deal &nbsp;&nbsp; crn.com",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU4tSFNRdFVIa3FzTEJqeXBibmRYR09vYXR0TEZoeTZmdUttemR4V1ZORnBaUVg2emEzdjZSU0FzdWtVVkd3ejJMZUdwVWMxVklBVWVwN0tLb1cwdG4yTjBBdklvVVdfQjhwck1wVTlKU2dLZDE1cC1VRUQ3TjU3VTN4b3FhaXhMSEJWZlgzWUVZc284dmRXR2Y4b0VGNUotTEFTZFZKZ2hvdw?oc=5"
+    },
+    {
+      "headline": "Microsoft will use AMD’s AI-optimized Helios racks in Azure - SiliconANGLE",
+      "source": "SiliconANGLE",
+      "timestamp": "2026-07-20T20:20:47.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft will use AMD’s AI-optimized Helios racks in Azure &nbsp;&nbsp; SiliconANGLE",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGd3cEtuWEJuZUZOaDBPdlp1bnZ0bWdZUzF5UDEzUzQtNWpfbGUwUkNKZ2JoSEl2Zk1LbnlnTUVFNnRZdWJIQXlpTnZIcm5YOHpveTQydFo4ZmJYejI1a0dIdkJ1MUNmQklObm5lRE9tNWp1NV85SDBfLXV4NWxuZmlfNTBTWWJGbnBhXy1vMkVZNHNQTnhN?oc=5"
     },
     {
       "headline": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
@@ -28,38 +58,8 @@
       "impact": "HIGH",
       "category": "models",
       "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable. &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
-    },
-    {
-      "headline": "OpenAI is scared of open-weight models. Should the US be? - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-20T19:33:25.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI is scared of open-weight models. Should the US be? &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVQ5WFh0T2YxcjlNUVlfN211RkE0VXRwQTdCR0pKdGZDQ1VBLW5EM0JIbFdGMkttbEtSeXRjR3FrQTFOazJ1dld2TDB4MnNDTl9QM1dEeDZzdGxTeHBNaFl2X09POG9PZm9YUFNaOWdCWjdza05DcElSZG01bVl4WGZ2a3pONmVDeE5NQ2NVbFRQTjdN?oc=5"
-    },
-    {
-      "headline": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. - Barron's",
-      "source": "Barron's",
-      "timestamp": "2026-07-20T18:46:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. &nbsp;&nbsp; Barron's",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5"
-    },
-    {
-      "headline": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-07-20T18:30:59.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin &nbsp;&nbsp; Futurism",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDZBS1hqNkRhWjJzd0R4MEdVYWd4ZEtDcDNCQ1Zxa1N2bmxoRzR4QW8tSnQyLUplYjAtbkIzVWZOcEMxTjFBOF9lWlp6SXZsQnljS2NRYXBHZDhDbFlZbnVjVHV1T21uSWVZX2tLQkpXRk9MdDZnNjJva1h5ellsTUN6RG9XalFjQlR6Q1JqQzlCbm1NNU0tZkVpSVVSVDA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5"
     },
     {
       "headline": "DeepMind chief urges Washington to back global AI watchdog as frontier models raise security fears - Los Angeles Times",
@@ -102,62 +102,62 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0ZPMEN0bV8yaUlqUUxwb3hDOC1aeGlGRlZWNUNlemRuMVFXMzlZTThPODdzTWx2SElONV8zR3NONGV0ZnpyNWZaUEpKZ1pCSGFTVDNyN05wX2VFNVVVNEZEZEdudHZIYmNDM1l5MXF0NWQycTlldF9CMDRqZE9MMXpHZmoxVFpXMlpoUnJoM3BOLU9FUDF2Y3hrUXhpanNWeHJYMw?oc=5"
     },
     {
-      "headline": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-20T14:06:50.000Z",
+      "headline": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+      "source": "The Official Microsoft Blog",
+      "timestamp": "2026-07-20T13:09:15.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AMD Stock Gains After The Nvidia-Rival Lands Major Microsoft AI Win With Helios Azure Deployment &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Microsoft expands Azure AI and HPC infrastructure with AMD &nbsp;&nbsp; The Official Microsoft Blog",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTm9ndHZyUFFCQkZLam1OSC1pZ2lBa1V1QlUycWlLeDJGa2lKTmVtVXMxdVJzdzYzZ01jWW9NUGl4M21EbU5KZHl1TmhzekZYVmI1YWZnUkVjQTBMX05tOUczZ2dPcnJXX0FZQ1RndUphc2UwcHNUQ1VXWkltOUtlWjVmaEdrTDNOWGVQLWMweTJ5NG5pOENn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbG5XdmVxY090czBnTEhIVU54OFVFeUQ5SmxhVDdka3NBb0tEMzRHNjllRDdwdUJ4OUdndzBlMkotWW4yc2paTU9qWDVsTndIRVU3NnBlRG0wVnB3cWpOR21rd2JKY1hCWGxQSl9fM1hLcHVHTE1UcDVEZV9rT01hVTI0MWxWTVdyTy1ISjFKOFZydVZtVnYtSHlGVlRHM3h0VmRPUkFn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "DeepMind CEO calls for US-led oversight of advanced AI - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-07-20T19:51:19.000Z",
-        "impact": "LOW",
+        "headline": "Google DeepMind: what the AI research lab does and why it matters - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-07-20T23:52:26.000Z",
+        "impact": "WATCH",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEYtWGU1N296MG4xbkN1bmJPclRwbkJ3SnFMSVBRTjg2SXFpcFI4YkVFU2ZSbkZqaVNYQ1I4eGFvYjJWRDUzSzhmd3d1enpzaGRJaERpUGV0VFVyUFZFeTNmdG92VWtmZWxCc25STWFKODYxSjdEZ2hMVXNHV3l5MVB1d1ptMUFsUHFnRHVmOGhYaEF5aGp2aVNlMEhhVkZrTVpB?oc=5",
-        "summary": "DeepMind CEO calls for US-led oversight of advanced AI &nbsp;&nbsp; Yahoo Finance"
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BSThQQlBZVWJrbW8xYmJhZXhLbk5IcDQ5ak95V3loV0QxLTJqdnBGQlhLUGFyb1BoT05Ta2otZHdYWGwyVHpkcWpIMXpDRmM?oc=5",
+        "summary": "Google DeepMind: what the AI research lab does and why it matters &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-07-20T23:29:20.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
+        "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "AMD Expands Microsoft Foothold With New Azure AI Deal - crn.com",
+        "source": "crn.com",
+        "timestamp": "2026-07-20T21:56:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOU4tSFNRdFVIa3FzTEJqeXBibmRYR09vYXR0TEZoeTZmdUttemR4V1ZORnBaUVg2emEzdjZSU0FzdWtVVkd3ejJMZUdwVWMxVklBVWVwN0tLb1cwdG4yTjBBdklvVVdfQjhwck1wVTlKU2dLZDE1cC1VRUQ3TjU3VTN4b3FhaXhMSEJWZlgzWUVZc284dmRXR2Y4b0VGNUotTEFTZFZKZ2hvdw?oc=5",
+        "summary": "AMD Expands Microsoft Foothold With New Azure AI Deal &nbsp;&nbsp; crn.com"
+      },
+      {
+        "headline": "Microsoft will use AMD’s AI-optimized Helios racks in Azure - SiliconANGLE",
+        "source": "SiliconANGLE",
+        "timestamp": "2026-07-20T20:20:47.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGd3cEtuWEJuZUZOaDBPdlp1bnZ0bWdZUzF5UDEzUzQtNWpfbGUwUkNKZ2JoSEl2Zk1LbnlnTUVFNnRZdWJIQXlpTnZIcm5YOHpveTQydFo4ZmJYejI1a0dIdkJ1MUNmQklObm5lRE9tNWp1NV85SDBfLXV4NWxuZmlfNTBTWWJGbnBhXy1vMkVZNHNQTnhN?oc=5",
+        "summary": "Microsoft will use AMD’s AI-optimized Helios racks in Azure &nbsp;&nbsp; SiliconANGLE"
       },
       {
         "headline": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
         "source": "The Washington Post",
         "timestamp": "2026-07-20T19:38:08.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
         "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable. &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "OpenAI is scared of open-weight models. Should the US be? - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-07-20T19:33:25.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVQ5WFh0T2YxcjlNUVlfN211RkE0VXRwQTdCR0pKdGZDQ1VBLW5EM0JIbFdGMkttbEtSeXRjR3FrQTFOazJ1dld2TDB4MnNDTl9QM1dEeDZzdGxTeHBNaFl2X09POG9PZm9YUFNaOWdCWjdza05DcElSZG01bVl4WGZ2a3pONmVDeE5NQ2NVbFRQTjdN?oc=5",
-        "summary": "OpenAI is scared of open-weight models. Should the US be? &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. - Barron's",
-        "source": "Barron's",
-        "timestamp": "2026-07-20T18:46:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RDFOZU9hbnpFbEJWVHlaN0YxMkJvd200SjlqTUt5M2MzaFVEVWYyLXNqN1JpUE9OMzFLNTJ2cEFpaWZTS2xEV3hQelRLcEhTZkZnek15V3JNSFdQNDAxM3NvSzN0WDZaSWlXMkd4V0tDem9XLWlQZzgtRlNJU3c?oc=5",
-        "summary": "Alibaba’s New AI Model Takes On Anthropic. What It Means for the Stock. &nbsp;&nbsp; Barron's"
-      },
-      {
-        "headline": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-07-20T18:30:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDZBS1hqNkRhWjJzd0R4MEdVYWd4ZEtDcDNCQ1Zxa1N2bmxoRzR4QW8tSnQyLUplYjAtbkIzVWZOcEMxTjFBOF9lWlp6SXZsQnljS2NRYXBHZDhDbFlZbnVjVHV1T21uSWVZX2tLQkpXRk9MdDZnNjJva1h5ellsTUN6RG9XalFjQlR6Q1JqQzlCbm1NNU0tZkVpSVVSVDA?oc=5",
-        "summary": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin &nbsp;&nbsp; Futurism"
       },
       {
         "headline": "DeepMind chief urges Washington to back global AI watchdog as frontier models raise security fears - Los Angeles Times",
@@ -172,13 +172,13 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
