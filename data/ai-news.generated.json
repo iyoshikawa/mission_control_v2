@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-21T20:19:52.548Z",
+    "generatedAt": "2026-07-21T22:05:59.577Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Exclusive | OpenAI Is Adding Two Independent Board Members Ahead of IPO - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-07-21T19:55:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive | OpenAI Is Adding Two Independent Board Members Ahead of IPO &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU50TVpjZUJUNXdPOGwtRVIzbUkxd0FqSEdYRVFKMkZYZ25XWFQycHQ3bC12dS1taDlENG12X21LcGtTYnlSVmxSa0FJcnYzS3hUWkdCaXI4eFZXeHFjYWtESmtaSlBCQTlud2gwSDdjQ0wzTE8zNGJmZVRUNTl1X2F5eFluLUMyQXB0OVQ5cjNXQ1o0RkxTSkdiRF8?oc=5"
-    },
-    {
-      "headline": "OpenAI Says Its AI Used for ‘Unprecedented’ Hugging Face Breach - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-07-21T19:51:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Says Its AI Used for ‘Unprecedented’ Hugging Face Breach &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2dIazBHT3lxakdkc1BhbjFLZ3BJVEJpOWNGQVBoYklXOUVvS2ZpR0EyTVYxaEZsV2I0b0VJYkItTDdUQ25XYUxRT0dhZG4zNjVEUi14cmJLRG9xYXdFX2h6UXJ6VVIzSEFiVDZSd1ZwMWowYUJCR09vdHVLTFFmQkRTZ0l6Rmx2VVkxcWJubmk5MEZuV25wTnROTWJ3UV9uSXVhc0NFYWJ5R0ttZU1wOEJ3?oc=5"
-    },
-    {
-      "headline": "Hugging Face breach: OpenAI claims its models were responsible - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-21T19:48:04.000Z",
+      "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-07-21T20:10:21.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Hugging Face breach: OpenAI claims its models were responsible &nbsp;&nbsp; Axios",
+      "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDFzbkE3eUtUalJjekRpVEJmVEV3LW1mSktHeXNlTjBabkNWOVBPc2FkdlVSVFRkRU41Sy1taDJQN3FPcGtMY0ZsX1hCUzUxU1lYZHhVdHJMdi1YV0JzMmFPdTk3LWJvc3lGak1wY05sckdqeTVKcUNaWGVLLW8zUHBVTjJWbVJUV2xmTExGZmxLalE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5"
     },
     {
-      "headline": "Anthropic ramps up lobbying spending amid AI policy fights - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-21T18:52:38.000Z",
+      "headline": "OpenAI says its AI models escaped control and hacked into AI company Hugging Face - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-07-21T19:45:00.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic ramps up lobbying spending amid AI policy fights &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcGtmeUxLaHFGLVZ4b292ZXE5dlB5ZFNaeldJNWJQb3pBTjFfUzVVUHJnZlA5cWVHOTlLcEMwdVdYU1hMR1oweFQ0YWV5RF9KRkZ4TWdVOUFzWEVyZnJoNTVyaE5BSnYzQ004NGpTcmdTYWIwX0tiU09mRHpLZWFNZE9vUTd2QzRseGdPUnpUQQ?oc=5"
+      "category": "models",
+      "summary": "OpenAI says its AI models escaped control and hacked into AI company Hugging Face &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTZ5aUtUdEc3d29jZUhnb3dUMXFiRFV3M2FJMzlGWkZGdkhMWE93N0NIcmJQX3ZkcExKeFBfalc3NHRvOTRRdjZvUHVKSEU1ZDYyYUZjSzZiTmVBc2M4bVZ3R05GUW4zUmFWMzM4b3hndHNVRFBBY1BkMEFkelYta3RudWpQU05heVNQZGVYb0V6T1k?oc=5"
     },
     {
       "headline": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? - Fortune",
@@ -62,14 +42,24 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVRrRzZxQ0hkbHBFMG55SmVWeld4ZFh4S0luRGV6aXFod0I5RXB5UVV6dFVqQ2YwdXRhZm1rcFhydWFYUnY1V3Z4YWR3SUsxeU42QWd0aUROTG1ieUgtUkRoNmhhUnI0VjhUVEhqbG9nYTNMOHdHeFN4clg3UEJHX1pLTk9Ka2pEVTdwaGVxOWt5bkswRmVBV0xpWmhpS1N1VExja2o0a0lHelRaSWxfbXU0X1JjenBXMTI0dUE2bw?oc=5"
     },
     {
-      "headline": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-21T16:46:01.000Z",
+      "headline": "Anthropic’s $1.5 billion book piracy settlement approved by judge - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-07-21T16:53:37.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram &nbsp;&nbsp; The New York Times",
+      "summary": "Anthropic’s $1.5 billion book piracy settlement approved by judge &nbsp;&nbsp; The Verge US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit &nbsp;&nbsp; Reuters Anthropic’s landmark $1.5B copyright settlement is approved &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTgwRTR4WlJEalNVc1A4Y1JJMzdWWU45Uk10OWcyZ2NsTWhuQlN0NDd1bWF6Y2xxV05MeUtuVXpNdTNaUm4ycWl5dkRuUk9xaXhJa3NLOFZpM3EydWxnMnRmVUtnbzh5eS16Qm5TSGFQVVM3ZS1JV3J0MG54SkIybFFuVkJnNk1GQTAtUnhCNlZFSzVxOWg5M0NWczZJQ0I4a01xSjctRXZGM042YVE?oc=5"
+    },
+    {
+      "headline": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-07-21T16:36:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns &nbsp;&nbsp; Barron's",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5"
     },
     {
       "headline": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) - Seeking Alpha",
@@ -82,24 +72,24 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREJvZWlUZE45SFpzR3pLSDhua1UzaHNYdXYzUnpkT19hcEF5dS12bFFIR0MtWE1iRkxHNEFUQ0h0YkVTV2lwcWl1MXZoaHphdGFSbmpLQXBWSmpKMkhNWkxJV1VPaldqWFZVZ1d4M1RraWNhRnIzbEVLVWJEbGZaaVBaN2ptSE42cnp1NnF5RTB3bXBQWVE?oc=5"
     },
     {
-      "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-07-21T15:29:15.000Z",
-      "impact": "LOW",
+      "headline": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-07-21T15:35:53.000Z",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5"
+      "summary": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGJURzNfeUdwTW5yTnIyME1VUmNEUUk1Y0JPV29idE04U1RNYUFjWW9sbDJWTDBpUmlYQzBxcFE1aWhsYUR3OU9ObGVzUmFVZXAySmdRS0tQU0diakUwYmJHQy1oTEQwRjhmdGxxRDJrbU9zYUs0SUJlWEZsRXpCVUw0SzVfaHRkM0xibEM0Tm9EXzduMU5XN0hnbWR4empsNXNhSUtGSFJJZ2NYTkNiaEMzeS0?oc=5"
     },
     {
-      "headline": "Meta testing StoryKit, an AI iPhone app that creates ‘personalized children’s stories’ - 9to5Mac",
-      "source": "9to5Mac",
-      "timestamp": "2026-07-21T15:24:00.000Z",
-      "impact": "LOW",
+      "headline": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-21T15:31:11.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Meta testing StoryKit, an AI iPhone app that creates ‘personalized children’s stories’ &nbsp;&nbsp; 9to5Mac",
+      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXR3QVlWaVd4Wmk3SGIxYVpabHgzRnJ6QllvZ1pxTHJsc0RxTE1iR1JlcENES2xkYTU0dE9UcmhPRWNLTDl5d19xUDNlcDZSV1JtaW8yak1vSVNOTk1MaWx0VEhZZlJaLXFMX1JkdDFZVlltdWZibmZuWWd3aDIyY2NKSkdkMVg2VU1mZHdLVW5DS2NTc3R2VHVDSHpya3o4UmNpN3JwYWU3NldSVHpQOEp3Y3I?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5"
     },
     {
       "headline": "Google Releases Three New A.I. Models - The New York Times",
@@ -110,45 +100,37 @@
       "summary": "Google Releases Three New A.I. Models &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5"
+    },
+    {
+      "headline": "Bessent says U.S. could sanction China over AI model 'theft' - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-21T13:21:06.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Bessent says U.S. could sanction China over AI model 'theft' &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EMjZCODVvbTN4aEotRWJOTXcwVjdDdmpwZnFaY1g4VjN5enYtbW5RYWRMamJNd0dOUE1kQ0V4WDZ4cHRja3FCMlB4TlNqWEdJdklCeXVRY2xUaXFCQVI1NVJnUnJqNFJTdDZ3bk15TTHSAXZBVV95cUxPT1FCYk1ZMllVUk1BVEhXZUpXNmY3cERrUERGNVpaVjdyRDVKY1d5R29aTXFqSjlUem1fcklRdl9SSkpLamJBRjlLUndFSnZtOWJhQ3ktOWt0Zll0MnhYcGRsZEp2a0pTYWZXeW5QaXdhY1FTWGxB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Exclusive | OpenAI Is Adding Two Independent Board Members Ahead of IPO - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-07-21T19:55:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLU50TVpjZUJUNXdPOGwtRVIzbUkxd0FqSEdYRVFKMkZYZ25XWFQycHQ3bC12dS1taDlENG12X21LcGtTYnlSVmxSa0FJcnYzS3hUWkdCaXI4eFZXeHFjYWtESmtaSlBCQTlud2gwSDdjQ0wzTE8zNGJmZVRUNTl1X2F5eFluLUMyQXB0OVQ5cjNXQ1o0RkxTSkdiRF8?oc=5",
-        "summary": "Exclusive | OpenAI Is Adding Two Independent Board Members Ahead of IPO &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "OpenAI Says Its AI Used for ‘Unprecedented’ Hugging Face Breach - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-07-21T19:51:28.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2dIazBHT3lxakdkc1BhbjFLZ3BJVEJpOWNGQVBoYklXOUVvS2ZpR0EyTVYxaEZsV2I0b0VJYkItTDdUQ25XYUxRT0dhZG4zNjVEUi14cmJLRG9xYXdFX2h6UXJ6VVIzSEFiVDZSd1ZwMWowYUJCR09vdHVLTFFmQkRTZ0l6Rmx2VVkxcWJubmk5MEZuV25wTnROTWJ3UV9uSXVhc0NFYWJ5R0ttZU1wOEJ3?oc=5",
-        "summary": "OpenAI Says Its AI Used for ‘Unprecedented’ Hugging Face Breach &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Hugging Face breach: OpenAI claims its models were responsible - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-21T19:48:04.000Z",
+        "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-07-21T20:10:21.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDFzbkE3eUtUalJjekRpVEJmVEV3LW1mSktHeXNlTjBabkNWOVBPc2FkdlVSVFRkRU41Sy1taDJQN3FPcGtMY0ZsX1hCUzUxU1lYZHhVdHJMdi1YV0JzMmFPdTk3LWJvc3lGak1wY05sckdqeTVKcUNaWGVLLW8zUHBVTjJWbVJUV2xmTExGZmxLalE?oc=5",
-        "summary": "Hugging Face breach: OpenAI claims its models were responsible &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
+        "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "Anthropic ramps up lobbying spending amid AI policy fights - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-21T18:52:38.000Z",
+        "headline": "OpenAI says its AI models escaped control and hacked into AI company Hugging Face - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-07-21T19:45:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcGtmeUxLaHFGLVZ4b292ZXE5dlB5ZFNaeldJNWJQb3pBTjFfUzVVUHJnZlA5cWVHOTlLcEMwdVdYU1hMR1oweFQ0YWV5RF9KRkZ4TWdVOUFzWEVyZnJoNTVyaE5BSnYzQ004NGpTcmdTYWIwX0tiU09mRHpLZWFNZE9vUTd2QzRseGdPUnpUQQ?oc=5",
-        "summary": "Anthropic ramps up lobbying spending amid AI policy fights &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONTZ5aUtUdEc3d29jZUhnb3dUMXFiRFV3M2FJMzlGWkZGdkhMWE93N0NIcmJQX3ZkcExKeFBfalc3NHRvOTRRdjZvUHVKSEU1ZDYyYUZjSzZiTmVBc2M4bVZ3R05GUW4zUmFWMzM4b3hndHNVRFBBY1BkMEFkelYta3RudWpQU05heVNQZGVYb0V6T1k?oc=5",
+        "summary": "OpenAI says its AI models escaped control and hacked into AI company Hugging Face &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? - Fortune",
@@ -160,13 +142,31 @@
         "summary": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-07-21T16:46:01.000Z",
+        "headline": "Anthropic’s $1.5 billion book piracy settlement approved by judge - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-07-21T16:53:37.000Z",
         "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTgwRTR4WlJEalNVc1A4Y1JJMzdWWU45Uk10OWcyZ2NsTWhuQlN0NDd1bWF6Y2xxV05MeUtuVXpNdTNaUm4ycWl5dkRuUk9xaXhJa3NLOFZpM3EydWxnMnRmVUtnbzh5eS16Qm5TSGFQVVM3ZS1JV3J0MG54SkIybFFuVkJnNk1GQTAtUnhCNlZFSzVxOWg5M0NWczZJQ0I4a01xSjctRXZGM042YVE?oc=5",
+        "summary": "Anthropic’s $1.5 billion book piracy settlement approved by judge &nbsp;&nbsp; The Verge US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit &nbsp;&nbsp; Reuters Anthropic’s landmark $1.5B copyright settlement is approved &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-07-21T16:36:00.000Z",
+        "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5",
-        "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5",
+        "summary": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns &nbsp;&nbsp; Barron's"
+      },
+      {
+        "headline": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-07-21T16:10:30.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREJvZWlUZE45SFpzR3pLSDhua1UzaHNYdXYzUnpkT19hcEF5dS12bFFIR0MtWE1iRkxHNEFUQ0h0YkVTV2lwcWl1MXZoaHphdGFSbmpLQXBWSmpKMkhNWkxJV1VPaldqWFZVZ1d4M1RraWNhRnIzbEVLVWJEbGZaaVBaN2ptSE42cnp1NnF5RTB3bXBQWVE?oc=5",
+        "summary": "Jefferies likes what it sees through Meta's AI glasses (META:NASDAQ) &nbsp;&nbsp; Seeking Alpha"
       }
     ],
     "whyItMatters": [
@@ -178,7 +178,7 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "4 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
