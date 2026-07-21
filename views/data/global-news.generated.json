@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-21T00:03:35.426Z",
+    "generatedAt": "2026-07-21T04:13:58.673Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,37 @@
   },
   "newsFeed": [
     {
-      "headline": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
-      "summary": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3 &nbsp;&nbsp; Reuters",
+      "headline": "What is China's next surprise for oil markets? Lower imports, higher fuel exports?",
+      "summary": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-20T23:10:32.000Z",
+      "timestamp": "2026-07-21T02:12:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkVNby0tbVgtVUxCWFJyNVVXM2V4VUVOb0tDdlFLOUc4djJnRi1jTTBTNnY4T2doUVlYaWVyZkhHbU9CLTV2cDcwQzJTTGttdWIzZHpidkFiQ2RlSV9fbEFmcE9nVHlfQXRoUTFvOUFvUFJQQURsUkxFMUFWaXV6QnBYdmtrRTY2YlhYWk41clc4WlNTdUswYlZLNFBXeGlBQ0VvS0xWZ181cEdvdVF3djNLeUtwQ3VVMllwemJZNkRJTHc4cU9mXzAycGFWdUxkSy13MU1zTmZRdWc?oc=5"
+    },
+    {
+      "headline": "Three Chinese injured in drone attack on Moscow",
+      "summary": "Three Chinese injured in drone attack on Moscow &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-21T01:33:00.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1FaMy1UbHJsTGt0b2hvMjdMSTJseExFVXljU0Q2QXphMzVRZ0h2SFAzRHdXdjBNNGF2enFHZUc5eGRHUzhDS3hKTlc4WWtqYzA2b1U3eGV2RlNpYXZsME1xUEViRnZISklTS3NRXzVRQlJEMWE5aHlGTnFCMFhXeXJ2UlgwWURISGRkdFE5bzgtMDRfUnlnUXRicDhTYUVjSGhwTEpLNWluZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmhZby1nSmJTVXBNaXBQUmV3bFNEckp6SGpfMDV0ZWJyM2I0YmFNYXVNWW1jcllQUmNsRUREdDBzaWlVWFhZMC1TU1ZXNHVENnhkSDZ4MTRldEdsakhCVHkydEd4TDlBNXlzUkVFWDV4Tm9fajNRTHFBTkpfZGJFVXpsbnFMLWZzMEp3SGI2VS05SGc?oc=5"
+    },
+    {
+      "headline": "Grid operator in US central states warns of potential rolling blackouts",
+      "summary": "Grid operator in US central states warns of potential rolling blackouts &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-21T01:00:00.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejYtZ1NMQ254UFNyVmx2dUZRS3VxeEt1TFRMc3FLNWxzSjlCSzdkOGhxdjd0QUhxTWk1eWFnNVkyUHlqWXVOMzYwdF9pM3lJb0hoYkhtanRCNkxOa05KbnZFTnZEdUdxMFItNXZpcmdrZm5vU3dRa2JPTUtqSDZoUjZfeDhPcU1nenZ2VUw1YThRU2xaQW5ENW44TlMtTUo5MGxjZ1ZubDEwU05NdVRfbzNLeFR2X3RT?oc=5"
     },
     {
       "headline": "Wall Street indexes fall, with Iran and earnings season in focus",
@@ -34,21 +56,32 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5"
     },
     {
-      "headline": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
-      "summary": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war &nbsp;&nbsp; Reuters",
+      "headline": "Houthi Red Sea blockade would lift oil prices, but workarounds could limit impact",
+      "summary": "Houthi Red Sea blockade would lift oil prices, but workarounds could limit impact &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-20T22:22:51.000Z",
+      "timestamp": "2026-07-20T22:51:05.000Z",
       "impact": "HIGH",
       "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV09nNHJnRVFremV5MkNFSW9ER3Q2bDllSURrWk5tOGpvN0Q5X0xaX2VMTlFZY04tenI5WEltOEZvV25qSjQ1blhnRG1VUGxQZEljSFhfakNrMjZfUkk0SWZPN1BtTDVzb29BOGVPQ2VzWV9pT2U0dThaZDU5Ump6VnZYek5XZlpJR0NWanhrNTAxRnMyT0hqemZieUtjN2x2Y3dUX0tkdUY0SHRTaEk2dmxVZGVYUHpEX3FlRE43VDVwMVpyb3BV?oc=5"
+    },
+    {
+      "headline": "Trading Day: War clouds darken",
+      "summary": "Trading Day: War clouds darken &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-20T22:15:51.000Z",
+      "impact": "HIGH",
+      "region": "Global",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXVTWnNEMkhKVndzUVlpc2VaU2tIa05vYnZwVXc0bEY2TlJsY0NSanJNdmZSaTFuUkVmVnhaeUNvOHFkdG55aDVaNk1OOW5oWS1EX2xKT0hRdlVXYmFvbmxWZ0FNQ1BIQmZrbHNVR1VJak5WNGZSb3Y3ejhpLXUwLVNVaUFnRF9jRnhPOUQwS2dWSExBbjI3R2l5V1U1QnppVVA5a1lB?oc=5"
     },
     {
       "headline": "ASEAN's top diplomats meet in shadow of US-Iran conflict",
       "summary": "ASEAN's top diplomats meet in shadow of US-Iran conflict &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-20T22:04:11.000Z",
+      "timestamp": "2026-07-20T22:03:00.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -56,48 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUk5MFphUndRWUE2X3NSdURrVDQzSlc5VThFNjd2bUNfRnR6YW9OMVFiU3NCbENieUhISnZWblNWQXktMFVWWWRleUJaNThta2hDMDdBeGZiMmpramRSdDl6U0M1VkF5a2hNdWI0N2RpQ21HTkQwZ2gxMHdoVmd6aXhBeEtzWHVucjJFMFBRTW1NQnZCQkZZRll1X1Zidw?oc=5"
     },
     {
-      "headline": "Trump says he signed proclamation to adjust tariffs on aluminum imports",
-      "summary": "Trump says he signed proclamation to adjust tariffs on aluminum imports &nbsp;&nbsp; Reuters",
+      "headline": "US imposes new 50% tariffs on $20 billion worth of Canadian products",
+      "summary": "US imposes new 50% tariffs on $20 billion worth of Canadian products &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-20T20:20:37.000Z",
+      "timestamp": "2026-07-20T21:12:00.000Z",
       "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLVZtdHRGcUV1Q2tSVmFadVp0WXJtSkhGQWp6dlJubnpQZEVwLTFfdlVHX0hveE5LbjBJcE5KNmxqTDVVemxjTXZoLUs4b0dJMWxDODM3Z3hhNE51LTdDN2hrbkxQaWNtVm85c05Cclk0QmR0TEE3U29sUnpJd3lJZm5XSlJyZUhtS0g2ZWhwYzhwZ2cxMmpXUnNFcENYM25tdTloWlJqcWdIWVJ6cmoxVU9fQ3d5MDNMTktmbVhR?oc=5"
-    },
-    {
-      "headline": "After deadly weekend for US troops, Trump vows revenge against Iran",
-      "summary": "After deadly weekend for US troops, Trump vows revenge against Iran &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-20T20:19:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5"
-    },
-    {
-      "headline": "Aliexpress says €550 million EU tech fine is disproportionate",
-      "summary": "Aliexpress says €550 million EU tech fine is disproportionate &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-20T18:57:35.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1BFMVFHcE80Tm9TdUk5SUdJaDNaLXFzbDlxT2ZmdjRYLTI5VUxCS2w0c3o1MXowU1N2dUJ2N0dKc3FaXzh6RHN4S0NvYkRDV1RLdDIwYjEzQk9MOFNJamNyV3VMNzFLdEh2cTF1Y3VaNkdxR3pxdWx4REJZaTRwZGNRb1plQWNEdU5Uc2syRXpGOURudGR4ZzlGTGJlWWN2bXVOZQ?oc=5"
-    },
-    {
-      "headline": "Portugal to buy three frigates built by Italy's Fincantieri",
-      "summary": "Portugal to buy three frigates built by Italy's Fincantieri &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-20T18:56:22.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1dTVkJRenF4OWxsam1pMVBQNmo5UUdzN1I4RjFwTEo0ekdneXBHQWVLU0FDRmhZU0w0LXRzM1NodTEtNnExU1ktalIzMWxpSWN2cmNEc05LVkVIOHgwMGd4MVJkUVptdm9xbjA0cDJyajRjZTRzeGRTYjE1MVhMZEpYWThTUzdfbDlFUGc2ZWJadDgzdEtsRTB6a3hMUQ?oc=5"
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5"
     }
   ]
 }
