@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-21T19:18:44.989Z",
+    "generatedAt": "2026-07-21T21:06:51.183Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
+      "summary": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-21T19:35:37.000Z",
+      "impact": "HIGH",
+      "region": "Latin America",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTlwelkwN2NBdS1QaUlkVkdWOGVOUFJ6eWtYZzNsbUtpWkpjLW9FbFRHWlY5UEZCOS1zc0xHRzZ3UkdqRUZwQ2tmd1IxLWJTRXI0ZnlHZEZzNDk0QkZuTktUc3d5RTJsZXZVVWtLRTNGaTVQNW5HamNVZUFRdERzV09jejJ6cUVuYk5uLVkyMmdwWmh2eTV1YXVUSGF0MHBKTUZGRXBTUF9lRWRIMGhJbFNtejd5b1Bx?oc=5"
+    },
     {
       "headline": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
       "summary": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats &nbsp;&nbsp; Reuters",
@@ -45,28 +56,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFE2MFI3R2M4S2lDTDFZMGZtNnJ0cm5FMThZT1pYVldXUzUwVUdFQTd0RUprcjhzbVB3OFl5NTFLMk5MX3NSV3U0UWxTempZdGJLaXdKU09VS3ZGaXo1b0hLdWJPN0JkRFplalkwNXM5SFJfLXNKTl83Tm9ZNmlJTjJRMVJ1clRETy1SOWpIYmN0cXd0WnZEYVZ0VXN4OWpMN0V4X2RaeGpvc3RyTFpRa2drYWhtQQ?oc=5"
     },
     {
-      "headline": "Kremlin says Russian online retailer Wildberries suffered losses in warehouse attacks",
-      "summary": "Kremlin says Russian online retailer Wildberries suffered losses in warehouse attacks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-21T16:44:57.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXFnenRmZ3VmZGRYUk4wQmljTDVXcmxWOTVURTJrajFDMnppOHNWSktqbXZvVzNuTzdla1dPc2tHX1VHUGw3WkR1anNhNkM0RFlGRDU4aEJ2Vm5Ham80RUlQaEtUQXdfMXhyTUdSNzJKeVYwSS1rNUVtYkd5cjBfajBZVl93NjF5MjduUE80N1pwSTh2anFPTlZWUEY4LXlfSlZYZUwtVHlQR1o2SWY3MmRSSVJ6NW8?oc=5"
-    },
-    {
-      "headline": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
-      "summary": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-21T16:21:31.000Z",
-      "impact": "HIGH",
-      "region": "Latin America",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTlwelkwN2NBdS1QaUlkVkdWOGVOUFJ6eWtYZzNsbUtpWkpjLW9FbFRHWlY5UEZCOS1zc0xHRzZ3UkdqRUZwQ2tmd1IxLWJTRXI0ZnlHZEZzNDk0QkZuTktUc3d5RTJsZXZVVWtLRTNGaTVQNW5HamNVZUFRdERzV09jejJ6cUVuYk5uLVkyMmdwWmh2eTV1YXVUSGF0MHBKTUZGRXBTUF9lRWRIMGhJbFNtejd5b1Bx?oc=5"
-    },
-    {
       "headline": "Halliburton tumbles on tepid revenue forecast, Middle East recovery warning",
       "summary": "Halliburton tumbles on tepid revenue forecast, Middle East recovery warning &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -78,26 +67,37 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkw5dDliVldRU28tWFNhSXB5eXdaeHc3cHdOM2dNOV9vUmItbGl1YkZBdTdsV0RTMDhPcHE2dnJzZUJEdGtYRkhNazBYYmtkbFhtUFJRZnkyYkZ2c25tLVRNNDVWekp2UkdrczlRNEtvODBkQjVSbHYtb3FmQUtWU0ZKeXJ3aEtlSFRLQXdHVHRSZGgtcFRVQkpCVUpZTmZ3WV9HTHcxV0h4Vm9iQmc0MS1SaUx4b296Q1Jn?oc=5"
     },
     {
-      "headline": "Two tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning",
-      "summary": "Two tankers carrying Saudi crude make U-turns in Red Sea after Houthi warning &nbsp;&nbsp; Reuters",
+      "headline": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes",
+      "summary": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-21T14:20:45.000Z",
+      "timestamp": "2026-07-21T16:11:30.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdHTWJMUUNZTWRSakluQzVLdlpKd2dSQWpoYXhaRVl0OTQyYy1oeldnaWRmMXpkSy1OVjFSXzZHbWdzQmtCLVljcnZST3laUk50aThFel81QnZNS3I1TU10MzItWG1CdW1lMENtaWtMS3QwenREbEN2a1l0Ukh5TDNDazl6R0ppQVNQeUljSFJnUncwU1hnS09yZ21ydVR4WDNEZE1ObEUwcmVuazdOYWs3T2NNekdPVTVWcF9qdkkzUGR2SEo0?oc=5"
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1pyWGNtd0o1d2lUNzZCX013a2dLTklZNVJTaTNzY2MtU2hSa1BscEUzMUhmVjR5WmJLeUI3SUQwc2VpMmNJWXNpY1lLb3prbGFTbVh6VUgwQVhLMzA4MzFQWDN1blpMRVoxU2p0YnhKWXplSnNfbHBUellFamlDajVMVmdrV2Q5ajFuUW5WR3lDUmp6VlBoX0J1WXBzV0tLWVFiSDlNcU1PTk02WlNMcFZFRTZnNS00UGhsS2F5b00?oc=5"
     },
     {
-      "headline": "PODCAST: Canada's tariff surprise",
-      "summary": "PODCAST: Canada's tariff surprise &nbsp;&nbsp; Reuters",
+      "headline": "Carney says he and Trump agreed to intensify trade talks",
+      "summary": "Carney says he and Trump agreed to intensify trade talks &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-21T13:33:02.000Z",
+      "timestamp": "2026-07-21T15:13:43.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWc4WVZEYXlXTF80QUFwLTBrN3dSUFhNWVY4VXpyRGdPMElONkx6MmJ2X0FSenpybGwyNmNBM3J4Mm1QUUgtZjNVNjdtR0NFTm16V19HLWkzTFpzLTBxLWNuUmZmMzZHUTB6T2Q2aHJUZ3IwUlRXYWJ1SFRVSzNwZkNNQXFkMlctSnZqeFh4a0szUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUZuOXhCVDluUGRiZ3JKZ1ZIUjREUGhJSGJZaWdRbnkzMnFJQ0dtdU54NnZ6NUg3dXJvbHFPbmRhVGhwQnBnUDNWREp2WXlqbmtLTUxIcFJkTVQ4c084d3NRaUpwZGpkZ0ljVy01V2tBZ3FiS2tVcFo0MGFTOXVLMzJDNW5xWGRKRzlmZ3MwY0YyOGFqOEJQWXJB?oc=5"
+    },
+    {
+      "headline": "Schindler sees customer, hiring opportunities in Kone-TKE merger",
+      "summary": "Schindler sees customer, hiring opportunities in Kone-TKE merger &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-21T14:56:33.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDlPTm5xUmxqY2pBNmRXUC1yb29sX1ExdUxsaWFvTjhTM2UxYWpMUVI1aVl4SzhzalhaeWVOSFlTNXpRZTF5ZUgzZDBaS0ppT0lWT2JsOWxqc1lRX1ZLdENuNWV3NGJBbVFRLXQ2alJRZUFsQnFsRm5EdTJKcG9MTGRadV93MTItQV9lVjFndjRGWlNMRl9EQVMxeDNNc0EwZk9KeXo2VTluQjlNNTNUVUZIXzhVYW8?oc=5"
     }
   ]
 }
