@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-22T20:12:54.595Z",
+    "generatedAt": "2026-07-22T22:07:07.855Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "The Scariest Part of OpenAI’s Hugging Face Hack - The Atlantic",
-      "source": "The Atlantic",
-      "timestamp": "2026-07-22T19:29:26.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Scariest Part of OpenAI’s Hugging Face Hack &nbsp;&nbsp; The Atlantic",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjVUNXAtVU1nbmJrWkRsS1QxRVg3bTdEeWVMZVhHdDFpRzR3cV85dE5uRUZrSmFjeXV1NHlyakpVTG51YlZEcDVkZVNOT19IdGtKeUpHVEZyMHNidVNhellQUVY2U2xLVVdVcnRJU2kwTDhpV2l6dEFIX0J4RWdIRmpzbjV6Zw?oc=5"
+      "headline": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-07-22T20:45:33.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims &nbsp;&nbsp; CBS News",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEFVb09KSXBaVVVVNGFyM0tDck13X0JTSy1PS25MWXdTV0Y2elFIY0NhanJIbExISlFpdm03OVoxZkFSN2haZU9LZUVvaUdpa3JEYTg0RGZQSkNQalJkMlVGVE9uTFFHbkl6bWliSVo4OUl1cl9WVWh6bFZzNVBmc2J3NA?oc=5"
     },
     {
-      "headline": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-07-22T19:01:00.000Z",
-      "impact": "HIGH",
+      "headline": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-22T20:45:00.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook &nbsp;&nbsp; WIRED",
+      "summary": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZW96bjRRc3VoUW9rYmd2Z0NDNG80MzA4cjh2d29ROGxxRGJNdlJ2NHVzcFdSb1dhYzNmaXgtOEN1dVcxYmpWNmpRckU4S3VIRVZMTnJiY1d3MGFXUDVqbG1RMmNZVTlkSmFtZXZ1dHAwYnVuU2JoN1RCMFphREwtTnFESHhQaWNWZmFFTFNrNzlsU0Z2SVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3A1dmg3STNoWjhFNGZEXzJHOEJGSE5MRVFKbzF6aFVKdlI3cjFCaE9sZV8wekh2dFg4cVR2NDh4dlVZQ3ZxMlptOFNQVWpKSDVQM1RXZDhEZTJjZlA3U19PQUhaTDdsaTBBX0l2X2Z1RnZlYlpTV2dNcnFueHFKWnNJLUZoSEx5c1kxT3RfcF9kZw?oc=5"
+    },
+    {
+      "headline": "Anthropic ordered to pay largest copyright class action settlement in history - Mashable",
+      "source": "Mashable",
+      "timestamp": "2026-07-22T20:16:05.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic ordered to pay largest copyright class action settlement in history &nbsp;&nbsp; Mashable",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWpBUnpTb2dDNkVQa1ViVUppVkJMYmRsYWxCeDhnRHNLWG9vbENKQ1ZnNXNaZzNqd2w5WnhtdWozQmhaX3AtMS0wUW5maXljUnc3OENsOThFNXFoYnVsQXh2RzRyU3ZwWXotODJDOGlGVkRxN2VGV0lrMGNFSVRzUTFRMnd4REtDUU1r?oc=5"
     },
     {
       "headline": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
@@ -42,42 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUF4d090UVZiZ1FLc3FNSFNHdGc3LVdUQUhrajVLVWp5eW9tVG03NllwSGtxUWZIaWU1YUxNZDRuaW5Sd0pHOGZlTmtMMUFpc2VvaEM1bG1iUUVXdXZ4eTJuNGVBWkJMT2s3azhpX21ieGFXeEhPOHpvcG4zZTBYcklRQmxnd052MEJwSUJ0azF3SEpOV0RaVE92bC1McnRNWTZWb1JLYkxqUlE?oc=5"
     },
     {
-      "headline": "Anthropic ordered to pay largest copyright class action settlement in history - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-07-22T18:05:36.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Anthropic ordered to pay largest copyright class action settlement in history &nbsp;&nbsp; Mashable",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWpBUnpTb2dDNkVQa1ViVUppVkJMYmRsYWxCeDhnRHNLWG9vbENKQ1ZnNXNaZzNqd2w5WnhtdWozQmhaX3AtMS0wUW5maXljUnc3OENsOThFNXFoYnVsQXh2RzRyU3ZwWXotODJDOGlGVkRxN2VGV0lrMGNFSVRzUTFRMnd4REtDUU1r?oc=5"
-    },
-    {
-      "headline": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-22T15:54:04.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5"
-    },
-    {
-      "headline": "RedNote’s AI model is first to achieve flawless score at maths Olympiad - South China Morning Post",
-      "source": "South China Morning Post",
-      "timestamp": "2026-07-22T12:30:15.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "RedNote’s AI model is first to achieve flawless score at maths Olympiad &nbsp;&nbsp; South China Morning Post",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmFpN1RHSl8tN0xRdHJ0OXlJTkpjT29EeXMwSmNwTE96c2p5WndveDFyQ01HNkZkUmVuNEN0dHVnMmVfenNMSlExOWpOM1NiZ3pzdXZfUjFpMnRLMGx4aE5zRGZVX1FCZW9pS3hfZEpZcmROTDdRVzZldGNndGJ1Mko0OTZiZXNsUVQwSnpTcEFncWJ4bkpQWGRzWHYxcFJFZlNYWUVlczREMFFBMGZSaDJIR3l1N3dNOWfSAboBQVVfeXFMTmVodWVvQjNWTXpYeElkQUFjUzUxZlJDNWZJLW5ad1B2THhTd1IxaENyZVNQYzhnZTlZOUFHYTBMNFdVeXBGY01fWEN6U0lvSEZ6WUwweUlnZ0pHZUQ4T0Z0QVh6endqNGV6R2ZoUVNZSFk1NW52ZlpESzlCdm5QTTNrTVVKcUtQa2p6QVFwSGhIeENzYkY3c3JGaVNwUzRjeDF1bUZGS1gzWWs4Sm01bGRWNXZ5ODhOOEZR?oc=5"
-    },
-    {
       "headline": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
       "source": "WSJ",
       "timestamp": "2026-07-22T12:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal &nbsp;&nbsp; WSJ AMD to invest up to $5 billion in Anthropic as part of computing power deal &nbsp;&nbsp; CNBC Anthropic and AMD are signing a major AI chip deal. What could this mean for Nvidia? &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal &nbsp;&nbsp; WSJ AMD to invest up to $5 billion in Anthropic as part of computing power deal &nbsp;&nbsp; CNBC AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5"
     },
@@ -110,27 +90,56 @@
       "summary": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part &nbsp;&nbsp; Reuters",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5"
+    },
+    {
+      "headline": "They built AI. Now Silicon Valley workers protest its threat to jobs and humanity - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "timestamp": "2026-07-22T10:01:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "They built AI. Now Silicon Valley workers protest its threat to jobs and humanity &nbsp;&nbsp; Los Angeles Times",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY082RDk1emFJM1RUOHFMUm9NRmxCU3A0UW4tYnVEZmJMOVVXWUJ4OUZpQm9TQ0JJUFNGdmprejExeFBEeTZnSDIwNlR6SlF1UkdrNy1TVGtxN3MwTXV5YVI2cEM1SHRoYlpaX1hDLVo3MVJwMUxIQUxiS2liMGRzVEZqTnNSZ1o0RzB6Z0tqQ1ZpbG9pT19CdXkwRlBHdWs5QU9veUdIaEVEdkVBSFpCUFpDTGJaRHRRWGxFbmxaSUdRRnZf?oc=5"
+    },
+    {
+      "headline": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents - The Hacker News",
+      "source": "The Hacker News",
+      "timestamp": "2026-07-22T04:57:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents &nbsp;&nbsp; The Hacker News",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUVfcGliMTVOTlJvclZKczZoSFMtOFFTc0tNYUhERlIyVmdNRHk3QWFac05iLW1CTkZhNWpkXzlpUnVHVEhacUE1NXFYallBMnI5U2x6RDBCQ1pmZlhRcFIxSW1OYjBxTG9hS0hDc0VCaGYzbGJacjlTVWtzSlFlOA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "The Scariest Part of OpenAI’s Hugging Face Hack - The Atlantic",
-        "source": "The Atlantic",
-        "timestamp": "2026-07-22T19:29:26.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjVUNXAtVU1nbmJrWkRsS1QxRVg3bTdEeWVMZVhHdDFpRzR3cV85dE5uRUZrSmFjeXV1NHlyakpVTG51YlZEcDVkZVNOT19IdGtKeUpHVEZyMHNidVNhellQUVY2U2xLVVdVcnRJU2kwTDhpV2l6dEFIX0J4RWdIRmpzbjV6Zw?oc=5",
-        "summary": "The Scariest Part of OpenAI’s Hugging Face Hack &nbsp;&nbsp; The Atlantic"
+        "headline": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-07-22T20:45:33.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEFVb09KSXBaVVVVNGFyM0tDck13X0JTSy1PS25MWXdTV0Y2elFIY0NhanJIbExISlFpdm03OVoxZkFSN2haZU9LZUVvaUdpa3JEYTg0RGZQSkNQalJkMlVGVE9uTFFHbkl6bWliSVo4OUl1cl9WVWh6bFZzNVBmc2J3NA?oc=5",
+        "summary": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims &nbsp;&nbsp; CBS News"
       },
       {
-        "headline": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-07-22T19:01:00.000Z",
-        "impact": "HIGH",
+        "headline": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-22T20:45:00.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZW96bjRRc3VoUW9rYmd2Z0NDNG80MzA4cjh2d29ROGxxRGJNdlJ2NHVzcFdSb1dhYzNmaXgtOEN1dVcxYmpWNmpRckU4S3VIRVZMTnJiY1d3MGFXUDVqbG1RMmNZVTlkSmFtZXZ1dHAwYnVuU2JoN1RCMFphREwtTnFESHhQaWNWZmFFTFNrNzlsU0Z2SVE?oc=5",
-        "summary": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook &nbsp;&nbsp; WIRED"
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3A1dmg3STNoWjhFNGZEXzJHOEJGSE5MRVFKbzF6aFVKdlI3cjFCaE9sZV8wekh2dFg4cVR2NDh4dlVZQ3ZxMlptOFNQVWpKSDVQM1RXZDhEZTJjZlA3U19PQUhaTDdsaTBBX0l2X2Z1RnZlYlpTV2dNcnFueHFKWnNJLUZoSEx5c1kxT3RfcF9kZw?oc=5",
+        "summary": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Anthropic ordered to pay largest copyright class action settlement in history - Mashable",
+        "source": "Mashable",
+        "timestamp": "2026-07-22T20:16:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWpBUnpTb2dDNkVQa1ViVUppVkJMYmRsYWxCeDhnRHNLWG9vbENKQ1ZnNXNaZzNqd2w5WnhtdWozQmhaX3AtMS0wUW5maXljUnc3OENsOThFNXFoYnVsQXh2RzRyU3ZwWXotODJDOGlGVkRxN2VGV0lrMGNFSVRzUTFRMnd4REtDUU1r?oc=5",
+        "summary": "Anthropic ordered to pay largest copyright class action settlement in history &nbsp;&nbsp; Mashable"
       },
       {
         "headline": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
@@ -142,31 +151,22 @@
         "summary": "Harry Potter publisher to receive millions in Anthropic copyright settlement &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Anthropic ordered to pay largest copyright class action settlement in history - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-07-22T18:05:36.000Z",
+        "headline": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-07-22T12:30:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWpBUnpTb2dDNkVQa1ViVUppVkJMYmRsYWxCeDhnRHNLWG9vbENKQ1ZnNXNaZzNqd2w5WnhtdWozQmhaX3AtMS0wUW5maXljUnc3OENsOThFNXFoYnVsQXh2RzRyU3ZwWXotODJDOGlGVkRxN2VGV0lrMGNFSVRzUTFRMnd4REtDUU1r?oc=5",
-        "summary": "Anthropic ordered to pay largest copyright class action settlement in history &nbsp;&nbsp; Mashable"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5",
+        "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal &nbsp;&nbsp; WSJ AMD to invest up to $5 billion in Anthropic as part of computing power deal &nbsp;&nbsp; CNBC AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-22T15:54:04.000Z",
+        "headline": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
+        "source": "BBC",
+        "timestamp": "2026-07-22T11:40:11.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5",
-        "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "RedNote’s AI model is first to achieve flawless score at maths Olympiad - South China Morning Post",
-        "source": "South China Morning Post",
-        "timestamp": "2026-07-22T12:30:15.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmFpN1RHSl8tN0xRdHJ0OXlJTkpjT29EeXMwSmNwTE96c2p5WndveDFyQ01HNkZkUmVuNEN0dHVnMmVfenNMSlExOWpOM1NiZ3pzdXZfUjFpMnRLMGx4aE5zRGZVX1FCZW9pS3hfZEpZcmROTDdRVzZldGNndGJ1Mko0OTZiZXNsUVQwSnpTcEFncWJ4bkpQWGRzWHYxcFJFZlNYWUVlczREMFFBMGZSaDJIR3l1N3dNOWfSAboBQVVfeXFMTmVodWVvQjNWTXpYeElkQUFjUzUxZlJDNWZJLW5ad1B2THhTd1IxaENyZVNQYzhnZTlZOUFHYTBMNFdVeXBGY01fWEN6U0lvSEZ6WUwweUlnZ0pHZUQ4T0Z0QVh6endqNGV6R2ZoUVNZSFk1NW52ZlpESzlCdm5QTTNrTVVKcUtQa2p6QVFwSGhIeENzYkY3c3JGaVNwUzRjeDF1bUZGS1gzWWs4Sm01bGRWNXZ5ODhOOEZR?oc=5",
-        "summary": "RedNote’s AI model is first to achieve flawless score at maths Olympiad &nbsp;&nbsp; South China Morning Post"
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5",
+        "summary": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
