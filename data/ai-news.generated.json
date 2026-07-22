@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-21T23:57:23.863Z",
+    "generatedAt": "2026-07-22T03:32:31.347Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI says its AI technology acted on its own in an ‘unprecedented’ hack of another company - Orange County Register",
-      "source": "Orange County Register",
-      "timestamp": "2026-07-21T23:49:03.000Z",
+      "headline": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company - Al Jazeera",
+      "source": "Al Jazeera",
+      "timestamp": "2026-07-22T02:46:18.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company &nbsp;&nbsp; Al Jazeera",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5"
+    },
+    {
+      "headline": "OpenAI says its AI technology acted on its own in ‘unprecedented’ hack of another company - Indianapolis Business Journal",
+      "source": "Indianapolis Business Journal",
+      "timestamp": "2026-07-22T02:46:02.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "OpenAI says its AI technology acted on its own in an ‘unprecedented’ hack of another company &nbsp;&nbsp; Orange County Register",
+      "summary": "OpenAI says its AI technology acted on its own in ‘unprecedented’ hack of another company &nbsp;&nbsp; Indianapolis Business Journal",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1SmNIcFFtblV5UzNuMjJNRmE1ZjJ0Ul93QUY2ZGxLRTVhS2taSjVjNk80TmNYRmsyM2x6XzFMTm03Q093V0pRbEdEY2I3ZkpmUEx3QWtMbXVEQmxsNElwaUVNZ0x2dE5Db0dLTUdMUHp1dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVVSNlJXbDFiTTV3OHVuYUtBdDVPUUM2X1RqWEpwOGYwRkJQck03WE5ZN2xQOE54aW0zUVNobG1XQUxwTzQ4WWJDMFQtM3JpamxZNnYyN1Z4UlgxcVZoYlZ1Tzc2MjRXV0w2R0Z0Y0hTQ0RlbEd3enphN3pySUJfWGwxOXM0RmNSaGJOOTBUcFRteW1BTV9GVjJfa3VEQzg2RDdfTkw1d20wMFdQX3QtR0xOYy1Scjg?oc=5"
+    },
+    {
+      "headline": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-21T23:50:59.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5"
     },
     {
       "headline": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs - The Information",
@@ -32,24 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGdQQ202bE1TVlRUcUpHLWlYaHk3eVdhNjdwdlNPX0R2UEc0V2JEMTdXX00tS0tWYnBkdEpGR3NwZVo2S2JfbXFiMUU1aTM3Vm9DcDBuQThEZHJLVkR1QWhxTW1nQUU3Z1gtbloxZm5TZllTcWwyYmtsSkJQZzREcGpwd095RzRXRmprMXBFVlZVcUFDOEJ1ZURtRFpiZ09UYU8wd3dB?oc=5"
     },
     {
-      "headline": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-21T22:05:33.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejZuVHE3NHBKYnY4N0VFS0U3M3JXd3pQeEJBemUyQ21BRTF6U3Vvc2JWVXdQQkdlUDVPYnN0OUZJRnpUNVh4NkhTUTRNT3NyTlhwaTJ1YmpBcm1PSUF5MUZhNjU0SnlLZ3VwdWR4X1MzalF1UDRjcWszR0daUmVtV01ibDQ1MWxBaVFfTWhJWmVpZ9IBlwFBVV95cUxPSmNOa05qbkpGTjB1YkFBZE5rNEZaMFcteW81SlRldGFvckpHRE0tdVI3RHlEa1FSWDVFSnRNbnNLSTBjQlRJSWpJZTZOSEhwU09lb1paM051X2k3ZzcyWXNPYTRrai1tRHdFSndVbS15MUlVWXNFQWtFZGNwM0ZIUVcxTmdPNUVWY2FrS0RWajJucGpDSk9v?oc=5"
-    },
-    {
-      "headline": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-21T21:24:50.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5"
+      "headline": "Anthropic sued for infringing neural network technology patents - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-21T21:59:44.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic sued for infringing neural network technology patents &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5"
     },
     {
       "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
@@ -62,24 +72,24 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5"
     },
     {
-      "headline": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-21T18:08:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVRrRzZxQ0hkbHBFMG55SmVWeld4ZFh4S0luRGV6aXFod0I5RXB5UVV6dFVqQ2YwdXRhZm1rcFhydWFYUnY1V3Z4YWR3SUsxeU42QWd0aUROTG1ieUgtUkRoNmhhUnI0VjhUVEhqbG9nYTNMOHdHeFN4clg3UEJHX1pLTk9Ka2pEVTdwaGVxOWt5bkswRmVBV0xpWmhpS1N1VExja2o0a0lHelRaSWxfbXU0X1JjenBXMTI0dUE2bw?oc=5"
-    },
-    {
       "headline": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot - AP News",
       "source": "AP News",
       "timestamp": "2026-07-21T18:01:00.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot &nbsp;&nbsp; AP News Judge Approves Anthropic's Record-Breaking $1.5 Billion Settlement For AI Copyright Lawsuit &nbsp;&nbsp; Engadget US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit &nbsp;&nbsp; Reuters",
+      "summary": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot &nbsp;&nbsp; AP News",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5"
+    },
+    {
+      "headline": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-21T16:46:01.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5"
     },
     {
       "headline": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns - Barron's",
@@ -92,36 +102,44 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5"
     },
     {
-      "headline": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-07-21T15:35:53.000Z",
-      "impact": "HIGH",
+      "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-07-21T15:29:15.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGJURzNfeUdwTW5yTnIyME1VUmNEUUk1Y0JPV29idE04U1RNYUFjWW9sbDJWTDBpUmlYQzBxcFE1aWhsYUR3OU9ObGVzUmFVZXAySmdRS0tQU0diakUwYmJHQy1oTEQwRjhmdGxxRDJrbU9zYUs0SUJlWEZsRXpCVUw0SzVfaHRkM0xibEM0Tm9EXzduMU5XN0hnbWR4empsNXNhSUtGSFJJZ2NYTkNiaEMzeS0?oc=5"
-    },
-    {
-      "headline": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-21T15:31:11.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5"
+      "summary": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI says its AI technology acted on its own in an ‘unprecedented’ hack of another company - Orange County Register",
-        "source": "Orange County Register",
-        "timestamp": "2026-07-21T23:49:03.000Z",
+        "headline": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company - Al Jazeera",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-22T02:46:18.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5",
+        "summary": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company &nbsp;&nbsp; Al Jazeera"
+      },
+      {
+        "headline": "OpenAI says its AI technology acted on its own in ‘unprecedented’ hack of another company - Indianapolis Business Journal",
+        "source": "Indianapolis Business Journal",
+        "timestamp": "2026-07-22T02:46:02.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1SmNIcFFtblV5UzNuMjJNRmE1ZjJ0Ul93QUY2ZGxLRTVhS2taSjVjNk80TmNYRmsyM2x6XzFMTm03Q093V0pRbEdEY2I3ZkpmUEx3QWtMbXVEQmxsNElwaUVNZ0x2dE5Db0dLTUdMUHp1dw?oc=5",
-        "summary": "OpenAI says its AI technology acted on its own in an ‘unprecedented’ hack of another company &nbsp;&nbsp; Orange County Register"
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVVSNlJXbDFiTTV3OHVuYUtBdDVPUUM2X1RqWEpwOGYwRkJQck03WE5ZN2xQOE54aW0zUVNobG1XQUxwTzQ4WWJDMFQtM3JpamxZNnYyN1Z4UlgxcVZoYlZ1Tzc2MjRXV0w2R0Z0Y0hTQ0RlbEd3enphN3pySUJfWGwxOXM0RmNSaGJOOTBUcFRteW1BTV9GVjJfa3VEQzg2RDdfTkw1d20wMFdQX3QtR0xOYy1Scjg?oc=5",
+        "summary": "OpenAI says its AI technology acted on its own in ‘unprecedented’ hack of another company &nbsp;&nbsp; Indianapolis Business Journal"
+      },
+      {
+        "headline": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-07-21T23:50:59.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5",
+        "summary": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs - The Information",
@@ -133,22 +151,13 @@
         "summary": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs &nbsp;&nbsp; The Information"
       },
       {
-        "headline": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-21T22:05:33.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejZuVHE3NHBKYnY4N0VFS0U3M3JXd3pQeEJBemUyQ21BRTF6U3Vvc2JWVXdQQkdlUDVPYnN0OUZJRnpUNVh4NkhTUTRNT3NyTlhwaTJ1YmpBcm1PSUF5MUZhNjU0SnlLZ3VwdWR4X1MzalF1UDRjcWszR0daUmVtV01ibDQ1MWxBaVFfTWhJWmVpZ9IBlwFBVV95cUxPSmNOa05qbkpGTjB1YkFBZE5rNEZaMFcteW81SlRldGFvckpHRE0tdVI3RHlEa1FSWDVFSnRNbnNLSTBjQlRJSWpJZTZOSEhwU09lb1paM051X2k3ZzcyWXNPYTRrai1tRHdFSndVbS15MUlVWXNFQWtFZGNwM0ZIUVcxTmdPNUVWY2FrS0RWajJucGpDSk9v?oc=5",
-        "summary": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-07-21T21:24:50.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5",
-        "summary": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library &nbsp;&nbsp; The New York Times"
+        "headline": "Anthropic sued for infringing neural network technology patents - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-07-21T21:59:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5",
+        "summary": "Anthropic sued for infringing neural network technology patents &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
@@ -158,22 +167,13 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
         "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-21T18:08:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVRrRzZxQ0hkbHBFMG55SmVWeld4ZFh4S0luRGV6aXFod0I5RXB5UVV6dFVqQ2YwdXRhZm1rcFhydWFYUnY1V3Z4YWR3SUsxeU42QWd0aUROTG1ieUgtUkRoNmhhUnI0VjhUVEhqbG9nYTNMOHdHeFN4clg3UEJHX1pLTk9Ka2pEVTdwaGVxOWt5bkswRmVBV0xpWmhpS1N1VExja2o0a0lHelRaSWxfbXU0X1JjenBXMTI0dUE2bw?oc=5",
-        "summary": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good? &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
