@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-23T15:11:38.135Z",
+    "generatedAt": "2026-07-23T17:26:16.776Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,54 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic's Logan Graham reveals concern over AI model threats - Fox Business",
+      "source": "Fox Business",
+      "timestamp": "2026-07-23T17:13:58.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic's Logan Graham reveals concern over AI model threats &nbsp;&nbsp; Fox Business",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiT0lvQ09jS25jdUg0WThHTXJiT3J5eFptczhsM0FHakNhSVFYYjhWVHpDeVBLV3M3QnRwTGhyUzZ1aEdibVRxX2Vldm8tbGZSSUtjZGI5MmpGeE0?oc=5"
+    },
+    {
+      "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-07-23T17:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3lNWjgxVng4Q1pxYXZWNGdOMGFNYmx0UU9saFpZQ0hSQmJzb2FxLWZPRF9Ibm1jQ1hCdWhtV0VidUpBNXd1bEtjb3N1SV90YjBmNXV6WVVIazZhbGRYZjE4R2JNcThrQU8yY0ZUMzRfR0pNeS1rQWRiWXdaSS1CUlRkWkEwZHN2U2h0WTRkbURkdXBKazVVSzVR?oc=5"
+    },
+    {
+      "headline": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-23T16:48:27.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVdBVlUtTlgyMHB3WjhVYzZRRXpicEZ1R3hKZ1hQZ2pPRVlWbnFiSmRvT01EeGpBS0JrS3pTODdJcmp5N01jMzVHNUUxNllaU1FTdVpnQTVQMi1BSjVtbzNjUWdhNnRIZjBHcC11Vm9XRXJOLVNIbkRqMHUtSjd0X2w4Yw?oc=5"
+    },
+    {
+      "headline": "Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-07-23T16:30:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW1qVFJfNVlPcTN6eDhiNzQwNmlwSi1aVENGVzA4M1dySjZHZTFxSUMtTmFTMGxoWFc5clZEU1dRMTh2azJubllnY0ZMOFczcHZlVS1uR2lfd0N2Q1J6RUZ4UWtEaHY0dTZ6aXh6RFN2LV9QVHh2UnFicTYybU9RNFlPQ1FKT0QwSThEVkljb015bm1uU3JxV2FOV205WWNDOXBMVzVhYmZ1aFVKdkNoeU5n?oc=5"
+    },
+    {
       "headline": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
       "source": "Axios",
       "timestamp": "2026-07-23T13:01:22.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5"
-    },
-    {
-      "headline": "Anthropic Considers Unusual Plan for Employee Stock Sales After It Goes Public - The Information",
-      "source": "The Information",
-      "timestamp": "2026-07-23T13:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Considers Unusual Plan for Employee Stock Sales After It Goes Public &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHBRZlJnS1dkZlhRWjdUOS02YkFPYkVUcktYcVMtVy0yYThrT0w5ZklBRHhoeW9pcVJIWnltZkNCd09PVVNYdTh5T2VPUkFwQlByM2lCRkljcTBJdjc4UnpxYTZ2anpyelRaemJfZjdQTkZZTTFQNklWRHRuQjRzYTVEQXdmUzEzM3FjMHFJOXQ5Q3NZeTYwcDl2UVdXN0ZERjZ5U2VEdGI?oc=5"
-    },
-    {
-      "headline": "AI race intensifies after OpenAI cyber incident and China theft claims - Fox Business",
-      "source": "Fox Business",
-      "timestamp": "2026-07-23T12:46:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI race intensifies after OpenAI cyber incident and China theft claims &nbsp;&nbsp; Fox Business",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HU1JBVVFIWGdyQUNZMUNIam56MUFNZ1BlQ3hqb1dXeEctc2NuWXJBcU5ieG11UHpBRkZlQjlOdzhSSUFNSUt4cm5fQTloSkZydDV4UEpJOTVFQzg?oc=5"
-    },
-    {
-      "headline": "Anthropic's top economist says AI won't replace workers yet. Mark Cuban says it trails humans in 2 key ways. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-23T12:26:45.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic's top economist says AI won't replace workers yet. Mark Cuban says it trails humans in 2 key ways. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3JrMmY5b09WeUZsTjMwWl9IMzJXaGtoU1FPTVNxZVZDZGNDWWxZQVhYVklaQm1BRk1lVXdTQVlxcnRLOVZYWi1SNWJKNjBDZmZ1WTZHLVlNQ2M1SFl1Mm1IaHBrclUwRlM0T0FQdWNhV2w3R0pfNjZtNEZnOW82SzR6MjFiM1FEd1huM0dGM0lNTFFGb0lPLXBrLUFrXzk0QVJMWVpjWFBMb2dpbkE?oc=5"
     },
     {
       "headline": "Zuckerberg says AI should empower people, not replace them, in new Meta vision - Fox Business",
@@ -82,73 +92,72 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01bWVYSmpnRWhUQUw4VVdtcEJWRENTU21KaWNsb3o4RlpCVFRrMzgzUnZ0RlFtRUY4WnA2VEl1OFZadDBZWlY2SXFlY0tGU1F2Wm1PQUwxNWtJZw?oc=5"
     },
     {
-      "headline": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know - NPR",
-      "source": "NPR",
-      "timestamp": "2026-07-23T05:23:42.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know &nbsp;&nbsp; NPR",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kaW5XdzVCRVpNdk5wNW4td2FuWXJheDVUekY0X3M3RlhjejBEU3lzYlRfNm5BMXhTeTdfaXlRQkl5Z0xCaHpJS3pyMk4wZ2dwanNCOU1qMXh2cU1waG5yaVBUT293VW1pQUxxeWFUdTM0VDlWZ3c?oc=5"
-    },
-    {
-      "headline": "AWS turns Security Hub into an AI and multicloud security control plane - SiliconANGLE",
-      "source": "SiliconANGLE",
-      "timestamp": "2026-07-23T02:56:47.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AWS turns Security Hub into an AI and multicloud security control plane &nbsp;&nbsp; SiliconANGLE",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlpyNkZqa1dJN2JqLS13VFk3azdHbjRQYXYyeVFCX3hNS2FxcU5KT3NsX3NZbm42OTctdFQ1Ymp5V29scUhtNmtSb0x3U0txams5QU1vaHFZaFBmRGtyMjNmc2xaNzVYODdnek93SWdMOFQ3MXE2d2dBSlF6MXRzaDVZczVzbjJPb0l1WmNDVjJiVlVvcEpXV0dtd1M?oc=5"
-    },
-    {
       "headline": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
       "source": "BBC",
       "timestamp": "2026-07-23T01:52:10.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable &nbsp;&nbsp; TechCrunch Anthropic and OpenAI under threat &nbsp;&nbsp; The Economist",
+      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable &nbsp;&nbsp; TechCrunch US Treasury Threatens Sanctions on China, Claims Its AI Firms Distilled Anthropic's Fable Model &nbsp;&nbsp; extremetech.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5"
+    },
+    {
+      "headline": "The Anthropic Economic Index connector - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-22T17:13:51.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Anthropic Economic Index connector &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Anthropic's Logan Graham reveals concern over AI model threats - Fox Business",
+        "source": "Fox Business",
+        "timestamp": "2026-07-23T17:13:58.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiT0lvQ09jS25jdUg0WThHTXJiT3J5eFptczhsM0FHakNhSVFYYjhWVHpDeVBLV3M3QnRwTGhyUzZ1aEdibVRxX2Vldm8tbGZSSUtjZGI5MmpGeE0?oc=5",
+        "summary": "Anthropic's Logan Graham reveals concern over AI model threats &nbsp;&nbsp; Fox Business"
+      },
+      {
+        "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-07-23T17:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc3lNWjgxVng4Q1pxYXZWNGdOMGFNYmx0UU9saFpZQ0hSQmJzb2FxLWZPRF9Ibm1jQ1hCdWhtV0VidUpBNXd1bEtjb3N1SV90YjBmNXV6WVVIazZhbGRYZjE4R2JNcThrQU8yY0ZUMzRfR0pNeS1rQWRiWXdaSS1CUlRkWkEwZHN2U2h0WTRkbURkdXBKazVVSzVR?oc=5",
+        "summary": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-07-23T16:48:27.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVdBVlUtTlgyMHB3WjhVYzZRRXpicEZ1R3hKZ1hQZ2pPRVlWbnFiSmRvT01EeGpBS0JrS3pTODdJcmp5N01jMzVHNUUxNllaU1FTdVpnQTVQMi1BSjVtbzNjUWdhNnRIZjBHcC11Vm9XRXJOLVNIbkRqMHUtSjd0X2w4Yw?oc=5",
+        "summary": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-07-23T16:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW1qVFJfNVlPcTN6eDhiNzQwNmlwSi1aVENGVzA4M1dySjZHZTFxSUMtTmFTMGxoWFc5clZEU1dRMTh2azJubllnY0ZMOFczcHZlVS1uR2lfd0N2Q1J6RUZ4UWtEaHY0dTZ6aXh6RFN2LV9QVHh2UnFicTYybU9RNFlPQ1FKT0QwSThEVkljb015bm1uU3JxV2FOV205WWNDOXBMVzVhYmZ1aFVKdkNoeU5n?oc=5",
+        "summary": "Microsoft Is Replacing OpenAI Image Models in PowerPoint, Bing &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
         "headline": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
         "source": "Axios",
         "timestamp": "2026-07-23T13:01:22.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
         "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Anthropic Considers Unusual Plan for Employee Stock Sales After It Goes Public - The Information",
-        "source": "The Information",
-        "timestamp": "2026-07-23T13:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHBRZlJnS1dkZlhRWjdUOS02YkFPYkVUcktYcVMtVy0yYThrT0w5ZklBRHhoeW9pcVJIWnltZkNCd09PVVNYdTh5T2VPUkFwQlByM2lCRkljcTBJdjc4UnpxYTZ2anpyelRaemJfZjdQTkZZTTFQNklWRHRuQjRzYTVEQXdmUzEzM3FjMHFJOXQ5Q3NZeTYwcDl2UVdXN0ZERjZ5U2VEdGI?oc=5",
-        "summary": "Anthropic Considers Unusual Plan for Employee Stock Sales After It Goes Public &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "AI race intensifies after OpenAI cyber incident and China theft claims - Fox Business",
-        "source": "Fox Business",
-        "timestamp": "2026-07-23T12:46:57.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HU1JBVVFIWGdyQUNZMUNIam56MUFNZ1BlQ3hqb1dXeEctc2NuWXJBcU5ieG11UHpBRkZlQjlOdzhSSUFNSUt4cm5fQTloSkZydDV4UEpJOTVFQzg?oc=5",
-        "summary": "AI race intensifies after OpenAI cyber incident and China theft claims &nbsp;&nbsp; Fox Business"
-      },
-      {
-        "headline": "Anthropic's top economist says AI won't replace workers yet. Mark Cuban says it trails humans in 2 key ways. - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-23T12:26:45.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3JrMmY5b09WeUZsTjMwWl9IMzJXaGtoU1FPTVNxZVZDZGNDWWxZQVhYVklaQm1BRk1lVXdTQVlxcnRLOVZYWi1SNWJKNjBDZmZ1WTZHLVlNQ2M1SFl1Mm1IaHBrclUwRlM0T0FQdWNhV2w3R0pfNjZtNEZnOW82SzR6MjFiM1FEd1huM0dGM0lNTFFGb0lPLXBrLUFrXzk0QVJMWVpjWFBMb2dpbkE?oc=5",
-        "summary": "Anthropic's top economist says AI won't replace workers yet. Mark Cuban says it trails humans in 2 key ways. &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Zuckerberg says AI should empower people, not replace them, in new Meta vision - Fox Business",
@@ -158,27 +167,18 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSG55ZHJYMU5LRDI4TWFOSDd0NWZ2RXR5RjRidXdkR2VTOERvZ1J0SFdsdlU4X3RCR3c5M1JQMDM3WS1ZdkE3OERrQ3BlcnRXaU92ZEo2R0hGdElTeUs0T21jV3VfOGp2UHZwUzBxTzBRbjg4dXI5VVF1aXVVemZmZFlFcDViR1ZTeXdGetIBkgFBVV95cUxPUTQzMllTOEduR1l3UXFIbURzOFVQaFNLR3B4NWx1TFVVWE40Qm4tV1JaVVAxY3d1WTdsTEFtcl9DTUhGNjczT0xDYmRmejhSWHdrY2JPRG4ta2p1RkliRUdKR0hxRXo3SmNUQ0dLZzMyM1FZOFpMWk9nSEZ6SmhLYUdoUGFaT0I4eE9INGZvRTF0dw?oc=5",
         "summary": "Zuckerberg says AI should empower people, not replace them, in new Meta vision &nbsp;&nbsp; Fox Business"
-      },
-      {
-        "headline": "Mark Zuckerberg launches AI optimism campaign - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-23T10:00:49.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
-        "summary": "Mark Zuckerberg launches AI optimism campaign &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
