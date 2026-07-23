@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-23T10:26:27.872Z",
+    "generatedAt": "2026-07-23T12:25:51.690Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? - San Francisco Chronicle",
+      "source": "San Francisco Chronicle",
+      "timestamp": "2026-07-23T11:04:04.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? &nbsp;&nbsp; San Francisco Chronicle",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmNEOXJObHh3QUQ0SXdvUlhMWW10SktKbXhlaG01UUNXc0ExR29FS1BfWTdpT3RwNVJhV3lCUGptOUozSjh0UVhQUXMwWC0wUDdYR2ZybjR0cVhmS0o0S0pDbUtwV25xMURseEloeDhkRDVtVzR0a0FRcWw0ekNveTd3?oc=5"
+    },
+    {
       "headline": "Zuckerberg says AI should empower people, not replace them, in new Meta vision - Fox Business",
       "source": "Fox Business",
       "timestamp": "2026-07-23T10:09:00.000Z",
@@ -22,24 +32,14 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSG55ZHJYMU5LRDI4TWFOSDd0NWZ2RXR5RjRidXdkR2VTOERvZ1J0SFdsdlU4X3RCR3c5M1JQMDM3WS1ZdkE3OERrQ3BlcnRXaU92ZEo2R0hGdElTeUs0T21jV3VfOGp2UHZwUzBxTzBRbjg4dXI5VVF1aXVVemZmZFlFcDViR1ZTeXdGetIBkgFBVV95cUxPUTQzMllTOEduR1l3UXFIbURzOFVQaFNLR3B4NWx1TFVVWE40Qm4tV1JaVVAxY3d1WTdsTEFtcl9DTUhGNjczT0xDYmRmejhSWHdrY2JPRG4ta2p1RkliRUdKR0hxRXo3SmNUQ0dLZzMyM1FZOFpMWk9nSEZ6SmhLYUdoUGFaT0I4eE9INGZvRTF0dw?oc=5"
     },
     {
-      "headline": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-23T09:01:05.000Z",
+      "headline": "Mark Zuckerberg launches AI optimism campaign - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-23T10:00:49.000Z",
       "impact": "HIGH",
-      "category": "market",
-      "summary": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmNiNUpoN3BMa3JHS3JiQWVCT1JfSlJXVlV3VUdxTF9iY2phcnViQUQwbUgwUk5BX3Rnb3FrSjB3aGpyTXd0WWx6RG1TVVdWVnMxN2htQlJrSGpVODQ1bEY5d1pyb0t0ZUhka2w4SXR4X2x2ZjR4YnZDOUQxMkNDWE1wYkxJdXNKTzJXcjlSY1NjeUNpMy1uaWduMGR6Zw?oc=5"
-    },
-    {
-      "headline": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms - Politico",
-      "source": "Politico",
-      "timestamp": "2026-07-23T08:45:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms &nbsp;&nbsp; Politico",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5"
+      "category": "models",
+      "summary": "Mark Zuckerberg launches AI optimism campaign &nbsp;&nbsp; Axios",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5"
     },
     {
       "headline": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
@@ -47,19 +47,29 @@
       "timestamp": "2026-07-23T01:52:10.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model &nbsp;&nbsp; Yahoo Fortune Tech: The U.S. vs Moonshot, Google’s astonishing profit, Samsung’s Fold8 Ultra &nbsp;&nbsp; Fortune",
+      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model &nbsp;&nbsp; Yahoo Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5"
     },
     {
-      "headline": "Why the OpenAI escape is the most worrying AI mishap yet - The Economist",
-      "source": "The Economist",
-      "timestamp": "2026-07-22T18:15:48.000Z",
-      "impact": "LOW",
+      "headline": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-07-22T23:24:00.000Z",
+      "impact": "WATCH",
       "category": "ecosystem",
-      "summary": "Why the OpenAI escape is the most worrying AI mishap yet &nbsp;&nbsp; The Economist",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTRLdXBPbEtzOHcyLU1pTjFBQzBsbFQ1UWR2eVpSWnhoR0xLVGl3OXFHMWh2V2dfSHh1bnIxbHB2WXAzU09STmpwdXlMbC1faUhXQ0d0aXc5M1VoX2xCWGZKWldYQnZXYXdVek9CcjdQUk9ZYXNkVTVrUVpZVWVfanpDZnVENTdMMDg4T1AyaGU3YnhVYXZZVFh6aUxwNVZCVXJ4VG5sOXNRSEllWEZaY2JvUDdSQVU?oc=5"
+      "summary": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU1WRmpuUll6XzBIOWhEc1I1Y0NTMndVVGw4N3R3ZTVBaHpNZTBkcXNsYWF6Mk9leVZtb0Q4YjZqcmxPWjIyNEx1c3kzY3J0dDJPRERHVHNCckV3M1hGbzFGSWxVQXVzWXFITmc1VHFZcU1rOF9iNjlnRzRIdFVVcUtxdEVOWXQtYWhvV0NqNGVlSDZSMldQU1ZKM0h4cFV1dzQzM0xnbw?oc=5"
+    },
+    {
+      "headline": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-22T17:20:12.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5"
     },
     {
       "headline": "The Anthropic Economic Index connector - Anthropic",
@@ -72,24 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5"
     },
     {
+      "headline": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-22T17:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5"
+    },
+    {
       "headline": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
       "source": "CNBC",
       "timestamp": "2026-07-22T15:54:04.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face &nbsp;&nbsp; CNBC How OpenAI’s human mistake led to the AI-powered hack on Hugging Face &nbsp;&nbsp; TechCrunch OpenAI's Hugging Face breach exposes AI's next safety challenge &nbsp;&nbsp; Axios",
+      "summary": "OpenAI cyber models broke out of training environment to hack Hugging Face &nbsp;&nbsp; CNBC What To Know About Open AI’s ‘Unprecedented’—And Autonomous—Hack Of Hugging Face &nbsp;&nbsp; Forbes OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' &nbsp;&nbsp; AP News OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know &nbsp;&nbsp; NPR An OpenAI test model escaped and broke into a real company’s servers &nbsp;&nbsp; CNN Why the OpenAI escape is the most worrying AI mishap yet &nbsp;&nbsp; The Economist OpenAI AI models went rogue during testing, triggering 'unprecedented' breach at startup &nbsp;&nbsp; Yahoo OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again. &nbsp;&nbsp; Politico A Startling Glimpse at AI’s Ruthless Efficiency &nbsp;&nbsp; The Atlantic",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5"
-    },
-    {
-      "headline": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-22T14:00:34.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5"
     },
     {
       "headline": "RedNote’s AI model is first to achieve flawless score at maths Olympiad - South China Morning Post",
@@ -100,20 +110,19 @@
       "summary": "RedNote’s AI model is first to achieve flawless score at maths Olympiad &nbsp;&nbsp; South China Morning Post",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmFpN1RHSl8tN0xRdHJ0OXlJTkpjT29EeXMwSmNwTE96c2p5WndveDFyQ01HNkZkUmVuNEN0dHVnMmVfenNMSlExOWpOM1NiZ3pzdXZfUjFpMnRLMGx4aE5zRGZVX1FCZW9pS3hfZEpZcmROTDdRVzZldGNndGJ1Mko0OTZiZXNsUVQwSnpTcEFncWJ4bkpQWGRzWHYxcFJFZlNYWUVlczREMFFBMGZSaDJIR3l1N3dNOWfSAboBQVVfeXFMTmVodWVvQjNWTXpYeElkQUFjUzUxZlJDNWZJLW5ad1B2THhTd1IxaENyZVNQYzhnZTlZOUFHYTBMNFdVeXBGY01fWEN6U0lvSEZ6WUwweUlnZ0pHZUQ4T0Z0QVh6endqNGV6R2ZoUVNZSFk1NW52ZlpESzlCdm5QTTNrTVVKcUtQa2p6QVFwSGhIeENzYkY3c3JGaVNwUzRjeDF1bUZGS1gzWWs4Sm01bGRWNXZ5ODhOOEZR?oc=5"
-    },
-    {
-      "headline": "Meta made its own AI detection system. It should have just used Google’s - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-07-22T11:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta made its own AI detection system. It should have just used Google’s &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW4yRW5lTkIzZTNremp5QmtiWHhWRTNTZ1RSRzRnMm4xaXNJWkdkeTM5T2RwaFVZbTZ0dU9PZWRXX3R0bEJqVlpGMnRtYXlMV3JZZTZrQmJrOGF6Ti1Ob0M3T2pEQXFxTkR5QVRuZmtyRDVNcjFVcms2NzBsVUdVOFJkY2VyeEpIeWFtMWdzTV9xNU1Ybl83S1J4dw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? - San Francisco Chronicle",
+        "source": "San Francisco Chronicle",
+        "timestamp": "2026-07-23T11:04:04.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmNEOXJObHh3QUQ0SXdvUlhMWW10SktKbXhlaG01UUNXc0ExR29FS1BfWTdpT3RwNVJhV3lCUGptOUozSjh0UVhQUXMwWC0wUDdYR2ZybjR0cVhmS0o0S0pDbUtwV25xMURseEloeDhkRDVtVzR0a0FRcWw0ekNveTd3?oc=5",
+        "summary": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? &nbsp;&nbsp; San Francisco Chronicle"
+      },
       {
         "headline": "Zuckerberg says AI should empower people, not replace them, in new Meta vision - Fox Business",
         "source": "Fox Business",
@@ -124,22 +133,13 @@
         "summary": "Zuckerberg says AI should empower people, not replace them, in new Meta vision &nbsp;&nbsp; Fox Business"
       },
       {
-        "headline": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-23T09:01:05.000Z",
+        "headline": "Mark Zuckerberg launches AI optimism campaign - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-23T10:00:49.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmNiNUpoN3BMa3JHS3JiQWVCT1JfSlJXVlV3VUdxTF9iY2phcnViQUQwbUgwUk5BX3Rnb3FrSjB3aGpyTXd0WWx6RG1TVVdWVnMxN2htQlJrSGpVODQ1bEY5d1pyb0t0ZUhka2w4SXR4X2x2ZjR4YnZDOUQxMkNDWE1wYkxJdXNKTzJXcjlSY1NjeUNpMy1uaWduMGR6Zw?oc=5",
-        "summary": "How Amazon weaned Alexa off Anthropic's pricey models to slash AI costs &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms - Politico",
-        "source": "Politico",
-        "timestamp": "2026-07-23T08:45:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVllZVDU1VkNKYWd4ZXc3ZldlNFlIdXR1clJCeS1RQVZCR1N3dl9yVXNIWFJ1UGFWc2MweVJGWnJEbk95dzUzZktFRjBKZXlDSGYzMV9QWmxvZExKaUFFVjRxaUlaUmRVT1VfdWplZWY4b3dHOFVHT25IeGgyYURhMDFIR0RlOF8zMzJwamhHTEhBSzVpcGhKZ1JVSW44aHkzZGhOQlJ2WGlQOGQtS1VhRGNSWQ?oc=5",
-        "summary": "House AI ‘kill switch’ bill unveiled as OpenAI hack raises alarms &nbsp;&nbsp; Politico"
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
+        "summary": "Mark Zuckerberg launches AI optimism campaign &nbsp;&nbsp; Axios"
       },
       {
         "headline": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
@@ -148,38 +148,38 @@
         "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5",
-        "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model &nbsp;&nbsp; Yahoo Fortune Tech: The U.S. vs Moonshot, Google’s astonishing profit, Samsung’s Fold8 Ultra &nbsp;&nbsp; Fortune"
+        "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model &nbsp;&nbsp; Yahoo Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good &nbsp;&nbsp; TechCrunch"
       },
       {
-        "headline": "Why the OpenAI escape is the most worrying AI mishap yet - The Economist",
-        "source": "The Economist",
-        "timestamp": "2026-07-22T18:15:48.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTRLdXBPbEtzOHcyLU1pTjFBQzBsbFQ1UWR2eVpSWnhoR0xLVGl3OXFHMWh2V2dfSHh1bnIxbHB2WXAzU09STmpwdXlMbC1faUhXQ0d0aXc5M1VoX2xCWGZKWldYQnZXYXdVek9CcjdQUk9ZYXNkVTVrUVpZVWVfanpDZnVENTdMMDg4T1AyaGU3YnhVYXZZVFh6aUxwNVZCVXJ4VG5sOXNRSEllWEZaY2JvUDdSQVU?oc=5",
-        "summary": "Why the OpenAI escape is the most worrying AI mishap yet &nbsp;&nbsp; The Economist"
-      },
-      {
-        "headline": "The Anthropic Economic Index connector - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-07-22T17:13:51.000Z",
-        "impact": "LOW",
+        "headline": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-07-22T23:24:00.000Z",
+        "impact": "WATCH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
-        "summary": "The Anthropic Economic Index connector &nbsp;&nbsp; Anthropic"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU1WRmpuUll6XzBIOWhEc1I1Y0NTMndVVGw4N3R3ZTVBaHpNZTBkcXNsYWF6Mk9leVZtb0Q4YjZqcmxPWjIyNEx1c3kzY3J0dDJPRERHVHNCckV3M1hGbzFGSWxVQXVzWXFITmc1VHFZcU1rOF9iNjlnRzRIdFVVcUtxdEVOWXQtYWhvV0NqNGVlSDZSMldQU1ZKM0h4cFV1dzQzM0xnbw?oc=5",
+        "summary": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-07-22T17:20:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5",
+        "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice &nbsp;&nbsp; The New York Times"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,14 +190,14 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
