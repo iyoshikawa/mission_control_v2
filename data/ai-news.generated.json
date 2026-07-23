@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-23T04:17:27.794Z",
+    "generatedAt": "2026-07-23T07:34:46.516Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-07-23T03:21:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRV9RRThqbWI2TGNZd2VlLUVlWVB5LUQ2Njg0VzZ5d2t5Y0RJQlI1VzZ0YTV1VVV5RHFmNFBsQkswdTRLbTZiU0VMSURsX3dyRVJTZTdfNGxuWVgyUERvZXRtR0JwbHFKWjVIR09pUXFxVGdza2xUQ2RYRkVvZVBUZnh2bllCZzFrWTNRWUhfWEJNMXc?oc=5"
-    },
     {
       "headline": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
       "source": "BBC",
@@ -42,9 +32,39 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU1WRmpuUll6XzBIOWhEc1I1Y0NTMndVVGw4N3R3ZTVBaHpNZTBkcXNsYWF6Mk9leVZtb0Q4YjZqcmxPWjIyNEx1c3kzY3J0dDJPRERHVHNCckV3M1hGbzFGSWxVQXVzWXFITmc1VHFZcU1rOF9iNjlnRzRIdFVVcUtxdEVOWXQtYWhvV0NqNGVlSDZSMldQU1ZKM0h4cFV1dzQzM0xnbw?oc=5"
     },
     {
+      "headline": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-22T18:33:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Harry Potter publisher to receive millions in Anthropic copyright settlement &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUF4d090UVZiZ1FLc3FNSFNHdGc3LVdUQUhrajVLVWp5eW9tVG03NllwSGtxUWZIaWU1YUxNZDRuaW5Sd0pHOGZlTmtMMUFpc2VvaEM1bG1iUUVXdXZ4eTJuNGVBWkJMT2s3azhpX21ieGFXeEhPOHpvcG4zZTBYcklRQmxnd052MEJwSUJ0azF3SEpOV0RaVE92bC1McnRNWTZWb1JLYkxqUlE?oc=5"
+    },
+    {
+      "headline": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-22T18:13:26.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXZsaW1pWGxhWHBQMmZlWWRaSGtkVUNOQnIwby1wY19YSVBTSmhCaU9ORFE1UTI1Q1hpZU43WUhyZ1Y0cXRjZklIYmlpQU5Xa19tcGxpNzNmcV9BUG1WUVNtbDhfZDhDd0RHU1hIRWt1ZWRHbTZ3S1dKa0NuZlRUQmE4UWEyRmtUMnl6NTc4Y0xraGFFUllSWGNFSTZ6WDBHYmliYzh1NVhxOUZIenE0dFdNOVZYdEhQemQxSjVxWQ?oc=5"
+    },
+    {
+      "headline": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-22T17:57:40.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOejU1bFVPVk1rcmsyTnkyVmR5OFZCVnA2cW51Zm5VMDg4R19feGQyWHNIRG1sX29SUGMwMlhzRHF5VWdIWXVkbTRSWElaMGh5dmd5bXdQV095YjFxb3pBUWhZUS1fR2FCTkYxQ3pYLWdnSThZb21lTGlqOXRCU1A4ZEdFVkZ3dGhwOVdGMVJmaHg3S1M5QTFKdU5CSGxsQTdjd1lCb2RYQjN5cnROdU9lR3lMS0JJNVRSb3Qw?oc=5"
+    },
+    {
       "headline": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-07-22T17:20:12.000Z",
+      "timestamp": "2026-07-22T14:00:34.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice &nbsp;&nbsp; The New York Times",
@@ -62,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5"
     },
     {
-      "headline": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-      "source": "BBC",
-      "timestamp": "2026-07-22T11:40:11.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack &nbsp;&nbsp; BBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5"
+      "headline": "Meta made its own AI detection system. It should have just used Google’s - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-07-22T11:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta made its own AI detection system. It should have just used Google’s &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW4yRW5lTkIzZTNremp5QmtiWHhWRTNTZ1RSRzRnMm4xaXNJWkdkeTM5T2RwaFVZbTZ0dU9PZWRXX3R0bEJqVlpGMnRtYXlMV3JZZTZrQmJrOGF6Ti1Ob0M3T2pEQXFxTkR5QVRuZmtyRDVNcjFVcms2NzBsVUdVOFJkY2VyeEpIeWFtMWdzTV9xNU1Ybl83S1J4dw?oc=5"
     },
     {
       "headline": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters",
@@ -90,39 +110,10 @@
       "summary": "They built AI. Now Silicon Valley workers protest its threat to jobs and humanity &nbsp;&nbsp; Los Angeles Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY082RDk1emFJM1RUOHFMUm9NRmxCU3A0UW4tYnVEZmJMOVVXWUJ4OUZpQm9TQ0JJUFNGdmprejExeFBEeTZnSDIwNlR6SlF1UkdrNy1TVGtxN3MwTXV5YVI2cEM1SHRoYlpaX1hDLVo3MVJwMUxIQUxiS2liMGRzVEZqTnNSZ1o0RzB6Z0tqQ1ZpbG9pT19CdXkwRlBHdWs5QU9veUdIaEVEdkVBSFpCUFpDTGJaRHRRWGxFbmxaSUdRRnZf?oc=5"
-    },
-    {
-      "headline": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents - The Hacker News",
-      "source": "The Hacker News",
-      "timestamp": "2026-07-22T04:57:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents &nbsp;&nbsp; The Hacker News",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUVfcGliMTVOTlJvclZKczZoSFMtOFFTc0tNYUhERlIyVmdNRHk3QWFac05iLW1CTkZhNWpkXzlpUnVHVEhacUE1NXFYallBMnI5U2x6RDBCQ1pmZlhRcFIxSW1OYjBxTG9hS0hDc0VCaGYzbGJacjlTVWtzSlFlOA?oc=5"
-    },
-    {
-      "headline": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe - SiliconANGLE",
-      "source": "SiliconANGLE",
-      "timestamp": "2026-07-22T02:04:06.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe &nbsp;&nbsp; SiliconANGLE",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWloSTBzSk1zU05ZU2wzcVE1SEdUN0NtTXZsZUtOajVaVkpFUzlIR094Q3lidF83NzhYT0I5c3paSWtEMUdhZWpLZFlrZEw3QkxyUWJsSnkxU2RmYVpDVXFWRXZqSHNjUnYwazlzSFZiRzd0U0ZlZWRVZktRekFyOUdkSFEwb082cGZQN3R0bmhFbFZ4cU5pcE1wWlZxdExWRXFieXZWZlBuSmVKdmVkTVlVc2NJMUU0NVkzVHJ4MWRVQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-07-23T03:21:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRV9RRThqbWI2TGNZd2VlLUVlWVB5LUQ2Njg0VzZ5d2t5Y0RJQlI1VzZ0YTV1VVV5RHFmNFBsQkswdTRLbTZiU0VMSURsX3dyRVJTZTdfNGxuWVgyUERvZXRtR0JwbHFKWjVIR09pUXFxVGdza2xUQ2RYRkVvZVBUZnh2bllCZzFrWTNRWUhfWEJNMXc?oc=5",
-        "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know &nbsp;&nbsp; Yahoo"
-      },
       {
         "headline": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
         "source": "BBC",
@@ -142,44 +133,53 @@
         "summary": "Anthropic and SpaceX just handed Google the biggest profit quarter in company history—on paper &nbsp;&nbsp; Fortune"
       },
       {
+        "headline": "Harry Potter publisher to receive millions in Anthropic copyright settlement - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-22T18:33:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUF4d090UVZiZ1FLc3FNSFNHdGc3LVdUQUhrajVLVWp5eW9tVG03NllwSGtxUWZIaWU1YUxNZDRuaW5Sd0pHOGZlTmtMMUFpc2VvaEM1bG1iUUVXdXZ4eTJuNGVBWkJMT2s3azhpX21ieGFXeEhPOHpvcG4zZTBYcklRQmxnd052MEJwSUJ0azF3SEpOV0RaVE92bC1McnRNWTZWb1JLYkxqUlE?oc=5",
+        "summary": "Harry Potter publisher to receive millions in Anthropic copyright settlement &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-07-22T18:13:26.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXZsaW1pWGxhWHBQMmZlWWRaSGtkVUNOQnIwby1wY19YSVBTSmhCaU9ORFE1UTI1Q1hpZU43WUhyZ1Y0cXRjZklIYmlpQU5Xa19tcGxpNzNmcV9BUG1WUVNtbDhfZDhDd0RHU1hIRWt1ZWRHbTZ3S1dKa0NuZlRUQmE4UWEyRmtUMnl6NTc4Y0xraGFFUllSWGNFSTZ6WDBHYmliYzh1NVhxOUZIenE0dFdNOVZYdEhQemQxSjVxWQ?oc=5",
+        "summary": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-22T17:57:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOejU1bFVPVk1rcmsyTnkyVmR5OFZCVnA2cW51Zm5VMDg4R19feGQyWHNIRG1sX29SUGMwMlhzRHF5VWdIWXVkbTRSWElaMGh5dmd5bXdQV095YjFxb3pBUWhZUS1fR2FCTkYxQ3pYLWdnSThZb21lTGlqOXRCU1A4ZEdFVkZ3dGhwOVdGMVJmaHg3S1M5QTFKdU5CSGxsQTdjd1lCb2RYQjN5cnROdU9lR3lMS0JJNVRSb3Qw?oc=5",
+        "summary": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test &nbsp;&nbsp; CNBC"
+      },
+      {
         "headline": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-07-22T17:20:12.000Z",
+        "timestamp": "2026-07-22T14:00:34.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMTNLNEhjOXNnb0pGWUd5UExBZWljenA4c1ZZRHZTNkpFZjV3WDdCWGo5TWRzZURVRG5VN1VycVBHQnNVWHRNNURRYlZJd0pUNHRsSHVXRmxEbXBITENpYTVsQTVsS2VyX0lpOUFFbkEyYUdVa2ZJSDVIMkxpdHM?oc=5",
         "summary": "OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-07-22T12:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JyTjctQkJmSjRQbWFnczFFNW5GV0M1dzNiNjZEWDJFemFFeElQdnlCcWRPRWZEMlFIWS00YmxxeXpfdHNYb2ktbXhNV1h4c05oZ1BpQ3VvbWU4YURPYU82TDJpdm04Y3pvYjEtN3U2RlpOdHdfUW5rZTBQZFFZNWJKazFwempZX0pBSklVR19TdzA0MVE?oc=5",
-        "summary": "Exclusive | AMD and Anthropic Sign Major Chips-and-Investment Deal &nbsp;&nbsp; WSJ AMD to invest up to $5 billion in Anthropic as part of computing power deal &nbsp;&nbsp; CNBC AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-        "source": "BBC",
-        "timestamp": "2026-07-22T11:40:11.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5",
-        "summary": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
