@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-24T16:50:49.083Z",
+    "generatedAt": "2026-07-24T18:21:20.989Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "timestamp": "2026-07-24T16:37:35.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal &nbsp;&nbsp; Yahoo! Finance Canada",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUtqeTNENWxPWkJ3QkNRXzV2OWNSbVJ2Qzg5M0tLMlZWV1lVeEs3eVE3ZlRKTmhLZG1COEp4WjlaeDU4Y3htVVRIbWpMdFdtN1RoN3pxazNaTFZTcVZjd0kwTmlYZW1rT3gyd2c1MW50T2VTNEgyb3VHOF9RU2FrTHQ1eFk?oc=5"
+      "headline": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-07-24T17:53:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44aVNXTXEzd281djAzdWZiVDFvd012MXg5Rll2TEN0SEpCeXB1ZjdVaTRlckg1SWRuN1BfclRMcEF2TE9sR0JTN1FYaXZSX2FpLTEyYkdlMkgyMlltWGJNXw?oc=5"
     },
     {
-      "headline": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what' - Yahoo Finance",
+      "headline": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-24T17:00:01.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC Anthropic debuts Claude Opus 5 with feature that lets users toggle between cost and capability &nbsp;&nbsp; Fortune Anthropic Releases Claude Opus 5 to Be Your New ‘Everyday’ Assistant &nbsp;&nbsp; CNET",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5"
+    },
+    {
+      "headline": "Meta takes first steps toward a personal AI agent - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-24T17:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta takes first steps toward a personal AI agent &nbsp;&nbsp; Axios",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lYkR2YlVvT2lXeXpENmRiRmRaSGJwOXkyRTlKcDZZeEkwYlNVbFg0U0NlNVJWNlZ5VG92dDQwaUdqODF5RlBIQkk1a1pOZ0h6RFFFWDN5VVJXX04zVzkyaV8tRnZiQQ?oc=5"
+    },
+    {
+      "headline": "OpenAI president Greg Brockman: ‘We will remain in this compute shortage no matter what’ - Yahoo Finance",
       "source": "Yahoo Finance",
       "timestamp": "2026-07-24T15:52:49.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what' &nbsp;&nbsp; Yahoo Finance",
+      "summary": "OpenAI president Greg Brockman: ‘We will remain in this compute shortage no matter what’ &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVUtVMU1WRjZSOXNWdzROX0dyeGxhNzVtUW1ZckZSeEt4X2RCX2p2LUd5NGRUWEZ3dTVVRl9WeUZUN05ZVUZGQnBCOGpCd19YMkNMVUZJRHVqM2F3dWl5OHJ3cjRoZzl1ekRaMUpxTkpwZ2t2R0RMc3ViWU9lRmdMV2hEYzJFNWRFajctbDJ5a3d4bEtpdEhfVG95REM2MV80U3ZLbjBjY19TNUdNdnE5Q2EzV25qVzgxTVRkNVBReFl4MkwycHpyQXY1dk55TlFYNG54WkVyUk1zN2VyeEE?oc=5"
     },
     {
-      "headline": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-07-24T15:20:23.000Z",
-      "impact": "HIGH",
+      "headline": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-24T15:48:00.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare &nbsp;&nbsp; Financial Times",
+      "summary": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2FyWGg1ZUJWeDUxVHUwQThYaWdrRng5M2poTEU0a2tfSGdJd0NwTnROQWFuTTNtTk5qcmNkbFB4NjJMYzhRR1NKWkd3aHh0blRIVFhibk1yN1VBenAxMVI0WjcxZDNEVDMzSDFuUmt2c2JqY0RQbjBZM3AxZDVMeEwxRG0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RVU9pcWhLek5XVDJlSi1XQ3UxR0laS0wwTkh2Z29rMnhfWUExMHpqOEpwRGc4OGxJSVRnejhnd2Y1QS1DYVRySVo0RXpQOGdwMjFGTEtDT0xpQ09tazQyMXRyVjl3NkhTTzF1NXBHazdaWGlwbWhSY1hR?oc=5"
     },
     {
       "headline": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
@@ -52,14 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTTRrTlB1X3V0akxjZERPdzI3RVZqS19ZVEVtWFg3QXM5MTNWa3RoQnk4RmQ2cHdCYWJ6ZzlKdWt1bk8yc0k5OHp5c25XdTFFS3FhSFBWY2lGT2ZnMVMtT0tBSm1qYjFNUTlzdG9wZWdfZlV0NU9GenNrMFJZZ9IBgwFBVV95cUxNR1Z2eGgweUw0dlhUV3E4VzVIZjlVekxkNXlKYWF3bVdYQXVVdVRzWmR5dldRQW1xNFB6aU5NdEl3aVNXWnFMN3dCZHFXSjJuU1plWE9ST18xWTRCa2Z3dW1QQnlHZ0RUb0E4QUd6VU1wLWJYUHpHWmtBeFFjOFNFak1XNA?oc=5"
     },
     {
-      "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-24T01:00:00.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "How AI guardrails are impeding the work of offensive cybersecurity researchers &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZG1SN3RQZTJHaUpLWDlHVnJvU2R6RXNhcUR5bHhqbHRmTGJfZE9SU1UzMl92RW5mdUZpVXBGd1BRQ0MycnItYkxjMWhQbnExaWk3Nm1Kc0luY0EwM3FiMldvdGV0RGhQYzM5dm5PY0NPbi1EVjB2OXM1U2tYTURidGZtQ0RFMVJyS3J6aktuQ0xhb0YzdFotOEctTlZDZnQ1bGt1Q05QOVU1Y29sRWJUZklyVQ?oc=5"
+      "headline": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-24T05:48:02.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; Axios",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5"
     },
     {
       "headline": "silicon diversity powers Azure AI infrastructure - SiliconANGLE",
@@ -85,61 +105,59 @@
       "headline": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending - WIRED",
       "source": "WIRED",
       "timestamp": "2026-07-23T18:45:00.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending &nbsp;&nbsp; WIRED",
+      "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending &nbsp;&nbsp; WIRED A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns &nbsp;&nbsp; Business Insider Meta launched a new AI optimism ad set to a song about human extinction &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFET3haNHd2NFZTNjUtb1VuQVp1NHZLNlh3YWczMGUtWWdYTHN0VnlNUGh4YTlWYzFMeFk1LTB4bU5Sd2lYV0ZPLUFraW1BVHh5QVQtVm14cDBnVV9oQTdaUzJydnRHMWFaN2lzT05fTTdxRU9HRkF5Zm9Qc2JyemUyTmdieXB0elE?oc=5"
-    },
-    {
-      "headline": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-23T16:48:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A side-by-side comparison shows stark differences between Meta and Anthropic's AI ad campaigns &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVdBVlUtTlgyMHB3WjhVYzZRRXpicEZ1R3hKZ1hQZ2pPRVlWbnFiSmRvT01EeGpBS0JrS3pTODdJcmp5N01jMzVHNUUxNllaU1FTdVpnQTVQMi1BSjVtbzNjUWdhNnRIZjBHcC11Vm9XRXJOLVNIbkRqMHUtSjd0X2w4Yw?oc=5"
-    },
-    {
-      "headline": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-23T13:01:22.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; Axios",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal - Yahoo! Finance Canada",
-        "source": "Yahoo! Finance Canada",
-        "timestamp": "2026-07-24T16:37:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUtqeTNENWxPWkJ3QkNRXzV2OWNSbVJ2Qzg5M0tLMlZWV1lVeEs3eVE3ZlRKTmhLZG1COEp4WjlaeDU4Y3htVVRIbWpMdFdtN1RoN3pxazNaTFZTcVZjd0kwTmlYZW1rT3gyd2c1MW50T2VTNEgyb3VHOF9RU2FrTHQ1eFk?oc=5",
-        "summary": "Meta's AI Borrowing Costs Rise on $12 Billion Data Center Deal &nbsp;&nbsp; Yahoo! Finance Canada"
+        "headline": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-07-24T17:53:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44aVNXTXEzd281djAzdWZiVDFvd012MXg5Rll2TEN0SEpCeXB1ZjdVaTRlckg1SWRuN1BfclRMcEF2TE9sR0JTN1FYaXZSX2FpLTEyYkdlMkgyMlltWGJNXw?oc=5",
+        "summary": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what' - Yahoo Finance",
+        "headline": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-24T17:00:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5",
+        "summary": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC Anthropic debuts Claude Opus 5 with feature that lets users toggle between cost and capability &nbsp;&nbsp; Fortune Anthropic Releases Claude Opus 5 to Be Your New ‘Everyday’ Assistant &nbsp;&nbsp; CNET"
+      },
+      {
+        "headline": "Meta takes first steps toward a personal AI agent - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-24T17:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lYkR2YlVvT2lXeXpENmRiRmRaSGJwOXkyRTlKcDZZeEkwYlNVbFg0U0NlNVJWNlZ5VG92dDQwaUdqODF5RlBIQkk1a1pOZ0h6RFFFWDN5VVJXX04zVzkyaV8tRnZiQQ?oc=5",
+        "summary": "Meta takes first steps toward a personal AI agent &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "OpenAI president Greg Brockman: ‘We will remain in this compute shortage no matter what’ - Yahoo Finance",
         "source": "Yahoo Finance",
         "timestamp": "2026-07-24T15:52:49.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVUtVMU1WRjZSOXNWdzROX0dyeGxhNzVtUW1ZckZSeEt4X2RCX2p2LUd5NGRUWEZ3dTVVRl9WeUZUN05ZVUZGQnBCOGpCd19YMkNMVUZJRHVqM2F3dWl5OHJ3cjRoZzl1ekRaMUpxTkpwZ2t2R0RMc3ViWU9lRmdMV2hEYzJFNWRFajctbDJ5a3d4bEtpdEhfVG95REM2MV80U3ZLbjBjY19TNUdNdnE5Q2EzV25qVzgxTVRkNVBReFl4MkwycHpyQXY1dk55TlFYNG54WkVyUk1zN2VyeEE?oc=5",
-        "summary": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what' &nbsp;&nbsp; Yahoo Finance"
+        "summary": "OpenAI president Greg Brockman: ‘We will remain in this compute shortage no matter what’ &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-07-24T15:20:23.000Z",
-        "impact": "HIGH",
+        "headline": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-24T15:48:00.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2FyWGg1ZUJWeDUxVHUwQThYaWdrRng5M2poTEU0a2tfSGdJd0NwTnROQWFuTTNtTk5qcmNkbFB4NjJMYzhRR1NKWkd3aHh0blRIVFhibk1yN1VBenAxMVI0WjcxZDNEVDMzSDFuUmt2c2JqY0RQbjBZM3AxZDVMeEwxRG0?oc=5",
-        "summary": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare &nbsp;&nbsp; Financial Times"
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RVU9pcWhLek5XVDJlSi1XQ3UxR0laS0wwTkh2Z29rMnhfWUExMHpqOEpwRGc4OGxJSVRnejhnd2Y1QS1DYVRySVo0RXpQOGdwMjFGTEtDT0xpQ09tazQyMXRyVjl3NkhTTzF1NXBHazdaWGlwbWhSY1hR?oc=5",
+        "summary": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
@@ -149,36 +167,18 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTTRrTlB1X3V0akxjZERPdzI3RVZqS19ZVEVtWFg3QXM5MTNWa3RoQnk4RmQ2cHdCYWJ6ZzlKdWt1bk8yc0k5OHp5c25XdTFFS3FhSFBWY2lGT2ZnMVMtT0tBSm1qYjFNUTlzdG9wZWdfZlV0NU9GenNrMFJZZ9IBgwFBVV95cUxNR1Z2eGgweUw0dlhUV3E4VzVIZjlVekxkNXlKYWF3bVdYQXVVdVRzWmR5dldRQW1xNFB6aU5NdEl3aVNXWnFMN3dCZHFXSjJuU1plWE9ST18xWTRCa2Z3dW1QQnlHZ0RUb0E4QUd6VU1wLWJYUHpHWmtBeFFjOFNFak1XNA?oc=5",
         "summary": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-07-24T01:00:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZG1SN3RQZTJHaUpLWDlHVnJvU2R6RXNhcUR5bHhqbHRmTGJfZE9SU1UzMl92RW5mdUZpVXBGd1BRQ0MycnItYkxjMWhQbnExaWk3Nm1Kc0luY0EwM3FiMldvdGV0RGhQYzM5dm5PY0NPbi1EVjB2OXM1U2tYTURidGZtQ0RFMVJyS3J6aktuQ0xhb0YzdFotOEctTlZDZnQ1bGt1Q05QOVU1Y29sRWJUZklyVQ?oc=5",
-        "summary": "How AI guardrails are impeding the work of offensive cybersecurity researchers &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "silicon diversity powers Azure AI infrastructure - SiliconANGLE",
-        "source": "SiliconANGLE",
-        "timestamp": "2026-07-24T00:40:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG9mS3hxYjJ2cGN0cnRueFJDMmQ0SmN5RGdCZGJXMXJ5NjJBN2ZoVndQTWZvbTVjNEdFVUhJeTRnTlI5bHdndk0wM3pjMzVqOERtNVN4SHBvMnU4TmxmWk4xZ0RqbUQ0Zm1HWkV4aVJYYl9UYXlGUUJZbkxuV2lFMGlqRW5VQlh0MjBfYk5jVW9va2xvSnFHWG53MnZOOE9RclE?oc=5",
-        "summary": "silicon diversity powers Azure AI infrastructure &nbsp;&nbsp; SiliconANGLE"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
