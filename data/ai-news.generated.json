@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-24T07:34:47.071Z",
+    "generatedAt": "2026-07-24T10:22:51.716Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,26 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Lock down your ChatGPT account before the next AI attack - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-07-24T09:57:17.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Lock down your ChatGPT account before the next AI attack &nbsp;&nbsp; Fox News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNGVqaXd4QV9Gams1aHk1Y0VfWjdLWWFkWWg0M2JFdHM2Q1MyQnlBMHVMMTE5UEo3dTdZMmVzV1pCaUlSSU1sMTdycGtRZGw0LWlGMmlGTDdzZjVVR09iYlFSVTRneUIxTFhMZE5XSHpxV2k5Yl9pRWI2SktOQUJSWWozaWcyd9IBiwFBVV95cUxQek1YWXNzYmdlVm9UTzFlZk8tSHpjczhKUS1nU0l0Y3hZaUozeV80QkMxZjNKRDR4R3FyWWRmRnNMNlhSaWZXQk9OZmJpYnMzNU9SVnVNZ3JoT3BVc2xnZWZ0ejNNREpiSzMtZVVWck1rWm54STVPREdpLVEwd2hFUHVXYjIzajI5NEVR?oc=5"
+    },
+    {
+      "headline": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start - NBC News",
+      "source": "NBC News",
+      "timestamp": "2026-07-24T09:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start &nbsp;&nbsp; NBC News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG9Yb2NLUnFQU2RVQXl5RHdPMXcybkZWVFlZUWFLNUFaR0pzOEhmZlpvVzNCNjZwQUhpdlVPeWZqdFJqNnMyWVlFQUpHTGJDUUl2R3F6OE5KdVJLc21vLWpMazV0aW9ObzNQQkxpc0lRYnVtNHp6V0k3Q2ljU2NvaXBjeHU4T1JtMm8teUlYaFB0bktKam4xUFdjNmMxOVcyX0JlUkpKRVM?oc=5"
+    },
     {
       "headline": "silicon diversity powers Azure AI infrastructure - SiliconANGLE",
       "source": "SiliconANGLE",
@@ -27,17 +47,17 @@
       "timestamp": "2026-07-23T23:50:38.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions &nbsp;&nbsp; The Information OpenAI and Anthropic find common ground: open-weight AI &nbsp;&nbsp; Axios",
+      "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5"
     },
     {
-      "headline": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue - BBC",
+      "headline": "US lawmakers push for AI 'kill switch' after OpenAI models go rogue - BBC",
       "source": "BBC",
       "timestamp": "2026-07-23T20:58:35.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "regulation",
-      "summary": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue &nbsp;&nbsp; BBC",
+      "summary": "US lawmakers push for AI 'kill switch' after OpenAI models go rogue &nbsp;&nbsp; BBC",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZFJnRzEzWG5aR0pVLTdCbjNtOXpLdmJiQVRxXzI1RVlJQzJycnc5V0p6V2RIb2VZZzM2VHNaUk9Ed1BlZ2haSmtHeFhUVlRtY1dFdlpKWHRBQQ?oc=5"
     },
@@ -82,38 +102,36 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5"
     },
     {
-      "headline": "Meta launched a new AI optimism ad set to a song about human extinction - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-23T16:28:50.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta launched a new AI optimism ad set to a song about human extinction &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWN2dEZPRl94d2toQ0lLbnZnR3BqRV8tc3ZRdV9YX0FpODluVzNteEsxMG0tN0k3T0xjWUxRVjRWaWMxd1lVQ0Z2Mnk0Z3BjLWhjREdsTmdNNEYwdEh6UUtFVFhLVEhVUExNYXVSV0p4MmwzRWNaS3RaTDBqUXhzSEoyV3VwanZtX19HcDNkUWdNQnNpSXFfVUdPaHUzdXVGZVplRVpiUzZMdw?oc=5"
-    },
-    {
-      "headline": "For years, they worried AI might break free. Now they have to stop it. - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-07-23T16:00:00.000Z",
+      "headline": "Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions - The Information",
+      "source": "The Information",
+      "timestamp": "2026-07-23T15:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "For years, they worried AI might break free. Now they have to stop it. &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzJ6UTNnai1IR1AtWlJ3Mm9hZG1pelQ4UUxVN1k3RE1fMzNwYWIwZHQ3Y2Z5TFQwWS1wYndwcWN1WGlGU1J2bFhsNFpsOG9CODJ2SnhTVkM4THNvSkgza0JQN1Q0SThFMlJ0TVZsLWJZUE84RERBTzg0MkZPbFN3MVk1dC1JQk0wWDZiU050MWV2U3JvaXdpNTBhYzhPSEwyOFUwLVRoYi05bjRCbC1LU2o0WXVERlJ5eUNMbXBn?oc=5"
-    },
-    {
-      "headline": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-07-23T15:08:28.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTl2ZnhsZ0R2NkdtOFNiXzI4SmdJWDBRQUdyVXlwdGFxMmJtbTJtZUJmUUJrazhuOFdjMTZkM1VEbF9Eb1B3ZmZCNHR2X1RUajBzZUpQeEZQbkV4Q0kyOTN2ZWhhQjBubENjWXhXNXdRNUpXaExRRkVsWl9ZNEdkSUloUUZvbmpCTUd5amdnYmJSY2ZfOG9RLTdBM3VSRkQzOXcySVloT1oxbUJGNUlOdWRnTmVQUE5RaGRzM1Rrd1R6MFBtSlNNdnNpamN6R29TRmQ4TGJFSXg4UFRJOFVXdkYtRQ?oc=5"
+      "summary": "Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEVxN1FUYkkzUVlKVjJGejVuNFMxSUZ1ZVhVbDNCWU9qbmlidUtvWENWUHVYZWxjMlUyOFRTZGxpV0ZCS3ZYUHlEcVV2bkJqUHhZeGZjWWNOUm0tOHlIM2R1RlR5VkdzUmJQWTlFQjYwZ25HOUxjb3VBTmcyQWJsSzNUQWZ2cnVTQUVPWTBOOFhELWpZSW9KNW5vdw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Lock down your ChatGPT account before the next AI attack - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-07-24T09:57:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNGVqaXd4QV9Gams1aHk1Y0VfWjdLWWFkWWg0M2JFdHM2Q1MyQnlBMHVMMTE5UEo3dTdZMmVzV1pCaUlSSU1sMTdycGtRZGw0LWlGMmlGTDdzZjVVR09iYlFSVTRneUIxTFhMZE5XSHpxV2k5Yl9pRWI2SktOQUJSWWozaWcyd9IBiwFBVV95cUxQek1YWXNzYmdlVm9UTzFlZk8tSHpjczhKUS1nU0l0Y3hZaUozeV80QkMxZjNKRDR4R3FyWWRmRnNMNlhSaWZXQk9OZmJpYnMzNU9SVnVNZ3JoT3BVc2xnZWZ0ejNNREpiSzMtZVVWck1rWm54STVPREdpLVEwd2hFUHVXYjIzajI5NEVR?oc=5",
+        "summary": "Lock down your ChatGPT account before the next AI attack &nbsp;&nbsp; Fox News"
+      },
+      {
+        "headline": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start - NBC News",
+        "source": "NBC News",
+        "timestamp": "2026-07-24T09:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG9Yb2NLUnFQU2RVQXl5RHdPMXcybkZWVFlZUWFLNUFaR0pzOEhmZlpvVzNCNjZwQUhpdlVPeWZqdFJqNnMyWVlFQUpHTGJDUUl2R3F6OE5KdVJLc21vLWpMazV0aW9ObzNQQkxpc0lRYnVtNHp6V0k3Q2ljU2NvaXBjeHU4T1JtMm8teUlYaFB0bktKam4xUFdjNmMxOVcyX0JlUkpKRVM?oc=5",
+        "summary": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start &nbsp;&nbsp; NBC News"
+      },
       {
         "headline": "silicon diversity powers Azure AI infrastructure - SiliconANGLE",
         "source": "SiliconANGLE",
@@ -130,16 +148,16 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5",
-        "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC Silicon Valley Unites Against Anthropic Over Chinese AI Restrictions &nbsp;&nbsp; The Information OpenAI and Anthropic find common ground: open-weight AI &nbsp;&nbsp; Axios"
+        "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says &nbsp;&nbsp; BBC"
       },
       {
-        "headline": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue - BBC",
+        "headline": "US lawmakers push for AI 'kill switch' after OpenAI models go rogue - BBC",
         "source": "BBC",
         "timestamp": "2026-07-23T20:58:35.000Z",
-        "impact": "LOW",
+        "impact": "HIGH",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZFJnRzEzWG5aR0pVLTdCbjNtOXpLdmJiQVRxXzI1RVlJQzJycnc5V0p6V2RIb2VZZzM2VHNaUk9Ed1BlZ2haSmtHeFhUVlRtY1dFdlpKWHRBQQ?oc=5",
-        "summary": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue &nbsp;&nbsp; BBC"
+        "summary": "US lawmakers push for AI 'kill switch' after OpenAI models go rogue &nbsp;&nbsp; BBC"
       },
       {
         "headline": "‘Call us whatever the hell you want’: Mark Zuckerberg just launched an AI optimism blitz using nostalgia to sell Meta’s AI future amid backlash - Yahoo Finance",
@@ -149,24 +167,6 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcXBKdGV5TlZJUUNYMHNHd2VVdjBrQS05a2RXY01INDFJckJJdF9RNXNTUktKWVhaZXdFbVk5MFRpSTNSNDRjelBiTS1kaDdfcmdkUXJlT2lOTGRHZDBsOFdJaGpsNmVQeThORjhYMS1wWFF2ZUIwM3AtXzBBd1psVkhXOFFyOTg3ekp5OVZQbFhpdlg3?oc=5",
         "summary": "‘Call us whatever the hell you want’: Mark Zuckerberg just launched an AI optimism blitz using nostalgia to sell Meta’s AI future amid backlash &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-07-23T19:53:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9Jb3NIQ2dSYlpFaC1hMVcwMHctaFRYa0dsemNDTFZjTHZncU9QR3lCeUpsNHpVLXdoMy0wN2FwQXdUWGtiY1E5MzhyaUVVUVk5Zm81WG83aDZjUG1OMnJqTHphZTktR3g3NUc1bFlOR2N3VE1KZ0Zsck9wenhkVWM0OFRMQTZ3TUk2N2JhVmItZHVHdEJib1FuaEYzMWlFQ2c0RDEtZ00?oc=5",
-        "summary": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-07-23T18:45:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFET3haNHd2NFZTNjUtb1VuQVp1NHZLNlh3YWczMGUtWWdYTHN0VnlNUGh4YTlWYzFMeFk1LTB4bU5Sd2lYV0ZPLUFraW1BVHh5QVQtVm14cDBnVV9oQTdaUzJydnRHMWFaN2lzT05fTTdxRU9HRkF5Zm9Qc2JyemUyTmdieXB0elE?oc=5",
-        "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending &nbsp;&nbsp; WIRED"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
