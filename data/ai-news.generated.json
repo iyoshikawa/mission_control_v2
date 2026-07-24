@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-23T23:00:04.265Z",
+    "generatedAt": "2026-07-24T00:07:25.507Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,26 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know - PBS",
+      "source": "PBS",
+      "timestamp": "2026-07-23T23:37:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know &nbsp;&nbsp; PBS",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUbSAboBQVVfeXFMUGVYSXZOUm5QM2g0VXh6b3BsZ2VDTFYtUkRTeldBQUZVZzliLW4zbzF1X3Q2ajFGZDZGblJYaXRmTjNCWE9GUEpzZ2lIQ2V5a09zczBiZm9DUHFUeF9WZGdwSURFVkVQWWxwXzIwUXNCVzl6THJta0M1d29uQzNyNDJSeWZTZnhxUXRIUWxmTlVpYm5PTnU2NDlzNkhZMm92VEF5Q1Yzb3FDM040c215a2Q2Q2FtajM4Tl9B?oc=5"
+    },
+    {
+      "headline": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agent - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-07-23T23:06:00.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agent &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5"
+    },
     {
       "headline": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue - BBC",
       "source": "BBC",
@@ -30,6 +50,16 @@
       "summary": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9Jb3NIQ2dSYlpFaC1hMVcwMHctaFRYa0dsemNDTFZjTHZncU9QR3lCeUpsNHpVLXdoMy0wN2FwQXdUWGtiY1E5MzhyaUVVUVk5Zm81WG83aDZjUG1OMnJqTHphZTktR3g3NUc1bFlOR2N3VE1KZ0Zsck9wenhkVWM0OFRMQTZ3TUk2N2JhVmItZHVHdEJib1FuaEYzMWlFQ2c0RDEtZ00?oc=5"
+    },
+    {
+      "headline": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-07-23T18:45:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFET3haNHd2NFZTNjUtb1VuQVp1NHZLNlh3YWczMGUtWWdYTHN0VnlNUGh4YTlWYzFMeFk1LTB4bU5Sd2lYV0ZPLUFraW1BVHh5QVQtVm14cDBnVV9oQTdaUzJydnRHMWFaN2lzT05fTTdxRU9HRkF5Zm9Qc2JyemUyTmdieXB0elE?oc=5"
     },
     {
       "headline": "Meta launched a new AI optimism ad set to a song about human extinction - TechCrunch",
@@ -54,7 +84,7 @@
     {
       "headline": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
       "source": "Axios",
-      "timestamp": "2026-07-23T13:40:18.000Z",
+      "timestamp": "2026-07-23T13:01:22.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; Axios",
@@ -74,46 +104,34 @@
     {
       "headline": "Mark Zuckerberg launches AI optimism campaign - Axios",
       "source": "Axios",
-      "timestamp": "2026-07-23T10:28:46.000Z",
+      "timestamp": "2026-07-23T10:00:49.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Mark Zuckerberg launches AI optimism campaign &nbsp;&nbsp; Axios",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5"
-    },
-    {
-      "headline": "Zuckerberg says AI should empower people, not replace them, in new Meta vision - Fox Business",
-      "source": "Fox Business",
-      "timestamp": "2026-07-23T10:09:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zuckerberg says AI should empower people, not replace them, in new Meta vision &nbsp;&nbsp; Fox Business",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSG55ZHJYMU5LRDI4TWFOSDd0NWZ2RXR5RjRidXdkR2VTOERvZ1J0SFdsdlU4X3RCR3c5M1JQMDM3WS1ZdkE3OERrQ3BlcnRXaU92ZEo2R0hGdElTeUs0T21jV3VfOGp2UHZwUzBxTzBRbjg4dXI5VVF1aXVVemZmZFlFcDViR1ZTeXdGetIBkgFBVV95cUxPUTQzMllTOEduR1l3UXFIbURzOFVQaFNLR3B4NWx1TFVVWE40Qm4tV1JaVVAxY3d1WTdsTEFtcl9DTUhGNjczT0xDYmRmejhSWHdrY2JPRG4ta2p1RkliRUdKR0hxRXo3SmNUQ0dLZzMyM1FZOFpMWk9nSEZ6SmhLYUdoUGFaT0I4eE9INGZvRTF0dw?oc=5"
-    },
-    {
-      "headline": "Why the OpenAI escape is the most worrying AI mishap yet - The Economist",
-      "source": "The Economist",
-      "timestamp": "2026-07-22T18:15:48.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why the OpenAI escape is the most worrying AI mishap yet &nbsp;&nbsp; The Economist",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTRLdXBPbEtzOHcyLU1pTjFBQzBsbFQ1UWR2eVpSWnhoR0xLVGl3OXFHMWh2V2dfSHh1bnIxbHB2WXAzU09STmpwdXlMbC1faUhXQ0d0aXc5M1VoX2xCWGZKWldYQnZXYXdVek9CcjdQUk9ZYXNkVTVrUVpZVWVfanpDZnVENTdMMDg4T1AyaGU3YnhVYXZZVFh6aUxwNVZCVXJ4VG5sOXNRSEllWEZaY2JvUDdSQVU?oc=5"
-    },
-    {
-      "headline": "The Anthropic Economic Index connector - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-07-22T17:13:51.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Anthropic Economic Index connector &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know - PBS",
+        "source": "PBS",
+        "timestamp": "2026-07-23T23:37:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUbSAboBQVVfeXFMUGVYSXZOUm5QM2g0VXh6b3BsZ2VDTFYtUkRTeldBQUZVZzliLW4zbzF1X3Q2ajFGZDZGblJYaXRmTjNCWE9GUEpzZ2lIQ2V5a09zczBiZm9DUHFUeF9WZGdwSURFVkVQWWxwXzIwUXNCVzl6THJta0M1d29uQzNyNDJSeWZTZnhxUXRIUWxmTlVpYm5PTnU2NDlzNkhZMm92VEF5Q1Yzb3FDM040c215a2Q2Q2FtajM4Tl9B?oc=5",
+        "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know &nbsp;&nbsp; PBS"
+      },
+      {
+        "headline": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agent - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-07-23T23:06:00.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzl2bU9TZUVrc040OEttNi04SVkyTW5FdDVFV2hOcHdWaEZkNkFYc0FlU2JxcThRb1c2LTFZQ08xOVRab3pMTjRIVGs1WHkwbW9pVWZTMjVhTTZBdk5nNjI2NjlHbk5aRGZ4ZUlfdktoQ1QzX2JnRE1xVHNaWkpTdW1RelctNWpLbTBIMk1XRF9RbjBYSy0zS1FLaUx6UQ?oc=5",
+        "summary": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agent &nbsp;&nbsp; Fortune"
+      },
       {
         "headline": "US lawmakers push for AI 'kill switch' after OpenAI goes rogue - BBC",
         "source": "BBC",
@@ -133,6 +151,15 @@
         "summary": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion &nbsp;&nbsp; Bloomberg.com"
       },
       {
+        "headline": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-07-23T18:45:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFET3haNHd2NFZTNjUtb1VuQVp1NHZLNlh3YWczMGUtWWdYTHN0VnlNUGh4YTlWYzFMeFk1LTB4bU5Sd2lYV0ZPLUFraW1BVHh5QVQtVm14cDBnVV9oQTdaUzJydnRHMWFaN2lzT05fTTdxRU9HRkF5Zm9Qc2JyemUyTmdieXB0elE?oc=5",
+        "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending &nbsp;&nbsp; WIRED"
+      },
+      {
         "headline": "Meta launched a new AI optimism ad set to a song about human extinction - TechCrunch",
         "source": "TechCrunch",
         "timestamp": "2026-07-23T16:28:50.000Z",
@@ -140,33 +167,6 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWN2dEZPRl94d2toQ0lLbnZnR3BqRV8tc3ZRdV9YX0FpODluVzNteEsxMG0tN0k3T0xjWUxRVjRWaWMxd1lVQ0Z2Mnk0Z3BjLWhjREdsTmdNNEYwdEh6UUtFVFhLVEhVUExNYXVSV0p4MmwzRWNaS3RaTDBqUXhzSEoyV3VwanZtX19HcDNkUWdNQnNpSXFfVUdPaHUzdXVGZVplRVpiUzZMdw?oc=5",
         "summary": "Meta launched a new AI optimism ad set to a song about human extinction &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI - Microsoft Source",
-        "source": "Microsoft Source",
-        "timestamp": "2026-07-23T15:08:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTl2ZnhsZ0R2NkdtOFNiXzI4SmdJWDBRQUdyVXlwdGFxMmJtbTJtZUJmUUJrazhuOFdjMTZkM1VEbF9Eb1B3ZmZCNHR2X1RUajBzZUpQeEZQbkV4Q0kyOTN2ZWhhQjBubENjWXhXNXdRNUpXaExRRkVsWl9ZNEdkSUloUUZvbmpCTUd5amdnYmJSY2ZfOG9RLTdBM3VSRkQzOXcySVloT1oxbUJGNUlOdWRnTmVQUE5RaGRzM1Rrd1R6MFBtSlNNdnNpamN6R29TRmQ4TGJFSXg4UFRJOFVXdkYtRQ?oc=5",
-        "summary": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI &nbsp;&nbsp; Microsoft Source"
-      },
-      {
-        "headline": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-23T13:40:18.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
-        "summary": "Google's Gemini delay exposes a deeper problem: employee frustration &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? - San Francisco Chronicle",
-        "source": "San Francisco Chronicle",
-        "timestamp": "2026-07-23T11:04:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmNEOXJObHh3QUQ0SXdvUlhMWW10SktKbXhlaG01UUNXc0ExR29FS1BfWTdpT3RwNVJhV3lCUGptOUozSjh0UVhQUXMwWC0wUDdYR2ZybjR0cVhmS0o0S0pDbUtwV25xMURseEloeDhkRDVtVzR0a0FRcWw0ekNveTd3?oc=5",
-        "summary": "OpenAI and Anthropic could go public for trillions. Will S.F. cash in? &nbsp;&nbsp; San Francisco Chronicle"
       }
     ],
     "whyItMatters": [
