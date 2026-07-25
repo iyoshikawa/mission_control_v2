@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T15:06:38.387Z",
+    "generatedAt": "2026-07-25T17:03:01.823Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -72,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1dOYzY5cGtPa1NuV0hJX3kyMTRiX1BwbGl5WWFpTFk4aDlMeHpZOGVaQ1dmWTJhUXNfOXFTSzE0NG9ac2RiTk44ZWg1Yk12ZlNiSkw3eWpOMGRLXzNlRnYxUEpJVGVqR0piMzlJM3V1QTEtb05FdkNCaDMxWlhjMF8zVy1iMjhNX292aDYwYnZwdGdsaEZqLQ?oc=5"
     },
     {
+      "headline": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-24T17:37:49.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5"
+    },
+    {
       "headline": "Introducing Claude Opus 5 - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-07-24T17:00:57.000Z",
@@ -100,16 +110,6 @@
       "summary": "Google DeepMind chief boasts we've 'make sand think' but now he wants urgent safeguards &nbsp;&nbsp; TechRadar",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMnYtRl9LQWVTLUNmMFNLMTNRUUVNR2o2NEU4aXZmNTluZ1Nha29QeExnY3o1MWlvSzk5SmZxY2pscDE5UWpjNFM0YmYtRnlCN1JJbFVhOWNOeGxmWGxBZ3F6WE5vUmN2SWtuWkNqUGRnUVJfNHNjM3hjd2duaWloaHYzQ0F6bFE5VDNSZWJ3cnlnRjh1T1d4Zm5fZ1Z5dl93RnM2dzJmOHpYSzl2Nmh5R25rMGtUbldfaFg0WDJ6emJXOEFOT195cHZBZF9wVVBpQnJLd1RSR1EtMkE3OTlDT1JlUVF2VjhPb1pMdDlUY0R4YjZJSnlHUTczRUEyYmhOZy03VFh2VXVrXzNQNVI4dDVCMDVZckNS?oc=5"
-    },
-    {
-      "headline": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
-      "source": "Tech Policy Press",
-      "timestamp": "2026-07-24T13:51:38.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ &nbsp;&nbsp; Tech Policy Press",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5"
     }
   ],
   "aiNews": {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
