@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T09:52:50.237Z",
+    "generatedAt": "2026-07-25T11:14:07.574Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "ChatGPT now has a space for sharing medical records. Should you? - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-07-25T10:00:06.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "ChatGPT now has a space for sharing medical records. Should you? &nbsp;&nbsp; CBS News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWh5VVp6ZDY5eE92aGtLWnRtWkJ1WHdvenRkUi02cDV1LUdKUGtibkxiRHVOcWVhZXpoY0VqM3pPQTJlYUdrcDRGWEJBdlRCamFsUDZvdEdaZ2U4SEhkMmVRRXZtWG9Tc1d0emZvRnFVT0NiaUY1MF9ULW9vMmNEN05LbGFSaVU?oc=5"
+    },
+    {
       "headline": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer",
       "source": "BleepingComputer",
       "timestamp": "2026-07-25T09:31:09.000Z",
@@ -20,26 +30,6 @@
       "summary": "OpenAI confirms ChatGPT is down worldwide &nbsp;&nbsp; BleepingComputer",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2ZKLVFHN1diNXBfT2VGVjg1Zld1UUpNSlJqbG5EVkZhcUlLTjVXa3ZOaEw3ZTI1TjN4UmNXUE1MTWM1Wmh5cXFMb0RLRWlGck12b1QtU0E1bkZnWExubVVvUHM3Q3dNdnVwSGx5OGVHUUxZUmxoek53MXAwM2NpdUhQWTBZbkNlcnE4NjZBRzM4bnE2Y1VKTV9jUkZqeGMta0dFc3dFVdIBrAFBVV95cUxQLTdfU0pYV0VwQ3JZY2lMZHRjX3ZmNkp4V1BuR3NhczFKZW5RZjZrajVpaEg5TzJlYlZLYlZ5dld6bkhHYzlxbm0yUTlpYzR3QWNtUFE0eWNTZ3RZUTYwNEplQ1JVeVZVdE1kSEhkNlpXWElTaExJTC1feUNFX1dBa1FkWC14QXpiZnkxZlA0bVBSRTgzbThKNlFVNjY1OFhVRmk0R2JMTm9NYldI?oc=5"
-    },
-    {
-      "headline": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-25T09:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5"
-    },
-    {
-      "headline": "Anthropic and Meta are on the defensive. Can they win back trust? - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-25T08:19:25.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic and Meta are on the defensive. Can they win back trust? &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0JibExqSzlabnY5N09DMGZCT3FJTFdZVEx6MVNhZm9sSEFlQzRYVmUzWEJTaHlVSzhWbHJ4dVR0NzdFODk3bkVLd2pjcUdpY2xkLUlDeXpDUWg5aEFqYUloREJDdEtDN2R5cG5TX3VyYl9QaHRnU3lFZmF4QjREM2x3?oc=5"
     },
     {
       "headline": "Why this philosopher turned down Anthropic - Financial Times",
@@ -110,10 +100,29 @@
       "summary": "Meta is making its AI chatbot more like an assistant &nbsp;&nbsp; The Verge",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZRURmRlpMRi1DRXVlQzVxazFfalVmTW41Y2pQX0U3VDBmT013czBHWFI2dkprMjlQYWxYZ3RhcElhS2drQ3NvNkhNdm9JY1dEZVA4UkE1cXhaS1FmRE11TU42ZnY3bGFjMkZRUEE4Zm8tWlhBNnJWbVpBc1U?oc=5"
+    },
+    {
+      "headline": "Google DeepMind chief boasts we've 'make sand think' but now he wants urgent safeguards - TechRadar",
+      "source": "TechRadar",
+      "timestamp": "2026-07-24T15:24:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind chief boasts we've 'make sand think' but now he wants urgent safeguards &nbsp;&nbsp; TechRadar",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMnYtRl9LQWVTLUNmMFNLMTNRUUVNR2o2NEU4aXZmNTluZ1Nha29QeExnY3o1MWlvSzk5SmZxY2pscDE5UWpjNFM0YmYtRnlCN1JJbFVhOWNOeGxmWGxBZ3F6WE5vUmN2SWtuWkNqUGRnUVJfNHNjM3hjd2duaWloaHYzQ0F6bFE5VDNSZWJ3cnlnRjh1T1d4Zm5fZ1Z5dl93RnM2dzJmOHpYSzl2Nmh5R25rMGtUbldfaFg0WDJ6emJXOEFOT195cHZBZF9wVVBpQnJLd1RSR1EtMkE3OTlDT1JlUVF2VjhPb1pMdDlUY0R4YjZJSnlHUTczRUEyYmhOZy03VFh2VXVrXzNQNVI4dDVCMDVZckNS?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "ChatGPT now has a space for sharing medical records. Should you? - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-07-25T10:00:06.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWh5VVp6ZDY5eE92aGtLWnRtWkJ1WHdvenRkUi02cDV1LUdKUGtibkxiRHVOcWVhZXpoY0VqM3pPQTJlYUdrcDRGWEJBdlRCamFsUDZvdEdaZ2U4SEhkMmVRRXZtWG9Tc1d0emZvRnFVT0NiaUY1MF9ULW9vMmNEN05LbGFSaVU?oc=5",
+        "summary": "ChatGPT now has a space for sharing medical records. Should you? &nbsp;&nbsp; CBS News"
+      },
       {
         "headline": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer",
         "source": "BleepingComputer",
@@ -122,24 +131,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2ZKLVFHN1diNXBfT2VGVjg1Zld1UUpNSlJqbG5EVkZhcUlLTjVXa3ZOaEw3ZTI1TjN4UmNXUE1MTWM1Wmh5cXFMb0RLRWlGck12b1QtU0E1bkZnWExubVVvUHM3Q3dNdnVwSGx5OGVHUUxZUmxoek53MXAwM2NpdUhQWTBZbkNlcnE4NjZBRzM4bnE2Y1VKTV9jUkZqeGMta0dFc3dFVdIBrAFBVV95cUxQLTdfU0pYV0VwQ3JZY2lMZHRjX3ZmNkp4V1BuR3NhczFKZW5RZjZrajVpaEg5TzJlYlZLYlZ5dld6bkhHYzlxbm0yUTlpYzR3QWNtUFE0eWNTZ3RZUTYwNEplQ1JVeVZVdE1kSEhkNlpXWElTaExJTC1feUNFX1dBa1FkWC14QXpiZnkxZlA0bVBSRTgzbThKNlFVNjY1OFhVRmk0R2JMTm9NYldI?oc=5",
         "summary": "OpenAI confirms ChatGPT is down worldwide &nbsp;&nbsp; BleepingComputer"
-      },
-      {
-        "headline": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-25T09:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5",
-        "summary": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Anthropic and Meta are on the defensive. Can they win back trust? - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-25T08:19:25.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0JibExqSzlabnY5N09DMGZCT3FJTFdZVEx6MVNhZm9sSEFlQzRYVmUzWEJTaHlVSzhWbHJ4dVR0NzdFODk3bkVLd2pjcUdpY2xkLUlDeXpDUWg5aEFqYUloREJDdEtDN2R5cG5TX3VyYl9QaHRnU3lFZmF4QjREM2x3?oc=5",
-        "summary": "Anthropic and Meta are on the defensive. Can they win back trust? &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Why this philosopher turned down Anthropic - Financial Times",
@@ -167,6 +158,15 @@
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
         "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Anthropic's head of economics just explained why we haven't seen a white-collar bloodbath — yet - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-07-24T18:14:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1dOYzY5cGtPa1NuV0hJX3kyMTRiX1BwbGl5WWFpTFk4aDlMeHpZOGVaQ1dmWTJhUXNfOXFTSzE0NG9ac2RiTk44ZWg1Yk12ZlNiSkw3eWpOMGRLXzNlRnYxUEpJVGVqR0piMzlJM3V1QTEtb05FdkNCaDMxWlhjMF8zVy1iMjhNX292aDYwYnZwdGdsaEZqLQ?oc=5",
+        "summary": "Anthropic's head of economics just explained why we haven't seen a white-collar bloodbath — yet &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
