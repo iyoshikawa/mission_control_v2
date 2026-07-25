@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T00:07:36.651Z",
+    "generatedAt": "2026-07-25T04:14:07.058Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,19 @@
   },
   "newsFeed": [
     {
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
+      "source": "BBC",
+      "timestamp": "2026-07-24T23:11:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5"
+    },
+    {
       "headline": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-24T23:43:32.000Z",
+      "timestamp": "2026-07-24T22:14:00.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week &nbsp;&nbsp; Reuters",
@@ -22,34 +32,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5"
     },
     {
-      "headline": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models - Fox Business",
-      "source": "Fox Business",
-      "timestamp": "2026-07-24T21:14:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models &nbsp;&nbsp; Fox Business",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmxBWlRDQmpQMWsxVFNxY0MwZjFTcVY5cy1hS2ZjaVh3dU1LYnJzTElRdGc0M1doWTQyR3M3SWtuQUp0RC1Gc1BoUm1BQlgxWmRLWHNsZ0RSSDZmc0k0ZDh3c01uZGpSSnNjNlBwQ0hXY3JUdXNFdG1ncC0yNEdIZ0JoemhZamxmRklISy0wRndweG5qclkxV0otOFlvbTVTbDdTV3l30gGrAUFVX3lxTE9FWV8tTVR4eGJMNlNsVTZScnNFSmU0VFRSdjBCTkdxMGx1aUZ5QmVFZTJkVXRpS1lRdFhONHR1QXZpUTBnakN0RVhmZTktTGFkaFZZY3R4RGpkQ0UtaUYwc0w3TGdqYmotU2ZoX1ZxYzZ3aWQzMWNJTkZwWGVydGtoMlJRemc0SVFlNXBIZXpQY1VaNmpHSDB0UjZIN0xjeXhaU3pOaUtSX1Utaw?oc=5"
-    },
-    {
-      "headline": "Anthropic bets on cheaper AI with new model - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-24T17:15:16.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic bets on cheaper AI with new model &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOENSNnpnMGZKWXVNclJxTk5TRFVyaWJvV3VXdFkzY2RHNkhoLXdpS29reFVMc1NWb2ZjTTczT1UzcmI0MWVkQlpuLUVyNU1YNF9KSzFLNFE3dTdBTkNmSFdwcDJHS3hCUXoyaXdDeDNLeW5UMFlzVFZ2eGJYc2FNWFBrb05wcmFGZlk2YmF3MTdHZzRhTzJ0QUUtWQ?oc=5"
-    },
-    {
-      "headline": "Anthropic releases Claude Opus 5 for both AI coding and general office work - Fast Company",
-      "source": "Fast Company",
-      "timestamp": "2026-07-24T17:07:12.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic releases Claude Opus 5 for both AI coding and general office work &nbsp;&nbsp; Fast Company",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZtQWF1QVFrSEV5VTZpQXROd01jUkJheHJLbm94OHhWUWdWTkNHRENsUEVRcFhMWVZNQ2tnZDYyak1sWnc3UlVhWXdDZTdzSktEOEw5OU5kRGpFZzh4clJTd0tvYTR0Ny0zNmpXRENjLVVlVjdXT0NGZlY4Ym9rMkdfVVF4ejZxa0J0SEdySEVYclA1QVhjX3Y0TU9VWXJyemZadzZtMTZERU52X3pHMjJ3?oc=5"
+      "headline": "Anthropic's head of economics just explained why we haven't seen a white-collar bloodbath — yet - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-07-24T18:14:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic's head of economics just explained why we haven't seen a white-collar bloodbath — yet &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1dOYzY5cGtPa1NuV0hJX3kyMTRiX1BwbGl5WWFpTFk4aDlMeHpZOGVaQ1dmWTJhUXNfOXFTSzE0NG9ac2RiTk44ZWg1Yk12ZlNiSkw3eWpOMGRLXzNlRnYxUEpJVGVqR0piMzlJM3V1QTEtb05FdkNCaDMxWlhjMF8zVy1iMjhNX292aDYwYnZwdGdsaEZqLQ?oc=5"
     },
     {
       "headline": "Introducing Claude Opus 5 - Anthropic",
@@ -57,7 +47,7 @@
       "timestamp": "2026-07-24T17:00:57.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC Anthropic debuts Opus 5 model as company preps for IPO later this year &nbsp;&nbsp; Yahoo Finance Anthropic rolls out Opus 5 AI model in efficiency upgrade &nbsp;&nbsp; Reuters Anthropic Unveils More Cost-Efficient Model for Everyday Tasks &nbsp;&nbsp; Bloomberg.com Anthropic's Opus 5 is about token efficiency, not a capability leap &nbsp;&nbsp; Ars Technica Anthropic launches Opus 5 &nbsp;&nbsp; TechCrunch Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities &nbsp;&nbsp; The Verge Anthropic releases new model, Opus 5 &nbsp;&nbsp; Axios",
+      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC Anthropic debuts Opus 5 model as company preps for IPO later this year &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5"
     },
@@ -82,73 +72,74 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZRURmRlpMRi1DRXVlQzVxazFfalVmTW41Y2pQX0U3VDBmT013czBHWFI2dkprMjlQYWxYZ3RhcElhS2drQ3NvNkhNdm9JY1dEZVA4UkE1cXhaS1FmRE11TU42ZnY3bGFjMkZRUEE4Zm8tWlhBNnJWbVpBc1U?oc=5"
     },
     {
-      "headline": "Meta takes first steps toward a personal AI agent - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-24T16:51:39.000Z",
+      "headline": "Google DeepMind chief boasts we've 'make sand think' but now he wants urgent safeguards - TechRadar",
+      "source": "TechRadar",
+      "timestamp": "2026-07-24T15:24:13.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Meta takes first steps toward a personal AI agent &nbsp;&nbsp; Axios",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lYkR2YlVvT2lXeXpENmRiRmRaSGJwOXkyRTlKcDZZeEkwYlNVbFg0U0NlNVJWNlZ5VG92dDQwaUdqODF5RlBIQkk1a1pOZ0h6RFFFWDN5VVJXX04zVzkyaV8tRnZiQQ?oc=5"
+      "category": "ecosystem",
+      "summary": "Google DeepMind chief boasts we've 'make sand think' but now he wants urgent safeguards &nbsp;&nbsp; TechRadar",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMnYtRl9LQWVTLUNmMFNLMTNRUUVNR2o2NEU4aXZmNTluZ1Nha29QeExnY3o1MWlvSzk5SmZxY2pscDE5UWpjNFM0YmYtRnlCN1JJbFVhOWNOeGxmWGxBZ3F6WE5vUmN2SWtuWkNqUGRnUVJfNHNjM3hjd2duaWloaHYzQ0F6bFE5VDNSZWJ3cnlnRjh1T1d4Zm5fZ1Z5dl93RnM2dzJmOHpYSzl2Nmh5R25rMGtUbldfaFg0WDJ6emJXOEFOT195cHZBZF9wVVBpQnJLd1RSR1EtMkE3OTlDT1JlUVF2VjhPb1pMdDlUY0R4YjZJSnlHUTczRUEyYmhOZy03VFh2VXVrXzNQNVI4dDVCMDVZckNS?oc=5"
     },
     {
-      "headline": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-07-24T15:48:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RVU9pcWhLek5XVDJlSi1XQ3UxR0laS0wwTkh2Z29rMnhfWUExMHpqOEpwRGc4OGxJSVRnejhnd2Y1QS1DYVRySVo0RXpQOGdwMjFGTEtDT0xpQ09tazQyMXRyVjl3NkhTTzF1NXBHazdaWGlwbWhSY1hR?oc=5"
-    },
-    {
-      "headline": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-24T11:00:01.000Z",
+      "headline": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ - Tech Policy Press",
+      "source": "Tech Policy Press",
+      "timestamp": "2026-07-24T13:51:38.000Z",
       "impact": "HIGH",
-      "category": "models",
-      "summary": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTTRrTlB1X3V0akxjZERPdzI3RVZqS19ZVEVtWFg3QXM5MTNWa3RoQnk4RmQ2cHdCYWJ6ZzlKdWt1bk8yc0k5OHp5c25XdTFFS3FhSFBWY2lGT2ZnMVMtT0tBSm1qYjFNUTlzdG9wZWdfZlV0NU9GenNrMFJZZ9IBgwFBVV95cUxNR1Z2eGgweUw0dlhUV3E4VzVIZjlVekxkNXlKYWF3bVdYQXVVdVRzWmR5dldRQW1xNFB6aU5NdEl3aVNXWnFMN3dCZHFXSjJuU1plWE9ST18xWTRCa2Z3dW1QQnlHZ0RUb0E4QUd6VU1wLWJYUHpHWmtBeFFjOFNFak1XNA?oc=5"
+      "category": "regulation",
+      "summary": "An Indian Trans Person’s Harrowing Encounter Fuels Backlash Against Meta AI ‘Pervert Glasses’ &nbsp;&nbsp; Tech Policy Press",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkNwNlZzN3NpNUVaWHdnRExRc3RrdUJJU2tnQ0pCdHdpRmhFVjdGYXNWa1dYMlBXRnRoTjVqcG5KSEdoSjVyZ1l0eUVPdXVqVHV6aHVmZDJ3X0VYVGN5b0E1VzFpUGZfLWxQVEZfYlBBU2FEWFZtMUwtNmc3Z2R0eVJ1Q0Q5b2I0UGUyS1BoTV9tTXNtd19oRlQzZnFXeUF2NE52aVpyc1lMSjkyc2xid2lSYTNMdw?oc=5"
+    },
+    {
+      "headline": "silicon diversity powers Azure AI infrastructure - SiliconANGLE",
+      "source": "SiliconANGLE",
+      "timestamp": "2026-07-24T00:40:16.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "silicon diversity powers Azure AI infrastructure &nbsp;&nbsp; SiliconANGLE",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG9mS3hxYjJ2cGN0cnRueFJDMmQ0SmN5RGdCZGJXMXJ5NjJBN2ZoVndQTWZvbTVjNEdFVUhJeTRnTlI5bHdndk0wM3pjMzVqOERtNVN4SHBvMnU4TmxmWk4xZ0RqbUQ0Zm1HWkV4aVJYYl9UYXlGUUJZbkxuV2lFMGlqRW5VQlh0MjBfYk5jVW9va2xvSnFHWG53MnZOOE9RclE?oc=5"
+    },
+    {
+      "headline": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-07-23T19:53:35.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNW9Jb3NIQ2dSYlpFaC1hMVcwMHctaFRYa0dsemNDTFZjTHZncU9QR3lCeUpsNHpVLXdoMy0wN2FwQXdUWGtiY1E5MzhyaUVVUVk5Zm81WG83aDZjUG1OMnJqTHphZTktR3g3NUc1bFlOR2N3VE1KZ0Zsck9wenhkVWM0OFRMQTZ3TUk2N2JhVmItZHVHdEJib1FuaEYzMWlFQ2c0RDEtZ00?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
+        "source": "BBC",
+        "timestamp": "2026-07-24T23:11:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5",
+        "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC"
+      },
+      {
         "headline": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-07-24T23:43:32.000Z",
+        "timestamp": "2026-07-24T22:14:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
         "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models - Fox Business",
-        "source": "Fox Business",
-        "timestamp": "2026-07-24T21:14:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmxBWlRDQmpQMWsxVFNxY0MwZjFTcVY5cy1hS2ZjaVh3dU1LYnJzTElRdGc0M1doWTQyR3M3SWtuQUp0RC1Gc1BoUm1BQlgxWmRLWHNsZ0RSSDZmc0k0ZDh3c01uZGpSSnNjNlBwQ0hXY3JUdXNFdG1ncC0yNEdIZ0JoemhZamxmRklISy0wRndweG5qclkxV0otOFlvbTVTbDdTV3l30gGrAUFVX3lxTE9FWV8tTVR4eGJMNlNsVTZScnNFSmU0VFRSdjBCTkdxMGx1aUZ5QmVFZTJkVXRpS1lRdFhONHR1QXZpUTBnakN0RVhmZTktTGFkaFZZY3R4RGpkQ0UtaUYwc0w3TGdqYmotU2ZoX1ZxYzZ3aWQzMWNJTkZwWGVydGtoMlJRemc0SVFlNXBIZXpQY1VaNmpHSDB0UjZIN0xjeXhaU3pOaUtSX1Utaw?oc=5",
-        "summary": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models &nbsp;&nbsp; Fox Business"
-      },
-      {
-        "headline": "Anthropic bets on cheaper AI with new model - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-07-24T17:15:16.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOENSNnpnMGZKWXVNclJxTk5TRFVyaWJvV3VXdFkzY2RHNkhoLXdpS29reFVMc1NWb2ZjTTczT1UzcmI0MWVkQlpuLUVyNU1YNF9KSzFLNFE3dTdBTkNmSFdwcDJHS3hCUXoyaXdDeDNLeW5UMFlzVFZ2eGJYc2FNWFBrb05wcmFGZlk2YmF3MTdHZzRhTzJ0QUUtWQ?oc=5",
-        "summary": "Anthropic bets on cheaper AI with new model &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Anthropic releases Claude Opus 5 for both AI coding and general office work - Fast Company",
-        "source": "Fast Company",
-        "timestamp": "2026-07-24T17:07:12.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZtQWF1QVFrSEV5VTZpQXROd01jUkJheHJLbm94OHhWUWdWTkNHRENsUEVRcFhMWVZNQ2tnZDYyak1sWnc3UlVhWXdDZTdzSktEOEw5OU5kRGpFZzh4clJTd0tvYTR0Ny0zNmpXRENjLVVlVjdXT0NGZlY4Ym9rMkdfVVF4ejZxa0J0SEdySEVYclA1QVhjX3Y0TU9VWXJyemZadzZtMTZERU52X3pHMjJ3?oc=5",
-        "summary": "Anthropic releases Claude Opus 5 for both AI coding and general office work &nbsp;&nbsp; Fast Company"
+        "headline": "Anthropic's head of economics just explained why we haven't seen a white-collar bloodbath — yet - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-07-24T18:14:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1dOYzY5cGtPa1NuV0hJX3kyMTRiX1BwbGl5WWFpTFk4aDlMeHpZOGVaQ1dmWTJhUXNfOXFTSzE0NG9ac2RiTk44ZWg1Yk12ZlNiSkw3eWpOMGRLXzNlRnYxUEpJVGVqR0piMzlJM3V1QTEtb05FdkNCaDMxWlhjMF8zVy1iMjhNX292aDYwYnZwdGdsaEZqLQ?oc=5",
+        "summary": "Anthropic's head of economics just explained why we haven't seen a white-collar bloodbath — yet &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "Introducing Claude Opus 5 - Anthropic",
@@ -157,7 +148,7 @@
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-        "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC Anthropic debuts Opus 5 model as company preps for IPO later this year &nbsp;&nbsp; Yahoo Finance Anthropic rolls out Opus 5 AI model in efficiency upgrade &nbsp;&nbsp; Reuters Anthropic Unveils More Cost-Efficient Model for Everyday Tasks &nbsp;&nbsp; Bloomberg.com Anthropic's Opus 5 is about token efficiency, not a capability leap &nbsp;&nbsp; Ars Technica Anthropic launches Opus 5 &nbsp;&nbsp; TechCrunch Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities &nbsp;&nbsp; The Verge Anthropic releases new model, Opus 5 &nbsp;&nbsp; Axios"
+        "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC Anthropic debuts Opus 5 model as company preps for IPO later this year &nbsp;&nbsp; Yahoo Finance"
       },
       {
         "headline": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
@@ -167,13 +158,22 @@
         "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNRNXY5akdZb1hydUduUDlzVmd3c2pnTldpTGhZb2dMaWEtY2NxNDdtYTZHVWQwQlU0UWRzNUtXbVVzVXFkZTRvekJOd2hJd2h5TzFkRzJTcnhHRm4wZWxkOWNLVHNUY2FTRXVBX2VYS21zVnhaY1JrVFpqaDJBWDh3dmFKQdIBiwFBVV95cUxNVjBZb0ZvVXdEZHVlSkF4VFBOcmFZcVRqQ2VPT042Qmg2MC1LRGhjLTBfcGM1RExnbnhnZ2s1Y2xwRVkyMnlwSTUxalA5Mk5VV3BBYUlfdE5lSEZkTC15V3BqaFRBbGhMWTg1OERiUkR1a3ZwY09STjhTUWZvNFk2d3hHbHVuc3p4R19J?oc=5",
         "summary": "Meta AI Doesn’t Just Think, It Acts &nbsp;&nbsp; Meta Store"
+      },
+      {
+        "headline": "Meta is making its AI chatbot more like an assistant - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-07-24T17:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZRURmRlpMRi1DRXVlQzVxazFfalVmTW41Y2pQX0U3VDBmT013czBHWFI2dkprMjlQYWxYZ3RhcElhS2drQ3NvNkhNdm9JY1dEZVA4UkE1cXhaS1FmRE11TU42ZnY3bGFjMkZRUEE4Zm8tWlhBNnJWbVpBc1U?oc=5",
+        "summary": "Meta is making its AI chatbot more like an assistant &nbsp;&nbsp; The Verge"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
