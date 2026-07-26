@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-26T11:17:13.454Z",
+    "generatedAt": "2026-07-26T13:17:12.554Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
+      "headline": "Police detain Israelis protesting settler violence against Palestinians",
+      "summary": "Police detain Israelis protesting settler violence against Palestinians &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-26T13:09:14.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUczJpZnFjLTN1V1pKMGxNZjJObjhnNG15NndKSUFDNHB1eDExLWhDdnh2eVdLQi0tbEJlWGRmeFdDNEdyb3pUQk5na2F1ZjFtbGZtMm5MOWdZVk5FeFUyWU01S1hHVkU?oc=5"
+    },
+    {
+      "headline": "German interior minister says signs point to Islamist attack at Berlin Pride event",
+      "summary": "German interior minister says signs point to Islamist attack at Berlin Pride event &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-26T13:07:43.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFM3ckktaWpuc2ZjNXpMcE83dWhYTzZibFBmVXBsMHFDLXJQNzBjRVhlN0xxVVRybVFLdk43cjlBSW1vRzFGSVdfZklTWFpRNzBxU1ByMnVxQmNiLWRaRUN0eE1hU3FmN3VmM2RzVmUzWFUzQnFrV0ZTTEpMSXRJWFV3czRadEVxblFiRFBKRmZMcURNQy1zemhqcDZvOVdzdVpyMFpkU2JpN09hQUdzOEY0Umc2amRfTkE?oc=5"
+    },
+    {
       "headline": "Israeli strike kills a top Hamas security official in Gaza, medics and police say",
       "summary": "Israeli strike kills a top Hamas security official in Gaza, medics and police say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-07-26T10:25:07.000Z",
+      "timestamp": "2026-07-26T10:56:32.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5"
+    },
+    {
+      "headline": "Israeli settlers set fire to West Bank mosques after deadly clash",
+      "summary": "Israeli settlers set fire to West Bank mosques after deadly clash &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-26T10:43:49.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVBNcGd1UUxUT2Z6MUFrU1o4YW1XOVB5X2lXMVp4WFB5QjBlNkx2bnlocXdOVHFmMmozc1hXamVNQUdkZDl6SndsUmxrUWZXaDhadkMyZTdmektVVzQ0TkZVMWdleVRta01iUVhCWUplMnZGZVZpejc4SUNFYmlNTlBmWWVtdDczWWVYa2trT1BpRjZZaUQ5N1VWeVN2ajVOOVU1MTgyRVlhVTBFcFhpYUYtMnI1NjQ?oc=5"
     },
     {
       "headline": "Germany pledges justice over Berlin Pride attack as police hunt suspect",
@@ -45,17 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1aUmxVOHNfRkY1bW5mZG5DMUxHaFBpSWtPb3FONXF6YjItMFMycmx4M1YzTHhyZ1hlYURXMjM0UmlPQ3VRTTJwZjBGWFhudGxDWGl5NjJtbGtRdVFlcVJnVnNwZEcxSjctdzNEOThDcWctYnl2bG93eHlhYkFOaEItUEl3S2hzYXFKbHNpYjA2MVo3U2tUUk9CQ1dldnNUNWdkbjdqakJ3a3FJYmR5OG5WNGQ?oc=5"
     },
     {
-      "headline": "Israeli settlers set fire to West Bank mosques after deadly clash",
-      "summary": "Israeli settlers set fire to West Bank mosques after deadly clash &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-26T09:35:43.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVBNcGd1UUxUT2Z6MUFrU1o4YW1XOVB5X2lXMVp4WFB5QjBlNkx2bnlocXdOVHFmMmozc1hXamVNQUdkZDl6SndsUmxrUWZXaDhadkMyZTdmektVVzQ0TkZVMWdleVRta01iUVhCWUplMnZGZVZpejc4SUNFYmlNTlBmWWVtdDczWWVYa2trT1BpRjZZaUQ5N1VWeVN2ajVOOVU1MTgyRVlhVTBFcFhpYUYtMnI1NjQ?oc=5"
-    },
-    {
       "headline": "Africa facing $10-$20 billion economic hit from 'super' El Niño, AfDB climate chief warns",
       "summary": "Africa facing $10-$20 billion economic hit from 'super' El Niño, AfDB climate chief warns &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -76,28 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVk1mekVxbzAwM3dsUmNkRThudndHUjFQaWNKMW1mcElxT2pMREg4RjU5V0xWX2VCUVFGYTBoZzh1TTF2TWNGdGE4bUp6aG5QRFpHQV9LdjJNZF8zUk91Y28xSlFvdG4yVmczR0tRVnhSMENYQVcxODA5QlFPYmpjcXFTQjRHX055Mko1bEFRbmg5Zmh2cncxakhzY09WNzQ5dTlESGNVVHl6YW9yM0o0MXhLb1B0cGwzSEdz?oc=5"
-    },
-    {
-      "headline": "Australia to raise concerns over new tariffs with Trump, PM Albanese says",
-      "summary": "Australia to raise concerns over new tariffs with Trump, PM Albanese says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-26T01:23:00.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemd6N2ZxclRhSXRnQWN1Y3dwNWo1VXU2Qjg3Q2VfaElydmJtd1VmaUcxckpJWlJyaVh6dWoybnpQYUZ3WEtrbjhQa1haeFJia1dCYjR6QzFqQ1BPQWkxLW9SY1AxM1RLbXduMGxRbWQ3bkZXVVFQeDdQMUNfU2xzSzA4dGpOdjQ5MVBPOXFUVVNkQ1RjU0tkbEo2ZGoxZFNmWTlKN085Z2Z5SWJDS1ZvNFYxN3FmMTV6SDNiaFotM3lSdw?oc=5"
-    },
-    {
-      "headline": "Police identify Islamist as suspect in Berlin Pride attack, seeking his arrest",
-      "summary": "Police identify Islamist as suspect in Berlin Pride attack, seeking his arrest &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-26T00:48:00.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXNGVlZFWjIyRWRlUk5MSGlEUS03bDI1Mjg5NlJZTFByZDZ3MHdvZFV2X0FVUFA0SWhJSkk0NG1hNXZFVTROVXJjMnRsdG0xdnJUTHkydC1EY1ByS28zUVZmNzZnZk5PdlM3Uk5ZNEItejAzNHFoVW9jY3pWSFlrSW02Ri1SaEhTMkJpOEo2MkNWTlEtUmZTcldvTjJlcXNxbFNnM2lYT1ZSdnZKNHlscjJmc2tVdDI1OGFUWg?oc=5"
     }
   ]
 }
