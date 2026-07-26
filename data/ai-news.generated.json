@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-26T14:38:44.893Z",
+    "generatedAt": "2026-07-26T16:04:10.764Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "What is the AI Kill Switch Act proposed in the US and how will it work? - Al Jazeera",
-      "source": "Al Jazeera",
-      "timestamp": "2026-07-26T12:40:54.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "What is the AI Kill Switch Act proposed in the US and how will it work? &nbsp;&nbsp; Al Jazeera",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVRzSnVtN29ESmxOUjhPc0t6ZktGa2RRSnVaQkVuYl83VE8wcHZMZjVLRlZHWmRnN2V5X1JzUlp3MHBfWVJ1aWhQNlVsLTlHcWxWcEdfbWFDaGdWbzVpNldBeHZQMFdRNFFHbHlFcnZHejRmc2dic0ZkUVdQZWZJNkZXZGRyUzE3TmpWVlZJeVNYOTkyTHZNNGt2ODVpLUN0eF8yR1NfTXZ6Ml84MnNTeNIBtgFBVV95cUxNcV9EUk16YTNfVEZVRG1oZl81b1BnS1FXMVg1b2dvRXpOOFJ4WDh6UU81Nzc5QUF6aklZTEJBQUQ3MkNUTVhEXzhIS0Z2QzNaYmdETVlhQ3RnMlFmWjVaOWcwdy1jdkx4WDVxSEFBUkVCdDVZTFdJTDEwWGVjdkpqSGxUT3NsbURGVEk4ckp3WVcxQ01pb0htbnJoQzlHdXBNaXNOS2FnclFBdVBQbnMyZnFKRGRCUQ?oc=5"
-    },
-    {
       "headline": "What OpenAI CEO Sam Altman will tell the White House this week - Axios",
       "source": "Axios",
-      "timestamp": "2026-07-26T12:39:34.000Z",
+      "timestamp": "2026-07-26T13:59:22.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "What OpenAI CEO Sam Altman will tell the White House this week &nbsp;&nbsp; Axios",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2S3B3VmsxZHFGb0w0OHRUOEh2ZG0yNTUyeTh2ZzJHT2lNTVdsMW1ZblVKbUE4WnYyYnlLR3Q5dEVmM0JFRnlvSUQzRklXMXdmRWRuU29hdnZaQlZHM1lmZS1zUlJlaFptd1dyckFkSXNrU3hRRnhXNVpGeXIxRXM?oc=5"
+    },
+    {
+      "headline": "The Day the Bots Broke Loose - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-07-26T13:37:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Day the Bots Broke Loose &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90VnVqclNXaVFuU205enllZ3JQYzlUc0JfNV9TeENsMjdYeHRqMzJ4NVBNY3BWTXpDUGl0RXV5NHFqYzctQlJQWF82YkRMLWlKNkU5dEF0R0JnenAzLU0tckt5WUV3cFdvZVZqOGxJbHRUdzQ?oc=5"
+    },
+    {
+      "headline": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence - the-decoder.com",
+      "source": "the-decoder.com",
+      "timestamp": "2026-07-26T09:47:44.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence &nbsp;&nbsp; the-decoder.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmtCS3FVZ0tLUXNBY0xDTzNNMUZCdnVkelR1NWhEMTBlUkdoWnMxZGdLeEdIdzl1aUJTNVN6NGxPbXZhemlLRUhIak9JY0pOY2dwb04xamhMbEVuZ21XNjYtQ05nVTVNT3VQSENzLTJMMGpBUGVpczViX2psVXBCN2hCNG5wWEp6blA1OFhvZmV3Znpqd1J6MmtkcnVsLW9HVm42V1Nkc3JCOTljek5CLWJPSEtLMVhVbnV5bmluRF9BUW01Z3dUTEZPbGk?oc=5"
     },
     {
       "headline": "Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic - Forbes",
@@ -52,34 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHQ2R0NHeXlUenMyeFc0cFMxV1ZMb3k4dWlFWXp0c2NSLVBVU1pyWG55TDVGc0NnLVhPeUdqWjVIME1mZFlZa0pWSE1PSXJFZGlaNFlVVzI5NVdoQ0hKM2t0M1FkUmNrRGZSTUp4RGJEbzNnYUo0cVRzUnlWRTBDcEhNM1ZzeUlaMmZvZzRNZ2tkQkZ0NGJ5YkNFcw?oc=5"
     },
     {
-      "headline": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-25T17:05:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzJkQ0NsZEowOGNPMWZnRmxYd1ltQ1pHWk9JS3ZTWTlDcnEzUTdkbWllQVZlaER4YWo1cDhKR3hWV3k4Y2lEZmY2TmlnZ3RmY1RxV3diQ2VpT2ZQNzVMUGxBdUp4N2pHZGFsajNHSWtHOFpZbGw0Ty0xNW1IR1d1bkViUmhOOUJlOUhwbGlRVDFwRUZwaFVucmhMSDZmS0FmVHUwQTV4dDlrMXVYNGY3dk92bzItbWVmMGJPdHFuNTRlTmRlM1FMUGJ1dHZQUk1Vbll4MWpmbUlRRGtWWlE?oc=5"
-    },
-    {
-      "headline": "I'm not letting Claude touch my passwords, no matter how safe Anthropic claims it is - Android Police",
-      "source": "Android Police",
-      "timestamp": "2026-07-25T17:00:15.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "I'm not letting Claude touch my passwords, no matter how safe Anthropic claims it is &nbsp;&nbsp; Android Police",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0LUlaUWtMVjFGdksyTkY4N2xSaDlrQ2lsN3lGQnBmRzRXWXdaT0hYVHlRT2VLQnQ0bkdJelNWQmlDQWlXcnYtX1NFNHB2OWNlbDFiZ2p1Qm5MVWlHNmxENEd2bWV2ZWs?oc=5"
-    },
-    {
-      "headline": "Why this philosopher turned down Anthropic - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-07-25T04:02:41.000Z",
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
+      "source": "BBC",
+      "timestamp": "2026-07-25T10:14:41.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Why this philosopher turned down Anthropic &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5"
+      "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5"
     },
     {
       "headline": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
@@ -102,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5"
     },
     {
+      "headline": "Introducing Claude Opus 5 - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-24T17:00:57.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5"
+    },
+    {
       "headline": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
       "source": "Meta Store",
       "timestamp": "2026-07-24T17:00:55.000Z",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "What is the AI Kill Switch Act proposed in the US and how will it work? - Al Jazeera",
-        "source": "Al Jazeera",
-        "timestamp": "2026-07-26T12:40:54.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVRzSnVtN29ESmxOUjhPc0t6ZktGa2RRSnVaQkVuYl83VE8wcHZMZjVLRlZHWmRnN2V5X1JzUlp3MHBfWVJ1aWhQNlVsLTlHcWxWcEdfbWFDaGdWbzVpNldBeHZQMFdRNFFHbHlFcnZHejRmc2dic0ZkUVdQZWZJNkZXZGRyUzE3TmpWVlZJeVNYOTkyTHZNNGt2ODVpLUN0eF8yR1NfTXZ6Ml84MnNTeNIBtgFBVV95cUxNcV9EUk16YTNfVEZVRG1oZl81b1BnS1FXMVg1b2dvRXpOOFJ4WDh6UU81Nzc5QUF6aklZTEJBQUQ3MkNUTVhEXzhIS0Z2QzNaYmdETVlhQ3RnMlFmWjVaOWcwdy1jdkx4WDVxSEFBUkVCdDVZTFdJTDEwWGVjdkpqSGxUT3NsbURGVEk4ckp3WVcxQ01pb0htbnJoQzlHdXBNaXNOS2FnclFBdVBQbnMyZnFKRGRCUQ?oc=5",
-        "summary": "What is the AI Kill Switch Act proposed in the US and how will it work? &nbsp;&nbsp; Al Jazeera"
-      },
-      {
         "headline": "What OpenAI CEO Sam Altman will tell the White House this week - Axios",
         "source": "Axios",
-        "timestamp": "2026-07-26T12:39:34.000Z",
+        "timestamp": "2026-07-26T13:59:22.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2S3B3VmsxZHFGb0w0OHRUOEh2ZG0yNTUyeTh2ZzJHT2lNTVdsMW1ZblVKbUE4WnYyYnlLR3Q5dEVmM0JFRnlvSUQzRklXMXdmRWRuU29hdnZaQlZHM1lmZS1zUlJlaFptd1dyckFkSXNrU3hRRnhXNVpGeXIxRXM?oc=5",
         "summary": "What OpenAI CEO Sam Altman will tell the White House this week &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "The Day the Bots Broke Loose - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-07-26T13:37:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90VnVqclNXaVFuU205enllZ3JQYzlUc0JfNV9TeENsMjdYeHRqMzJ4NVBNY3BWTXpDUGl0RXV5NHFqYzctQlJQWF82YkRMLWlKNkU5dEF0R0JnenAzLU0tckt5WUV3cFdvZVZqOGxJbHRUdzQ?oc=5",
+        "summary": "The Day the Bots Broke Loose &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence - the-decoder.com",
+        "source": "the-decoder.com",
+        "timestamp": "2026-07-26T09:47:44.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmtCS3FVZ0tLUXNBY0xDTzNNMUZCdnVkelR1NWhEMTBlUkdoWnMxZGdLeEdIdzl1aUJTNVN6NGxPbXZhemlLRUhIak9JY0pOY2dwb04xamhMbEVuZ21XNjYtQ05nVTVNT3VQSENzLTJMMGpBUGVpczViX2psVXBCN2hCNG5wWEp6blA1OFhvZmV3Znpqd1J6MmtkcnVsLW9HVm42V1Nkc3JCOTljek5CLWJPSEtLMVhVbnV5bmluRF9BUW01Z3dUTEZPbGk?oc=5",
+        "summary": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence &nbsp;&nbsp; the-decoder.com"
       },
       {
         "headline": "Nvidia Open Weights Letter Doubled To 50 Without Amazon And Anthropic - Forbes",
@@ -151,22 +160,13 @@
         "summary": "Residents protest Meta AI data center, voice neighborhood concerns &nbsp;&nbsp; KFOX"
       },
       {
-        "headline": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-25T17:05:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzJkQ0NsZEowOGNPMWZnRmxYd1ltQ1pHWk9JS3ZTWTlDcnEzUTdkbWllQVZlaER4YWo1cDhKR3hWV3k4Y2lEZmY2TmlnZ3RmY1RxV3diQ2VpT2ZQNzVMUGxBdUp4N2pHZGFsajNHSWtHOFpZbGw0Ty0xNW1IR1d1bkViUmhOOUJlOUhwbGlRVDFwRUZwaFVucmhMSDZmS0FmVHUwQTV4dDlrMXVYNGY3dk92bzItbWVmMGJPdHFuNTRlTmRlM1FMUGJ1dHZQUk1Vbll4MWpmbUlRRGtWWlE?oc=5",
-        "summary": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "I'm not letting Claude touch my passwords, no matter how safe Anthropic claims it is - Android Police",
-        "source": "Android Police",
-        "timestamp": "2026-07-25T17:00:15.000Z",
+        "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
+        "source": "BBC",
+        "timestamp": "2026-07-25T10:14:41.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0LUlaUWtMVjFGdksyTkY4N2xSaDlrQ2lsN3lGQnBmRzRXWXdaT0hYVHlRT2VLQnQ0bkdJelNWQmlDQWlXcnYtX1NFNHB2OWNlbDFiZ2p1Qm5MVWlHNmxENEd2bWV2ZWs?oc=5",
-        "summary": "I'm not letting Claude touch my passwords, no matter how safe Anthropic claims it is &nbsp;&nbsp; Android Police"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5",
+        "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
