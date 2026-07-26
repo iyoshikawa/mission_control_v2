@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-26T04:28:54.194Z",
+    "generatedAt": "2026-07-26T07:37:21.424Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -18,18 +18,28 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5"
     },
     {
-      "headline": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune",
+      "headline": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines - Fortune",
       "source": "Fortune",
       "timestamp": "2026-07-25T17:05:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so &nbsp;&nbsp; Fortune",
+      "summary": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines &nbsp;&nbsp; Fortune",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzJkQ0NsZEowOGNPMWZnRmxYd1ltQ1pHWk9JS3ZTWTlDcnEzUTdkbWllQVZlaER4YWo1cDhKR3hWV3k4Y2lEZmY2TmlnZ3RmY1RxV3diQ2VpT2ZQNzVMUGxBdUp4N2pHZGFsajNHSWtHOFpZbGw0Ty0xNW1IR1d1bkViUmhOOUJlOUhwbGlRVDFwRUZwaFVucmhMSDZmS0FmVHUwQTV4dDlrMXVYNGY3dk92bzItbWVmMGJPdHFuNTRlTmRlM1FMUGJ1dHZQUk1Vbll4MWpmbUlRRGtWWlE?oc=5"
+    },
+    {
+      "headline": "Best Buy makes room for Meta’s AI glasses as privacy debate grows - Star Tribune",
+      "source": "Star Tribune",
+      "timestamp": "2026-07-25T11:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Best Buy makes room for Meta’s AI glasses as privacy debate grows &nbsp;&nbsp; Star Tribune",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1BhN01oNmZxUVR1NVBlTmkwM2ttdkJtenFXVWVmZFItcWRwenlwUlJSbk1GUzRDWTdabVJYMWs1WkFUQnZONHJDTjFXUVViOHV2SGN3NllsT01hcUJvZEtWMWM4cHMzZ18tSGhna0JINmdiWVI1MUlNWS1JM0NsRmZLRWhhUQ?oc=5"
     },
     {
       "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
@@ -40,6 +50,16 @@
       "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5"
+    },
+    {
+      "headline": "Anthropic and Meta are on the defensive. Can they win back trust? - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-25T08:19:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic and Meta are on the defensive. Can they win back trust? &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0JibExqSzlabnY5N09DMGZCT3FJTFdZVEx6MVNhZm9sSEFlQzRYVmUzWEJTaHlVSzhWbHJ4dVR0NzdFODk3bkVLd2pjcUdpY2xkLUlDeXpDUWg5aEFqYUloREJDdEtDN2R5cG5TX3VyYl9QaHRnU3lFZmF4QjREM2x3?oc=5"
     },
     {
       "headline": "Why this philosopher turned down Anthropic - Financial Times",
@@ -72,22 +92,12 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5"
     },
     {
-      "headline": "Anthropic bets on cheaper AI with new model - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "timestamp": "2026-07-24T17:15:16.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic bets on cheaper AI with new model &nbsp;&nbsp; Yahoo Finance UK",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHp4SUpyMDEtVjZielNub3o3aVFQZnRMTnBVdElXNWg2UXpkLU9GeGVtX3NHV0lnVTB3UjV6THVHbklQLThKTWJpaGtOMm9GQ2Zmbno5czl5Q0Ywcy02am4xZTJHeFkyTHlBenRnQlYzYUhmaXIzdURUWFpqcWptczlXQVpzMGs?oc=5"
-    },
-    {
       "headline": "Introducing Claude Opus 5 - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-07-24T17:00:57.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic",
+      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic Anthropic rolls out Opus 5 AI model in efficiency upgrade &nbsp;&nbsp; Reuters Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5"
     },
@@ -100,16 +110,6 @@
       "summary": "Meta AI Doesn’t Just Think, It Acts &nbsp;&nbsp; Meta Store",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUNRNXY5akdZb1hydUduUDlzVmd3c2pnTldpTGhZb2dMaWEtY2NxNDdtYTZHVWQwQlU0UWRzNUtXbVVzVXFkZTRvekJOd2hJd2h5TzFkRzJTcnhHRm4wZWxkOWNLVHNUY2FTRXVBX2VYS21zVnhaY1JrVFpqaDJBWDh3dmFKQdIBiwFBVV95cUxNVjBZb0ZvVXdEZHVlSkF4VFBOcmFZcVRqQ2VPT042Qmg2MC1LRGhjLTBfcGM1RExnbnhnZ2s1Y2xwRVkyMnlwSTUxalA5Mk5VV3BBYUlfdE5lSEZkTC15V3BqaFRBbGhMWTg1OERiUkR1a3ZwY09STjhTUWZvNFk2d3hHbHVuc3p4R19J?oc=5"
-    },
-    {
-      "headline": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-24T17:00:01.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0dWcGxxaVZCeDd0ejF4ZjQ4RExpVkduWG9JVlR3WlM0QUNiSmZpUHR2dWxicEY3WF9fMlhvWU1VY1BWZ3pBZ1NTTWc0ZFp3TmVaTTl0eXNHOVQ1MzJWa2hCaDlpcXRIX20tNEIwTnVLOVhBNldFVU1jYTI3RC1ZZS1B0gGHAUFVX3lxTE9SLWl6OUtCMHkwTDg1QXhpR2tyRHBpbzUzYmVUdHFPUTcxUTRRN19KcDlZd0dPVmM2d05QSkxaRnl4M3BGVzJrNUlscjJtclJZSlVqUXoyTy1wU0gwODE4VTltQTJzNVYyODJ0T3RuMG5ZdzlDR3lUQlBWOXE1RE1laGZTaU1BOA?oc=5"
     }
   ],
   "aiNews": {
@@ -119,18 +119,27 @@
         "source": "The New York Times",
         "timestamp": "2026-07-25T20:07:33.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
         "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune",
+        "headline": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines - Fortune",
         "source": "Fortune",
         "timestamp": "2026-07-25T17:05:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzJkQ0NsZEowOGNPMWZnRmxYd1ltQ1pHWk9JS3ZTWTlDcnEzUTdkbWllQVZlaER4YWo1cDhKR3hWV3k4Y2lEZmY2TmlnZ3RmY1RxV3diQ2VpT2ZQNzVMUGxBdUp4N2pHZGFsajNHSWtHOFpZbGw0Ty0xNW1IR1d1bkViUmhOOUJlOUhwbGlRVDFwRUZwaFVucmhMSDZmS0FmVHUwQTV4dDlrMXVYNGY3dk92bzItbWVmMGJPdHFuNTRlTmRlM1FMUGJ1dHZQUk1Vbll4MWpmbUlRRGtWWlE?oc=5",
-        "summary": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so &nbsp;&nbsp; Fortune"
+        "summary": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Best Buy makes room for Meta’s AI glasses as privacy debate grows - Star Tribune",
+        "source": "Star Tribune",
+        "timestamp": "2026-07-25T11:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1BhN01oNmZxUVR1NVBlTmkwM2ttdkJtenFXVWVmZFItcWRwenlwUlJSbk1GUzRDWTdabVJYMWs1WkFUQnZONHJDTjFXUVViOHV2SGN3NllsT01hcUJvZEtWMWM4cHMzZ18tSGhna0JINmdiWVI1MUlNWS1JM0NsRmZLRWhhUQ?oc=5",
+        "summary": "Best Buy makes room for Meta’s AI glasses as privacy debate grows &nbsp;&nbsp; Star Tribune"
       },
       {
         "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
@@ -142,6 +151,15 @@
         "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC"
       },
       {
+        "headline": "Anthropic and Meta are on the defensive. Can they win back trust? - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-07-25T08:19:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0JibExqSzlabnY5N09DMGZCT3FJTFdZVEx6MVNhZm9sSEFlQzRYVmUzWEJTaHlVSzhWbHJ4dVR0NzdFODk3bkVLd2pjcUdpY2xkLUlDeXpDUWg5aEFqYUloREJDdEtDN2R5cG5TX3VyYl9QaHRnU3lFZmF4QjREM2x3?oc=5",
+        "summary": "Anthropic and Meta are on the defensive. Can they win back trust? &nbsp;&nbsp; Business Insider"
+      },
+      {
         "headline": "Why this philosopher turned down Anthropic - Financial Times",
         "source": "Financial Times",
         "timestamp": "2026-07-25T04:02:41.000Z",
@@ -149,31 +167,13 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5",
         "summary": "Why this philosopher turned down Anthropic &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-24T22:14:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
-        "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-24T17:37:49.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
-        "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
