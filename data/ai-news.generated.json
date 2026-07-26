@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-26T10:03:47.283Z",
+    "generatedAt": "2026-07-26T12:06:25.927Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI's Rogue AI Models Were Reportedly Acting Like the Guy From Christopher Nolan's 'Memento' - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-07-26T09:00:24.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI's Rogue AI Models Were Reportedly Acting Like the Guy From Christopher Nolan's 'Memento' &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkdkX0o5Y0w1NWVTempFaFc0dzB3OHctMkJaMVhUY2tFTTdpTVR4Y2cxU1FHUHRrX0ZLVzRQNWxGTTlSTWFtTXQtYnZuZk5sR2FwNG9aekI2OHJVQ2U3T2ZQdmxqaGZDVl9PTWxYZ05pMkNHdUgwU0gzRDVZelBJQ2pvYVhfY0w1blF6LVpvRzdGdlZwZUZjSzBNNTZvRWJ6eXNsTkdwLUZMb0NFbUtQVnZCS2J4bnEzUG8zaGhVSQ?oc=5"
+    },
     {
       "headline": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
       "source": "The New York Times",
@@ -40,16 +50,6 @@
       "summary": "Best Buy makes room for Meta’s AI glasses as privacy debate grows &nbsp;&nbsp; Star Tribune",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1BhN01oNmZxUVR1NVBlTmkwM2ttdkJtenFXVWVmZFItcWRwenlwUlJSbk1GUzRDWTdabVJYMWs1WkFUQnZONHJDTjFXUVViOHV2SGN3NllsT01hcUJvZEtWMWM4cHMzZ18tSGhna0JINmdiWVI1MUlNWS1JM0NsRmZLRWhhUQ?oc=5"
-    },
-    {
-      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
-      "source": "BBC",
-      "timestamp": "2026-07-25T10:14:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5"
     },
     {
       "headline": "Why this philosopher turned down Anthropic - Financial Times",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "OpenAI's Rogue AI Models Were Reportedly Acting Like the Guy From Christopher Nolan's 'Memento' - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-07-26T09:00:24.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkdkX0o5Y0w1NWVTempFaFc0dzB3OHctMkJaMVhUY2tFTTdpTVR4Y2cxU1FHUHRrX0ZLVzRQNWxGTTlSTWFtTXQtYnZuZk5sR2FwNG9aekI2OHJVQ2U3T2ZQdmxqaGZDVl9PTWxYZ05pMkNHdUgwU0gzRDVZelBJQ2pvYVhfY0w1blF6LVpvRzdGdlZwZUZjSzBNNTZvRWJ6eXNsTkdwLUZMb0NFbUtQVnZCS2J4bnEzUG8zaGhVSQ?oc=5",
+        "summary": "OpenAI's Rogue AI Models Were Reportedly Acting Like the Guy From Christopher Nolan's 'Memento' &nbsp;&nbsp; Gizmodo"
+      },
+      {
         "headline": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-07-25T20:07:33.000Z",
@@ -140,15 +149,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1BhN01oNmZxUVR1NVBlTmkwM2ttdkJtenFXVWVmZFItcWRwenlwUlJSbk1GUzRDWTdabVJYMWs1WkFUQnZONHJDTjFXUVViOHV2SGN3NllsT01hcUJvZEtWMWM4cHMzZ18tSGhna0JINmdiWVI1MUlNWS1JM0NsRmZLRWhhUQ?oc=5",
         "summary": "Best Buy makes room for Meta’s AI glasses as privacy debate grows &nbsp;&nbsp; Star Tribune"
-      },
-      {
-        "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
-        "source": "BBC",
-        "timestamp": "2026-07-25T10:14:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5",
-        "summary": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Why this philosopher turned down Anthropic - Financial Times",
@@ -178,15 +178,15 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
