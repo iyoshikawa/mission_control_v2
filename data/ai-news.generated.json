@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-27T08:34:01.049Z",
+    "generatedAt": "2026-07-27T12:27:44.752Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,26 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-27T12:13:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1poY2V1V0N1Z01uMVlpNjA0dmNveGJ0dUFIS2dfR3FudGpVMkllQ3lnZ29YYjdjNkZHT0F6TUp1RlVJaUl1Y25CZ195el9fMVJfSEJUOURHaS0tODFfbVV1cnJWNFVuVUhlTUxReFE4ZEVUZGlUMzc4UldDaVF2UHNnODBDQi1GQktJeFk3enhYN1NaUGpuaUZiemlpMURkR2VRUlBVeHFkVm9aeUhSeG84ai1QZ0F4c3R1TFdlUFhndw?oc=5"
+    },
+    {
+      "headline": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-07-27T12:06:22.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5"
+    },
     {
       "headline": "Google AI CEO Demis Hassabis on why DeepMind sold to Google: The Atari work alerted the Silicon Valley, a - The Times of India",
       "source": "The Times of India",
@@ -32,14 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHE0OEhmOHhqTDNLbU9NSXRleVFYNGZubkkyYjJKNVpTRGtYQmFPWGRYUjVQZDdnc0pQX3BZaldxeEE1MUYtSmZ3Q2JPdGo1MnAxT2VTSFVGUDdqdUJaVGJ1N0hvVVVsMkNIS2I3dXBlTVBfeGw0ZGxlRmtTVEZ5RE9Kc2JjTnFUbFhPakFHcTI1aXVzRTdHMHMwV2RwZ1gyZXJvUTlJODVXUXl1R19aMkh6T1cydw?oc=5"
     },
     {
-      "headline": "'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-26T18:05:00.000Z",
+      "headline": "Spoof Epstein ads go up around London in protest against Meta AI glasses - The Times",
+      "source": "The Times",
+      "timestamp": "2026-07-26T18:10:36.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkgyYmNRLUxnbVFmNmdQcVRqSFhyekVwVzhaVzBObXdJZ1d6RktnSWxpMWVXTDZfWnlNZEhISjl1UFBPWVZJTTVwMUFZdEQwZnZNdmZBbzkzSEtqZUdJSXpfV2dDdHpjSllPeDdPMlFNYXFoUGpnUUh3RW5MdjdOT0JpZkViZ0hLdlZVdEZZM2c0ZEY4aXFJMVNHQXpYS3JxbVI0?oc=5"
+      "category": "ecosystem",
+      "summary": "Spoof Epstein ads go up around London in protest against Meta AI glasses &nbsp;&nbsp; The Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0Uyc25lSG55VXlRajdvNTc2Zk1QR19xNGZnSmJnQW04NnlfUTV4ZWRZYzJWYy10Q3NZSmVxUWV3S0ZDSHJhajNZalpJZERWbGlrM05rdW5KWTBFWm94RXhwVk1aenNleVZMSG5DM1YyNUV6ZkpSYlViOUFYcWdEMHAtc3RGb1lRMF80alAyV25fZ1lhQ05GZm5qUm1odw?oc=5"
     },
     {
       "headline": "Sam Altman says we are in the singularity: 'This is the moment' - Business Insider",
@@ -52,24 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmhxWXJfLTZiZElFRUdkWEhxUXZ5UVExYVdTZ0xQOUZHaXlxS3dFNGhWMDZpblVvcHBJWldrV2w3Q0x0T2htQjMwTEN4Qkhnb21Pci1sSTY1bldwQW1CSThUN01TakZZTjQ1RkV5cFVKVk1Bc0w0RlYzLWtmSENfZHd1SlN1M0VURHpMQW5faGx3QTc2dV8xZ3NRUlY3TmFfYlp2UE93cw?oc=5"
     },
     {
-      "headline": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-07-26T16:01:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" &nbsp;&nbsp; Futurism",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGV2Q29BZWJqLU1EUUdxdVp0cHVPcFBOV1pVaTRkVXdtTEE2eXJ2Z2tuOWJzWjdQcHRVaFYzbkhqR0U1OEVuTHN5emZxMXQtNXBpcmtVSDl5VlRiekFHNGRrd2FRdjB0Vzk4MF9pN1FPS0hwYkFlaEYxbEpwSmlMQTlyand6dw?oc=5"
-    },
-    {
-      "headline": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence - the-decoder.com",
-      "source": "the-decoder.com",
-      "timestamp": "2026-07-26T09:47:44.000Z",
-      "impact": "WATCH",
+      "headline": "Learn With Anthropic in 2026: Free Courses on Claude, AI Fluency, and MCP With Certificates - Global South Opportunities",
+      "source": "Global South Opportunities",
+      "timestamp": "2026-07-26T12:24:13.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence &nbsp;&nbsp; the-decoder.com",
+      "summary": "Learn With Anthropic in 2026: Free Courses on Claude, AI Fluency, and MCP With Certificates &nbsp;&nbsp; Global South Opportunities",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmtCS3FVZ0tLUXNBY0xDTzNNMUZCdnVkelR1NWhEMTBlUkdoWnMxZGdLeEdIdzl1aUJTNVN6NGxPbXZhemlLRUhIak9JY0pOY2dwb04xamhMbEVuZ21XNjYtQ05nVTVNT3VQSENzLTJMMGpBUGVpczViX2psVXBCN2hCNG5wWEp6blA1OFhvZmV3Znpqd1J6MmtkcnVsLW9HVm42V1Nkc3JCOTljek5CLWJPSEtLMVhVbnV5bmluRF9BUW01Z3dUTEZPbGk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yNlVUYXpfVTFZWXlDYzhsc3VhelNfeFZHRUlzeWRNNzBmbGtkN0cyTXRMb0xMYmdGM2tITXJUOHZrRU5Jc0NmbE1vamZXLWxRLUlYZFpwSFZLS3Q3bWFZMWwtaE5qa1YwRzQxTi1Ndw?oc=5"
     },
     {
       "headline": "Best Buy makes room for Meta’s AI glasses as privacy debate grows - Star Tribune",
@@ -82,24 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1BhN01oNmZxUVR1NVBlTmkwM2ttdkJtenFXVWVmZFItcWRwenlwUlJSbk1GUzRDWTdabVJYMWs1WkFUQnZONHJDTjFXUVViOHV2SGN3NllsT01hcUJvZEtWMWM4cHMzZ18tSGhna0JINmdiWVI1MUlNWS1JM0NsRmZLRWhhUQ?oc=5"
     },
     {
-      "headline": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-24T22:20:25.000Z",
+      "headline": "Why this philosopher turned down Anthropic - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-07-25T04:02:41.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5"
-    },
-    {
-      "headline": "Introducing Claude Opus 5 - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-07-24T17:00:57.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5"
+      "category": "ecosystem",
+      "summary": "Why this philosopher turned down Anthropic &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByU05OUTZrdDgtUk1OQ0pTendaYmVkbDNlTjNYaVctSU1YX05pZ04zeTZpVFpHZTVnTDRHWlNKcFpVUGE4QllPYXp1Q0lhSUIxSUdyVlNsa2E0REdnVXNEVURPT0dCY01UUjJONlB0Nkw?oc=5"
     },
     {
       "headline": "Meta AI Doesn’t Just Think, It Acts - Meta Store",
@@ -114,6 +114,24 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-07-27T12:13:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1poY2V1V0N1Z01uMVlpNjA0dmNveGJ0dUFIS2dfR3FudGpVMkllQ3lnZ29YYjdjNkZHT0F6TUp1RlVJaUl1Y25CZ195el9fMVJfSEJUOURHaS0tODFfbVV1cnJWNFVuVUhlTUxReFE4ZEVUZGlUMzc4UldDaVF2UHNnODBDQi1GQktJeFk3enhYN1NaUGpuaUZiemlpMURkR2VRUlBVeHFkVm9aeUhSeG84ai1QZ0F4c3R1TFdlUFhndw?oc=5",
+        "summary": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-07-27T12:06:22.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
+        "summary": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic &nbsp;&nbsp; The Verge"
+      },
       {
         "headline": "Google AI CEO Demis Hassabis on why DeepMind sold to Google: The Atari work alerted the Silicon Valley, a - The Times of India",
         "source": "The Times of India",
@@ -133,13 +151,13 @@
         "summary": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-26T18:05:00.000Z",
+        "headline": "Spoof Epstein ads go up around London in protest against Meta AI glasses - The Times",
+        "source": "The Times",
+        "timestamp": "2026-07-26T18:10:36.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkgyYmNRLUxnbVFmNmdQcVRqSFhyekVwVzhaVzBObXdJZ1d6RktnSWxpMWVXTDZfWnlNZEhISjl1UFBPWVZJTTVwMUFZdEQwZnZNdmZBbzkzSEtqZUdJSXpfV2dDdHpjSllPeDdPMlFNYXFoUGpnUUh3RW5MdjdOT0JpZkViZ0hLdlZVdEZZM2c0ZEY4aXFJMVNHQXpYS3JxbVI0?oc=5",
-        "summary": "'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup &nbsp;&nbsp; Fortune"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0Uyc25lSG55VXlRajdvNTc2Zk1QR19xNGZnSmJnQW04NnlfUTV4ZWRZYzJWYy10Q3NZSmVxUWV3S0ZDSHJhajNZalpJZERWbGlrM05rdW5KWTBFWm94RXhwVk1aenNleVZMSG5DM1YyNUV6ZkpSYlViOUFYcWdEMHAtc3RGb1lRMF80alAyV25fZ1lhQ05GZm5qUm1odw?oc=5",
+        "summary": "Spoof Epstein ads go up around London in protest against Meta AI glasses &nbsp;&nbsp; The Times"
       },
       {
         "headline": "Sam Altman says we are in the singularity: 'This is the moment' - Business Insider",
@@ -149,24 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmhxWXJfLTZiZElFRUdkWEhxUXZ5UVExYVdTZ0xQOUZHaXlxS3dFNGhWMDZpblVvcHBJWldrV2w3Q0x0T2htQjMwTEN4Qkhnb21Pci1sSTY1bldwQW1CSThUN01TakZZTjQ1RkV5cFVKVk1Bc0w0RlYzLWtmSENfZHd1SlN1M0VURHpMQW5faGx3QTc2dV8xZ3NRUlY3TmFfYlp2UE93cw?oc=5",
         "summary": "Sam Altman says we are in the singularity: 'This is the moment' &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-07-26T16:01:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGV2Q29BZWJqLU1EUUdxdVp0cHVPcFBOV1pVaTRkVXdtTEE2eXJ2Z2tuOWJzWjdQcHRVaFYzbkhqR0U1OEVuTHN5emZxMXQtNXBpcmtVSDl5VlRiekFHNGRrd2FRdjB0Vzk4MF9pN1FPS0hwYkFlaEYxbEpwSmlMQTlyand6dw?oc=5",
-        "summary": "Meta Desperately Trying to Ban Creeps Misusing Its AI \"Pervert Glasses\" &nbsp;&nbsp; Futurism"
-      },
-      {
-        "headline": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence - the-decoder.com",
-        "source": "the-decoder.com",
-        "timestamp": "2026-07-26T09:47:44.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmtCS3FVZ0tLUXNBY0xDTzNNMUZCdnVkelR1NWhEMTBlUkdoWnMxZGdLeEdIdzl1aUJTNVN6NGxPbXZhemlLRUhIak9JY0pOY2dwb04xamhMbEVuZ21XNjYtQ05nVTVNT3VQSENzLTJMMGpBUGVpczViX2psVXBCN2hCNG5wWEp6blA1OFhvZmV3Znpqd1J6MmtkcnVsLW9HVm42V1Nkc3JCOTljek5CLWJPSEtLMVhVbnV5bmluRF9BUW01Z3dUTEZPbGk?oc=5",
-        "summary": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence &nbsp;&nbsp; the-decoder.com"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -190,14 +190,14 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
