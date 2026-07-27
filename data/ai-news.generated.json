@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-27T21:15:03.451Z",
+    "generatedAt": "2026-07-27T23:06:24.858Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "AI singularity is here, OpenAI's Sam Altman claims: Technion expert says that he may be right - The Jerusalem Post",
-      "source": "The Jerusalem Post",
-      "timestamp": "2026-07-27T17:28:47.000Z",
+      "headline": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-07-27T22:18:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AI singularity is here, OpenAI's Sam Altman claims: Technion expert says that he may be right &nbsp;&nbsp; The Jerusalem Post",
+      "summary": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it &nbsp;&nbsp; Fortune",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUtrNFJkc0t4dmdZYkticEtTUGlxWFkxbTM4dkNqMzlRUGNvaUg0cGk1S2hneGxkWjk2TVY4TVc5Y2Z4aDB2R3BrNllIdGVrYUtCLXYzQVpBa08zLUs0Sks0MWFlN29hUWRhNHRNMnBILUl3OVdWTUlrTURtN0JxeGJTNHZuUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1hIdE1JTzcyVzJXaDZ4cEZ2NWxYd2dqbTNYaUo2aUtDVFVCT2VNSkVWaVItdG5HWXNTdS1kUnJuWWlTY1pHZGJnVmVpcXdqb3doQWRlSVJIeUE4aG5MaUFKRkJFa0tqS0pfbkpTcDBTWkxyZkt5b002Yk1FX1lYNEs1VWwwZEpRekd2eURFSllpZnJwaVdoNmdB?oc=5"
+    },
+    {
+      "headline": "Some people's chats with Claude AI made publicly available online - BBC",
+      "source": "BBC",
+      "timestamp": "2026-07-27T21:51:34.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Some people's chats with Claude AI made publicly available online &nbsp;&nbsp; BBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5"
     },
     {
       "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
@@ -50,26 +60,6 @@
       "summary": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There &nbsp;&nbsp; Futurism",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzlMeGpBOXdJYWJkSmNwWXYxcllBSVVEWm84ekRMVGNZYTE5aXJwRkhKVjRySjBUbVppakRYb3RtYkFJUFVFTzdKTm8wc0kyVFZCVnJrMUtLdEdxejVub1ZfMElyVXd1c0RCcjI3aU9kN1FtWkthald6Rkk1bmppZzNOcw?oc=5"
-    },
-    {
-      "headline": "Claude AI shared chats indexed by Google - see if your conversations were exposed - ZDNET",
-      "source": "ZDNET",
-      "timestamp": "2026-07-27T14:58:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude AI shared chats indexed by Google - see if your conversations were exposed &nbsp;&nbsp; ZDNET",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RT2MzVGxkb20xYVBKV25FM05TT0I1RV80eHc4Q2V1MVNSOHZOaGt1Ui1ENFhEOUh4OWYybFk5WlY1NkR3Y2Rtc2ZsWHN1T2MtcTBvZWVuRnFfT1ZQRmlGQ1l5ZjBKVzRyV1FqSGRVb0dVVndIUlEzVmhCbw?oc=5"
-    },
-    {
-      "headline": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-07-27T12:06:22.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5"
     },
     {
       "headline": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
@@ -110,18 +100,37 @@
       "summary": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHE0OEhmOHhqTDNLbU9NSXRleVFYNGZubkkyYjJKNVpTRGtYQmFPWGRYUjVQZDdnc0pQX3BZaldxeEE1MUYtSmZ3Q2JPdGo1MnAxT2VTSFVGUDdqdUJaVGJ1N0hvVVVsMkNIS2I3dXBlTVBfeGw0ZGxlRmtTVEZ5RE9Kc2JjTnFUbFhPakFHcTI1aXVzRTdHMHMwV2RwZ1gyZXJvUTlJODVXUXl1R19aMkh6T1cydw?oc=5"
+    },
+    {
+      "headline": "Spoof Epstein ads go up around London in protest against Meta AI glasses - The Times",
+      "source": "The Times",
+      "timestamp": "2026-07-26T18:10:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Spoof Epstein ads go up around London in protest against Meta AI glasses &nbsp;&nbsp; The Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0Uyc25lSG55VXlRajdvNTc2Zk1QR19xNGZnSmJnQW04NnlfUTV4ZWRZYzJWYy10Q3NZSmVxUWV3S0ZDSHJhajNZalpJZERWbGlrM05rdW5KWTBFWm94RXhwVk1aenNleVZMSG5DM1YyNUV6ZkpSYlViOUFYcWdEMHAtc3RGb1lRMF80alAyV25fZ1lhQ05GZm5qUm1odw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "AI singularity is here, OpenAI's Sam Altman claims: Technion expert says that he may be right - The Jerusalem Post",
-        "source": "The Jerusalem Post",
-        "timestamp": "2026-07-27T17:28:47.000Z",
+        "headline": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-07-27T22:18:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUtrNFJkc0t4dmdZYkticEtTUGlxWFkxbTM4dkNqMzlRUGNvaUg0cGk1S2hneGxkWjk2TVY4TVc5Y2Z4aDB2R3BrNllIdGVrYUtCLXYzQVpBa08zLUs0Sks0MWFlN29hUWRhNHRNMnBILUl3OVdWTUlrTURtN0JxeGJTNHZuUQ?oc=5",
-        "summary": "AI singularity is here, OpenAI's Sam Altman claims: Technion expert says that he may be right &nbsp;&nbsp; The Jerusalem Post"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1hIdE1JTzcyVzJXaDZ4cEZ2NWxYd2dqbTNYaUo2aUtDVFVCT2VNSkVWaVItdG5HWXNTdS1kUnJuWWlTY1pHZGJnVmVpcXdqb3doQWRlSVJIeUE4aG5MaUFKRkJFa0tqS0pfbkpTcDBTWkxyZkt5b002Yk1FX1lYNEs1VWwwZEpRekd2eURFSllpZnJwaVdoNmdB?oc=5",
+        "summary": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Some people's chats with Claude AI made publicly available online - BBC",
+        "source": "BBC",
+        "timestamp": "2026-07-27T21:51:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5",
+        "summary": "Some people's chats with Claude AI made publicly available online &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
@@ -151,30 +160,21 @@
         "summary": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There &nbsp;&nbsp; Futurism"
       },
       {
-        "headline": "Claude AI shared chats indexed by Google - see if your conversations were exposed - ZDNET",
-        "source": "ZDNET",
-        "timestamp": "2026-07-27T14:58:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RT2MzVGxkb20xYVBKV25FM05TT0I1RV80eHc4Q2V1MVNSOHZOaGt1Ui1ENFhEOUh4OWYybFk5WlY1NkR3Y2Rtc2ZsWHN1T2MtcTBvZWVuRnFfT1ZQRmlGQ1l5ZjBKVzRyV1FqSGRVb0dVVndIUlEzVmhCbw?oc=5",
-        "summary": "Claude AI shared chats indexed by Google - see if your conversations were exposed &nbsp;&nbsp; ZDNET"
-      },
-      {
-        "headline": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-07-27T12:06:22.000Z",
+        "headline": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-27T11:04:48.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
-        "summary": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic &nbsp;&nbsp; The Verge"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5",
+        "summary": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
