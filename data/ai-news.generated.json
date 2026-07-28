@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-27T23:06:24.858Z",
+    "generatedAt": "2026-07-28T02:49:46.186Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-27T22:18:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1hIdE1JTzcyVzJXaDZ4cEZ2NWxYd2dqbTNYaUo2aUtDVFVCT2VNSkVWaVItdG5HWXNTdS1kUnJuWWlTY1pHZGJnVmVpcXdqb3doQWRlSVJIeUE4aG5MaUFKRkJFa0tqS0pfbkpTcDBTWkxyZkt5b002Yk1FX1lYNEs1VWwwZEpRekd2eURFSllpZnJwaVdoNmdB?oc=5"
+      "headline": "Tech giants launch open AI safety plan following breach - NBC Bay Area",
+      "source": "NBC Bay Area",
+      "timestamp": "2026-07-28T02:28:47.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Tech giants launch open AI safety plan following breach &nbsp;&nbsp; NBC Bay Area",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGtpdjkzZWJaWEdMZFFaSGxjWUZpbmlhbWg2ZzZRaUswc0dteFJkbVZ6dUY5dTdoT0JUanNnQXRiYi0zNVYyVU1naV9yTHY0eGxhQVRBY2NJOTlBdC1XTXQ3QW9udEtOcGtVYnlFU0NCa0VsTHo4T1NMVS01TEs4WmZMRFFGRjdUTko0REVJR0FDbFlMcjQteUNIRG1xa2ZJVW90N9IBrAFBVV95cUxQdGNtQmpuWHE0elMtZUk4aWtHdFdUc2pJR2I4LU94SHdZRGlqYVVlVmZCaVozX1hWZlJMU2UxVDBNQnFsUThFSHByVDlDR1Zib2VKdWNUS3luQXl2eHlKRWl5NVRPUjJQTm13Qlp3V3JvTzI3dWhNaG1YYXBmdW9CMC1zSzFOSWRXMy1aU1ZGNHJmcUYxTS1DOVBKUm1EMEJKcGdMdDB2SWlsQ01o?oc=5"
     },
     {
-      "headline": "Some people's chats with Claude AI made publicly available online - BBC",
-      "source": "BBC",
-      "timestamp": "2026-07-27T21:51:34.000Z",
+      "headline": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-28T01:38:25.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Some people's chats with Claude AI made publicly available online &nbsp;&nbsp; BBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5"
+      "category": "ecosystem",
+      "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-27T23:03:26.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5"
+    },
+    {
+      "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+      "source": "NPR",
+      "timestamp": "2026-07-27T20:49:57.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5"
     },
     {
       "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
@@ -50,16 +70,6 @@
       "summary": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW9IQmkyd3IwZ3NhdHY5OUd1eW5HV2FERUxMcEp6UTc1YVhhaXZleFM2RDBOR3Z0NlZ4TFRyZzBZUU1MSWxyd184VFVhamU2UVl6cDFRRmhxLUZwTG1iRDFPTE5UVDRCcjlPTnN2eUd1U1kzRU5BY2hxMmRtdWRfU0JjWWdpUHBzOGpzYW9rck5mTlpIeklHeWZsNA?oc=5"
-    },
-    {
-      "headline": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-07-27T15:10:17.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There &nbsp;&nbsp; Futurism",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzlMeGpBOXdJYWJkSmNwWXYxcllBSVVEWm84ekRMVGNZYTE5aXJwRkhKVjRySjBUbVppakRYb3RtYkFJUFVFTzdKTm8wc0kyVFZCVnJrMUtLdEdxejVub1ZfMElyVXd1c0RCcjI3aU9kN1FtWkthald6Rkk1bmppZzNOcw?oc=5"
     },
     {
       "headline": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
@@ -92,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSlM3TEFYU0hoaDRHRnFFUVp0aE5ZUzZtWU5tUjlqYmVwY1FOX0VDeHJsOS1YM0k5eE8yX1VhR3FIaE5vQnMxNW02V0NpdnBkcEkzWkxZNGRrNWZYTHpCd2pMWGdPSnVROE1xUTkzRXdPeU5zbTVwY2k3T2NoTXZkN09mQkZfVGJlSWdyUWRGZWQ0NHQ0dWlELUhkaHhIbTB1YVNfWHNJQWt2aDFWamwwSm0zc2dGc2FhaV9zSTU2U2YzOE5mUUtQYXc2Z2wtekZaNFAtT01aRXRMT3BlMzlHWUNxSnRKS1hmM2lYU0dNMGVyN2c4UHVvTFJleHZ2dTBzYjhYU1lVNFhGblhWVE9Hb3dBa0IxRERLYzZtbDF0NEs2Z0hDV1R4UVBwNWtmTFkzQjVreFRJQnBNQdIBvwJBVV95cUxNM0c5OUdmalZ1V0pnU2hHOUtqOEV5d3VpWFRweVNFSV9JRWFWbzZ0ZmFFVzdMSnR4dVNOWEZPTkdiaEQ4NHlCNm9sbHdKOVVqaXhxX1JTMXJ5blk3bFBvN0U0Y0FTYmVkajhMWEtDRGp1WXp6THM3eTRmbjVCbnVxTnBkbDMyM1V4cTNpZnFMeW5BalBPbE93eHN1VXl3R19rUm9pWnUtaGdvTWU4RWo3b3RDSWlYc3JJeGtUeUs2cUVQYmFuTURTR2VfQ1prazF3VFZ4T09WRlhCYXdQYnBqX2NHMkVkdDBISWpkM0t2SmVSYWd3YVRZUC0zWGlCTVpJcmdEbF84eG5UUWhHTFJiXzdpdFUzTnZFQjl3Q1pBU3dPSmFYUEFaUXp1b2NrVVNjUWl4WTVPaU5uejlIdUV3?oc=5"
     },
     {
-      "headline": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-07-26T23:19:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHE0OEhmOHhqTDNLbU9NSXRleVFYNGZubkkyYjJKNVpTRGtYQmFPWGRYUjVQZDdnc0pQX3BZaldxeEE1MUYtSmZ3Q2JPdGo1MnAxT2VTSFVGUDdqdUJaVGJ1N0hvVVVsMkNIS2I3dXBlTVBfeGw0ZGxlRmtTVEZ5RE9Kc2JjTnFUbFhPakFHcTI1aXVzRTdHMHMwV2RwZ1gyZXJvUTlJODVXUXl1R19aMkh6T1cydw?oc=5"
-    },
-    {
       "headline": "Spoof Epstein ads go up around London in protest against Meta AI glasses - The Times",
       "source": "The Times",
       "timestamp": "2026-07-26T18:10:36.000Z",
@@ -115,22 +115,40 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-27T22:18:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1hIdE1JTzcyVzJXaDZ4cEZ2NWxYd2dqbTNYaUo2aUtDVFVCT2VNSkVWaVItdG5HWXNTdS1kUnJuWWlTY1pHZGJnVmVpcXdqb3doQWRlSVJIeUE4aG5MaUFKRkJFa0tqS0pfbkpTcDBTWkxyZkt5b002Yk1FX1lYNEs1VWwwZEpRekd2eURFSllpZnJwaVdoNmdB?oc=5",
-        "summary": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it &nbsp;&nbsp; Fortune"
+        "headline": "Tech giants launch open AI safety plan following breach - NBC Bay Area",
+        "source": "NBC Bay Area",
+        "timestamp": "2026-07-28T02:28:47.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGtpdjkzZWJaWEdMZFFaSGxjWUZpbmlhbWg2ZzZRaUswc0dteFJkbVZ6dUY5dTdoT0JUanNnQXRiYi0zNVYyVU1naV9yTHY0eGxhQVRBY2NJOTlBdC1XTXQ3QW9udEtOcGtVYnlFU0NCa0VsTHo4T1NMVS01TEs4WmZMRFFGRjdUTko0REVJR0FDbFlMcjQteUNIRG1xa2ZJVW90N9IBrAFBVV95cUxQdGNtQmpuWHE0elMtZUk4aWtHdFdUc2pJR2I4LU94SHdZRGlqYVVlVmZCaVozX1hWZlJMU2UxVDBNQnFsUThFSHByVDlDR1Zib2VKdWNUS3luQXl2eHlKRWl5NVRPUjJQTm13Qlp3V3JvTzI3dWhNaG1YYXBmdW9CMC1zSzFOSWRXMy1aU1ZGNHJmcUYxTS1DOVBKUm1EMEJKcGdMdDB2SWlsQ01o?oc=5",
+        "summary": "Tech giants launch open AI safety plan following breach &nbsp;&nbsp; NBC Bay Area"
       },
       {
-        "headline": "Some people's chats with Claude AI made publicly available online - BBC",
-        "source": "BBC",
-        "timestamp": "2026-07-27T21:51:34.000Z",
+        "headline": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-07-28T01:38:25.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5",
-        "summary": "Some people's chats with Claude AI made publicly available online &nbsp;&nbsp; BBC"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5",
+        "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-27T23:03:26.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5",
+        "summary": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+        "source": "NPR",
+        "timestamp": "2026-07-27T20:49:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
+        "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR"
       },
       {
         "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
@@ -149,44 +167,26 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW9IQmkyd3IwZ3NhdHY5OUd1eW5HV2FERUxMcEp6UTc1YVhhaXZleFM2RDBOR3Z0NlZ4TFRyZzBZUU1MSWxyd184VFVhamU2UVl6cDFRRmhxLUZwTG1iRDFPTE5UVDRCcjlPTnN2eUd1U1kzRU5BY2hxMmRtdWRfU0JjWWdpUHBzOGpzYW9rck5mTlpIeklHeWZsNA?oc=5",
         "summary": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-07-27T15:10:17.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzlMeGpBOXdJYWJkSmNwWXYxcllBSVVEWm84ekRMVGNZYTE5aXJwRkhKVjRySjBUbVppakRYb3RtYkFJUFVFTzdKTm8wc0kyVFZCVnJrMUtLdEdxejVub1ZfMElyVXd1c0RCcjI3aU9kN1FtWkthald6Rkk1bmppZzNOcw?oc=5",
-        "summary": "A Whole Bunch of People's Claude Chats Are Publicly Accessible Online, and There's Some Wildly Private Stuff in There &nbsp;&nbsp; Futurism"
-      },
-      {
-        "headline": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-27T11:04:48.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5",
-        "summary": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues &nbsp;&nbsp; CNBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
