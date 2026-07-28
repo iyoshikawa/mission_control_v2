@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-28T05:50:30.161Z",
+    "generatedAt": "2026-07-28T08:40:35.555Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-28T03:08:44.000Z",
+      "headline": "Some people's chats with Claude AI found publicly available online - BBC",
+      "source": "BBC",
+      "timestamp": "2026-07-28T07:10:37.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5"
+      "category": "models",
+      "summary": "Some people's chats with Claude AI found publicly available online &nbsp;&nbsp; BBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5"
     },
     {
-      "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-27T23:42:46.000Z",
+      "headline": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-28T07:04:01.000Z",
       "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing &nbsp;&nbsp; Bloomberg",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
+      "category": "ecosystem",
+      "summary": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5"
+    },
+    {
+      "headline": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-28T00:58:50.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5"
     },
     {
       "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
@@ -52,16 +62,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5"
     },
     {
-      "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-27T17:20:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmF0Z2hIVUJKTkp0Q09sT1RkUThycVdCczZHQU1SbVQwQW9ITlJEVURfRlJMRFNIMUhMbjJIejZqVHo1STFkZjgzM1dqemZ0cEttVTBLTm5iNUVfV29JNjhjMGhwaVVZZjVLYmt5c3F0M21qTnd5YWJ5NV9kOTB0LTJDYWlCdkVrdGZ2QVZqLWZYZTd4X0VMMmxjVXVhcHJyak1oVVR2VXdST040NWY0VWlKWmI5NkRfM01JMUFIb2ZfQW9wZWxEc0pCVnIydXRORW5tRm5LRDZVZHNTa3Q0bFlGaw?oc=5"
-    },
-    {
       "headline": "Threads users can now chat with Meta AI in their DMs - TechCrunch",
       "source": "TechCrunch",
       "timestamp": "2026-07-27T16:45:24.000Z",
@@ -70,6 +70,16 @@
       "summary": "Threads users can now chat with Meta AI in their DMs &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1RKSnh5MU94Y1dCUFJnRV9fRlJQZDR4cmYzYVlVdmZ4MkF2NldtbW5aVGxYZnhhM2k5OThKQW4yYVhIb2xJTmNIdUVhTWM4WTdwY0E0SHlHelpKUUFJVVpwQ3ZmN0Z3U3h3cDR2ZXlwNGNkX0tWTUpzU3BmTjc4RE8zTjBRU28zU0hnMmRWOC0?oc=5"
+    },
+    {
+      "headline": "Here’s How Microsoft’s Mistral Partnership Could Strengthen Azure’s AI Leadership - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-27T16:18:25.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Here’s How Microsoft’s Mistral Partnership Could Strengthen Azure’s AI Leadership &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1lIY2NrdkNWbU4xQ0NfMGNlNU53djZRU0d0bnlfUExTQ2JSZXZOSU1rVE5JS3NvWTFDWmJocTJnUHhsRFoxa0RQUjQ2bUVDQnhSSmV3andqSnZwbnZXTURETFdtX0FHU2ZuSjBHZVBDcGlQLW9tMjNpYWpzN0NkaE5fQ29VbnhhT3VhTnFCT1FUUlVJXzROWHlITTRwUkJzVjVRcVJ0dlNkTVgtZGN3?oc=5"
     },
     {
       "headline": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? - Yahoo Finance",
@@ -100,37 +110,36 @@
       "summary": "How AI is expanding what people do at work &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVFBEa3pBZzFfd08wZThSMTQ3LVVMYjNDZ3kxU0tFTEU1SlJiZUt3TXIzVzhuWUlFc21INXY4dzlpbnRnNU91RGx1Y2RtYl9Ya0UzWU5GTXdXSWVaVV95UnZHdm0wTG5WMmVyWm1Ub0RnZ1BmdHlN?oc=5"
-    },
-    {
-      "headline": "Google AI CEO Demis Hassabis on why DeepMind sold to Google: The Atari work alerted the Silicon Valley, a - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-07-27T06:07:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google AI CEO Demis Hassabis on why DeepMind sold to Google: The Atari work alerted the Silicon Valley, a &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSlM3TEFYU0hoaDRHRnFFUVp0aE5ZUzZtWU5tUjlqYmVwY1FOX0VDeHJsOS1YM0k5eE8yX1VhR3FIaE5vQnMxNW02V0NpdnBkcEkzWkxZNGRrNWZYTHpCd2pMWGdPSnVROE1xUTkzRXdPeU5zbTVwY2k3T2NoTXZkN09mQkZfVGJlSWdyUWRGZWQ0NHQ0dWlELUhkaHhIbTB1YVNfWHNJQWt2aDFWamwwSm0zc2dGc2FhaV9zSTU2U2YzOE5mUUtQYXc2Z2wtekZaNFAtT01aRXRMT3BlMzlHWUNxSnRKS1hmM2lYU0dNMGVyN2c4UHVvTFJleHZ2dTBzYjhYU1lVNFhGblhWVE9Hb3dBa0IxRERLYzZtbDF0NEs2Z0hDV1R4UVBwNWtmTFkzQjVreFRJQnBNQdIBvwJBVV95cUxNM0c5OUdmalZ1V0pnU2hHOUtqOEV5d3VpWFRweVNFSV9JRWFWbzZ0ZmFFVzdMSnR4dVNOWEZPTkdiaEQ4NHlCNm9sbHdKOVVqaXhxX1JTMXJ5blk3bFBvN0U0Y0FTYmVkajhMWEtDRGp1WXp6THM3eTRmbjVCbnVxTnBkbDMyM1V4cTNpZnFMeW5BalBPbE93eHN1VXl3R19rUm9pWnUtaGdvTWU4RWo3b3RDSWlYc3JJeGtUeUs2cUVQYmFuTURTR2VfQ1prazF3VFZ4T09WRlhCYXdQYnBqX2NHMkVkdDBISWpkM0t2SmVSYWd3YVRZUC0zWGlCTVpJcmdEbF84eG5UUWhHTFJiXzdpdFUzTnZFQjl3Q1pBU3dPSmFYUEFaUXp1b2NrVVNjUWl4WTVPaU5uejlIdUV3?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing - The New York Times",
+        "headline": "Some people's chats with Claude AI found publicly available online - BBC",
+        "source": "BBC",
+        "timestamp": "2026-07-28T07:10:37.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5",
+        "summary": "Some people's chats with Claude AI found publicly available online &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-28T07:04:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndXX3ltNnRzWkh2aFdJTGs5clRQc3BKT1J2YmJyaUw4YldNLWE4SXVkNzNJWHpNWDF6ZnlTdU9nSWhxV0UwaEdDRDJBNk5CYjVXNVczMDU3cGtvMEY1aEk3LTR0amJEakRvNTZDbHptVXFZbFV3dllHY2d3TnVZdTdRWQ?oc=5",
+        "summary": "Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-07-28T03:08:44.000Z",
+        "timestamp": "2026-07-28T00:58:50.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5",
-        "summary": "OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-27T23:42:46.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
-        "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing &nbsp;&nbsp; Bloomberg"
+        "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
@@ -149,15 +158,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
         "summary": "OpenAI CEO Sam Altman claims AI singularity has arrived &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-27T17:20:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmF0Z2hIVUJKTkp0Q09sT1RkUThycVdCczZHQU1SbVQwQW9ITlJEVURfRlJMRFNIMUhMbjJIejZqVHo1STFkZjgzM1dqemZ0cEttVTBLTm5iNUVfV29JNjhjMGhwaVVZZjVLYmt5c3F0M21qTnd5YWJ5NV9kOTB0LTJDYWlCdkVrdGZ2QVZqLWZYZTd4X0VMMmxjVXVhcHJyak1oVVR2VXdST040NWY0VWlKWmI5NkRfM01JMUFIb2ZfQW9wZWxEc0pCVnIydXRORW5tRm5LRDZVZHNTa3Q0bFlGaw?oc=5",
-        "summary": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "Threads users can now chat with Meta AI in their DMs - TechCrunch",
