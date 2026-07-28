@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-28T14:19:10.031Z",
+    "generatedAt": "2026-07-28T16:42:57.371Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Greg Brockman on the week two OpenAI AI models went rogue - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-28T11:56:00.000Z",
+      "headline": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-28T16:22:07.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWlQQzN0d2ZwNzdvZUpiVFAxeEU4MXp6VGtyRmdYT1dwNEhmQVhRcTZEWFlwTkxnb05adWdod1JuU2gtN0NESF9PR3Bqd011ejV4R3pTcHM5Rmg0Q3RFQTJOWWd4NEZVS1JENWNpU3hPN0I0ajNCOEU5SEx5aVpXaw?oc=5"
+    },
+    {
+      "headline": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI - Time Magazine",
+      "source": "Time Magazine",
+      "timestamp": "2026-07-28T14:57:31.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI &nbsp;&nbsp; Time Magazine",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oNTNQeVpNTExZeXVKOEcybV8tMXFZQkw3TElyenlMOVp5UDhZazBRM0J1Y2prSEh6czRsLVlMNTdYXy1SWGZXN1FQd2lYM0c5UGphbkdqZGdabnloYWVXMy1OazhGWF9wSWZ1THNlTGpNZHZEQmZOV1hKMA?oc=5"
+    },
+    {
+      "headline": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised - MyGolfSpy",
+      "source": "MyGolfSpy",
+      "timestamp": "2026-07-28T11:30:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised &nbsp;&nbsp; MyGolfSpy",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-27T23:42:46.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Greg Brockman on the week two OpenAI AI models went rogue &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGthMklPYXBGVnlrc0dGNjNVenZHTEduM2JNeloyQkhnUlRjcWZQUV9SV3VMSkdGem9JMTZ3dHh3N1VzQTFkMzJ3cnpuak9oek1ySHdPTldMYVVvYWtCS25ka1AyUUUwLUg0c1ZLMVI1dmtZVXJfTEtKWXhlZWpCVG9aX0NqbGQ4S01IUHJiVk9YZVU?oc=5"
+      "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
     },
     {
-      "headline": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom - Axios",
-      "source": "Axios",
-      "timestamp": "2026-07-28T09:10:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWsxRVptU010cTRHWS15WERCRFcyaHkyX3ZTRmhsUlZIUmczcjBPRzBjQXdEVkI1MG5Ub1JOR2Qxemxja1NHMXBQWFB4S1lCUUx4V3VUeHN0ZXlKWnpyQmh6bEZiaXJyaElQZnFKQ3F1ZjVPYUFBVzZvRE1wNlV3VzNUOGs2Vzcy?oc=5"
-    },
-    {
-      "headline": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China - Politico",
-      "source": "Politico",
-      "timestamp": "2026-07-28T01:07:00.000Z",
+      "headline": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data - Redmond Channel Partner",
+      "source": "Redmond Channel Partner",
+      "timestamp": "2026-07-27T23:42:06.000Z",
       "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pLaFdUbUthaG14SEtQWm5tWnVxYkhKc1owTjhocXNjZ3pKYUp0MzVyLUNET2lCZUlVSm56dEZxZXViS0NkM2pQOGRLYU41ODhTaTVodkNpQXE4RV9RcE1la185d1UwWjhiRWNnVlQ1Z0FRMXdBYkdoNU5NNGdIS3RRS2VFMVpmT29MNlNaVnZxNGJLVkg1Nm1DSHpkaE9BSko2Wk53MFk?oc=5"
+      "category": "market",
+      "summary": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data &nbsp;&nbsp; Redmond Channel Partner",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWm5BQlFwSzZqQ2ZfMVJIaXZKTzJHNEpTSjNhQmhVZ1dVR1FlVlh0QlRBdWpUeFdfTkVDVU5jMlhNN0k3QzdUQ3RGbUYxOWpSbkttbTBIdHVObFczMGdPamIxLUlpVDlsZnR2b3YtUS1yQzNkZG5aUE84TFA5QWY4RGhfQlh6T1hfcWI2Vjk1c1FlODFIZDlveWlObThLbndUWVpJM0ZHcUY?oc=5"
     },
     {
-      "headline": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-28T00:58:50.000Z",
+      "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+      "source": "NPR",
+      "timestamp": "2026-07-27T20:49:57.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5"
+      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5"
     },
     {
       "headline": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI - Meta Store",
@@ -82,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1RKSnh5MU94Y1dCUFJnRV9fRlJQZDR4cmYzYVlVdmZ4MkF2NldtbW5aVGxYZnhhM2k5OThKQW4yYVhIb2xJTmNIdUVhTWM4WTdwY0E0SHlHelpKUUFJVVpwQ3ZmN0Z3U3h3cDR2ZXlwNGNkX0tWTUpzU3BmTjc4RE8zTjBRU28zU0hnMmRWOC0?oc=5"
     },
     {
-      "headline": "Here’s How Microsoft’s Mistral Partnership Could Strengthen Azure’s AI Leadership - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-27T16:18:25.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Here’s How Microsoft’s Mistral Partnership Could Strengthen Azure’s AI Leadership &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1lIY2NrdkNWbU4xQ0NfMGNlNU53djZRU0d0bnlfUExTQ2JSZXZOSU1rVE5JS3NvWTFDWmJocTJnUHhsRFoxa0RQUjQ2bUVDQnhSSmV3andqSnZwbnZXTURETFdtX0FHU2ZuSjBHZVBDcGlQLW9tMjNpYWpzN0NkaE5fQ29VbnhhT3VhTnFCT1FUUlVJXzROWHlITTRwUkJzVjVRcVJ0dlNkTVgtZGN3?oc=5"
-    },
-    {
       "headline": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? - Yahoo Finance",
       "source": "Yahoo Finance",
       "timestamp": "2026-07-27T16:03:00.000Z",
@@ -100,73 +110,63 @@
       "summary": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW9IQmkyd3IwZ3NhdHY5OUd1eW5HV2FERUxMcEp6UTc1YVhhaXZleFM2RDBOR3Z0NlZ4TFRyZzBZUU1MSWxyd184VFVhamU2UVl6cDFRRmhxLUZwTG1iRDFPTE5UVDRCcjlPTnN2eUd1U1kzRU5BY2hxMmRtdWRfU0JjWWdpUHBzOGpzYW9rck5mTlpIeklHeWZsNA?oc=5"
-    },
-    {
-      "headline": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-27T11:04:48.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Greg Brockman on the week two OpenAI AI models went rogue - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-28T11:56:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGthMklPYXBGVnlrc0dGNjNVenZHTEduM2JNeloyQkhnUlRjcWZQUV9SV3VMSkdGem9JMTZ3dHh3N1VzQTFkMzJ3cnpuak9oek1ySHdPTldMYVVvYWtCS25ka1AyUUUwLUg0c1ZLMVI1dmtZVXJfTEtKWXhlZWpCVG9aX0NqbGQ4S01IUHJiVk9YZVU?oc=5",
-        "summary": "Greg Brockman on the week two OpenAI AI models went rogue &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom - Axios",
-        "source": "Axios",
-        "timestamp": "2026-07-28T09:10:41.000Z",
+        "headline": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-07-28T16:22:07.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWsxRVptU010cTRHWS15WERCRFcyaHkyX3ZTRmhsUlZIUmczcjBPRzBjQXdEVkI1MG5Ub1JOR2Qxemxja1NHMXBQWFB4S1lCUUx4V3VUeHN0ZXlKWnpyQmh6bEZiaXJyaElQZnFKQ3F1ZjVPYUFBVzZvRE1wNlV3VzNUOGs2Vzcy?oc=5",
-        "summary": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom &nbsp;&nbsp; Axios"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWlQQzN0d2ZwNzdvZUpiVFAxeEU4MXp6VGtyRmdYT1dwNEhmQVhRcTZEWFlwTkxnb05adWdod1JuU2gtN0NESF9PR3Bqd011ejV4R3pTcHM5Rmg0Q3RFQTJOWWd4NEZVS1JENWNpU3hPN0I0ajNCOEU5SEx5aVpXaw?oc=5",
+        "summary": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China - Politico",
-        "source": "Politico",
-        "timestamp": "2026-07-28T01:07:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pLaFdUbUthaG14SEtQWm5tWnVxYkhKc1owTjhocXNjZ3pKYUp0MzVyLUNET2lCZUlVSm56dEZxZXViS0NkM2pQOGRLYU41ODhTaTVodkNpQXE4RV9RcE1la185d1UwWjhiRWNnVlQ1Z0FRMXdBYkdoNU5NNGdIS3RRS2VFMVpmT29MNlNaVnZxNGJLVkg1Nm1DSHpkaE9BSko2Wk53MFk?oc=5",
-        "summary": "Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-07-28T00:58:50.000Z",
-        "impact": "LOW",
+        "headline": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI - Time Magazine",
+        "source": "Time Magazine",
+        "timestamp": "2026-07-28T14:57:31.000Z",
+        "impact": "WATCH",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5",
-        "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oNTNQeVpNTExZeXVKOEcybV8tMXFZQkw3TElyenlMOVp5UDhZazBRM0J1Y2prSEh6czRsLVlMNTdYXy1SWGZXN1FQd2lYM0c5UGphbkdqZGdabnloYWVXMy1OazhGWF9wSWZ1THNlTGpNZHZEQmZOV1hKMA?oc=5",
+        "summary": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI &nbsp;&nbsp; Time Magazine"
       },
       {
-        "headline": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI - Meta Store",
-        "source": "Meta Store",
-        "timestamp": "2026-07-27T19:04:52.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3R6VGxCVTRzaWVHWmJDMkRvMGdfMzZsb3VaaFY1NUJxUXNMZTVOYVhjQnVTeDlWejNpSGtzTWFoaTdCV2RRLXp6WTZJYno1WlFtY0FGdjdTMEhBM0FxVzl1NV85aEc4bG1wckF1MlFmS3dLbmVSTVhmeFVzdTlDNnlxZzJ4Zw?oc=5",
-        "summary": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI &nbsp;&nbsp; Meta Store"
-      },
-      {
-        "headline": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-27T17:20:00.000Z",
+        "headline": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised - MyGolfSpy",
+        "source": "MyGolfSpy",
+        "timestamp": "2026-07-28T11:30:42.000Z",
         "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5",
+        "summary": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised &nbsp;&nbsp; MyGolfSpy"
+      },
+      {
+        "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-27T23:42:46.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmF0Z2hIVUJKTkp0Q09sT1RkUThycVdCczZHQU1SbVQwQW9ITlJEVURfRlJMRFNIMUhMbjJIejZqVHo1STFkZjgzM1dqemZ0cEttVTBLTm5iNUVfV29JNjhjMGhwaVVZZjVLYmt5c3F0M21qTnd5YWJ5NV9kOTB0LTJDYWlCdkVrdGZ2QVZqLWZYZTd4X0VMMmxjVXVhcHJyak1oVVR2VXdST040NWY0VWlKWmI5NkRfM01JMUFIb2ZfQW9wZWxEc0pCVnIydXRORW5tRm5LRDZVZHNTa3Q0bFlGaw?oc=5",
-        "summary": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results &nbsp;&nbsp; Fortune"
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
+        "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data - Redmond Channel Partner",
+        "source": "Redmond Channel Partner",
+        "timestamp": "2026-07-27T23:42:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWm5BQlFwSzZqQ2ZfMVJIaXZKTzJHNEpTSjNhQmhVZ1dVR1FlVlh0QlRBdWpUeFdfTkVDVU5jMlhNN0k3QzdUQ3RGbUYxOWpSbkttbTBIdHVObFczMGdPamIxLUlpVDlsZnR2b3YtUS1yQzNkZG5aUE84TFA5QWY4RGhfQlh6T1hfcWI2Vjk1c1FlODFIZDlveWlObThLbndUWVpJM0ZHcUY?oc=5",
+        "summary": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data &nbsp;&nbsp; Redmond Channel Partner"
+      },
+      {
+        "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
+        "source": "NPR",
+        "timestamp": "2026-07-27T20:49:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
+        "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
