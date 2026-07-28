@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-28T16:42:57.371Z",
+    "generatedAt": "2026-07-28T18:17:13.903Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-07-28T16:22:07.000Z",
+      "headline": "Microsoft Says Its New AI Beats OpenAI, Google, and Anthropic at Cybersecurity - inc.com",
+      "source": "inc.com",
+      "timestamp": "2026-07-28T17:48:45.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWlQQzN0d2ZwNzdvZUpiVFAxeEU4MXp6VGtyRmdYT1dwNEhmQVhRcTZEWFlwTkxnb05adWdod1JuU2gtN0NESF9PR3Bqd011ejV4R3pTcHM5Rmg0Q3RFQTJOWWd4NEZVS1JENWNpU3hPN0I0ajNCOEU5SEx5aVpXaw?oc=5"
+      "category": "ecosystem",
+      "summary": "Microsoft Says Its New AI Beats OpenAI, Google, and Anthropic at Cybersecurity &nbsp;&nbsp; inc.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVBoSmxIa0dncEdvdTJLQ3pnVUhLbjFPUjhxdjZ2aG1KWXlMUkFsbXlURzNldXdraDdDUkxZdlJCenNxTmtTRTdWXzdPcWh5WmZRU21LN1NsQWNKR184WUViRFY4WUtrM3ZkUzhpcnpwcFBzd3Y4cG9VNVlSS2Z6NVhGSlpnQ21pdzhUSi1uTXg5Zm9Bd1NZNlRpMVlYaFlwVmUtTlZCYWl4a2N1eHAtTkNxVktZUmo3Vmc?oc=5"
     },
     {
-      "headline": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI - Time Magazine",
-      "source": "Time Magazine",
-      "timestamp": "2026-07-28T14:57:31.000Z",
-      "impact": "WATCH",
+      "headline": "The OpenAI hack was a cybersecurity warning shot - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-28T17:46:02.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI &nbsp;&nbsp; Time Magazine",
+      "summary": "The OpenAI hack was a cybersecurity warning shot &nbsp;&nbsp; Axios",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oNTNQeVpNTExZeXVKOEcybV8tMXFZQkw3TElyenlMOVp5UDhZazBRM0J1Y2prSEh6czRsLVlMNTdYXy1SWGZXN1FQd2lYM0c5UGphbkdqZGdabnloYWVXMy1OazhGWF9wSWZ1THNlTGpNZHZEQmZOV1hKMA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYjdET29tOFIybC1nRjlzRU1rM0FQWUZ1SmI1QnJMTk05TWEzTWw1cHJKT1VIb0YyclhzYmdFaXUtN2RzdFBCVnFNSFJlal9fMEh3WVIyc1gtakRqUGNvUWd1SGxJWElRNzRhbVk2NWRBTWNDdFRrLXcwcnV4bmM?oc=5"
+    },
+    {
+      "headline": "Discovering cryptographic weaknesses with Claude - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-07-28T17:17:10.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5"
+    },
+    {
+      "headline": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-07-28T17:00:06.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6UGlFUVFUZk51VFBqdW9TcThwY21DVDRvVkhVRWJSNnM2LUtBQm52MC1TcVhyS1hXMWpmRVhNNkM0cVk4WFVsWG1nRVR0bVJnTHk4eWxMZU5SQUtVRVlzaHVPMHZ3bHlSLXRHRlFjSUQ1Ylo2V3JMOUlnNUh4b2dBVzhBOFFzN0RtcHJhdE1fUQ?oc=5"
+    },
+    {
+      "headline": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-07-28T15:05:36.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdW53UU1xM1Vwd0FLWnZ3Tng2UGlMUGNvbjJTZEhST2NySklBNHZtbjhabkJDd2REcGFzeU5yNXFJb29JUnpwOVZrRDl2R19Xdy1BcmFlSTVFdFlpTEVPckF0NjdkWUdRb1RKdklVNnhBcEV3MWdhdkRmWHVHREVDcU1FY0s1c2hPdmlqZ1hnOU1sdTZ3S2JpV1hR?oc=5"
     },
     {
       "headline": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised - MyGolfSpy",
@@ -42,34 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5"
     },
     {
-      "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-27T23:42:46.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
-    },
-    {
-      "headline": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data - Redmond Channel Partner",
-      "source": "Redmond Channel Partner",
-      "timestamp": "2026-07-27T23:42:06.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data &nbsp;&nbsp; Redmond Channel Partner",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWm5BQlFwSzZqQ2ZfMVJIaXZKTzJHNEpTSjNhQmhVZ1dVR1FlVlh0QlRBdWpUeFdfTkVDVU5jMlhNN0k3QzdUQ3RGbUYxOWpSbkttbTBIdHVObFczMGdPamIxLUlpVDlsZnR2b3YtUS1yQzNkZG5aUE84TFA5QWY4RGhfQlh6T1hfcWI2Vjk1c1FlODFIZDlveWlObThLbndUWVpJM0ZHcUY?oc=5"
-    },
-    {
-      "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
-      "source": "NPR",
-      "timestamp": "2026-07-27T20:49:57.000Z",
+      "headline": "Some people's chats with Claude AI found to be publicly available online - BBC",
+      "source": "BBC",
+      "timestamp": "2026-07-28T07:10:37.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5"
+      "category": "models",
+      "summary": "Some people's chats with Claude AI found to be publicly available online &nbsp;&nbsp; BBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbnpDZDliX05XS1E5bnBmZ201cHc0alFOb0Q4MXFsTXYwem9ySkg4R0luZDhIQmpaYXRzbnV2dno3cEN4NEZXZHBrWnlQMGpxLWdEbnB6Q2Z1dw?oc=5"
     },
     {
       "headline": "Meta Ray-Ban Display Glasses Get Even Better with Threads and New Version of Meta AI - Meta Store",
@@ -100,37 +110,54 @@
       "summary": "Threads users can now chat with Meta AI in their DMs &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1RKSnh5MU94Y1dCUFJnRV9fRlJQZDR4cmYzYVlVdmZ4MkF2NldtbW5aVGxYZnhhM2k5OThKQW4yYVhIb2xJTmNIdUVhTWM4WTdwY0E0SHlHelpKUUFJVVpwQ3ZmN0Z3U3h3cDR2ZXlwNGNkX0tWTUpzU3BmTjc4RE8zTjBRU28zU0hnMmRWOC0?oc=5"
-    },
-    {
-      "headline": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-27T16:03:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings? &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVW9IQmkyd3IwZ3NhdHY5OUd1eW5HV2FERUxMcEp6UTc1YVhhaXZleFM2RDBOR3Z0NlZ4TFRyZzBZUU1MSWxyd184VFVhamU2UVl6cDFRRmhxLUZwTG1iRDFPTE5UVDRCcjlPTnN2eUd1U1kzRU5BY2hxMmRtdWRfU0JjWWdpUHBzOGpzYW9rck5mTlpIeklHeWZsNA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-07-28T16:22:07.000Z",
+        "headline": "Microsoft Says Its New AI Beats OpenAI, Google, and Anthropic at Cybersecurity - inc.com",
+        "source": "inc.com",
+        "timestamp": "2026-07-28T17:48:45.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWlQQzN0d2ZwNzdvZUpiVFAxeEU4MXp6VGtyRmdYT1dwNEhmQVhRcTZEWFlwTkxnb05adWdod1JuU2gtN0NESF9PR3Bqd011ejV4R3pTcHM5Rmg0Q3RFQTJOWWd4NEZVS1JENWNpU3hPN0I0ajNCOEU5SEx5aVpXaw?oc=5",
-        "summary": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’ &nbsp;&nbsp; Business Insider"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVBoSmxIa0dncEdvdTJLQ3pnVUhLbjFPUjhxdjZ2aG1KWXlMUkFsbXlURzNldXdraDdDUkxZdlJCenNxTmtTRTdWXzdPcWh5WmZRU21LN1NsQWNKR184WUViRFY4WUtrM3ZkUzhpcnpwcFBzd3Y4cG9VNVlSS2Z6NVhGSlpnQ21pdzhUSi1uTXg5Zm9Bd1NZNlRpMVlYaFlwVmUtTlZCYWl4a2N1eHAtTkNxVktZUmo3Vmc?oc=5",
+        "summary": "Microsoft Says Its New AI Beats OpenAI, Google, and Anthropic at Cybersecurity &nbsp;&nbsp; inc.com"
       },
       {
-        "headline": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI - Time Magazine",
-        "source": "Time Magazine",
-        "timestamp": "2026-07-28T14:57:31.000Z",
-        "impact": "WATCH",
+        "headline": "The OpenAI hack was a cybersecurity warning shot - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-28T17:46:02.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oNTNQeVpNTExZeXVKOEcybV8tMXFZQkw3TElyenlMOVp5UDhZazBRM0J1Y2prSEh6czRsLVlMNTdYXy1SWGZXN1FQd2lYM0c5UGphbkdqZGdabnloYWVXMy1OazhGWF9wSWZ1THNlTGpNZHZEQmZOV1hKMA?oc=5",
-        "summary": "The OpenAI Hack Is Fueling a New Fight Over Open-Source AI &nbsp;&nbsp; Time Magazine"
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYjdET29tOFIybC1nRjlzRU1rM0FQWUZ1SmI1QnJMTk05TWEzTWw1cHJKT1VIb0YyclhzYmdFaXUtN2RzdFBCVnFNSFJlal9fMEh3WVIyc1gtakRqUGNvUWd1SGxJWElRNzRhbVk2NWRBTWNDdFRrLXcwcnV4bmM?oc=5",
+        "summary": "The OpenAI hack was a cybersecurity warning shot &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Discovering cryptographic weaknesses with Claude - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-07-28T17:17:10.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+        "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-07-28T17:00:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZ6UGlFUVFUZk51VFBqdW9TcThwY21DVDRvVkhVRWJSNnM2LUtBQm52MC1TcVhyS1hXMWpmRVhNNkM0cVk4WFVsWG1nRVR0bVJnTHk4eWxMZU5SQUtVRVlzaHVPMHZ3bHlSLXRHRlFjSUQ1Ylo2V3JMOUlnNUh4b2dBVzhBOFFzN0RtcHJhdE1fUQ?oc=5",
+        "summary": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-07-28T15:05:36.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdW53UU1xM1Vwd0FLWnZ3Tng2UGlMUGNvbjJTZEhST2NySklBNHZtbjhabkJDd2REcGFzeU5yNXFJb29JUnpwOVZrRDl2R19Xdy1BcmFlSTVFdFlpTEVPckF0NjdkWUdRb1RKdklVNnhBcEV3MWdhdkRmWHVHREVDcU1FY0s1c2hPdmlqZ1hnOU1sdTZ3S2JpV1hR?oc=5",
+        "summary": "The Meta Ray-Ban Display’s Dumb Smart Glasses AI Is Dumb No More &nbsp;&nbsp; Gizmodo"
       },
       {
         "headline": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised - MyGolfSpy",
@@ -140,33 +167,6 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5",
         "summary": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised &nbsp;&nbsp; MyGolfSpy"
-      },
-      {
-        "headline": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-27T23:42:46.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
-        "summary": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models &nbsp;&nbsp; CNBC Anthropic CEO Dario Amodei says he does not support open-weight AI ban &nbsp;&nbsp; Axios Anthropic CEO: Don’t ban cheap AI — but clamp down on China &nbsp;&nbsp; Politico"
-      },
-      {
-        "headline": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data - Redmond Channel Partner",
-        "source": "Redmond Channel Partner",
-        "timestamp": "2026-07-27T23:42:06.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWm5BQlFwSzZqQ2ZfMVJIaXZKTzJHNEpTSjNhQmhVZ1dVR1FlVlh0QlRBdWpUeFdfTkVDVU5jMlhNN0k3QzdUQ3RGbUYxOWpSbkttbTBIdHVObFczMGdPamIxLUlpVDlsZnR2b3YtUS1yQzNkZG5aUE84TFA5QWY4RGhfQlh6T1hfcWI2Vjk1c1FlODFIZDlveWlObThLbndUWVpJM0ZHcUY?oc=5",
-        "summary": "Databricks and Microsoft Expand AI Partnership Around Enterprise Data &nbsp;&nbsp; Redmond Channel Partner"
-      },
-      {
-        "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
-        "source": "NPR",
-        "timestamp": "2026-07-27T20:49:57.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
-        "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
