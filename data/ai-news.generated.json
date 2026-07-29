@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-29T04:14:24.658Z",
+    "generatedAt": "2026-07-29T07:45:27.929Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach - The Hacker News",
+      "source": "The Hacker News",
+      "timestamp": "2026-07-29T06:45:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach &nbsp;&nbsp; The Hacker News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEwzdWhXVjUxNHZtMkszdkxRamZPOGYzY1EyMHZoU1ZlZlBMOVFZVjBLRE81QVJzZnFpZUJsSDI0RVNzb2x4OU9ZWTNvLXltQWNRNVQ1bURRSDRDMm0zQVdMNWdMWTc5dEtYNGt4WUZQU1VJSVNSdkFkcHUxM1JkRXZB?oc=5"
+    },
+    {
       "headline": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift - Financial Times",
       "source": "Financial Times",
       "timestamp": "2026-07-29T04:02:22.000Z",
@@ -22,6 +32,16 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdLeGVfYkZaV1BqcmNvT1g2a2FYYTVYOFNoYXdndkpFNkU4dElQT1pHUFp0Z2dXQzR6bTEwcDVRZC16V0VUempNSE1aYXNkODlWcmsxOHVCVEo1aXBGYllpanJuSDFhNVc3b2xoaURLZjg0V2xGYU5Jb296aFhXSFVjZUg?oc=5"
     },
     {
+      "headline": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-07-29T01:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5"
+    },
+    {
       "headline": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-07-29T00:59:08.000Z",
@@ -30,6 +50,16 @@
       "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5"
+    },
+    {
+      "headline": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack - Politico",
+      "source": "Politico",
+      "timestamp": "2026-07-29T00:57:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack &nbsp;&nbsp; Politico",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaElSVC1WQ2JsMi1JTEZTNGg1dGZ4cDhMZldRajFrTzN5SW5QRXZyNTdCZkxxZklxUXJBOXNOblZQbmZXMkJvZ0VNaE5SR255T0FzbTdBbFNiWjZWMm51cUJPbERTenhWYXNqOVhUYmRidnJaVzZYUmxCeGZ6cVdwUTBCQnhja0JqU2tWbkVCLUx1dnM?oc=5"
     },
     {
       "headline": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
@@ -52,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXVNbXBHYTZxbnJLU0QyeFQ0cFNVemdaTGZDbFdRTHczZFY3SExOVlMxOUZUQ2c4UWJHWkJwcU1hN2hRcEd1Vk0yUjh5M2lTUnFraFZrWTAxWmRRejd6bkVfamJCemNEU21iZFpxWG04NS1rR3pZQk9HOHRwUE11UTZtYw?oc=5"
     },
     {
-      "headline": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center - POWER Magazine",
-      "source": "POWER Magazine",
-      "timestamp": "2026-07-28T20:18:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center &nbsp;&nbsp; POWER Magazine",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXdGbWdLY2NNSjIwSHZwQU9TQkNlZmpDVUNwZjJ6UXN5ZmtWaDl2dkFQUHMtVDRzeU01eWJtVHNSS2hfRmtRUnBEVkpvWko3T3RPSTEyQkhQRGZsaVR0MGVOcDlYQjBBcjZuaUtQWVRBZ1dLOTBVZ0R4R3o0czZSelk0UFFkZnJMZVRhTjlFZXJ2M1d5MWp2RG5vVlVhS0RGeWhlTkI4Yw?oc=5"
-    },
-    {
       "headline": "Discovering cryptographic weaknesses with Claude - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-07-28T17:17:10.000Z",
@@ -70,16 +90,6 @@
       "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5"
-    },
-    {
-      "headline": "Scientific computing in the age of agentic AI - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-07-28T17:07:42.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Scientific computing in the age of agentic AI &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cWVqX2lyeTRtY05TalE0a0JsSVRsUGF3R2dDN19GZENfSkVoaUhKRVJicFE4UjgwZTI1MWtVVHZOQVJvMXhQNUpfU0xqSjlFV2pyNEpzeF9DZG12UGVuUVhNcmVHcm80?oc=5"
     },
     {
       "headline": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms - The New York Times",
@@ -100,20 +110,19 @@
       "summary": "I Tried The Arccos/Meta AI Glasses Combo And I Gotta Admit I Was Pleasantly Surprised &nbsp;&nbsp; MyGolfSpy",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUhjMDBDb3NNM25wVUh0ZFlkYkUzMkc5bWpTUGc2cmNWSlhqN3VuNTNqdjhlbkdvMm9mbEdMQ0I5UWh1MjJ1UEVwYi1nWUlZY2ZGdm9YQVg1Wk1kX1V0YzB0RDdpU203b216ZGo3Yk1CRFRINm04OTlPZnRHNFBEcnhoTmNOQkViSHFVVHNfejRycGxFY3Zsd3dwdjNIM0psNm1NMnB6aFhULVhSZ21yWHhSZXlDZ3FDNjNLR1JR?oc=5"
-    },
-    {
-      "headline": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling - NPR",
-      "source": "NPR",
-      "timestamp": "2026-07-27T20:49:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling &nbsp;&nbsp; NPR",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach - The Hacker News",
+        "source": "The Hacker News",
+        "timestamp": "2026-07-29T06:45:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEwzdWhXVjUxNHZtMkszdkxRamZPOGYzY1EyMHZoU1ZlZlBMOVFZVjBLRE81QVJzZnFpZUJsSDI0RVNzb2x4OU9ZWTNvLXltQWNRNVQ1bURRSDRDMm0zQVdMNWdMWTc5dEtYNGt4WUZQU1VJSVNSdkFkcHUxM1JkRXZB?oc=5",
+        "summary": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach &nbsp;&nbsp; The Hacker News"
+      },
       {
         "headline": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift - Financial Times",
         "source": "Financial Times",
@@ -122,6 +131,15 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdLeGVfYkZaV1BqcmNvT1g2a2FYYTVYOFNoYXdndkpFNkU4dElQT1pHUFp0Z2dXQzR6bTEwcDVRZC16V0VUempNSE1aYXNkODlWcmsxOHVCVEo1aXBGYllpanJuSDFhNVc3b2xoaURLZjg0V2xGYU5Jb296aFhXSFVjZUg?oc=5",
         "summary": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-07-29T01:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
+        "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
@@ -133,6 +151,15 @@
         "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power &nbsp;&nbsp; The New York Times"
       },
       {
+        "headline": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack - Politico",
+        "source": "Politico",
+        "timestamp": "2026-07-29T00:57:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaElSVC1WQ2JsMi1JTEZTNGg1dGZ4cDhMZldRajFrTzN5SW5QRXZyNTdCZkxxZklxUXJBOXNOblZQbmZXMkJvZ0VNaE5SR255T0FzbTdBbFNiWjZWMm51cUJPbERTenhWYXNqOVhUYmRidnJaVzZYUmxCeGZ6cVdwUTBCQnhja0JqU2tWbkVCLUx1dnM?oc=5",
+        "summary": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack &nbsp;&nbsp; Politico"
+      },
+      {
         "headline": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
         "source": "Reuters",
         "timestamp": "2026-07-28T21:27:00.000Z",
@@ -140,33 +167,6 @@
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
         "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Here’s what Anthropic found when it turned Mythos loose on encryption algorithms - CyberScoop",
-        "source": "CyberScoop",
-        "timestamp": "2026-07-28T20:55:42.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXVNbXBHYTZxbnJLU0QyeFQ0cFNVemdaTGZDbFdRTHczZFY3SExOVlMxOUZUQ2c4UWJHWkJwcU1hN2hRcEd1Vk0yUjh5M2lTUnFraFZrWTAxWmRRejd6bkVfamJCemNEU21iZFpxWG04NS1rR3pZQk9HOHRwUE11UTZtYw?oc=5",
-        "summary": "Here’s what Anthropic found when it turned Mythos loose on encryption algorithms &nbsp;&nbsp; CyberScoop"
-      },
-      {
-        "headline": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center - POWER Magazine",
-        "source": "POWER Magazine",
-        "timestamp": "2026-07-28T20:18:15.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXdGbWdLY2NNSjIwSHZwQU9TQkNlZmpDVUNwZjJ6UXN5ZmtWaDl2dkFQUHMtVDRzeU01eWJtVHNSS2hfRmtRUnBEVkpvWko3T3RPSTEyQkhQRGZsaVR0MGVOcDlYQjBBcjZuaUtQWVRBZ1dLOTBVZ0R4R3o0czZSelk0UFFkZnJMZVRhTjlFZXJ2M1d5MWp2RG5vVlVhS0RGeWhlTkI4Yw?oc=5",
-        "summary": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center &nbsp;&nbsp; POWER Magazine"
-      },
-      {
-        "headline": "Discovering cryptographic weaknesses with Claude - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-07-28T17:17:10.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
-        "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
