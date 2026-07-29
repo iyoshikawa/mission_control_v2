@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-29T10:42:21.013Z",
+    "generatedAt": "2026-07-29T13:02:31.285Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI, Anthropic ask U.S. government to consider slowing down AI - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-07-29T10:32:58.000Z",
+      "headline": "OpenAI’s chief economist says copying successful people’s careers is bad advice - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-07-29T11:24:51.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI, Anthropic ask U.S. government to consider slowing down AI &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1FRWDYxejU1Z3BFTVd4b1lKc0UzaEprOHpyU2pJTS1jamVvRVBLV1BIUW1sTGVfUktiZmNVenlqY0ljQlpKSUR4Z1FOeE5Hd2FlZmZlcUlDaUVxYlB6NGI1YXp6aUowa0o4TXJKeFNTMllEV25weHFRRE5pY29pMXE1WHRfUEc3M09BbHJCbGpjajJfbm9KdXVSM2N4Wm5oQ1dOT3k3SUpuNGEzQ3pCTA?oc=5"
+      "category": "ecosystem",
+      "summary": "OpenAI’s chief economist says copying successful people’s careers is bad advice &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb3NvaUhiX3o3a2tKRXdCUHRtalc2bThiQnAtUnNzU2JJNWljZHFVemlCOFoyNy1wcjFoazY4emZFMGZ6Z25vZ081N3BENUFPQ052dXc5c1k3dk1UTDRkdWZHTV9xSGtRa09XTktjeFNxd2RyV18yenZCazYtblgyRklMLS1rSDRtX2M0RW9GSkpzSXhWNnQ4VFhnUVFiX0QzYXlBZg?oc=5"
     },
     {
-      "headline": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-29T10:03:00.000Z",
+      "headline": "We’re running out of reasons to ignore AI safety - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-07-29T11:00:00.000Z",
       "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "We’re running out of reasons to ignore AI safety &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWZOOTN2ekhQbGw3SnA4YzlkeWdlRWR2SFlrSmtGNGdfSU5mVjF4c1U1Mi1JQmVqOGNvUnFTV3dIVDZIUGo4c3ZnRmFqMWVyckdERzVkWEdWdzhOWHFjVDIwbS1NbGJqaFZWNkh5NVEyZ1dLUzdRbDVxNWd4WEFLajQycGpXWHBSemNyN0lFUFRjTVBXVjZ5SWN0QVBSX2NBam1RRw?oc=5"
+    },
+    {
+      "headline": "Google Shuts Down Its Nobel-Prize Winning AlphaFold Project As It Focuses On Gemini - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-07-29T10:40:36.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHY1a3VfYjFEMEFMQTA5ZUFlSDhNUmRmcERaUldhYzRuTXZBR1VrU3JIaDVNSUswLW16YkwzZFNVdFpUVmpZZ2Q1TnphUVh2bGxyS2JDVk1keEZhd1RjcWpUbnQ1WjlQN29jMnE3LVIwTmVqZV96Z2c2cFI2dGJoS1F5LXhRYnVuY3o4Q1c0dTgxdw?oc=5"
+      "summary": "Google Shuts Down Its Nobel-Prize Winning AlphaFold Project As It Focuses On Gemini &nbsp;&nbsp; Engadget",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OREtBOU1mVHR2TnAxb3o4YXpFQUdmRjhnbDQ4NkVLTzhNb1MzbDZGc0xfd0RnbTRIVHlyOHVRLUZ2WG5HMkZaSDNuVl9TbHBKNm9KdGhzakV6SjBmbEkyLUZaMlRaTllTa2x1T3BB?oc=5"
     },
     {
       "headline": "Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - Yahoo Finance",
@@ -42,6 +52,16 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOal9lUWc3Wi1sbWxmT0x2QnpfcDZTZEFCbFZSbjJJSDhtRDlPQ3V4TWZiV3BrZHp0X2t3UE4zREZBa0Y2bjQ4UHhOdmlWOFJWWEsyS2dNZjdwSmV0dUhuMkpFQWJaSzR5Zkdhbk9RXzBmZERKWkFyTjk2SFlzd0ZLNGdoYW1WTjUwWXJUa1ZFVkx1NUpaMzJWdUNTbVlodTdF?oc=5"
     },
     {
+      "headline": "Microsoft Earnings: 3 AI Questions Ahead of Wednesday Report - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-07-29T06:15:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Earnings: 3 AI Questions Ahead of Wednesday Report &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OQkNPWXg1dnA5bVFyMVk1UklPdXprQ1ZuY2Q4b2FScEV3d1FJSkhoUi1YVkotek9KTExRdV9La19tRXZHN2twbE9UNGdZWUZFR19TQWhEcHZzRnpsOE84MVlIcTk5WEF3dTl5Vmx0OHFvNGV5aGxodnhPZmI?oc=5"
+    },
+    {
       "headline": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift - Financial Times",
       "source": "Financial Times",
       "timestamp": "2026-07-29T04:00:05.000Z",
@@ -50,6 +70,16 @@
       "summary": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdLeGVfYkZaV1BqcmNvT1g2a2FYYTVYOFNoYXdndkpFNkU4dElQT1pHUFp0Z2dXQzR6bTEwcDVRZC16V0VUempNSE1aYXNkODlWcmsxOHVCVEo1aXBGYllpanJuSDFhNVc3b2xoaURLZjg0V2xGYU5Jb296aFhXSFVjZUg?oc=5"
+    },
+    {
+      "headline": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-29T02:34:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Meta's Zuckerberg warns against curbs on Chinese AI models, FT reports &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5"
     },
     {
       "headline": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
@@ -80,57 +110,36 @@
       "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says &nbsp;&nbsp; Reuters",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5"
-    },
-    {
-      "headline": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center - POWER Magazine",
-      "source": "POWER Magazine",
-      "timestamp": "2026-07-28T20:18:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center &nbsp;&nbsp; POWER Magazine",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXdGbWdLY2NNSjIwSHZwQU9TQkNlZmpDVUNwZjJ6UXN5ZmtWaDl2dkFQUHMtVDRzeU01eWJtVHNSS2hfRmtRUnBEVkpvWko3T3RPSTEyQkhQRGZsaVR0MGVOcDlYQjBBcjZuaUtQWVRBZ1dLOTBVZ0R4R3o0czZSelk0UFFkZnJMZVRhTjlFZXJ2M1d5MWp2RG5vVlVhS0RGeWhlTkI4Yw?oc=5"
-    },
-    {
-      "headline": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack - The Hacker News",
-      "source": "The Hacker News",
-      "timestamp": "2026-07-28T18:59:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack &nbsp;&nbsp; The Hacker News",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyT3Zmb3JleWQ2VXBpSXJVZzBKS0pYUDFBVFEwMzdLVERVYXZ6c2lBeU9VMzQ0LWNkTTJXYWxxSmc2bkRJV1M1NUVYSU5tNHNjQW1wVkVuUDI0X2dieEt3TE4yT2tpRlF1QW9LdnZVYmxEaGQ4WnFlVnVQc1I0VTA?oc=5"
-    },
-    {
-      "headline": "Discovering cryptographic weaknesses with Claude - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-07-28T17:17:10.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Discovering cryptographic weaknesses with Claude &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI, Anthropic ask U.S. government to consider slowing down AI - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-07-29T10:32:58.000Z",
+        "headline": "OpenAI’s chief economist says copying successful people’s careers is bad advice - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-07-29T11:24:51.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1FRWDYxejU1Z3BFTVd4b1lKc0UzaEprOHpyU2pJTS1jamVvRVBLV1BIUW1sTGVfUktiZmNVenlqY0ljQlpKSUR4Z1FOeE5Hd2FlZmZlcUlDaUVxYlB6NGI1YXp6aUowa0o4TXJKeFNTMllEV25weHFRRE5pY29pMXE1WHRfUEc3M09BbHJCbGpjajJfbm9KdXVSM2N4Wm5oQ1dOT3k3SUpuNGEzQ3pCTA?oc=5",
-        "summary": "OpenAI, Anthropic ask U.S. government to consider slowing down AI &nbsp;&nbsp; The Washington Post"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb3NvaUhiX3o3a2tKRXdCUHRtalc2bThiQnAtUnNzU2JJNWljZHFVemlCOFoyNy1wcjFoazY4emZFMGZ6Z25vZ081N3BENUFPQ052dXc5c1k3dk1UTDRkdWZHTV9xSGtRa09XTktjeFNxd2RyV18yenZCazYtblgyRklMLS1rSDRtX2M0RW9GSkpzSXhWNnQ4VFhnUVFiX0QzYXlBZg?oc=5",
+        "summary": "OpenAI’s chief economist says copying successful people’s careers is bad advice &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-29T10:03:00.000Z",
+        "headline": "We’re running out of reasons to ignore AI safety - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-07-29T11:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHY1a3VfYjFEMEFMQTA5ZUFlSDhNUmRmcERaUldhYzRuTXZBR1VrU3JIaDVNSUswLW16YkwzZFNVdFpUVmpZZ2Q1TnphUVh2bGxyS2JDVk1keEZhd1RjcWpUbnQ1WjlQN29jMnE3LVIwTmVqZV96Z2c2cFI2dGJoS1F5LXhRYnVuY3o4Q1c0dTgxdw?oc=5",
-        "summary": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses &nbsp;&nbsp; Fortune"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWZOOTN2ekhQbGw3SnA4YzlkeWdlRWR2SFlrSmtGNGdfSU5mVjF4c1U1Mi1JQmVqOGNvUnFTV3dIVDZIUGo4c3ZnRmFqMWVyckdERzVkWEdWdzhOWHFjVDIwbS1NbGJqaFZWNkh5NVEyZ1dLUzdRbDVxNWd4WEFLajQycGpXWHBSemNyN0lFUFRjTVBXVjZ5SWN0QVBSX2NBam1RRw?oc=5",
+        "summary": "We’re running out of reasons to ignore AI safety &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Google Shuts Down Its Nobel-Prize Winning AlphaFold Project As It Focuses On Gemini - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-07-29T10:40:36.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OREtBOU1mVHR2TnAxb3o4YXpFQUdmRjhnbDQ4NkVLTzhNb1MzbDZGc0xfd0RnbTRIVHlyOHVRLUZ2WG5HMkZaSDNuVl9TbHBKNm9KdGhzakV6SjBmbEkyLUZaMlRaTllTa2x1T3BB?oc=5",
+        "summary": "Google Shuts Down Its Nobel-Prize Winning AlphaFold Project As It Focuses On Gemini &nbsp;&nbsp; Engadget"
       },
       {
         "headline": "Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - Yahoo Finance",
@@ -142,6 +151,15 @@
         "summary": "Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini &nbsp;&nbsp; Yahoo Finance"
       },
       {
+        "headline": "Microsoft Earnings: 3 AI Questions Ahead of Wednesday Report - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-07-29T06:15:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OQkNPWXg1dnA5bVFyMVk1UklPdXprQ1ZuY2Q4b2FScEV3d1FJSkhoUi1YVkotek9KTExRdV9La19tRXZHN2twbE9UNGdZWUZFR19TQWhEcHZzRnpsOE84MVlIcTk5WEF3dTl5Vmx0OHFvNGV5aGxodnhPZmI?oc=5",
+        "summary": "Microsoft Earnings: 3 AI Questions Ahead of Wednesday Report &nbsp;&nbsp; Barron's"
+      },
+      {
         "headline": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift - Financial Times",
         "source": "Financial Times",
         "timestamp": "2026-07-29T04:00:05.000Z",
@@ -149,24 +167,6 @@
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUdLeGVfYkZaV1BqcmNvT1g2a2FYYTVYOFNoYXdndkpFNkU4dElQT1pHUFp0Z2dXQzR6bTEwcDVRZC16V0VUempNSE1aYXNkODlWcmsxOHVCVEo1aXBGYllpanJuSDFhNVc3b2xoaURLZjg0V2xGYU5Jb296aFhXSFVjZUg?oc=5",
         "summary": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "A Backlash Against Anthropic Is Brewing in Silicon Valley - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-07-29T01:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lrY1NCZ3F4MHcxbV9QZF94ZEhieFdCY0t4OGlVQWVWQl9GM2lwdmlrVjUzcTN0NmlEbV9WUmJNM2ViaEJKLUNjcjdWeXR1enhobmhlV1VWOVRLZkROcmd3bkFtdnZ2cTZHVHpySkNYY1FQRndFbll4VzlVb08zLTlxb3Z6M092OGtDVVNad0E1MkRTeHV0MHJR?oc=5",
-        "summary": "A Backlash Against Anthropic Is Brewing in Silicon Valley &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack - Politico",
-        "source": "Politico",
-        "timestamp": "2026-07-29T00:57:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaElSVC1WQ2JsMi1JTEZTNGg1dGZ4cDhMZldRajFrTzN5SW5QRXZyNTdCZkxxZklxUXJBOXNOblZQbmZXMkJvZ0VNaE5SR255T0FzbTdBbFNiWjZWMm51cUJPbERTenhWYXNqOVhUYmRidnJaVzZYUmxCeGZ6cVdwUTBCQnhja0JqU2tWbkVCLUx1dnM?oc=5",
-        "summary": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack &nbsp;&nbsp; Politico"
       }
     ],
     "whyItMatters": [
@@ -196,7 +196,7 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
