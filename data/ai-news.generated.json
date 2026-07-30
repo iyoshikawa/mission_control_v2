@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-30T08:33:09.262Z",
+    "generatedAt": "2026-07-30T11:10:07.859Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,19 +12,59 @@
   },
   "newsFeed": [
     {
-      "headline": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-30T00:58:00.000Z",
+      "headline": "OpenAI’s Hacking Debacle Was a Human Mistake - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-07-30T10:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep &nbsp;&nbsp; CNBC",
+      "summary": "OpenAI’s Hacking Debacle Was a Human Mistake &nbsp;&nbsp; WIRED",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TDJTNW02OUVtYV9fT0tGWVdWcExqd0VjMl9lajYxWl92QTZuRHQxTWxBZE96dS1VX1dUaXo0UTN1bGRXNWliQlBtQmhpTHFxWlN2QkdvYkFfMTFVOXAtbDBJODhWbmNfeFd3YUVXRUZjOHpCcEVQbDRpZFE?oc=5"
+    },
+    {
+      "headline": "Analysis-Meta's AI splurge lays bare its compute conundrum - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-30T10:18:19.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5"
+    },
+    {
+      "headline": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-30T10:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORC1PaHlTYzZ0QV90dVVsbXpGU3FqVFlnSlU4VWlEUjRzdWhwdk4tb2duSDdQQW1OU09xandQa0xYV3AwdlJXd01LRU9BbVc5T21Tc3dYbjU2R3pKdnh3YTV5TEd2Y2tveXljTE80ajA4bmluSlBVYWJOQmdvSTBpSVUxRHQ1Zkp5SmIzODdwSXlWVWtQWHctUUlUWVJZcDhMNjFYakxoUU4zaWlEb2R1UzhmdFUyc3hVV2ItNUU3TE5rbk9WS2NJ?oc=5"
+    },
+    {
+      "headline": "AI labs face prisoner's dilemma as momentum grows for safety slowdown - Axios",
+      "source": "Axios",
+      "timestamp": "2026-07-30T09:04:21.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "AI labs face prisoner's dilemma as momentum grows for safety slowdown &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUTZpWnFfY3JnUUM1VFUzNXdxWnJNU0xvNXg0RldhcG54T2hmdG5LQnBtNlUzQUNxanNuQVMtVEQyNlFydWZkOXd0U3AyTTQxSVhuQ1hod2syUTlha2xyNHBWTnBPTXhXWF9IZ0E4VTVHMDN1M0pz?oc=5"
+    },
+    {
+      "headline": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-30T08:53:39.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5"
     },
     {
       "headline": "Trump considering AI controls after OpenAI hacking incidents - BBC",
       "source": "BBC",
-      "timestamp": "2026-07-30T00:41:28.000Z",
+      "timestamp": "2026-07-30T07:23:11.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Trump considering AI controls after OpenAI hacking incidents &nbsp;&nbsp; BBC",
@@ -32,34 +72,24 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5"
     },
     {
-      "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever - techcrunch.com",
-      "source": "techcrunch.com",
+      "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch",
+      "source": "TechCrunch",
       "timestamp": "2026-07-30T00:21:06.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever &nbsp;&nbsp; techcrunch.com",
+      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5"
     },
     {
-      "headline": "Meta shares fall as frustration grows over AI spending plans - BBC",
-      "source": "BBC",
-      "timestamp": "2026-07-29T22:44:18.000Z",
+      "headline": "Meta misses earnings forecasts after Zuckerberg media push to promote AI - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-07-29T21:26:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta shares fall as frustration grows over AI spending plans &nbsp;&nbsp; BBC Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Fortune Tech: Meta’s cash crunch, Microsoft’s Azure milestone, DoorDash drone deliveries &nbsp;&nbsp; Fortune",
+      "summary": "Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Meta shares fall as frustration grows over AI spending plans &nbsp;&nbsp; BBC Meta cash flow craters as Zuckerberg doubles down on AI spending &nbsp;&nbsp; Reuters",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ2JRcnJSMUo2dWdmMElkbXNILWZLb052X1BING00RWdBTk0xcnZWUEthMEhrMkRQN2VrblJxZVA5dF9zVzBlcGo3bEdoenctU1RRZ1p4RFBNQQ?oc=5"
-    },
-    {
-      "headline": "Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? - Stocks Down Under",
-      "source": "Stocks Down Under",
-      "timestamp": "2026-07-29T21:06:54.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? &nbsp;&nbsp; Stocks Down Under",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XUE4yek9QNGYzVmxpZDVuRndyU1JxSm1MRF9RdThwQkdNTkJFWWh0cU4wMlk3SDNmaVctd1g5UHRxRjVxSlFsZlhha1d4NDM2cFNpQjM4UVlqQkh0TDhGaHRkTFdWbDllYm1zYlUtSkxfVXJlLTdORVFn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzhoelpiZ2lRWlVXMEFEZUZfTUgtcWMtVU1Ea3ZTRkxpM2VudHY0dDhLbmZ2VkNwRlpVOHV3MUhKX3JwT1JZTHktaHZsdGM5S2Nxb21CX0IyZER2Vl9yZ01UbXNRVjhpMy04Ni1kQld6TGFLQlhoaTBVS3RWRzI3dHZIaUhRUFU?oc=5"
     },
     {
       "headline": "More than 1,200 AI workers are asking for Washington’s help to build an AI slowdown plan - Fortune",
@@ -72,115 +102,85 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDBFazBrVWNtTTBONXRNSFNVcFl2YjduRHdHYktXZkhzeXBJeGxCcTBwdTAxeV9lRjk2MktaV1ZncHAzUU9uQ2hxbmd0ZUg0S0VzUWdBUW85NGVwUVJpdE1TQXl1NVhPNHV5SHpLQWpyZVB6bDZaV0xDZ2ljV1RteVdLZzM0TlNsZDhwdHVISE1rWld1?oc=5"
     },
     {
-      "headline": "Microsoft Azure tops $100B in annual revenue as record AI spending cuts into cash flow - geekwire.com",
-      "source": "geekwire.com",
+      "headline": "Microsoft Azure tops $100B in annual revenue as record AI spending cuts into cash flow - GeekWire",
+      "source": "GeekWire",
       "timestamp": "2026-07-29T20:51:34.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "Microsoft Azure tops $100B in annual revenue as record AI spending cuts into cash flow &nbsp;&nbsp; geekwire.com",
+      "summary": "Microsoft Azure tops $100B in annual revenue as record AI spending cuts into cash flow &nbsp;&nbsp; GeekWire",
       "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3gtNkFkdUk3ck5PdGZTVkI0eHhGTk56UkZWZzhqdzE5RWl4cVF2UjFJb19pTGFkYkdQWEFyRWZzcDF0aThvMnYxRk1nQWMwYVFCZEJNSXFkZFZ3NlBzS3BoeHFva2UtSXd4cENYUGo0V0hPdjJzYWhSamFJRDMzQkpLMm5FM2NIYVNkXzFaWl9pZmY1ZGlmWTNuWXdwang0Z2xnWTBzMHdrWGVCTGpLR3haZzhVcTQ?oc=5"
-    },
-    {
-      "headline": "Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position? - beincrypto.com",
-      "source": "beincrypto.com",
-      "timestamp": "2026-07-29T20:32:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position? &nbsp;&nbsp; beincrypto.com",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpRVY0VDBKMUE2RW42QS1IYk9BT0RpMmpPbjg0OUw1ZXBsV3lwLUpiY0hCbk04MXoyZVZDMldRTnJjaEdfZVZFWlFmNjZ0eFg1NFUwcVlkQWZwTk84X0diNkJsejdZSUU?oc=5"
-    },
-    {
-      "headline": "Microsoft tops quarterly cloud growth estimates, easing spending concerns - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-07-29T20:04:28.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft tops quarterly cloud growth estimates, easing spending concerns &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUktET2VJRDZ6VjVpRVctRXQtZk10akh6WDNFNWcybXk5M0ZUZGR5OHNCQlB4cnlDbTVBdXpyMlVJV3dabjJvTXI0bl95b0U5Qjd3SmxHMDJDMFNaSDdpWmhpanJFaE1NcXVPckZTS2c0eVhXN3pPMWpTWXZzMlBjZUg1UmlTYzdrTzF4U0lrZ2pXa0U3azY0QlNtdG1oZEtrWXFF?oc=5"
-    },
-    {
-      "headline": "The OpenAI lab leak was more extensive than we thought - CNN",
-      "source": "CNN",
-      "timestamp": "2026-07-29T13:47:44.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The OpenAI lab leak was more extensive than we thought &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QODg1WEhMT3dad0VyeWlPeXpJYlExaXVxM2N6ZVhvbTFoTzR1VlhZOGlSSHppTl9TNFROUnBaeE8xSG5iSDBzZDhIUldpaDFQM19Pa0w5R2NJMWpXZFFmVldxdi1hdzdDdlpJX2ROdVVtUG5WQkE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-30T00:58:00.000Z",
+        "headline": "OpenAI’s Hacking Debacle Was a Human Mistake - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-07-30T10:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TDJTNW02OUVtYV9fT0tGWVdWcExqd0VjMl9lajYxWl92QTZuRHQxTWxBZE96dS1VX1dUaXo0UTN1bGRXNWliQlBtQmhpTHFxWlN2QkdvYkFfMTFVOXAtbDBJODhWbmNfeFd3YUVXRUZjOHpCcEVQbDRpZFE?oc=5",
+        "summary": "OpenAI’s Hacking Debacle Was a Human Mistake &nbsp;&nbsp; WIRED"
+      },
+      {
+        "headline": "Analysis-Meta's AI splurge lays bare its compute conundrum - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-30T10:18:19.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5",
-        "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5",
+        "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-30T10:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORC1PaHlTYzZ0QV90dVVsbXpGU3FqVFlnSlU4VWlEUjRzdWhwdk4tb2duSDdQQW1OU09xandQa0xYV3AwdlJXd01LRU9BbVc5T21Tc3dYbjU2R3pKdnh3YTV5TEd2Y2tveXljTE80ajA4bmluSlBVYWJOQmdvSTBpSVUxRHQ1Zkp5SmIzODdwSXlWVWtQWHctUUlUWVJZcDhMNjFYakxoUU4zaWlEb2R1UzhmdFUyc3hVV2ItNUU3TE5rbk9WS2NJ?oc=5",
+        "summary": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "AI labs face prisoner's dilemma as momentum grows for safety slowdown - Axios",
+        "source": "Axios",
+        "timestamp": "2026-07-30T09:04:21.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUTZpWnFfY3JnUUM1VFUzNXdxWnJNU0xvNXg0RldhcG54T2hmdG5LQnBtNlUzQUNxanNuQVMtVEQyNlFydWZkOXd0U3AyTTQxSVhuQ1hod2syUTlha2xyNHBWTnBPTXhXWF9IZ0E4VTVHMDN1M0pz?oc=5",
+        "summary": "AI labs face prisoner's dilemma as momentum grows for safety slowdown &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-30T08:53:39.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
+        "summary": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Trump considering AI controls after OpenAI hacking incidents - BBC",
         "source": "BBC",
-        "timestamp": "2026-07-30T00:41:28.000Z",
+        "timestamp": "2026-07-30T07:23:11.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
         "summary": "Trump considering AI controls after OpenAI hacking incidents &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever - techcrunch.com",
-        "source": "techcrunch.com",
-        "timestamp": "2026-07-30T00:21:06.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
-        "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever &nbsp;&nbsp; techcrunch.com"
-      },
-      {
-        "headline": "Meta shares fall as frustration grows over AI spending plans - BBC",
-        "source": "BBC",
-        "timestamp": "2026-07-29T22:44:18.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ2JRcnJSMUo2dWdmMElkbXNILWZLb052X1BING00RWdBTk0xcnZWUEthMEhrMkRQN2VrblJxZVA5dF9zVzBlcGo3bEdoenctU1RRZ1p4RFBNQQ?oc=5",
-        "summary": "Meta shares fall as frustration grows over AI spending plans &nbsp;&nbsp; BBC Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Fortune Tech: Meta’s cash crunch, Microsoft’s Azure milestone, DoorDash drone deliveries &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? - Stocks Down Under",
-        "source": "Stocks Down Under",
-        "timestamp": "2026-07-29T21:06:54.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XUE4yek9QNGYzVmxpZDVuRndyU1JxSm1MRF9RdThwQkdNTkJFWWh0cU4wMlk3SDNmaVctd1g5UHRxRjVxSlFsZlhha1d4NDM2cFNpQjM4UVlqQkh0TDhGaHRkTFdWbDllYm1zYlUtSkxfVXJlLTdORVFn?oc=5",
-        "summary": "Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? &nbsp;&nbsp; Stocks Down Under"
-      },
-      {
-        "headline": "More than 1,200 AI workers are asking for Washington’s help to build an AI slowdown plan - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-07-29T20:52:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDBFazBrVWNtTTBONXRNSFNVcFl2YjduRHdHYktXZkhzeXBJeGxCcTBwdTAxeV9lRjk2MktaV1ZncHAzUU9uQ2hxbmd0ZUg0S0VzUWdBUW85NGVwUVJpdE1TQXl1NVhPNHV5SHpLQWpyZVB6bDZaV0xDZ2ljV1RteVdLZzM0TlNsZDhwdHVISE1rWld1?oc=5",
-        "summary": "More than 1,200 AI workers are asking for Washington’s help to build an AI slowdown plan &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
