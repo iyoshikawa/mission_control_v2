@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-30T14:10:46.782Z",
+    "generatedAt": "2026-07-30T16:38:07.965Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,29 @@
   },
   "newsFeed": [
     {
+      "headline": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-07-30T16:14:48.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending &nbsp;&nbsp; Forbes",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5"
+    },
+    {
+      "headline": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - Yahoo",
+      "source": "Yahoo",
+      "timestamp": "2026-07-30T16:08:31.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue &nbsp;&nbsp; Yahoo",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTNsUDlDc1NGZWEtZGoyeHdrTVlsa2lPVGpzLUZGZXRDamR6bzZFejk2VlNYVWpELWZJXzZqTmJiVU9aOTlpUmdGZk5mMHlPb1piUVd0TGViX2EzWVZzN2ZHZGdsWEwyaElWbjZDbFVoRHlmQnNYM0dBSm5ZNENLS3d0aUJXS1FBT0g1b2V2Snc4QzBqNmVQMDNzVWc?oc=5"
+    },
+    {
       "headline": "Inside a cyberattack launched by a rogue AI agent that escaped containment - The Washington Post",
       "source": "The Washington Post",
-      "timestamp": "2026-07-30T13:34:24.000Z",
+      "timestamp": "2026-07-30T16:00:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Inside a cyberattack launched by a rogue AI agent that escaped containment &nbsp;&nbsp; The Washington Post",
@@ -22,42 +42,62 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5"
     },
     {
-      "headline": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy' - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-30T13:22:36.000Z",
+      "headline": "Meta's AI Spending Faces Wall Street Test - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-07-30T15:25:34.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta's AI Spending Faces Wall Street Test &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVNIYjZhQl85LXZVaUdEdXowdzhjNV9lUlA2RjMxeWdwTmN5N0VycDZoWTEyb1RRdm43YnJIN2tNc05PVUZyTWkxS3oyRjNzajYtNFJTcVJOcGxiaU1oa2RacktCWHJpRXhhdEhldHJ6ckNwUDI2MmtXblRLN1JPag?oc=5"
+    },
+    {
+      "headline": "Introducing Gemini Robotics ER 2 - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-07-30T15:12:58.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy' &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Xy01cWIxa2IxbHlaV2xsTVR0dDFnNkxVZTJxVmlhQ3RCOWFaQlpuWXNrdXZrY0xLUEZJU2R6aFZ1WWtueEcyOUZ3bThSQ1hmMmFfWlg5SDNWcGV4S2hCR0oybzl4YVlNbmNLRS1COHdHaTYtZ0VxTdIBfkFVX3lxTE5zRmxpSEtjaDZ3Z2VwVTNDdzg0cnBRZmVIOVp4cjNEUmN6MDJOZG9UVGd1YTNlMjdjS2w0NHlCdmZwNGhJSndtRzhDZ0FieWdaVmlld0pGRWQ1TmR1NEg2Y3hvX2ZIVGxabDl0M3RYcmpNcUFwOWVXQUFSaXdTQQ?oc=5"
+      "summary": "Introducing Gemini Robotics ER 2 &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5"
     },
     {
-      "headline": "Analysis-Meta's AI splurge lays bare its compute conundrum - finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "timestamp": "2026-07-30T10:18:19.000Z",
+      "headline": "Gemini Robotics 2 brings whole body intelligence to robots - deepmind.google",
+      "source": "deepmind.google",
+      "timestamp": "2026-07-30T15:04:50.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Gemini Robotics 2 brings whole body intelligence to robots &nbsp;&nbsp; deepmind.google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5"
+    },
+    {
+      "headline": "Google’s Gemini Can Now Stomp Around as a Humanoid Robot - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-07-30T15:04:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Google’s Gemini Can Now Stomp Around as a Humanoid Robot &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RS09fOW4xUm8tWkJwWm1Tc0VhREhMdGc2WVU2UHpLY2Y3UkVTSmF2MU10NXExWFVreG83YlRsNFBsdTdIbWRFeS1sWUhLUm40aURLa2pqdmxjWGROZEhGMWVKVTdMbXE0VDlmc3psRm1iXzZRLVhVR3lB?oc=5"
+    },
+    {
+      "headline": "Why Is Microsoft Stock Soaring Thursday? - Microsoft (NASDAQ:MSFT) - Benzinga",
+      "source": "Benzinga",
+      "timestamp": "2026-07-30T13:07:28.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum &nbsp;&nbsp; finance.yahoo.com Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Meta cash flow craters as Zuckerberg doubles down on AI spending &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5"
+      "summary": "Why Is Microsoft Stock Soaring Thursday? - Microsoft (NASDAQ:MSFT) &nbsp;&nbsp; Benzinga",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWgyV04xYmYzN2RySy1qV0sxNnM1SWxuSGQyTWFZMG5CekliMUlEX29rc2FVdWhXQ0RjcFYwbXBhblJySjh6TDJaMllfSl9QMVhBdWl3S0NMN09BOGFUeTIwc0k1YlpOTXBaaUM3NlVLMEZMczh1clNqYUhtLTNBb0E5VjdlS0dEU29lNXZLaU1CQ011aDAzU3Jqa1pHMTFaeHEtd0dZNzVoeFRmcjNCU0NHQlhlcC13Q3cybWY4R0o5Mnp4NFhzLVBKb3ZudU5YMHRNeF9IVEl5bXBU?oc=5"
     },
     {
-      "headline": "Google DeepMind Disbands Its Nobel-Prize Winning AlphaFold Team - engadget.com",
-      "source": "engadget.com",
-      "timestamp": "2026-07-30T10:14:36.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Google DeepMind Disbands Its Nobel-Prize Winning AlphaFold Team &nbsp;&nbsp; engadget.com",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OREtBOU1mVHR2TnAxb3o4YXpFQUdmRjhnbDQ4NkVLTzhNb1MzbDZGc0xfd0RnbTRIVHlyOHVRLUZ2WG5HMkZaSDNuVl9TbHBKNm9KdGhzakV6SjBmbEkyLUZaMlRaTllTa2x1T3BB?oc=5"
-    },
-    {
-      "headline": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day - Yahoo Finance",
+      "source": "Yahoo Finance",
       "timestamp": "2026-07-30T10:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORC1PaHlTYzZ0QV90dVVsbXpGU3FqVFlnSlU4VWlEUjRzdWhwdk4tb2duSDdQQW1OU09xandQa0xYV3AwdlJXd01LRU9BbVc5T21Tc3dYbjU2R3pKdnh3YTV5TEd2Y2tveXljTE80ajA4bmluSlBVYWJOQmdvSTBpSVUxRHQ1Zkp5SmIzODdwSXlWVWtQWHctUUlUWVJZcDhMNjFYakxoUU4zaWlEb2R1UzhmdFUyc3hVV2ItNUU3TE5rbk9WS2NJ?oc=5"
     },
@@ -70,103 +110,63 @@
       "summary": "Trump weighs tighter AI controls but warns against falling behind China &nbsp;&nbsp; Fox Business",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFgzeTgxRlowNGhJVExueWpyR1RqQ2xKYmRZVFNxM3cwc1d5WE1SYU9RNkFaMThjaGcwMDI0amx3WTdWdE9sdGVqQ0U5ZFN0SUo1UXc2UTN5a3RqMWJYX3Q5RTF1dlhuek92a1VVdnhjWFI3NGJnY2xyV2Z3Ymd6b1dSZ2dIeVYxNGh6Y01EWVFtYWhRbFhiUU5HWnN6NlBxNkFxV1BrRdIBrAFBVV95cUxPOGVTcEpmRTRkWXE2LVNLaDJIbjIxV3QtVkNMdEZfeEY4MXhoLTREdnYyeWV5WHd3dkpxcTdQMzVJaG9Xdm5tUGtvbDZCTl90cWc1TGxlM0pTN0xiUmZCM0RvaGktT3lNM3NMSHFRX29LcTJ4Vzd3VE1BaUZzR0d0N0RZWF9yY0NFS0ZQXzlLcnZJS2JIUDFUSmc1Yk5kM0dWQmpHVUcxLXQ2VWlS?oc=5"
-    },
-    {
-      "headline": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-30T00:58:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5"
-    },
-    {
-      "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-30T00:21:06.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5"
-    },
-    {
-      "headline": "Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? - Stocks Down Under",
-      "source": "Stocks Down Under",
-      "timestamp": "2026-07-29T21:06:54.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? &nbsp;&nbsp; Stocks Down Under",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XUE4yek9QNGYzVmxpZDVuRndyU1JxSm1MRF9RdThwQkdNTkJFWWh0cU4wMlk3SDNmaVctd1g5UHRxRjVxSlFsZlhha1d4NDM2cFNpQjM4UVlqQkh0TDhGaHRkTFdWbDllYm1zYlUtSkxfVXJlLTdORVFn?oc=5"
-    },
-    {
-      "headline": "More than 1,200 AI workers are asking for Washington’s help to build an AI slowdown plan - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-07-29T20:52:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "More than 1,200 AI workers are asking for Washington’s help to build an AI slowdown plan &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSDBFazBrVWNtTTBONXRNSFNVcFl2YjduRHdHYktXZkhzeXBJeGxCcTBwdTAxeV9lRjk2MktaV1ZncHAzUU9uQ2hxbmd0ZUg0S0VzUWdBUW85NGVwUVJpdE1TQXl1NVhPNHV5SHpLQWpyZVB6bDZaV0xDZ2ljV1RteVdLZzM0TlNsZDhwdHVISE1rWld1?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
+        "source": "Forbes",
+        "timestamp": "2026-07-30T16:14:48.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5",
+        "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending &nbsp;&nbsp; Forbes"
+      },
+      {
+        "headline": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - Yahoo",
+        "source": "Yahoo",
+        "timestamp": "2026-07-30T16:08:31.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTNsUDlDc1NGZWEtZGoyeHdrTVlsa2lPVGpzLUZGZXRDamR6bzZFejk2VlNYVWpELWZJXzZqTmJiVU9aOTlpUmdGZk5mMHlPb1piUVd0TGViX2EzWVZzN2ZHZGdsWEwyaElWbjZDbFVoRHlmQnNYM0dBSm5ZNENLS3d0aUJXS1FBT0g1b2V2Snc4QzBqNmVQMDNzVWc?oc=5",
+        "summary": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue &nbsp;&nbsp; Yahoo"
+      },
+      {
         "headline": "Inside a cyberattack launched by a rogue AI agent that escaped containment - The Washington Post",
         "source": "The Washington Post",
-        "timestamp": "2026-07-30T13:34:24.000Z",
+        "timestamp": "2026-07-30T16:00:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5",
         "summary": "Inside a cyberattack launched by a rogue AI agent that escaped containment &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy' - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-30T13:22:36.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Xy01cWIxa2IxbHlaV2xsTVR0dDFnNkxVZTJxVmlhQ3RCOWFaQlpuWXNrdXZrY0xLUEZJU2R6aFZ1WWtueEcyOUZ3bThSQ1hmMmFfWlg5SDNWcGV4S2hCR0oybzl4YVlNbmNLRS1COHdHaTYtZ0VxTdIBfkFVX3lxTE5zRmxpSEtjaDZ3Z2VwVTNDdzg0cnBRZmVIOVp4cjNEUmN6MDJOZG9UVGd1YTNlMjdjS2w0NHlCdmZwNGhJSndtRzhDZ0FieWdaVmlld0pGRWQ1TmR1NEg2Y3hvX2ZIVGxabDl0M3RYcmpNcUFwOWVXQUFSaXdTQQ?oc=5",
-        "summary": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy' &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Analysis-Meta's AI splurge lays bare its compute conundrum - finance.yahoo.com",
-        "source": "finance.yahoo.com",
-        "timestamp": "2026-07-30T10:18:19.000Z",
+        "headline": "Meta's AI Spending Faces Wall Street Test - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-07-30T15:25:34.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQi00aVRnRkVIZmNQSzNVX3NWY0dIMmpoQzJyMVhuN1ZaT2dCd2t6aC1XQlU1MC1DY19uclVXdVZNbnlJZG1GSVZtUEl1elZ4eTBycVN6dEotUjR6ZVR0MTdObV8yWGs0REh5RzA3ODJwUVVmWWVRalFSSkNFU0dnX3l5RTZBa1BncW9yMC1LekhVVlViVnk1RUtB?oc=5",
-        "summary": "Analysis-Meta's AI splurge lays bare its compute conundrum &nbsp;&nbsp; finance.yahoo.com Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Meta cash flow craters as Zuckerberg doubles down on AI spending &nbsp;&nbsp; Reuters"
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVNIYjZhQl85LXZVaUdEdXowdzhjNV9lUlA2RjMxeWdwTmN5N0VycDZoWTEyb1RRdm43YnJIN2tNc05PVUZyTWkxS3oyRjNzajYtNFJTcVJOcGxiaU1oa2RacktCWHJpRXhhdEhldHJ6ckNwUDI2MmtXblRLN1JPag?oc=5",
+        "summary": "Meta's AI Spending Faces Wall Street Test &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "Google DeepMind Disbands Its Nobel-Prize Winning AlphaFold Team - engadget.com",
-        "source": "engadget.com",
-        "timestamp": "2026-07-30T10:14:36.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OREtBOU1mVHR2TnAxb3o4YXpFQUdmRjhnbDQ4NkVLTzhNb1MzbDZGc0xfd0RnbTRIVHlyOHVRLUZ2WG5HMkZaSDNuVl9TbHBKNm9KdGhzakV6SjBmbEkyLUZaMlRaTllTa2x1T3BB?oc=5",
-        "summary": "Google DeepMind Disbands Its Nobel-Prize Winning AlphaFold Team &nbsp;&nbsp; engadget.com"
-      },
-      {
-        "headline": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day - finance.yahoo.com",
-        "source": "finance.yahoo.com",
-        "timestamp": "2026-07-30T10:00:00.000Z",
+        "headline": "Introducing Gemini Robotics ER 2 - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-07-30T15:12:58.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORC1PaHlTYzZ0QV90dVVsbXpGU3FqVFlnSlU4VWlEUjRzdWhwdk4tb2duSDdQQW1OU09xandQa0xYV3AwdlJXd01LRU9BbVc5T21Tc3dYbjU2R3pKdnh3YTV5TEd2Y2tveXljTE80ajA4bmluSlBVYWJOQmdvSTBpSVUxRHQ1Zkp5SmIzODdwSXlWVWtQWHctUUlUWVJZcDhMNjFYakxoUU4zaWlEb2R1UzhmdFUyc3hVV2ItNUU3TE5rbk9WS2NJ?oc=5",
-        "summary": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day &nbsp;&nbsp; finance.yahoo.com"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
+        "summary": "Introducing Gemini Robotics ER 2 &nbsp;&nbsp; blog.google"
       },
       {
-        "headline": "Trump weighs tighter AI controls but warns against falling behind China - Fox Business",
-        "source": "Fox Business",
-        "timestamp": "2026-07-30T04:20:00.000Z",
+        "headline": "Gemini Robotics 2 brings whole body intelligence to robots - deepmind.google",
+        "source": "deepmind.google",
+        "timestamp": "2026-07-30T15:04:50.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFgzeTgxRlowNGhJVExueWpyR1RqQ2xKYmRZVFNxM3cwc1d5WE1SYU9RNkFaMThjaGcwMDI0amx3WTdWdE9sdGVqQ0U5ZFN0SUo1UXc2UTN5a3RqMWJYX3Q5RTF1dlhuek92a1VVdnhjWFI3NGJnY2xyV2Z3Ymd6b1dSZ2dIeVYxNGh6Y01EWVFtYWhRbFhiUU5HWnN6NlBxNkFxV1BrRdIBrAFBVV95cUxPOGVTcEpmRTRkWXE2LVNLaDJIbjIxV3QtVkNMdEZfeEY4MXhoLTREdnYyeWV5WHd3dkpxcTdQMzVJaG9Xdm5tUGtvbDZCTl90cWc1TGxlM0pTN0xiUmZCM0RvaGktT3lNM3NMSHFRX29LcTJ4Vzd3VE1BaUZzR0d0N0RZWF9yY0NFS0ZQXzlLcnZJS2JIUDFUSmc1Yk5kM0dWQmpHVUcxLXQ2VWlS?oc=5",
-        "summary": "Trump weighs tighter AI controls but warns against falling behind China &nbsp;&nbsp; Fox Business"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5",
+        "summary": "Gemini Robotics 2 brings whole body intelligence to robots &nbsp;&nbsp; deepmind.google"
       }
     ],
     "whyItMatters": [
@@ -178,15 +178,15 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
