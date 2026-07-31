@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-31T00:05:16.257Z",
+    "generatedAt": "2026-07-31T04:25:00.701Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic's AI models broke free and hacked 3 organizations during testing - Politico",
-      "source": "Politico",
-      "timestamp": "2026-07-30T23:54:00.000Z",
-      "impact": "HIGH",
+      "headline": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - Al Jazeera",
+      "source": "Al Jazeera",
+      "timestamp": "2026-07-31T04:09:17.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic's AI models broke free and hacked 3 organizations during testing &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5"
-    },
-    {
-      "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-07-30T23:27:36.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems &nbsp;&nbsp; CNBC",
+      "summary": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems &nbsp;&nbsp; Al Jazeera",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRklUbXZiQktyUFd2clQ0N1pQWi1VcnJ2bGhyYnJPcE5nRXFWRG0ydVlpVV9OWFotcGxEbXRqSnRaLVN4YW9JVFhlcWxpMmEyRVhNSDU1eUVnbFZRRC1uWFpsblNBeC14X0VhVE1FT3BoNURLZDhSTF96XzFVS3htcGZxbTFIRHlQenA5enRDRGZKQldJRkZaMVBESHExSDh6RGRNV0Jn0gGrAUFVX3lxTE9QNHNqYXU0UTl3RnRGT18wMlJqbHRMNTB5TFBMWFZVdHItWXBXZ21KczE2VTBLM29HLTRtdGxPUnhOOFpIQ25fSWlGWFdYZWE5N3BHeG9kc2ZHOFhUbWlTX015c2t6RDYzZklnUExtWVktWTJjQm43NlpJYTI1eEtRX1pJV2ZERjVDckFtcTZfV2JRbklvcGlud3prUVUwVHNjd3RVTHJCZWkwNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDhubWRSWHEwWS11eDdqbkJUQzJsbEdDNndpMzNVYXdteGl6Z20tUTdFTW1YV1RuRk0xMUFpdWcycmtVeXBGRDNPNnVGRzNtX1U3UlVoc1BqV3FxYXhNdUdYUUNGLXA5WGZ0UzVUMkY5U1BsS1M0a3FBdjZOaGFzR0FEd1dhMTlFWlhVeGktbGpCWU9pYVF4RmhxRHdIdkRIMmVQazZPb9IBrAFBVV95cUxPSUlKcDVSWEMyWmIwU010XzBsQVJxX2lhZkFrRC1TRjdlQUhQT1JkSFVKZ3pwNTdOZHZ4NlRkTnpRMThTTHc5cGRXWV9Ua19xV2ZyYWt6U1lUV3E1NVo3V0tvNHZvallqZzN1ZHpjWGZWV1psOFlsSUNzRVBfZURSMklxLUFoeUFrWHdCeHJZQlBzdXFBNzBfSlYwVjZKMlFTRWljWHU1NkVFOXBT?oc=5"
     },
     {
-      "headline": "Anthropic says its AI models hacked systems of three companies during tests - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-30T23:21:13.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic says its AI models hacked systems of three companies during tests &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5"
+      "headline": "Anthropic says Claude AI hacked three companies during tests - DW.com",
+      "source": "DW.com",
+      "timestamp": "2026-07-31T03:57:24.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic says Claude AI hacked three companies during tests &nbsp;&nbsp; DW.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeENSNk5wMnlGV25SZ3o0X0dnTVZNdjNiUlRHVnlERGdkYWc0UF8zQVozSlFzSmh1Z01OWEQ5b0R6cmJ2dEdjNGw0NGhOVlZEc1NSOWZleEZxYkFiRE5kSnBpOWRnTEI3NXRCNHpNemRSakN2UWV5RDM0Ymdhc0ltcnVHTFk5ZUFQTjFCbm9nX1ZPN0NJRUpueNIBmAFBVV95cUxPdmhpbmEwS3NqaHFmNU1xZklSY0xUck9Dd1ZiZkFYa3ZLT29uTHNmS3dpbUJHSllQMWhMRzNwZ1pid3ZCSG9qVVU5TUswTFMyek5ockgzRVd3TnVDaVJUdjN5Mll0SDc1ZE8zQXd3OWVmWUdEc0dfSFhoUnl2emlLTmt6bW9WR0ZtWVFZeUVOdWRMQWg3LXZhdA?oc=5"
+    },
+    {
+      "headline": "Anthropic says Claude AI hacked three firms during cyber tests - BBC",
+      "source": "BBC",
+      "timestamp": "2026-07-31T01:31:14.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic says Claude AI hacked three firms during cyber tests &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5"
     },
     {
       "headline": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-07-30T23:03:16.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic Anthropic said its AI models hacked into other companies’ systems during testing &nbsp;&nbsp; CNN Anthropic reveals Claude \"gained unauthorized access\" to \"real-world systems\" during testing &nbsp;&nbsp; CBS News",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-07-30T19:55:28.000Z",
+      "headline": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-07-30T21:50:17.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power &nbsp;&nbsp; The New York Times",
+      "summary": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb21fVU1LVGtQYVVXcXBORUpHbmFpVHlRU3ZERm5XUTgtNXdxQVJDR05sQWVtMzNLS1RDSXY0U3F3N3ExWDVOYVFlampSbWYtSFkxelgyV1BXM0JQTW9JX21IWVB6b1pGVDk5Tk4wNzdoakQxZFk0bWVMZWhHMjB4czlwQThMSU9ZMWgyT0dpdzZWS1lmQ2NwR0Y4R0lONi1jeFExTnZTOXJLMkdCbmt3X2tSYWl5WmhNaVljWEpjOWZ1bG1fMlHSAcsBQVVfeXFMT3dPek5jSmNya2F6Qll3NTVKSDBvaUdGSWdtM2pTVXpwbWJmT215b0N4MGp5cm1QTk5tYk1QUEMzdGIzakJ3cG5VdENCa05NSkp2aHZGY2JSWnZtdWRZTmp6S2VSNnI4bnJXVmVvY2xtWHVlVmhfSFdYSkpna3JBOTgxMWtsMUhXWnFnTTZiRmZSeHBHajR2NW00X1hLUGZCOEh6emhrb1EySk1hTG5xT3VkR2dWYlZ1R2tUR21XakNhZklrMTNGb2twcTA?oc=5"
+    },
+    {
+      "headline": "Meta, Microsoft, and the AI Capex Divide - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-07-30T21:37:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta, Microsoft, and the AI Capex Divide &nbsp;&nbsp; Barron's",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5"
     },
     {
       "headline": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs - CNBC",
@@ -72,24 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSUpBdTdrSGxnV01VOWpVSkF3cVZtdVdsMk9rR21Eb0FhVHhFWHRPbk1nbmItUWVRWmljTV9qUDNwblBQdkozVmkxVTJIWjNnUjR1bzV5a3RnZDZ5ZXota2o4N05rZ0FHSEHSAW9BVV95cUxQaTRNRG5HMU15cTEtUlhWNnpfWFJRLTdQbVVhOXlXSzJ4aU5UUm9IUTBHR0dVS01ydG5qN3FjVjRVcVZWRTNBMUtSMkdweEEyNFprbHg3RmtJQ1RSV0k0NWVlcXZPajBBRmFoZUcxRzA?oc=5"
     },
     {
-      "headline": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-07-30T16:14:48.000Z",
+      "headline": "Meta's AI splurge lays bare its compute conundrum - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-07-30T15:45:06.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zuckerberg’s Net Worth Falls $18 Billion Amid Meta Stock Plunge—Wall Street Sours On AI Spending &nbsp;&nbsp; Forbes Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Meta’s Case for Its AI Spending Keeps Getting Weaker &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVpFdU16dDExYUlKWFZuMEJtcDVpQUl4T3JoSHY4V0N1SjJZbXpWQkZHY3pRX3p1eGVPY0dwbzN0TnVMdnd5Ym96ay1VZ2dMMlhhdk9fdUVMOFZCejBfbUo1TFRJdm1ncnU1MHpmNUp2MjNuQUU1VzFubC02dS1BREJpSU5zOFl6ZEdxQ2JQbDdqYnhnSDVKQUJYS0dvbFRiSHJvZml3Nndnel9fSHRhNGVmV2hKbk44UVRoUFdfN3NkNHcxaERYWllR?oc=5"
-    },
-    {
-      "headline": "Five days inside a rogue AI agent’s stealthy cyberattack - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-07-30T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Five days inside a rogue AI agent’s stealthy cyberattack &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5"
+      "category": "regulation",
+      "summary": "Meta's AI splurge lays bare its compute conundrum &nbsp;&nbsp; Reuters Meta misses earnings forecasts after Zuckerberg media push to promote AI &nbsp;&nbsp; The Guardian Meta’s Case for Its AI Spending Keeps Getting Weaker &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemprX210eGVvOXJmbDNRYktRX1VDZl82aFBTZ05COUllQnFrdXJFOFBJMmZWTTJLRC1MWW5qZHViUWpGVERtVUloN3RRMC1LZk5NbDAtMHNwTDN3QklhZHRIRy1sRHpqZUwyZnFMNkNaQ1JyVUNFNFdNNFRzRlBvTVpBWFhQQThBNHk5UTFvbWJXRlpnNXNKTGVnZVp5N3k5aTlVZGpabUF3dEZyNXc?oc=5"
     },
     {
       "headline": "Introducing Gemini Robotics ER 2 - blog.google",
@@ -115,71 +115,71 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic's AI models broke free and hacked 3 organizations during testing - Politico",
-        "source": "Politico",
-        "timestamp": "2026-07-30T23:54:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5",
-        "summary": "Anthropic's AI models broke free and hacked 3 organizations during testing &nbsp;&nbsp; Politico"
-      },
-      {
-        "headline": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-30T23:27:36.000Z",
-        "impact": "HIGH",
+        "headline": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems - Al Jazeera",
+        "source": "Al Jazeera",
+        "timestamp": "2026-07-31T04:09:17.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRklUbXZiQktyUFd2clQ0N1pQWi1VcnJ2bGhyYnJPcE5nRXFWRG0ydVlpVV9OWFotcGxEbXRqSnRaLVN4YW9JVFhlcWxpMmEyRVhNSDU1eUVnbFZRRC1uWFpsblNBeC14X0VhVE1FT3BoNURLZDhSTF96XzFVS3htcGZxbTFIRHlQenA5enRDRGZKQldJRkZaMVBESHExSDh6RGRNV0Jn0gGrAUFVX3lxTE9QNHNqYXU0UTl3RnRGT18wMlJqbHRMNTB5TFBMWFZVdHItWXBXZ21KczE2VTBLM29HLTRtdGxPUnhOOFpIQ25fSWlGWFdYZWE5N3BHeG9kc2ZHOFhUbWlTX015c2t6RDYzZklnUExtWVktWTJjQm43NlpJYTI1eEtRX1pJV2ZERjVDckFtcTZfV2JRbklvcGlud3prUVUwVHNjd3RVTHJCZWkwNA?oc=5",
-        "summary": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDhubWRSWHEwWS11eDdqbkJUQzJsbEdDNndpMzNVYXdteGl6Z20tUTdFTW1YV1RuRk0xMUFpdWcycmtVeXBGRDNPNnVGRzNtX1U3UlVoc1BqV3FxYXhNdUdYUUNGLXA5WGZ0UzVUMkY5U1BsS1M0a3FBdjZOaGFzR0FEd1dhMTlFWlhVeGktbGpCWU9pYVF4RmhxRHdIdkRIMmVQazZPb9IBrAFBVV95cUxPSUlKcDVSWEMyWmIwU010XzBsQVJxX2lhZkFrRC1TRjdlQUhQT1JkSFVKZ3pwNTdOZHZ4NlRkTnpRMThTTHc5cGRXWV9Ua19xV2ZyYWt6U1lUV3E1NVo3V0tvNHZvallqZzN1ZHpjWGZWV1psOFlsSUNzRVBfZURSMklxLUFoeUFrWHdCeHJZQlBzdXFBNzBfSlYwVjZKMlFTRWljWHU1NkVFOXBT?oc=5",
+        "summary": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems &nbsp;&nbsp; Al Jazeera"
       },
       {
-        "headline": "Anthropic says its AI models hacked systems of three companies during tests - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-07-30T23:21:13.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
-        "summary": "Anthropic says its AI models hacked systems of three companies during tests &nbsp;&nbsp; Reuters"
+        "headline": "Anthropic says Claude AI hacked three companies during tests - DW.com",
+        "source": "DW.com",
+        "timestamp": "2026-07-31T03:57:24.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeENSNk5wMnlGV25SZ3o0X0dnTVZNdjNiUlRHVnlERGdkYWc0UF8zQVozSlFzSmh1Z01OWEQ5b0R6cmJ2dEdjNGw0NGhOVlZEc1NSOWZleEZxYkFiRE5kSnBpOWRnTEI3NXRCNHpNemRSakN2UWV5RDM0Ymdhc0ltcnVHTFk5ZUFQTjFCbm9nX1ZPN0NJRUpueNIBmAFBVV95cUxPdmhpbmEwS3NqaHFmNU1xZklSY0xUck9Dd1ZiZkFYa3ZLT29uTHNmS3dpbUJHSllQMWhMRzNwZ1pid3ZCSG9qVVU5TUswTFMyek5ockgzRVd3TnVDaVJUdjN5Mll0SDc1ZE8zQXd3OWVmWUdEc0dfSFhoUnl2emlLTmt6bW9WR0ZtWVFZeUVOdWRMQWg3LXZhdA?oc=5",
+        "summary": "Anthropic says Claude AI hacked three companies during tests &nbsp;&nbsp; DW.com"
+      },
+      {
+        "headline": "Anthropic says Claude AI hacked three firms during cyber tests - BBC",
+        "source": "BBC",
+        "timestamp": "2026-07-31T01:31:14.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5",
+        "summary": "Anthropic says Claude AI hacked three firms during cyber tests &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
         "source": "Anthropic",
         "timestamp": "2026-07-30T23:03:16.000Z",
-        "impact": "LOW",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
-        "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic"
+        "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic Anthropic said its AI models hacked into other companies’ systems during testing &nbsp;&nbsp; CNN Anthropic reveals Claude \"gained unauthorized access\" to \"real-world systems\" during testing &nbsp;&nbsp; CBS News"
       },
       {
-        "headline": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-07-30T19:55:28.000Z",
+        "headline": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-07-30T21:50:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb21fVU1LVGtQYVVXcXBORUpHbmFpVHlRU3ZERm5XUTgtNXdxQVJDR05sQWVtMzNLS1RDSXY0U3F3N3ExWDVOYVFlampSbWYtSFkxelgyV1BXM0JQTW9JX21IWVB6b1pGVDk5Tk4wNzdoakQxZFk0bWVMZWhHMjB4czlwQThMSU9ZMWgyT0dpdzZWS1lmQ2NwR0Y4R0lONi1jeFExTnZTOXJLMkdCbmt3X2tSYWl5WmhNaVljWEpjOWZ1bG1fMlHSAcsBQVVfeXFMT3dPek5jSmNya2F6Qll3NTVKSDBvaUdGSWdtM2pTVXpwbWJmT215b0N4MGp5cm1QTk5tYk1QUEMzdGIzakJ3cG5VdENCa05NSkp2aHZGY2JSWnZtdWRZTmp6S2VSNnI4bnJXVmVvY2xtWHVlVmhfSFdYSkpna3JBOTgxMWtsMUhXWnFnTTZiRmZSeHBHajR2NW00X1hLUGZCOEh6emhrb1EySk1hTG5xT3VkR2dWYlZ1R2tUR21XakNhZklrMTNGb2twcTA?oc=5",
+        "summary": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta, Microsoft, and the AI Capex Divide - Barron's",
+        "source": "Barron's",
+        "timestamp": "2026-07-30T21:37:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
-        "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-07-30T17:01:09.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSUpBdTdrSGxnV01VOWpVSkF3cVZtdVdsMk9rR21Eb0FhVHhFWHRPbk1nbmItUWVRWmljTV9qUDNwblBQdkozVmkxVTJIWjNnUjR1bzV5a3RnZDZ5ZXota2o4N05rZ0FHSEHSAW9BVV95cUxQaTRNRG5HMU15cTEtUlhWNnpfWFJRLTdQbVVhOXlXSzJ4aU5UUm9IUTBHR0dVS01ydG5qN3FjVjRVcVZWRTNBMUtSMkdweEEyNFprbHg3RmtJQ1RSV0k0NWVlcXZPajBBRmFoZUcxRzA?oc=5",
-        "summary": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
+        "summary": "Meta, Microsoft, and the AI Capex Divide &nbsp;&nbsp; Barron's"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
