@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-01T11:19:51.840Z",
+    "generatedAt": "2026-08-01T13:36:08.527Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "An OpenAI product manager's advice for AI prompts: 'I ramble' - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-01T10:30:08.000Z",
+      "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-01T12:00:01.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "An OpenAI product manager's advice for AI prompts: 'I ramble' &nbsp;&nbsp; Business Insider",
+      "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUtnMjJqVEN5RDNCNXFrSHAxU0RKSXlYSWtCNjF0ZHpaemNkbGxJZTZNcUNmZGliUy1fQ1ZfS01ReVMwOVZkX2RhalZzbVgzV1FMamVmdHVIemV6Qi16WXFjX0ZNV0txWVpsdnZfdGNUSzREb2Z6NUNkQ3ltbmNHdDFyNFk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5"
     },
     {
       "headline": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal - WIRED",
@@ -34,12 +34,22 @@
     {
       "headline": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ",
       "source": "WSJ",
-      "timestamp": "2026-08-01T01:00:00.000Z",
+      "timestamp": "2026-08-01T09:21:32.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc?oc=5"
+    },
+    {
+      "headline": "Ten advances in mathematics and theoretical computer science - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-08-01T07:46:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Ten advances in mathematics and theoretical computer science &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5"
     },
     {
       "headline": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
@@ -62,22 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1NqMXlsMkxfVS1rTnVzMzBNUzNxR2FPQ3otMExzNWxzamMxVklfa1RHVXRQRUs1NGNEb3d6N08ySkNWU0ZTekVuUzRhVkFwRTUxR0VUYkpobHQteU41MXhoV3BiYTFfLUR5NW1BZ3ZvODVESDM2Qi1BOGpueHpLbGx0UV9RZWg0NG43NUEwcWdmd082VndCdTZpTTZWRkE?oc=5"
     },
     {
-      "headline": "Anthropic says human error let Claude AI models escape test environment and hack third parties - Cybersecurity Dive",
-      "source": "Cybersecurity Dive",
-      "timestamp": "2026-07-31T15:42:17.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic says human error let Claude AI models escape test environment and hack third parties &nbsp;&nbsp; Cybersecurity Dive",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5"
-    },
-    {
-      "headline": "Anthropic says its AI models hacked 3 organizations on their own during tests - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "headline": "Anthropic says its AI models hacked 3 organizations on their own during tests - abcnews.com",
+      "source": "abcnews.com",
       "timestamp": "2026-07-31T15:32:42.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic says its AI models hacked 3 organizations on their own during tests &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "summary": "Anthropic says its AI models hacked 3 organizations on their own during tests &nbsp;&nbsp; abcnews.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5"
     },
@@ -92,36 +92,36 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYi1ZTFpuOGxSYmlhOVlVT1p3bnZDOGw2ODFWSFZHeXluT3lGLXVqSHNzZ0VzU0JvUExsNzU4Znc3YWpudnNDbk96LW54a3BSaEk4SnY2cHRpQzlrRDI0ZlBpQmx6ZmpaYVF3SWhjLU56UHdGT01fNjVuR0ptTE5MYWh6ZXpNWTAyNG1KN2NOV1BER0JKekd2YjcyLUFLTTJuZnNSVFliOVhfdHpldURuR0JzNXJwT0tPdnpn0gHDAUFVX3lxTE1lUGUySmVZSzJqbDcta1hKTndyRUY2Y1pkV09wWXBvUFpGRzN1MW81cVcxaE1QRTc0Tjk4cnJWcEVRMlVxaFFnWnNLNUIxcG9CUVA0X3FhQno3NDB2dXA3SXlER3JSMHpuR29mU1lPNWdvb29uUjB2OVJ4M0xOejNGWGk3ZmVQckhBZGcweVctY0xxNlVuNkpsb083dVpTZE01TExTSHExcmJ5LTdGX0dmcWJGSmZ0WWc2T2R1djd1eVVRUQ?oc=5"
     },
     {
+      "headline": "Anthropic's AI models hacked 3 organizations during testing - Politico",
+      "source": "Politico",
+      "timestamp": "2026-07-31T01:03:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic's AI models hacked 3 organizations during testing &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTEFHeGt5X29ILWZpbzJ1Z2hxR2lNXzlDS0xOVGJ6MDNHQkZVUFE2ODk0LVVsbFZBZ0k4MHJoV0hzS2dpOFFVTGlBOWgwdlRibzJsQWxmRE1iWWVBTFhrMm00b2RmbXNab0FRY1EzVXlNYV9TQmU1ZVVaQzNJb0U?oc=5"
+    },
+    {
       "headline": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-07-30T23:03:16.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic Why did OpenAI's and Anthropic's AI models hack other companies? &nbsp;&nbsp; NPR EU in talks with OpenAI, Anthropic after rogue AI agent hacks &nbsp;&nbsp; Reuters Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations &nbsp;&nbsp; The New York Times Anthropic said its AI models hacked into other companies’ systems during testing &nbsp;&nbsp; CNN Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems &nbsp;&nbsp; CNBC Second major AI company says its systems hacked into other firms &nbsp;&nbsp; The Washington Post Anthropic says Claude AI hacked three companies during cyber tests &nbsp;&nbsp; NBC News Anthropic says its Claude models escaped a testing environment and hacked three real companies &nbsp;&nbsp; Fortune",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic Anthropic says its AI models hacked 3 organizations during testing &nbsp;&nbsp; AP News Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations &nbsp;&nbsp; The New York Times EU in talks with OpenAI, Anthropic after rogue AI agent hacks &nbsp;&nbsp; Reuters Why did OpenAI's and Anthropic's AI models hack other companies? &nbsp;&nbsp; NPR Second major AI company says its systems hacked into other firms &nbsp;&nbsp; The Washington Post Anthropic said its AI models hacked into other companies’ systems during testing &nbsp;&nbsp; CNN Anthropic AI Models Hacked Three Organizations During Tests &nbsp;&nbsp; Bloomberg Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
-    },
-    {
-      "headline": "Meta, Microsoft, and the AI Capex Divide - Barron's",
-      "source": "Barron's",
-      "timestamp": "2026-07-30T21:37:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta, Microsoft, and the AI Capex Divide &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "An OpenAI product manager's advice for AI prompts: 'I ramble' - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-01T10:30:08.000Z",
+        "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-08-01T12:00:01.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUtnMjJqVEN5RDNCNXFrSHAxU0RKSXlYSWtCNjF0ZHpaemNkbGxJZTZNcUNmZGliUy1fQ1ZfS01ReVMwOVZkX2RhalZzbVgzV1FMamVmdHVIemV6Qi16WXFjX0ZNV0txWVpsdnZfdGNUSzREb2Z6NUNkQ3ltbmNHdDFyNFk?oc=5",
-        "summary": "An OpenAI product manager's advice for AI prompts: 'I ramble' &nbsp;&nbsp; Business Insider"
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
+        "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal - WIRED",
@@ -135,11 +135,20 @@
       {
         "headline": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ",
         "source": "WSJ",
-        "timestamp": "2026-08-01T01:00:00.000Z",
+        "timestamp": "2026-08-01T09:21:32.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc?oc=5",
         "summary": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Ten advances in mathematics and theoretical computer science - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-08-01T07:46:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5",
+        "summary": "Ten advances in mathematics and theoretical computer science &nbsp;&nbsp; OpenAI"
       },
       {
         "headline": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
@@ -158,15 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1NqMXlsMkxfVS1rTnVzMzBNUzNxR2FPQ3otMExzNWxzamMxVklfa1RHVXRQRUs1NGNEb3d6N08ySkNWU0ZTekVuUzRhVkFwRTUxR0VUYkpobHQteU41MXhoV3BiYTFfLUR5NW1BZ3ZvODVESDM2Qi1BOGpueHpLbGx0UV9RZWg0NG43NUEwcWdmd082VndCdTZpTTZWRkE?oc=5",
         "summary": "Microsoft: Azure Just Made The AI Spending Argument Easier (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha"
-      },
-      {
-        "headline": "Anthropic says human error let Claude AI models escape test environment and hack third parties - Cybersecurity Dive",
-        "source": "Cybersecurity Dive",
-        "timestamp": "2026-07-31T15:42:17.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmtMWmdtVmdWUjBRa1ZqcXpsOGpOUkJTQThkUzEtZnU5WW5qRnU0d2w0WHdwdHJkTF85OUJlX29hanhuNlNsR2g3WXhuU0xGbUpuU2lWRkI1bDlFeExfTWNDRWNRdlZoeDg5WFdtOGJ5TS1SUThvYjhfS292TEZ2MzcxRmJPZw?oc=5",
-        "summary": "Anthropic says human error let Claude AI models escape test environment and hack third parties &nbsp;&nbsp; Cybersecurity Dive"
       }
     ],
     "whyItMatters": [
