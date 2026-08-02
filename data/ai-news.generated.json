@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-02T17:04:25.865Z",
+    "generatedAt": "2026-08-02T19:16:17.385Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\" - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-08-02T19:08:12.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\" &nbsp;&nbsp; CBS News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5"
+    },
+    {
       "headline": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - NL Times",
       "source": "NL Times",
       "timestamp": "2026-08-02T16:05:00.000Z",
@@ -22,24 +32,44 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDhZMWVJM1RGUHRMc1ZSOFFwQk16em5ZUHdCRjVDMmxyWW91Y2Q1TzJaYWJoM0NHd3RneDZtclNBeTVBUWFmaEs2bkhXeWtHOTFQTE9EV0R5RFhvX09kZWFncEUtaGJrSnIyT3MtbWYzZDh3aGU1bE9FVmdtX1NBQTMyamk5azc0ckw2aVlhc2tiWHpFNlRaWnNuaEVWcjlDaS02ZjBrVU1rOUk?oc=5"
     },
     {
-      "headline": "CEO of AI firm Hugging Face on \"very weird and unprecedented\" hack by OpenAI's model - CBS News",
-      "source": "CBS News",
-      "timestamp": "2026-08-02T15:21:00.000Z",
-      "impact": "HIGH",
+      "headline": "Google DeepMind says Gemini Robotics 2 enables full body control - The Robot Report",
+      "source": "The Robot Report",
+      "timestamp": "2026-08-02T12:45:09.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "CEO of AI firm Hugging Face on \"very weird and unprecedented\" hack by OpenAI's model &nbsp;&nbsp; CBS News",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT25kenE0TTctbU9CbzA1VVgzZFFRekZ3RFd1c2U3M0lmZEFtY3VVeHhhdTAtTERkZ1ROMzhVUUxSMGlVV3BnTURBOURkcl9Mc2xvcXpSejJvUzlGMF9zdWt4M3I1RW0wYVlYb1hnRnFZaVo1THNXQlhLSTJoY3FEMG5MTFBjY29Pc0lnWXl6RzltakhnWTlSUFMzZGxUNjVDdlgzRDFnMm93X2hUWU83Y3J3?oc=5"
+      "summary": "Google DeepMind says Gemini Robotics 2 enables full body control &nbsp;&nbsp; The Robot Report",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5"
     },
     {
-      "headline": "AI's manifesto war - Axios",
-      "source": "Axios",
-      "timestamp": "2026-08-02T12:24:25.000Z",
+      "headline": "Morgan Stanley leads $15B bet on Anthropic’s Texas campus - thestreet.com",
+      "source": "thestreet.com",
+      "timestamp": "2026-08-02T00:07:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AI's manifesto war &nbsp;&nbsp; Axios",
+      "summary": "Morgan Stanley leads $15B bet on Anthropic’s Texas campus &nbsp;&nbsp; thestreet.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT19meGRpQ0xGRDVEcGZtY0c2dFVvNDFUbHhzek1uWUQ3WHlXOWF3SkI3YjdNenV4WkFQMnNxZ2JSQzh2bTJLTS1XUlBuU0Z6SDdzVEVOMEVfVEFnYXlXWDBnRUJvenlOUk81M2hhTXM5VjBrTGNFUjVUM2lKdE5xRg?oc=5"
+    },
+    {
+      "headline": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-08-01T23:01:29.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5"
+    },
+    {
+      "headline": "Ten advances in mathematics and theoretical computer science - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-08-01T16:26:45.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Ten advances in mathematics and theoretical computer science &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RkVfRVh3bVdObERxcjlQZjBFaGozalNoV0g2YjNzUGQ2RTJDUjlZcHJHWWtacjFxRGZheEloUGFoRjhIOGVuR2VGRXNQV1E1eW1zSDZMT2tqZlZEb3pGQTJhZm9KeHRCREt2VTJJNmNTQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5"
     },
     {
       "headline": "Microsoft Just Changed The AI Narrative (NASDAQ:MSFT) - Seeking Alpha",
@@ -52,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmFsV2pldFNVWjRkQms0WFd3MU1VUVNtOHhpMzAyZUd6S3FwcFoyUFFJakhUZTllVEFKdjM0bW0wZ2hYQlF2bjlxYmRTRk9Kc2tUXzNPOEJQeUlFZ21qT1NjQUxyTjR4SGh5d2xESllTLVRlczVBN0Jnei1tRUpVa09n?oc=5"
     },
     {
+      "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-01T12:00:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5"
+    },
+    {
       "headline": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier - WIRED",
       "source": "WIRED",
       "timestamp": "2026-08-01T09:30:00.000Z",
@@ -62,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5"
     },
     {
-      "headline": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-01T01:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5"
-    },
-    {
       "headline": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI - WSJ",
       "source": "WSJ",
       "timestamp": "2026-08-01T01:00:00.000Z",
@@ -80,40 +110,19 @@
       "summary": "The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUhoa0UwOUNlazJaQjFjRkwyN0UxVG9jSmhBRkpOWmR6SUJrSk1YWmtUR1c2RmZ0cGZJay1SZy1XZ1FzOWJaWmV1RXBpWFNDMjJobTZrMGtsVUVHOTlVWGVfbWlkT2sybGdGUFFGNWJkU1BRUjJvZm01UEs1VVZhTlRqSGp2d2N5MHc?oc=5"
-    },
-    {
-      "headline": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-07-31T20:16:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5"
-    },
-    {
-      "headline": "Three reactions to Anthropics’s latest apologia - Marcus on AI | Substack",
-      "source": "Marcus on AI | Substack",
-      "timestamp": "2026-07-31T18:14:21.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Three reactions to Anthropics’s latest apologia &nbsp;&nbsp; Marcus on AI | Substack",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBESHVmS0p4ZUh6NkhzX2N1dmt4YmRESFNBTmxxZGlQZzBsSDdmZ0x2THZsSXhlTEduVS1DbUNlQjNHNEh0U0t0VHNNd2Q4bWdFeGkxTW1SWDY2d3otR3g4RUxRYzZ4bk53dUpxS0hiUjdmQ0ZjcTlJS1Bmdw?oc=5"
-    },
-    {
-      "headline": "Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here - CNET",
-      "source": "CNET",
-      "timestamp": "2026-07-31T11:41:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here &nbsp;&nbsp; CNET",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFdQdEZLbHVpRE93MEhrM1N5eC1CSXJEOW9mVno1cVYzbmNxT3BIeUtzdTdxcXhGRmY4a2NZRC12cFR5LWNyV2RCTWpHWXNzZjRUODBpYkRvVFFzQS1rdmg2bVJoN0liSnhPeFB1RDQ4ZVJ5VkVuSFA2UWFxdDhHVnJ1TERVS0pkOEFYeFdvek5Kb2hGUnNTVWFBTDlIY0hkZk1rSldRRGZzSlVU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\" - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-08-02T19:08:12.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yaGFxS0d4QWgzRW02N01rMS1pT2haVWkxSDk1VkpLRFFOSEhrNTVrejY1eTF3VmgxRXVfWHE5dllWSGRlU0lqRXlvTnU1c3luLU5FRkNkZ21ybVB4TEtvYXdBQWVLVVB2c1RzcFl1aVB3dXBh?oc=5",
+        "summary": "CEO of AI firm Hugging Face calls last month's hack by OpenAI model \"very weird and unprecedented\" &nbsp;&nbsp; CBS News"
+      },
       {
         "headline": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - NL Times",
         "source": "NL Times",
@@ -124,49 +133,40 @@
         "summary": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent &nbsp;&nbsp; NL Times"
       },
       {
-        "headline": "CEO of AI firm Hugging Face on \"very weird and unprecedented\" hack by OpenAI's model - CBS News",
-        "source": "CBS News",
-        "timestamp": "2026-08-02T15:21:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT25kenE0TTctbU9CbzA1VVgzZFFRekZ3RFd1c2U3M0lmZEFtY3VVeHhhdTAtTERkZ1ROMzhVUUxSMGlVV3BnTURBOURkcl9Mc2xvcXpSejJvUzlGMF9zdWt4M3I1RW0wYVlYb1hnRnFZaVo1THNXQlhLSTJoY3FEMG5MTFBjY29Pc0lnWXl6RzltakhnWTlSUFMzZGxUNjVDdlgzRDFnMm93X2hUWU83Y3J3?oc=5",
-        "summary": "CEO of AI firm Hugging Face on \"very weird and unprecedented\" hack by OpenAI's model &nbsp;&nbsp; CBS News"
-      },
-      {
-        "headline": "AI's manifesto war - Axios",
-        "source": "Axios",
-        "timestamp": "2026-08-02T12:24:25.000Z",
+        "headline": "Google DeepMind says Gemini Robotics 2 enables full body control - The Robot Report",
+        "source": "The Robot Report",
+        "timestamp": "2026-08-02T12:45:09.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RkVfRVh3bVdObERxcjlQZjBFaGozalNoV0g2YjNzUGQ2RTJDUjlZcHJHWWtacjFxRGZheEloUGFoRjhIOGVuR2VGRXNQV1E1eW1zSDZMT2tqZlZEb3pGQTJhZm9KeHRCREt2VTJJNmNTQQ?oc=5",
-        "summary": "AI's manifesto war &nbsp;&nbsp; Axios"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5",
+        "summary": "Google DeepMind says Gemini Robotics 2 enables full body control &nbsp;&nbsp; The Robot Report"
       },
       {
-        "headline": "Microsoft Just Changed The AI Narrative (NASDAQ:MSFT) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-08-01T13:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmFsV2pldFNVWjRkQms0WFd3MU1VUVNtOHhpMzAyZUd6S3FwcFoyUFFJakhUZTllVEFKdjM0bW0wZ2hYQlF2bjlxYmRTRk9Kc2tUXzNPOEJQeUlFZ21qT1NjQUxyTjR4SGh5d2xESllTLVRlczVBN0Jnei1tRUpVa09n?oc=5",
-        "summary": "Microsoft Just Changed The AI Narrative (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha"
-      },
-      {
-        "headline": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-08-01T09:30:00.000Z",
+        "headline": "Morgan Stanley leads $15B bet on Anthropic’s Texas campus - thestreet.com",
+        "source": "thestreet.com",
+        "timestamp": "2026-08-02T00:07:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
-        "summary": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier &nbsp;&nbsp; WIRED"
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT19meGRpQ0xGRDVEcGZtY0c2dFVvNDFUbHhzek1uWUQ3WHlXOWF3SkI3YjdNenV4WkFQMnNxZ2JSQzh2bTJLTS1XUlBuU0Z6SDdzVEVOMEVfVEFnYXlXWDBnRUJvenlOUk81M2hhTXM5VjBrTGNFUjVUM2lKdE5xRg?oc=5",
+        "summary": "Morgan Stanley leads $15B bet on Anthropic’s Texas campus &nbsp;&nbsp; thestreet.com"
       },
       {
         "headline": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
         "source": "WSJ",
-        "timestamp": "2026-08-01T01:00:00.000Z",
+        "timestamp": "2026-08-01T23:01:29.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5",
         "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Ten advances in mathematics and theoretical computer science - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-08-01T16:26:45.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5",
+        "summary": "Ten advances in mathematics and theoretical computer science &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
