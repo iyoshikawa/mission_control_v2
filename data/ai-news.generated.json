@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-04T16:55:05.682Z",
+    "generatedAt": "2026-08-04T18:40:32.107Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Wiener, backed by Anthropic PAC, uses Claude to skewer his SF rival - SFGATE",
-      "source": "SFGATE",
-      "timestamp": "2026-08-04T16:49:29.000Z",
+      "headline": "Anthropic signs $10 billion computing deal with Volta Infra - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-08-04T18:07:24.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Wiener, backed by Anthropic PAC, uses Claude to skewer his SF rival &nbsp;&nbsp; SFGATE",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTllbkhMM25tRlZZRElsLVp5WWkzemVtU29KU0ZOamJ4NlVnTGx0UTFLQjdkY2l2UVZXZUtVd19MQUtLYzU1bU00Um1DUDhTVklPRzUtU1VqdDR2bG5KMGxDQ1E0T19xdzJfSTd1dlY3RHdTNmNjeTI5MnpsalZNZlBOeHViT0hXc28wZFR3?oc=5"
+      "category": "ecosystem",
+      "summary": "Anthropic signs $10 billion computing deal with Volta Infra &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYnloXzJ3OUNQZHR3VTA0OFhBb1M3QXNVdlFQX1BibDROaWtRNEd6MUJMdUZZSFBPRHluTUc5R3JHRXNNMVFuUC1uSzNlcnk1MGttSlo0amRxdFpfMnRaNGFEZU91eTAyd2JSUWpnZ1V2cmUzZDZlRA?oc=5"
     },
     {
-      "headline": "Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-04T15:34:28.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout &nbsp;&nbsp; Reuters OpenAI, Anthropic, Google to Join White House AI Safety Meeting &nbsp;&nbsp; Bloomberg.com White House to meet with top AI companies ahead of first big regulation push &nbsp;&nbsp; CNN",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5"
+      "headline": "How an OpenAI influencer trip backfired - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-08-04T17:46:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How an OpenAI influencer trip backfired &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1p6dHlXSjdCMWs0Q0lNWGluTm81NGpOM0Y1cmhvRV9ZNzRaVUR2Q1NycEFPenJ0c1BybTdjX2daa0lDS3VzTTV4MWhvSWxrTjlESFdtdkhVMTBHQk9XX1huZ19qMkhzblg4REZFcFdrOElyTlQtNThfOElOZ0E3U0cwbF9wZjlySFZFSHRZYU1HQQ?oc=5"
+    },
+    {
+      "headline": "White House hosts meeting with top AI companies - NBC News",
+      "source": "NBC News",
+      "timestamp": "2026-08-04T17:40:53.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "White House hosts meeting with top AI companies &nbsp;&nbsp; NBC News",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2tlYWxtUXQwOE95WHVnUUwwX0Y4MkdtdUU3akx6dU44QnhiTUp1LVN0ZGZ4cFhYOUVEN1l1cDR5bVIwU3BCejY0ZmJLTC1sdTloSXREc1hNNktEVzU0TXZnMGkyX3FsODFzV2hNT1FFb2JmWkZkSm0xM29EalZpWnN1V3lEQzZUQVUyTDRpeXVLcXYtaDdkeHF3?oc=5"
+    },
+    {
+      "headline": "Meta AI app sees growth in US DAUs but time spent still low: Apptopia - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-08-04T17:28:14.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta AI app sees growth in US DAUs but time spent still low: Apptopia &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lkTGgzYjBIX09WRkN6ZFdISnFHSzNvRnp4V3F2U2pHeUZkTlc5VlV4eTdmNDNwV2tLMXlsMVhFbXJ1Wl9IQ2lSQU5lT3p5bHhNSTM1cmdoQUNVcDRpWUd5RTNvNHVJMGQtWG4zbVM3ZEI5dlBPR1Q3UnphdnNQdlY3czF4a2hDYzAtZGt4VjRxMDJxM0xSelNPY1FWcWZiMWVwbHl5R3plTHJjVUMxbTlpNUYxdHEwNXowemJHa1lqWEVwbjVN?oc=5"
     },
     {
       "headline": "Microsoft’s $100B Azure Year Shows Enterprise AI Is Moving Beyond One Model - ERP Today",
@@ -52,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2N3NDN0ang4NElrNHN1Z2k5MXY0ZGRYVGlmYUo0RWkwMTNlTUNlQml4clVIa0psQjNMMk5kX0JvZUIxY2JhVVZrV2M2emVtSHNOQ0ZsVl81Mk0wdlgtVUxka0U0M1V5R0t1bW8yNk1Oc1VNcDM4dFMwZDRobkZXb2RWSlp5SWRWdHBuZ1RNdmQxRjdYbW1FRTJ3RDZUZnVMSVRFQkNDSXVhd1BiY0RfbFllVFE?oc=5"
     },
     {
+      "headline": "Anthropic signs $10B computing deal with infrastructure startup Volta: report - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-08-04T13:14:31.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic signs $10B computing deal with infrastructure startup Volta: report &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjVxaUowWWJfeUFsMzlfS3hoR0REM0hlZURGQWxpNDJ5YUw2TzN5Y21RVWVVcmFLQmg1d2xDakV3ODA1X3FYYV9XNXF5OTdtU1BEWHNvUXliVEszdGUxaWxjUUJxZVdfQkZ6NERKa2FHdGdGNkJobnFOcHdyLVlPV3dUbW9yZlB0MzM1WVl5R3pDaFlLUFZEXzRZeG1kTUMySDQ0aGpQRmYzekJsMi1SR09yYw?oc=5"
+    },
+    {
       "headline": "Anthropic Inks $10 Billion Computing Deal With Cloud Startup - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-08-04T12:00:00.000Z",
@@ -62,75 +92,63 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5"
     },
     {
-      "headline": "ChatGPT and Gemini built fake news graphics, only Meta AI refused - Notebookcheck",
-      "source": "Notebookcheck",
-      "timestamp": "2026-08-04T08:07:00.000Z",
+      "headline": "Inside Meta’s AI data center in Temple: See photos from the facility - Austin American-Statesman",
+      "source": "Austin American-Statesman",
+      "timestamp": "2026-08-04T10:33:41.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "ChatGPT and Gemini built fake news graphics, only Meta AI refused &nbsp;&nbsp; Notebookcheck",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzdoR3pDZkt6OUdSdVFPN0VCdlpJWWpaV2wyckRfckFaUm01Mk9yRWNfOWlfMF9yNDVIVlI5V3ZPZTlpYnFYT0JUcVNHVXZXRVJBQlRtbXJrM3FnVkh5RTFhVXh2RDlhcGh0YndFUm02RllUWHl5TXZJOThVUDFjanZkRnZFMHI4SUhVMW9CRG1TNFFmeGNQWlNDTHplQU9Fai01R1ZiX3lUdVJBWlE?oc=5"
+      "category": "ecosystem",
+      "summary": "Inside Meta’s AI data center in Temple: See photos from the facility &nbsp;&nbsp; Austin American-Statesman",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHNSbG1NVFpZVXhNekNNNjlueFBIVUVtZ3lMYzVaNTRmZEdqclBEbTNFNVE1dXlabmpQSzFJeWxycmdOVjVQTkJGdlZqTzZDZnl0ZjlfQjBhN1Y1LWs2NE8xR3JJdzlMUlZHNnQzUHRNR2pXdTlnYzJjcDNvNENUMl9MZDdsd0Y3cnIxbTIzdG1ONW5jVDY4cUxSVzRKSjJpR2c?oc=5"
     },
     {
       "headline": "Inside Google’s $200bn Wall Street finance machine for Anthropic - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-08-04T04:00:16.000Z",
+      "timestamp": "2026-08-04T07:03:13.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Inside Google’s $200bn Wall Street finance machine for Anthropic &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlV0a0ZQV0NYRkVGM0Z4QndJSmV0U1ctNjlKT1d2dHZEcDRuVHRXZDJwRm94MXM4TUE0akFsOE9IU1ZQcU9WblJVVzMxY1pyUnNZVHRIb2l2MkhsaXhQRDVBLV96RVhIRmgxQ3ZxUU9RRkxpYjF4bC0wREZLanR6MHB2U3c?oc=5"
-    },
-    {
-      "headline": "How we built a realtime system for responsive voice AI in six months - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-08-03T20:44:49.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How we built a realtime system for responsive voice AI in six months &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5"
-    },
-    {
-      "headline": "Influencers draw backlash for attending OpenAI’s first luxury trip - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-03T19:09:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Influencers draw backlash for attending OpenAI’s first luxury trip &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGx2bE9JMlVEaHV3X0VSWkRraFMtZng0X3A2SW1hN2syblFOVDZsOUVRN194SzVpSkluZ2J6TDQ0cVJNSlBjbUkzNERrb1AyM1F4UF85N0FoNG9HN1c2a28zVGotS24xNnZjeC1lWVZqdlZqSWQ3WmJYZTI5VEY2eVl0dnNzM1RranFjcHRxeVEtbERBYlZKckRUZzFNdXRhNmc?oc=5"
-    },
-    {
-      "headline": "Google exec says heavy AI capex spending is a precursor to RSI (GOOG:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-08-03T16:12:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google exec says heavy AI capex spending is a precursor to RSI (GOOG:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlJtTmtBd3JlS3B0Q2RKaV85YVJLZUhncWdaWVhTRElyZTYxUjhxcmpoUkh6OVFYOGthZElOSFFBZG52YUM0SXl6OTlOYXZvZDFTYWl5SFZsUHJqQWszREpyUFl5djlWYm5WS3Q2b3NyTFYxSXo3RE81b3pIcTFkcmFHNl9MV3daeVRjd0IyRHdlUkViMVF2S25ibW5JeFpVWmc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Wiener, backed by Anthropic PAC, uses Claude to skewer his SF rival - SFGATE",
-        "source": "SFGATE",
-        "timestamp": "2026-08-04T16:49:29.000Z",
+        "headline": "Anthropic signs $10 billion computing deal with Volta Infra - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-08-04T18:07:24.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTllbkhMM25tRlZZRElsLVp5WWkzemVtU29KU0ZOamJ4NlVnTGx0UTFLQjdkY2l2UVZXZUtVd19MQUtLYzU1bU00Um1DUDhTVklPRzUtU1VqdDR2bG5KMGxDQ1E0T19xdzJfSTd1dlY3RHdTNmNjeTI5MnpsalZNZlBOeHViT0hXc28wZFR3?oc=5",
-        "summary": "Wiener, backed by Anthropic PAC, uses Claude to skewer his SF rival &nbsp;&nbsp; SFGATE"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYnloXzJ3OUNQZHR3VTA0OFhBb1M3QXNVdlFQX1BibDROaWtRNEd6MUJMdUZZSFBPRHluTUc5R3JHRXNNMVFuUC1uSzNlcnk1MGttSlo0amRxdFpfMnRaNGFEZU91eTAyd2JSUWpnZ1V2cmUzZDZlRA?oc=5",
+        "summary": "Anthropic signs $10 billion computing deal with Volta Infra &nbsp;&nbsp; qz.com"
       },
       {
-        "headline": "Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-08-04T15:34:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-        "summary": "Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout &nbsp;&nbsp; Reuters OpenAI, Anthropic, Google to Join White House AI Safety Meeting &nbsp;&nbsp; Bloomberg.com White House to meet with top AI companies ahead of first big regulation push &nbsp;&nbsp; CNN"
+        "headline": "How an OpenAI influencer trip backfired - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-08-04T17:46:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1p6dHlXSjdCMWs0Q0lNWGluTm81NGpOM0Y1cmhvRV9ZNzRaVUR2Q1NycEFPenJ0c1BybTdjX2daa0lDS3VzTTV4MWhvSWxrTjlESFdtdkhVMTBHQk9XX1huZ19qMkhzblg4REZFcFdrOElyTlQtNThfOElOZ0E3U0cwbF9wZjlySFZFSHRZYU1HQQ?oc=5",
+        "summary": "How an OpenAI influencer trip backfired &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "White House hosts meeting with top AI companies - NBC News",
+        "source": "NBC News",
+        "timestamp": "2026-08-04T17:40:53.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2tlYWxtUXQwOE95WHVnUUwwX0Y4MkdtdUU3akx6dU44QnhiTUp1LVN0ZGZ4cFhYOUVEN1l1cDR5bVIwU3BCejY0ZmJLTC1sdTloSXREc1hNNktEVzU0TXZnMGkyX3FsODFzV2hNT1FFb2JmWkZkSm0xM29EalZpWnN1V3lEQzZUQVUyTDRpeXVLcXYtaDdkeHF3?oc=5",
+        "summary": "White House hosts meeting with top AI companies &nbsp;&nbsp; NBC News"
+      },
+      {
+        "headline": "Meta AI app sees growth in US DAUs but time spent still low: Apptopia - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-08-04T17:28:14.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lkTGgzYjBIX09WRkN6ZFdISnFHSzNvRnp4V3F2U2pHeUZkTlc5VlV4eTdmNDNwV2tLMXlsMVhFbXJ1Wl9IQ2lSQU5lT3p5bHhNSTM1cmdoQUNVcDRpWUd5RTNvNHVJMGQtWG4zbVM3ZEI5dlBPR1Q3UnphdnNQdlY3czF4a2hDYzAtZGt4VjRxMDJxM0xSelNPY1FWcWZiMWVwbHl5R3plTHJjVUMxbTlpNUYxdHEwNXowemJHa1lqWEVwbjVN?oc=5",
+        "summary": "Meta AI app sees growth in US DAUs but time spent still low: Apptopia &nbsp;&nbsp; Seeking Alpha"
       },
       {
         "headline": "Microsoft’s $100B Azure Year Shows Enterprise AI Is Moving Beyond One Model - ERP Today",
@@ -149,38 +167,20 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2N3NDN0ang4NElrNHN1Z2k5MXY0ZGRYVGlmYUo0RWkwMTNlTUNlQml4clVIa0psQjNMMk5kX0JvZUIxY2JhVVZrV2M2emVtSHNOQ0ZsVl81Mk0wdlgtVUxka0U0M1V5R0t1bW8yNk1Oc1VNcDM4dFMwZDRobkZXb2RWSlp5SWRWdHBuZ1RNdmQxRjdYbW1FRTJ3RDZUZnVMSVRFQkNDSXVhd1BiY0RfbFllVFE?oc=5",
         "summary": "Rishabh Software Achieves Microsoft Solutions Partner for Data & AI (Azure) &nbsp;&nbsp; EIN News"
-      },
-      {
-        "headline": "Anthropic Inks $10 Billion Computing Deal With Cloud Startup - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-08-04T12:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5",
-        "summary": "Anthropic Inks $10 Billion Computing Deal With Cloud Startup &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "ChatGPT and Gemini built fake news graphics, only Meta AI refused - Notebookcheck",
-        "source": "Notebookcheck",
-        "timestamp": "2026-08-04T08:07:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzdoR3pDZkt6OUdSdVFPN0VCdlpJWWpaV2wyckRfckFaUm01Mk9yRWNfOWlfMF9yNDVIVlI5V3ZPZTlpYnFYT0JUcVNHVXZXRVJBQlRtbXJrM3FnVkh5RTFhVXh2RDlhcGh0YndFUm02RllUWHl5TXZJOThVUDFjanZkRnZFMHI4SUhVMW9CRG1TNFFmeGNQWlNDTHplQU9Fai01R1ZiX3lUdVJBWlE?oc=5",
-        "summary": "ChatGPT and Gemini built fake news graphics, only Meta AI refused &nbsp;&nbsp; Notebookcheck"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
