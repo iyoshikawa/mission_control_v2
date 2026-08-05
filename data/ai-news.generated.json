@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-05T19:40:49.780Z",
+    "generatedAt": "2026-08-05T21:15:11.739Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-05T19:30:19.000Z",
+      "headline": "White House Tests AI Hackers, Skips Open Models - PYMNTS.com",
+      "source": "PYMNTS.com",
+      "timestamp": "2026-08-05T21:10:35.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3U2aHJ4dHg4ZDlLR3FDMk9YNkNVaWlmY0ZtZFlzN205ZWFWeVRTNDFROU1qWXRjQ2FtSk5LWjlxTjRSeVRJb2RNaS1NRlQ2Vk5FX18zQ0l5Sld6V19OeUpqdzhCaW5YclIwZWhMazFmZGdMbHpKV2NZc0E4bDdQdzZrOVY1Zk1OWXlPVm5TYW9zTkNvSEd6aW15T3c4emw5T0VPellSOFJrcUtyR25NLW1Bd3czdl93OFFtRA?oc=5"
+      "summary": "White House Tests AI Hackers, Skips Open Models &nbsp;&nbsp; PYMNTS.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnh4QmJlQWVqUmpqWXdXcGpjYkZOeWYzXzh4ZnlQSmY1ZE9NN3ZXSU4zbGV1ajMzbVVkSzhNVzQ1VXZiLWlGSkhRdzBsZTNiTUIxM2VpVmc4YnBCMEowa1FrTUpvUjBNN3ZwcW9felM2MWFvTmhydThxMFcyTTZTYUVGaGtxd3RMVl9jbkU2b19YcXY2c1hUcGhtTGUwX3ZLNnFWS0ZBZw?oc=5"
     },
     {
-      "headline": "Kylie Jenner’s Meta Glasses Are So Much Bleaker Than I Thought - Slate",
+      "headline": "What smart people in tech are saying about Google's AI leadership restructuring - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-05T20:41:26.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "What smart people in tech are saying about Google's AI leadership restructuring &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc09nQjNvT3ZLTlVway1uUmdjaUl4OF8xblJQbGhoWGFXUlNNc1h6cHd3cjdaMXByTDQ2M3RUUmJIdExRODFzeHowQTJFSFlCNWxRSGc2bFluaFlVYktXempsX0NKRnpiVEduVnZBSlI2RTROVzRMUXJ2TE44aW9GYlZtcU9ESmxaQlpPT25wQjVhakZfUGtFVGxRMWMtc0hRbUZYcg?oc=5"
+    },
+    {
+      "headline": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-05T20:33:34.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5"
+    },
+    {
+      "headline": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-08-05T19:45:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5"
+    },
+    {
+      "headline": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t - Slate",
       "source": "Slate",
       "timestamp": "2026-08-05T19:27:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Kylie Jenner’s Meta Glasses Are So Much Bleaker Than I Thought &nbsp;&nbsp; Slate",
+      "summary": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t &nbsp;&nbsp; Slate",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGlYdUFrQm0ta2Vzc2V2cUE4R3A3eFU3Q1R3clcxcTRkTjJBNS1qU1N3RUtNazhpdUVyal9vUEhGcENHZkpmUktfbFk3NzlmQ3E1NHRVUDZOUlhkTmRuZ3oxM1pnUFBRVG5fWnZVUWZpNWRhbWZEdmhGUXAzTnRmdmdzZXc1RWtPZ3Br?oc=5"
-    },
-    {
-      "headline": "Opinion: Why $372,000 from Anthropic employees should give Alaskans pause - Anchorage Daily News",
-      "source": "Anchorage Daily News",
-      "timestamp": "2026-08-05T19:26:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Opinion: Why $372,000 from Anthropic employees should give Alaskans pause &nbsp;&nbsp; Anchorage Daily News",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9hWTc3RzRBVDAwcksxMlNTcE9Id2twNXNJc3E3RFZMbUlvaTVhbzdud2xGMXRTN3R4ZGdQZnVIRnlneWZpVkYwR3dJcGpKcV9vR0ZGbkFzRGtyb0xoMUM3Rl8zUUJVUWVPekdmcDRNeVVfa2tYdmpUQ29uOVYtZ0lueEFHeGFwMkNtdHhSVGhGOGM4Wm9lS3dieEFhNklWUWtvNGRfTlAyU1pNQ0pTeA?oc=5"
     },
     {
       "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
@@ -52,34 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5"
     },
     {
-      "headline": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes - The Hacker News",
-      "source": "The Hacker News",
-      "timestamp": "2026-08-05T18:33:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes &nbsp;&nbsp; The Hacker News",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PdXhkcElRMFEzdWMtWDd4NjlEV2ZjMzdOZFpGc0s4bV9nVWJ2UTVnYU9fcG1XZV9GcWMwZk9NaGJmYTlIXzdFVU55STE1eHBPc0hPOU81dFFJNUVRN1pMb1NGc1JXNHkxSl9PMGpHV0NIWFVtaGRoeHB0UEJJUFk?oc=5"
-    },
-    {
-      "headline": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg.com",
+      "source": "Bloomberg.com",
       "timestamp": "2026-08-05T18:06:51.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5"
-    },
-    {
-      "headline": "Why is Anthropic destroying books? | Kathryn James - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-05T17:34:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why is Anthropic destroying books? | Kathryn James &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEVlRFRITW81TFBYNkJON2N0aGs4UXRmaG9qR0xaUG1HaVNlc0RGbEdPUlJXZjd0cHRDa1p1Mk1tTC16S3RBOWFuTHpCQmpTdzVVOW55cGNwOGk3clh2UGxhdnN4S09CTjUxbEk0anF5aXRjRGc2Q2VTSmQ1UmZvVlVwQWI0RkhNQVdV?oc=5"
     },
     {
       "headline": "The next chapter of our AI momentum - blog.google",
@@ -115,31 +115,49 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-08-05T19:30:19.000Z",
+        "headline": "White House Tests AI Hackers, Skips Open Models - PYMNTS.com",
+        "source": "PYMNTS.com",
+        "timestamp": "2026-08-05T21:10:35.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3U2aHJ4dHg4ZDlLR3FDMk9YNkNVaWlmY0ZtZFlzN205ZWFWeVRTNDFROU1qWXRjQ2FtSk5LWjlxTjRSeVRJb2RNaS1NRlQ2Vk5FX18zQ0l5Sld6V19OeUpqdzhCaW5YclIwZWhMazFmZGdMbHpKV2NZc0E4bDdQdzZrOVY1Zk1OWXlPVm5TYW9zTkNvSEd6aW15T3c4emw5T0VPellSOFJrcUtyR25NLW1Bd3czdl93OFFtRA?oc=5",
-        "summary": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnh4QmJlQWVqUmpqWXdXcGpjYkZOeWYzXzh4ZnlQSmY1ZE9NN3ZXSU4zbGV1ajMzbVVkSzhNVzQ1VXZiLWlGSkhRdzBsZTNiTUIxM2VpVmc4YnBCMEowa1FrTUpvUjBNN3ZwcW9felM2MWFvTmhydThxMFcyTTZTYUVGaGtxd3RMVl9jbkU2b19YcXY2c1hUcGhtTGUwX3ZLNnFWS0ZBZw?oc=5",
+        "summary": "White House Tests AI Hackers, Skips Open Models &nbsp;&nbsp; PYMNTS.com"
       },
       {
-        "headline": "Kylie Jenner’s Meta Glasses Are So Much Bleaker Than I Thought - Slate",
+        "headline": "What smart people in tech are saying about Google's AI leadership restructuring - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-05T20:41:26.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc09nQjNvT3ZLTlVway1uUmdjaUl4OF8xblJQbGhoWGFXUlNNc1h6cHd3cjdaMXByTDQ2M3RUUmJIdExRODFzeHowQTJFSFlCNWxRSGc2bFluaFlVYktXempsX0NKRnpiVEduVnZBSlI2RTROVzRMUXJ2TE44aW9GYlZtcU9ESmxaQlpPT25wQjVhakZfUGtFVGxRMWMtc0hRbUZYcg?oc=5",
+        "summary": "What smart people in tech are saying about Google's AI leadership restructuring &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-08-05T20:33:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5",
+        "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-08-05T19:45:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5",
+        "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t - Slate",
         "source": "Slate",
         "timestamp": "2026-08-05T19:27:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGlYdUFrQm0ta2Vzc2V2cUE4R3A3eFU3Q1R3clcxcTRkTjJBNS1qU1N3RUtNazhpdUVyal9vUEhGcENHZkpmUktfbFk3NzlmQ3E1NHRVUDZOUlhkTmRuZ3oxM1pnUFBRVG5fWnZVUWZpNWRhbWZEdmhGUXAzTnRmdmdzZXc1RWtPZ3Br?oc=5",
-        "summary": "Kylie Jenner’s Meta Glasses Are So Much Bleaker Than I Thought &nbsp;&nbsp; Slate"
-      },
-      {
-        "headline": "Opinion: Why $372,000 from Anthropic employees should give Alaskans pause - Anchorage Daily News",
-        "source": "Anchorage Daily News",
-        "timestamp": "2026-08-05T19:26:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVG9hWTc3RzRBVDAwcksxMlNTcE9Id2twNXNJc3E3RFZMbUlvaTVhbzdud2xGMXRTN3R4ZGdQZnVIRnlneWZpVkYwR3dJcGpKcV9vR0ZGbkFzRGtyb0xoMUM3Rl8zUUJVUWVPekdmcDRNeVVfa2tYdmpUQ29uOVYtZ0lueEFHeGFwMkNtdHhSVGhGOGM4Wm9lS3dieEFhNklWUWtvNGRfTlAyU1pNQ0pTeA?oc=5",
-        "summary": "Opinion: Why $372,000 from Anthropic employees should give Alaskans pause &nbsp;&nbsp; Anchorage Daily News"
+        "summary": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t &nbsp;&nbsp; Slate"
       },
       {
         "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
         "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes - The Hacker News",
-        "source": "The Hacker News",
-        "timestamp": "2026-08-05T18:33:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PdXhkcElRMFEzdWMtWDd4NjlEV2ZjMzdOZFpGc0s4bV9nVWJ2UTVnYU9fcG1XZV9GcWMwZk9NaGJmYTlIXzdFVU55STE1eHBPc0hPOU81dFFJNUVRN1pMb1NGc1JXNHkxSl9PMGpHV0NIWFVtaGRoeHB0UEJJUFk?oc=5",
-        "summary": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes &nbsp;&nbsp; The Hacker News"
-      },
-      {
-        "headline": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-08-05T18:06:51.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5",
-        "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) &nbsp;&nbsp; Bloomberg"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
