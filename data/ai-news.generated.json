@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-05T04:13:38.749Z",
+    "generatedAt": "2026-08-05T07:42:22.337Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "White House will exempt ‘open’ AI systems from security review - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-08-05T02:59:15.000Z",
+      "headline": "Europe’s AI sovereignty is under threat. Could Mistral be the answer? - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-08-05T07:00:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "White House will exempt ‘open’ AI systems from security review &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5"
+      "category": "regulation",
+      "summary": "Europe’s AI sovereignty is under threat. Could Mistral be the answer? &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2ZkQnJscmh3eW1VNzlFMk83VC1zM2laazZ3SVhRUkVfazA4cUczclhpdk1WVmhBMVNiMFQ4d0l6a2pjOWNMblhYS0g2bDlpRTRUT2J3V2Rnd25yM0ppRDNPaWg1d255MFh4Vk5NLUd4aXRBSHV5TVlSNlg5eURfaWVaekhocjA2WGpGbTZ2OHgxRjh2YjFnVjN2Mzh1UQ?oc=5"
     },
     {
       "headline": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
@@ -27,9 +27,19 @@
       "timestamp": "2026-08-05T00:41:00.000Z",
       "impact": "HIGH",
       "category": "regulation",
-      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches &nbsp;&nbsp; Reuters OpenAI, Anthropic Model Tests Reveal More Hacking, Deception &nbsp;&nbsp; Bloomberg.com Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing &nbsp;&nbsp; Politico",
+      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches &nbsp;&nbsp; Reuters OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says &nbsp;&nbsp; Financial Times Europe’s AI sovereignty is under threat. Could Mistral be the answer? &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5"
+    },
+    {
+      "headline": "White House AI Guidelines Exempt U.S. Open Models From Government Review - wsj.com",
+      "source": "wsj.com",
+      "timestamp": "2026-08-04T23:07:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "White House AI Guidelines Exempt U.S. Open Models From Government Review &nbsp;&nbsp; wsj.com",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGlqeXItS3prNUZ6V3BSRlQ0MzJ0NkdFNHF1SkVvY1RQUmlIb2wta2s3elpvUVNqMU4xS01WVEpRWVh1cGFJQlRlWHM1dzZsX0M3MS1fN0xfaVVESjJCWGJLc1NrcmxjWFpadDh4SldFeTg0RXNlSjNhdG5mVWNoY19BcWl0WTVUTXJHTmRHQVIyMENZZHRvZEo5dmV2aWNxVE1WY2lqLVpiSkFyNmc?oc=5"
     },
     {
       "headline": "Third-party cyber evaluations involving OpenAI models - OpenAI",
@@ -42,14 +52,34 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeENBNFQwQ0gzSm1EbTFlZmNhZmhBX2RPYzRSR3E4YUYtNmNsYnZ2Ml9ncDN4TGJOOExiSkNxYlhTbV9Zek1kSmZxVUYxck93bWc5VnpGcE11X1RRYWhnZDZZNC1XalhtMVgzNFc4WHBwVmNzM05tMHo1aV9jM0YtUndhbG1JZw?oc=5"
     },
     {
-      "headline": "Anthropic signs $10B deal with AI cloud startup Volta - TechCrunch",
-      "source": "TechCrunch",
+      "headline": "Microsoft: No, This Rally Is Not Over, Enterprise AI Demand To Skyrocket (NASDAQ:MSFT) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-08-04T20:09:16.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Microsoft: No, This Rally Is Not Over, Enterprise AI Demand To Skyrocket (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVZKQ2dXdFk5a0QwTDUxUGp1Y1dzb1RQV3h6S0R1NmQ0dVJidlJWVTdZTF9tVktwNUxnV1hETm45bWhIQ0FndkJtTTMzZTM0cnBKWC1zQi00emVodGJIWEdEclVYQ0ZnYi10eDVEWl9OOHZ4Mmo4eTltZUNNTi03QkJuRmVaa2I5OHNpQktCcl9fOTl2YlFtU0ozYTRTT1NrbWJwMTZoY21MUDZZMjR3?oc=5"
+    },
+    {
+      "headline": "Anthropic signs $10B deal with AI cloud startup Volta - techcrunch.com",
+      "source": "techcrunch.com",
       "timestamp": "2026-08-04T19:48:40.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic signs $10B deal with AI cloud startup Volta &nbsp;&nbsp; TechCrunch",
+      "summary": "Anthropic signs $10B deal with AI cloud startup Volta &nbsp;&nbsp; techcrunch.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2JyWl9wTHQ1RHBJZEp6a1NQOExuUEZyb1RieEdTSkJ6OVhlT1lIR2NteENWblYzNURiNlR5dDZZN0FtZWlMNDFoUEE5eV82WXloVU5qZHhKWE9LUlNZcUtzZWFEMTF0S3lMU25HTS05X05DQ3huWWl0UzJCV1U3WDhzczczWDZvUTZDQnFfVU5fQnV0eUFPdHdn?oc=5"
+    },
+    {
+      "headline": "Eight-month-old UK start-up strikes $10bn deal with Anthropic - The Telegraph",
+      "source": "The Telegraph",
+      "timestamp": "2026-08-04T18:23:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Eight-month-old UK start-up strikes $10bn deal with Anthropic &nbsp;&nbsp; The Telegraph",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHJ5aU1aeFBHbjdnUlU1bjRTWU1EZl9FaUpBcVdiQnZQd0Y2VWN1VXdNNS1nZjBwbzU2SS0tYm9vNnRra0tzbXRUSDN4Y29wVzdiWjFBRjkwZ3dERVA5ZjE3T0h3a2VneWRRN1ZTMVlxTW5fR3JOZHZKWXdHX0tha0xVUVdROV91S0JjR3hDWlBGTkVUWG9sVEdEQm1FdkZaUVlxaEhvUQ?oc=5"
     },
     {
       "headline": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains - TipRanks",
@@ -62,66 +92,36 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDVfR3V5WFBWRUx6QU5Gb1R4OEtDR3prbExBZk15azJSaG9fOE9jZ2wtdUg1MXhmWWc3T2FQLVNTNWxQQXpNOU5zRXNSdHBBSzE5MEVkX3lLRzZrM0FDUDVyVlhhYzQ0aHpHOTZGcTB0TEQxUWtGY1FBUlpwWWRQVUZYSFhOU2NzWXo3OXFnbGg5cnRyN1M5OXhmZVZscXdfZjRKcFZYdERMblk?oc=5"
     },
     {
-      "headline": "Meta AI app sees growth in US daily active users but average time spent still low: Apptopia - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-08-04T17:28:14.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Meta AI app sees growth in US daily active users but average time spent still low: Apptopia &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lkTGgzYjBIX09WRkN6ZFdISnFHSzNvRnp4V3F2U2pHeUZkTlc5VlV4eTdmNDNwV2tLMXlsMVhFbXJ1Wl9IQ2lSQU5lT3p5bHhNSTM1cmdoQUNVcDRpWUd5RTNvNHVJMGQtWG4zbVM3ZEI5dlBPR1Q3UnphdnNQdlY3czF4a2hDYzAtZGt4VjRxMDJxM0xSelNPY1FWcWZiMWVwbHl5R3plTHJjVUMxbTlpNUYxdHEwNXowemJHa1lqWEVwbjVN?oc=5"
-    },
-    {
-      "headline": "AI start-up hits $2.4bn valuation backed by Nvidia - The Times",
-      "source": "The Times",
-      "timestamp": "2026-08-04T16:15:22.000Z",
+      "headline": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-04T13:24:06.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AI start-up hits $2.4bn valuation backed by Nvidia &nbsp;&nbsp; The Times",
+      "summary": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmxwdTFqNnQwc2ZJSU9tbW5mb3I3RFIyN2p4RG5zX29ocjdWV3JUMXhPaVNEV0xjd3l2akNITlZkSlhYVHNXY1F1NGk5Ym9ZZDF0LS0xclFKODRraGp1OU5pV1VIbExTdm1HVWlmRG94M1Z5dkE0TTY4b21JdGIyWS1zMHJFbHdhUDhfbFAyUnVWSElHb2RvQi1QeUJQVHRncU44YjdxOUg?oc=5"
-    },
-    {
-      "headline": "Apple says more ex-employees may have taken confidential data to OpenAI - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-04T14:03:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Apple says more ex-employees may have taken confidential data to OpenAI &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSW5ZX3FkYWNobjZ5NzRLV0Q4RUpUTWVhWFJPekhtZ1BZXzBvV01OMzFhNEQwX0NKZzVHZVNHRURuZ2UzTTdDSlJ2QTVySU43bndzQjh5b3VLUjBiS041UHc4N3V6WXdOd2hVSGhEc2hFTWszWDduWk1XUF9YXzZGYXNQNkJJVlFXQUFnQlZ0ZmQ3NTlQWU0ybFREUW1zZnkzN01MdnJEOC00Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5"
     },
     {
       "headline": "Rishabh Software Achieves Microsoft Solutions Partner for Data & AI (Azure) - EIN News",
       "source": "EIN News",
-      "timestamp": "2026-08-04T13:17:00.000Z",
+      "timestamp": "2026-08-04T13:17:43.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Rishabh Software Achieves Microsoft Solutions Partner for Data & AI (Azure) &nbsp;&nbsp; EIN News",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWZ0LVpPVUdyTXlyZVM3bUNFdlVrQjl3M05sQm8wVlN6REs2TkdhTnRDeWQ2eWprS0xMSTF4ZHMzQ3hYVGExRU0zdjFuZ3ZObEVRMmwyNmVaT29GTDRsQXBlOGdvWVdpWk5IaXQ0QTQ4SnhqRmxiNXVDSVQ4VVFleURkQm5wb25wVy0xRW11aE4zZFZzVzUxbThwbFRRM0dqU1ZlakZEZnY5ejlaalRNUExIZw?oc=5"
-    },
-    {
-      "headline": "The latest AI news we announced in July 2026 - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-08-04T13:08:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The latest AI news we announced in July 2026 &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemtQSDNYOWU4ZTlNeURXUE1RNFM0TXVScXFhRENEcEN1NnhCeTNlVURYaXBnaUVlQUVNYWd1THllTDRYQ0NvamNjeXFMYjFqS3dnT09Hby1VemQzaEFJUXhPM3o0V3QtZlE3b3VnOThqeGV4cXBCMmQ1M0JjM3llSmt3Y3lMcjQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2N3NDN0ang4NElrNHN1Z2k5MXY0ZGRYVGlmYUo0RWkwMTNlTUNlQml4clVIa0psQjNMMk5kX0JvZUIxY2JhVVZrV2M2emVtSHNOQ0ZsVl81Mk0wdlgtVUxka0U0M1V5R0t1bW8yNk1Oc1VNcDM4dFMwZDRobkZXb2RWSlp5SWRWdHBuZ1RNdmQxRjdYbW1FRTJ3RDZUZnVMSVRFQkNDSXVhd1BiY0RfbFllVFE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "White House will exempt ‘open’ AI systems from security review - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-08-05T02:59:15.000Z",
+        "headline": "Europe’s AI sovereignty is under threat. Could Mistral be the answer? - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-08-05T07:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5",
-        "summary": "White House will exempt ‘open’ AI systems from security review &nbsp;&nbsp; The Washington Post"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2ZkQnJscmh3eW1VNzlFMk83VC1zM2laazZ3SVhRUkVfazA4cUczclhpdk1WVmhBMVNiMFQ4d0l6a2pjOWNMblhYS0g2bDlpRTRUT2J3V2Rnd25yM0ppRDNPaWg1d255MFh4Vk5NLUd4aXRBSHV5TVlSNlg5eURfaWVaekhocjA2WGpGbTZ2OHgxRjh2YjFnVjN2Mzh1UQ?oc=5",
+        "summary": "Europe’s AI sovereignty is under threat. Could Mistral be the answer? &nbsp;&nbsp; Fortune"
       },
       {
         "headline": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
@@ -130,7 +130,16 @@
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
-        "summary": "OpenAI, Anthropic AI agents implicated in new security breaches &nbsp;&nbsp; Reuters OpenAI, Anthropic Model Tests Reveal More Hacking, Deception &nbsp;&nbsp; Bloomberg.com Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing &nbsp;&nbsp; Politico"
+        "summary": "OpenAI, Anthropic AI agents implicated in new security breaches &nbsp;&nbsp; Reuters OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says &nbsp;&nbsp; Financial Times Europe’s AI sovereignty is under threat. Could Mistral be the answer? &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "White House AI Guidelines Exempt U.S. Open Models From Government Review - wsj.com",
+        "source": "wsj.com",
+        "timestamp": "2026-08-04T23:07:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGlqeXItS3prNUZ6V3BSRlQ0MzJ0NkdFNHF1SkVvY1RQUmlIb2wta2s3elpvUVNqMU4xS01WVEpRWVh1cGFJQlRlWHM1dzZsX0M3MS1fN0xfaVVESjJCWGJLc1NrcmxjWFpadDh4SldFeTg0RXNlSjNhdG5mVWNoY19BcWl0WTVUTXJHTmRHQVIyMENZZHRvZEo5dmV2aWNxVE1WY2lqLVpiSkFyNmc?oc=5",
+        "summary": "White House AI Guidelines Exempt U.S. Open Models From Government Review &nbsp;&nbsp; wsj.com"
       },
       {
         "headline": "Third-party cyber evaluations involving OpenAI models - OpenAI",
@@ -142,31 +151,22 @@
         "summary": "Third-party cyber evaluations involving OpenAI models &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "Anthropic signs $10B deal with AI cloud startup Volta - TechCrunch",
-        "source": "TechCrunch",
+        "headline": "Microsoft: No, This Rally Is Not Over, Enterprise AI Demand To Skyrocket (NASDAQ:MSFT) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-08-04T20:09:16.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVZKQ2dXdFk5a0QwTDUxUGp1Y1dzb1RQV3h6S0R1NmQ0dVJidlJWVTdZTF9tVktwNUxnV1hETm45bWhIQ0FndkJtTTMzZTM0cnBKWC1zQi00emVodGJIWEdEclVYQ0ZnYi10eDVEWl9OOHZ4Mmo4eTltZUNNTi03QkJuRmVaa2I5OHNpQktCcl9fOTl2YlFtU0ozYTRTT1NrbWJwMTZoY21MUDZZMjR3?oc=5",
+        "summary": "Microsoft: No, This Rally Is Not Over, Enterprise AI Demand To Skyrocket (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha"
+      },
+      {
+        "headline": "Anthropic signs $10B deal with AI cloud startup Volta - techcrunch.com",
+        "source": "techcrunch.com",
         "timestamp": "2026-08-04T19:48:40.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2JyWl9wTHQ1RHBJZEp6a1NQOExuUEZyb1RieEdTSkJ6OVhlT1lIR2NteENWblYzNURiNlR5dDZZN0FtZWlMNDFoUEE5eV82WXloVU5qZHhKWE9LUlNZcUtzZWFEMTF0S3lMU25HTS05X05DQ3huWWl0UzJCV1U3WDhzczczWDZvUTZDQnFfVU5fQnV0eUFPdHdn?oc=5",
-        "summary": "Anthropic signs $10B deal with AI cloud startup Volta &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains - TipRanks",
-        "source": "TipRanks",
-        "timestamp": "2026-08-04T18:22:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDVfR3V5WFBWRUx6QU5Gb1R4OEtDR3prbExBZk15azJSaG9fOE9jZ2wtdUg1MXhmWWc3T2FQLVNTNWxQQXpNOU5zRXNSdHBBSzE5MEVkX3lLRzZrM0FDUDVyVlhhYzQ0aHpHOTZGcTB0TEQxUWtGY1FBUlpwWWRQVUZYSFhOU2NzWXo3OXFnbGg5cnRyN1M5OXhmZVZscXdfZjRKcFZYdERMblk?oc=5",
-        "summary": "Meta AI Just Posted the Biggest Jump in U.S. User Share… but One Hurdle Remains &nbsp;&nbsp; TipRanks"
-      },
-      {
-        "headline": "Meta AI app sees growth in US daily active users but average time spent still low: Apptopia - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-08-04T17:28:14.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lkTGgzYjBIX09WRkN6ZFdISnFHSzNvRnp4V3F2U2pHeUZkTlc5VlV4eTdmNDNwV2tLMXlsMVhFbXJ1Wl9IQ2lSQU5lT3p5bHhNSTM1cmdoQUNVcDRpWUd5RTNvNHVJMGQtWG4zbVM3ZEI5dlBPR1Q3UnphdnNQdlY3czF4a2hDYzAtZGt4VjRxMDJxM0xSelNPY1FWcWZiMWVwbHl5R3plTHJjVUMxbTlpNUYxdHEwNXowemJHa1lqWEVwbjVN?oc=5",
-        "summary": "Meta AI app sees growth in US daily active users but average time spent still low: Apptopia &nbsp;&nbsp; Seeking Alpha"
+        "summary": "Anthropic signs $10B deal with AI cloud startup Volta &nbsp;&nbsp; techcrunch.com"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
