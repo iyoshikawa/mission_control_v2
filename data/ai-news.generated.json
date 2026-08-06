@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-05T23:03:38.049Z",
+    "generatedAt": "2026-08-06T02:52:49.012Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-05T22:25:00.000Z",
+      "headline": "Demis Hassabis Had Reportedly Been Plotting to Leave His DeepMind CEO Job for a Year - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-08-06T02:38:33.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Big shake-up in Google’s AI team as DeepMind chief executive steps down &nbsp;&nbsp; The Guardian",
+      "summary": "Demis Hassabis Had Reportedly Been Plotting to Leave His DeepMind CEO Job for a Year &nbsp;&nbsp; Gizmodo",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZiMGs5QTRuZEtKWWZkNUVCUkc1ODY5aXhxUjd0cThoLXNyNnh2dV9NRjBkU0hlM0c5WW1PdGUwYkFZanluU2puUnZyblJQemF6bWxrUC1DZWJ6UDRHZEwxVWthd1JHMlJOQXF3NE1sMVVNa3dFNEltTlM1Tjg1eEFiN0RIb3pVYVhZUmtWa1dSX0JSclNVR2xWUUNKRUtBZG5xR25mUXhDY2JJZWxhLVkzc1FYTFYta1pWRWtB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUVwbWVIWF9jM0t3enhSYjNJTXllY3Y3YWJSNktmdjVYQjlFZHROSlJLdkpjV21VTk5jZVdNOUlXZmtPMTFQSUl6blY1Q3ZMc3FBa3NvdUNWR0s3eU1VcnlkbEhPMVlybGZqbHhrTkZab1ZvVkZvY0c5eVpyNGI2WHpUaTVqclVudXZVR2ZrZEZvb1lKaVdCWUdKdXZfYjJDTFoxVEZjOENXSElpNHliQl9uNjlXdw?oc=5"
     },
     {
-      "headline": "A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information",
-      "source": "The Information",
-      "timestamp": "2026-08-05T22:21:52.000Z",
+      "headline": "Meta says its AI model hacked into another company during testing - theguardian.com",
+      "source": "theguardian.com",
+      "timestamp": "2026-08-06T01:29:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "A Meta AI Model Hacked Another Company During Cybersecurity Testing &nbsp;&nbsp; The Information",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5"
+      "summary": "Meta says its AI model hacked into another company during testing &nbsp;&nbsp; theguardian.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5"
     },
     {
-      "headline": "Google Loses The Engineer Who Helped Build Search And Modern AI - Search Engine Journal",
-      "source": "Search Engine Journal",
-      "timestamp": "2026-08-05T22:16:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google Loses The Engineer Who Helped Build Search And Modern AI &nbsp;&nbsp; Search Engine Journal",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmgxaGpMRllBNDI4Zm9aR0VvelRvRmh0MnAzZjdEc3ZuOXZhMVMyNnV0QXNqbGVQRHZ0UktRUVBpZWhrU1dEUFp3ZV9UUFVxOUN1YU5VWUN0LTUzeHMxdDZZamhMaG9MNVZqWks4ZHdfQnpydlVmTE1ISjF0bllRd3k1OEpmLThCTkFMRDV4UGRjZU5xbDVzbHdmNXpDb3kwMHhYc2VDeGZuczg?oc=5"
-    },
-    {
-      "headline": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-05T21:36:25.000Z",
+      "headline": "How OpenAI's agents broke out of testing to hack Hugging Face - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-06T01:24:26.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU90czRsTVlMbWQ0VHVpbnByUkZua0Vtb09qa0dmbjY3TVNHV2x3QW1nMFc3UEN5V0RFak5la2FDcUtCYkt4SHFMSmN0Si0tTk9qNkRVcm5lSlljM29rOTljaHhQdEc0dlRVcFlGOXlELTV5bEg2RzNVVzQ3SmhoVGR2YXprcDVUbDctX0o2OHB2c2ZRSDdPNm5aTDA?oc=5"
+      "summary": "How OpenAI's agents broke out of testing to hack Hugging Face &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNW5EMlBhN0N6SlRwVkRkMWhCQlVjbWZWX2JXSDZUdHRKVV9Ua3c3S1JFZk9GYnNyUlQxVWxKQ29tQ1VmQVNpWU5ORFZueFNCek1zU09wMmpyV2F1aUhVM2N0V0lQV20td0V6Zk5PMA?oc=5"
     },
     {
-      "headline": "Meta debuts Muse Spark 1.2 and first coding agent, as it ramps up competition with OpenAI, Anthropic - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "An AI model from Meta also hacked another company during testing - cnn.com",
+      "source": "cnn.com",
+      "timestamp": "2026-08-05T23:36:06.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "An AI model from Meta also hacked another company during testing &nbsp;&nbsp; cnn.com",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5"
+    },
+    {
+      "headline": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-05T23:04:41.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5"
+    },
+    {
+      "headline": "Meta AI model hacks another company during testing - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-05T22:29:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Meta AI model hacks another company during testing &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5"
+    },
+    {
+      "headline": "Meta debuts Muse Spark 1.2 and first coding agent, as it ramps up competition with OpenAI, Anthropic - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "timestamp": "2026-08-05T21:33:38.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Meta debuts Muse Spark 1.2 and first coding agent, as it ramps up competition with OpenAI, Anthropic &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Meta debuts Muse Spark 1.2 and first coding agent, as it ramps up competition with OpenAI, Anthropic &nbsp;&nbsp; finance.yahoo.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPakZybk1Gd3NwYzhJdzdDMWxEYlFLWU1SSHFta3NQLWlkR1pGMjdKcFkwanJWZHgxMUc2aGh0bGR4LXQ1YmxYS2xGeHRVR2gxTUl4NDZvWnU5blJsZ1NIRlVFZFNVZ2Y4UEtEcEI5SW12YlNBWWc0R0hiWWg0WS1xd1c3VHQxRWFUU2Z1MloxOHRQbVhLOVJ2WS1TbEJESE4xRTMyZXhXSFlsbXZRdEhtZ1Q1c2R1V21kZks5WXN6bDlfNWFTNGlndDJLU0V0bFdXRVg0ZFFZMHJuNFd4SnZIMlU1WkpvTDdJZVMtQkVR?oc=5"
+    },
+    {
+      "headline": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-05T20:33:34.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5"
     },
     {
       "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
@@ -80,113 +110,83 @@
       "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5"
-    },
-    {
-      "headline": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-08-05T16:26:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGRXRERPd014TW9tQVpvejVDUElQUHhsVVBkUU5ZR0FoaGdsU3R0Mlp2dFFqV3ZicVZDVTdUQjd2RkxOQWNtdHBFRWZZcFVrRHZjajc4ODZsRmFKRUN1MzJkRWVGQWdCNVZWVmpOak9HM1hDbFB2Z1pRbXNZNHhoYWVhUFJEWl81eUN5b1IxRFAydDZHT1NLZlpfWUg?oc=5"
-    },
-    {
-      "headline": "The next chapter of our AI momentum - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-08-05T16:13:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The next chapter of our AI momentum &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
-    },
-    {
-      "headline": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-08-05T16:03:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-08-05T22:25:00.000Z",
+        "headline": "Demis Hassabis Had Reportedly Been Plotting to Leave His DeepMind CEO Job for a Year - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-08-06T02:38:33.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZiMGs5QTRuZEtKWWZkNUVCUkc1ODY5aXhxUjd0cThoLXNyNnh2dV9NRjBkU0hlM0c5WW1PdGUwYkFZanluU2puUnZyblJQemF6bWxrUC1DZWJ6UDRHZEwxVWthd1JHMlJOQXF3NE1sMVVNa3dFNEltTlM1Tjg1eEFiN0RIb3pVYVhZUmtWa1dSX0JSclNVR2xWUUNKRUtBZG5xR25mUXhDY2JJZWxhLVkzc1FYTFYta1pWRWtB?oc=5",
-        "summary": "Big shake-up in Google’s AI team as DeepMind chief executive steps down &nbsp;&nbsp; The Guardian"
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUVwbWVIWF9jM0t3enhSYjNJTXllY3Y3YWJSNktmdjVYQjlFZHROSlJLdkpjV21VTk5jZVdNOUlXZmtPMTFQSUl6blY1Q3ZMc3FBa3NvdUNWR0s3eU1VcnlkbEhPMVlybGZqbHhrTkZab1ZvVkZvY0c5eVpyNGI2WHpUaTVqclVudXZVR2ZrZEZvb1lKaVdCWUdKdXZfYjJDTFoxVEZjOENXSElpNHliQl9uNjlXdw?oc=5",
+        "summary": "Demis Hassabis Had Reportedly Been Plotting to Leave His DeepMind CEO Job for a Year &nbsp;&nbsp; Gizmodo"
       },
       {
-        "headline": "A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information",
-        "source": "The Information",
-        "timestamp": "2026-08-05T22:21:52.000Z",
+        "headline": "Meta says its AI model hacked into another company during testing - theguardian.com",
+        "source": "theguardian.com",
+        "timestamp": "2026-08-06T01:29:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5",
+        "summary": "Meta says its AI model hacked into another company during testing &nbsp;&nbsp; theguardian.com"
+      },
+      {
+        "headline": "How OpenAI's agents broke out of testing to hack Hugging Face - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-06T01:24:26.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNW5EMlBhN0N6SlRwVkRkMWhCQlVjbWZWX2JXSDZUdHRKVV9Ua3c3S1JFZk9GYnNyUlQxVWxKQ29tQ1VmQVNpWU5ORFZueFNCek1zU09wMmpyV2F1aUhVM2N0V0lQV20td0V6Zk5PMA?oc=5",
+        "summary": "How OpenAI's agents broke out of testing to hack Hugging Face &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "An AI model from Meta also hacked another company during testing - cnn.com",
+        "source": "cnn.com",
+        "timestamp": "2026-08-05T23:36:06.000Z",
         "impact": "HIGH",
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5",
-        "summary": "A Meta AI Model Hacked Another Company During Cybersecurity Testing &nbsp;&nbsp; The Information"
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5",
+        "summary": "An AI model from Meta also hacked another company during testing &nbsp;&nbsp; cnn.com"
       },
       {
-        "headline": "Google Loses The Engineer Who Helped Build Search And Modern AI - Search Engine Journal",
-        "source": "Search Engine Journal",
-        "timestamp": "2026-08-05T22:16:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmgxaGpMRllBNDI4Zm9aR0VvelRvRmh0MnAzZjdEc3ZuOXZhMVMyNnV0QXNqbGVQRHZ0UktRUVBpZWhrU1dEUFp3ZV9UUFVxOUN1YU5VWUN0LTUzeHMxdDZZamhMaG9MNVZqWks4ZHdfQnpydlVmTE1ISjF0bllRd3k1OEpmLThCTkFMRDV4UGRjZU5xbDVzbHdmNXpDb3kwMHhYc2VDeGZuczg?oc=5",
-        "summary": "Google Loses The Engineer Who Helped Build Search And Modern AI &nbsp;&nbsp; Search Engine Journal"
+        "headline": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-08-05T23:04:41.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeG9FOHFuNTdmY3ItcldFQUdvQmpBNWZRSU96LVdoN21IZVJ6TmFKZHRXSjZEMkNQOXhZT0hSeWNwZENLcHJDaWtpeGxCb0x1ZXljdjJtVjROS3RfXzJKMGxwa1BTUXV5QXhzN09XMmR1aHRfUGloYzdCUkphYTFwMHpNUktNWTB2UHFSOTlOSUZMejFQQ1A3eGYwSFJOMnMzekNrWlVJRU9rUEZOOEZfVzhFVQ?oc=5",
+        "summary": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-05T21:36:25.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU90czRsTVlMbWQ0VHVpbnByUkZua0Vtb09qa0dmbjY3TVNHV2x3QW1nMFc3UEN5V0RFak5la2FDcUtCYkt4SHFMSmN0Si0tTk9qNkRVcm5lSlljM29rOTljaHhQdEc0dlRVcFlGOXlELTV5bEg2RzNVVzQ3SmhoVGR2YXprcDVUbDctX0o2OHB2c2ZRSDdPNm5aTDA?oc=5",
-        "summary": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Meta debuts Muse Spark 1.2 and first coding agent, as it ramps up competition with OpenAI, Anthropic - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-08-05T21:33:38.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPakZybk1Gd3NwYzhJdzdDMWxEYlFLWU1SSHFta3NQLWlkR1pGMjdKcFkwanJWZHgxMUc2aGh0bGR4LXQ1YmxYS2xGeHRVR2gxTUl4NDZvWnU5blJsZ1NIRlVFZFNVZ2Y4UEtEcEI5SW12YlNBWWc0R0hiWWg0WS1xd1c3VHQxRWFUU2Z1MloxOHRQbVhLOVJ2WS1TbEJESE4xRTMyZXhXSFlsbXZRdEhtZ1Q1c2R1V21kZks5WXN6bDlfNWFTNGlndDJLU0V0bFdXRVg0ZFFZMHJuNFd4SnZIMlU1WkpvTDdJZVMtQkVR?oc=5",
-        "summary": "Meta debuts Muse Spark 1.2 and first coding agent, as it ramps up competition with OpenAI, Anthropic &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-08-05T19:00:17.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
-        "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI &nbsp;&nbsp; CNBC"
+        "headline": "Meta AI model hacks another company during testing - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-08-05T22:29:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5",
+        "summary": "Meta AI model hacks another company during testing &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+      },
+      {
+        "topic": "OpenAI",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
-        "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "4 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
