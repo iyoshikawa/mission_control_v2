@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-06T08:43:02.635Z",
+    "generatedAt": "2026-08-06T11:26:17.027Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Google DeepMind CEO Demis Hassabis stepping into new role - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-06T09:10:59.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind CEO Demis Hassabis stepping into new role &nbsp;&nbsp; Axios",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIclpCcTJxWGVaZTNURkFiZ3FMNDV3X2RpWEdBamMyXzZZNUxnUjJfd2hpREZTN0NzczlqS0VMcFc3Y1IxNDNGS0RCUzMwN0RNWHVjN1NHVnBPV0V6NlhyTlU0Vm42djFxRlAtblRLdw?oc=5"
+    },
     {
       "headline": "Google DeepMind exes says AI extinction odds are 'not zero'—she disagrees with Elon Musk predictions - Fortune",
       "source": "Fortune",
@@ -32,12 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEE3Z2YxMlYzS2NQVEZIMHlDM2gweXRkWWpaLVV5eVpfT2FwdklqcnBjVi1ud25Mby12ZVhOYUE4eGVCZjR6VUppc2hjY1VEa1VzNkFTMVhfTHVVWFdHN0JkdG1DaV9CWERnQUtRc3lMS19ZMV9Za0xrSHdjcm1QVy1RN3VManM?oc=5"
     },
     {
-      "headline": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
-      "source": "WIRED",
+      "headline": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - wired.com",
+      "source": "wired.com",
       "timestamp": "2026-08-06T00:15:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree &nbsp;&nbsp; WIRED",
+      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree &nbsp;&nbsp; wired.com",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5"
     },
@@ -57,34 +67,14 @@
       "timestamp": "2026-08-05T23:36:06.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "An AI model from Meta also hacked another company during testing &nbsp;&nbsp; cnn.com Meta says its AI model hacked into another company during testing &nbsp;&nbsp; The Guardian Meta says AI model accessed the internet and hacked another firm &nbsp;&nbsp; bbc.com",
+      "summary": "An AI model from Meta also hacked another company during testing &nbsp;&nbsp; cnn.com Meta AI model hacks another company during testing &nbsp;&nbsp; reuters.com Meta becomes latest firm to say its AI hacked another company &nbsp;&nbsp; BBC",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5"
     },
     {
-      "headline": "Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-05T22:38:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Big shake-up in Google’s AI team as DeepMind chief executive steps down &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZiMGs5QTRuZEtKWWZkNUVCUkc1ODY5aXhxUjd0cThoLXNyNnh2dV9NRjBkU0hlM0c5WW1PdGUwYkFZanluU2puUnZyblJQemF6bWxrUC1DZWJ6UDRHZEwxVWthd1JHMlJOQXF3NE1sMVVNa3dFNEltTlM1Tjg1eEFiN0RIb3pVYVhZUmtWa1dSX0JSclNVR2xWUUNKRUtBZG5xR25mUXhDY2JJZWxhLVkzc1FYTFYta1pWRWtB?oc=5"
-    },
-    {
-      "headline": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-05T20:33:34.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5"
-    },
-    {
       "headline": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
       "source": "WSJ",
-      "timestamp": "2026-08-05T19:45:00.000Z",
+      "timestamp": "2026-08-05T19:48:13.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic &nbsp;&nbsp; WSJ",
@@ -92,12 +82,12 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5"
     },
     {
-      "headline": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t - slate.com",
-      "source": "slate.com",
+      "headline": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t - Slate",
+      "source": "Slate",
       "timestamp": "2026-08-05T19:27:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t &nbsp;&nbsp; slate.com",
+      "summary": "The One Luxury That Kylie Jenner and Taylor Swift Can Both Afford—and You Can’t &nbsp;&nbsp; Slate",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGlYdUFrQm0ta2Vzc2V2cUE4R3A3eFU3Q1R3clcxcTRkTjJBNS1qU1N3RUtNazhpdUVyal9vUEhGcENHZkpmUktfbFk3NzlmQ3E1NHRVUDZOUlhkTmRuZ3oxM1pnUFBRVG5fWnZVUWZpNWRhbWZEdmhGUXAzTnRmdmdzZXc1RWtPZ3Br?oc=5"
     },
@@ -110,10 +100,29 @@
       "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5"
+    },
+    {
+      "headline": "The next chapter of our AI momentum - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-08-05T16:13:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The next chapter of our AI momentum &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Google DeepMind CEO Demis Hassabis stepping into new role - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-06T09:10:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIclpCcTJxWGVaZTNURkFiZ3FMNDV3X2RpWEdBamMyXzZZNUxnUjJfd2hpREZTN0NzczlqS0VMcFc3Y1IxNDNGS0RCUzMwN0RNWHVjN1NHVnBPV0V6NlhyTlU0Vm42djFxRlAtblRLdw?oc=5",
+        "summary": "Google DeepMind CEO Demis Hassabis stepping into new role &nbsp;&nbsp; Axios"
+      },
       {
         "headline": "Google DeepMind exes says AI extinction odds are 'not zero'—she disagrees with Elon Musk predictions - Fortune",
         "source": "Fortune",
@@ -133,13 +142,13 @@
         "summary": "‘I’m not spying’: how Meta’s smartglasses have divided opinion &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
-        "source": "WIRED",
+        "headline": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - wired.com",
+        "source": "wired.com",
         "timestamp": "2026-08-06T00:15:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
-        "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree &nbsp;&nbsp; WIRED"
+        "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree &nbsp;&nbsp; wired.com"
       },
       {
         "headline": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI - Bloomberg.com",
@@ -157,23 +166,14 @@
         "impact": "HIGH",
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5",
-        "summary": "An AI model from Meta also hacked another company during testing &nbsp;&nbsp; cnn.com Meta says its AI model hacked into another company during testing &nbsp;&nbsp; The Guardian Meta says AI model accessed the internet and hacked another firm &nbsp;&nbsp; bbc.com"
-      },
-      {
-        "headline": "Big shake-up in Google’s AI team as DeepMind chief executive steps down - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-08-05T22:38:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmZiMGs5QTRuZEtKWWZkNUVCUkc1ODY5aXhxUjd0cThoLXNyNnh2dV9NRjBkU0hlM0c5WW1PdGUwYkFZanluU2puUnZyblJQemF6bWxrUC1DZWJ6UDRHZEwxVWthd1JHMlJOQXF3NE1sMVVNa3dFNEltTlM1Tjg1eEFiN0RIb3pVYVhZUmtWa1dSX0JSclNVR2xWUUNKRUtBZG5xR25mUXhDY2JJZWxhLVkzc1FYTFYta1pWRWtB?oc=5",
-        "summary": "Big shake-up in Google’s AI team as DeepMind chief executive steps down &nbsp;&nbsp; The Guardian"
+        "summary": "An AI model from Meta also hacked another company during testing &nbsp;&nbsp; cnn.com Meta AI model hacks another company during testing &nbsp;&nbsp; reuters.com Meta becomes latest firm to say its AI hacked another company &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
