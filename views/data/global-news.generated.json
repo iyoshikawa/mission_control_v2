@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-07T08:11:43.985Z",
+    "generatedAt": "2026-08-07T09:59:14.804Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
+      "headline": "World food prices hit 3-year high in July as weather and war weigh, FAO says",
+      "summary": "World food prices hit 3-year high in July as weather and war weigh, FAO says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-07T08:47:08.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcG45aWJLamV2ZzJnUDBHSnRQMEdBMldKbTItOVVyelg5ZHZiSkJWNGZTaEpuMjBwWlg4bjctSndia2szZ2QxeEx6Zk5jQlBBQmdUV0dQdVgtb1g2Q3JESF9WRlVVVmhLZld1Rno4XzktYmk3WE9xaWthM3l1bXZDQjhSQndrWm1nQjBraEkwS1dCejM2TjNuOFd4VndlTnFpWXFKRVpkMEI3ZjQ?oc=5"
+    },
+    {
       "headline": "Dollar set for weekly gain as traders eye Iran talks, US jobs data",
       "summary": "Dollar set for weekly gain as traders eye Iran talks, US jobs data &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-08-07T06:02:02.000Z",
+      "timestamp": "2026-08-07T08:35:51.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5"
+    },
+    {
+      "headline": "Russia's Wildberries, target of Ukrainian drone campaign, reports another attack in Urals",
+      "summary": "Russia's Wildberries, target of Ukrainian drone campaign, reports another attack in Urals &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-07T07:55:47.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVV0a3F4WUVuVi1vLTBHYzhxaHo0alduWmZDX3habThUSnFrb1RDUFo5bWkwdVVlUG03TkNCbkZKQzRDY2tMVmsycVRWTW9pejJrc1Y4RjQ3UGpzR2ozbl9tVzZ5T3d1OVh4c2p5WEM4cXRkMTg5bzcycnVhT3c1RzZmV2VXUFpJd0luV2FDYXBCdUh2TlZQNUpoTHg2T1U4MVlNbVZjbzdNVFpxdGYwTERDYnhxSm1KNHZlMGtYQQ?oc=5"
+    },
+    {
+      "headline": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive",
+      "summary": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-07T06:05:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU?oc=5"
     },
     {
       "headline": "Ukrainian attacks on Wildberries strike at heart of Russia Inc",
@@ -65,39 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MOVp4RV81UFVISXcwcXd1TlY2V0gtWjBuc2l2Vjk5SEF1bHQzY2tOV0FtZFd2V3c3UWdIZzhmUUpQcnFVclBnajdSMmIwU2pReW1UdnV4c1BOVTJHQXBMbURTTTF3aUxzM0UzbkIxUWZjYjBoR04xSElWOGVhazg?oc=5"
-    },
-    {
-      "headline": "Traders ship refined fuels to Russia from South Korea in late July, data shows",
-      "summary": "Traders ship refined fuels to Russia from South Korea in late July, data shows &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-07T03:46:00.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjJXR1hSUHBjX1pCLWtTUEx2cWY1LU9xUUNraFljNXdYYUVGM280bEwyMGM3emNMd2FmcElvLTZLRnp2X3NNUFZLcDhzWTVvZlp5bUdKbG0yd21Sd25aTFRWbXc5MHdHaXVEVTBmeXpwMTktc3p5RXVQOGN0LVZjMXVrY2RPZ2V1X3hmSnoxYmtDOTJWYlNaTUZER1FsdGtuYlh5aGh0VGxNazg5bFBkZ2VKWVFqRDRYQXc?oc=5"
-    },
-    {
-      "headline": "AI demand keeps China's export engine humming, but risks loom",
-      "summary": "AI demand keeps China's export engine humming, but risks loom &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-07T02:42:00.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5"
-    },
-    {
-      "headline": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat",
-      "summary": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-06T21:43:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5"
     }
   ]
 }
