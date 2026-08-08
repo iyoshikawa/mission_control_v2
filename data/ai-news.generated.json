@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-07T23:36:40.123Z",
+    "generatedAt": "2026-08-08T01:53:54.678Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -14,12 +14,22 @@
     {
       "headline": "The next chapter of our AI momentum - blog.google",
       "source": "blog.google",
-      "timestamp": "2026-08-07T23:01:19.000Z",
+      "timestamp": "2026-08-08T01:37:28.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "The next chapter of our AI momentum &nbsp;&nbsp; blog.google",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+    },
+    {
+      "headline": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-08-08T01:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5"
     },
     {
       "headline": "OpenAI says it slowed Astra model development over security concerns - TechCrunch",
@@ -32,12 +42,42 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5"
     },
     {
-      "headline": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook - spglobal.com",
-      "source": "spglobal.com",
+      "headline": "Opinion | Silicon Valley has embraced a strange new faith - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-08-07T18:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Opinion | Silicon Valley has embraced a strange new faith &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTNwdmsxd3hJVHhkcVQ1YXQ5UC1qQkNzWkhVT3NLRXFBWS16TTdLWGkwVXVDd1lob29NYURpRWFkTDJSZHhLWXV1OWFtQ3piQk56NE8tcHV6emNma2l4WnExMzktRXhXRHVsN2dGR2hVWGwwMmRoYzJCVVQ2TDNZVFFCVWZ5ZGNDZUhhYUFDUnVvajg?oc=5"
+    },
+    {
+      "headline": "Inside the Race to Make AI Build Itself - Time Magazine",
+      "source": "Time Magazine",
+      "timestamp": "2026-08-07T14:09:26.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Inside the Race to Make AI Build Itself &nbsp;&nbsp; Time Magazine",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWVQUnNEbTExb2lFMkQ3Yzh3cHlYQTNYaGhwRk9zLXluVU9NbUQyNmhTTXZKQnZDeW10TW9qS3VQMUNzYnNMc0o0VmphemxyazlrNE1PRFhQaGtRbWZZZkZxRkhGT3NKSHAzOHMtOTV5djdTcEg2dnhLR1lha2hWeFhFaE14MUR5NUFn?oc=5"
+    },
+    {
+      "headline": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools - infoq.com",
+      "source": "infoq.com",
+      "timestamp": "2026-08-07T06:36:59.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools &nbsp;&nbsp; infoq.com",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtRUQ5dkRDaGRtWW04d0ludmhkc0RHZXg1SFc4NUxpM1pwdVNVVmNRaVNzSFFNQzg5cHdHTzJ3S0RkWS0wRzc4Qi03SkI1THpFQmJVRk5tRlRSTTVXMUhTaWhnYm9jNlhvekhGSHNZaw?oc=5"
+    },
+    {
+      "headline": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook - S&P Global",
+      "source": "S&P Global",
       "timestamp": "2026-08-07T06:01:54.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook &nbsp;&nbsp; spglobal.com",
+      "summary": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook &nbsp;&nbsp; S&P Global",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVlCc2ctV2tJUTVOUGMxbWRNajdhd1dmRS1yU1c3MDN3dU1wSkt1cFhGclpnd2VqTVc0Q3g5UFVrZjY4U0cwandHZDlwMWtBVTlFS20zN1hCbUdPSUtzV01sN3dVdk9PbUozNDdfTXN0czRJdGdWbC0wQVVhWUhhcHJJaWFWSllLUHBrekZlTFJBMDVnTDVSSlZGcEVqaFFabkNObFNHbzhuWEJabFhOelo1RTdoSHZhSXo2QWM3SDVmMGlSNXBXX3NINjdFc1l2MzBwdU0zd2I4ZkhIX3U4UUVhUTJES3lGeXF3dFJwRQ?oc=5"
     },
@@ -52,12 +92,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5"
     },
     {
-      "headline": "Gemini is Cooked but GCP is Cooking - SemiAnalysis",
-      "source": "SemiAnalysis",
+      "headline": "Gemini is Cooked but GCP is Cooking - newsletter.semianalysis.com",
+      "source": "newsletter.semianalysis.com",
       "timestamp": "2026-08-07T02:32:44.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Gemini is Cooked but GCP is Cooking &nbsp;&nbsp; SemiAnalysis",
+      "summary": "Gemini is Cooked but GCP is Cooking &nbsp;&nbsp; newsletter.semianalysis.com",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tTWRuLUdLWFc2a29Rd3hzVk5RUVpEUDZQcWF3MzlSeVprVHFRNFpiYXdzT2s4bFI3VmtvU1ZfLVJaYjR2Zmc2a3Qzc3JITFlCZk9qbjhUb180ZXpKNUk1UWRQNDZDckxkN0lDUTFsQXJuVVVQUDVsdVF0YTh0UQ?oc=5"
     },
@@ -70,46 +110,6 @@
       "summary": "Improving Fable 5's biology safeguards &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5"
-    },
-    {
-      "headline": "Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-08-06T21:40:54.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeE84eExMV0Z4RUhMRk5YSjdzaEQwTDA1UEkzLUlHN0hQbElPNDBRTk1mdF9xYllzN2Eyd28wS3FSeW9KMFhLQ0s4bHR3dkluYmpWOVVuOUdEX0JTR282TnVTWTZJV1lzQmZrZ2hLZU5TT3JIVjRPS3Z2NzhtOGltUWFlenk?oc=5"
-    },
-    {
-      "headline": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-08-06T20:55:39.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker &nbsp;&nbsp; The Verge",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzlsMFlLRzZVYjc1TThTRUpDMlV0NFlIeHpQTTZOQXVmQlVsR2tfYkJaejVBb0p2UjNhWWg0a3ZXU1NDUjctYnFCR1lLU3Y1aXVsR2tKZktLUmIyNDRWenE1Umx2MVNiNldpR0pzbTVMVkNYUE40TFVGUGhTNlVLZzlxS085Sm5lcFR0TGNLZkgyYXo4elBndXFlWmF3MHppcVZN?oc=5"
-    },
-    {
-      "headline": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-06T19:59:38.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300 &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbldZN3NoODhYeWM3Y3Z1NThsRkhzam1qdDd0WkdwclZueTV2YjVqN1VTSFZMa1ZyOGgwc3ZoeXNJVUxETFp4SWx1ZlRXcEp2NzB2RzgyTFoxMnROOFZBU1k2ZWNLQXlVM0s0alhrRHB1bFZCT243dnh5b2J2V3VNdXJMWUg3LWRCMUtkMVhPMnZuTFpDdk1zMnNDX01IZVhONGlwa2JINTdHVjBuTEFNRzZuWWZDZFJXLTNXVQ?oc=5"
-    },
-    {
-      "headline": "WeatherNext: AI model achieves breakthrough in forecasting cyclones - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-08-06T15:10:10.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWV3dXdpQi12UUlac3V6NUdCRm9WWGRIU3laVmVjXy1vbTVDVl9jeEpFRXVsaWJfamc5c2pWTFNRY3UyUG1nQm9XYzBuWkFJeWFrNGEzRDYxR1I4TWdSR2w1b3g5eDBBUHEwVTZkSXVvNURoTW1EeDVmNjdSSXR3QWJyM2hhcTNxTmpTNFNkZDdGckdiM1FfbTE0blg?oc=5"
     }
   ],
   "aiNews": {
@@ -117,11 +117,20 @@
       {
         "headline": "The next chapter of our AI momentum - blog.google",
         "source": "blog.google",
-        "timestamp": "2026-08-07T23:01:19.000Z",
+        "timestamp": "2026-08-08T01:37:28.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5",
         "summary": "The next chapter of our AI momentum &nbsp;&nbsp; blog.google"
+      },
+      {
+        "headline": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-08-08T01:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5",
+        "summary": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "OpenAI says it slowed Astra model development over security concerns - TechCrunch",
@@ -133,40 +142,31 @@
         "summary": "OpenAI says it slowed Astra model development over security concerns &nbsp;&nbsp; TechCrunch"
       },
       {
-        "headline": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook - spglobal.com",
-        "source": "spglobal.com",
-        "timestamp": "2026-08-07T06:01:54.000Z",
+        "headline": "Opinion | Silicon Valley has embraced a strange new faith - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-08-07T18:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVlCc2ctV2tJUTVOUGMxbWRNajdhd1dmRS1yU1c3MDN3dU1wSkt1cFhGclpnd2VqTVc0Q3g5UFVrZjY4U0cwandHZDlwMWtBVTlFS20zN1hCbUdPSUtzV01sN3dVdk9PbUozNDdfTXN0czRJdGdWbC0wQVVhWUhhcHJJaWFWSllLUHBrekZlTFJBMDVnTDVSSlZGcEVqaFFabkNObFNHbzhuWEJabFhOelo1RTdoSHZhSXo2QWM3SDVmMGlSNXBXX3NINjdFc1l2MzBwdU0zd2I4ZkhIX3U4UUVhUTJES3lGeXF3dFJwRQ?oc=5",
-        "summary": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook &nbsp;&nbsp; spglobal.com"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTNwdmsxd3hJVHhkcVQ1YXQ5UC1qQkNzWkhVT3NLRXFBWS16TTdLWGkwVXVDd1lob29NYURpRWFkTDJSZHhLWXV1OWFtQ3piQk56NE8tcHV6emNma2l4WnExMzktRXhXRHVsN2dGR2hVWGwwMmRoYzJCVVQ2TDNZVFFCVWZ5ZGNDZUhhYUFDUnVvajg?oc=5",
+        "summary": "Opinion | Silicon Valley has embraced a strange new faith &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "ByteDance targets mega AI model nearing Anthropic’s Mythos - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-08-07T04:36:03.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5",
-        "summary": "ByteDance targets mega AI model nearing Anthropic’s Mythos &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "Gemini is Cooked but GCP is Cooking - SemiAnalysis",
-        "source": "SemiAnalysis",
-        "timestamp": "2026-08-07T02:32:44.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tTWRuLUdLWFc2a29Rd3hzVk5RUVpEUDZQcWF3MzlSeVprVHFRNFpiYXdzT2s4bFI3VmtvU1ZfLVJaYjR2Zmc2a3Qzc3JITFlCZk9qbjhUb180ZXpKNUk1UWRQNDZDckxkN0lDUTFsQXJuVVVQUDVsdVF0YTh0UQ?oc=5",
-        "summary": "Gemini is Cooked but GCP is Cooking &nbsp;&nbsp; SemiAnalysis"
-      },
-      {
-        "headline": "Improving Fable 5's biology safeguards - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-08-07T02:22:29.000Z",
+        "headline": "Inside the Race to Make AI Build Itself - Time Magazine",
+        "source": "Time Magazine",
+        "timestamp": "2026-08-07T14:09:26.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5",
-        "summary": "Improving Fable 5's biology safeguards &nbsp;&nbsp; Anthropic"
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWVQUnNEbTExb2lFMkQ3Yzh3cHlYQTNYaGhwRk9zLXluVU9NbUQyNmhTTXZKQnZDeW10TW9qS3VQMUNzYnNMc0o0VmphemxyazlrNE1PRFhQaGtRbWZZZkZxRkhGT3NKSHAzOHMtOTV5djdTcEg2dnhLR1lha2hWeFhFaE14MUR5NUFn?oc=5",
+        "summary": "Inside the Race to Make AI Build Itself &nbsp;&nbsp; Time Magazine"
+      },
+      {
+        "headline": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools - infoq.com",
+        "source": "infoq.com",
+        "timestamp": "2026-08-07T06:36:59.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtRUQ5dkRDaGRtWW04d0ludmhkc0RHZXg1SFc4NUxpM1pwdVNVVmNRaVNzSFFNQzg5cHdHTzJ3S0RkWS0wRzc4Qi03SkI1THpFQmJVRk5tRlRSTTVXMUhTaWhnYm9jNlhvekhGSHNZaw?oc=5",
+        "summary": "Azure API Management Adds Dedicated AI Gateway Tier, Governing Models and MCP Tools &nbsp;&nbsp; infoq.com"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
