@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-09T10:38:22.114Z",
+    "generatedAt": "2026-08-09T12:58:29.257Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-09T11:31:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5"
+    },
     {
       "headline": "OpenAI acquires presentation startup NextSlide - TechCrunch",
       "source": "TechCrunch",
@@ -30,16 +40,6 @@
       "summary": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5"
-    },
-    {
-      "headline": "Visiting Anthropic’s Favorite Atomic Author - The Information",
-      "source": "The Information",
-      "timestamp": "2026-08-08T15:01:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Visiting Anthropic’s Favorite Atomic Author &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmZ5X1pETmlnejRYYXlsbHNyY2FER3o5QlNGZUpsUkNnQVAxQ1lwWlkxVkhXYU5Uajd4N0FGVGZkVUV1U0FKeVVwVmd0VjZLR2ZWQ09DaFhKT2FrYXE4dzNQV1QwWUktYmI0SFR2VmczTkE5WGlZMlNqcnRKYW9yVkI5SVB5N3Fka2M2YzFFaXlNbGh0SkZxYXdYQWZ5QQ?oc=5"
     },
     {
       "headline": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role - The Guardian",
@@ -82,38 +82,47 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmVuZHdnLVlNUVFseTZfbjlqWUM0dnhBeTk2OXY2T2lZbkJ6UUVZRVFkWmRmeGs4Q2VSemp2NzUyZXZGVk80SlhsekJpTDNkODJ2UTFhY3ZNZHYtTXlPWTZQMldnZG1fblV5QTRwOHl0ck4wNWNSZDA2aGFKOTJwQ0pJUTAtQWhlR01PWUh3RzZPZ2p1OHc?oc=5"
     },
     {
-      "headline": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off - businessinsider.com",
-      "source": "businessinsider.com",
+      "headline": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off - Business Insider",
+      "source": "Business Insider",
       "timestamp": "2026-08-07T20:32:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off &nbsp;&nbsp; businessinsider.com",
+      "summary": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2UyYTBxQkdqMFFmaE1mNHJIbkl5NGxReFRkX25xanZ3V2ZJNE1Hc24zek41bGhHRllqVGRTZkxPTGtuTzZRWkZTMktWdlk4bUVwUDQ2WFhoQWx4RmJSaW5GRV9la2RjMFlyTGM4bFF5Ykl3Sk1JSUJ1RkllMEZUUVJudw?oc=5"
     },
     {
-      "headline": "Responding to the next frontier of critical cyber capabilities - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-08-07T16:37:16.000Z",
+      "headline": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive” - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-08-07T17:36:22.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Responding to the next frontier of critical cyber capabilities &nbsp;&nbsp; OpenAI",
+      "summary": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive” &nbsp;&nbsp; Ars Technica",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHdHRHlBTDUzN2RJTFo5azdHOXRNWFFDbkR1UFNncEFlVnY4dFFhUTh6WVQ4aVhtNnZ5NTM1djFkZHFseE93d2hoZmJWMGd3ZkZoYXhkaHBySzRfTXRORHVWZFh5RFF2bnNQcVY1aV80cHBEWTF6OVZoVzduMWxidld0VkNFaExRbnk1MGJVcEVycFhRbnhxSWk3VWd3R2hmNVNIcFg1X1FnWnJSb1NFdk1CTQ?oc=5"
     },
     {
-      "headline": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains. Here's Why That Matters for Investors - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-08-07T16:07:00.000Z",
+      "headline": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook - S&P Global",
+      "source": "S&P Global",
+      "timestamp": "2026-08-07T06:01:54.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains. Here's Why That Matters for Investors &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Microsoft postQ: Azure $100B milestone as AI demand lifts earnings and outlook &nbsp;&nbsp; S&P Global",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjZkZnRxWDZIbFJoczVfQVd0SlZMZGg1eTFDTzdTTGRNWVF3UFFZVUF4eWptMDZyMUg5SC1PUnFFbTBob3hJaHY1TlJIbTJySmFMTThVMFBVYl9fMzJaYjA0VENSSVVDVlJiRTV0QURZRnplMmVmZ0FwZkk3NXNGSmtoUGhTNG1zcEQ2cVVqNnlxOWJZUzhFMFFZaEdfQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVlCc2ctV2tJUTVOUGMxbWRNajdhd1dmRS1yU1c3MDN3dU1wSkt1cFhGclpnd2VqTVc0Q3g5UFVrZjY4U0cwandHZDlwMWtBVTlFS20zN1hCbUdPSUtzV01sN3dVdk9PbUozNDdfTXN0czRJdGdWbC0wQVVhWUhhcHJJaWFWSllLUHBrekZlTFJBMDVnTDVSSlZGcEVqaFFabkNObFNHbzhuWEJabFhOelo1RTdoSHZhSXo2QWM3SDVmMGlSNXBXX3NINjdFc1l2MzBwdU0zd2I4ZkhIX3U4UUVhUTJES3lGeXF3dFJwRQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-08-09T11:31:42.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
+        "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC"
+      },
       {
         "headline": "OpenAI acquires presentation startup NextSlide - TechCrunch",
         "source": "TechCrunch",
@@ -131,15 +140,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
         "summary": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Visiting Anthropic’s Favorite Atomic Author - The Information",
-        "source": "The Information",
-        "timestamp": "2026-08-08T15:01:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmZ5X1pETmlnejRYYXlsbHNyY2FER3o5QlNGZUpsUkNnQVAxQ1lwWlkxVkhXYU5Uajd4N0FGVGZkVUV1U0FKeVVwVmd0VjZLR2ZWQ09DaFhKT2FrYXE4dzNQV1QwWUktYmI0SFR2VmczTkE5WGlZMlNqcnRKYW9yVkI5SVB5N3Fka2M2YzFFaXlNbGh0SkZxYXdYQWZ5QQ?oc=5",
-        "summary": "Visiting Anthropic’s Favorite Atomic Author &nbsp;&nbsp; The Information"
       },
       {
         "headline": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role - The Guardian",
