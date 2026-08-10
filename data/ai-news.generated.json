@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-10T10:19:53.541Z",
+    "generatedAt": "2026-08-10T11:50:19.774Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,36 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI pauses Astra model development over cyberattack concerns - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-08-10T11:35:46.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI pauses Astra model development over cyberattack concerns &nbsp;&nbsp; qz.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oMU44YjlTclkxazlUMjhKdmlLczRNbkwtUC1DWWlyZmxUa1ZBbldxSUpIeVA2YmZjeFphS0hMcy1kY0xPa1JMZFMtZXRVYkd0SXlDTEtRU0JfMmZzb2d3Qk95X2pIVjlPWE1JbTMzVWk1SHhPY2lqZDBhM3Q?oc=5"
+    },
+    {
+      "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’ - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-10T11:00:01.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’ &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tUDBsaGtPaDRHcUtpSXVIeWlpSmJjWXNhMV9oOGFKZzZhS1l1YjA3a2hQSTBKS3pKMnZSbTl3d0c5aVBYU2Fxb19Fd0pSYk92cUZYNDh2bjZ4elUzNEJES0l1N1FBcXctQVJ2WEh5cE16MjlrVDNFc0JR0gF_QVVfeXFMUG1jU2FXTHhyMzJVa3dnUjEtS20zN2ZjUF9XbFF4YUxxZlBJSnp0WXVyMXZSX3JLcVpjcENtYmxlYktxdmxnNG83YlU5dTk0cmpCLXo3SU0zazNkbEdBbjk1eWRmbVJ6dDZwdG9xZlY1MmFQV3NzRGYyOXR2QkRsVQ?oc=5"
+    },
+    {
+      "headline": "Zuckerberg: AI's biggest risk is one entity with too much control - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-10T10:05:24.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9raUNvWHA4bzA0RzB1R2JSNThzMVRYQm1WM2RvTjZKd2hDb0VScWpuZHNsdnNHYkhyMjRfUE1FbmhyclFYazFRaUVRNVUtWUx3cXNFV2RlemtQNzk5NmFsc3pjNmJ2MldMZkgxNm1R?oc=5"
+    },
+    {
       "headline": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-08-10T10:00:14.000Z",
@@ -22,24 +52,34 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5"
     },
     {
-      "headline": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay. - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-08-10T10:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay. &nbsp;&nbsp; Forbes",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWFhUzRVSzY4aVIwRng0LW9nUnJlV2ZjSE8td0NaclBmZ21CdmZpNzA1SDMySmgxT0ZtMFp1QjlHWUlyT05XSnVacXhHSVZtZmNrdXMxWFd3WVMySGFocGRtTnJHWU55ZFBfUlJVcm9LWHlKNFJ2b3gwVHNzTUFqNlB2ak9OT0pzLXlybklQZzhBUnlMQ0JjWHJfUlhYQ1c4RkNvUGktNThEeHgtUU40OEhDWFJFMVpadGxzdzBENFY?oc=5"
+      "headline": "Behind the exit of DeepMind’s CEO: low morale, a talent exodus, and model delays - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-08-10T09:05:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Behind the exit of DeepMind’s CEO: low morale, a talent exodus, and model delays &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkZNSkhLcTM2Y3Q5ek9mLXBnUF9uV3NISUwtZC1fejlmVkl0ZF9JYXB2clFBempPR0JxaUNDX3BEcWFTRVdQb0l6elZPVmlHVnhEMElkY09kanVYa1duak4yRFBFempKeU5KVDBEM2ZnNVduWXlnMUU1c01VQ0NtajNZZ3JCdUc1V2NKdjI4N2hJcFFJWWhxNTJOa3dscXhnUWM4NDN6d3hfY0JjT3doVGhZeElwaVNfMUVSYXJ3a3lxaEg5eHFF?oc=5"
     },
     {
-      "headline": "AI's fear factor hits a fever pitch - Axios",
-      "source": "Axios",
-      "timestamp": "2026-08-10T08:59:59.000Z",
+      "headline": "They said they would build AI safely. Then it went rogue. - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-08-10T09:02:09.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "AI's fear factor hits a fever pitch &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Ty1WLWJ0bmdYNmZuVnRYRi0yam8yTFE1TzVJam1JZjhfMHJnekdXajZjYzlLejFPX3FiZVNnT0lfTmZFUFk1YkVCZG5jVnl5RkFSc1h2SFlnekRpZWNrMTAwUExld3BqVDNoa1VJNkYzWE9qUWdwTQ?oc=5"
+      "category": "ecosystem",
+      "summary": "They said they would build AI safely. Then it went rogue. &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5"
+    },
+    {
+      "headline": "Domcura cuts claims payout time to 10 minutes and operational costs by 50 per cent with Microsoft Foundry and Azure - Technology Record",
+      "source": "Technology Record",
+      "timestamp": "2026-08-10T04:36:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Domcura cuts claims payout time to 10 minutes and operational costs by 50 per cent with Microsoft Foundry and Azure &nbsp;&nbsp; Technology Record",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYzVFeVZxU3dmQmVKbDA2ellfb0hCVmU3SURGdGZnWVkwb2dkNkxUeXRHVXlRMnZqVXZISzBpRzctT0FwU0p1Q1NjQUkyRlQzOFptZFVHeGE0LUk0cWxxX3M2OWVuYlVkeVNBcFhPNVRha3M5cllsVm16WXl1NDJaV19iZkZPSzdlUlFudnZLVEI5MGFoN09abzBobE94eW5USkJZZ2tzUHMzRXpiTHFabTNUWmFQdFRsbzk4ZGFEYUpNRDRsTmM0RmRtTFhJVWxKMHNNemk2aTZ3OTRYbFVsNjlLcDhQblBER05rWg?oc=5"
     },
     {
       "headline": "Anthropic is turning Claude Code’s auto mode on by default - TechCrunch",
@@ -55,9 +95,9 @@
       "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
       "source": "CNBC",
       "timestamp": "2026-08-09T11:31:42.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC How Israeli startup Irregular was linked to rogue AI hacks at OpenAI, Anthropic and Meta: report &nbsp;&nbsp; Seeking Alpha AI models shock UK testers by using fake identities to try to trick developers &nbsp;&nbsp; The Guardian",
+      "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5"
     },
@@ -70,50 +110,37 @@
       "summary": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit &nbsp;&nbsp; the-decoder.com",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEh3RVhKbjN5cTFxaTJ1bVFvUHpLdjZSMnZ0YUZnR0JKY2ZOb1RoOEdSaklXVkZFYUZRb3oxS2YwZkVPYmxHRXpuRFFYZmFYOU9ObmZvRVA5em4zSjMyMGtXdGxoTmpYb2VZU0l2T0Zud0xQZXhtOWRtMmIzZHJJTWNiNm5xZVFNUWl0SWJPSkhMSWR5WVdaTTZwMHltM19CQ2xUeWpJX09vWG1x?oc=5"
-    },
-    {
-      "headline": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-08T16:51:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5"
-    },
-    {
-      "headline": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-08T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUxFdFZEQm5tX1NHY0xUQkwzeWFjbkhmYTdPNFJUTlVxVkxlSmMtUlBnTVpjTlVrZ2pzcW42VVN3b3gtdW1RcWcwa2dBZHhmSEhodXBYU3VNU0E5RmlNT3lfQnVsemx5UmkyOUtPdXlna0pGRlhmdXk4UmhZbmoyRE1fTXMxNWtxcFNfOWpuMFBWNTY3RXZiNQ?oc=5"
-    },
-    {
-      "headline": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-08T01:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere. &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjUtVFpXLVlBTFVCUnZTMWdRa3o3NktaWjlsdGpXUUtFS1Z6MTJpSmtCVG5FTlBvcS1wZDhSRWZ2WVVSTmZ5T0sxejBtN0FhMDRwZU54WnU0WDU1N2hzMGgxV3JCbjY0a3FZXzhMd1pvR2tCRlFLY1ROSXQ0ZHdUdlZ4RU9OMWt1Z0RWdzExQQ?oc=5"
-    },
-    {
-      "headline": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' - Common Dreams",
-      "source": "Common Dreams",
-      "timestamp": "2026-08-07T21:11:35.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "DuckDuckGo Releases 'Normal Sunglasses' to Troll Meta's AI-Powered 'Pervert Glasses' &nbsp;&nbsp; Common Dreams",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tT194LXRpQ1dpS1lHOVdvV2ZvRnlzZm40LVVUcmx2Mmp2NkhER1psWS1ZaTh3NGlSZ2NfNkY2UmFLWVJFbjhGSmFBM3FPbTdKbnc0NXZRS01sMHNRbDhnTHBjaDkwTFc1c0h5X1JfLVY?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI pauses Astra model development over cyberattack concerns - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-08-10T11:35:46.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oMU44YjlTclkxazlUMjhKdmlLczRNbkwtUC1DWWlyZmxUa1ZBbldxSUpIeVA2YmZjeFphS0hMcy1kY0xPa1JMZFMtZXRVYkd0SXlDTEtRU0JfMmZzb2d3Qk95X2pIVjlPWE1JbTMzVWk1SHhPY2lqZDBhM3Q?oc=5",
+        "summary": "OpenAI pauses Astra model development over cyberattack concerns &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’ - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-08-10T11:00:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tUDBsaGtPaDRHcUtpSXVIeWlpSmJjWXNhMV9oOGFKZzZhS1l1YjA3a2hQSTBKS3pKMnZSbTl3d0c5aVBYU2Fxb19Fd0pSYk92cUZYNDh2bjZ4elUzNEJES0l1N1FBcXctQVJ2WEh5cE16MjlrVDNFc0JR0gF_QVVfeXFMUG1jU2FXTHhyMzJVa3dnUjEtS20zN2ZjUF9XbFF4YUxxZlBJSnp0WXVyMXZSX3JLcVpjcENtYmxlYktxdmxnNG83YlU5dTk0cmpCLXo3SU0zazNkbEdBbjk1eWRmbVJ6dDZwdG9xZlY1MmFQV3NzRGYyOXR2QkRsVQ?oc=5",
+        "summary": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’ &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Zuckerberg: AI's biggest risk is one entity with too much control - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-10T10:05:24.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9raUNvWHA4bzA0RzB1R2JSNThzMVRYQm1WM2RvTjZKd2hDb0VScWpuZHNsdnNHYkhyMjRfUE1FbmhyclFYazFRaUVRNVUtWUx3cXNFV2RlemtQNzk5NmFsc3pjNmJ2MldMZkgxNm1R?oc=5",
+        "summary": "Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios"
+      },
       {
         "headline": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model - The New York Times",
         "source": "The New York Times",
@@ -124,49 +151,22 @@
         "summary": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay. - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-08-10T10:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWFhUzRVSzY4aVIwRng0LW9nUnJlV2ZjSE8td0NaclBmZ21CdmZpNzA1SDMySmgxT0ZtMFp1QjlHWUlyT05XSnVacXhHSVZtZmNrdXMxWFd3WVMySGFocGRtTnJHWU55ZFBfUlJVcm9LWHlKNFJ2b3gwVHNzTUFqNlB2ak9OT0pzLXlybklQZzhBUnlMQ0JjWHJfUlhYQ1c4RkNvUGktNThEeHgtUU40OEhDWFJFMVpadGxzdzBENFY?oc=5",
-        "summary": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay. &nbsp;&nbsp; Forbes"
-      },
-      {
-        "headline": "AI's fear factor hits a fever pitch - Axios",
-        "source": "Axios",
-        "timestamp": "2026-08-10T08:59:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Ty1WLWJ0bmdYNmZuVnRYRi0yam8yTFE1TzVJam1JZjhfMHJnekdXajZjYzlLejFPX3FiZVNnT0lfTmZFUFk1YkVCZG5jVnl5RkFSc1h2SFlnekRpZWNrMTAwUExld3BqVDNoa1VJNkYzWE9qUWdwTQ?oc=5",
-        "summary": "AI's fear factor hits a fever pitch &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Anthropic is turning Claude Code’s auto mode on by default - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-08-09T19:20:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUhsdFk2X0hXZVBLOFBkUEZHR3FCLVEweG5WSHVaYnJFNnhlOGtVWUxOaVNGNDhXZzNJR1JtbnlJWnZseFF0NGt2bFBRTnJldGdOb19zVnhHQ3MzNzg4ODY5MVJvamFETV83bUhGc3JmenoxRmNzTnZOWXlhYU45VmVpamRveDIwT1Ytc2xLTV9YZUp0MFdN?oc=5",
-        "summary": "Anthropic is turning Claude Code’s auto mode on by default &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-08-09T11:31:42.000Z",
+        "headline": "Behind the exit of DeepMind’s CEO: low morale, a talent exodus, and model delays - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-08-10T09:05:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
-        "summary": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC How Israeli startup Irregular was linked to rogue AI hacks at OpenAI, Anthropic and Meta: report &nbsp;&nbsp; Seeking Alpha AI models shock UK testers by using fake identities to try to trick developers &nbsp;&nbsp; The Guardian"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkZNSkhLcTM2Y3Q5ek9mLXBnUF9uV3NISUwtZC1fejlmVkl0ZF9JYXB2clFBempPR0JxaUNDX3BEcWFTRVdQb0l6elZPVmlHVnhEMElkY09kanVYa1duak4yRFBFempKeU5KVDBEM2ZnNVduWXlnMUU1c01VQ0NtajNZZ3JCdUc1V2NKdjI4N2hJcFFJWWhxNTJOa3dscXhnUWM4NDN6d3hfY0JjT3doVGhZeElwaVNfMUVSYXJ3a3lxaEg5eHFF?oc=5",
+        "summary": "Behind the exit of DeepMind’s CEO: low morale, a talent exodus, and model delays &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit - the-decoder.com",
-        "source": "the-decoder.com",
-        "timestamp": "2026-08-09T09:01:48.000Z",
+        "headline": "They said they would build AI safely. Then it went rogue. - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-08-10T09:02:09.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEh3RVhKbjN5cTFxaTJ1bVFvUHpLdjZSMnZ0YUZnR0JKY2ZOb1RoOEdSaklXVkZFYUZRb3oxS2YwZkVPYmxHRXpuRFFYZmFYOU9ObmZvRVA5em4zSjMyMGtXdGxoTmpYb2VZU0l2T0Zud0xQZXhtOWRtMmIzZHJJTWNiNm5xZVFNUWl0SWJPSkhMSWR5WVdaTTZwMHltM19CQ2xUeWpJX09vWG1x?oc=5",
-        "summary": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit &nbsp;&nbsp; the-decoder.com"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5",
+        "summary": "They said they would build AI safely. Then it went rogue. &nbsp;&nbsp; The Washington Post"
       }
     ],
     "whyItMatters": [
@@ -178,15 +178,15 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
