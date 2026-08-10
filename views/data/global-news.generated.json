@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-10T14:55:58.963Z",
+    "generatedAt": "2026-08-10T15:59:15.496Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "July US container imports hit fourth-highest on record, Descartes says",
+      "summary": "July US container imports hit fourth-highest on record, Descartes says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-10T14:24:27.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFp5eTRqbmJxRHF0bkxpcUZmQ1NEX1NrVVlRdFltLTY4V3dROGhnT01PUTZxZzVkN3R3bDcyRHdWNVIzclktOVdub0pWLW5raUJ5WWxNU3JLb3hQVll0YkVWV2pQc0dSaTJGaFJoMXJnSVFsUVVGYkZjWDFqck0wRkc5OWhfaGxPOWp5S0Z4ZzBMRnZwNGRqN0lDYk1MdjU3end0cEhsaVVqRGkyZ0V1UmkxWlYxNFVRTlJZSElSWHI5alV4eHc?oc=5"
+    },
     {
       "headline": "Seven Uzbek citizens killed in drone attack on Russia's Tatarstan region, consulate says",
       "summary": "Seven Uzbek citizens killed in drone attack on Russia's Tatarstan region, consulate says &nbsp;&nbsp; Reuters",
@@ -23,15 +34,15 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDRsNl91NjlHVzFqX2pOS2dJN3AwT2xORTBFZ3ZhLWtLb3hheURDM1UyZzVWQ0dVVm9LbElpSWZ3TUZLSHpNLUVCbW9uSUFNYnB5bl9XZ1VHWjFydkRoOG9tY2lqRUd1cE1lX1djS290eGxnYkdiOHVhazhPSVYtZTViMUkxckNkXzh1bzF4VjZnbl92ZE9lXzhubWN6V0dzUXFzVmxJZ1FidDZaV0xGZmNxR08wOWxWOVV5VnlTcWJvSHFOSFlvekJZeUpNZUNR?oc=5"
     },
     {
-      "headline": "Amazon founder Bezos nears deal to buy stake in Liverpool, reports say",
-      "summary": "Amazon founder Bezos nears deal to buy stake in Liverpool, reports say &nbsp;&nbsp; Reuters",
+      "headline": "GameStop weighing withdrawal of eBay bid, Bloomberg News reports",
+      "summary": "GameStop weighing withdrawal of eBay bid, Bloomberg News reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-08-10T12:53:19.000Z",
+      "timestamp": "2026-08-10T13:41:34.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0NZVVBQN29pSF9hR2lOYTZpQXB3NUFPSk0xbVVHWk04ZjJ6Tl9la2NmUGFfTG5HaUVEN0d5aVI5SjRiZjFmelU4U01NdHBoaVVMWnpza2RBWERPc2NabndHU1dwTG5FMW9NMzZlelpfNHRCeVNUcjZSb05ndnVONjUtenQyc0Z3aVA4UXBESXJfQjNRakpVZ0VKeE5qVi1Nd3c0aHNoQmxzcDFoNnF4RHgweFVBUXlIZGVGdEhn?oc=5"
     },
     {
       "headline": "EXCLUSIVE: Ukraine cuts grain export forecast due to Russia attack on seaports",
@@ -54,17 +65,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBEVG1SUHZxZmRmdkNDQzUwSnFRTEF2SVFBWUF6SmZlTDZlb0tGa1V1dE5OZFFGVU5EQXhHd0QteldVRkhySVprMVd2TFh5aFA5S2thQjFKX1hsajBlSHBTM2tFNkRuVmpTR3ExSUVQcEcyVExxNVpRZVkwZnBFT1hpV01BcDc5anBpZmF3MHkwd05UZ3BWWTR5TTlaQXdFSkNsX19IMzl3UTZMVmx5RFhsRjdJNHRfMmc?oc=5"
-    },
-    {
-      "headline": "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-      "summary": "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-10T11:35:26.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFducWRWa3BFR0MtLTM1TkdwRG82VDAwZndhU3Q3Y3piejFoR3pJWlZpTkpZOWIxSXo0QldwZmZDWkNta0t0c183OVcwYTg4b0Q5Qzc1YmFpTVNIV2IwbERDS1Fsby1WN2JVbkRMa05RdXJCTF9zMGZ0RkVUVXptb3B5T2hBTm1fclJGV0lxblVKSFhuY2FTbXBXRTFPYVNWajZEOE0tS0NYdGR4OGdKeUh4TjVjZw?oc=5"
     },
     {
       "headline": "German foreign ministry says Gaza plan could lead towards disarmament of Hamas",
@@ -92,7 +92,7 @@
       "headline": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms",
       "summary": "Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-08-10T10:15:15.000Z",
+      "timestamp": "2026-08-10T10:05:43.000Z",
       "impact": "HIGH",
       "region": "United States",
       "category": "trade",
