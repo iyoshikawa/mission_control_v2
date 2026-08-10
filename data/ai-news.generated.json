@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-10T20:47:25.417Z",
+    "generatedAt": "2026-08-10T21:45:41.365Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-10T19:48:45.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5"
+    },
+    {
       "headline": "Microsoft Rethinks Its Nvidia Reliance - TradingView",
       "source": "TradingView",
       "timestamp": "2026-08-10T18:52:18.000Z",
@@ -20,16 +30,6 @@
       "summary": "Microsoft Rethinks Its Nvidia Reliance &nbsp;&nbsp; TradingView",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnhjRHkwQ2YtcFBobzRJSTgybDJSaUdUbEMwZXEzR2lzMW5pckVHNHVzSlRvNWR1RmtqdVhvNDFfbUZlU3M2MlNEXzJKZ3pIeTVXQUh5eDlYTk84dlF0VVBia3paUW9LNG55anlneDJER3Uxc2xMVnNtc29Yd2I1RHI0YjhEMkoyWDFRTnJJazhWOG9wXzdQbjBjRkF0M1k?oc=5"
-    },
-    {
-      "headline": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-10T18:38:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ18zbnlzSVFUSVhvNHgwbXh6dG1fcmJMREFYVTBSb2hrZUxxQWJ4SHlVVU5iODA4SXJPVW4zODdQTVc3aU40cHZWbDg4Z2QwbndGaEpfVE4tajdNUTlHbXozZkg4VHJUMDA5VWNYdlhrQ2ZObFM3ZDVab01rd1BOT0U0WDl4ZEZwNVRXNTh5a0ZJUnJvNDBYT1Fna0hYdGdvbVQ2RjJCb0poajJGTnNkNS1tVHN5Ri1QWnc?oc=5"
     },
     {
       "headline": "Learning more about Claude's mathematical capabilities - Anthropic",
@@ -52,13 +52,23 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEx3dTFaeDJuXzJTOXRxYmtxYUFlYTk1UTVxX2F3RVg5c2lncFZHQm5TS3hvTEJaUzFZUk4tU0ZKNUtSZy1aU1dSY2JaYkRDQ05aSDNOUTZOeWVpUG1ZNjJ5a3lqLUF5VUZ4b0JQcWRIVzFCcGVCTm5GbzNkT3p6eXZPSHhCZHhrWWNCM0I1MUo?oc=5"
     },
     {
+      "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-10T16:20:13.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5"
+    },
+    {
       "headline": "AI models are breaking out of their cages. Their creators are scrambling. - The Washington Post",
       "source": "The Washington Post",
       "timestamp": "2026-08-10T16:00:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "AI models are breaking out of their cages. Their creators are scrambling. &nbsp;&nbsp; The Washington Post How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC US House Democrats press Anthropic, OpenAI about rogue AI agents &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "summary": "AI models are breaking out of their cages. Their creators are scrambling. &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5"
     },
     {
@@ -67,18 +77,18 @@
       "timestamp": "2026-08-10T15:22:45.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power &nbsp;&nbsp; Yahoo Finance Meta Unveils an Open Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence &nbsp;&nbsp; 404 Media Zuckerberg lays out vision to put superintelligent AI in everyone's hands &nbsp;&nbsp; Fox Business Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC Meta Releases Scaled-Down AI Model Consumers Can Use at Home &nbsp;&nbsp; Bloomberg.com Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models &nbsp;&nbsp; Financial Times Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’ &nbsp;&nbsp; Variety Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; Reuters",
+      "summary": "Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power &nbsp;&nbsp; Yahoo Finance Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios Zuckerberg lays out vision to put superintelligent AI in everyone's hands &nbsp;&nbsp; Fox Business Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC Meta Unveils an Open Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models &nbsp;&nbsp; Financial Times Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; Reuters Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’ &nbsp;&nbsp; Variety Meta Releases Scaled-Down AI Model Consumers Can Use at Home &nbsp;&nbsp; bloomberg.com",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc3k5VzRlMklXNzZLeDJLWWhwOGdTVmhxdm5WeDU0WndXZFV2OEdYYUJRRk9PM3k0M3hFbWJtcHZvbFAtNG1jcVRlZFBGT3FGNlhacXV0WW5CSnp0b05DSjFzSjFNbG1WTWpvSEhnVUZfdXZRRXBQMjBHQ0tqYXBkZEs3amhzem11T0x0NFZlZGpIeUNubEt6OW1ndjdfcW5CV1RVZHU2c1pnWGpsdnRVZWZkVFNWbWZPMEgyZnYtS1NGN3k0Q2NuTngtZG9rYk43MHRhSjA4b1Z6Si1YMGhCZ1FqQkZNVTg3?oc=5"
     },
     {
-      "headline": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips - techzine.eu",
-      "source": "techzine.eu",
+      "headline": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips - Techzine Global",
+      "source": "Techzine Global",
       "timestamp": "2026-08-10T14:04:02.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips &nbsp;&nbsp; techzine.eu",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "category": "ecosystem",
+      "summary": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips &nbsp;&nbsp; Techzine Global",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmRvd1cxcWFFRU5EWW44ZzBvdlZnb3ZfRGRRYjRHQnRuT0J5TzhhNHdWWk9HSHVCbFpGUlZwd0ZuaDR4VDl5ZThJZlZZM25hTkxRRzlOUUh6OFJxVGxLM1NQZXlkVXV4TGc3amMybTl0dEpXQmszelY4ZUlaVUNDVllEVFYtOWpTMll1dnN2WTg4dHhJZTFGS1pSREdRUWkzckEzLXJ4dktyZVdFOUtGamloTC1DZFc0RmItMw?oc=5"
     },
     {
@@ -100,20 +110,19 @@
       "summary": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5"
-    },
-    {
-      "headline": "Zuckerberg: AI's biggest risk is one entity with too much control - Axios",
-      "source": "Axios",
-      "timestamp": "2026-08-10T10:33:58.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9raUNvWHA4bzA0RzB1R2JSNThzMVRYQm1WM2RvTjZKd2hDb0VScWpuZHNsdnNHYkhyMjRfUE1FbmhyclFYazFRaUVRNVUtWUx3cXNFV2RlemtQNzk5NmFsc3pjNmJ2MldMZkgxNm1R?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-08-10T19:48:45.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+        "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents &nbsp;&nbsp; Reuters"
+      },
       {
         "headline": "Microsoft Rethinks Its Nvidia Reliance - TradingView",
         "source": "TradingView",
@@ -122,15 +131,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnhjRHkwQ2YtcFBobzRJSTgybDJSaUdUbEMwZXEzR2lzMW5pckVHNHVzSlRvNWR1RmtqdVhvNDFfbUZlU3M2MlNEXzJKZ3pIeTVXQUh5eDlYTk84dlF0VVBia3paUW9LNG55anlneDJER3Uxc2xMVnNtc29Yd2I1RHI0YjhEMkoyWDFRTnJJazhWOG9wXzdQbjBjRkF0M1k?oc=5",
         "summary": "Microsoft Rethinks Its Nvidia Reliance &nbsp;&nbsp; TradingView"
-      },
-      {
-        "headline": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-08-10T18:38:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ18zbnlzSVFUSVhvNHgwbXh6dG1fcmJMREFYVTBSb2hrZUxxQWJ4SHlVVU5iODA4SXJPVW4zODdQTVc3aU40cHZWbDg4Z2QwbndGaEpfVE4tajdNUTlHbXozZkg4VHJUMDA5VWNYdlhrQ2ZObFM3ZDVab01rd1BOT0U0WDl4ZEZwNVRXNTh5a0ZJUnJvNDBYT1Fna0hYdGdvbVQ2RjJCb0poajJGTnNkNS1tVHN5Ri1QWnc?oc=5",
-        "summary": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "Learning more about Claude's mathematical capabilities - Anthropic",
@@ -151,22 +151,22 @@
         "summary": "OpenAI introduces a new cyber model amid fears of AI cyberattacks &nbsp;&nbsp; Axios"
       },
       {
+        "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-08-10T16:20:13.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
+        "summary": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision &nbsp;&nbsp; TechCrunch"
+      },
+      {
         "headline": "AI models are breaking out of their cages. Their creators are scrambling. - The Washington Post",
         "source": "The Washington Post",
         "timestamp": "2026-08-10T16:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5",
-        "summary": "AI models are breaking out of their cages. Their creators are scrambling. &nbsp;&nbsp; The Washington Post How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta &nbsp;&nbsp; CNBC US House Democrats press Anthropic, OpenAI about rogue AI agents &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-08-10T15:22:45.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc3k5VzRlMklXNzZLeDJLWWhwOGdTVmhxdm5WeDU0WndXZFV2OEdYYUJRRk9PM3k0M3hFbWJtcHZvbFAtNG1jcVRlZFBGT3FGNlhacXV0WW5CSnp0b05DSjFzSjFNbG1WTWpvSEhnVUZfdXZRRXBQMjBHQ0tqYXBkZEs3amhzem11T0x0NFZlZGpIeUNubEt6OW1ndjdfcW5CV1RVZHU2c1pnWGpsdnRVZWZkVFNWbWZPMEgyZnYtS1NGN3k0Q2NuTngtZG9rYk43MHRhSjA4b1Z6Si1YMGhCZ1FqQkZNVTg3?oc=5",
-        "summary": "Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power &nbsp;&nbsp; Yahoo Finance Meta Unveils an Open Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times Mark Zuckerberg Posts Deranged 6,500-Word Essay About Giving Everyone AI Superintelligence &nbsp;&nbsp; 404 Media Zuckerberg lays out vision to put superintelligent AI in everyone's hands &nbsp;&nbsp; Fox Business Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC Meta Releases Scaled-Down AI Model Consumers Can Use at Home &nbsp;&nbsp; Bloomberg.com Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models &nbsp;&nbsp; Financial Times Mark Zuckerberg Says He’s Surprised the ‘Discourse’ From AI Companies ‘Is So Filled With Doom’ &nbsp;&nbsp; Variety Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; Reuters"
+        "summary": "AI models are breaking out of their cages. Their creators are scrambling. &nbsp;&nbsp; The Washington Post"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
