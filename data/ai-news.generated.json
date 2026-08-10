@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-10T15:02:17.992Z",
+    "generatedAt": "2026-08-10T16:56:48.908Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Scientists Used OpenAI To Create 16 New Viruses Not Seen In Nature But Will This Hurt More Than Help? - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-08-10T14:23:30.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scientists Used OpenAI To Create 16 New Viruses Not Seen In Nature But Will This Hurt More Than Help? &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHQ5VXlpT2gza3FiRGMtVFJIN3FJRmM5cGtuc3ZfRTRrR0ZLNGg5WHpaZ3lrYUFUYklRSWVWUlJJa01iLXRrMEMxWXFrY1I5dUtNa1lqOXJyVkJadWkycUxOVjlCaGxzdlFtUnEyXzBLYWdyZUZDR240R2ppSlE4TWpRTVg4MllfMTktV0hSZVp5VHFkZ2c?oc=5"
+      "headline": "D.C. Uses Claude More Per Capita Than California. Its Paperwork Economy Explains Why - inc.com",
+      "source": "inc.com",
+      "timestamp": "2026-08-10T16:31:19.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "D.C. Uses Claude More Per Capita Than California. Its Paperwork Economy Explains Why &nbsp;&nbsp; inc.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZERudVpEUFZaMHllMlM5eGhEc0dnT2NwaWZWdFM3TFducHNFaW5CS2lNb2tKdWlNR2VXUHQ0Vk51eHI4VEtSZExlUjlIMjhCZlk2Q1lScjlyaWhMVV93X3ZBRm9TaWxBS3pKNkFsaWl6M1pOR1FGVFU4ZFlCR0NfVTVUajNNbEE5ZjBfd1JobE55a3dZNjdRUUFTSEZEQmdaWllNNFN0bS1GM0RyVlg1SUwzQjh1VU5rb1ZibA?oc=5"
     },
     {
-      "headline": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-08-10T14:05:18.000Z",
+      "headline": "Sanders asks AI giants to pause development, warning of congressional intervention - The Hill",
+      "source": "The Hill",
+      "timestamp": "2026-08-10T16:07:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas &nbsp;&nbsp; OpenAI",
+      "summary": "Sanders asks AI giants to pause development, warning of congressional intervention &nbsp;&nbsp; The Hill",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PbHdWX05rUm4wU0dZcHk2aDVZbzQ1dV9LbzI5VmJpV0RlbjhxUk43aUZ4S25LVHZuOXh3RThhRmZkR1dxOHRiS2ltNGx0YVRPdEd1dS10a0ZEUXhlSjB2M09qU1c0N0xsckE4WEdR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFlZYjVLakc5RlI5R0JwU0NtM2pUTmd6d0g5UGU2VEhDS1c3RU1IN0NQTmJCT1NPNV9KR2hLY2d3QjZsUWJkYmJ1TGcxNHV4YjFwMmNKX0hSajRVZ3VvNjFFNURRSlQ5ZENGZTRQbDlPQ3FxMkRLcXBXdmhfUGNjbE5ONVJDUdIBiwFBVV95cUxQX2FGWXYzVDNhRTdYT0RaNVBpdlJKQnRWNm9HTGtxc3NCUm1OTi10ekxUZXdpVFlFU0E1ZlpvNnYzelV4UGlOczJrVGdYbllpQVlma1NaS2cwaDNwTW1MUjBuS1NvQW5uMkVOUW5GTXFhMnBNUVZYdXA2VENyY0xJclBzWmlMUFViQ3FZ?oc=5"
+    },
+    {
+      "headline": "AI models are breaking out of their cages. Their creators are scrambling. - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-08-10T16:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "AI models are breaking out of their cages. Their creators are scrambling. &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5"
+    },
+    {
+      "headline": "What Rolex Tells Us About AI, Moats And The Future Of OpenAI - forbes.com",
+      "source": "forbes.com",
+      "timestamp": "2026-08-10T15:56:19.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What Rolex Tells Us About AI, Moats And The Future Of OpenAI &nbsp;&nbsp; forbes.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejZjWlQxdkhGV1dPQW1BSGsyUzVMeldSOTNnQk16YmktV3h6M0tLMmZ3VjNvZzJkVTViYWlXUVBYdi1SVW1lZ0ZKUDJWLWNzRGotbWFnM1ZTYlZTb1MzN1I5eGhSUDVHNFNlX2VROGxwOVdPUm9yVmNwSVRRNDFlNVNVNVlZUmlfWkNhODgzeWhVX2VUZm94VFdyb0s0UnNsYUM5MzRyUWNod3ZBLW5KeUNCMFJHQQ?oc=5"
+    },
+    {
+      "headline": "Meta Releases Scaled-Down AI Model Consumers Can Use at Home - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-10T15:51:04.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Releases Scaled-Down AI Model Consumers Can Use at Home &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFZWUXFCVWlhN3JRVjQtNkRWakExRERpS2Q4Q1B4dEZVUUxMOGlHTWc5cG5lVUYxV3ZkRnZZRlZmNUk5NmpGRVpHbWtTWmo1TlhKY041VmJNZWJvaW9RWkxseEhsYzhGVHgwUDFFRC1sb1hiWktidTlRNTV5V1lXYnIwSlI2dEVMMnpHN0xDd2RIYkc1RG9xLUJGZWRKX0I0dUxtOUFRU0tlVWRkOVdJNGN2VDFRQ0xy?oc=5"
     },
     {
       "headline": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips - Techzine Global",
@@ -42,24 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmRvd1cxcWFFRU5EWW44ZzBvdlZnb3ZfRGRRYjRHQnRuT0J5TzhhNHdWWk9HSHVCbFpGUlZwd0ZuaDR4VDl5ZThJZlZZM25hTkxRRzlOUUh6OFJxVGxLM1NQZXlkVXV4TGc3amMybTl0dEpXQmszelY4ZUlaVUNDVllEVFYtOWpTMll1dnN2WTg4dHhJZTFGS1pSREdRUWkzckEzLXJ4dktyZVdFOUtGamloTC1DZFc0RmItMw?oc=5"
     },
     {
-      "headline": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands - foxbusiness.com",
-      "source": "foxbusiness.com",
+      "headline": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands - Fox Business",
+      "source": "Fox Business",
       "timestamp": "2026-08-10T13:47:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands &nbsp;&nbsp; foxbusiness.com",
+      "summary": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands &nbsp;&nbsp; Fox Business",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
-    },
-    {
-      "headline": "Zuckerberg reveals new Meta AI model as US faces AI arms race - foxbusiness.com",
-      "source": "foxbusiness.com",
-      "timestamp": "2026-08-10T13:07:33.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Zuckerberg reveals new Meta AI model as US faces AI arms race &nbsp;&nbsp; foxbusiness.com Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times Zuckerberg announces new Meta AI superintelligence rollout &nbsp;&nbsp; foxbusiness.com Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; Reuters Meta Debuts New AI Model as CEO Shares ‘AI for Everyone’ Vision &nbsp;&nbsp; PYMNTS.com Mark Zuckerberg is pushing back on AI doomers in a 6,500 word essay &nbsp;&nbsp; qz.com Zuckerberg’s Essay Says the Future of AI Is Personal Superintelligence &nbsp;&nbsp; PYMNTS.com",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WWC1VeDZNVlRBZVFjZkxLUGgxckVHYUF5WUI1V3NuRmMwR19JeHhzYjlMYk5oWDVGVTVIaHFzNVM1Ml90cGJ6TWRVZjVrUnVoQkZIMEVoZHVGajg?oc=5"
     },
     {
       "headline": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers - Bloomberg.com",
@@ -79,58 +99,65 @@
       "category": "models",
       "summary": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-10T10:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0sxd0piWHUyX1lKbHhxTGVsUmNJckRFNXNjeGRfZzNJRUNYbUplVk52MEF1aFZ1dmxBVHJlbXdGOW5hNFFrWVdJaDA1dUUwRVNuYXRYWG1ETk80N3hKWkJoYXlVS0M1UlJJMjFyeVA5Y2FBaFR4UXluRXRUNFlFQXViTl95N3pDWTladnJuUjM0dlBZUmhEMVVYdw?oc=5"
-    },
-    {
-      "headline": "Behind the exit of DeepMind’s CEO: low morale, a talent exodus, and model delays - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-08-10T09:05:00.000Z",
+      "headline": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-10T10:00:15.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Behind the exit of DeepMind’s CEO: low morale, a talent exodus, and model delays &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkZNSkhLcTM2Y3Q5ek9mLXBnUF9uV3NISUwtZC1fejlmVkl0ZF9JYXB2clFBempPR0JxaUNDX3BEcWFTRVdQb0l6elZPVmlHVnhEMElkY09kanVYa1duak4yRFBFempKeU5KVDBEM2ZnNVduWXlnMUU1c01VQ0NtajNZZ3JCdUc1V2NKdjI4N2hJcFFJWWhxNTJOa3dscXhnUWM4NDN6d3hfY0JjT3doVGhZeElwaVNfMUVSYXJ3a3lxaEg5eHFF?oc=5"
-    },
-    {
-      "headline": "Anthropic is turning Claude Code’s auto mode on by default - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-09T19:20:32.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic is turning Claude Code’s auto mode on by default &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUhsdFk2X0hXZVBLOFBkUEZHR3FCLVEweG5WSHVaYnJFNnhlOGtVWUxOaVNGNDhXZzNJR1JtbnlJWnZseFF0NGt2bFBRTnJldGdOb19zVnhHQ3MzNzg4ODY5MVJvamFETV83bUhGc3JmenoxRmNzTnZOWXlhYU45VmVpamRveDIwT1Ytc2xLTV9YZUp0MFdN?oc=5"
+      "summary": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times Zuckerberg manifesto pushes an open-source approach on AI as Meta releases its latest model &nbsp;&nbsp; Pioneer Press Decoding AI: META's new AI model 'Muse Glimmer' can run on your device. Here is what you can expect. &nbsp;&nbsp; CNN Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; Reuters Zuckerberg reveals new Meta AI model as US faces AI arms race &nbsp;&nbsp; Fox Business Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models &nbsp;&nbsp; Financial Times Meta’s New Open-Weight Model Can Run AI Agents on Your Laptop &nbsp;&nbsp; CNET",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Scientists Used OpenAI To Create 16 New Viruses Not Seen In Nature But Will This Hurt More Than Help? - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-08-10T14:23:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHQ5VXlpT2gza3FiRGMtVFJIN3FJRmM5cGtuc3ZfRTRrR0ZLNGg5WHpaZ3lrYUFUYklRSWVWUlJJa01iLXRrMEMxWXFrY1I5dUtNa1lqOXJyVkJadWkycUxOVjlCaGxzdlFtUnEyXzBLYWdyZUZDR240R2ppSlE4TWpRTVg4MllfMTktV0hSZVp5VHFkZ2c?oc=5",
-        "summary": "Scientists Used OpenAI To Create 16 New Viruses Not Seen In Nature But Will This Hurt More Than Help? &nbsp;&nbsp; Yahoo"
+        "headline": "D.C. Uses Claude More Per Capita Than California. Its Paperwork Economy Explains Why - inc.com",
+        "source": "inc.com",
+        "timestamp": "2026-08-10T16:31:19.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZERudVpEUFZaMHllMlM5eGhEc0dnT2NwaWZWdFM3TFducHNFaW5CS2lNb2tKdWlNR2VXUHQ0Vk51eHI4VEtSZExlUjlIMjhCZlk2Q1lScjlyaWhMVV93X3ZBRm9TaWxBS3pKNkFsaWl6M1pOR1FGVFU4ZFlCR0NfVTVUajNNbEE5ZjBfd1JobE55a3dZNjdRUUFTSEZEQmdaWllNNFN0bS1GM0RyVlg1SUwzQjh1VU5rb1ZibA?oc=5",
+        "summary": "D.C. Uses Claude More Per Capita Than California. Its Paperwork Economy Explains Why &nbsp;&nbsp; inc.com"
       },
       {
-        "headline": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-08-10T14:05:18.000Z",
+        "headline": "Sanders asks AI giants to pause development, warning of congressional intervention - The Hill",
+        "source": "The Hill",
+        "timestamp": "2026-08-10T16:07:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PbHdWX05rUm4wU0dZcHk2aDVZbzQ1dV9LbzI5VmJpV0RlbjhxUk43aUZ4S25LVHZuOXh3RThhRmZkR1dxOHRiS2ltNGx0YVRPdEd1dS10a0ZEUXhlSjB2M09qU1c0N0xsckE4WEdR?oc=5",
-        "summary": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas &nbsp;&nbsp; OpenAI"
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFlZYjVLakc5RlI5R0JwU0NtM2pUTmd6d0g5UGU2VEhDS1c3RU1IN0NQTmJCT1NPNV9KR2hLY2d3QjZsUWJkYmJ1TGcxNHV4YjFwMmNKX0hSajRVZ3VvNjFFNURRSlQ5ZENGZTRQbDlPQ3FxMkRLcXBXdmhfUGNjbE5ONVJDUdIBiwFBVV95cUxQX2FGWXYzVDNhRTdYT0RaNVBpdlJKQnRWNm9HTGtxc3NCUm1OTi10ekxUZXdpVFlFU0E1ZlpvNnYzelV4UGlOczJrVGdYbllpQVlma1NaS2cwaDNwTW1MUjBuS1NvQW5uMkVOUW5GTXFhMnBNUVZYdXA2VENyY0xJclBzWmlMUFViQ3FZ?oc=5",
+        "summary": "Sanders asks AI giants to pause development, warning of congressional intervention &nbsp;&nbsp; The Hill"
+      },
+      {
+        "headline": "AI models are breaking out of their cages. Their creators are scrambling. - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-08-10T16:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5",
+        "summary": "AI models are breaking out of their cages. Their creators are scrambling. &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "What Rolex Tells Us About AI, Moats And The Future Of OpenAI - forbes.com",
+        "source": "forbes.com",
+        "timestamp": "2026-08-10T15:56:19.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNejZjWlQxdkhGV1dPQW1BSGsyUzVMeldSOTNnQk16YmktV3h6M0tLMmZ3VjNvZzJkVTViYWlXUVBYdi1SVW1lZ0ZKUDJWLWNzRGotbWFnM1ZTYlZTb1MzN1I5eGhSUDVHNFNlX2VROGxwOVdPUm9yVmNwSVRRNDFlNVNVNVlZUmlfWkNhODgzeWhVX2VUZm94VFdyb0s0UnNsYUM5MzRyUWNod3ZBLW5KeUNCMFJHQQ?oc=5",
+        "summary": "What Rolex Tells Us About AI, Moats And The Future Of OpenAI &nbsp;&nbsp; forbes.com"
+      },
+      {
+        "headline": "Meta Releases Scaled-Down AI Model Consumers Can Use at Home - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-08-10T15:51:04.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFZWUXFCVWlhN3JRVjQtNkRWakExRERpS2Q4Q1B4dEZVUUxMOGlHTWc5cG5lVUYxV3ZkRnZZRlZmNUk5NmpGRVpHbWtTWmo1TlhKY041VmJNZWJvaW9RWkxseEhsYzhGVHgwUDFFRC1sb1hiWktidTlRNTV5V1lXYnIwSlI2dEVMMnpHN0xDd2RIYkc1RG9xLUJGZWRKX0I0dUxtOUFRU0tlVWRkOVdJNGN2VDFRQ0xy?oc=5",
+        "summary": "Meta Releases Scaled-Down AI Model Consumers Can Use at Home &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips - Techzine Global",
@@ -140,33 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmRvd1cxcWFFRU5EWW44ZzBvdlZnb3ZfRGRRYjRHQnRuT0J5TzhhNHdWWk9HSHVCbFpGUlZwd0ZuaDR4VDl5ZThJZlZZM25hTkxRRzlOUUh6OFJxVGxLM1NQZXlkVXV4TGc3amMybTl0dEpXQmszelY4ZUlaVUNDVllEVFYtOWpTMll1dnN2WTg4dHhJZTFGS1pSREdRUWkzckEzLXJ4dktyZVdFOUtGamloTC1DZFc0RmItMw?oc=5",
         "summary": "Microsoft aims to produce hundreds of thousands of Maia 300 AI chips &nbsp;&nbsp; Techzine Global"
-      },
-      {
-        "headline": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands - foxbusiness.com",
-        "source": "foxbusiness.com",
-        "timestamp": "2026-08-10T13:47:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5",
-        "summary": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands &nbsp;&nbsp; foxbusiness.com"
-      },
-      {
-        "headline": "Zuckerberg reveals new Meta AI model as US faces AI arms race - foxbusiness.com",
-        "source": "foxbusiness.com",
-        "timestamp": "2026-08-10T13:07:33.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WWC1VeDZNVlRBZVFjZkxLUGgxckVHYUF5WUI1V3NuRmMwR19JeHhzYjlMYk5oWDVGVTVIaHFzNVM1Ml90cGJ6TWRVZjVrUnVoQkZIMEVoZHVGajg?oc=5",
-        "summary": "Zuckerberg reveals new Meta AI model as US faces AI arms race &nbsp;&nbsp; foxbusiness.com Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model &nbsp;&nbsp; The New York Times Zuckerberg announces new Meta AI superintelligence rollout &nbsp;&nbsp; foxbusiness.com Zuckerberg: AI's biggest risk is one entity with too much control &nbsp;&nbsp; Axios Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic &nbsp;&nbsp; CNBC Meta launches new AI model as Zuckerberg champions open-weight push &nbsp;&nbsp; Reuters Meta Debuts New AI Model as CEO Shares ‘AI for Everyone’ Vision &nbsp;&nbsp; PYMNTS.com Mark Zuckerberg is pushing back on AI doomers in a 6,500 word essay &nbsp;&nbsp; qz.com Zuckerberg’s Essay Says the Future of AI Is Personal Superintelligence &nbsp;&nbsp; PYMNTS.com"
-      },
-      {
-        "headline": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-08-10T12:31:17.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0Y5VVJWSkc1aEJOMEF4QlNaeGxsVDg0YklRUzluTE5rVTVKekh5ZnM5VWh4NUcxNXBvNXB3djlZbm1DbHkxNTJhMFI4anFvakJnSndGYTI1WktTS2hOSmhXcUE5c0hXS1lrTmhjTEY3aGNERmlKOWc5TER3MUQtOHk4VHg3T0FwU0NLQmlNR09FbnMwLV9FaE80VU5qWG9HMXg2TDFKVENTeHJ6d0E5Mg?oc=5",
-        "summary": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
