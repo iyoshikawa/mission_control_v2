@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-11T22:38:57.647Z",
+    "generatedAt": "2026-08-11T23:37:40.438Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,26 @@
   },
   "newsFeed": [
     {
-      "headline": "North Korea fired a ballistic missile, South Korean military says",
-      "summary": "North Korea fired a ballistic missile, South Korean military says &nbsp;&nbsp; Reuters",
+      "headline": "New attacks on shipping as Iran war talks hit fresh impasse",
+      "summary": "New attacks on shipping as Iran war talks hit fresh impasse &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-08-11T22:11:35.000Z",
+      "timestamp": "2026-08-11T22:52:43.000Z",
       "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5"
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5"
+    },
+    {
+      "headline": "Four crew, two rescuers killed in Red Sea attack; missile strike reported in Gulf",
+      "summary": "Four crew, two rescuers killed in Red Sea attack; missile strike reported in Gulf &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-11T22:38:27.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5"
     },
     {
       "headline": "Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia",
@@ -67,28 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnMyemdyTXd6SlJlZE1sTWM1VXhPV3NuVTJwRHJhUEVQa1NBVWpDT1pGZnNRcUZFOS1HSG5Ga2I0dW11S3h6eHNyUWI3SWEyb0hKSWtMdEZsdXJveklJNlAzZGNrRGhmTjBvWTgzWkVoTVBPQUxsRmJ6WDRuemRVR3JBdnRkSHVocFZHdGhrUzYyTk5wTTZtYUlNUmF3NllwcGxvU3U3eFpMVmwzcDd2ODJn?oc=5"
     },
     {
-      "headline": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says",
-      "summary": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-11T17:45:22.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5"
-    },
-    {
-      "headline": "Four crew killed in Red Sea attack while missile strike reported in Gulf",
-      "summary": "Four crew killed in Red Sea attack while missile strike reported in Gulf &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-11T17:43:07.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5"
-    },
-    {
       "headline": "Federer-backed On's shares plunge as Americas sportswear growth slows",
       "summary": "Federer-backed On's shares plunge as Americas sportswear growth slows &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -98,6 +87,17 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjNJOFZ2LXUtSnAtQTNPUjhvTUx3UUV6Q0VLb2N5RzhtZWo1RkVMcldsR1lIWlBBU2lvazJNQkxXeXlFSHpOQ2Q4aTA0X19vV3NTY0txQ2pYdWZNb2tuQlpNanpwQkdrYXlaZjZ2aDlIUEpXalBsa2NHTEcteTFRZnV6Y2lNUWV1SmNsODdHbEs2LXRXUVRUM0xlb29TUW5yeGdDc0dWNVlrR3pKWUF2ZjJ0anJybE01dGNYVk1SLUMzQQ?oc=5"
+    },
+    {
+      "headline": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports",
+      "summary": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-11T16:49:19.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5"
     }
   ]
 }
