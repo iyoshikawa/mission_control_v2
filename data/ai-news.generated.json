@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-12T16:59:19.171Z",
+    "generatedAt": "2026-08-12T18:01:25.193Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,62 @@
   },
   "newsFeed": [
     {
-      "headline": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders - The Guardian",
-      "source": "The Guardian",
+      "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-12T17:41:29.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWloUTdtYTlOZTdjeVZ5d2tFd2wxbzJzWlJFR1R5Y3hURjVzQk1zaUE5Z2dOdFNtN0k2V0VOREpFeVFYeFhwMVFXVWxiUzJ1Zm1WbGRETFdZcXNwZll1bDBNN2pGQmZEMENSczhfZU1XcVlGY0o3UVJXWmlnVi0wS3MxNHJ5bE9ZN3VuN0dMX0h2YmhtYldrSVAtOE82RmNlUGNsN2Q0QQ?oc=5"
+    },
+    {
+      "headline": "Microsoft Stock Drops While Maia Chip Ambitions Expand - TradingView",
+      "source": "TradingView",
+      "timestamp": "2026-08-12T17:23:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Stock Drops While Maia Chip Ambitions Expand &nbsp;&nbsp; TradingView",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODdaSG9sOEI5NUYzdzh2Ty1pQlRwWkJ2R21CajNySlMxX0ZvdXp0NU96OWluLVU3V0k4Vkd5Y1puc1ZXRUpaTG5odVk4VHdqMmp4c05XeExDdmJvWVFJVzNCdm0tbHpoYnFoM052OGU5YmRYOTVIMVNlWXJrOUxIQ21YSTdOT2prREJaRjF4MWNKdU9DR0dDUU8ta084cjF4ajFBTTFkZklXMjd0NGJ4RlpEUlc?oc=5"
+    },
+    {
+      "headline": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-08-12T17:00:31.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkJFRFJ3UE1UR3BTeE54SnRLb1NFa0p3UW1QN2dQV1VfYjV3WFpYQ25XTnBhRjB5XzJRbXROUnpzQkJuLXp3UUo4ZGlINEdOOEw1X3BnZ1FyTXpOME5iejQ1VUJmMHJEM080bVp5YmN4aGNIUGpNc3l0YW5jck1LcEs0U0d3SHhBQmQ3dnZ6NEE0MmpCb2JwdFhxMkd0WFE1ZlFKUFBB?oc=5"
+    },
+    {
+      "headline": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-08-12T17:00:31.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three &nbsp;&nbsp; 24/7 Wall St.",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU8wMmdMMzJtUzM1STlQa1hMTWxlbDloRjVDNGlUQlY1cFlla3FnNUVfZ3drVEhsUzJmX2FYX2p0MUJGNTJmdmVrUWcyOHZNbGJzNWVRMldnSE1hbEJieDVUQXlOTDIxSXJsTUpvMDNRcWpROURyNlRlT0tnS2lwXzBlaFFBR28tb19Qc1hUQTBUeHczT0I2RWJRYTJjeVpTQ3lRSS1VNU1Udzl1eWpCQw?oc=5"
+    },
+    {
+      "headline": "DeepSeek Publicizes Efforts to Challenge Anthropic’s Claude Code - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-12T16:29:17.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "DeepSeek Publicizes Efforts to Challenge Anthropic’s Claude Code &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVR5Qm1Mb1dzd1BRNzUxYjlnQlhPbmZVV1l3STR0UDV5d19VaDloOTdXUGp2LWNJNk5RVTdrS04zTUw5aEZQUnRXSkRLUXpPUUc2OTdGMHZ2cmVKejNLek56SlhDVG1IbnBoZzRpMFNOa1FvbDVXMDVmemFXVnZDTUxkc2NfQ0thRm9pcVpDZ1FMTWNMWnlud0plN1p5NmhVY0JHdnYzRzU1OVJyNms1T1FlZFlYZw?oc=5"
+    },
+    {
+      "headline": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders - theguardian.com",
+      "source": "theguardian.com",
       "timestamp": "2026-08-12T14:13:00.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders &nbsp;&nbsp; The Guardian",
+      "summary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders &nbsp;&nbsp; theguardian.com",
       "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEtIeUhGRW5BN25TUG9kcWZaRnRhcUZQNHVMWVpFaUhGYXFQU2J5T2NZMkdZTFNQMk1mUWNRMWFSOVlUajk2cTIwYjk3WjdCSm91RTEyU3I4UzdtcWxqYkJDZ09fUjJwbHZHWkRNSkpjeklINGpDZGRDNVRiR0ZNaFJFS19FeE0?oc=5"
     },
@@ -30,16 +80,6 @@
       "summary": "Putting sign language AI into users’ hands &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVXNiQ3JHU1hzMG1la1dyWTRUenFiaF9NelVKYUgxd2RteUhHQWlUSC1FdUtIeFVpTkl1TnAyclE0cUFQclFQVG45M0MtYnkyOXZaMDhaSjNhekV0ZGhWTE84ckdXM3NHcWJHX1MyWGVNTjJ0UktFRXVBZw?oc=5"
-    },
-    {
-      "headline": "OpenAI finds a crack in Anthropic's business AI lead - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-12T14:01:23.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI finds a crack in Anthropic's business AI lead &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5"
     },
     {
       "headline": "German advocacy group lodges criminal complaint over Meta AI glasses - Reuters",
@@ -62,111 +102,71 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWRtZHo3TGtnc0RUYWoxQXplc1JzU282SGhwZ2ZPNmxXNzcxYjEyMVN4M2hJZ1J1X0hfTFhRYjhrYlRPTFdRVmxWNmM5LUlYLUppQ3FtS1dvOTFadmp2Z3hYVUFuaVRrT0hHZWhQYWUzcVFlODY3QkJLVWVvSTF3NXdXVURJUjVGUFE?oc=5"
     },
     {
-      "headline": "How data and security can accelerate AI from prototype to production - technologyrecord.com",
-      "source": "technologyrecord.com",
-      "timestamp": "2026-08-12T12:23:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How data and security can accelerate AI from prototype to production &nbsp;&nbsp; technologyrecord.com",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVBtUzRCYXdTTTRxT1pjVFJ6VzRxcGZLUEd4RFdXaFhYamkxM0NCTkUxVVJxOGZCemFUWmFDNTN2V2xKZThoSy1tQ2R1enRxUHRJSWRyYXN1RkxyZGJneFIzTWpOenk1d3o4c2NUSVV5RFB0OFNYb2w1c3VZOWhCc1A3d1JOd3ZIWElFRDl2MXg1VGFVZmlpbldYQVFTOGtWazZ4a012SFY3d2JXcnc?oc=5"
-    },
-    {
-      "headline": "Anthropic's text watermarks signal new front in AI detection - Axios",
-      "source": "Axios",
-      "timestamp": "2026-08-12T09:44:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic's text watermarks signal new front in AI detection &nbsp;&nbsp; Axios Anthropic’s Claude Will Start Adding Invisible Watermarks to AI-Generated Text &nbsp;&nbsp; Gizmodo Claude Users Can’t Opt Out Of New Watermarks—Here’s What We Know &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TMFZTUmdmZWw4Q3RNNlpOcG01TkQ3bi1QRVF6LUpnWTJlTGFKT1Z5QmtONlJ1SXdtbnNfdEVpdkgxY2dvOHZGRTVPRlJBdVYyVFB0UzlGUjBsNmlvMzh3RDFWblk2SGNCZGRNM2xmS3BuMXN1SUFXZ0U0TVdOdw?oc=5"
-    },
-    {
-      "headline": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion - USA Today",
-      "source": "USA Today",
-      "timestamp": "2026-08-12T09:07:00.000Z",
+      "headline": "From assistance to execution: How enterprises put AI to work - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-08-12T13:06:54.000Z",
       "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Ray-Ban Meta AI glasses are scaring me and my homegirls | Opinion &nbsp;&nbsp; USA Today",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1QzcjFlN082S0dyck9OZ3FZM2JXZVhyQ1diUmxoeEItRmNEZnlKRFA3aVNlbFRvUVpCajREVDZwLU52NEEwWFFzNXprdkduRW44WWFyMGozOGY2X3p5SGtCQW10QlY1RjY0VU9TcXFaYnVlMGw0QjBQYjQ5YzY0TEFHVHRpZml5VEgyY2dLUlV6TTlNWVNkNF9IaTVwTVNlQzNhaXBqd3F6SmIxbDBlWGhHQVhBY3Bxdi1ITjl2Uzc?oc=5"
-    },
-    {
-      "headline": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-08-12T05:00:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ30gF_QVVfeXFMTUZqWnlpYnMzVXlYeW9XYXFDWEVhUjdjZzIxaU1VbmdRUXI1eHhkUjRGOGxkNDQ2c3RRdnRNRGVRXzFUcDNzRXQtYW5pTjNsc1lTVzRzaGNTREtYVDRzbFdrenFBVklKRDZRVW9NSnN1LXJaYl9PZ18zYXpDd05VNA?oc=5"
-    },
-    {
-      "headline": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-08-11T23:51:51.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta A.I. glasses spark privacy concerns as women report being recorded without consent &nbsp;&nbsp; NBC News",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkJPOWFKV2pzdXU1VXNtaDZUVFNxXzdhZ0dscllBTE9ManhkbVRwNHo1RzRIUWJ0ejktTENOUFVoT1o3dDFYdmJIbTVMd0J4U2o3N011V1NpX1MxMVU1WDZpc3MxeHJLM3ptZ181TWE4Q2FUbHZvdTNjZTVHa1NSMlNJWW5ENEdjUkU3b0FGQjI3NW1pSGJ2VjZIUkJObnIzeGVocw?oc=5"
+      "category": "market",
+      "summary": "From assistance to execution: How enterprises put AI to work &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWU9Wam51YVk5a1BYMlpjSFVMSy1UWDUwcHdFM2o1aUJRTUVzVHhPZVg3MzB4Q3l5UVVtemJzRnFyRU84YTNNeE1fUEt1Y3NXU25Db09pUFZuSXpLby1rZ2FzbDJPb3c?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders - The Guardian",
-        "source": "The Guardian",
+        "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-08-12T17:41:29.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWloUTdtYTlOZTdjeVZ5d2tFd2wxbzJzWlJFR1R5Y3hURjVzQk1zaUE5Z2dOdFNtN0k2V0VOREpFeVFYeFhwMVFXVWxiUzJ1Zm1WbGRETFdZcXNwZll1bDBNN2pGQmZEMENSczhfZU1XcVlGY0o3UVJXWmlnVi0wS3MxNHJ5bE9ZN3VuN0dMX0h2YmhtYldrSVAtOE82RmNlUGNsN2Q0QQ?oc=5",
+        "summary": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "Microsoft Stock Drops While Maia Chip Ambitions Expand - TradingView",
+        "source": "TradingView",
+        "timestamp": "2026-08-12T17:23:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODdaSG9sOEI5NUYzdzh2Ty1pQlRwWkJ2R21CajNySlMxX0ZvdXp0NU96OWluLVU3V0k4Vkd5Y1puc1ZXRUpaTG5odVk4VHdqMmp4c05XeExDdmJvWVFJVzNCdm0tbHpoYnFoM052OGU5YmRYOTVIMVNlWXJrOUxIQ21YSTdOT2prREJaRjF4MWNKdU9DR0dDUU8ta084cjF4ajFBTTFkZklXMjd0NGJ4RlpEUlc?oc=5",
+        "summary": "Microsoft Stock Drops While Maia Chip Ambitions Expand &nbsp;&nbsp; TradingView"
+      },
+      {
+        "headline": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-08-12T17:00:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkJFRFJ3UE1UR3BTeE54SnRLb1NFa0p3UW1QN2dQV1VfYjV3WFpYQ25XTnBhRjB5XzJRbXROUnpzQkJuLXp3UUo4ZGlINEdOOEw1X3BnZ1FyTXpOME5iejQ1VUJmMHJEM080bVp5YmN4aGNIUGpNc3l0YW5jck1LcEs0U0d3SHhBQmQ3dnZ6NEE0MmpCb2JwdFhxMkd0WFE1ZlFKUFBB?oc=5",
+        "summary": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "timestamp": "2026-08-12T17:00:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU8wMmdMMzJtUzM1STlQa1hMTWxlbDloRjVDNGlUQlY1cFlla3FnNUVfZ3drVEhsUzJmX2FYX2p0MUJGNTJmdmVrUWcyOHZNbGJzNWVRMldnSE1hbEJieDVUQXlOTDIxSXJsTUpvMDNRcWpROURyNlRlT0tnS2lwXzBlaFFBR28tb19Qc1hUQTBUeHczT0I2RWJRYTJjeVpTQ3lRSS1VNU1Udzl1eWpCQw?oc=5",
+        "summary": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three &nbsp;&nbsp; 24/7 Wall St."
+      },
+      {
+        "headline": "DeepSeek Publicizes Efforts to Challenge Anthropic’s Claude Code - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-08-12T16:29:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVR5Qm1Mb1dzd1BRNzUxYjlnQlhPbmZVV1l3STR0UDV5d19VaDloOTdXUGp2LWNJNk5RVTdrS04zTUw5aEZQUnRXSkRLUXpPUUc2OTdGMHZ2cmVKejNLek56SlhDVG1IbnBoZzRpMFNOa1FvbDVXMDVmemFXVnZDTUxkc2NfQ0thRm9pcVpDZ1FMTWNMWnlud0plN1p5NmhVY0JHdnYzRzU1OVJyNms1T1FlZFlYZw?oc=5",
+        "summary": "DeepSeek Publicizes Efforts to Challenge Anthropic’s Claude Code &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders - theguardian.com",
+        "source": "theguardian.com",
         "timestamp": "2026-08-12T14:13:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEtIeUhGRW5BN25TUG9kcWZaRnRhcUZQNHVMWVpFaUhGYXFQU2J5T2NZMkdZTFNQMk1mUWNRMWFSOVlUajk2cTIwYjk3WjdCSm91RTEyU3I4UzdtcWxqYkJDZ09fUjJwbHZHWkRNSkpjeklINGpDZGRDNVRiR0ZNaFJFS19FeE0?oc=5",
-        "summary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Putting sign language AI into users’ hands - Google DeepMind",
-        "source": "Google DeepMind",
-        "timestamp": "2026-08-12T14:07:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVXNiQ3JHU1hzMG1la1dyWTRUenFiaF9NelVKYUgxd2RteUhHQWlUSC1FdUtIeFVpTkl1TnAyclE0cUFQclFQVG45M0MtYnkyOXZaMDhaSjNhekV0ZGhWTE84ckdXM3NHcWJHX1MyWGVNTjJ0UktFRXVBZw?oc=5",
-        "summary": "Putting sign language AI into users’ hands &nbsp;&nbsp; Google DeepMind"
-      },
-      {
-        "headline": "OpenAI finds a crack in Anthropic's business AI lead - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-12T14:01:23.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5",
-        "summary": "OpenAI finds a crack in Anthropic's business AI lead &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "German advocacy group lodges criminal complaint over Meta AI glasses - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-08-12T13:59:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3N0UGpsR1NtWEdwbzM0TVlkakRJQUNxNmMxYzdXZE9KLXZvTDR4bE1vbnhFNTFZOWVCQWsya0ozUmx2czlHck5fQ2x1SDY2NFAwV0kwMFgxV1NoMTlvc294THNtSjJ3dzNOS3dzbzJMbVJfc0xxS29ueFNCRnJjNl96TDJvT2Jyb3lRMmhvUUp6c0tKNDI0eGhjZFluZ2l3MnZldm9QaEx1d05vSGxSRVo0YnRBV0NpQ1FPMHRR?oc=5",
-        "summary": "German advocacy group lodges criminal complaint over Meta AI glasses &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Internal Google Document Reveals That Its HR AI Has Been Throwing Résumés From Qualified Applicants Straight Into the Trash - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-08-12T13:53:53.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWRtZHo3TGtnc0RUYWoxQXplc1JzU282SGhwZ2ZPNmxXNzcxYjEyMVN4M2hJZ1J1X0hfTFhRYjhrYlRPTFdRVmxWNmM5LUlYLUppQ3FtS1dvOTFadmp2Z3hYVUFuaVRrT0hHZWhQYWUzcVFlODY3QkJLVWVvSTF3NXdXVURJUjVGUFE?oc=5",
-        "summary": "Internal Google Document Reveals That Its HR AI Has Been Throwing Résumés From Qualified Applicants Straight Into the Trash &nbsp;&nbsp; Futurism"
-      },
-      {
-        "headline": "How data and security can accelerate AI from prototype to production - technologyrecord.com",
-        "source": "technologyrecord.com",
-        "timestamp": "2026-08-12T12:23:57.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVBtUzRCYXdTTTRxT1pjVFJ6VzRxcGZLUEd4RFdXaFhYamkxM0NCTkUxVVJxOGZCemFUWmFDNTN2V2xKZThoSy1tQ2R1enRxUHRJSWRyYXN1RkxyZGJneFIzTWpOenk1d3o4c2NUSVV5RFB0OFNYb2w1c3VZOWhCc1A3d1JOd3ZIWElFRDl2MXg1VGFVZmlpbldYQVFTOGtWazZ4a012SFY3d2JXcnc?oc=5",
-        "summary": "How data and security can accelerate AI from prototype to production &nbsp;&nbsp; technologyrecord.com"
+        "summary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders &nbsp;&nbsp; theguardian.com"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
