@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-13T20:52:13.559Z",
+    "generatedAt": "2026-08-13T21:50:35.283Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-08-13T20:28:00.000Z",
-      "impact": "WATCH",
-      "category": "market",
-      "summary": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5"
-    },
-    {
-      "headline": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-13T20:07:19.000Z",
+      "headline": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-13T21:15:40.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5"
+    },
+    {
+      "headline": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-08-13T19:28:53.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEczb1FycUlJRHU2cmNucm9xMTJfcUE5UnlTd01fZlJKc3BlaE9sNGMyX3dnWXdma0U5Qjhic2pFM05hQnNkdDY1enFpZzhhTnhXRnNObGtFNWtDNDVtNG84RUx6X192SVlHSjZiU1NzT2p2ZnZwVE5HVUI0MlBqdWJzRXVwWXlERGN4ZGg5WkVGTTZYSG9pVXhheWNnXzJ4OHNQcVZLR1FMTGQ0S2lZd2dR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVIyQjlleTBzaDlPV0wzYTZJcHN0QVVwajVxVF9Wck5jYjdXQTVNZ2hWQzNacXphZVo4QkxiVkpOTnVSekJQTlVKOUU0dVBNUmkyWDJFeFVORU0yTHZsZm1pQXh0WV9kSGpNZmFmSGM0Q1g4Z0tKYmpqMGNDZlFtVElvOHVsSlNmdzF5YUItbEJVam5KSTJ6MUhEYw?oc=5"
+    },
+    {
+      "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-13T18:28:14.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic set AI agents loose on the same task. They started a turf war. &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFDcUl1V3FOWEM4WmhQQVlwVElDbmdPcnIzb1otRVE2akVDbUJBRHoxVU83bXpEM0hkclloQ0ZvUkUzVGVHLU1zenBvUzIwWmt0WTA3WnVnV3dsVHhtVU1jNmN3bGphc05YT3pUR0I5eFU2SXltUjl3OThDNk8xaVFwQkE3Yk9PNk1aNDFXcXRnSFBrNTE0WUo4ZUpmNXhUTDNORXRib2w?oc=5"
+    },
+    {
+      "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
+      "source": "Cerebras",
+      "timestamp": "2026-08-13T17:05:30.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI &nbsp;&nbsp; Cerebras",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5"
     },
     {
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer - OpenAI",
@@ -62,26 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1TSU1xRngyTGQySWlWYi1ZYWVzSFEyMi0xTXZLWktHdWpYZTlMU0RLbXAzSW5lTC1LbWVaZFFZVTA2ZlNOMzFXOWUzWDBWVHFuZUVJSTdidFpKbS02MVVDVUY4R2hpVS12a05jc2RRT0hpeVRycnRZYTJsYXF0UXctYw?oc=5"
     },
     {
-      "headline": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - IBM Newsroom",
-      "source": "IBM Newsroom",
-      "timestamp": "2026-08-13T10:08:43.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations &nbsp;&nbsp; IBM Newsroom",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5"
-    },
-    {
-      "headline": "Anthropic investors bet on $2tn valuation in record IPO - ft.com",
-      "source": "ft.com",
-      "timestamp": "2026-08-13T04:00:23.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic investors bet on $2tn valuation in record IPO &nbsp;&nbsp; ft.com Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say &nbsp;&nbsp; CNBC SpaceX set an IPO record. Now there’s hope that Anthropic could shatter it. &nbsp;&nbsp; MarketWatch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM?oc=5"
-    },
-    {
       "headline": "Exclusive | DeepMind’s Hassabis Pitched AI-Oversight Body Before Shake-Up - WSJ",
       "source": "WSJ",
       "timestamp": "2026-08-13T01:00:00.000Z",
@@ -92,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1hMYl8zT1FZbnp5dmhSUzAyX0dKd1R3Z1Y2TjlzTTlhM253aHVTeVpkcXBkWTBJZVVHXzFJczlrMG9XVlpHVHFvdkQxdDE4YkVUcGUxelBLVGs2c3VJQ2lnTDA4MHJlMFk5aUZBWE12MWYtZVM1NHc0RncyMUJ2Z2kyNDlnbXNfVjJYNl9YbEtwRXI0UjFraklKQWxzUQ?oc=5"
     },
     {
+      "headline": "It May Be Time to Panic About AI - The Atlantic",
+      "source": "The Atlantic",
+      "timestamp": "2026-08-12T20:05:28.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "It May Be Time to Panic About AI &nbsp;&nbsp; The Atlantic",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KYzcxZG1NdTVITUVrWlFaeXpER2NqR28wMHk0ZlhnbUFQSEJRSVZhSXNpVVVJY05GTzdhRGRBWUNPSHZURV9aWnluMXl1M1liNXZYS2FnNm92M1cwN20zSVYycWlSSnJVOVpCQkctdk8wclRCeUZiYXg1RXRKUQ?oc=5"
+    },
+    {
       "headline": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
       "source": "Reuters",
       "timestamp": "2026-08-12T17:36:00.000Z",
@@ -100,37 +110,45 @@
       "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle &nbsp;&nbsp; Reuters",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5"
-    },
-    {
-      "headline": "AI cost management: From AI pilots to measurable ROI - azure.microsoft.com",
-      "source": "azure.microsoft.com",
-      "timestamp": "2026-08-12T17:05:18.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "AI cost management: From AI pilots to measurable ROI &nbsp;&nbsp; azure.microsoft.com",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEdkSnpOOFNsd2lZaFRwRk9rMUpuQm1abFJvQXdZd0dEeUVpc0RkWVhSb2oxMHFzbjk2c3ZybDdYNEk1UnNUUXlhWWE4SUdwMkJIWjZHS1hqZnRPMHVZQVkxN3BEYzh2MThCN1F1NXdVcG1VZFdlYTJNOFRVdm5iM0xLTXhIc2tySFNZdHZPdkFmdW1jODh1Zko1anZISWdfRFZodmFZVzFma3NnMEE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-08-13T20:28:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
-        "summary": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee &nbsp;&nbsp; Fortune"
+        "headline": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-08-13T21:15:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5",
+        "summary": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-08-13T20:07:19.000Z",
+        "headline": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-08-13T19:28:53.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEczb1FycUlJRHU2cmNucm9xMTJfcUE5UnlTd01fZlJKc3BlaE9sNGMyX3dnWXdma0U5Qjhic2pFM05hQnNkdDY1enFpZzhhTnhXRnNObGtFNWtDNDVtNG84RUx6X192SVlHSjZiU1NzT2p2ZnZwVE5HVUI0MlBqdWJzRXVwWXlERGN4ZGg5WkVGTTZYSG9pVXhheWNnXzJ4OHNQcVZLR1FMTGQ0S2lZd2dR?oc=5",
-        "summary": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVIyQjlleTBzaDlPV0wzYTZJcHN0QVVwajVxVF9Wck5jYjdXQTVNZ2hWQzNacXphZVo4QkxiVkpOTnVSekJQTlVKOUU0dVBNUmkyWDJFeFVORU0yTHZsZm1pQXh0WV9kSGpNZmFmSGM0Q1g4Z0tKYmpqMGNDZlFtVElvOHVsSlNmdzF5YUItbEJVam5KSTJ6MUhEYw?oc=5",
+        "summary": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-08-13T18:28:14.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGFDcUl1V3FOWEM4WmhQQVlwVElDbmdPcnIzb1otRVE2akVDbUJBRHoxVU83bXpEM0hkclloQ0ZvUkUzVGVHLU1zenBvUzIwWmt0WTA3WnVnV3dsVHhtVU1jNmN3bGphc05YT3pUR0I5eFU2SXltUjl3OThDNk8xaVFwQkE3Yk9PNk1aNDFXcXRnSFBrNTE0WUo4ZUpmNXhUTDNORXRib2w?oc=5",
+        "summary": "Anthropic set AI agents loose on the same task. They started a turf war. &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
+        "source": "Cerebras",
+        "timestamp": "2026-08-13T17:05:30.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
+        "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI &nbsp;&nbsp; Cerebras"
       },
       {
         "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer - OpenAI",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
         "summary": "Anthropic in Talks to Buy AI Startup Decart for $6 Billion &nbsp;&nbsp; Bloomberg.com Anthropic in talks to acquire Israeli AI startup Decart for $6 billion &nbsp;&nbsp; calcalistech.com Anthropic in talks to buy Decart AI, source says &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Google’s DeepMind is having an identity crisis - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-08-13T11:13:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1TSU1xRngyTGQySWlWYi1ZYWVzSFEyMi0xTXZLWktHdWpYZTlMU0RLbXAzSW5lTC1LbWVaZFFZVTA2ZlNOMzFXOWUzWDBWVHFuZUVJSTdidFpKbS02MVVDVUY4R2hpVS12a05jc2RRT0hpeVRycnRZYTJsYXF0UXctYw?oc=5",
-        "summary": "Google’s DeepMind is having an identity crisis &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - IBM Newsroom",
-        "source": "IBM Newsroom",
-        "timestamp": "2026-08-13T10:08:43.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5",
-        "summary": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations &nbsp;&nbsp; IBM Newsroom"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
