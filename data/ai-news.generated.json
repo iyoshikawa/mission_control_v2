@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-14T08:18:32.788Z",
+    "generatedAt": "2026-08-14T10:06:40.568Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-08-14T07:18:45.000Z",
+      "headline": "OpenAI sheds senior execs in pre-IPO refresh - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-14T09:33:04.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI sheds senior execs in pre-IPO refresh &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SN1dFNXE5NHoyVi1rN3FfenZnUTBhWVYzVVE2eGduV2djbndmMHVTbVFrQnhId1RYUUkxck80SnVZVUppTC05UGl0ajRWZmlHVE5uS01qNGY5RkpfRnBzV0VKVC1waEp0OFZEUnZPeUJJSWtzWnc?oc=5"
+    },
+    {
+      "headline": "AI prices are plunging. That feels bad, but something else is happening. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-14T09:00:07.000Z",
       "impact": "HIGH",
       "category": "market",
-      "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5"
+      "summary": "AI prices are plunging. That feels bad, but something else is happening. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0RTcmI2WkxnTGxoNkU3LUdvUXFaUG1rWk13YUd0OHR6dEpUZ0FoY0V0eWZKR2R4cjk1dkF3RHQzd181Wm1MeXNBTEF3SGJZaFhLZnR2Q1lOaXpDRUsyclhZbllPMGx0dm9EM3pwaGswSHRmZlFPSldfOUdFLTluZGZPdHpZaGhGUHVWMG5JOExfNjFYNnc?oc=5"
     },
     {
       "headline": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model - Bloomberg.com",
       "source": "Bloomberg.com",
-      "timestamp": "2026-08-14T06:08:00.000Z",
+      "timestamp": "2026-08-14T08:41:04.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1NQklvd1FVc2RJS0dlRzdOc2Q5SWN1QTFSSWlqRmJYNXRvNVh2M3BNWEZjVFUyY0E3U1ZtUW1Bbk02R0ZjeGZIVnNDYTZRUzdZMDYxSVBIVkN3bmV6eVJWWk5EUnlCLWI2T1N5OHZvV1RtWVBsdVlCMTZvRVliMm1WOGFuc21VbDFTeURFb08wTzdUVk1VU1hxWWdKM05PNXdhR0Yyc1E0TGtRS3d3dlNzU3Q?oc=5"
+    },
+    {
+      "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-08-14T07:52:56.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5"
     },
     {
       "headline": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ",
@@ -42,44 +62,24 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UYy1LWi05N0I2b29XNnlQS2t0V21udE5XVi1KY3ZqR3YyTmtTaHBiNmZNOU1VZGw3OFFMdGxmOTA0ZE1JT0Jka1lEcnA2Ui1iU0pGV3pTTG9OVW9tbjR3TWc2YjJCeGx3dU1POC1ycWdCTkxGZHNGZFRsYw?oc=5"
     },
     {
-      "headline": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-13T21:36:04.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTR1VKWUlRMkNjY2g4YUU1M2Ruc0lIQWdEUklmb2x0VmhPbEgweWdweDBwWGNPX0FDZFhHcEtuWW41NnQ2cDRVV0lUX3JtS0FmV3NoTVZuQW5BN2ZSMGViVG9Xd0JJN3pScHA3b0UzSzBFUUVBWDZRV2lVMVpwU1ozUlRrMkNadTNKVTg3SGl2MGduajJnakVLb2hkQWlxSG9xaW1Cc18?oc=5"
+      "headline": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds - The Information",
+      "source": "The Information",
+      "timestamp": "2026-08-13T19:03:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG1ZVGdkQW5mU0JDelFXc185SlJHampjTWhhOVkyQ3ZLQ1BXQUxuX2sxTWhEa3RoZ2JQbGhrVGRGSy16S3h5dU83VGFuSjR0RjctVzNIVk11bDcxY1pzblFSM0tCSDlNcHVST2Zjb2RUOENiZmxmaWc2MVdDV1RpRkVrR2I4QnpLUENLclcwam83X2d2a1E3cUhCdEtsU0gwMENzUlhiUkc5QnJBdHpUcQ?oc=5"
     },
     {
-      "headline": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-13T19:28:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnhqSmYxaDIwRURoN192ald3dzFXa2ZNV0g1QVJwclVmd0QzUVpKRGhUVk9Md1J1S25Lc3VFTzVrQnNOdW5pV2RjRTZzM21rVEN0a2tfRFA0UE44VVdjcTFEVGJGdDVxWUVqUWNBOGdCTEdvTEREWmR4OVc0cE5kbm9YeHBycDB0aFB2TFdKaDZFTzlzOGxENldvT0xQT2tRdXc?oc=5"
-    },
-    {
-      "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
-      "source": "Cerebras",
+      "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - cerebras.ai",
+      "source": "cerebras.ai",
       "timestamp": "2026-08-13T17:05:30.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI &nbsp;&nbsp; Cerebras",
+      "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI &nbsp;&nbsp; cerebras.ai",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5"
-    },
-    {
-      "headline": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-08-13T16:12:32.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzUDJHcGxIMHA5TEdHVkpQNWNndlFIdFdJYVNnSGtBQnRvZ2ZHUnhXQ3lsMVpxcWZ6R0ZiSTB0UXNJSXlUcmFwRDVHWHhWVTBXczM5bnBHUWtySHdzVzNWYTMyWTQzYzdHdTZqbmJ0cHd4OHlLRE1kRGM1YUluNknSAYQBQVVfeXFMUFU3RUdtT3VLNFJNdFExaUM1QTB5d0s0WDBnMk04TFR5VXVTcFA0Z3VWX3BZb1JlcklGN0ZtdE1nY2xCMVhxbV9PeEtJWnQzRVZvOU5WbGZudnVXM2pzeTNha3JuR1JhYUt5Qk9waEpVNGNqUHpweTF4ZWFkUktMOTkwOW54?oc=5"
     },
     {
       "headline": "Exclusive | DeepMind’s Hassabis Pitched AI-Oversight Body Before Shake-Up - WSJ",
@@ -115,22 +115,40 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-08-14T07:18:45.000Z",
+        "headline": "OpenAI sheds senior execs in pre-IPO refresh - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-14T09:33:04.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SN1dFNXE5NHoyVi1rN3FfenZnUTBhWVYzVVE2eGduV2djbndmMHVTbVFrQnhId1RYUUkxck80SnVZVUppTC05UGl0ajRWZmlHVE5uS01qNGY5RkpfRnBzV0VKVC1waEp0OFZEUnZPeUJJSWtzWnc?oc=5",
+        "summary": "OpenAI sheds senior execs in pre-IPO refresh &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "AI prices are plunging. That feels bad, but something else is happening. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-14T09:00:07.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
-        "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground &nbsp;&nbsp; Financial Times"
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0RTcmI2WkxnTGxoNkU3LUdvUXFaUG1rWk13YUd0OHR6dEpUZ0FoY0V0eWZKR2R4cjk1dkF3RHQzd181Wm1MeXNBTEF3SGJZaFhLZnR2Q1lOaXpDRUsyclhZbllPMGx0dm9EM3pwaGswSHRmZlFPSldfOUdFLTluZGZPdHpZaGhGUHVWMG5JOExfNjFYNnc?oc=5",
+        "summary": "AI prices are plunging. That feels bad, but something else is happening. &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model - Bloomberg.com",
         "source": "Bloomberg.com",
-        "timestamp": "2026-08-14T06:08:00.000Z",
+        "timestamp": "2026-08-14T08:41:04.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1NQklvd1FVc2RJS0dlRzdOc2Q5SWN1QTFSSWlqRmJYNXRvNVh2M3BNWEZjVFUyY0E3U1ZtUW1Bbk02R0ZjeGZIVnNDYTZRUzdZMDYxSVBIVkN3bmV6eVJWWk5EUnlCLWI2T1N5OHZvV1RtWVBsdVlCMTZvRVliMm1WOGFuc21VbDFTeURFb08wTzdUVk1VU1hxWWdKM05PNXdhR0Yyc1E0TGtRS3d3dlNzU3Q?oc=5",
         "summary": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-08-14T07:52:56.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
+        "summary": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground &nbsp;&nbsp; Financial Times"
       },
       {
         "headline": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic - WSJ",
@@ -142,44 +160,26 @@
         "summary": "Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-08-13T21:36:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTR1VKWUlRMkNjY2g4YUU1M2Ruc0lIQWdEUklmb2x0VmhPbEgweWdweDBwWGNPX0FDZFhHcEtuWW41NnQ2cDRVV0lUX3JtS0FmV3NoTVZuQW5BN2ZSMGViVG9Xd0JJN3pScHA3b0UzSzBFUUVBWDZRV2lVMVpwU1ozUlRrMkNadTNKVTg3SGl2MGduajJnakVLb2hkQWlxSG9xaW1Cc18?oc=5",
-        "summary": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-13T19:28:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnhqSmYxaDIwRURoN192ald3dzFXa2ZNV0g1QVJwclVmd0QzUVpKRGhUVk9Md1J1S25Lc3VFTzVrQnNOdW5pV2RjRTZzM21rVEN0a2tfRFA0UE44VVdjcTFEVGJGdDVxWUVqUWNBOGdCTEdvTEREWmR4OVc0cE5kbm9YeHBycDB0aFB2TFdKaDZFTzlzOGxENldvT0xQT2tRdXc?oc=5",
-        "summary": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
-        "source": "Cerebras",
-        "timestamp": "2026-08-13T17:05:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5",
-        "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI &nbsp;&nbsp; Cerebras"
+        "headline": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds - The Information",
+        "source": "The Information",
+        "timestamp": "2026-08-13T19:03:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG1ZVGdkQW5mU0JDelFXc185SlJHampjTWhhOVkyQ3ZLQ1BXQUxuX2sxTWhEa3RoZ2JQbGhrVGRGSy16S3h5dU83VGFuSjR0RjctVzNIVk11bDcxY1pzblFSM0tCSDlNcHVST2Zjb2RUOENiZmxmaWc2MVdDV1RpRkVrR2I4QnpLUENLclcwam83X2d2a1E3cUhCdEtsU0gwMENzUlhiUkc5QnJBdHpUcQ?oc=5",
+        "summary": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds &nbsp;&nbsp; The Information"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
