@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-15T19:23:43.386Z",
+    "generatedAt": "2026-08-15T20:26:12.632Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Safety testing was an obscure part of building AI. Then models went rogue. - politico.com",
+      "source": "politico.com",
+      "timestamp": "2026-08-15T20:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Safety testing was an obscure part of building AI. Then models went rogue. &nbsp;&nbsp; politico.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5"
+    },
+    {
       "headline": "Anthropic CEO's Wife Asked Epstein To Invest In Her \"Luxury Porn\" Company - NDTV",
       "source": "NDTV",
       "timestamp": "2026-08-15T17:23:44.000Z",
@@ -20,16 +30,6 @@
       "summary": "Anthropic CEO's Wife Asked Epstein To Invest In Her \"Luxury Porn\" Company &nbsp;&nbsp; NDTV",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0FUby1BQzMzMTF2QjZMTTBFVkxUenZQMUMxZnhtWWM0NDJRZm1VTGZ1Q3VQQ21PWVVLQ093bUVYekk2NVV4UWdFUDJKQmpVNzVNNkl6S1Z0NWstdEQ1alA1UnFmRkZ2ZndyZ3NBNEZsOTA1cUMtY1JDRDhPaVJ6bG05dVBHSHZFLXVZd204NUNEVFUxY3lURjBfcmllVlNtY0dKMVFKSHQzdjlDckItYzJialhIcjB0VHfSAcIBQVVfeXFMTmx0ZHV6RlV4V1NkWmthRW5udzNPd2hhS29pYVVTVU5USUhJaldUNFdXMEtJS3hlNElsWldDR2Q3dWlENjlHS3hkdWN3VGZwUXA4XzhfdjRXeEdmSGdkR2VrMzFiQXlHUUFlVENMS19EMWZxbVpLMV9rZFVYYWVibThaZjZXYndGcDkydERjenZINjZOYjF5WVRFYmxiVHFlYlphU3ltT2FZT1ZQczZMM01VWldxWXg4UWlWSzBpSVR4X0E?oc=5"
-    },
-    {
-      "headline": "How to tell if your AI platforms’ accounts have been hacked - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-15T16:10:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How to tell if your AI platforms’ accounts have been hacked &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFJKRi1YUGZoUXd6dUNUNkVCdjZVVVppckxvODdsZTZGd1Q5enVjS1dVNUphV0s1eVVXam43TlRkdmhNZ2hCVGNWV09VY0ljZHFMRmwzWms5QmZINlBueVFNRmhxYlBTbVlZXzBuX1luY3B3bGg5RVVZMWlDLTRFVFFXMXpXc2p5NWVCV3ptWEpQMVVTRlVwUA?oc=5"
     },
     {
       "headline": "🔮 The market misread Google’s AI exodus - exponentialview.co",
@@ -77,7 +77,7 @@
       "timestamp": "2026-08-14T19:22:20.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "How Claude's text watermarking works &nbsp;&nbsp; Anthropic Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark &nbsp;&nbsp; businessinsider.com Anthropic shares more details about how Claude’s new watermarks will work &nbsp;&nbsp; TechCrunch",
+      "summary": "How Claude's text watermarking works &nbsp;&nbsp; Anthropic Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes &nbsp;&nbsp; TechCrunch Anthropic shares more details about how Claude’s new watermarks will work &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5"
     },
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Safety testing was an obscure part of building AI. Then models went rogue. - politico.com",
+        "source": "politico.com",
+        "timestamp": "2026-08-15T20:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5",
+        "summary": "Safety testing was an obscure part of building AI. Then models went rogue. &nbsp;&nbsp; politico.com"
+      },
+      {
         "headline": "Anthropic CEO's Wife Asked Epstein To Invest In Her \"Luxury Porn\" Company - NDTV",
         "source": "NDTV",
         "timestamp": "2026-08-15T17:23:44.000Z",
@@ -122,15 +131,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0FUby1BQzMzMTF2QjZMTTBFVkxUenZQMUMxZnhtWWM0NDJRZm1VTGZ1Q3VQQ21PWVVLQ093bUVYekk2NVV4UWdFUDJKQmpVNzVNNkl6S1Z0NWstdEQ1alA1UnFmRkZ2ZndyZ3NBNEZsOTA1cUMtY1JDRDhPaVJ6bG05dVBHSHZFLXVZd204NUNEVFUxY3lURjBfcmllVlNtY0dKMVFKSHQzdjlDckItYzJialhIcjB0VHfSAcIBQVVfeXFMTmx0ZHV6RlV4V1NkWmthRW5udzNPd2hhS29pYVVTVU5USUhJaldUNFdXMEtJS3hlNElsWldDR2Q3dWlENjlHS3hkdWN3VGZwUXA4XzhfdjRXeEdmSGdkR2VrMzFiQXlHUUFlVENMS19EMWZxbVpLMV9rZFVYYWVibThaZjZXYndGcDkydERjenZINjZOYjF5WVRFYmxiVHFlYlphU3ltT2FZT1ZQczZMM01VWldxWXg4UWlWSzBpSVR4X0E?oc=5",
         "summary": "Anthropic CEO's Wife Asked Epstein To Invest In Her \"Luxury Porn\" Company &nbsp;&nbsp; NDTV"
-      },
-      {
-        "headline": "How to tell if your AI platforms’ accounts have been hacked - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-08-15T16:10:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFJKRi1YUGZoUXd6dUNUNkVCdjZVVVppckxvODdsZTZGd1Q5enVjS1dVNUphV0s1eVVXam43TlRkdmhNZ2hCVGNWV09VY0ljZHFMRmwzWms5QmZINlBueVFNRmhxYlBTbVlZXzBuX1luY3B3bGg5RVVZMWlDLTRFVFFXMXpXc2p5NWVCV3ptWEpQMVVTRlVwUA?oc=5",
-        "summary": "How to tell if your AI platforms’ accounts have been hacked &nbsp;&nbsp; TechCrunch"
       },
       {
         "headline": "🔮 The market misread Google’s AI exodus - exponentialview.co",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
