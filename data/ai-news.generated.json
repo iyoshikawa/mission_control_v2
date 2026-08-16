@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-16T08:33:16.308Z",
+    "generatedAt": "2026-08-16T09:30:32.003Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-16T08:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5"
-    },
-    {
       "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
       "source": "The Independent",
       "timestamp": "2026-08-16T05:00:00.000Z",
@@ -30,6 +20,16 @@
       "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5"
+    },
+    {
+      "headline": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+      "source": "Politico",
+      "timestamp": "2026-08-15T20:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Safety testing was an obscure part of building AI. Then models went rogue. &nbsp;&nbsp; Politico",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5"
     },
     {
       "headline": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC",
@@ -102,27 +102,18 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHhDR2hwTXg0STU3MUdXMmRKUXBXcTFIX0pZNlF5S25fUWNoSDhRTzd6YnNaUHd1TENMcFBaNzVYVS1laHdwcllxMzQ0WHMxYUpobVVhVVk2a1llQ1RJWlF5Tm56WDU3WGw3R3FiazU3V1dIWmVMQkh0NzN4Q3dsRVV0VmdPbjVFUW1XSTlZeFN4Zw?oc=5"
     },
     {
-      "headline": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage - tech.yahoo.com",
-      "source": "tech.yahoo.com",
+      "headline": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage - Yahoo Tech",
+      "source": "Yahoo Tech",
       "timestamp": "2026-08-14T16:03:18.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage &nbsp;&nbsp; tech.yahoo.com",
+      "summary": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage &nbsp;&nbsp; Yahoo Tech",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVPWER1UEFaZEgwWnJJTlBfS1Z5SHdSY3g3c1dJMWE3SkplclJvRlEwUFFEaW5DNHJVb0NhZlBmWGZOWC1RS1JSTEVmYjdRSnY4VWtUc0NaeFh1RW83NlBsZlJycFZRQUg2NExQd3JKVkc5aTE3UU85cVZVdExjS0s3VzExczZ0SklDN3VUZEwzdUM0?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-08-16T08:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
-        "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian"
-      },
       {
         "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
         "source": "The Independent",
@@ -131,6 +122,15 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
         "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent"
+      },
+      {
+        "headline": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+        "source": "Politico",
+        "timestamp": "2026-08-15T20:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5",
+        "summary": "Safety testing was an obscure part of building AI. Then models went rogue. &nbsp;&nbsp; Politico"
       },
       {
         "headline": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter - CNBC",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
