@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-16T18:33:51.574Z",
+    "generatedAt": "2026-08-16T19:23:17.577Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "University Of Phoenix And OpenAI Could Redefine The AI Skills Gap - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-08-16T19:02:57.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "University Of Phoenix And OpenAI Could Redefine The AI Skills Gap &nbsp;&nbsp; Forbes",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHF1Q3ZxdVg4aU52YTBuaEpvWFA5blhQVjM3Z2NxNFJUZnh5VXZSd3N3RTNCcTBxTG9QOExTMmoyaGpMQndGbUkyNDRmU3RFNUIxYUg0YmpjMVVnSHlSbDBidGd3Y2FEMWNLS3hwU0FBMnEwN2dQa2pZQXVUMGdTZzdRNXBfLWFzQjU0dV9IQW11SXplQ3M2QTMzZ0pHcl81cTJzLXVROGRPTWxweTVSSWxkdHNDSDlOTHlyOExjbw?oc=5"
+    },
+    {
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "source": "WSJ",
       "timestamp": "2026-08-16T16:03:00.000Z",
@@ -20,16 +30,6 @@
       "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5"
-    },
-    {
-      "headline": "Axios Partners With OpenAI to \"Automate\" Local Journalism - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-08-16T11:02:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Axios Partners With OpenAI to \"Automate\" Local Journalism &nbsp;&nbsp; Futurism",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44c2Z3Tk9aelFEWGxOcERIWWFSZzE0QjdGNDkwcGVwUHc2UjlBb3lXSUxqcFBGY2MtMG1yVFlySHdDeElEQ2VwU1M2RU5zSjFpdjAtcmctaGdqQnhlRlhoRnpBYnN6S1FGb1JqSDR0dzB4cXRPV3pnWTFRN1NMY0U?oc=5"
     },
     {
       "headline": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
@@ -62,12 +62,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - independent.co.uk",
-      "source": "independent.co.uk",
+      "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
+      "source": "The Independent",
       "timestamp": "2026-08-16T05:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; independent.co.uk",
+      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5"
     },
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "University Of Phoenix And OpenAI Could Redefine The AI Skills Gap - Forbes",
+        "source": "Forbes",
+        "timestamp": "2026-08-16T19:02:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHF1Q3ZxdVg4aU52YTBuaEpvWFA5blhQVjM3Z2NxNFJUZnh5VXZSd3N3RTNCcTBxTG9QOExTMmoyaGpMQndGbUkyNDRmU3RFNUIxYUg0YmpjMVVnSHlSbDBidGd3Y2FEMWNLS3hwU0FBMnEwN2dQa2pZQXVUMGdTZzdRNXBfLWFzQjU0dV9IQW11SXplQ3M2QTMzZ0pHcl81cTJzLXVROGRPTWxweTVSSWxkdHNDSDlOTHlyOExjbw?oc=5",
+        "summary": "University Of Phoenix And OpenAI Could Redefine The AI Skills Gap &nbsp;&nbsp; Forbes"
+      },
+      {
         "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
         "source": "WSJ",
         "timestamp": "2026-08-16T16:03:00.000Z",
@@ -122,15 +131,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
         "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Axios Partners With OpenAI to \"Automate\" Local Journalism - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-08-16T11:02:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44c2Z3Tk9aelFEWGxOcERIWWFSZzE0QjdGNDkwcGVwUHc2UjlBb3lXSUxqcFBGY2MtMG1yVFlySHdDeElEQ2VwU1M2RU5zSjFpdjAtcmctaGdqQnhlRlhoRnpBYnN6S1FGb1JqSDR0dzB4cXRPV3pnWTFRN1NMY0U?oc=5",
-        "summary": "Axios Partners With OpenAI to \"Automate\" Local Journalism &nbsp;&nbsp; Futurism"
       },
       {
         "headline": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
@@ -160,13 +160,13 @@
         "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - independent.co.uk",
-        "source": "independent.co.uk",
+        "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
+        "source": "The Independent",
         "timestamp": "2026-08-16T05:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
-        "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; independent.co.uk"
+        "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
