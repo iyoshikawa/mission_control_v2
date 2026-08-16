@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-16T20:26:45.426Z",
+    "generatedAt": "2026-08-16T21:23:36.993Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,64 @@
   },
   "newsFeed": [
     {
+      "headline": "Dario Amodei admits AI companies have not delivered on their promises - The Next Web",
+      "source": "The Next Web",
+      "timestamp": "2026-08-16T21:12:56.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Dario Amodei admits AI companies have not delivered on their promises &nbsp;&nbsp; The Next Web",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZEF6UGcyekFROUo3REViVDJpODNSMjExOERtSVVoekJBWjdxelBaZlpUNkNmQlQyWkVGNXN2dWdrUm0yUDJnbWZiakN5YzJBSWljY0VlVHl3NGF1RzFBbDd2REVNVlVVaWlZc28xN3QwNmY0LVhYU3FfRDI?oc=5"
+    },
+    {
+      "headline": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? - The Motley Fool",
+      "source": "The Motley Fool",
+      "timestamp": "2026-08-16T18:58:19.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? &nbsp;&nbsp; The Motley Fool",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEVhOGRmTTA1ZTcxLU1ZTVlOb3V1cXZPdkxySllyeUpUVlJ5R19YdVE2V3A2YV9WWGdmRTJVaUVLY040MlBma2pkUEZ4YmNWamRHZjdzY0dDWFNWODk5T2xYRXBtNzhEcklwdlFndm1vOU1oSXBQNjM4RGl2UWQ1ZUk3dDJaTUZxRFo3NjZuUXI1bFJPU0NYdw?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-08-16T16:53:51.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmRPdmFESjZoRzdqTlNwdU1nb2s0eDA3Y0NQMEtrVTFQcUc4QTY0Zkh1a0VGZnEwSFJoU1dwME9uWFNpMnoxZjI0MklDWVJ2amJOa010OUlBY2FvUUE4TFE3SUdDb3JkNGZrZF95MkI2WnVRVUtNQXhtYWY2ODVoYnRhcUpLZHpTR3g4MkJQZG4xUE5na1VjNFd3?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-16T16:30:48.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5"
+    },
+    {
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "source": "WSJ",
       "timestamp": "2026-08-16T16:03:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5"
     },
     {
-      "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-16T13:41:54.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5"
-    },
-    {
-      "headline": "Axios Partners With OpenAI to \"Automate\" Local Journalism - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-08-16T11:02:00.000Z",
+      "headline": "Designing a Persistent Knowledge Layer That Refuses to Guess - Towards Data Science",
+      "source": "Towards Data Science",
+      "timestamp": "2026-08-16T15:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Axios Partners With OpenAI to \"Automate\" Local Journalism &nbsp;&nbsp; Futurism",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44c2Z3Tk9aelFEWGxOcERIWWFSZzE0QjdGNDkwcGVwUHc2UjlBb3lXSUxqcFBGY2MtMG1yVFlySHdDeElEQ2VwU1M2RU5zSjFpdjAtcmctaGdqQnhlRlhoRnpBYnN6S1FGb1JqSDR0dzB4cXRPV3pnWTFRN1NMY0U?oc=5"
+      "summary": "Designing a Persistent Knowledge Layer That Refuses to Guess &nbsp;&nbsp; Towards Data Science",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2t2UXlTb2pIZjc2V3pPT1ZwcEp6OFZPWHVwNXZjWVJ3VnVUUzVPZTk0SzR2QkY5SExydnRjNEQtSlVpQ2ZZUGZ3X3d3QzBlRTNselVobmVLQkdManpTeVYyLW9RckJ6R0xYZl9jelUzQndBcC1Bd1VtdTY3ZGdPZGVENHg0WE03SV9Ral9DWVY0Rl9TRnc4?oc=5"
     },
     {
       "headline": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
@@ -52,13 +82,23 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5"
     },
     {
+      "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-16T09:00:49.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5"
+    },
+    {
       "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
       "source": "The Guardian",
       "timestamp": "2026-08-16T08:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5"
     },
     {
@@ -70,111 +110,71 @@
       "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5"
-    },
-    {
-      "headline": "A decade of internal AI battles is finally catching up to Google - MarketWatch",
-      "source": "MarketWatch",
-      "timestamp": "2026-08-15T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "A decade of internal AI battles is finally catching up to Google &nbsp;&nbsp; MarketWatch",
-      "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQellFUDlqM0hEWmM0Z1BGeGdnX25KMnB0ZUhPbnlYQWJBRkNrRHNvR2lDRFBxTkdlZmVaQjNYVzNfMTBSVXpPbHVScjFRLUZMQU9Ydm9GVWdqdnhnY1hkWlN5RlpkMC1ZSnBuTlJjR1MzM2tGNW92SjQ2TUpJMVowYU5uUktjUW8tS0xoSk1ORkdRa0EzcmFLOHdJNmxHRjZ4NUw0N3ljTHliWXc?oc=5"
-    },
-    {
-      "headline": "🔮 The market misread Google’s AI exodus - exponentialview.co",
-      "source": "exponentialview.co",
-      "timestamp": "2026-08-15T04:31:21.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "🔮 The market misread Google’s AI exodus &nbsp;&nbsp; exponentialview.co",
-      "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZWdsVkNBM2FENWdUcndFWFBrS24yOEY0QlBBcWV4ZFZVVTVjQWpxTjFpcHFJSVFodDZPcWFZT2dVS1VrMXRaS1JLQWRGempWelZsazBRS2RWamQtQ3FIanVVS09XX3ltQXAxZmtydk1HQQ?oc=5"
-    },
-    {
-      "headline": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage - Yahoo Tech",
-      "source": "Yahoo Tech",
-      "timestamp": "2026-08-14T16:03:18.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage &nbsp;&nbsp; Yahoo Tech",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVPWER1UEFaZEgwWnJJTlBfS1Z5SHdSY3g3c1dJMWE3SkplclJvRlEwUFFEaW5DNHJVb0NhZlBmWGZOWC1RS1JSTEVmYjdRSnY4VWtUc0NaeFh1RW83NlBsZlJycFZRQUg2NExQd3JKVkc5aTE3UU85cVZVdExjS0s3VzExczZ0SklDN3VUZEwzdUM0?oc=5"
-    },
-    {
-      "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-08-14T15:45:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI talent exodus raises 'huge red flag' ahead of IPO &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44OUJZSWt3dkU4Vmh6T1lEbkFhMi1SNnc0aEF2d1RNNzZ2Q0ViLWM2UGFYS0VSLVUzYW1PNjRPYm04ajJlV2JSdXlGS1BnYU1wcDhyT2pxMzNvNHRWQkoyZGY5bmdaZ2ZI0gFuQVVfeXFMT0hVcEpCdG9PRElhcFVtc211cnNmX0twcF9DeVU2aXNRYXdZaExmNFlDdGluaWtmQ0pjXzY0bVNKWVNRMHY1a0FkSlRTelZaLXBkaW9FNm01TFU0MGY0dVVIQXY2M2ZfekYxd3FiNnc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Dario Amodei admits AI companies have not delivered on their promises - The Next Web",
+        "source": "The Next Web",
+        "timestamp": "2026-08-16T21:12:56.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZEF6UGcyekFROUo3REViVDJpODNSMjExOERtSVVoekJBWjdxelBaZlpUNkNmQlQyWkVGNXN2dWdrUm0yUDJnbWZiakN5YzJBSWljY0VlVHl3NGF1RzFBbDd2REVNVlVVaWlZc28xN3QwNmY0LVhYU3FfRDI?oc=5",
+        "summary": "Dario Amodei admits AI companies have not delivered on their promises &nbsp;&nbsp; The Next Web"
+      },
+      {
+        "headline": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? - The Motley Fool",
+        "source": "The Motley Fool",
+        "timestamp": "2026-08-16T18:58:19.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEVhOGRmTTA1ZTcxLU1ZTVlOb3V1cXZPdkxySllyeUpUVlJ5R19YdVE2V3A2YV9WWGdmRTJVaUVLY040MlBma2pkUEZ4YmNWamRHZjdzY0dDWFNWODk5T2xYRXBtNzhEcklwdlFndm1vOU1oSXBQNjM4RGl2UWQ1ZUk3dDJaTUZxRFo3NjZuUXI1bFJPU0NYdw?oc=5",
+        "summary": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? &nbsp;&nbsp; The Motley Fool"
+      },
+      {
+        "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-08-16T16:53:51.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmRPdmFESjZoRzdqTlNwdU1nb2s0eDA3Y0NQMEtrVTFQcUc4QTY0Zkh1a0VGZnEwSFJoU1dwME9uWFNpMnoxZjI0MklDWVJ2amJOa010OUlBY2FvUUE4TFE3SUdDb3JkNGZrZF95MkI2WnVRVUtNQXhtYWY2ODVoYnRhcUpLZHpTR3g4MkJQZG4xUE5na1VjNFd3?oc=5",
+        "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-16T16:30:48.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5",
+        "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer &nbsp;&nbsp; Business Insider"
+      },
+      {
         "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
         "source": "WSJ",
         "timestamp": "2026-08-16T16:03:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
         "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-08-16T13:41:54.000Z",
+        "headline": "Designing a Persistent Knowledge Layer That Refuses to Guess - Towards Data Science",
+        "source": "Towards Data Science",
+        "timestamp": "2026-08-16T15:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
-        "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Axios Partners With OpenAI to \"Automate\" Local Journalism - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-08-16T11:02:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44c2Z3Tk9aelFEWGxOcERIWWFSZzE0QjdGNDkwcGVwUHc2UjlBb3lXSUxqcFBGY2MtMG1yVFlySHdDeElEQ2VwU1M2RU5zSjFpdjAtcmctaGdqQnhlRlhoRnpBYnN6S1FGb1JqSDR0dzB4cXRPV3pnWTFRN1NMY0U?oc=5",
-        "summary": "Axios Partners With OpenAI to \"Automate\" Local Journalism &nbsp;&nbsp; Futurism"
-      },
-      {
-        "headline": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-16T09:33:18.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5",
-        "summary": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-08-16T08:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
-        "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
-        "source": "The Independent",
-        "timestamp": "2026-08-16T05:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5",
-        "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent"
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2t2UXlTb2pIZjc2V3pPT1ZwcEp6OFZPWHVwNXZjWVJ3VnVUUzVPZTk0SzR2QkY5SExydnRjNEQtSlVpQ2ZZUGZ3X3d3QzBlRTNselVobmVLQkdManpTeVYyLW9RckJ6R0xYZl9jelUzQndBcC1Bd1VtdTY3ZGdPZGVENHg0WE03SV9Ral9DWVY0Rl9TRnc4?oc=5",
+        "summary": "Designing a Persistent Knowledge Layer That Refuses to Guess &nbsp;&nbsp; Towards Data Science"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
