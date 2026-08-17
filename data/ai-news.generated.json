@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T03:03:10.321Z",
+    "generatedAt": "2026-08-17T04:46:54.887Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -58,7 +58,7 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5"
     },
     {
@@ -70,6 +70,16 @@
       "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5"
+    },
+    {
+      "headline": "Anthropic shares more details about how Claude’s new watermarks will work - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-15T18:58:39.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic shares more details about how Claude’s new watermarks will work &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWJ1ZmhOTldsYm5ndl83cmtEeC03dGxRT28tcEZQOXV3MVZUVmFDS3JhZzVzUDBnMFg5N0hPUE9VYTdRd2ljSGU1TUk0VTE1a0hOcFZ0RTNEWFg1OWJkRVdkcVVQSzM3MmR3WDBqQ1lQbXZFaEhOQ0tDaW9za3REd1RaX3ZZdGMwdzRHb3pOMTd5X004V0RLanFRdEhPT05RbXlWVFhDZklWWlk?oc=5"
     },
     {
       "headline": "A decade of internal AI battles is finally catching up to Google - MarketWatch",
@@ -92,24 +102,14 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZWdsVkNBM2FENWdUcndFWFBrS24yOEY0QlBBcWV4ZFZVVTVjQWpxTjFpcHFJSVFodDZPcWFZT2dVS1VrMXRaS1JLQWRGempWelZsazBRS2RWamQtQ3FIanVVS09XX3ltQXAxZmtydk1HQQ?oc=5"
     },
     {
-      "headline": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage - Yahoo Tech",
-      "source": "Yahoo Tech",
-      "timestamp": "2026-08-14T16:03:18.000Z",
+      "headline": "How Claude's text watermarking works - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-08-14T19:22:20.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta Patents AI Glasses That Identify Dinner Guests and Auto-Edit Footage &nbsp;&nbsp; Yahoo Tech",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVPWER1UEFaZEgwWnJJTlBfS1Z5SHdSY3g3c1dJMWE3SkplclJvRlEwUFFEaW5DNHJVb0NhZlBmWGZOWC1RS1JSTEVmYjdRSnY4VWtUc0NaeFh1RW83NlBsZlJycFZRQUg2NExQd3JKVkc5aTE3UU85cVZVdExjS0s3VzExczZ0SklDN3VUZEwzdUM0?oc=5"
-    },
-    {
-      "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-08-14T15:45:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI talent exodus raises 'huge red flag' ahead of IPO &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44OUJZSWt3dkU4Vmh6T1lEbkFhMi1SNnc0aEF2d1RNNzZ2Q0ViLWM2UGFYS0VSLVUzYW1PNjRPYm04ajJlV2JSdXlGS1BnYU1wcDhyT2pxMzNvNHRWQkoyZGY5bmdaZ2ZI0gFuQVVfeXFMT0hVcEpCdG9PRElhcFVtc211cnNmX0twcF9DeVU2aXNRYXdZaExmNFlDdGluaWtmQ0pjXzY0bVNKWVNRMHY1a0FkSlRTelZaLXBkaW9FNm01TFU0MGY0dVVIQXY2M2ZfekYxd3FiNnc?oc=5"
+      "category": "models",
+      "summary": "How Claude's text watermarking works &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5"
     }
   ],
   "aiNews": {
@@ -155,7 +155,7 @@
         "source": "The Guardian",
         "timestamp": "2026-08-16T08:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
         "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ &nbsp;&nbsp; The Guardian"
       },
