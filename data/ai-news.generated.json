@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T08:48:00.061Z",
+    "generatedAt": "2026-08-17T09:46:25.681Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-08-17T02:05:37.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5"
+    },
     {
       "headline": "OpenAI reportedly disbanded its preparedness team - The Verge",
       "source": "The Verge",
@@ -32,12 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzlIdWpnMXozSkZObS1RbEdadnFzUHFkVC1LY3NCYVNGd2JneUN6NHJKQXdDaDU0UExhWXVyeHlMMk8zV1hLRGgzWHZrWTNDYjFpd191MFBMUzRLNm9iZzlIV3BPUWZFSGtlUDc1b3JqUE1kbHpsWHlTT2lwdjlacUk3djBpaW1FX2NacDFfaVNMR0JCUUprQ0ZvRXBETHBmN250UUZyOW44dEJfMHN5NEZKUXJiQkl4?oc=5"
     },
     {
-      "headline": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? - fool.com",
+      "source": "fool.com",
       "timestamp": "2026-08-16T19:30:00.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? &nbsp;&nbsp; The Motley Fool",
+      "summary": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? &nbsp;&nbsp; fool.com",
       "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEVhOGRmTTA1ZTcxLU1ZTVlOb3V1cXZPdkxySllyeUpUVlJ5R19YdVE2V3A2YV9WWGdmRTJVaUVLY040MlBma2pkUEZ4YmNWamRHZjdzY0dDWFNWODk5T2xYRXBtNzhEcklwdlFndm1vOU1oSXBQNjM4RGl2UWQ1ZUk3dDJaTUZxRFo3NjZuUXI1bFJPU0NYdw?oc=5"
     },
@@ -62,26 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5"
     },
     {
-      "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-16T16:03:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5"
-    },
-    {
-      "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-16T13:41:54.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5"
-    },
-    {
       "headline": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-08-16T09:30:00.000Z",
@@ -90,6 +80,16 @@
       "summary": "Instagram promised to remove harassing Meta glasses videos. I keep finding them. &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa21ob2pHblRjRk1VTVduakxKMmtlcUNPUE9sVUlVT2EwTVZ6RGM2QTN5SEpYUllRTUNQank5Q0lNQkFMUGQ5WTY3QjU1OWkyYndMZ1d6Vk56TFNhc2JyTEN3R1hMWWw1c2drT2hiWkQzUjBCV0k4Z290MFJ2NHk1UW9zMm9JVC1TOFFSQmFBMGxsS1FlanJvc21qNEJWSnp0LTloRHhpalZidEFnRW0zOW5qSklCdw?oc=5"
+    },
+    {
+      "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-16T09:00:49.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5"
     },
     {
       "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
@@ -102,18 +102,27 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - independent.co.uk",
-      "source": "independent.co.uk",
+      "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
+      "source": "The Independent",
       "timestamp": "2026-08-16T05:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; independent.co.uk",
+      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-08-17T02:05:37.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
+        "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ"
+      },
       {
         "headline": "OpenAI reportedly disbanded its preparedness team - The Verge",
         "source": "The Verge",
@@ -133,13 +142,13 @@
         "summary": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? - The Motley Fool",
-        "source": "The Motley Fool",
+        "headline": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? - fool.com",
+        "source": "fool.com",
         "timestamp": "2026-08-16T19:30:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTEVhOGRmTTA1ZTcxLU1ZTVlOb3V1cXZPdkxySllyeUpUVlJ5R19YdVE2V3A2YV9WWGdmRTJVaUVLY040MlBma2pkUEZ4YmNWamRHZjdzY0dDWFNWODk5T2xYRXBtNzhEcklwdlFndm1vOU1oSXBQNjM4RGl2UWQ1ZUk3dDJaTUZxRFo3NjZuUXI1bFJPU0NYdw?oc=5",
-        "summary": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? &nbsp;&nbsp; The Motley Fool"
+        "summary": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy? &nbsp;&nbsp; fool.com"
       },
       {
         "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5",
         "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-08-16T16:03:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
-        "summary": "How AI Models From OpenAI and Anthropic Went Rogue &nbsp;&nbsp; WSJ"
       }
     ],
     "whyItMatters": [
