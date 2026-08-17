@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T10:35:09.550Z",
+    "generatedAt": "2026-08-17T11:29:29.429Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,12 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI reportedly disbanded its preparedness team - The Verge",
-      "source": "The Verge",
+      "headline": "OpenAI reportedly disbanded its preparedness team - theverge.com",
+      "source": "theverge.com",
       "timestamp": "2026-08-16T21:32:56.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "OpenAI reportedly disbanded its preparedness team &nbsp;&nbsp; The Verge",
+      "summary": "OpenAI reportedly disbanded its preparedness team &nbsp;&nbsp; theverge.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5"
     },
@@ -102,12 +102,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - independent.co.uk",
-      "source": "independent.co.uk",
+      "headline": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses - The Independent",
+      "source": "The Independent",
       "timestamp": "2026-08-16T05:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; independent.co.uk",
+      "summary": "Mark Zuckerberg faces ‘pervert’ reckoning with AI smart glasses &nbsp;&nbsp; The Independent",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGdMT3RtSlg3TjBXelhLenpTRERJSGE1Q3Jxb1VDQ2dodmE3c2JoYTFYc3dKTkJXUFFtT1hYZU1GNXV3anA2VkdZS3NpODVmREZUWVJjZnVYRlZFODlTU2FXM2gwazZNSF9QajNEVlZNTUpCX2twbDBURkN3TmhYZVNaWHRJNjhicjl4SDJ3?oc=5"
     }
@@ -115,13 +115,13 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI reportedly disbanded its preparedness team - The Verge",
-        "source": "The Verge",
+        "headline": "OpenAI reportedly disbanded its preparedness team - theverge.com",
+        "source": "theverge.com",
         "timestamp": "2026-08-16T21:32:56.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
-        "summary": "OpenAI reportedly disbanded its preparedness team &nbsp;&nbsp; The Verge"
+        "summary": "OpenAI reportedly disbanded its preparedness team &nbsp;&nbsp; theverge.com"
       },
       {
         "headline": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' - Fortune",
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
