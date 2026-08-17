@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T03:52:48.739Z",
+    "generatedAt": "2026-08-17T04:38:44.940Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,17 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Indian central bank likely steps in to defend rupee, traders say",
+      "summary": "Indian central bank likely steps in to defend rupee, traders say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-17T03:41:00.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ010dFJUYlJkLTY2TUltNTN1LVkyZ29ieHpISnpmdVNqdjV1aDRLS0dWTUhzYm1BcS1aSURkckctY0g1dW91WEktR3M4VU80Y0cwZDV4cGNIOHpZbDVjNlB6ZHYzZDVyMXN6QUpqejN1SGtNb0dnWE5wV29ZUVZJbWxvQnBBVVZORGhkM2xmTjBTRkM4YmtzMlU1cnh6clVtOGJ3aS1UUF8?oc=5"
+    },
     {
       "headline": "American actress Hayden Panettiere dies at 36, ABC News reports",
       "summary": "American actress Hayden Panettiere dies at 36, ABC News reports &nbsp;&nbsp; Reuters",
@@ -34,15 +45,26 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDFjUnFHUE1WM1psUjhsS0N3R0plSTRER2cyeTVlQl9wSDBLankxeEkyT2w1cGlrZWJNaUxZcktrVU96QU1rd0lkdjh1ZjVmR2dqRDBSNFdNNVdpV1c2MkVqbXFBWjdPTURwVjBnazA4OGdyOXZDMWtlOEo2ajJsQVpRV2kwUHFCRnc5MDBnbS1vdm5xcWpXRHJRNURnRjVpQ3NzNklpVGtUc3RDajdWREVSLXN0cWlGWTlJQmppeENNb0w3RGc?oc=5"
     },
     {
-      "headline": "Yen edges up as traders push back Fed rate hike bets",
-      "summary": "Yen edges up as traders push back Fed rate hike bets &nbsp;&nbsp; Reuters",
+      "headline": "Yen stronger as traders cut back bets on Fed rate hike",
+      "summary": "Yen stronger as traders cut back bets on Fed rate hike &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-08-17T00:42:06.000Z",
+      "timestamp": "2026-08-17T00:41:00.000Z",
       "impact": "HIGH",
       "region": "United States",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5"
+    },
+    {
+      "headline": "Yen edges up as traders push back Fed rate hike bets",
+      "summary": "Yen edges up as traders push back Fed rate hike bets &nbsp;&nbsp; uk.mobile.reuters.com",
+      "source": "uk.mobile.reuters.com",
+      "timestamp": "2026-08-17T00:41:00.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2p0X29uQzBuTHU4SVNtNTdRNk5WbHpDSlJhc0E2MGtWY3AycHo4RGZZcUJJbUU0cXdzeFR0UUFVeVBhamV0b1J2WTJMNzJmcHdIaUxqVlRSRlI1em1ERFp4UGVYWk96RW1LNGhVdlpGZ1FvdVo3aTJhaGpmNmllcERYbUlXeV80MnlKemFWSTNyU3JzYjlKRTQ4OHZBNzNJYi0tazJyRmw2Ui1tQ0RJ?oc=5"
     },
     {
       "headline": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows",
@@ -76,28 +98,6 @@
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5"
-    },
-    {
-      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows",
-      "summary": "Shipping slows through Strait of Hormuz after tanker attacks, data shows &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-16T23:54:51.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5"
-    },
-    {
-      "headline": "Trump orders Pentagon to cut back military exercises with South Korea",
-      "summary": "Trump orders Pentagon to cut back military exercises with South Korea &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-16T21:39:00.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5"
     }
   ]
 }
