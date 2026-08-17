@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T18:44:16.273Z",
+    "generatedAt": "2026-08-17T19:31:04.609Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions - inc.com",
-      "source": "inc.com",
-      "timestamp": "2026-08-17T18:28:41.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions &nbsp;&nbsp; inc.com",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTlzVFlXVzF6RDJvMzhtMDB6Y0hGQTZ0NDQ5Q0w3UmZGZmRXLUwzeEY1YUpXM2t0VGV5T3hybUNXb1B3ZFhGZDVhc2EzcjhySVZ6aF9JMmptTmkwTnFDcHZJaVpyOFJ0clg3RzVZSktTVHpQWkRDX2tqaG92Z2NDcTZmWC1MTTNuMkNpNEdwX1F0cGZsWGdmWFFud21RSGg5ZVhybjJaNkV3dVJfaFRyT3RlN3hTZw?oc=5"
-    },
     {
       "headline": "Google DeepMind’s Chief AI Officer Got the Job With No AI Training. Here’s What Set Her Apart. - entrepreneur.com",
       "source": "entrepreneur.com",
@@ -42,22 +32,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5"
     },
     {
-      "headline": "Anthropic's Dario Amodei says the AI industry's backlash is a crisis of trust - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-08-17T13:05:44.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic's Dario Amodei says the AI industry's backlash is a crisis of trust &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55OG5MSS11Ni1mYWxOaVFFUUFHY1paYjJDc3cwYVJpWVRMbkxSamh4bURMalZKYVNPcEdBcms2ZHU4R0w2ck54T0FCWTZsQ2tRVUoyRzJPTm5iWERjVFFXdGFwcWRnLWJzYkw1TUFhNzNlQVJjaXRIQg?oc=5"
-    },
-    {
-      "headline": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth - eweek.com",
-      "source": "eweek.com",
+      "headline": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth - eWeek",
+      "source": "eWeek",
       "timestamp": "2026-08-17T11:40:31.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth &nbsp;&nbsp; eweek.com",
+      "summary": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth &nbsp;&nbsp; eWeek",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kOEZpMXkxRkhxbUlIdzY0a2p1Y0ZfWC1JWHNfUV81aGhHNVRBSnlSc3dMbS1FTVpDT3BDS1BIOHl1UXhsNU5HNkJXLXotWnh1MTBkRGlLRGI2YUV3ZnUzT0hPRnpCdWEw?oc=5"
     },
@@ -70,6 +50,16 @@
       "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model &nbsp;&nbsp; CNBC",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5"
+    },
+    {
+      "headline": "New policy ideas for the Intelligence Age - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-08-17T10:23:04.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "New policy ideas for the Intelligence Age &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5"
     },
     {
       "headline": "OpenAI reportedly disbanded its preparedness team - The Verge",
@@ -90,6 +80,16 @@
       "summary": "Dario Amodei says people worry companies or governments look for a 'new way to screw them over' &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzlIdWpnMXozSkZObS1RbEdadnFzUHFkVC1LY3NCYVNGd2JneUN6NHJKQXdDaDU0UExhWXVyeHlMMk8zV1hLRGgzWHZrWTNDYjFpd191MFBMUzRLNm9iZzlIV3BPUWZFSGtlUDc1b3JqUE1kbHpsWHlTT2lwdjlacUk3djBpaW1FX2NacDFfaVNMR0JCUUprQ0ZvRXBETHBmN250UUZyOW44dEJfMHN5NEZKUXJiQkl4?oc=5"
+    },
+    {
+      "headline": "Dario Amodei admits AI companies have not delivered on their promises - The Next Web",
+      "source": "The Next Web",
+      "timestamp": "2026-08-16T21:12:56.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Dario Amodei admits AI companies have not delivered on their promises &nbsp;&nbsp; The Next Web",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0ZEF6UGcyekFROUo3REViVDJpODNSMjExOERtSVVoekJBWjdxelBaZlpUNkNmQlQyWkVGNXN2dWdrUm0yUDJnbWZiakN5YzJBSWljY0VlVHl3NGF1RzFBbDd2REVNVlVVaWlZc28xN3QwNmY0LVhYU3FfRDI?oc=5"
     },
     {
       "headline": "Why people aren’t buying Mark Zuckerberg’s AI future - Yahoo Tech",
@@ -115,15 +115,6 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions - inc.com",
-        "source": "inc.com",
-        "timestamp": "2026-08-17T18:28:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTlzVFlXVzF6RDJvMzhtMDB6Y0hGQTZ0NDQ5Q0w3UmZGZmRXLUwzeEY1YUpXM2t0VGV5T3hybUNXb1B3ZFhGZDVhc2EzcjhySVZ6aF9JMmptTmkwTnFDcHZJaVpyOFJ0clg3RzVZSktTVHpQWkRDX2tqaG92Z2NDcTZmWC1MTTNuMkNpNEdwX1F0cGZsWGdmWFFud21RSGg5ZVhybjJaNkV3dVJfaFRyT3RlN3hTZw?oc=5",
-        "summary": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions &nbsp;&nbsp; inc.com"
-      },
-      {
         "headline": "Google DeepMind’s Chief AI Officer Got the Job With No AI Training. Here’s What Set Her Apart. - entrepreneur.com",
         "source": "entrepreneur.com",
         "timestamp": "2026-08-17T18:19:16.000Z",
@@ -142,22 +133,13 @@
         "summary": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Anthropic's Dario Amodei says the AI industry's backlash is a crisis of trust - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-08-17T13:05:44.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55OG5MSS11Ni1mYWxOaVFFUUFHY1paYjJDc3cwYVJpWVRMbkxSamh4bURMalZKYVNPcEdBcms2ZHU4R0w2ck54T0FCWTZsQ2tRVUoyRzJPTm5iWERjVFFXdGFwcWRnLWJzYkw1TUFhNzNlQVJjaXRIQg?oc=5",
-        "summary": "Anthropic's Dario Amodei says the AI industry's backlash is a crisis of trust &nbsp;&nbsp; qz.com"
-      },
-      {
-        "headline": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth - eweek.com",
-        "source": "eweek.com",
+        "headline": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth - eWeek",
+        "source": "eWeek",
         "timestamp": "2026-08-17T11:40:31.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kOEZpMXkxRkhxbUlIdzY0a2p1Y0ZfWC1JWHNfUV81aGhHNVRBSnlSc3dMbS1FTVpDT3BDS1BIOHl1UXhsNU5HNkJXLXotWnh1MTBkRGlLRGI2YUV3ZnUzT0hPRnpCdWEw?oc=5",
-        "summary": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth &nbsp;&nbsp; eweek.com"
+        "summary": "Microsoft AI Power Bottleneck Raises Risks for Azure Growth &nbsp;&nbsp; eWeek"
       },
       {
         "headline": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
@@ -167,6 +149,24 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGFodld0bUNaak0zcjNiZU5MbmF6NWhrVjIxTFl5Tkl1MEFSOENuczNza1cwRGFnSXlTcU1sLUJmeWJMTjNOUG1RTFBzMTNMRGJsQzFHTlgzbkp3cmIwdy03N2tYd2RuN2Z0QnZzUGxWTmJJM2lWMVVIWkk3MUFkcjNtWkFqVHBlVjEw0gGQAUFVX3lxTE9LV0xtYUQ5UXpDNVIzYXk5VXVrUGREUFBQSlJyS0NDNzNkdDhSeVBXZkt0QVBKY09TOUtldVpUQjA4SEQ1UmsxaVpaMWdGeWFHdUg5MFVqTTRkRFItRTFWU2FiY3NSRjBMN0NDLTJMNXkwRTJrdi16OTlPd3VyU3RZeFZINEV2c29IeFFUSkhvWg?oc=5",
         "summary": "Alibaba answers Meta’s AI challenge with new laptop-ready model &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "New policy ideas for the Intelligence Age - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-08-17T10:23:04.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5",
+        "summary": "New policy ideas for the Intelligence Age &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "OpenAI reportedly disbanded its preparedness team - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-08-16T21:32:56.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
+        "summary": "OpenAI reportedly disbanded its preparedness team &nbsp;&nbsp; The Verge"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
