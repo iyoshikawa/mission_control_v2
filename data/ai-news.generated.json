@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-18T08:40:38.756Z",
+    "generatedAt": "2026-08-18T09:37:05.664Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Is ChatGPT dropping more f-bombs lately? Users think so. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-18T09:00:05.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Is ChatGPT dropping more f-bombs lately? Users think so. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjh4cEpKQlVFc1E0Y0wtY0UyMHktY1M1UEM0am5BWkdsT1Zsaks5V2FhQ3VwT3hZbWJxNWVOamgwZlAwUlcyb1JkbG1RWV9sdzFVQmsxVW9WblY4UWFFR3lULU41dG5WYWN5c1M3emJpZTdGbHF5UFY5Y183SWlxcFhn?oc=5"
+    },
+    {
+      "headline": "AI hasn’t gone rogue. It’s worse than that - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-08-18T04:00:42.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AI hasn’t gone rogue. It’s worse than that &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnFZc1d0aHJpLWZXd1hjT0h2NWtaMUVUc2JxZkZldW9vbUxWMWx1NjNxV1ZZMGkwMTl0OGtjVkJ4R0x3c19IVTNsZVFVWFJrOHlMbFJnNHBhNE5tbk5vNEFuT2JwX1ZzXzNLekhWX1FEQTA4ZGVZWlJCRmR6TTI4VXJ6TTg?oc=5"
+    },
+    {
+      "headline": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO - Bloomberg.com",
+      "source": "Bloomberg.com",
       "timestamp": "2026-08-18T03:29:00.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO &nbsp;&nbsp; Bloomberg Anthropic revenue run rate tops $65 billion, source says &nbsp;&nbsp; Reuters Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO &nbsp;&nbsp; Axios",
+      "summary": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO &nbsp;&nbsp; Bloomberg.com Anthropic revenue run rate tops $65 billion, source says &nbsp;&nbsp; Reuters Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5"
-    },
-    {
-      "headline": "Meta Taps Disability Groups To Explore Uses For AI Glasses - Disability Scoop",
-      "source": "Disability Scoop",
-      "timestamp": "2026-08-18T03:01:40.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta Taps Disability Groups To Explore Uses For AI Glasses &nbsp;&nbsp; Disability Scoop",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFIQjljRUdFXzZBRTdNc2lzc0Z5dGtVS0FPX01MVlZPNzNSMmpQdk5rVWt4Vkk0NThMbWJ6eEtQbFpzZkZNTGw5MjVGQTYzYVgyU05yNVZrNkNOcWM5S2lTenJoRzIweHVCSmtxT2xzTU1lZkxTSjlyeF9rTWFwTEdNaU44SGdYY1ZzVldrMXFzT2cySEZwQVVyLUlDeFdvcjBXVUEtS205d1RF?oc=5"
     },
     {
       "headline": "Microsoft (NASDAQ: MSFT) Stock Price Surges 18% As Azure Cracks $100 Billion In Annual Revenue For The First Time - foreignpolicyjournal.com",
@@ -42,24 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWjhYWjFyUzJCQ0xVdW1xTXJLeFg4UGdwOUhmWU4tWkNmT2o5aGpYX2pUenZKUC0weEhuSHRMZ19IVXRRdm5lMmdMS2hmWU03QXdkbXM4NEtrdHE0dFpyRWpjVGRSUm1PUi1RUW13ZGJiaHdiLXQ4VnhTWVk1RTR3VkdlVkZDWGdLRzgxdE5sX0pRVklMcTRKbF9PSGZyX2Z0Y2w2QTRvWVR4ZVd1OXBxOGdvWlB4OWlXRjltY1dNZmJwZmRrUG1HYmtEN0lQdGtmN2h3TEljbDE0YkxmSEc5MzhvU0NwZzdXbUpwWDN3?oc=5"
     },
     {
-      "headline": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting - singularityhub.com",
-      "source": "singularityhub.com",
+      "headline": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting - SingularityHub",
+      "source": "SingularityHub",
       "timestamp": "2026-08-17T22:42:15.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting &nbsp;&nbsp; singularityhub.com",
+      "summary": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting &nbsp;&nbsp; SingularityHub",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVFORzVoazJ6LVFEdDRrSW9RTDB4ajJYZVhpRlhMbk13OUVCa2ZlWWhNejZkN19WZk9kOWxJUkRlRmVCdDg1ZmVyOFk0UVNBZWVzVy1QQWFUdXRURnN6aDM3X0Z4aTVsUm84ZU95VE9LNzF2VXNrZnEza0Y0M05CQUJuam53eUMzbE5tNFEyeUVlczM4UWVXQ21yYzM0VjFmV3BCdXZoUXVFWEhQRWQ0bGFpS29VMk1pUkJYTTJWc3dtM2JhNDkxY01KLXpKNzlPeTR6dUNn?oc=5"
-    },
-    {
-      "headline": "Music publisher sues Anthropic, Suno over AI training - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-17T21:52:23.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Music publisher sues Anthropic, Suno over AI training &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzBuU0RkY3lGY0pYZmM3c05LVVNLSUFqV1FfN0hqU053a21tRTYzanpfN0IwOThYTWNUV0ZuWXM1Q2pXRnlLYXhkVnVLMGxTbDlpZS00X1RzV2o0ekkzbHVpc0FLeFgzV0U4SGl1bm0xSk01cVJ4ZVdGOG93OFQyRTJvT3l4Zk16RXlzZk1KTHJHaDNKSVl4Z0VuRER5eC1BUHFWclZXNjF4bWhr?oc=5"
     },
     {
       "headline": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - Tom's Guide",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO - Bloomberg",
-        "source": "Bloomberg",
+        "headline": "Is ChatGPT dropping more f-bombs lately? Users think so. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-18T09:00:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjh4cEpKQlVFc1E0Y0wtY0UyMHktY1M1UEM0am5BWkdsT1Zsaks5V2FhQ3VwT3hZbWJxNWVOamgwZlAwUlcyb1JkbG1RWV9sdzFVQmsxVW9WblY4UWFFR3lULU41dG5WYWN5c1M3emJpZTdGbHF5UFY5Y183SWlxcFhn?oc=5",
+        "summary": "Is ChatGPT dropping more f-bombs lately? Users think so. &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "AI hasn’t gone rogue. It’s worse than that - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-08-18T04:00:42.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnFZc1d0aHJpLWZXd1hjT0h2NWtaMUVUc2JxZkZldW9vbUxWMWx1NjNxV1ZZMGkwMTl0OGtjVkJ4R0x3c19IVTNsZVFVWFJrOHlMbFJnNHBhNE5tbk5vNEFuT2JwX1ZzXzNLekhWX1FEQTA4ZGVZWlJCRmR6TTI4VXJ6TTg?oc=5",
+        "summary": "AI hasn’t gone rogue. It’s worse than that &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO - Bloomberg.com",
+        "source": "Bloomberg.com",
         "timestamp": "2026-08-18T03:29:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVktR0ZGanRzYkMwQjBWRkhfbmVfLTVxR3JpYWtRbk1HemlQbjRab2EzTmN1VDNmYmk5Z0xIWGYzVmU2b3VTRENNTy00d1RrLXBoWjFPVE5hNEQyVDdrZ1ZuTzFaczRGODM0VnpycFpDa0tTZWpFSzYyU3d1dVNwQzlicGJPTm9WdlFHczFUMzNOalhjdDIwSWZZcVltMHdsVDY2OXE4QnZOQ2laUlU4Xw?oc=5",
-        "summary": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO &nbsp;&nbsp; Bloomberg Anthropic revenue run rate tops $65 billion, source says &nbsp;&nbsp; Reuters Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Meta Taps Disability Groups To Explore Uses For AI Glasses - Disability Scoop",
-        "source": "Disability Scoop",
-        "timestamp": "2026-08-18T03:01:40.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFIQjljRUdFXzZBRTdNc2lzc0Z5dGtVS0FPX01MVlZPNzNSMmpQdk5rVWt4Vkk0NThMbWJ6eEtQbFpzZkZNTGw5MjVGQTYzYVgyU05yNVZrNkNOcWM5S2lTenJoRzIweHVCSmtxT2xzTU1lZkxTSjlyeF9rTWFwTEdNaU44SGdYY1ZzVldrMXFzT2cySEZwQVVyLUlDeFdvcjBXVUEtS205d1RF?oc=5",
-        "summary": "Meta Taps Disability Groups To Explore Uses For AI Glasses &nbsp;&nbsp; Disability Scoop"
+        "summary": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO &nbsp;&nbsp; Bloomberg.com Anthropic revenue run rate tops $65 billion, source says &nbsp;&nbsp; Reuters Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO &nbsp;&nbsp; Axios"
       },
       {
         "headline": "Microsoft (NASDAQ: MSFT) Stock Price Surges 18% As Azure Cracks $100 Billion In Annual Revenue For The First Time - foreignpolicyjournal.com",
@@ -142,22 +151,13 @@
         "summary": "Microsoft (NASDAQ: MSFT) Stock Price Surges 18% As Azure Cracks $100 Billion In Annual Revenue For The First Time &nbsp;&nbsp; foreignpolicyjournal.com"
       },
       {
-        "headline": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting - singularityhub.com",
-        "source": "singularityhub.com",
+        "headline": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting - SingularityHub",
+        "source": "SingularityHub",
         "timestamp": "2026-08-17T22:42:15.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRVFORzVoazJ6LVFEdDRrSW9RTDB4ajJYZVhpRlhMbk13OUVCa2ZlWWhNejZkN19WZk9kOWxJUkRlRmVCdDg1ZmVyOFk0UVNBZWVzVy1QQWFUdXRURnN6aDM3X0Z4aTVsUm84ZU95VE9LNzF2VXNrZnEza0Y0M05CQUJuam53eUMzbE5tNFEyeUVlczM4UWVXQ21yYzM0VjFmV3BCdXZoUXVFWEhQRWQ0bGFpS29VMk1pUkJYTTJWc3dtM2JhNDkxY01KLXpKNzlPeTR6dUNn?oc=5",
-        "summary": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting &nbsp;&nbsp; singularityhub.com"
-      },
-      {
-        "headline": "Music publisher sues Anthropic, Suno over AI training - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-08-17T21:52:23.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUzBuU0RkY3lGY0pYZmM3c05LVVNLSUFqV1FfN0hqU053a21tRTYzanpfN0IwOThYTWNUV0ZuWXM1Q2pXRnlLYXhkVnVLMGxTbDlpZS00X1RzV2o0ekkzbHVpc0FLeFgzV0U4SGl1bm0xSk01cVJ4ZVdGOG93OFQyRTJvT3l4Zk16RXlzZk1KTHJHaDNKSVl4Z0VuRER5eC1BUHFWclZXNjF4bWhr?oc=5",
-        "summary": "Music publisher sues Anthropic, Suno over AI training &nbsp;&nbsp; Reuters"
+        "summary": "DeepMind’s Weather AI Predicts Hurricanes a Day Earlier Than Traditional Forecasting &nbsp;&nbsp; SingularityHub"
       },
       {
         "headline": "Meta files patent for AI facial recognition glasses that identify people around you and record automatically - Tom's Guide",
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
