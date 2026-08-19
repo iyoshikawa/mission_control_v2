@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-19T21:28:36.245Z",
+    "generatedAt": "2026-08-19T22:27:57.755Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -72,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFFWNGtQRk5UUV9DSlRNek9IYXVMVGV3VE40ZEZsNmxPQW9meFpGSHJwLXJwemJGYTJpamJ3VGJQN1dnSmdnNzlWMUdwblBOQUszR1Y2NUFoY3hhaXhHc1oxWXdYbm94cXllUlBUQmdrRlVrUUNaSEpmRm9WMDR4Ym9lcTgwMlAx?oc=5"
     },
     {
+      "headline": "Prediction: Microsoft’s AI Boom Is Bigger Than Investors Realize - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-08-19T17:09:16.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Prediction: Microsoft’s AI Boom Is Bigger Than Investors Realize &nbsp;&nbsp; 24/7 Wall St.",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFdnUnZYQ0FDdW1qaTc4RzBUNWZsX01lSE4tMkZIVGtZQzVMZkFOX0NQaExhaE5TOUsxRFZnQ2ktcFBoUU9BZGpVOEl5MmQwTXdpVTVyMHNFMDNwS3g0U0owNzFvTWcyYlk4LURUWDVMYncyOFVRNWZXOFNLZklpTHZTOXpZZW1WOTU1dlcwUmluaFhpel9ZTTUzN2pnNDRaSEtGOV9OSXFJUQ?oc=5"
+    },
+    {
       "headline": "Meta AI is getting a Mac app - The Verge",
       "source": "The Verge",
       "timestamp": "2026-08-19T17:00:00.000Z",
@@ -80,16 +90,6 @@
       "summary": "Meta AI is getting a Mac app &nbsp;&nbsp; The Verge",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5"
-    },
-    {
-      "headline": "Prediction: Microsoft’s AI Boom Is Bigger Than Investors Realize - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "timestamp": "2026-08-19T15:30:53.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Prediction: Microsoft’s AI Boom Is Bigger Than Investors Realize &nbsp;&nbsp; 24/7 Wall St.",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFdnUnZYQ0FDdW1qaTc4RzBUNWZsX01lSE4tMkZIVGtZQzVMZkFOX0NQaExhaE5TOUsxRFZnQ2ktcFBoUU9BZGpVOEl5MmQwTXdpVTVyMHNFMDNwS3g0U0owNzFvTWcyYlk4LURUWDVMYncyOFVRNWZXOFNLZklpTHZTOXpZZW1WOTU1dlcwUmluaFhpel9ZTTUzN2pnNDRaSEtGOV9OSXFJUQ?oc=5"
     },
     {
       "headline": "Netwrix Extends Microsoft Cloud Identity Security With AI Agent Visibility - Security Info Watch",
@@ -172,9 +172,9 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
