@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-19T09:37:21.480Z",
+    "generatedAt": "2026-08-19T10:32:16.308Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Cybersecurity News: AI “mind virus,” living off Azure, an Irregular post-mortem - CISO Series",
+      "source": "CISO Series",
+      "timestamp": "2026-08-19T10:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Cybersecurity News: AI “mind virus,” living off Azure, an Irregular post-mortem &nbsp;&nbsp; CISO Series",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb29rcEw5VWg3TU52TUVOTU5ueGZMMEs0TEs5MmkzUG9uWjJJLTNEMXY2VmJTSGNtRWEzZHlUcURlYlYtZmxzX3BSc01JNXVVR3o5WXJIQ19tQ1U5alJNNy1ES3paUmpYSkctQ3NrbGpiT2t5NXp4YUNRTWJTbVJwVVFyWnhFdTZHT3dIbjlqUmV6bXMwMUhBcFpsM2N6TFU?oc=5"
+    },
     {
       "headline": "OpenAI blinks first in AI safety standoff - Axios",
       "source": "Axios",
@@ -27,7 +37,7 @@
       "timestamp": "2026-08-18T23:47:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic &nbsp;&nbsp; WSJ",
+      "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic &nbsp;&nbsp; WSJ Anthropic’s Annualized Revenue Tops $65 Billion Before IPO &nbsp;&nbsp; Bloomberg.com The Math Of The AI Bubble Is Changing &nbsp;&nbsp; Seeking Alpha",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5"
     },
@@ -52,14 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5"
     },
     {
-      "headline": "OpenAI announces slowing pace of development after hack by rogue agent - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-18T20:47:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI announces slowing pace of development after hack by rogue agent &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02M0ExWjVvUGFYRlJ5S2laeDR1M3NDRWFlU0UwMVN5VXJ5M0hvMmRUZGV0VzlqUnJCQWtSNnBadl8wWnFLV3ZVN1dzTHg1dDhSalB2UHAzVW1xUG1CVEU5b2xkZ1NJTGh2Wl9qWk5LZGFKMGU3RUZqVQ?oc=5"
+      "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-18T19:03:27.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI slows model training to bolster security after Hugging Face hack &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5"
     },
     {
       "headline": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
@@ -80,16 +90,6 @@
       "summary": "Microsoft Stock Leads 3 AI Infrastructure Picks Backed by Cloud and Chip Spending &nbsp;&nbsp; simplywall.st",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjBpS0RxRHFZLVdlalNFU0R5V3p5YXhkeFJQbFMxSWRuZjdjaXo5NzZtemwtT3dPa25jSmw1ek9CcVFfajNpd0hfeWVYRHNhZTlGRmNjekUzM1F3MXU1LTRqRHQxUVByNkt6YzgtTk1zVFYwczJsWTJJRHBaYVRZLXI4eTdCeENoYTJCMDhXWVVnTDM2X2JEZDlGSC1fWnlBeHNaOTRpSElCYS1Pd0cwZF9sQmw0eXdZSzBJLTdPU2htZGlpTGRZ0gHMAUFVX3lxTE5nNV9HYUNId1FQd2VLT0NpUktrazJoSW1lVjhWX0sxMlZER1RjM2JXbnNhOEs1MXh6VWUxWUkzeUZFN0xmNDktMFF6VllpMjBOaG9DRGVKNll2b1MyM3E0Tk1nb1J1UE4yOXRHLXZSdDVOOVNSTEFIbmlIY3BVTkNsZDQ4MERhWExid21KcFg5cHlPd2R3OHFGRmd3Z2NhbUREV0lqQmx5VklWWk5JX0VLQWZxdVdmczBBODdkaUxIcGFWNkc0SHN3VXJGNA?oc=5"
-    },
-    {
-      "headline": "OpenAI Gains Against Anthropic Among OpenRouter Customers - The Information",
-      "source": "The Information",
-      "timestamp": "2026-08-18T14:10:34.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Gains Against Anthropic Among OpenRouter Customers &nbsp;&nbsp; The Information",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNPdVUycEVoS0tvWHA4V2JhQ1VjN0hURWFtSDkzT2J1dTFXMEhYVXRUUlZ6MDFmTjZYNnJfNHU0aTBPOURtVWRxVEJwSGZYRDRKdTBWdlhVV3ZHUlBNWnBsb2JSclJjb2N6cEFxaVFxQThwbklxd1B2ZWNvR3YwNHZKWWZPeHFOYmNiWTZ0TFFpV01fWVIwSzlMX3NPbUlVWmJOdHdDQ0RaS2h4?oc=5"
     },
     {
       "headline": "I make over $250k as a Meta AI researcher. Publishing research helped me land the job. - Business Insider",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Cybersecurity News: AI “mind virus,” living off Azure, an Irregular post-mortem - CISO Series",
+        "source": "CISO Series",
+        "timestamp": "2026-08-19T10:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb29rcEw5VWg3TU52TUVOTU5ueGZMMEs0TEs5MmkzUG9uWjJJLTNEMXY2VmJTSGNtRWEzZHlUcURlYlYtZmxzX3BSc01JNXVVR3o5WXJIQ19tQ1U5alJNNy1ES3paUmpYSkctQ3NrbGpiT2t5NXp4YUNRTWJTbVJwVVFyWnhFdTZHT3dIbjlqUmV6bXMwMUhBcFpsM2N6TFU?oc=5",
+        "summary": "Cybersecurity News: AI “mind virus,” living off Azure, an Irregular post-mortem &nbsp;&nbsp; CISO Series"
+      },
+      {
         "headline": "OpenAI blinks first in AI safety standoff - Axios",
         "source": "Axios",
         "timestamp": "2026-08-19T09:16:07.000Z",
@@ -130,7 +139,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
-        "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic &nbsp;&nbsp; WSJ"
+        "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic &nbsp;&nbsp; WSJ Anthropic’s Annualized Revenue Tops $65 Billion Before IPO &nbsp;&nbsp; Bloomberg.com The Math Of The AI Bubble Is Changing &nbsp;&nbsp; Seeking Alpha"
       },
       {
         "headline": "Netwrix Extends Identity Security Monitoring to AI Agents in Microsoft Entra ID - Redmond Channel Partner",
@@ -151,22 +160,13 @@
         "summary": "How Claude is accelerating protein design and analytical chemistry &nbsp;&nbsp; Anthropic"
       },
       {
-        "headline": "OpenAI announces slowing pace of development after hack by rogue agent - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-08-18T20:47:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02M0ExWjVvUGFYRlJ5S2laeDR1M3NDRWFlU0UwMVN5VXJ5M0hvMmRUZGV0VzlqUnJCQWtSNnBadl8wWnFLV3ZVN1dzTHg1dDhSalB2UHAzVW1xUG1CVEU5b2xkZ1NJTGh2Wl9qWk5LZGFKMGU3RUZqVQ?oc=5",
-        "summary": "OpenAI announces slowing pace of development after hack by rogue agent &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-08-18T18:41:53.000Z",
+        "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-08-18T19:03:27.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
-        "summary": "Pacing model development in an era of cyber-critical capabilities &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDJTaTlYUTJwMk9Ea25zUWNwU0xPTERvVTU3OEdzWUhQcEt4YTZFR0ZZZ0l3MFd6SHNiRG5fMGtkRGNZYmpQR25KR2FXUmVvTFVOVm44Ql8wZ2ppMm9ZZ19NOFJJYzFnbXJmbDQ4ZW5vTHhVU2VGMExGNVZtaWhiVml1ODA0dUhKQ2pKaDN3XzkySFVibXI2T2FEREMxSTBLYlBWbnFlNkl3V0lfX0NoYVZOaTdpdw?oc=5",
+        "summary": "OpenAI slows model training to bolster security after Hugging Face hack &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -178,7 +178,7 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
