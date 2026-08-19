@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-19T06:39:28.755Z",
+    "generatedAt": "2026-08-19T07:35:47.716Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,9 +12,20 @@
   },
   "newsFeed": [
     {
-      "headline": "Temasek-backed Shiprocket jumps 35% in debut trade after $170 million India IPO",
-      "summary": "Temasek-backed Shiprocket jumps 35% in debut trade after $170 million India IPO &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "headline": "Japan says US sanctions on ICC, President Akane 'very unfortunate'",
+      "summary": "Japan says US sanctions on ICC, President Akane 'very unfortunate' &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-08-19T06:44:00.000Z",
+      "impact": "HIGH",
+      "region": "Japan",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5"
+    },
+    {
+      "headline": "Temasek-backed Shiprocket takes off with $1 billion valuation after strong India debut",
+      "summary": "Temasek-backed Shiprocket takes off with $1 billion valuation after strong India debut &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-08-19T04:16:00.000Z",
       "impact": "HIGH",
       "region": "India",
@@ -23,20 +34,31 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnJuQUpHaUVEemQ4a3NCSEJRaGhQZDlGVFpsQzR6RlVEUU1neHhOdFg5Q1lNT0pXaC0xaVFGLVdHT0JnWWd1VVh3M0o3TDhFNlZ1ODhpLW5VUndqSUZPMUVDQW9VTXlob1F4bmdsVWM3bk1wZ01LbnZoSGRpQzE4bldnSklfVWRfZnBzSWM3YVRwRFM1aW1sWEVUd3JhMXgwTkMwX19MQ2tjYVdSUEZILTl6NDY3M3pUNGtXTGpjTQ?oc=5"
     },
     {
-      "headline": "Nvidia H200 chips reach China in small shipments, FT reports",
-      "summary": "Nvidia H200 chips reach China in small shipments, FT reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-19T02:17:00.000Z",
+      "headline": "Attacks on aid workers hit record high in 2025, UN says",
+      "summary": "Attacks on aid workers hit record high in 2025, UN says &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-08-19T04:05:00.000Z",
       "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5"
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmtzR2tmZkZCUlRxU3JkRjZla3I2ODFrRERhVmRrS3pBaHRUM3BYLXNjSEJUdTFIc1dOMVVrUDFpRlQzc3lMNkFXMlpQSjNkbFJJcUpvV0tBTkFvUU9NeWxsT1RkcDBIUzNuRm9QeGhUR0g3d1ZUeEhaSFlXUkRlT3dCcFRqS19zVThMclVOV2lSLXlPOEI0dmJWbGR3QQ?oc=5"
+    },
+    {
+      "headline": "Investors set sights on Swiss franc for popular carry trades after yen intervention",
+      "summary": "Investors set sights on Swiss franc for popular carry trades after yen intervention &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-08-19T04:02:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnAzS0lzUXlRcWhYbXljdDlSVWZNM2lXMVd4aUNMVllRdnNrRV91SjJ2TVFiV1BpQmdsN3VOV1hNV0g3bHdRUFFvUGxEYmh4R29UTkFnQU5qcldLX0FpRzVYbzRocl9Gd1U2Qk9JTlFwUmhDQ3BOTVBybTdKXzhoTm1rOFMyU28wZmQ0Q21KZlY0Qzkzb3NHc2VUbG40TnhCQjFTbkJBbXE1bHdQeXZMNjdXYWhwNnI4cXZjZ0VkMWtqandIeWh4ag?oc=5"
     },
     {
       "headline": "Oil extends climb on prolonged Hormuz export uncertainty",
-      "summary": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "summary": "Oil extends climb on prolonged Hormuz export uncertainty &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-08-19T00:39:00.000Z",
       "impact": "HIGH",
       "region": "Global",
@@ -46,8 +68,8 @@
     },
     {
       "headline": "Trump pushes for Kim Jong Un meeting this year, WSJ reports",
-      "summary": "Trump pushes for Kim Jong Un meeting this year, WSJ reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "summary": "Trump pushes for Kim Jong Un meeting this year, WSJ reports &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-08-18T23:31:43.000Z",
       "impact": "HIGH",
       "region": "Global",
@@ -57,8 +79,8 @@
     },
     {
       "headline": "Zambia's Hichilema re-elected though cost-of-living pressures dent his support",
-      "summary": "Zambia's Hichilema re-elected though cost-of-living pressures dent his support &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "summary": "Zambia's Hichilema re-elected though cost-of-living pressures dent his support &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-08-18T22:53:33.000Z",
       "impact": "HIGH",
       "region": "Global",
@@ -68,36 +90,14 @@
     },
     {
       "headline": "US sanctions ICC president, senior trial lawyer in latest attack on court",
-      "summary": "US sanctions ICC president, senior trial lawyer in latest attack on court &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "summary": "US sanctions ICC president, senior trial lawyer in latest attack on court &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-08-18T22:42:56.000Z",
       "impact": "HIGH",
       "region": "United States",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa216Q2JDZGZ2enFuVmRjLXkzbFU5RmdyZkszQnJnVHFkZExkRmI4ZWpOV2FGMVpZV29qNzhtaFhyZmZKYUxMRDRyTlduM3J4ZHF1N0czVlo1dGs2amxDektLMFR5a0VjQ2I3MGNQTHRSWE5Mck9lMnUxNWZiVTJQX2ZPdlJlQmFKYUktOUdHeXRSYlFYSG8xbk80bUxJNVVhS1h5dDNhNm9RV2UyYWJ4QTFXY090SzFOV2VEYmpwRnp0RXZFQ21xTW9sWTJnNmM?oc=5"
-    },
-    {
-      "headline": "Inside ETFs: Is South Korea still the chip trade to bet on?",
-      "summary": "Inside ETFs: Is South Korea still the chip trade to bet on? &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-18T21:53:29.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRG9oNEVBVHNyVF9sN2IxZnY2ZzRTMVNtVnRQajhQcy1IalNQeUxLckRGNWZvSUpzYllFZ2loTWNCSERxS0F3dEdDdkhaeFhpSDdPWmI5c2E4X2dsVG5QTG5YMThUX00?oc=5"
-    },
-    {
-      "headline": "US yields edge lower despite Iran worries, broader sell-off",
-      "summary": "US yields edge lower despite Iran worries, broader sell-off &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-18T21:20:27.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5"
     }
   ]
 }
