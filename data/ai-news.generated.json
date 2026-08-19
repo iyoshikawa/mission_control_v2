@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-19T05:33:49.470Z",
+    "generatedAt": "2026-08-19T06:50:40.407Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,16 +12,6 @@
   },
   "newsFeed": [
     {
-      "headline": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-08-19T02:02:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTd0VkZvbnl6cC1DUVI3V3FmcG5DLVpGZXR0MDN2eE83NmVnS3BoWWlnWHRodzMtZllWVjNlNEhVNThkTHRxOGMtNnBWUU1BdDNjVXhyVTZHYTBFbmtvT21PU1FPWWN3eEtzYWd6eVAwTHdPWXBNSFVJejNybFRkanVRbE1nWXRiazBkUXpjQXNUUWR3V1Jr?oc=5"
-    },
-    {
       "headline": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
       "source": "WSJ",
       "timestamp": "2026-08-18T23:47:00.000Z",
@@ -30,6 +20,26 @@
       "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5"
+    },
+    {
+      "headline": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-08-18T22:14:57.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "How Claude is accelerating protein design and analytical chemistry &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5"
+    },
+    {
+      "headline": "OpenAI pauses some AI training after autonomous cyberattack - abcnews.com",
+      "source": "abcnews.com",
+      "timestamp": "2026-08-18T21:31:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI pauses some AI training after autonomous cyberattack &nbsp;&nbsp; abcnews.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3pkZThyZXNILUxPWmJlYXowR0F3clotOTNhOXlncUM4OTJrVWowYlF5ZzFTbXBDVlVFeVpIXzgtU1NfS2xnRW1kVVBzM2UtOGRRZ0R6a0ZuZGhxWkl2b1NxUG56bU1CNmhFQk1yT1R6Qk5QcE5IMGp4SlZlcThQRTNfNEZVSUxjcDBvTXJjRTFCUXJ3UG5wUkVYdUVOdlNRVVZJRdIBqgFBVV95cUxNaVczV25XbXRnN0wzZHpFWGctazgxQXk2bWpCUUxOSDdmcGw5R3VkSU5Zb0doRVVFbEFiaXpWNTl5V0lzWEd6Ny1HdFdrSTFENU5IMUZoZVUyY2R2ZkFtSERZNTJCT3FiXzJyeDlRR2oxWjhoS3BScnU4MUFjT0xlQ2ZZV1c3Zjh5N2pnSnF1U3dFN1FDS1FPbklsT1hYZlZZdy1kbDUxOHc4dw?oc=5"
     },
     {
       "headline": "OpenAI announces slowing pace of development after hack by rogue agent - The Guardian",
@@ -62,12 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xVnR1U2V1M3p5QnMyS3hFazFhOVBFLTJNaGpLTy16enZJalQ3UjNOSVNUd0FNMGpRSXRMY3NwRzhaVk9qZnUwSkVDRURvOXoxVWdyU0Jzeml1OWd4Mjh6dXVHaVROZHMyOFlSWmdoa0R3akNDdWc?oc=5"
     },
     {
-      "headline": "Pacing model development in an era of cyber-critical capabilities - openai.com",
-      "source": "openai.com",
+      "headline": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
+      "source": "OpenAI",
       "timestamp": "2026-08-18T18:41:53.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Pacing model development in an era of cyber-critical capabilities &nbsp;&nbsp; openai.com",
+      "summary": "Pacing model development in an era of cyber-critical capabilities &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5"
     },
@@ -80,16 +90,6 @@
       "summary": "Google DeepMind APAC Research Symposium 2026: Three-Day AI Research Programme for Faculty and Students &nbsp;&nbsp; Global South Opportunities",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KZ3FxTU4xVDVFSElQWnljdWtaLVQxUVkybk1fbUUyTlNrOHFzTXhjSHZpTkJaa3h0aHdGT01nbVVEcXUwVGloZk9FQVIyUUk5Ui1ob2taVmNaYndzajN6WGFEMF9PY2wxb2s1MUxOUXVEUQ?oc=5"
-    },
-    {
-      "headline": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-18T16:42:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Pre-IPO Credit Facility Set to Climb Past $10 Billion &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU9mVXV0ZTMtd20xVkxqQXZwVF9rMTRQMmZJOGlZV0hvb1pGQUpRemRlZHYxUEJUbXFUQTBKWGNfSTg0TWxNbEJGb3JjWVdfSGVvOERjemJabTFmSFlHRlB5Mk1kbWE1c2dOQm92enZfVV9McTdDZmxRMDc1UmlHaDAyR3FJb3NVbE9NVmJaVVgyeTdTb1g4dnFCcXY1bXZTNV9MX0szN0FOblBmdmNHRm5Sdw?oc=5"
     },
     {
       "headline": "Microsoft Stock Leads 3 AI Infrastructure Picks Backed by Cloud and Chip Spending - simplywall.st",
@@ -115,15 +115,6 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-08-19T02:02:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTd0VkZvbnl6cC1DUVI3V3FmcG5DLVpGZXR0MDN2eE83NmVnS3BoWWlnWHRodzMtZllWVjNlNEhVNThkTHRxOGMtNnBWUU1BdDNjVXhyVTZHYTBFbmtvT21PU1FPWWN3eEtzYWd6eVAwTHdPWXBNSFVJejNybFRkanVRbE1nWXRiazBkUXpjQXNUUWR3V1Jr?oc=5",
-        "summary": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
         "headline": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
         "source": "WSJ",
         "timestamp": "2026-08-18T23:47:00.000Z",
@@ -131,6 +122,24 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdPZTRQN2NiUEpURUc2cFBxaGN3QlpNV203c05DczRMdFJDWHRoazgtZEVaQlE0aU9CWW9LcC1JcGJwZ1VXd1lsQ0dnOEQ0MzlDdjJZOV9Oend0M1NON0RnUEZ5UHlMMFhrR09UU3pzSlAwRnl5OXRPbWd3NVljR21NNjBmWkVnWm9fZWkxVmZjbFEyQjJod1ZvMjFqSHNFX0VOb0s1X0puUVk?oc=5",
         "summary": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "How Claude is accelerating protein design and analytical chemistry - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-08-18T22:14:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSUlFZ25ZeUpwR2FqLUh5WlJpQVRfM3RPaVg5dlo5NWMzbldIOW1WZDR2MklDNWdidlJIN2JKbUV1VU52aDk0YmlpdVJIVmRVTzRfanM5ZmU5MnlWVTZLSHZhTE0wVC1iRzNwUzRKRTk3MC1DMWZR?oc=5",
+        "summary": "How Claude is accelerating protein design and analytical chemistry &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "OpenAI pauses some AI training after autonomous cyberattack - abcnews.com",
+        "source": "abcnews.com",
+        "timestamp": "2026-08-18T21:31:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3pkZThyZXNILUxPWmJlYXowR0F3clotOTNhOXlncUM4OTJrVWowYlF5ZzFTbXBDVlVFeVpIXzgtU1NfS2xnRW1kVVBzM2UtOGRRZ0R6a0ZuZGhxWkl2b1NxUG56bU1CNmhFQk1yT1R6Qk5QcE5IMGp4SlZlcThQRTNfNEZVSUxjcDBvTXJjRTFCUXJ3UG5wUkVYdUVOdlNRVVZJRdIBqgFBVV95cUxNaVczV25XbXRnN0wzZHpFWGctazgxQXk2bWpCUUxOSDdmcGw5R3VkSU5Zb0doRVVFbEFiaXpWNTl5V0lzWEd6Ny1HdFdrSTFENU5IMUZoZVUyY2R2ZkFtSERZNTJCT3FiXzJyeDlRR2oxWjhoS3BScnU4MUFjT0xlQ2ZZV1c3Zjh5N2pnSnF1U3dFN1FDS1FPbklsT1hYZlZZdy1kbDUxOHc4dw?oc=5",
+        "summary": "OpenAI pauses some AI training after autonomous cyberattack &nbsp;&nbsp; abcnews.com"
       },
       {
         "headline": "OpenAI announces slowing pace of development after hack by rogue agent - The Guardian",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xVnR1U2V1M3p5QnMyS3hFazFhOVBFLTJNaGpLTy16enZJalQ3UjNOSVNUd0FNMGpRSXRMY3NwRzhaVk9qZnUwSkVDRURvOXoxVWdyU0Jzeml1OWd4Mjh6dXVHaVROZHMyOFlSWmdoa0R3akNDdWc?oc=5",
         "summary": "The Math Of The AI Bubble Is Changing &nbsp;&nbsp; Seeking Alpha"
-      },
-      {
-        "headline": "Pacing model development in an era of cyber-critical capabilities - openai.com",
-        "source": "openai.com",
-        "timestamp": "2026-08-18T18:41:53.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
-        "summary": "Pacing model development in an era of cyber-critical capabilities &nbsp;&nbsp; openai.com"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
