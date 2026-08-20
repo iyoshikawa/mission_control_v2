@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-20T15:37:18.189Z",
+    "generatedAt": "2026-08-20T16:38:18.536Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,24 @@
   },
   "newsFeed": [
     {
+      "headline": "It’s Greg Brockman’s OpenAI now - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-08-20T15:45:55.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "It’s Greg Brockman’s OpenAI now &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1Rnck8wS3ZmSnVPVnRVeFJOWHRUR0N5V243VGc1eG1CaFlONUQ5RlRDR0JuZXY0djhUUHBWTm44MG1uakhNY01jdjhIXy1USEtkUWlMTEpUTDJDOXJ3YTJ1VUtVNmxWNHotTnluR3d3Wkp4Nm9UUU83SnQ2YjRWWTVfY2E4b0RhU0JQMndXT0VzR3FvQ184OHRB?oc=5"
+    },
+    {
       "headline": "The Enterprise Journey, Reimagined with AI Agents - Microsoft",
       "source": "Microsoft",
-      "timestamp": "2026-08-20T15:33:45.000Z",
+      "timestamp": "2026-08-20T15:34:40.000Z",
       "impact": "HIGH",
       "category": "market",
       "summary": "The Enterprise Journey, Reimagined with AI Agents &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmpwbEFUZUF0ODA4UDhlUmFxbjVDbTNMTWZCcU1xejV6a2pYN3E0ZmVySEU3TU4weWlMVWswTlUzYTlCRDRkUm9TejZza1dUaDQzV0hPNFdOOXVTSTVzTnBJNUpIa0FMNWM5RURfQ2NCb2w4ejlKcjJ4YWFiUUJHRjdkQ2RCLTVzWVBCa1p1bThRSkdmeVNyQWJScENPVV9yczMtZnZ6dkRlaHk4aWpSeVlrSDVGZk4zQVFYTzRuT1lJcWowOGtFNExWNFc1ZVN4cS01UlN3SXBwdw?oc=5"
-    },
-    {
-      "headline": "I Let Claude Answer My Emails for Me, and Here's How It Went - Lifehacker",
-      "source": "Lifehacker",
-      "timestamp": "2026-08-20T13:40:58.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "I Let Claude Answer My Emails for Me, and Here's How It Went &nbsp;&nbsp; Lifehacker",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pb05wNWZPQXRqRndNeUU4R3BpeGRJQjctQV9pcE15eTdVSU9vZ1dlRnViQjM5TFBySGFMMVJjaGFkem9kZndOalNValU2Q1dvd2IyNm0tVW1ydXVlODdvYWdUOEktMk90MmxJcXJPUjRoSktmVXE1bUVnN2F4dw?oc=5"
     },
     {
       "headline": "Meta becomes major AI customer of Microsoft’s Azure cloud - report - Investing.com",
@@ -48,7 +48,7 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFBRWZSMEJKd2JBSGJVeWtqZXNLTTM5WlR5T2hiLTFha2l6WGhaamRZdnJ3bkI1SUV6enN0NVh4R3dwSDVzaU82ckE1SUlFOTl2X3NhbXdtaVlaMFNieXYxTE5Zc3VUSTB1WkpNNDc5SFg1NFFGUFFLY2NCVy1KYlJ3MGpjVVhoMHdxekhlaWdrZ3gxbU94aEZ6UkVJczVhX1N0ZWVPMWV4ZFpoa1RQZWI2MjU?oc=5"
     },
     {
@@ -115,22 +115,22 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "It’s Greg Brockman’s OpenAI now - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-08-20T15:45:55.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1Rnck8wS3ZmSnVPVnRVeFJOWHRUR0N5V243VGc1eG1CaFlONUQ5RlRDR0JuZXY0djhUUHBWTm44MG1uakhNY01jdjhIXy1USEtkUWlMTEpUTDJDOXJ3YTJ1VUtVNmxWNHotTnluR3d3Wkp4Nm9UUU83SnQ2YjRWWTVfY2E4b0RhU0JQMndXT0VzR3FvQ184OHRB?oc=5",
+        "summary": "It’s Greg Brockman’s OpenAI now &nbsp;&nbsp; The Verge"
+      },
+      {
         "headline": "The Enterprise Journey, Reimagined with AI Agents - Microsoft",
         "source": "Microsoft",
-        "timestamp": "2026-08-20T15:33:45.000Z",
+        "timestamp": "2026-08-20T15:34:40.000Z",
         "impact": "HIGH",
         "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmpwbEFUZUF0ODA4UDhlUmFxbjVDbTNMTWZCcU1xejV6a2pYN3E0ZmVySEU3TU4weWlMVWswTlUzYTlCRDRkUm9TejZza1dUaDQzV0hPNFdOOXVTSTVzTnBJNUpIa0FMNWM5RURfQ2NCb2w4ejlKcjJ4YWFiUUJHRjdkQ2RCLTVzWVBCa1p1bThRSkdmeVNyQWJScENPVV9yczMtZnZ6dkRlaHk4aWpSeVlrSDVGZk4zQVFYTzRuT1lJcWowOGtFNExWNFc1ZVN4cS01UlN3SXBwdw?oc=5",
         "summary": "The Enterprise Journey, Reimagined with AI Agents &nbsp;&nbsp; Microsoft"
-      },
-      {
-        "headline": "I Let Claude Answer My Emails for Me, and Here's How It Went - Lifehacker",
-        "source": "Lifehacker",
-        "timestamp": "2026-08-20T13:40:58.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pb05wNWZPQXRqRndNeUU4R3BpeGRJQjctQV9pcE15eTdVSU9vZ1dlRnViQjM5TFBySGFMMVJjaGFkem9kZndOalNValU2Q1dvd2IyNm0tVW1ydXVlODdvYWdUOEktMk90MmxJcXJPUjRoSktmVXE1bUVnN2F4dw?oc=5",
-        "summary": "I Let Claude Answer My Emails for Me, and Here's How It Went &nbsp;&nbsp; Lifehacker"
       },
       {
         "headline": "Meta becomes major AI customer of Microsoft’s Azure cloud - report - Investing.com",
@@ -146,7 +146,7 @@
         "source": "Bloomberg.com",
         "timestamp": "2026-08-20T13:13:33.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFBRWZSMEJKd2JBSGJVeWtqZXNLTTM5WlR5T2hiLTFha2l6WGhaamRZdnJ3bkI1SUV6enN0NVh4R3dwSDVzaU82ckE1SUlFOTl2X3NhbXdtaVlaMFNieXYxTE5Zc3VUSTB1WkpNNDc5SFg1NFFGUFFLY2NCVy1KYlJ3MGpjVVhoMHdxekhlaWdrZ3gxbU94aEZ6UkVJczVhX1N0ZWVPMWV4ZFpoa1RQZWI2MjU?oc=5",
         "summary": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards &nbsp;&nbsp; Bloomberg.com"
       },
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
