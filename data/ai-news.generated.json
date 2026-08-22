@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-22T18:35:34.472Z",
+    "generatedAt": "2026-08-22T19:25:12.751Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-22T19:00:00.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5"
+    },
     {
       "headline": "Anthropic market debut could break SpaceX IPO record: media - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -100,20 +110,19 @@
       "summary": "If you want a secure AI agent, start restricting its environment. &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOURkR2p4a1pKQ1R0YUZVQjJRZzdobFEzSk1nN0NSRmJNLVVmeDU1TmZDM2h3YWE1QVZ5Z0JEOTJUczJPRHpxd3pyelJhY01zUmJuRVFRcE5IZ0JtdzFHLUJYdVU5Y0hZOVpHdUxNTWhFVTlEVmxnQXF0ZDNsRTFvSTlWNXFBdC02dTRnSg?oc=5"
-    },
-    {
-      "headline": "Exploring new frontiers of AI and games research - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-08-21T12:00:48.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Exploring new frontiers of AI and games research &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWx5RTBia1JNQkw5a1g5dE1xRXZMZ01SMnVmZ2RkbzZuc21mMTdiLW5wY2UzSVRZRUh3VWxsT2t5bGl4YkJMOHhOZHBXV0p5TjVFbjlRSzBTRFMtRkx2cDFDems3Sk9FVEgtUFlPV09oRmNqMDZYUjBaZ2dCVHVzWlJiZzJNUXI4eTAxQ2R6VXh3UkdYUUdFTGNwWkRBV091?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-08-22T19:00:00.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5",
+        "summary": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research &nbsp;&nbsp; TechCrunch"
+      },
       {
         "headline": "Anthropic market debut could break SpaceX IPO record: media - Yahoo Finance",
         "source": "Yahoo Finance",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5",
         "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-08-21T21:30:13.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
-        "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
