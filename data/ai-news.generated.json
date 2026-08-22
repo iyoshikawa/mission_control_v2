@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-22T14:25:03.610Z",
+    "generatedAt": "2026-08-22T15:25:01.032Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "The Brains Who Powered China’s Surprising AI Leap - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-08-22T14:31:45.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Brains Who Powered China’s Surprising AI Leap &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5"
+    },
+    {
       "headline": "'We can demand better': One mother's call to parents as Meta, AI scrutinized for impact on children - Yahoo",
       "source": "Yahoo",
       "timestamp": "2026-08-22T12:11:30.000Z",
@@ -20,16 +30,6 @@
       "summary": "'We can demand better': One mother's call to parents as Meta, AI scrutinized for impact on children &nbsp;&nbsp; Yahoo",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG10bDdUYWl3c2wwVG5WWXA1WjFKUWlqYXlLdEtsUm5WX0ZMUnBkSmhUUFRaT1lYYmRHMDRvVWxuM2xIMkVYdlNLY0U4NzBwUlp1SDlqY29SZlBaMXN1TWlaS0h0cVJFZkd6OVE3WlpMXzNJakRudjZJMDQyYnRTei05SlVQQQ?oc=5"
-    },
-    {
-      "headline": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-22T09:50:00.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVJ4MjRqUHcyVENFZUQzb0F2bU9nU1U1V29JWXpUUTVFQ0VvNFp6b1BvaXdQNUVoX0tQVG5haENRcjZBaHlUYm1QQ0h3ZWhJZWZHVkRUOXpySFFBSUFiT3hBcGltc3BZcmFZZmpQQmprdzcxa1BLVWpyOFh2MmZhdUFVZVZwYXVLcHoydWRBYmo3NHRk?oc=5"
     },
     {
       "headline": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
@@ -82,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5"
     },
     {
-      "headline": "Can Anthropic actually match or beat SpaceX’s IPO? Numbers say \"Yes, but\" - Investing.com",
-      "source": "Investing.com",
-      "timestamp": "2026-08-21T15:34:25.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Can Anthropic actually match or beat SpaceX’s IPO? Numbers say \"Yes, but\" &nbsp;&nbsp; Investing.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ3FVdGJMbW9xcFpFcm1DX2gzQkFIbEhsbXRMOGF1czFVcnJNSUprUHBTeUNwbUs5VDdhZXFEdHo4MW5ib3lRd054QTRCeXhOLTRJbFJraFBfSnJzTVZyNmNSOUxYczRtMlVuX1hfeDlkdzZzMUNsbUpFaGtpV2pJcU5aNUFEREU0OWZVY1h5OTVNMzNFdGR2cDRUMkpaUTNDYzVTLTJBY0lYTDlWTzhwajRDRzA5Z0JkRDFGWnhLcFBYdFU?oc=5"
-    },
-    {
       "headline": "If you want a secure AI agent, start restricting its environment. - Microsoft",
       "source": "Microsoft",
       "timestamp": "2026-08-21T14:04:33.000Z",
@@ -110,10 +100,29 @@
       "summary": "Exploring new frontiers of AI and games research &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWx5RTBia1JNQkw5a1g5dE1xRXZMZ01SMnVmZ2RkbzZuc21mMTdiLW5wY2UzSVRZRUh3VWxsT2t5bGl4YkJMOHhOZHBXV0p5TjVFbjlRSzBTRFMtRkx2cDFDems3Sk9FVEgtUFlPV09oRmNqMDZYUjBaZ2dCVHVzWlJiZzJNUXI4eTAxQ2R6VXh3UkdYUUdFTGNwWkRBV091?oc=5"
+    },
+    {
+      "headline": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-08-21T11:00:53.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "The Brains Who Powered China’s Surprising AI Leap - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-08-22T14:31:45.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
+        "summary": "The Brains Who Powered China’s Surprising AI Leap &nbsp;&nbsp; WSJ"
+      },
       {
         "headline": "'We can demand better': One mother's call to parents as Meta, AI scrutinized for impact on children - Yahoo",
         "source": "Yahoo",
@@ -122,15 +131,6 @@
         "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG10bDdUYWl3c2wwVG5WWXA1WjFKUWlqYXlLdEtsUm5WX0ZMUnBkSmhUUFRaT1lYYmRHMDRvVWxuM2xIMkVYdlNLY0U4NzBwUlp1SDlqY29SZlBaMXN1TWlaS0h0cVJFZkd6OVE3WlpMXzNJakRudjZJMDQyYnRTei05SlVQQQ?oc=5",
         "summary": "'We can demand better': One mother's call to parents as Meta, AI scrutinized for impact on children &nbsp;&nbsp; Yahoo"
-      },
-      {
-        "headline": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-22T09:50:00.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVJ4MjRqUHcyVENFZUQzb0F2bU9nU1U1V29JWXpUUTVFQ0VvNFp6b1BvaXdQNUVoX0tQVG5haENRcjZBaHlUYm1QQ0h3ZWhJZWZHVkRUOXpySFFBSUFiT3hBcGltc3BZcmFZZmpQQmprdzcxa1BLVWpyOFh2MmZhdUFVZVZwYXVLcHoydWRBYmo3NHRk?oc=5",
-        "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
