@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-22T09:30:11.315Z",
+    "generatedAt": "2026-08-22T10:27:04.417Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-22T09:52:15.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVJ4MjRqUHcyVENFZUQzb0F2bU9nU1U1V29JWXpUUTVFQ0VvNFp6b1BvaXdQNUVoX0tQVG5haENRcjZBaHlUYm1QQ0h3ZWhJZWZHVkRUOXpySFFBSUFiT3hBcGltc3BZcmFZZmpQQmprdzcxa1BLVWpyOFh2MmZhdUFVZVZwYXVLcHoydWRBYmo3NHRk?oc=5"
+    },
     {
       "headline": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
       "source": "The New York Times",
@@ -30,16 +40,6 @@
       "summary": "Anthropic’s Opus 4.6 is a smut-machine &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5"
-    },
-    {
-      "headline": "OpenAI calls for stronger AI laws in California - Politico",
-      "source": "Politico",
-      "timestamp": "2026-08-21T22:29:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI calls for stronger AI laws in California &nbsp;&nbsp; Politico",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5"
     },
     {
       "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
@@ -92,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FuS0ZpTFcxZnl2MGU3SF9XcEhhOGd6M3FnLVg3emZ3VFhjeTgwVXdyMjZlRkNDbkpuU1lDRkpjVG5tVjkxczdtbVhOeUR2S3NjVDQ4RmF6RjM2TWpKR3FsVmlBaXROX0RmeDZCNnI0OE9QN2pLRDdsRkNOQ3E0aWVEcFM?oc=5"
     },
     {
+      "headline": "If you want a secure AI agent, start restricting its environment. - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-08-21T14:04:33.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "If you want a secure AI agent, start restricting its environment. &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOURkR2p4a1pKQ1R0YUZVQjJRZzdobFEzSk1nN0NSRmJNLVVmeDU1TmZDM2h3YWE1QVZ5Z0JEOTJUczJPRHpxd3pyelJhY01zUmJuRVFRcE5IZ0JtdzFHLUJYdVU5Y0hZOVpHdUxNTWhFVTlEVmxnQXF0ZDNsRTFvSTlWNXFBdC02dTRnSg?oc=5"
+    },
+    {
       "headline": "Exploring new frontiers of AI and games research - Google DeepMind",
       "source": "Google DeepMind",
       "timestamp": "2026-08-21T12:00:48.000Z",
@@ -100,20 +110,19 @@
       "summary": "Exploring new frontiers of AI and games research &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWx5RTBia1JNQkw5a1g5dE1xRXZMZ01SMnVmZ2RkbzZuc21mMTdiLW5wY2UzSVRZRUh3VWxsT2t5bGl4YkJMOHhOZHBXV0p5TjVFbjlRSzBTRFMtRkx2cDFDems3Sk9FVEgtUFlPV09oRmNqMDZYUjBaZ2dCVHVzWlJiZzJNUXI4eTAxQ2R6VXh3UkdYUUdFTGNwWkRBV091?oc=5"
-    },
-    {
-      "headline": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings - Ars Technica",
-      "source": "Ars Technica",
-      "timestamp": "2026-08-21T11:00:53.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings &nbsp;&nbsp; Ars Technica",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1pQR1AydkZIMDd1cXVuc2pmRng1SVhqVlQ5bXgtRFp1b3I2di1sN1QxYlNXcVlNVWQ1V0s1ZlZlNFZuT1FHZXBDYklxSzdaLUlualh1b2dISW1OYXpYN0ZoRzNpeTFIUTZUX01UNGhBNkcySW5mSWdIeEU2QklWNmxkTjlSVzdndFc4QWRrUktHMnRJZkFQN3RrZG44V3FpTEhvaGdYaXppeGkxYVJmYy1zVFhFWWRB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-22T09:52:15.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVJ4MjRqUHcyVENFZUQzb0F2bU9nU1U1V29JWXpUUTVFQ0VvNFp6b1BvaXdQNUVoX0tQVG5haENRcjZBaHlUYm1QQ0h3ZWhJZWZHVkRUOXpySFFBSUFiT3hBcGltc3BZcmFZZmpQQmprdzcxa1BLVWpyOFh2MmZhdUFVZVZwYXVLcHoydWRBYmo3NHRk?oc=5",
+        "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable' &nbsp;&nbsp; Business Insider"
+      },
       {
         "headline": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
         "source": "The New York Times",
@@ -131,15 +140,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5",
         "summary": "Anthropic’s Opus 4.6 is a smut-machine &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "OpenAI calls for stronger AI laws in California - Politico",
-        "source": "Politico",
-        "timestamp": "2026-08-21T22:29:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5",
-        "summary": "OpenAI calls for stronger AI laws in California &nbsp;&nbsp; Politico"
       },
       {
         "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
