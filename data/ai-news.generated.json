@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-23T13:34:22.172Z",
+    "generatedAt": "2026-08-23T14:26:50.816Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Fears of AI-induced armageddon are overdone - The Economist",
-      "source": "The Economist",
-      "timestamp": "2026-08-23T08:53:02.000Z",
+      "headline": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-08-23T13:56:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Fears of AI-induced armageddon are overdone &nbsp;&nbsp; The Economist",
+      "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5"
+    },
+    {
+      "headline": "I created a viral AI watermark remover. I wasn't ready for all the attention. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-23T11:32:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "I created a viral AI watermark remover. I wasn't ready for all the attention. &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUJTeUpSR1FiYzRDYm9Camx4amRFRWxGSWJKZ0FJeU85R0ItaE8yX1ZXNndHVHdTUkYxcUpsdjlMeXJsS21WVG1BM2NvSGNzbGF6dHVNaGg1YVdJbmZTdWNKZE1lRE5UZXl3cTVvXzVQZUhGRy1zaUxQazBuQjNQV0FPaTM0UXlybzNoX0pmNk5HaEhtMFFTVlJpNzNPa3BtN01SMDZR?oc=5"
     },
     {
       "headline": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance",
@@ -40,16 +50,6 @@
       "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5"
-    },
-    {
-      "headline": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-08-23T08:02:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5"
     },
     {
       "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
@@ -115,13 +115,22 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Fears of AI-induced armageddon are overdone - The Economist",
-        "source": "The Economist",
-        "timestamp": "2026-08-23T08:53:02.000Z",
+        "headline": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-08-23T13:56:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
+        "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "I created a viral AI watermark remover. I wasn't ready for all the attention. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-23T11:32:15.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
-        "summary": "Fears of AI-induced armageddon are overdone &nbsp;&nbsp; The Economist"
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUJTeUpSR1FiYzRDYm9Camx4amRFRWxGSWJKZ0FJeU85R0ItaE8yX1ZXNndHVHdTUkYxcUpsdjlMeXJsS21WVG1BM2NvSGNzbGF6dHVNaGg1YVdJbmZTdWNKZE1lRE5UZXl3cTVvXzVQZUhGRy1zaUxQazBuQjNQV0FPaTM0UXlybzNoX0pmNk5HaEhtMFFTVlJpNzNPa3BtN01SMDZR?oc=5",
+        "summary": "I created a viral AI watermark remover. I wasn't ready for all the attention. &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance",
@@ -140,15 +149,6 @@
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5",
         "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-08-23T08:02:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
-        "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
