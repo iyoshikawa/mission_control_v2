@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-23T10:27:44.908Z",
+    "generatedAt": "2026-08-23T11:24:05.583Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Fears of AI-induced armageddon are overdone - The Economist",
+      "source": "The Economist",
+      "timestamp": "2026-08-23T08:53:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Fears of AI-induced armageddon are overdone &nbsp;&nbsp; The Economist",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5"
+    },
     {
       "headline": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -42,16 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5"
     },
     {
-      "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-23T00:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5"
-    },
-    {
       "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
       "source": "TechCrunch",
       "timestamp": "2026-08-22T19:00:00.000Z",
@@ -72,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5"
     },
     {
+      "headline": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-21T21:30:13.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5"
+    },
+    {
       "headline": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" - CBS News",
       "source": "CBS News",
       "timestamp": "2026-08-21T17:49:00.000Z",
@@ -80,16 +90,6 @@
       "summary": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" &nbsp;&nbsp; CBS News",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5"
-    },
-    {
-      "headline": "If you want a secure AI agent, start restricting its environment. - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-08-21T14:04:33.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "If you want a secure AI agent, start restricting its environment. &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOURkR2p4a1pKQ1R0YUZVQjJRZzdobFEzSk1nN0NSRmJNLVVmeDU1TmZDM2h3YWE1QVZ5Z0JEOTJUczJPRHpxd3pyelJhY01zUmJuRVFRcE5IZ0JtdzFHLUJYdVU5Y0hZOVpHdUxNTWhFVTlEVmxnQXF0ZDNsRTFvSTlWNXFBdC02dTRnSg?oc=5"
     },
     {
       "headline": "Exploring new frontiers of AI and games research - Google DeepMind",
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Fears of AI-induced armageddon are overdone - The Economist",
+        "source": "The Economist",
+        "timestamp": "2026-08-23T08:53:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
+        "summary": "Fears of AI-induced armageddon are overdone &nbsp;&nbsp; The Economist"
+      },
       {
         "headline": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance",
         "source": "Yahoo Finance",
@@ -142,15 +151,6 @@
         "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-08-23T00:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
-        "summary": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI &nbsp;&nbsp; WSJ"
-      },
-      {
         "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
         "source": "TechCrunch",
         "timestamp": "2026-08-22T19:00:00.000Z",
@@ -172,15 +172,15 @@
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
