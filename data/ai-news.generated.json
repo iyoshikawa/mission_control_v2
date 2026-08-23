@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-23T08:34:13.694Z",
+    "generatedAt": "2026-08-23T09:31:04.885Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,26 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Fears of AI-induced armageddon are overdone - The Economist",
+      "source": "The Economist",
+      "timestamp": "2026-08-23T08:53:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Fears of AI-induced armageddon are overdone &nbsp;&nbsp; The Economist",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5"
+    },
+    {
+      "headline": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-08-23T08:41:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNE1oWXpsU01pcUR1WTcySGo0TjRSSlJYeWZnQ2wtd25wVmd1T1lnOU9KajE1UzA4SG95U0lJU1BDa3NLNzhHc1ZVLTQ3STFjaUN5OUp1S3ptRUlPem5Xc2FxOXBMZU1uQmExbHpMVW5XWWRqS1daTE1jdkdpa2xnbkpLVjBFaEhLbk1mNXFsUG9BZERyWG1kRlRGb3ZBZXM?oc=5"
+    },
     {
       "headline": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times",
       "source": "Financial Times",
@@ -52,22 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5"
     },
     {
-      "headline": "Meet Cami Clark, the ‘first lady of AI’ shaping Anthropic and Dario Amodei behind the scenes - Ynetnews",
-      "source": "Ynetnews",
-      "timestamp": "2026-08-22T09:08:49.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meet Cami Clark, the ‘first lady of AI’ shaping Anthropic and Dario Amodei behind the scenes &nbsp;&nbsp; Ynetnews",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yYWFtYks5QjdhOVFtOEpxV3RiaWxweW1ReGdtR2RqVzRYUVJLeFpoOHZfTWcxd3NIMU1kUkdXazdOMGczWjVRemg2elVXN19ORjV6cmJyYVR3b1RUT3RWM3p3?oc=5"
-    },
-    {
       "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
       "source": "CNBC",
       "timestamp": "2026-08-21T21:44:30.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say &nbsp;&nbsp; CNBC Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. &nbsp;&nbsp; The New York Times Anthropic market debut could break SpaceX IPO record: media &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say &nbsp;&nbsp; CNBC Anthropic Is Reportedly Being Upfront With Would-Be Investors About AI Backlash &nbsp;&nbsp; Gizmodo Anthropic market debut could break SpaceX IPO record: media &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5"
     },
@@ -80,16 +90,6 @@
       "summary": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" &nbsp;&nbsp; CBS News",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5"
-    },
-    {
-      "headline": "If you want a secure AI agent, start restricting its environment. - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-08-21T14:04:33.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "If you want a secure AI agent, start restricting its environment. &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOURkR2p4a1pKQ1R0YUZVQjJRZzdobFEzSk1nN0NSRmJNLVVmeDU1TmZDM2h3YWE1QVZ5Z0JEOTJUczJPRHpxd3pyelJhY01zUmJuRVFRcE5IZ0JtdzFHLUJYdVU5Y0hZOVpHdUxNTWhFVTlEVmxnQXF0ZDNsRTFvSTlWNXFBdC02dTRnSg?oc=5"
     },
     {
       "headline": "Exploring new frontiers of AI and games research - Google DeepMind",
@@ -114,6 +114,24 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Fears of AI-induced armageddon are overdone - The Economist",
+        "source": "The Economist",
+        "timestamp": "2026-08-23T08:53:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
+        "summary": "Fears of AI-induced armageddon are overdone &nbsp;&nbsp; The Economist"
+      },
+      {
+        "headline": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-08-23T08:41:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNE1oWXpsU01pcUR1WTcySGo0TjRSSlJYeWZnQ2wtd25wVmd1T1lnOU9KajE1UzA4SG95U0lJU1BDa3NLNzhHc1ZVLTQ3STFjaUN5OUp1S3ptRUlPem5Xc2FxOXBMZU1uQmExbHpMVW5XWWRqS1daTE1jdkdpa2xnbkpLVjBFaEhLbk1mNXFsUG9BZERyWG1kRlRGb3ZBZXM?oc=5",
+        "summary": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? &nbsp;&nbsp; Yahoo Finance"
+      },
       {
         "headline": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times",
         "source": "Financial Times",
@@ -149,24 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5",
         "summary": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Meet Cami Clark, the ‘first lady of AI’ shaping Anthropic and Dario Amodei behind the scenes - Ynetnews",
-        "source": "Ynetnews",
-        "timestamp": "2026-08-22T09:08:49.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yYWFtYks5QjdhOVFtOEpxV3RiaWxweW1ReGdtR2RqVzRYUVJLeFpoOHZfTWcxd3NIMU1kUkdXazdOMGczWjVRemg2elVXN19ORjV6cmJyYVR3b1RUT3RWM3p3?oc=5",
-        "summary": "Meet Cami Clark, the ‘first lady of AI’ shaping Anthropic and Dario Amodei behind the scenes &nbsp;&nbsp; Ynetnews"
-      },
-      {
-        "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-08-21T21:44:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5",
-        "summary": "Anthropic IPO filing will show AI backlash as a risk factor, sources say &nbsp;&nbsp; CNBC Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. &nbsp;&nbsp; The New York Times Anthropic market debut could break SpaceX IPO record: media &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
