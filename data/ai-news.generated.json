@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-22T23:24:08.815Z",
+    "generatedAt": "2026-08-23T01:38:58.925Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "OpenAI Calls For California To Strengthen Its AI Safety Laws - Engadget",
-      "source": "Engadget",
-      "timestamp": "2026-08-22T19:27:04.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI Calls For California To Strengthen Its AI Safety Laws &nbsp;&nbsp; Engadget",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUktSRUZlaXlGY0cxeHZJT0ltazNHUV8wTlpBQVJfckQyZW9yOVpKeHgwenNvdXlydEZhSzBOSXJPcHJQRzc2dTRaS05lRU9ZXy1pRTJRc2pZdlhKVWZpZFpqVzVrdVhUN0FlLUpyUlc3S291Y19ndGVEY3prWV8zMXN6NjlzUVhyRkMzc1NYLWZIRDBJ?oc=5"
-    },
     {
       "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
       "source": "TechCrunch",
@@ -42,14 +32,24 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjM1Wk5qZHJ3WXJaVTJoeDFhei1yVXRvaldVWEt4TUdNcVhmVFFyVURtWldLeDk3dVB4eWdIT3hlWV9UMzBJbHNEajBlbHU1OTQ3OFJWVWppcmQwWUVGa0RRUVJEYnE3WnRfZkRiZlV3NzBWLWVoRkVySFJWdnZTc1d6U3Fha2R2Y19uMm02bkc1WWhtejFNaEt1OVk3a1U?oc=5"
     },
     {
-      "headline": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-22T00:24:21.000Z",
+      "headline": "Anthropic eyeing $100B in blockbuster IPO (ANTHRO:Private) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-08-22T12:07:30.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. &nbsp;&nbsp; The New York Times",
+      "summary": "Anthropic eyeing $100B in blockbuster IPO (ANTHRO:Private) &nbsp;&nbsp; Seeking Alpha",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzNwZGREWWdDRlYtZHgtVGRmTmVleTlSS0ljSGtqTVpJM3hoZ1R2dThPOFFEelFOTUFGem9ob2FERDBjb1NwSm55UVZOdXdVOFNUMGFkU25RZzVBdnlqNnoxa2ZRVkFjYUFSdjgtTGN3NnhBUFkzU0pVRVJjZ2p2eQ?oc=5"
+    },
+    {
+      "headline": "OpenAI calls for stronger AI laws in California - Politico",
+      "source": "Politico",
+      "timestamp": "2026-08-21T22:29:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI calls for stronger AI laws in California &nbsp;&nbsp; Politico",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5"
     },
     {
       "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
@@ -115,15 +115,6 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Calls For California To Strengthen Its AI Safety Laws - Engadget",
-        "source": "Engadget",
-        "timestamp": "2026-08-22T19:27:04.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUktSRUZlaXlGY0cxeHZJT0ltazNHUV8wTlpBQVJfckQyZW9yOVpKeHgwenNvdXlydEZhSzBOSXJPcHJQRzc2dTRaS05lRU9ZXy1pRTJRc2pZdlhKVWZpZFpqVzVrdVhUN0FlLUpyUlc3S291Y19ndGVEY3prWV8zMXN6NjlzUVhyRkMzc1NYLWZIRDBJ?oc=5",
-        "summary": "OpenAI Calls For California To Strengthen Its AI Safety Laws &nbsp;&nbsp; Engadget"
-      },
-      {
         "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
         "source": "TechCrunch",
         "timestamp": "2026-08-22T19:00:00.000Z",
@@ -142,13 +133,22 @@
         "summary": "Anthropic market debut could break SpaceX IPO record: media &nbsp;&nbsp; Yahoo Finance"
       },
       {
-        "headline": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-08-22T00:24:21.000Z",
+        "headline": "Anthropic eyeing $100B in blockbuster IPO (ANTHRO:Private) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-08-22T12:07:30.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5",
-        "summary": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzNwZGREWWdDRlYtZHgtVGRmTmVleTlSS0ljSGtqTVpJM3hoZ1R2dThPOFFEelFOTUFGem9ob2FERDBjb1NwSm55UVZOdXdVOFNUMGFkU25RZzVBdnlqNnoxa2ZRVkFjYUFSdjgtTGN3NnhBUFkzU0pVRVJjZ2p2eQ?oc=5",
+        "summary": "Anthropic eyeing $100B in blockbuster IPO (ANTHRO:Private) &nbsp;&nbsp; Seeking Alpha"
+      },
+      {
+        "headline": "OpenAI calls for stronger AI laws in California - Politico",
+        "source": "Politico",
+        "timestamp": "2026-08-21T22:29:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5",
+        "summary": "OpenAI calls for stronger AI laws in California &nbsp;&nbsp; Politico"
       },
       {
         "headline": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
