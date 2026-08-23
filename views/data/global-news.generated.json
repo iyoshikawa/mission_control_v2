@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-23T01:11:29.676Z",
+    "generatedAt": "2026-08-23T03:00:03.870Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,28 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
-      "summary": "Wall St rises on the day but falls for the week; bond yields and Iran in focus &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-22T20:24:10.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2eVNmNXVqbVVESE8zMENLbUxnMUIzdFUxUEZXU09lU0h3WmR6eXp1c1R5bTQ0TmxwME56TGFCaF93LW9mNXRIdF85bURtaWxWTzRWNg?oc=5"
-    },
-    {
-      "headline": "Carney says Canada will impose retaliatory tariffs on various US sectors",
-      "summary": "Carney says Canada will impose retaliatory tariffs on various US sectors &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-22T20:24:10.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5"
-    },
     {
       "headline": "Israel strikes southern Syria; Damascus condemns attack",
       "summary": "Israel strikes southern Syria; Damascus condemns attack &nbsp;&nbsp; Reuters",
@@ -89,15 +67,37 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5"
     },
     {
-      "headline": "US, Iran keep up hostile rhetoric ahead of new sanctions",
-      "summary": "US, Iran keep up hostile rhetoric ahead of new sanctions &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-22T01:19:54.000Z",
+      "headline": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
+      "summary": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says &nbsp;&nbsp; Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-08-22T18:17:56.000Z",
       "impact": "HIGH",
       "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NnpuajF4cU9fY3VHTEpIc2tTSzU4ZGdWSmp1bFg2VkhHUnFoNVU4SlpScFI5aUtVMndMT1dkNXdBNXNEMGVlR0tKYUZmLU1GM3VuQTJabWZtaF9jSkZJVW1hNldjYTBPRXBuNVo5STU?oc=5"
+    },
+    {
+      "headline": "Mark Carney says Canada is now ‘at war’ with US over trade",
+      "summary": "Mark Carney says Canada is now ‘at war’ with US over trade &nbsp;&nbsp; Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-08-22T17:22:54.000Z",
+      "impact": "HIGH",
+      "region": "United States",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlhTNTl4bnNFT1hBWmNoVmFUaGJBel85MWhVNFR1TVFWWkpha09SQ2JkeFBqbzZqUjZsRFhCTXA4dFVtcEFjSGZaOF9XZjVIdnlHbjFBakFKcDZUTzJxNVlNNTgwVml1QWdjTF92LXRoZGpWbzRxVVdYWkd1Y0t3V2FkV2NmVXZYNU5DOHR5aUZLdVo4VkZkdTItWTVkZElnTHZKQ2dZM2VzVmJsSmhXZDJ5LUdXRXItVWNn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzRsX1RtUnUzUTk5LU5LYlFlaVVZdk9jdzY4WGJqSVhFaEhhb3NjWEdpYUkyMjBrOF9XMmhLNVExSkhhbHBIR1RWQ3RKRTFyTk5uVVF4dGxVY3hmR3NpUmxvYkNTMnJMSWRLdXk2TC1qRm8zQXhJZ3NLdFZ0U3lLZVV0RWo?oc=5"
+    },
+    {
+      "headline": "Qatar cuts state spending at home and abroad as war shrinks economy",
+      "summary": "Qatar cuts state spending at home and abroad as war shrinks economy &nbsp;&nbsp; Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-08-22T04:00:29.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDBJSG9ORXVzZ01PZWg1Rnd4Zmd2cnBCaHZoc2dHT0xGSWZVZ3ZhWHJXWlBhREthZmVhR2xrN1hRMC10T2JyTEprWXFfSTRJamJpUnZ6OVZ3SWVkTnRyYzhqSEh3dzZ3Qk84Nl84cWVNY0I3TmJyWUVRRUUta3dJOW04dGE?oc=5"
     }
   ]
 }
