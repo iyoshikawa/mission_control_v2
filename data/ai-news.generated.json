@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-24T14:47:55.925Z",
+    "generatedAt": "2026-08-24T15:42:29.850Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "Sam Altman said scrolling through his inbox without AI makes him feel productive - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-24T14:35:55.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Sam Altman said scrolling through his inbox without AI makes him feel productive &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlVtWXpEN0d0R2xyYVNNX2xYOE5wY3c5VW5Rb05VbVIzVEtsSGdsYkZtQ0hPTElONWQ4NEFMNFFWOEFmSnNoc01VU29PeFByYk5iTERraGJYU191V3pCZE9oVHZhYmtyY3lfVUZkNzhpQm03NmNfX0tpX0t6VW4zd3dmOUZMRmhkZ0VBOEZn?oc=5"
-    },
-    {
-      "headline": "Attacked by A.I. Agents, This Start-Up Embarked on a Crusade - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-24T14:20:34.000Z",
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-24T15:00:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Attacked by A.I. Agents, This Start-Up Embarked on a Crusade &nbsp;&nbsp; The New York Times",
+      "summary": "OpenAI is building AI agents for everything. Will everyone use them? &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUlqNnp0NDlHNU4xMHZra21JUG9yR3F0SnV0Z01qSVVrTGtTU3RWSTdWUXVYZnNNb19Yc1J3SmxGMmtfa3RaeDJySUZXRkdtaHowb1BFZzFWbGxKQm4xa2N2TDlGTjVNZnpENXRVdUZVQ2hfSHlaVGJMbWtsRGotSHRHd2V0MkVEY2JCcW13?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5"
+    },
+    {
+      "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-24T14:55:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5"
+    },
+    {
+      "headline": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-24T13:01:58.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5"
     },
     {
       "headline": "AI chatbot privacy: What your AI may know about you - Fox News",
@@ -52,32 +62,12 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2JwMG5nZENtWUp4TG8zajZ1SGJySkUtWDAzUk9ITldvZlpmUnhheU1pNEFoWHZPc1k3TTdKVm1xb0FmemMtVUgtOWtMd1BrQUFYVm9lMEhIbTN3TjQ3dHMyM2d5VkRENXBWeEt5ampfZkV2UGNkOWJQOVVHdG41UDd0M3pvQmZCdlBWejFEbzAyR3g1MVdBME1haUoxdFB1UDFRSC14T2d0VkpXWFRvVTBR?oc=5"
     },
     {
-      "headline": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-08-24T10:00:52.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI wants California to strengthen its newly passed AI safety law &nbsp;&nbsp; Mashable",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5"
-    },
-    {
-      "headline": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-08-24T09:50:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnZNMXhfbDFCLU1UTnhqaGxMdFBhQkZGYlJfdDJXZm5GaTd0T0lIaDc5QTd5RUVwRUkxcUlOM3EySWctY1ZITDAzWE9raFJUS25aYlpHajVNSl9TRGVPUk9WTC1SMUwtSXlVQm9EaFFVeW5pTVFWUlNmOW1QcW55dG5iNmdCTHFvMkI2RWhCN3RGcUlqd0hn?oc=5"
-    },
-    {
-      "headline": "Scoop: Anthropic asks about mission versus money in candidate interviews - Axios",
+      "headline": "Scoop: Anthropic candidates face blunt money question in job interviews - Axios",
       "source": "Axios",
-      "timestamp": "2026-08-24T09:03:10.000Z",
+      "timestamp": "2026-08-24T09:35:50.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Scoop: Anthropic asks about mission versus money in candidate interviews &nbsp;&nbsp; Axios",
+      "summary": "Scoop: Anthropic candidates face blunt money question in job interviews &nbsp;&nbsp; Axios",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklqampjeURCbHdfR3J2ZEdOUG1hdnF6T3dMd0lKbVQyRE9ESWFsNkFxRnBxNlRnY1RLd1duUEZabVRvMWhHWXh4ZzhRNm1haC1XY2hmZF90LVRZVzItdTVudUtBb2g3eWZpXzNwdDI5RVVyR29FeWxJNXFneVJWZ0xQTGtZdFNQTjlGRHpn?oc=5"
     },
@@ -102,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5"
     },
     {
+      "headline": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
+      "source": "Mashable",
+      "timestamp": "2026-08-23T15:50:30.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI wants California to strengthen its newly passed AI safety law &nbsp;&nbsp; Mashable",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5"
+    },
+    {
       "headline": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times",
       "source": "Financial Times",
       "timestamp": "2026-08-23T08:23:24.000Z",
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Sam Altman said scrolling through his inbox without AI makes him feel productive - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-08-24T14:35:55.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlVtWXpEN0d0R2xyYVNNX2xYOE5wY3c5VW5Rb05VbVIzVEtsSGdsYkZtQ0hPTElONWQ4NEFMNFFWOEFmSnNoc01VU29PeFByYk5iTERraGJYU191V3pCZE9oVHZhYmtyY3lfVUZkNzhpQm03NmNfX0tpX0t6VW4zd3dmOUZMRmhkZ0VBOEZn?oc=5",
-        "summary": "Sam Altman said scrolling through his inbox without AI makes him feel productive &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Attacked by A.I. Agents, This Start-Up Embarked on a Crusade - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-08-24T14:20:34.000Z",
+        "headline": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-08-24T15:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUlqNnp0NDlHNU4xMHZra21JUG9yR3F0SnV0Z01qSVVrTGtTU3RWSTdWUXVYZnNNb19Yc1J3SmxGMmtfa3RaeDJySUZXRkdtaHowb1BFZzFWbGxKQm4xa2N2TDlGTjVNZnpENXRVdUZVQ2hfSHlaVGJMbWtsRGotSHRHd2V0MkVEY2JCcW13?oc=5",
-        "summary": "Attacked by A.I. Agents, This Start-Up Embarked on a Crusade &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5",
+        "summary": "OpenAI is building AI agents for everything. Will everyone use them? &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-08-24T14:55:01.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
+        "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-24T13:01:58.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5",
+        "summary": "Here's how Thomson Reuters is loosening Claude's costly grip &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "AI chatbot privacy: What your AI may know about you - Fox News",
@@ -151,22 +160,13 @@
         "summary": "Maia 300 Could Give Microsoft Azure a Major AI Infrastructure Advantage &nbsp;&nbsp; Cloud Wars"
       },
       {
-        "headline": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-08-24T10:00:52.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
-        "summary": "OpenAI wants California to strengthen its newly passed AI safety law &nbsp;&nbsp; Mashable"
-      },
-      {
-        "headline": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-08-24T09:50:00.000Z",
+        "headline": "Scoop: Anthropic candidates face blunt money question in job interviews - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-24T09:35:50.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnZNMXhfbDFCLU1UTnhqaGxMdFBhQkZGYlJfdDJXZm5GaTd0T0lIaDc5QTd5RUVwRUkxcUlOM3EySWctY1ZITDAzWE9raFJUS25aYlpHajVNSl9TRGVPUk9WTC1SMUwtSXlVQm9EaFFVeW5pTVFWUlNmOW1QcW55dG5iNmdCTHFvMkI2RWhCN3RGcUlqd0hn?oc=5",
-        "summary": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First &nbsp;&nbsp; Yahoo Finance"
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdklqampjeURCbHdfR3J2ZEdOUG1hdnF6T3dMd0lKbVQyRE9ESWFsNkFxRnBxNlRnY1RLd1duUEZabVRvMWhHWXh4ZzhRNm1haC1XY2hmZF90LVRZVzItdTVudUtBb2g3eWZpXzNwdDI5RVVyR29FeWxJNXFneVJWZ0xQTGtZdFNQTjlGRHpn?oc=5",
+        "summary": "Scoop: Anthropic candidates face blunt money question in job interviews &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
