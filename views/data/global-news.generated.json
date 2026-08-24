@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-24T03:00:34.986Z",
+    "generatedAt": "2026-08-24T04:41:10.237Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Shares flat in Asia before Iran sanctions news, Nvidia results",
-      "summary": "Shares flat in Asia before Iran sanctions news, Nvidia results &nbsp;&nbsp; Reuters",
+      "headline": "Mixing economic wars, trade wars and actual wars",
+      "summary": "Mixing economic wars, trade wars and actual wars &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-08-24T00:49:00.000Z",
+      "timestamp": "2026-08-24T04:34:00.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
+      "region": "Global",
       "category": "trade",
       "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYlNwM05renFqUDNLaGZkdl9sa0cxLXJDTmhLcXYwRG1aYjlLR1c4QjlGbGtqY3pNaXhMR1E4cnJLLU1VcjNfR2h4anE4RTFqVDk2Y3AwWTY5TVZnZnFkRjZVR0tGaGQ0REJpZXljSElWQWFsRnZGY2NUT0t1M1k?oc=5"
+    },
+    {
+      "headline": "Shell draws interest from bidders including Exxon for $8 billion US chemical assets, FT reports",
+      "summary": "Shell draws interest from bidders including Exxon for $8 billion US chemical assets, FT reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-24T04:12:00.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTBGM3lpaTNrakZuLTdyZGZvVXV2WWlEbV85bTctbzQ1WElhSFlRRkVMeDhkSm9XelBqSW5fTVdHV1NKbnZKRWF3VGxxdmtPczZPTnFqY3I0WWNrYmtud1c2MTlNT0RaU05OSkREMk1xTG9wVVlYY0ZtTXZVc1RoVnRsLVhXVjY1MHFoU3ZZT3BvVmMzNWtROTBiU2dUbFBrTnB4cU14LUtqRVJLME9yYncyZEFkNkdjalJEcnI4N1hoNko0djNqSA?oc=5"
+    },
+    {
+      "headline": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say",
+      "summary": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-24T03:53:00.000Z",
+      "impact": "HIGH",
+      "region": "India",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYktHT1AtVS13NThNNDU5M0tTdzJRYUZxUDlnUFhCdlZpckZKSkU1SC1SYXdDVGdEakJZTWVvLUt3TGtBZUcwRUNnQUF2VkJLRTJQRXVQNjQ1WGdEY2lNUlBBdXdDclpxc3VuaWlERUl4ZkFVOEV4UEwyeXoxT0xvUTlQb3BBOC1qUWptTGkyWk40dVY3X29sMkV3cWp0SklmUkV2NUR2NURFTm03ZjRkbWdqOXoyaGVHdGxyMUwwOA?oc=5"
+    },
+    {
+      "headline": "Rupee set for quiet open, supported by inflows; oil, month-end activity eyed",
+      "summary": "Rupee set for quiet open, supported by inflows; oil, month-end activity eyed &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-24T02:37:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTRWMGpMTzlmX3RQR0Y5dzctZjZ5LVFqeEMxT1FydzQybE84MjB0aUlqdkZXLTRESXJzZnZwbDR0QndhN3VnaVRIVVIwLVBOVENWNXZ6MlNmTm5qd1dINmY0TlVjdjJSQm8yOVhYelVUb054c0wwWjMxWW1XQUttQ2N0VXU4Y2hqc1dudkdnSGJKVFdaclRUSThRZ1AwTHlpLWtPRmcyRV9XZGUyd2I2RXB3dE5KMGYz?oc=5"
     },
     {
       "headline": "Drone attack kills two children, burns logistics hub in Russia's Krasnodar",
@@ -32,6 +65,17 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOHlaU2l2LVBMWUlIYnc5WTVya19SRVFldDFJODV4bG9ydzItNU9NNDJsRlRERzdfZkt0SXJNZl9RcGItS2ZoSVdSZXhFM0ZMSjh6Z0NZS2xIWnVNbS0tQW9mT1Npay1YVnVZamUwUFVNMWhJSnRaMmpqSEJieEh0OGYwaUt6STF2X3dRS2JMa1NLSms5aE84MFkxZHZYV0hzNEVnV3dSdmVQT09KTE5RdWlqTTNUSV9yU0E?oc=5"
+    },
+    {
+      "headline": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports",
+      "summary": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-24T00:11:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUE0S1c5WWY5Tzl5dHVndnR4SDl4cGd1bjQxcGdPQ1BJbW1neFJhZEtGbk5aRnFueWtWQWVqNE5YVVZYdndrbEJwQlJ4bkpXcF9tOWtuWE9MNTAzXzFsV2Z1Z1NvbmdEbWxGUUhOcGVQQzNkS2llQURhb3phM1dpMWNDS0s5My1NVktjMk5WNUxhX0JXQk42WHpTVUcxZ1lkU05lWVQ4ZFM2UVpuMWtYZWFjVmlQaTJ2b2pBNGNRelg4dGRrSXltRQ?oc=5"
     },
     {
       "headline": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
@@ -54,50 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5"
-    },
-    {
-      "headline": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
-      "summary": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-23T23:09:09.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR?oc=5"
-    },
-    {
-      "headline": "UK's Burnham to visit Ukraine with plan to support long-range missile production",
-      "summary": "UK's Burnham to visit Ukraine with plan to support long-range missile production &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-23T23:06:56.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJiOHBHQVlWUC1FMFFRMUctRkpSVnZlOS1LTmVQQ3kxWkZTRU9FSVJzaC0tWTJyaTlUbWhYc0pnWTdBejhaemt6YllZbUx6MDV0QVlvMTVuQUx0LURPdm9qVEZ3eEtKQ01EeHMtY0pHVVJkYTVuVUFUcENEVm53cmFFQmE2QWU4SEVBVTViS2lCUnlJaVYtUy1lQjJ6TWNEc1BYbXphMmpwT0Radkw3ejNWM19oSWtHYXc?oc=5"
-    },
-    {
-      "headline": "Syria foreign minister sees Israel security talks resuming despite no trust",
-      "summary": "Syria foreign minister sees Israel security talks resuming despite no trust &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-23T22:57:03.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5"
-    },
-    {
-      "headline": "Republicans see opportunity in progressives' primary wins while Democrats embrace debate",
-      "summary": "Republicans see opportunity in progressives' primary wins while Democrats embrace debate &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-23T20:01:29.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW5NeEt5U3ZhMzVyQkl1Wi1SZjltMW1rTGhtMVU0SGsxeVIweWJPSlFxRzR3cEZhdUYtMkZJSWI3WTR4VHJ1Mmd2MzdYMl9SXzJtV0RjWVJ6YWE5Q1J5c3hQMklyTTB1cWlGdWp3T1hTekQ1bGVWX3UyOVpKdkNDUkpDeXhCZzZka2RfMEtjaEdheHBzWFVhZXZhZ1B3SlJBZjJxTzh1Tll2cmhHR294VEdFUlFmN2JoS2x6Vncycw?oc=5"
     }
   ]
 }
