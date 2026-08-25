@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T09:38:54.649Z",
+    "generatedAt": "2026-08-25T10:36:30.226Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,29 @@
   },
   "newsFeed": [
     {
+      "headline": "There’s Only One Way to Make AI Safe For Kids - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-08-25T10:30:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "There’s Only One Way to Make AI Safe For Kids &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5"
+    },
+    {
+      "headline": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake. - The Motley Fool",
+      "source": "The Motley Fool",
+      "timestamp": "2026-08-25T10:23:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake. &nbsp;&nbsp; The Motley Fool",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3VuSkxueHFBeWozX3ZDdk45a0tjUjRLUGZncFA0Wnoza1lXTERYaHZmOHM0WlpQVmRob1NHb2o1cUk3Vmc1cXVoWWJwOGh5UW5lOVpVN19MX2pzT1VwS1luanBHbVYwSEp3MllzckFLTm0xazUwTl9XUFRRaFFDcGtUZTdGMTFBRlBsVmltLUtzR28?oc=5"
+    },
+    {
       "headline": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-08-25T09:11:22.000Z",
+      "timestamp": "2026-08-25T09:12:18.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike &nbsp;&nbsp; Business Insider",
@@ -22,13 +42,13 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5"
     },
     {
-      "headline": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. - The New York Times",
+      "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-08-25T09:02:40.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5"
     },
     {
@@ -90,47 +110,45 @@
       "summary": "AI chatbot privacy: What your AI may know about you &nbsp;&nbsp; Fox News",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkR1bzRQZjBUSXZTOC1CNmVXaDNOU1oxYU9mT2xza2hvWHE4QW82U2lNRWlTc0NRaGVwNm5EOFFjYTJ1U2ZpV2hLTm8zSWRaRjNIMTJGNldXR0ljV2RGb1p6c2JMWUIwa3Q5ZTUzNTFBa3FHV3FJNXM4eUFpM0RUeEF0RjR1UdIBiwFBVV95cUxPZkl0MTAxTmRjLVVHRl9MUV84Y21FRHk3WGc1aWJBMVlfT191Qi12T1VjMHBCek9LMlF6NVJVOXZheHFXQ29VN1RSRU9FSUhPY3Znd0tFak5kcFVZOGJyLUVTQ3FjWnFNVEJzVlhybEJPTDM3ZDN1SEc4SU95eXhnUDUxOVBueXdkbnNj?oc=5"
-    },
-    {
-      "headline": "Maia 300 Could Give Microsoft Azure a Major AI Infrastructure Advantage - Cloud Wars",
-      "source": "Cloud Wars",
-      "timestamp": "2026-08-24T11:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Maia 300 Could Give Microsoft Azure a Major AI Infrastructure Advantage &nbsp;&nbsp; Cloud Wars",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2JwMG5nZENtWUp4TG8zajZ1SGJySkUtWDAzUk9ITldvZlpmUnhheU1pNEFoWHZPc1k3TTdKVm1xb0FmemMtVUgtOWtMd1BrQUFYVm9lMEhIbTN3TjQ3dHMyM2d5VkRENXBWeEt5ampfZkV2UGNkOWJQOVVHdG41UDd0M3pvQmZCdlBWejFEbzAyR3g1MVdBME1haUoxdFB1UDFRSC14T2d0VkpXWFRvVTBR?oc=5"
-    },
-    {
-      "headline": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-24T09:01:58.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "There’s Only One Way to Make AI Safe For Kids - Bloomberg",
+        "source": "Bloomberg",
+        "timestamp": "2026-08-25T10:30:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxYcFlnT1dqaDZGeWtqR3BOMlNsSk55X05Xa3lSNVBQaVNlMUhvUEF3ZFVnQWwwSDNsVElLakI3R083dXNxc0tzUmpEeWZhVS1vT2k0S0ZLNFFwWW1pZ0t3QXdnc2ozbTlOSEcxQUh4UGhzcUZibVdlam5ncG9hNGxDOFBQeTR3YzBvdVRCX3AzdUZfS3JxVldKOElhUXZYWmdIN3U0V2V0TFF0?oc=5",
+        "summary": "There’s Only One Way to Make AI Safe For Kids &nbsp;&nbsp; Bloomberg"
+      },
+      {
+        "headline": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake. - The Motley Fool",
+        "source": "The Motley Fool",
+        "timestamp": "2026-08-25T10:23:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3VuSkxueHFBeWozX3ZDdk45a0tjUjRLUGZncFA0Wnoza1lXTERYaHZmOHM0WlpQVmRob1NHb2o1cUk3Vmc1cXVoWWJwOGh5UW5lOVpVN19MX2pzT1VwS1luanBHbVYwSEp3MllzckFLTm0xazUwTl9XUFRRaFFDcGtUZTdGMTFBRlBsVmltLUtzR28?oc=5",
+        "summary": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake. &nbsp;&nbsp; The Motley Fool"
+      },
+      {
         "headline": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-08-25T09:11:22.000Z",
+        "timestamp": "2026-08-25T09:12:18.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5",
         "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. - The New York Times",
+        "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-08-25T09:02:40.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-        "summary": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. &nbsp;&nbsp; The New York Times"
+        "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Disrupting a new covert influence campaign from Russia - OpenAI",
@@ -149,38 +167,20 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlVTV29tZk9NanNNV0tydzFiLVA2TER2UHRLczZ3REdoa05LSE1mMkJyT0hBdGdUWDVzbHo4SE5abjIzLWROS2tVTWFXSGJIb1VxcVlXb2Z1enRKVjV1TFJiVXBKcEtVOUlWZXFLdWFyd2Y3cjE3STRTRTRmMWdNZVF5aVkwZWxudXduWFRRN2VmOEJ0?oc=5",
         "summary": "Meta is developing an AI glasses kill switch &nbsp;&nbsp; Social Media Today"
-      },
-      {
-        "headline": "Google DeepMind turns to EVE Online to test AI memory, planning and social behavior - EdTech Innovation Hub",
-        "source": "EdTech Innovation Hub",
-        "timestamp": "2026-08-24T23:30:58.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbldkaUx6bDlPWkp1OEIzSUZtXzJCX2V5N09xNnFnb2hiMC11cEk1b19sem4tY0Q4LU1DaU5ISG9DajJTZ1RCQUlwMVJwTDVNR2d6LVpPcVd1WTdzbWJlUTQ2NTRFdWZZaVZ2V1lNc21Ib29CRHBfUE5MZmVndGhYdE9Xc1d4SDZkT0dOYUZMNTZyRXpoQzMxaFNWcS1hU2FSa1pheFh1NzZCM2o1UFVNblBHZ0tvNUU0ejc5YjVzdTk?oc=5",
-        "summary": "Google DeepMind turns to EVE Online to test AI memory, planning and social behavior &nbsp;&nbsp; EdTech Innovation Hub"
-      },
-      {
-        "headline": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information",
-        "source": "The Information",
-        "timestamp": "2026-08-24T22:40:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
-        "summary": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks &nbsp;&nbsp; The Information"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
