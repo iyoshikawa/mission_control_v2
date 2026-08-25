@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T06:54:16.319Z",
+    "generatedAt": "2026-08-25T07:48:08.637Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Claude will now watermark all content generated using its tools - New Atlas",
+      "source": "New Atlas",
+      "timestamp": "2026-08-25T04:27:44.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude will now watermark all content generated using its tools &nbsp;&nbsp; New Atlas",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5"
+    },
     {
       "headline": "Meta is developing an AI glasses kill switch - Social Media Today",
       "source": "Social Media Today",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5"
     },
     {
-      "headline": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-24T13:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5"
-    },
-    {
       "headline": "AI chatbot privacy: What your AI may know about you - Fox News",
       "source": "Fox News",
       "timestamp": "2026-08-24T11:44:19.000Z",
@@ -114,6 +114,15 @@
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Claude will now watermark all content generated using its tools - New Atlas",
+        "source": "New Atlas",
+        "timestamp": "2026-08-25T04:27:44.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5",
+        "summary": "Claude will now watermark all content generated using its tools &nbsp;&nbsp; New Atlas"
+      },
       {
         "headline": "Meta is developing an AI glasses kill switch - Social Media Today",
         "source": "Social Media Today",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXVfT004b3Bib0VKMjc1YUZSTWQ4TkRuam15Sk5pdGx2M2ZhMWVKMzN4ZHFfNDVvQU44ZXlUMGlSekdidEE0S2hobzU4UDNzYWtZeDRUc0U5aTVQcFBrM0JNR0k1Ti15M1lvY0thZ1ktZHM1a2ZCTnp3Y3FCY09HVEoxdjFpN3VfMmVmWFVJckh1d0U?oc=5",
         "summary": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack &nbsp;&nbsp; CNN"
-      },
-      {
-        "headline": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-08-24T15:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5",
-        "summary": "OpenAI is building AI agents for everything. Will everyone use them? &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
