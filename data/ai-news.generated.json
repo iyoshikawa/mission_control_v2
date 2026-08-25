@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T08:47:56.849Z",
+    "generatedAt": "2026-08-25T09:38:54.649Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,36 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-25T09:11:22.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5"
+    },
+    {
+      "headline": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-25T09:02:40.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5"
+    },
+    {
+      "headline": "Disrupting a new covert influence campaign from Russia - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-08-25T08:07:55.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Disrupting a new covert influence campaign from Russia &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1kR0RyOTBzSEgxUzhUVHVRUXcxRTdXTmhNSThIUmd4bWlIVk5VenZGNy1xc3ZrakRpSnFnVFJnMF9hU2xSaHVpT2wwelBkZHlYMUNObmVFVnBjVXMxcWUzZG1NeUNTbXl0eDR1YUJTdnZLLWowZjZnYkxuaFFZRzFHcnpnS1gySkVj?oc=5"
+    },
     {
       "headline": "Meta is developing an AI glasses kill switch - Social Media Today",
       "source": "Social Media Today",
@@ -42,54 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5"
     },
     {
-      "headline": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-24T22:00:45.000Z",
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-24T15:00:00.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "WikiHow sues OpenAI for copyright infringement over AI training &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5"
-    },
-    {
-      "headline": "Advancing price-performance for developers with GPT‑5.6 in Kiro - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-08-24T19:05:56.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Advancing price-performance for developers with GPT‑5.6 in Kiro &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5"
-    },
-    {
-      "headline": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack - CNN",
-      "source": "CNN",
-      "timestamp": "2026-08-24T17:57:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXVfT004b3Bib0VKMjc1YUZSTWQ4TkRuam15Sk5pdGx2M2ZhMWVKMzN4ZHFfNDVvQU44ZXlUMGlSekdidEE0S2hobzU4UDNzYWtZeDRUc0U5aTVQcFBrM0JNR0k1Ti15M1lvY0thZ1ktZHM1a2ZCTnp3Y3FCY09HVEoxdjFpN3VfMmVmWFVJckh1d0U?oc=5"
-    },
-    {
-      "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-24T14:04:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5"
-    },
-    {
-      "headline": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-24T13:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5"
+      "category": "models",
+      "summary": "OpenAI is building AI agents for everything. Will everyone use them? &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5"
     },
     {
       "headline": "AI chatbot privacy: What your AI may know about you - Fox News",
@@ -102,18 +92,55 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkR1bzRQZjBUSXZTOC1CNmVXaDNOU1oxYU9mT2xza2hvWHE4QW82U2lNRWlTc0NRaGVwNm5EOFFjYTJ1U2ZpV2hLTm8zSWRaRjNIMTJGNldXR0ljV2RGb1p6c2JMWUIwa3Q5ZTUzNTFBa3FHV3FJNXM4eUFpM0RUeEF0RjR1UdIBiwFBVV95cUxPZkl0MTAxTmRjLVVHRl9MUV84Y21FRHk3WGc1aWJBMVlfT191Qi12T1VjMHBCek9LMlF6NVJVOXZheHFXQ29VN1RSRU9FSUhPY3Znd0tFak5kcFVZOGJyLUVTQ3FjWnFNVEJzVlhybEJPTDM3ZDN1SEc4SU95eXhnUDUxOVBueXdkbnNj?oc=5"
     },
     {
-      "headline": "Microsoft’s AI cloud business depends on select tech partners - Crypto Briefing",
-      "source": "Crypto Briefing",
-      "timestamp": "2026-08-24T11:23:41.000Z",
+      "headline": "Maia 300 Could Give Microsoft Azure a Major AI Infrastructure Advantage - Cloud Wars",
+      "source": "Cloud Wars",
+      "timestamp": "2026-08-24T11:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft’s AI cloud business depends on select tech partners &nbsp;&nbsp; Crypto Briefing",
+      "summary": "Maia 300 Could Give Microsoft Azure a Major AI Infrastructure Advantage &nbsp;&nbsp; Cloud Wars",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wN1dXYVhHYmtJWkNiNXFYUTVaV3Z1QUZ1My1yUVRHMmRlbml3SW9FdkxDMEJHOG1YazVsUjdVcGVsNW53ZnBJcW1iSVFURDZmTVVtVGtiQnBkY0lfUkhoT2hEa2hqNTBITkVkWGVWSjZKUWs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2JwMG5nZENtWUp4TG8zajZ1SGJySkUtWDAzUk9ITldvZlpmUnhheU1pNEFoWHZPc1k3TTdKVm1xb0FmemMtVUgtOWtMd1BrQUFYVm9lMEhIbTN3TjQ3dHMyM2d5VkRENXBWeEt5ampfZkV2UGNkOWJQOVVHdG41UDd0M3pvQmZCdlBWejFEbzAyR3g1MVdBME1haUoxdFB1UDFRSC14T2d0VkpXWFRvVTBR?oc=5"
+    },
+    {
+      "headline": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-24T09:01:58.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Opinion | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaERBUG5pOGNrSDh3VmxrTk1oLUE2YUV1MDlublNldWJwbUd3ZktXSzVMd0Y5eEtjVEFWZndiSnhkeHBkeng4bHdVLWF3ejRpMGZWVlRDWmdlam15TDdsWGpNSDVveEJTWHl1LUJyaHgtNmh5aXpuSkVQaw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-25T09:11:22.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5",
+        "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-08-25T09:02:40.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
+        "summary": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Disrupting a new covert influence campaign from Russia - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-08-25T08:07:55.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1kR0RyOTBzSEgxUzhUVHVRUXcxRTdXTmhNSThIUmd4bWlIVk5VenZGNy1xc3ZrakRpSnFnVFJnMF9hU2xSaHVpT2wwelBkZHlYMUNObmVFVnBjVXMxcWUzZG1NeUNTbXl0eDR1YUJTdnZLLWowZjZnYkxuaFFZRzFHcnpnS1gySkVj?oc=5",
+        "summary": "Disrupting a new covert influence campaign from Russia &nbsp;&nbsp; OpenAI"
+      },
       {
         "headline": "Meta is developing an AI glasses kill switch - Social Media Today",
         "source": "Social Media Today",
@@ -140,33 +167,6 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
         "summary": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks &nbsp;&nbsp; The Information"
-      },
-      {
-        "headline": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-08-24T22:00:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
-        "summary": "WikiHow sues OpenAI for copyright infringement over AI training &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Advancing price-performance for developers with GPT‑5.6 in Kiro - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-08-24T19:05:56.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
-        "summary": "Advancing price-performance for developers with GPT‑5.6 in Kiro &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack - CNN",
-        "source": "CNN",
-        "timestamp": "2026-08-24T17:57:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXVfT004b3Bib0VKMjc1YUZSTWQ4TkRuam15Sk5pdGx2M2ZhMWVKMzN4ZHFfNDVvQU44ZXlUMGlSekdidEE0S2hobzU4UDNzYWtZeDRUc0U5aTVQcFBrM0JNR0k1Ti15M1lvY0thZ1ktZHM1a2ZCTnp3Y3FCY09HVEoxdjFpN3VfMmVmWFVJckh1d0U?oc=5",
-        "summary": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack &nbsp;&nbsp; CNN"
       }
     ],
     "whyItMatters": [
