@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T07:48:08.637Z",
+    "generatedAt": "2026-08-25T08:47:56.849Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,16 +11,6 @@
     ]
   },
   "newsFeed": [
-    {
-      "headline": "Claude will now watermark all content generated using its tools - New Atlas",
-      "source": "New Atlas",
-      "timestamp": "2026-08-25T04:27:44.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude will now watermark all content generated using its tools &nbsp;&nbsp; New Atlas",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5"
-    },
     {
       "headline": "Meta is developing an AI glasses kill switch - Social Media Today",
       "source": "Social Media Today",
@@ -52,6 +42,16 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5"
     },
     {
+      "headline": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-24T22:00:45.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "WikiHow sues OpenAI for copyright infringement over AI training &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5"
+    },
+    {
       "headline": "Advancing price-performance for developers with GPT‑5.6 in Kiro - OpenAI",
       "source": "OpenAI",
       "timestamp": "2026-08-24T19:05:56.000Z",
@@ -72,16 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXVfT004b3Bib0VKMjc1YUZSTWQ4TkRuam15Sk5pdGx2M2ZhMWVKMzN4ZHFfNDVvQU44ZXlUMGlSekdidEE0S2hobzU4UDNzYWtZeDRUc0U5aTVQcFBrM0JNR0k1Ti15M1lvY0thZ1ktZHM1a2ZCTnp3Y3FCY09HVEoxdjFpN3VfMmVmWFVJckh1d0U?oc=5"
     },
     {
-      "headline": "OpenAI is building AI agents for everything. Will everyone use them? - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-24T15:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI is building AI agents for everything. Will everyone use them? &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnJHeUFoS1IxSUZ6bFpySlBzOVp4V2RnZ1hCYTRwUFMxejByWVhFVk9oY09zbHBXRGlaRDVWVXEzMVB1TEUxbDlqVVdfNXdiTDB6Qy1NR25zZlFHYVZnZ1Vhekw5MU9LUVV0RGt2YXlnQU1sN05JMHd6RUlMQ2xrNEtVMlpWNHV6LVotUGZQbm8wX3BtWTVxMENrNUVxOWdfR2VUc2NB?oc=5"
-    },
-    {
       "headline": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-08-24T14:04:33.000Z",
@@ -90,6 +80,16 @@
       "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5"
+    },
+    {
+      "headline": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-24T13:00:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Here's how Thomson Reuters is loosening Claude's costly grip &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5"
     },
     {
       "headline": "AI chatbot privacy: What your AI may know about you - Fox News",
@@ -114,15 +114,6 @@
   ],
   "aiNews": {
     "topStories": [
-      {
-        "headline": "Claude will now watermark all content generated using its tools - New Atlas",
-        "source": "New Atlas",
-        "timestamp": "2026-08-25T04:27:44.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWlZoaFl6aEFqWUlSdGh5MU8xdjNwSmxKNUtoT2VQalNGVk9TWlN1QUJRVl9wZmdvcjhqSlg5WW5aTEVPUFZzYWtiZUtxSVVMUEVkQVBXWkZEVFFpZ2NOVWV2RVRheVU3V2F5bzZ1QnVTQmJJUU9hay1zeVh4UHZpY1RBRGdMbmgyN3BqSlVMNXZSazc5QTlyeGMyT2Z2c0U?oc=5",
-        "summary": "Claude will now watermark all content generated using its tools &nbsp;&nbsp; New Atlas"
-      },
       {
         "headline": "Meta is developing an AI glasses kill switch - Social Media Today",
         "source": "Social Media Today",
@@ -149,6 +140,15 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
         "summary": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks &nbsp;&nbsp; The Information"
+      },
+      {
+        "headline": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-08-24T22:00:45.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
+        "summary": "WikiHow sues OpenAI for copyright infringement over AI training &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "Advancing price-performance for developers with GPT‑5.6 in Kiro - OpenAI",
