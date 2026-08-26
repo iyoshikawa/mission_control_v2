@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T06:55:11.487Z",
+    "generatedAt": "2026-08-26T07:50:13.298Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Variety",
+      "source": "Variety",
+      "timestamp": "2026-08-26T07:00:00.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia &nbsp;&nbsp; Variety",
+      "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzh5ajlrNFFWUUJoaTNtOGNyT201emZVeW1LS3dFTGJwTXFFaUEwWHZCNzIxNDhNVEFTdm9xM0kyVG9naW40T09NZXJoX1dJNFVvOEtxSUZldGNjNmNNS0s3ZV9rZEJTaUk3M3R2djBibjZMMjhWekxkUE5kalpEUHR1alNsdTZhRXZxZHplU0pfWENmNnEtaUwyM3hkMnYwWXkwN2xIRQ?oc=5"
+    },
     {
       "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
       "source": "The New York Times",
@@ -30,16 +40,6 @@
       "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5"
-    },
-    {
-      "headline": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight - Crypto Briefing",
-      "source": "Crypto Briefing",
-      "timestamp": "2026-08-25T21:14:14.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight &nbsp;&nbsp; Crypto Briefing",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CN1RUVzRrcTNfUEpfU2kxX2s4NVNJZzlQSHN1Vmo5M3c3QllrTVVyU09RazVBSk9JbjBidDJQS2lzOEVkVkx5UnRIdjUtX0sxUDlXZ3BmR1E4VzVZQldYNTZRbVdzVkxfU3laR0ZyS1JZTUQ5R0E?oc=5"
     },
     {
       "headline": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT) - Seeking Alpha",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia - Variety",
+        "source": "Variety",
+        "timestamp": "2026-08-26T07:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzh5ajlrNFFWUUJoaTNtOGNyT201emZVeW1LS3dFTGJwTXFFaUEwWHZCNzIxNDhNVEFTdm9xM0kyVG9naW40T09NZXJoX1dJNFVvOEtxSUZldGNjNmNNS0s3ZV9rZEJTaUk3M3R2djBibjZMMjhWekxkUE5kalpEUHR1alNsdTZhRXZxZHplU0pfWENmNnEtaUwyM3hkMnYwWXkwN2xIRQ?oc=5",
+        "summary": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia &nbsp;&nbsp; Variety"
+      },
+      {
         "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-08-25T21:59:39.000Z",
@@ -131,15 +140,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
         "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "timestamp": "2026-08-25T21:14:14.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CN1RUVzRrcTNfUEpfU2kxX2s4NVNJZzlQSHN1Vmo5M3c3QllrTVVyU09RazVBSk9JbjBidDJQS2lzOEVkVkx5UnRIdjUtX0sxUDlXZ3BmR1E4VzVZQldYNTZRbVdzVkxfU3laR0ZyS1JZTUQ5R0E?oc=5",
-        "summary": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight &nbsp;&nbsp; Crypto Briefing"
       },
       {
         "headline": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT) - Seeking Alpha",
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
