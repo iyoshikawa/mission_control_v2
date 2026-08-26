@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T16:21:00.027Z",
+    "generatedAt": "2026-08-26T19:05:51.710Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,56 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "OpenAI had warnings before its agents broke out - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-26T19:02:53.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI had warnings before its agents broke out &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhOcFhHZEZ1NXpmMnhPWmFpa1ZJZkZLdXRYMWdEcW92ZGs0QXpHX1REdlFkUUhNZXhfMHBURDluR1M5TS1LOVppa2Y2ZWNKTGJRRGN0a1RBdkpwOXVqVzBuemJ6aTNWZHVsZEN6X2d0b2dqcEdhTGl2WUFxMFZvVWtkTQ?oc=5"
+    },
+    {
+      "headline": "Anthropic and Nscale strike $45 billion cloud deal, sources say - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-26T18:07:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic and Nscale strike $45 billion cloud deal, sources say &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHkzbVhyLS1hNG8xcnI2cXhwUnE5N01KZE5sRnJRNnNfcHExOGlDYl9JM05XTlRVMUJCM3pRbmNfNEd5NllyVkxXdUc2ZU5OMl9pVUNoZ0taV0U2eVZ3MkZDZ0lLZ29fLWNObzBhYmpDdnpQMVdHanp0bzlXekVUT1hIM1FEV1BBYVpiQW50M3czTEJYZ2ZVUkVkUnhrbFXSAaQBQVVfeXFMT0VLWU96MG5fRksyN0FHZVF6RUExb2R4UlhScjJGUzRLejc5aXctcVpEUkVSd0lBa2d4cF9xSDZlaXJ3MzByZEpsN08yQU4wcnRSaDVIR3AtaGlCdG9SbVUwOU91Tk9QSnVoclRNdEEtMUhnRnd1LUNrV2h6MTIyVHUzazVUT3JpcGlldGlLdjZLRU9BV3VWMXhhNXZ2RzZNcFdqQWU?oc=5"
+    },
+    {
+      "headline": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-08-26T17:36:41.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands &nbsp;&nbsp; Engadget",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmhYcnZfVXc0SEJ2YUR2Yk5BcTlBSjViZ0hGQVJYNHFmeGRHRDhKTklOTVN5cDdNMzZvTTV1ODRHQll5UGJtTG4yUTBIZmlxbDE3VHZKNGZuREdsNGtDVm15enJ4cENicl84czVsOWlhNEZxMy1VSTVWdmptekhLWWR0XzlfTHVubkpWcnM2LWZILVcxa2xv?oc=5"
+    },
+    {
+      "headline": "Anthropic to Pay Nscale $45 Billion for AI Computing Power - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-26T17:02:32.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic to Pay Nscale $45 Billion for AI Computing Power &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzVZckV2QWFDb2xsVWN6OGhuamVpbENEQTZxZWk3SjFxVWxhSlVWeERya1lGM0dzbGx0RGlsMU1kLWhxcFQxVldKZThrR01CUS1Gcnhya0NEMGk2aklKMnZIRHIzZlNlTWRIekdlQ19jaU5NczBNUmpqY1hWVlVTbTFVclF2dWRGUVZ3SUN2NFp4OXA3QktYcW5LWWNHZWtmMDBxVFItc2FBS3Iy?oc=5"
+    },
+    {
+      "headline": "New OpenAI chip promises faster, cheaper AI than Nvidia’s - Los Angeles Times",
+      "source": "Los Angeles Times",
+      "timestamp": "2026-08-26T16:54:22.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "New OpenAI chip promises faster, cheaper AI than Nvidia’s &nbsp;&nbsp; Los Angeles Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1Y3WlFBRFV1NC1nOTZRMzd4SVJJbDVTR2VsNFp6MXo2OVJqd0I1WTI1NWRScHM2TE1pczRlcW5WcDk5TURIdGZDVGtEUk9SUlBvSmw2TzFhQlI4TlhScHFlMWdmUk9TbG82WERjUmhZcl9oeUNZOGcweGV3Z1FyOUtxNUhlWmM3RXNVUmZfYXhYLVVMTEN1RDFkTVo1cHVMYWxQdE05MWo?oc=5"
+    },
     {
       "headline": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
       "source": "Reuters",
@@ -32,24 +82,24 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjhmZHE1NDVIcnY5TWRLbDc0S2gxR0FFTElPMFJUSm9OR1I2ckVmTWt0dWNEaGRfbmxhMUdZYWlfbTE0b3FjS3VFajJPVG03QUFISkJMYXgzN3RXMXl3NVBwbl9GcmY0LVY2dXR1WGNGenk1TXhHNnplY01seDROQTRMRWgxOC12c3NYT3NGTTdhaVB2bVBfd1h5LUlScnlMejd4TVBSZm0?oc=5"
     },
     {
-      "headline": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-26T14:19:29.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFR3QnVmLU5NNWtuQ0lITGFxTDREVWdJbE1wTFFNR0RVWExhV2lNR2sxMnF2Nmlud1FOSjVPaW82clVOcGtETW5oeDN0SDNPcmhKUDZHT043a1hzdnltSGVDSTZXamFYZE5uRWs0V3pNelVnRlBUVTZ1YlhaaF9KS0k2RVBJRkVGUklOYkZLZ29hMHd5aHRnMlA3cFRRNXhz?oc=5"
-    },
-    {
-      "headline": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-08-26T13:27:35.000Z",
+      "headline": "Meta Explored Cutting Some Teams by Up to 60% as AI Productivity Fell Short - TipRanks",
+      "source": "TipRanks",
+      "timestamp": "2026-08-26T14:04:15.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdHlNWkdYQUJBdVV5c1luMDFlQVYyZnNzRFV3X3kweGY0ZG5IMVpfTE5Qd2JIdkMyaDZOOUJHZm0xU2FUcGdDT3Fzd0lITzd3NjRSbTJGYWNXWnVLV08yXzRUNUtSVGI0WFBlMHZMUk9FNFZCOXfSAXtBVV95cUxPREVoZVc1MjZnZzRDZ1diQ19ET2RQRURoYWtNUmNUUE1sSkgwZWJWZFl5M09MeHgyZjVYVTM2ZmdPdnV2NlgzdmJ3U2MzN09GYmQ0aUxtbFFGS0NvanpNbVY2NmxuV1R1ZnM0ZnZLS2dUUXR3XzF0amphbUU?oc=5"
+      "summary": "Meta Explored Cutting Some Teams by Up to 60% as AI Productivity Fell Short &nbsp;&nbsp; TipRanks",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0E4YkphaElRSHJYbmt3MHktWFlMU0Q2VUdGOFNIUnJBcDU3Z1Y1WTh5MklVcHZVaXpvcjFYX29OR2ducVBfa2ZSdEZOQU5XRUFCT2g1QkZZb01HZ2dqSXluZEFEcFFkSC1BZWlsVU8tN1dzWm42eWRnSUFVSUN2dFJBRXA2aUlsQ0pWd203SDRNeXk3ZjhQa2lFM0lfR1Q4d182YndQOA?oc=5"
+    },
+    {
+      "headline": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-26T12:56:20.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGNxazdtc2NaY0kyLUQxT1YwVV9aUEhSTWowdGxoYjByb1d2cjJXTTk4TGcxSTgybGplUVZKZ0Z4YUI5VzZDcTc4bmJYcmlYTXNjaG1jM0EwN2prdVlnUFhULXFLV1NwUUh3enV1MmhtT195VVQ1YThpOU5KQ2RsM1I5YlhiODR5U0lCOWQzSHFSVmRqUTBockZZcGxBSU1CYVJsS1ZRaDItdw?oc=5"
     },
     {
       "headline": "Inside OpenAI’s Reboot - Time Magazine",
@@ -60,60 +110,55 @@
       "summary": "Inside OpenAI’s Reboot &nbsp;&nbsp; Time Magazine",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5"
-    },
-    {
-      "headline": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-26T10:07:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5"
-    },
-    {
-      "headline": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-26T09:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Is Leaving Investors Flying Blind on Its AI Businesses &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFY0NEpTbU51QTA4YXloUkVMVWFuYjcwZy1uaEtUX0dqbkU0UVAtUkRkUEZYTGhSV3M1bDBrd3NDZG9TNjI1MFZPX2szTTNQLWJQWkdTT0txZ1RjUU9RaW5OMTVoTUItbFpZMGkxREF0SlFhNXlCc2VWOXhBQUhSWXVTMDBMeWt1dk5tUktzcUpZTE5tYTVQcmp3YTBxMzIzZ204?oc=5"
-    },
-    {
-      "headline": "Google DeepMind, Kling AI & Alibaba Join Busan Market’s InnoAsia 2026 Program - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-08-26T08:18:32.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Google DeepMind, Kling AI & Alibaba Join Busan Market’s InnoAsia 2026 Program &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEkxNVZKb2JjODdZZ3llb1BZQm90SFMwTS1CRm9EVTltLVdjdzBNaWZ4RnZSY1p2NXprNUl5ZW82aHZvRWY1QnpyeDV2bXpDXzNWVW5vZ1RheE5jM2ZGWDc3WTJjdk9aaXVqZlZfdzhYcUg3UjFwQzhzczZ3N0V2TVZDWDBlR2ZzS0Z2Y2FKWTFzUHhzLXZrbWw2ZWJLOFAw?oc=5"
-    },
-    {
-      "headline": "Shopify's CEO threatened to ban Claude Code. Anthropic had already closed the feature request. - The New Stack",
-      "source": "The New Stack",
-      "timestamp": "2026-08-25T19:42:10.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Shopify's CEO threatened to ban Claude Code. Anthropic had already closed the feature request. &nbsp;&nbsp; The New Stack",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kOEpmSGtkU2M5SnROVV9kVVM0Z1liN1B6aW5pZkI4UC1ZV2VYaFU4WlNHbXU3a1NUVUxYOERxc2dJOU5Hak9DOTJmUEFYLXA5bnJjZFVPdlpxSzd1aDdaWlVB?oc=5"
-    },
-    {
-      "headline": "Funding better evaluations of AI’s impact on wellbeing - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-08-25T16:10:44.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Funding better evaluations of AI’s impact on wellbeing &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNElZcS10WnJ1NHJEdmtYNkxUT1JQZ3plaDhZejA4UENGVlliUzRqM19sejJyOEFZbW9zbTZyZmpsZGpmOGYtaDc2T1pFTThXUG9wQi1nUFl3cVhIVDJyQVd6QnBsa2M?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI had warnings before its agents broke out - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-26T19:02:53.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHhOcFhHZEZ1NXpmMnhPWmFpa1ZJZkZLdXRYMWdEcW92ZGs0QXpHX1REdlFkUUhNZXhfMHBURDluR1M5TS1LOVppa2Y2ZWNKTGJRRGN0a1RBdkpwOXVqVzBuemJ6aTNWZHVsZEN6X2d0b2dqcEdhTGl2WUFxMFZvVWtkTQ?oc=5",
+        "summary": "OpenAI had warnings before its agents broke out &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "Anthropic and Nscale strike $45 billion cloud deal, sources say - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-08-26T18:07:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHkzbVhyLS1hNG8xcnI2cXhwUnE5N01KZE5sRnJRNnNfcHExOGlDYl9JM05XTlRVMUJCM3pRbmNfNEd5NllyVkxXdUc2ZU5OMl9pVUNoZ0taV0U2eVZ3MkZDZ0lLZ29fLWNObzBhYmpDdnpQMVdHanp0bzlXekVUT1hIM1FEV1BBYVpiQW50M3czTEJYZ2ZVUkVkUnhrbFXSAaQBQVVfeXFMT0VLWU96MG5fRksyN0FHZVF6RUExb2R4UlhScjJGUzRLejc5aXctcVpEUkVSd0lBa2d4cF9xSDZlaXJ3MzByZEpsN08yQU4wcnRSaDVIR3AtaGlCdG9SbVUwOU91Tk9QSnVoclRNdEEtMUhnRnd1LUNrV2h6MTIyVHUzazVUT3JpcGlldGlLdjZLRU9BV3VWMXhhNXZ2RzZNcFdqQWU?oc=5",
+        "summary": "Anthropic and Nscale strike $45 billion cloud deal, sources say &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-08-26T17:36:41.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmhYcnZfVXc0SEJ2YUR2Yk5BcTlBSjViZ0hGQVJYNHFmeGRHRDhKTklOTVN5cDdNMzZvTTV1ODRHQll5UGJtTG4yUTBIZmlxbDE3VHZKNGZuREdsNGtDVm15enJ4cENicl84czVsOWlhNEZxMy1VSTVWdmptekhLWWR0XzlfTHVubkpWcnM2LWZILVcxa2xv?oc=5",
+        "summary": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands &nbsp;&nbsp; Engadget"
+      },
+      {
+        "headline": "Anthropic to Pay Nscale $45 Billion for AI Computing Power - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-08-26T17:02:32.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzVZckV2QWFDb2xsVWN6OGhuamVpbENEQTZxZWk3SjFxVWxhSlVWeERya1lGM0dzbGx0RGlsMU1kLWhxcFQxVldKZThrR01CUS1Gcnhya0NEMGk2aklKMnZIRHIzZlNlTWRIekdlQ19jaU5NczBNUmpqY1hWVlVTbTFVclF2dWRGUVZ3SUN2NFp4OXA3QktYcW5LWWNHZWtmMDBxVFItc2FBS3Iy?oc=5",
+        "summary": "Anthropic to Pay Nscale $45 Billion for AI Computing Power &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "New OpenAI chip promises faster, cheaper AI than Nvidia’s - Los Angeles Times",
+        "source": "Los Angeles Times",
+        "timestamp": "2026-08-26T16:54:22.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1Y3WlFBRFV1NC1nOTZRMzd4SVJJbDVTR2VsNFp6MXo2OVJqd0I1WTI1NWRScHM2TE1pczRlcW5WcDk5TURIdGZDVGtEUk9SUlBvSmw2TzFhQlI4TlhScHFlMWdmUk9TbG82WERjUmhZcl9oeUNZOGcweGV3Z1FyOUtxNUhlWmM3RXNVUmZfYXhYLVVMTEN1RDFkTVo1cHVMYWxQdE05MWo?oc=5",
+        "summary": "New OpenAI chip promises faster, cheaper AI than Nvidia’s &nbsp;&nbsp; Los Angeles Times"
+      },
       {
         "headline": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
         "source": "Reuters",
@@ -122,65 +167,20 @@
         "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5",
         "summary": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Microsoft's AI Capacity Is Selling - But Cash Conversion Is Lagging (NASDAQ:MSFT) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-08-26T14:22:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjhmZHE1NDVIcnY5TWRLbDc0S2gxR0FFTElPMFJUSm9OR1I2ckVmTWt0dWNEaGRfbmxhMUdZYWlfbTE0b3FjS3VFajJPVG03QUFISkJMYXgzN3RXMXl3NVBwbl9GcmY0LVY2dXR1WGNGenk1TXhHNnplY01seDROQTRMRWgxOC12c3NYT3NGTTdhaVB2bVBfd1h5LUlScnlMejd4TVBSZm0?oc=5",
-        "summary": "Microsoft's AI Capacity Is Selling - But Cash Conversion Is Lagging (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha"
-      },
-      {
-        "headline": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-08-26T14:19:29.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFR3QnVmLU5NNWtuQ0lITGFxTDREVWdJbE1wTFFNR0RVWExhV2lNR2sxMnF2Nmlud1FOSjVPaW82clVOcGtETW5oeDN0SDNPcmhKUDZHT043a1hzdnltSGVDSTZXamFYZE5uRWs0V3pNelVnRlBUVTZ1YlhaaF9KS0k2RVBJRkVGUklOYkZLZ29hMHd5aHRnMlA3cFRRNXhz?oc=5",
-        "summary": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-08-26T13:27:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VdHlNWkdYQUJBdVV5c1luMDFlQVYyZnNzRFV3X3kweGY0ZG5IMVpfTE5Qd2JIdkMyaDZOOUJHZm0xU2FUcGdDT3Fzd0lITzd3NjRSbTJGYWNXWnVLV08yXzRUNUtSVGI0WFBlMHZMUk9FNFZCOXfSAXtBVV95cUxPREVoZVc1MjZnZzRDZ1diQ19ET2RQRURoYWtNUmNUUE1sSkgwZWJWZFl5M09MeHgyZjVYVTM2ZmdPdnV2NlgzdmJ3U2MzN09GYmQ0aUxtbFFGS0NvanpNbVY2NmxuV1R1ZnM0ZnZLS2dUUXR3XzF0amphbUU?oc=5",
-        "summary": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Inside OpenAI’s Reboot - Time Magazine",
-        "source": "Time Magazine",
-        "timestamp": "2026-08-26T11:00:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VV0QxTTNlaWk2MXdtUVRzbzV5Nmp2VXRDaHdYeVZlRWkxcVBadXQtOGRlTU9EVW01RUtEYlZqdFExNTFOaDVSV1ctb1lrMXo1azlTRWJBNWdPejVMa1RTbmZ5OVZCMEpJdmQ3cVZBYlphdw?oc=5",
-        "summary": "Inside OpenAI’s Reboot &nbsp;&nbsp; Time Magazine"
-      },
-      {
-        "headline": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-08-26T10:07:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
-        "summary": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
