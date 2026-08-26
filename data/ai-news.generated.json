@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T05:37:16.264Z",
+    "generatedAt": "2026-08-26T06:55:11.487Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-08-25T21:59:39.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5"
+    },
+    {
       "headline": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
       "source": "WSJ",
       "timestamp": "2026-08-25T21:30:00.000Z",
@@ -20,6 +30,26 @@
       "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5"
+    },
+    {
+      "headline": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight - Crypto Briefing",
+      "source": "Crypto Briefing",
+      "timestamp": "2026-08-25T21:14:14.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight &nbsp;&nbsp; Crypto Briefing",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CN1RUVzRrcTNfUEpfU2kxX2s4NVNJZzlQSHN1Vmo5M3c3QllrTVVyU09RazVBSk9JbjBidDJQS2lzOEVkVkx5UnRIdjUtX0sxUDlXZ3BmR1E4VzVZQldYNTZRbVdzVkxfU3laR0ZyS1JZTUQ5R0E?oc=5"
+    },
+    {
+      "headline": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "timestamp": "2026-08-25T16:23:28.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHZNdEpmTklEemt2VW5DaTVCTUc1VVlCZmtnMTNXanFtRW9rSkZSYi16MDF3NHFuTFkyVXJwYWRwQUlOalZFMFlMZUZZSkg2eUlPVUhzSzVvMnlmcmVTeER4VG9KaW44UG82YlVLaU44YXFTWjBKQXl3ZHNpRDNTTw?oc=5"
     },
     {
       "headline": "Funding better evaluations of AI’s impact on wellbeing - Anthropic",
@@ -80,40 +110,19 @@
       "summary": "Anthropic tells San Francisco staff to work from home due to possible security team strike &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV3JsZ3V5NHdIQTdfZ2xQTEY4MzNFRWx1dzNld2cyMHdCbGhaWFAtT3RHcUxrZDh0M1ZmWm5OZW9yMmJ4Z1BUaDh3N1k4bzVDOE1MRWpTUUd2WEVTNXZRbHVnX1Z4T3NuRHg0TEJVTnFMOGROY2hTaDJtUHRkb2VYdThVbzM2eXVLeGhieDZyekVPeUF1Qk5qb1gwTXA1UzE4cUtXc0VB?oc=5"
-    },
-    {
-      "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-25T09:02:40.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5"
-    },
-    {
-      "headline": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information",
-      "source": "The Information",
-      "timestamp": "2026-08-24T22:40:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks &nbsp;&nbsp; The Information",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5"
-    },
-    {
-      "headline": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet - Engineering at Meta Blog",
-      "source": "Engineering at Meta Blog",
-      "timestamp": "2026-08-24T18:06:52.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet &nbsp;&nbsp; Engineering at Meta Blog",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR21wcW5UUC1CbExfZmQ3QV9vVjhSMkVvUnpnd0s1WnFQOXB4cVFEOXoyUDhYRWo0ZmU0S1pwNDlyM0pEMjZjWUpsZDR0dkdUcGxkQjRjTVFZRDZUU2dWa0tIdmtwMi1mUndndDlzZXh3N2FiZ213WjJFclNSOURJeUlEak1ndEdhYklhZ1hpTXlhUXkzTWJMOQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-08-25T21:59:39.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
+        "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails &nbsp;&nbsp; The New York Times"
+      },
       {
         "headline": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
         "source": "WSJ",
@@ -122,6 +131,24 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
         "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "timestamp": "2026-08-25T21:14:14.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CN1RUVzRrcTNfUEpfU2kxX2s4NVNJZzlQSHN1Vmo5M3c3QllrTVVyU09RazVBSk9JbjBidDJQS2lzOEVkVkx5UnRIdjUtX0sxUDlXZ3BmR1E4VzVZQldYNTZRbVdzVkxfU3laR0ZyS1JZTUQ5R0E?oc=5",
+        "summary": "Former Google DeepMind researchers launch Sampura Research with $11M to build better AI oversight &nbsp;&nbsp; Crypto Briefing"
+      },
+      {
+        "headline": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "timestamp": "2026-08-25T16:23:28.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHZNdEpmTklEemt2VW5DaTVCTUc1VVlCZmtnMTNXanFtRW9rSkZSYi16MDF3NHFuTFkyVXJwYWRwQUlOalZFMFlMZUZZSkg2eUlPVUhzSzVvMnlmcmVTeER4VG9KaW44UG82YlVLaU44YXFTWjBKQXl3ZHNpRDNTTw?oc=5",
+        "summary": "Microsoft's AI Rally Has Room To Run (NASDAQ:MSFT) &nbsp;&nbsp; Seeking Alpha"
       },
       {
         "headline": "Funding better evaluations of AI’s impact on wellbeing - Anthropic",
@@ -140,33 +167,6 @@
         "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjZaazBLZXFzWnlOOHJ2b24wZzZsOGd6Sy11ZGF2NXZ1NmJ0bWdYNklaOUszQ2NMT2J0YTh6X0V6ZUJNVl9LVF82blJCTHZadHEybHN1WEFBMy1NdXNoenIxNGdudjZscEVQT09xMjRjU3htekdoNk45SzdkbGRlMUdKWUJCVlpzcFlYM1RLSlVqWHBtZUM0azctZV8xaWpvbHJLcmxGNXQ5bV9Mc1JjQVJXcXZnaWJ1MmJN?oc=5",
         "summary": "Exclusive | Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue &nbsp;&nbsp; WSJ Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports &nbsp;&nbsp; Reuters Five things to know about Anthropic ahead of Wall Street debut &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-08-25T14:28:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5",
-        "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "OpenAI Jalapeño: Better Than Nvidia Blackwell - SemiAnalysis",
-        "source": "SemiAnalysis",
-        "timestamp": "2026-08-25T14:00:38.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5",
-        "summary": "OpenAI Jalapeño: Better Than Nvidia Blackwell &nbsp;&nbsp; SemiAnalysis"
-      },
-      {
-        "headline": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake. - The Motley Fool",
-        "source": "The Motley Fool",
-        "timestamp": "2026-08-25T11:15:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3VuSkxueHFBeWozX3ZDdk45a0tjUjRLUGZncFA0Wnoza1lXTERYaHZmOHM0WlpQVmRob1NHb2o1cUk3Vmc1cXVoWWJwOGh5UW5lOVpVN19MX2pzT1VwS1luanBHbVYwSEp3MllzckFLTm0xazUwTl9XUFRRaFFDcGtUZTdGMTFBRlBsVmltLUtzR28?oc=5",
-        "summary": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake. &nbsp;&nbsp; The Motley Fool"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
