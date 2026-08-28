@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-27T16:16:26.211Z",
+    "generatedAt": "2026-08-28T01:22:37.781Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,23 +12,63 @@
   },
   "newsFeed": [
     {
-      "headline": "Why the departure of OpenAI’s data center chief is not a good look - Fast Company",
-      "source": "Fast Company",
-      "timestamp": "2026-08-27T16:07:09.000Z",
+      "headline": "AWS Bedrock AgentCore vs Azure AI Foundry vs Vertex AI: 15 Regions, 1 Deadline [2026] - tech-insider.org",
+      "source": "tech-insider.org",
+      "timestamp": "2026-08-27T22:38:53.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why the departure of OpenAI’s data center chief is not a good look &nbsp;&nbsp; Fast Company",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk1QOW9FYndzamxkOHBCcVFfaWlibVdVUUZHQ3R1OGJxMWhUZmxiUkdwaVhkS1ppN3VrdGl3MFFrUUVGSnVaTDViYjZ4d2tMNWo0QTVlYmo1d25iajUzOG8ydUZ5cEJhMUpVWENSOFp0MkducGhBa1JqLURiMFBQd0JOSlNSTmc1UldKWFhRS2RXV2hjd3BzS1VOVDBwaGFTVlVURQ?oc=5"
+      "category": "models",
+      "summary": "AWS Bedrock AgentCore vs Azure AI Foundry vs Vertex AI: 15 Regions, 1 Deadline [2026] &nbsp;&nbsp; tech-insider.org",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWJrZzdfdTlKT01PXzdDTUw1d0ZuU1RiaWNCTmhsaEJLQUR0LUlhbWo0WW5CcGZyZ2tpb2lUSC00SGtpQXNmWDVoLUxuc0p5VE5CVmdBNC1zcmphSWp2QVZxVkFMY21qLWxCeUd4WlF4RU5abGZzbXlKRjNDN2tBYUN3T3lISXg0S0FabW1vVzB5UURIVjRULVlzRHFDMDFt?oc=5"
     },
     {
-      "headline": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. - The New York Times",
+      "headline": "Previewing the Model Hardware Standard - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-08-27T17:58:11.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Previewing the Model Hardware Standard &nbsp;&nbsp; Anthropic Anthropic pushes into physical world with new standard to help AI agents operate machines &nbsp;&nbsp; CNBC Anthropic's new hardware standard lets AI agents control the physical world &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5"
+    },
+    {
+      "headline": "Tech giants warn time is running out to prepare for AI threats - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-27T17:23:38.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Tech giants warn time is running out to prepare for AI threats &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZjbXVGeWV6Uk82dmM1SDlhMml2dEFiVTdjdHJYenNYXzVKZ2MzdkxxVVYyTWN5a3Y3alo3NHFfU2NfT3pjeC1aR2VVT0UtcThKb2MycDljNVg1OTFYblFvU1BmVS1aR2IwSldCclZfTHNKNVg2bUU4N0c5UEdjSWpOTzJLNEJW?oc=5"
+    },
+    {
+      "headline": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-08-27T17:09:20.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDd3U3BGeEl1OTlveFhkeGp5R0I3XzFxdDVSdFVNdTlUaUdrR1VReE9wUDJYeEdpVzY5V3BMRGNYUnpKV0lBV3hlTjRodkZmODB2enhoY2RMMlJxdWc4WHdTOEo2RUgyV0Nzd0VzcHBWZ0E0WGJnSGpXRHAxVnJmcnYyRmtaSVd2Yl96NzVhdElJQjI1Q3Y5ZVpJc0hQWUlzb2ZDcnROREJLSmd1bV9lbE9IbUs?oc=5"
+    },
+    {
+      "headline": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-27T14:31:25.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5"
+    },
+    {
+      "headline": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
       "source": "The New York Times",
       "timestamp": "2026-08-27T14:04:10.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "summary": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5"
     },
     {
@@ -40,6 +80,16 @@
       "summary": "Piloting the world's first double-blind AI evaluations &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdTZ6V1lCSnh5ZzVEd0gzMUd0TlA1a0stVGUxMlJrU1Y2M0E2SEZvS0ItLW9OM0MzeDhSeG5TQ2pJT0VrakZkeFc4V01uMXFEcHhBSzFvLW5YenBrRG1mamZOR29iZmxhY25kMmliWG1Ja2lHdWI2RGVPSUFpNXBsRDJ1SkdPTERuYVN3?oc=5"
+    },
+    {
+      "headline": "Lila Ibrahim: The 100 Most Influential People in AI 2026 - Time Magazine",
+      "source": "Time Magazine",
+      "timestamp": "2026-08-27T12:02:19.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Lila Ibrahim: The 100 Most Influential People in AI 2026 &nbsp;&nbsp; Time Magazine",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFZ0VkMzVMTnFnTk5MZzJlR1pvdTA0WHVrY0NxNzltbmdMOFlUcGZhQURJc2daZlVQWTcxMlRsenhFZ01GeVBVUzI2T2VxYW1IV1F1dTZDeENJc3RQYW1lSDdNRW5vMVRi?oc=5"
     },
     {
       "headline": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News",
@@ -60,113 +110,63 @@
       "summary": "Microsoft Stock And 2 AI Infrastructure Picks For Data Center Growth &nbsp;&nbsp; simplywall.st",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNUtELXVUTHRpLWlfZ1hBQWhfak8tMU5xcHNKSmczakQtWGlfbi1BdkgwY2xlN2JnR05SaUt3VmxWMUp6ZldfRHNrMmxGT1pJRzAtSHM1dFBnZFNwVXIxOUt0aW00S0pyNkk1RzdIN1V1cmtKS1lkVFhvelZQMUY3V25pUl9wZHNWRjNHRUVHaFJRNktsNzFUSURLcW1nRkFadzk5bmtFQ1BXVHdYNUlweG5OMHg0bjdUckxhT2lEQ085aVFRZk9V0gHMAUFVX3lxTE9wbHdzcGMybGwtSXNCZmFsWFhoeWxjeEUzMGNDeVZPeXlRZ19OVUNBZHZ4NWdIQklNaE1LOEthaktpVlpVeExhU0Z2SjdpQUJ6c2tZcldXcTZEUEFqOEVDUnZyamFQOFNPOVBvWHp3SHh0aVB3N19YdmNoMzRwQUM0MVZaRUVaV2x2UlpURl9sbFFoTlhTZHlwNGdRb29HdFpseEZ2dFRVUTVrdTVyeGtJbUExN3Z3WGIySVhzT1p1TTNPdktVR2FRU0ctUQ?oc=5"
-    },
-    {
-      "headline": "Google DeepMind is losing its grip on elite AI talent, new data shows - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-08-27T07:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind is losing its grip on elite AI talent, new data shows &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUVkM192RDY0eDJvb3VVTkk1RkFHQ2hjZWxDbFdsN0dqWjkzbUJVakFIUE53djRtLV9SOG5RYklpZ3hYam1IMHBYZWg4aDJxaWktbmFxSDB2d1pmQjgzZ01RRGhPdGxBcWl2bUZjbVdmMlRoNV9FYUVXY0xZMG4wNmEyaHhKX2hhQ2l3WWp2akNkN1o3bDZlNGJxdFJaQQ?oc=5"
-    },
-    {
-      "headline": "Thinking Machines Lab co-founder Barret Zoph joins Google - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-08-27T02:53:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Thinking Machines Lab co-founder Barret Zoph joins Google &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEhFbHVUaTVIeWZ2dUNFcXZtWlJEcldsdTNaOVd0d2prMndmZmh2V1JNcDlITmZ3blZtUDgxT1lZTllrUVBHdTlWSFkzVW9hS0otYmpXRVk1Q1FaOWdLTUxaTDdCMUUxbHNnMnFZeDh5RE9TV0N0Vy1YcWotOUNRRTFlSnl2VDFoaTYxTGlIQzlPR3laVFMwaEkzT0RWOXRLTGhVSg?oc=5"
-    },
-    {
-      "headline": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack - Politico",
-      "source": "Politico",
-      "timestamp": "2026-08-27T02:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Hundreds of AI agents went rogue in OpenAI’s Hugging Face hack &nbsp;&nbsp; Politico",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVF5Q3hJemxqUXVJd2M2OHpKZ3RPVmY4SEU0VUNpZmVtYWxabk1Mdy1lXzh3czEtUTFHbVZaNjAyZmpicG11X1ZPYzBTSWQxdWlCQlpnTmROWWtETlNCTk5SUDVYZHZWRzgtWnFJV3h1Qm5Ud284NDJWcmtmTmEtX2hnMmZQMXJqZFlkbnBwbzJqVVlKdEsyUXdrSVJuNDdjamFMZnNDRlI1Z2Q0X29EbQ?oc=5"
-    },
-    {
-      "headline": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-08-26T22:28:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5"
-    },
-    {
-      "headline": "OpenAI’s rogue AI model incident was worse than we thought - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-08-26T21:36:06.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI’s rogue AI model incident was worse than we thought &nbsp;&nbsp; The Verge",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1plTFExM3lLRkRCZ3ZLb0FobHM5R1ZyTVREaWxOWnJfcG5ZRlE4NHpXNjBQRTl3ZTVKQkVfWUY0YjhsMnIyUnRTZlBZNm0yTVQ4Z1dhZkU3TVc2eWFuNnF4N1hZSHhwTGNFaFh6M0c3em9qWnpxd1NJS3J0TWh2U0wtcHRGNmlFV3MyTU1iYTJuLXlETUl6Mi04VVZvZS03TXRud1NsUk1GZk9QNm9YMGxxQ1ladHpUbnlrVFlQcVBFY3BRamNRakVn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Why the departure of OpenAI’s data center chief is not a good look - Fast Company",
-        "source": "Fast Company",
-        "timestamp": "2026-08-27T16:07:09.000Z",
+        "headline": "AWS Bedrock AgentCore vs Azure AI Foundry vs Vertex AI: 15 Regions, 1 Deadline [2026] - tech-insider.org",
+        "source": "tech-insider.org",
+        "timestamp": "2026-08-27T22:38:53.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMk1QOW9FYndzamxkOHBCcVFfaWlibVdVUUZHQ3R1OGJxMWhUZmxiUkdwaVhkS1ppN3VrdGl3MFFrUUVGSnVaTDViYjZ4d2tMNWo0QTVlYmo1d25iajUzOG8ydUZ5cEJhMUpVWENSOFp0MkducGhBa1JqLURiMFBQd0JOSlNSTmc1UldKWFhRS2RXV2hjd3BzS1VOVDBwaGFTVlVURQ?oc=5",
-        "summary": "Why the departure of OpenAI’s data center chief is not a good look &nbsp;&nbsp; Fast Company"
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWJrZzdfdTlKT01PXzdDTUw1d0ZuU1RiaWNCTmhsaEJLQUR0LUlhbWo0WW5CcGZyZ2tpb2lUSC00SGtpQXNmWDVoLUxuc0p5VE5CVmdBNC1zcmphSWp2QVZxVkFMY21qLWxCeUd4WlF4RU5abGZzbXlKRjNDN2tBYUN3T3lISXg0S0FabW1vVzB5UURIVjRULVlzRHFDMDFt?oc=5",
+        "summary": "AWS Bedrock AgentCore vs Azure AI Foundry vs Vertex AI: 15 Regions, 1 Deadline [2026] &nbsp;&nbsp; tech-insider.org"
       },
       {
-        "headline": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. - The New York Times",
+        "headline": "Previewing the Model Hardware Standard - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-08-27T17:58:11.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
+        "summary": "Previewing the Model Hardware Standard &nbsp;&nbsp; Anthropic Anthropic pushes into physical world with new standard to help AI agents operate machines &nbsp;&nbsp; CNBC Anthropic's new hardware standard lets AI agents control the physical world &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "Tech giants warn time is running out to prepare for AI threats - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-27T17:23:38.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZjbXVGeWV6Uk82dmM1SDlhMml2dEFiVTdjdHJYenNYXzVKZ2MzdkxxVVYyTWN5a3Y3alo3NHFfU2NfT3pjeC1aR2VVT0UtcThKb2MycDljNVg1OTFYblFvU1BmVS1aR2IwSldCclZfTHNKNVg2bUU4N0c5UEdjSWpOTzJLNEJW?oc=5",
+        "summary": "Tech giants warn time is running out to prepare for AI threats &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-08-27T17:09:20.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDd3U3BGeEl1OTlveFhkeGp5R0I3XzFxdDVSdFVNdTlUaUdrR1VReE9wUDJYeEdpVzY5V3BMRGNYUnpKV0lBV3hlTjRodkZmODB2enhoY2RMMlJxdWc4WHdTOEo2RUgyV0Nzd0VzcHBWZ0E0WGJnSGpXRHAxVnJmcnYyRmtaSVd2Yl96NzVhdElJQjI1Q3Y5ZVpJc0hQWUlzb2ZDcnROREJLSmd1bV9lbE9IbUs?oc=5",
+        "summary": "OpenAI, Anthropic Urge Cyber Defense Action as AI Models Improve &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-08-27T14:31:25.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMLVduQzZINVRma3Z3aTdoWHdpQ19yQlctQk1xZTN1ejcwdXZhMXBOU3lVRmRCNUxObHJOMjFaUGlWTWNFV0tyWlUzajFtcEU2MEF6WkpWVnNqc0wyVkZfODBGUk5jcl81bGpMTXBR0gFzQVVfeXFMTnNqLXZPLWdiLUtsak5jWnM0UGt6SGxIOEhmaWNUMlVEbGpncUwxc1NvWWg4YVJFbjdMdHVyV3BmTE1URWlHZDVld1h2cDBmdjFURm84aTZKQk1XN2c5djB6STk1cWFiMjdxTHE2cTh5YUhXTQ?oc=5",
+        "summary": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
         "source": "The New York Times",
         "timestamp": "2026-08-27T14:04:10.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5",
-        "summary": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Piloting the world's first double-blind AI evaluations - Google DeepMind",
-        "source": "Google DeepMind",
-        "timestamp": "2026-08-27T12:59:37.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdTZ6V1lCSnh5ZzVEd0gzMUd0TlA1a0stVGUxMlJrU1Y2M0E2SEZvS0ItLW9OM0MzeDhSeG5TQ2pJT0VrakZkeFc4V01uMXFEcHhBSzFvLW5YenBrRG1mamZOR29iZmxhY25kMmliWG1Ja2lHdWI2RGVPSUFpNXBsRDJ1SkdPTERuYVN3?oc=5",
-        "summary": "Piloting the world's first double-blind AI evaluations &nbsp;&nbsp; Google DeepMind"
-      },
-      {
-        "headline": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-08-27T12:02:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
-        "summary": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find &nbsp;&nbsp; NBC News"
-      },
-      {
-        "headline": "Microsoft Stock And 2 AI Infrastructure Picks For Data Center Growth - simplywall.st",
-        "source": "simplywall.st",
-        "timestamp": "2026-08-27T07:49:36.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNUtELXVUTHRpLWlfZ1hBQWhfak8tMU5xcHNKSmczakQtWGlfbi1BdkgwY2xlN2JnR05SaUt3VmxWMUp6ZldfRHNrMmxGT1pJRzAtSHM1dFBnZFNwVXIxOUt0aW00S0pyNkk1RzdIN1V1cmtKS1lkVFhvelZQMUY3V25pUl9wZHNWRjNHRUVHaFJRNktsNzFUSURLcW1nRkFadzk5bmtFQ1BXVHdYNUlweG5OMHg0bjdUckxhT2lEQ085aVFRZk9V0gHMAUFVX3lxTE9wbHdzcGMybGwtSXNCZmFsWFhoeWxjeEUzMGNDeVZPeXlRZ19OVUNBZHZ4NWdIQklNaE1LOEthaktpVlpVeExhU0Z2SjdpQUJ6c2tZcldXcTZEUEFqOEVDUnZyamFQOFNPOVBvWHp3SHh0aVB3N19YdmNoMzRwQUM0MVZaRUVaV2x2UlpURl9sbFFoTlhTZHlwNGdRb29HdFpseEZ2dFRVUTVrdTVyeGtJbUExN3Z3WGIySVhzT1p1TTNPdktVR2FRU0ctUQ?oc=5",
-        "summary": "Microsoft Stock And 2 AI Infrastructure Picks For Data Center Growth &nbsp;&nbsp; simplywall.st"
-      },
-      {
-        "headline": "Google DeepMind is losing its grip on elite AI talent, new data shows - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-08-27T07:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUVkM192RDY0eDJvb3VVTkk1RkFHQ2hjZWxDbFdsN0dqWjkzbUJVakFIUE53djRtLV9SOG5RYklpZ3hYam1IMHBYZWg4aDJxaWktbmFxSDB2d1pmQjgzZ01RRGhPdGxBcWl2bUZjbVdmMlRoNV9FYUVXY0xZMG4wNmEyaHhKX2hhQ2l3WWp2akNkN1o3bDZlNGJxdFJaQQ?oc=5",
-        "summary": "Google DeepMind is losing its grip on elite AI talent, new data shows &nbsp;&nbsp; Yahoo Finance"
+        "summary": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. &nbsp;&nbsp; The New York Times"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
