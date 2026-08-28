@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-28T14:10:06.460Z",
+    "generatedAt": "2026-08-28T23:56:44.918Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-28T12:21:06.000Z",
+      "headline": "How PONS built AI for regulated customers on Microsoft Azure - Microsoft",
+      "source": "Microsoft",
+      "timestamp": "2026-08-28T20:03:14.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "How PONS built AI for regulated customers on Microsoft Azure &nbsp;&nbsp; Microsoft",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVBFdmx2NmxWWGJHbXpFekpCbUxQeDFiZV9Nb0JxVk1rRmdHbjFZRFI0azJ1TW9fNW5yVFNhbm1yMlFkYjdHUUdKcEtKWnJnSHFsNGxJQlh6dWNsN3REOEw5Q2RQbmljcTRMcXZFT011Y2xNTXM0R01MVTdGd2lhVnBOcjhRbm5NRFpVZWlza0lKYXVrcEdIeG1uRkJRdmxNWVAtNHlMVE1LdDRPWFFTTlZxWmFFaXlDUVlMNWxqcHc5Mkk?oc=5"
+    },
+    {
+      "headline": "MSFT Stock Alert: Moonshot Could Give Microsoft Another AI Revenue Stream - Barchart.com",
+      "source": "Barchart.com",
+      "timestamp": "2026-08-28T18:57:18.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "MSFT Stock Alert: Moonshot Could Give Microsoft Another AI Revenue Stream &nbsp;&nbsp; Barchart.com",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3I5dFl2aDhyRGpJSVBUSFhfUmdjVWFRTlQ4dDFPSGpaaUVjbW5JdmZDZEl5UnoxX2JVZ19hNmFSZTd4ZlBvcnZBcHdQZ2EwYnU4NGptbEFiWDVqTC1nTFVrWFh4aS12em0yRURyMUZ4S2N4MnNIN2U5MlROdTZBT1ozdDAwY016eTZUb3hTajlEUXJ2WlRzNGxHcTRidWo0ODZxVjU0Y3Y4VTcxMDZPOHp2WnIxWEk?oc=5"
+    },
+    {
+      "headline": "Bay Area Security Workers Threaten Action After Anthropic Office Closure - KQED",
+      "source": "KQED",
+      "timestamp": "2026-08-28T18:19:58.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Bay Area Security Workers Threaten Action After Anthropic Office Closure &nbsp;&nbsp; KQED",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkVBTkVna3J0QUNvc0tCdnlJVGd5RW9qNWtta1BETTF6cVJyeXhGSWxvaWtyY0Q0VDkxdi04TklBUWVseVU3UGVpa1laeVlPb3F0UkUzRjVEc0ZHdzBBc2dkenJJblcxcXpPR2ZEWUZlb3RHMjJMR2Y1NG10MDdWOUtFYXdBZ0gzTDRISkRkWnE2NGFnczNGU0ZWT3JKYlAybDgxNzBMaFBROUE?oc=5"
+    },
+    {
+      "headline": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-08-28T15:42:24.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0diekFyb2NtR2cxZm41T2JwNEVJMEppbk5mN09yREt0RXY2RXZ1alBReWowVVFUXzA2dXVWRkFMZTB3LUNZZ3REc0owMXRIMXhpajJrTzVraDFGSFRCMlE0UzQzaTV6Ml9aTmIwT0poQlNHSWRaUWNPR1BhdnZZMUkzR2ViMGIwelNZckdCNUtOS0JvQjVyblJZR3A0cnM0MlhvbmtYMktLdEtjcElDcFdpblJKc1JrYzJDa3VSTE1hTDQ?oc=5"
+      "summary": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNYdkVJRERJMFJXNkFXT2xWREZzc01nNnphdTItRFNFTXlWSUtuNi05ZUdDR0xjV1ZqQUZCdDhpNlNoeURrUUxVdEtIVElFUktrZC1TN2o3WThwdXcxRWJQMm9Zc1dfNm1tQ0pvdGV6N2JIMlhsMU8wRWdSVTJTQ1RyRG9uY0RiM0Y0a2d3YTJ0dmlTS01BdkVRUHVYWW11c1VyQ0s2QzZFQ2p2TmNPYkRuckZ4UXNmcjU2c3M0QmpIdw?oc=5"
+    },
+    {
+      "headline": "Microsoft Tokenized Shares Look Stretched as AI Cloud Surges - TradingPedia",
+      "source": "TradingPedia",
+      "timestamp": "2026-08-28T12:31:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Tokenized Shares Look Stretched as AI Cloud Surges &nbsp;&nbsp; TradingPedia",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE9UR3FOTkVYdDA3U0c4TmZZSUJpZUUtQnE2RlFVR3Y4cEFlaVBDLW1HT0lydFkwU05KeUZ5U01kdzN2VkxZenZ1RVd5M0U3cVR6cFJTclFDY1FGUi1nV1N0dmFQYWQ4QUYwdjNlOFBNamE5dXhGR2k4RzZMX1BaN3lMV055cm91OXlSYkZ3Y3hlZGg0Z0JMUmJLTEZPMUYxbHc4?oc=5"
     },
     {
       "headline": "OpenAI and Anthropic are ruining San Francisco - SFGATE",
@@ -28,18 +68,8 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI and Anthropic are ruining San Francisco &nbsp;&nbsp; SFGATE",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5"
-    },
-    {
-      "headline": "Anthropic’s Beacon Hill spending spree - The Boston Globe",
-      "source": "The Boston Globe",
-      "timestamp": "2026-08-28T10:49:06.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s Beacon Hill spending spree &nbsp;&nbsp; The Boston Globe",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmllWi1mZ0xmN3MyMXNCRmpNR3d0d2hnQl8yOE04bTFvcUNmaWgzcWl2aXVUQTI4R0s0T3ZHZXg2VlhZRlpET1RiTWJKLUtnVm9CS3NUTmZJV29ZaXR2Ym5UclczdlhqbmgwY1FHV3NCa1RaT3ZaYzBJcU0zMzE0cWE1Sk9oTG9haG5CckE5UGc1VW5PUnR3ckFuTTQ5WHFDRUJ6NQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5"
     },
     {
       "headline": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say - The New York Times",
@@ -52,129 +82,99 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGpsR3VZc0lsQmpLMzNHcVR3cWlfWGFKUnhQUGpwRjEwWUVUbUVsRWIwMG8tZFB2T2tqd2NWQUZYY3lUaGRvUEVxRFlZM2FXQzhYVEZhRGxlRnFabGdlNHFxNElOUGU5NFIyeUhhQl92LWlmYkZ5RnlQeGV1cEd3cnVycw?oc=5"
     },
     {
-      "headline": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' - NPR",
-      "source": "NPR",
-      "timestamp": "2026-08-28T04:25:08.000Z",
+      "headline": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-08-28T01:51:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' &nbsp;&nbsp; NPR Judge blocks Pentagon blacklist of Anthropic as supply chain risk &nbsp;&nbsp; CNBC Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules &nbsp;&nbsp; The New York Times",
+      "summary": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk &nbsp;&nbsp; CNBC AI firm Anthropic wins case challenging Pentagon blacklisting &nbsp;&nbsp; The Washington Post Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic &nbsp;&nbsp; The Washington Post",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlh6R3Nsbzh2REVKQVNJSlR4SUtxb0lVYzZQM0p5SUdTS3lCNVBXOWp1blBxSHdyWXhNcEVTbGQ3RGNOeHdkZzhXOXNDV2R2cHBHT2dGTEtZcUppZy1ZVHR4dHpUaWNjdEpCTWN2TUpIUkEzR0x6TWJZSjBBa2VMLUt1UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5"
     },
     {
-      "headline": "Juan Carlos López promoted to Director, Space, Mission & AI at Microsoft - EdTech Innovation Hub",
-      "source": "EdTech Innovation Hub",
-      "timestamp": "2026-08-27T23:01:10.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Juan Carlos López promoted to Director, Space, Mission & AI at Microsoft &nbsp;&nbsp; EdTech Innovation Hub",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkNYUDFjaGU3ZE1ORnZRWjR4aGRXeHZEa1g2NVhqajJNRHJQeTFXVk9wNndZRUc2c3VaRnVQaEJJRWFkNmlWQk5xQUpvOEJZem90R0lWbTUwLWZMZ1I2QjNvRGR1cm82RnlER2FnS3dCVG1XUHF2QmNnZ3EyOGY4R1RpRHFELV9NaFNfaEpR?oc=5"
-    },
-    {
-      "headline": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI - Meta Store",
-      "source": "Meta Store",
-      "timestamp": "2026-08-27T21:44:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI &nbsp;&nbsp; Meta Store",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamZteXQ3bmVXNTk3blIyTXk2Y3JkRlNEX3Qxb1hVTXJTYlJCU1hlbVRXWjhEOWFTLTN5OVJtZ2pXWEp6VXRtRHhjazhEbjdhcnFHWTVFeXpMMnlVUnZnTGMyQ0RNUTV4T2ctaVZsYkdoWGdDZFRkZ29oVjA4MGluOG9MT2J1WXE4U3JlbU0zNF81ZjU5THF5WdIBngFBVV95cUxNQXdqaGFUMDlRLVhjRWhFZzV6M1Y0emEwTHZleDNGbTdkazBlVW0yUEZyMnpKUWtuUHl4QTlyVmotMk5KMGxQMkJfb1VxSmh2S05rWWNCbnpVTUlGa1ZORl9LQ2hCTy1HQ0RiVU9LaHJGWHhrbGVHQXEwRXJzREZJV3M1cmxXSUVrUDFiejdqWjBmVEt6UVMyUWh6cmd1Zw?oc=5"
-    },
-    {
-      "headline": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats - CBS News",
-      "source": "CBS News",
-      "timestamp": "2026-08-27T19:58:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats &nbsp;&nbsp; CBS News",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ZW5yWlE0YV9EU2xVM0NmOG1sQzlOUVFQTXY1Z19iTmpNTFBEZkN4NzVqTVJNdWRUeHl5d3hfT2QwLXpqTjJpTkNaMHFwOUFlRmNmUVYzSExCWmctVGZiUDRTa2VNVk5oS0x2M2M2SVRFdmtqdmQ0ZmRn?oc=5"
-    },
-    {
-      "headline": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-27T17:39:00.000Z",
-      "impact": "LOW",
+      "headline": "Previewing the Model Hardware Standard - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-08-27T17:58:11.000Z",
+      "impact": "HIGH",
       "category": "models",
-      "summary": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDBMR3lILS1vUWwyQkNMUm13YWNlNVRNUER4ZFZNWmhzRVRyV3M4c21VRkFDOUtoR0xsWXIyQzlEM19mLWhpYzBkOHppLVBDOHktWFhKc2xYTmJrVTdCMmFmQzVoWTd4QTdtc3NaTTdzYXlVMEkycTVITXlkTnl4bjBfNGdiSHRlYmstWTBsZzg1U2NUckRESjBGOA?oc=5"
+      "summary": "Previewing the Model Hardware Standard &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5"
     },
     {
       "headline": "Tech giants warn time is running out to prepare for AI threats - Axios",
       "source": "Axios",
-      "timestamp": "2026-08-27T17:26:40.000Z",
+      "timestamp": "2026-08-27T17:03:56.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Tech giants warn time is running out to prepare for AI threats &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZjbXVGeWV6Uk82dmM1SDlhMml2dEFiVTdjdHJYenNYXzVKZ2MzdkxxVVYyTWN5a3Y3alo3NHFfU2NfT3pjeC1aR2VVT0UtcThKb2MycDljNVg1OTFYblFvU1BmVS1aR2IwSldCclZfTHNKNVg2bUU4N0c5UEdjSWpOTzJLNEJW?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-08-28T12:21:06.000Z",
+        "headline": "How PONS built AI for regulated customers on Microsoft Azure - Microsoft",
+        "source": "Microsoft",
+        "timestamp": "2026-08-28T20:03:14.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVBFdmx2NmxWWGJHbXpFekpCbUxQeDFiZV9Nb0JxVk1rRmdHbjFZRFI0azJ1TW9fNW5yVFNhbm1yMlFkYjdHUUdKcEtKWnJnSHFsNGxJQlh6dWNsN3REOEw5Q2RQbmljcTRMcXZFT011Y2xNTXM0R01MVTdGd2lhVnBOcjhRbm5NRFpVZWlza0lKYXVrcEdIeG1uRkJRdmxNWVAtNHlMVE1LdDRPWFFTTlZxWmFFaXlDUVlMNWxqcHc5Mkk?oc=5",
+        "summary": "How PONS built AI for regulated customers on Microsoft Azure &nbsp;&nbsp; Microsoft"
+      },
+      {
+        "headline": "MSFT Stock Alert: Moonshot Could Give Microsoft Another AI Revenue Stream - Barchart.com",
+        "source": "Barchart.com",
+        "timestamp": "2026-08-28T18:57:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0diekFyb2NtR2cxZm41T2JwNEVJMEppbk5mN09yREt0RXY2RXZ1alBReWowVVFUXzA2dXVWRkFMZTB3LUNZZ3REc0owMXRIMXhpajJrTzVraDFGSFRCMlE0UzQzaTV6Ml9aTmIwT0poQlNHSWRaUWNPR1BhdnZZMUkzR2ViMGIwelNZckdCNUtOS0JvQjVyblJZR3A0cnM0MlhvbmtYMktLdEtjcElDcFdpblJKc1JrYzJDa3VSTE1hTDQ?oc=5",
-        "summary": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3I5dFl2aDhyRGpJSVBUSFhfUmdjVWFRTlQ4dDFPSGpaaUVjbW5JdmZDZEl5UnoxX2JVZ19hNmFSZTd4ZlBvcnZBcHdQZ2EwYnU4NGptbEFiWDVqTC1nTFVrWFh4aS12em0yRURyMUZ4S2N4MnNIN2U5MlROdTZBT1ozdDAwY016eTZUb3hTajlEUXJ2WlRzNGxHcTRidWo0ODZxVjU0Y3Y4VTcxMDZPOHp2WnIxWEk?oc=5",
+        "summary": "MSFT Stock Alert: Moonshot Could Give Microsoft Another AI Revenue Stream &nbsp;&nbsp; Barchart.com"
+      },
+      {
+        "headline": "Bay Area Security Workers Threaten Action After Anthropic Office Closure - KQED",
+        "source": "KQED",
+        "timestamp": "2026-08-28T18:19:58.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkVBTkVna3J0QUNvc0tCdnlJVGd5RW9qNWtta1BETTF6cVJyeXhGSWxvaWtyY0Q0VDkxdi04TklBUWVseVU3UGVpa1laeVlPb3F0UkUzRjVEc0ZHdzBBc2dkenJJblcxcXpPR2ZEWUZlb3RHMjJMR2Y1NG10MDdWOUtFYXdBZ0gzTDRISkRkWnE2NGFnczNGU0ZWT3JKYlAybDgxNzBMaFBROUE?oc=5",
+        "summary": "Bay Area Security Workers Threaten Action After Anthropic Office Closure &nbsp;&nbsp; KQED"
+      },
+      {
+        "headline": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-08-28T15:42:24.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNYdkVJRERJMFJXNkFXT2xWREZzc01nNnphdTItRFNFTXlWSUtuNi05ZUdDR0xjV1ZqQUZCdDhpNlNoeURrUUxVdEtIVElFUktrZC1TN2o3WThwdXcxRWJQMm9Zc1dfNm1tQ0pvdGV6N2JIMlhsMU8wRWdSVTJTQ1RyRG9uY0RiM0Y0a2d3YTJ0dmlTS01BdkVRUHVYWW11c1VyQ0s2QzZFQ2p2TmNPYkRuckZ4UXNmcjU2c3M0QmpIdw?oc=5",
+        "summary": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "Microsoft Tokenized Shares Look Stretched as AI Cloud Surges - TradingPedia",
+        "source": "TradingPedia",
+        "timestamp": "2026-08-28T12:31:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdE9UR3FOTkVYdDA3U0c4TmZZSUJpZUUtQnE2RlFVR3Y4cEFlaVBDLW1HT0lydFkwU05KeUZ5U01kdzN2VkxZenZ1RVd5M0U3cVR6cFJTclFDY1FGUi1nV1N0dmFQYWQ4QUYwdjNlOFBNamE5dXhGR2k4RzZMX1BaN3lMV055cm91OXlSYkZ3Y3hlZGg0Z0JMUmJLTEZPMUYxbHc4?oc=5",
+        "summary": "Microsoft Tokenized Shares Look Stretched as AI Cloud Surges &nbsp;&nbsp; TradingPedia"
       },
       {
         "headline": "OpenAI and Anthropic are ruining San Francisco - SFGATE",
         "source": "SFGATE",
         "timestamp": "2026-08-28T11:04:07.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5",
         "summary": "OpenAI and Anthropic are ruining San Francisco &nbsp;&nbsp; SFGATE"
-      },
-      {
-        "headline": "Anthropic’s Beacon Hill spending spree - The Boston Globe",
-        "source": "The Boston Globe",
-        "timestamp": "2026-08-28T10:49:06.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmllWi1mZ0xmN3MyMXNCRmpNR3d0d2hnQl8yOE04bTFvcUNmaWgzcWl2aXVUQTI4R0s0T3ZHZXg2VlhZRlpET1RiTWJKLUtnVm9CS3NUTmZJV29ZaXR2Ym5UclczdlhqbmgwY1FHV3NCa1RaT3ZaYzBJcU0zMzE0cWE1Sk9oTG9haG5CckE5UGc1VW5PUnR3ckFuTTQ5WHFDRUJ6NQ?oc=5",
-        "summary": "Anthropic’s Beacon Hill spending spree &nbsp;&nbsp; The Boston Globe"
-      },
-      {
-        "headline": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-08-28T09:02:38.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGpsR3VZc0lsQmpLMzNHcVR3cWlfWGFKUnhQUGpwRjEwWUVUbUVsRWIwMG8tZFB2T2tqd2NWQUZYY3lUaGRvUEVxRFlZM2FXQzhYVEZhRGxlRnFabGdlNHFxNElOUGU5NFIyeUhhQl92LWlmYkZ5RnlQeGV1cEd3cnVycw?oc=5",
-        "summary": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' - NPR",
-        "source": "NPR",
-        "timestamp": "2026-08-28T04:25:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlh6R3Nsbzh2REVKQVNJSlR4SUtxb0lVYzZQM0p5SUdTS3lCNVBXOWp1blBxSHdyWXhNcEVTbGQ3RGNOeHdkZzhXOXNDV2R2cHBHT2dGTEtZcUppZy1ZVHR4dHpUaWNjdEpCTWN2TUpIUkEzR0x6TWJZSjBBa2VMLUt1UQ?oc=5",
-        "summary": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' &nbsp;&nbsp; NPR Judge blocks Pentagon blacklist of Anthropic as supply chain risk &nbsp;&nbsp; CNBC Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Juan Carlos López promoted to Director, Space, Mission & AI at Microsoft - EdTech Innovation Hub",
-        "source": "EdTech Innovation Hub",
-        "timestamp": "2026-08-27T23:01:10.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkNYUDFjaGU3ZE1ORnZRWjR4aGRXeHZEa1g2NVhqajJNRHJQeTFXVk9wNndZRUc2c3VaRnVQaEJJRWFkNmlWQk5xQUpvOEJZem90R0lWbTUwLWZMZ1I2QjNvRGR1cm82RnlER2FnS3dCVG1XUHF2QmNnZ3EyOGY4R1RpRHFELV9NaFNfaEpR?oc=5",
-        "summary": "Juan Carlos López promoted to Director, Space, Mission & AI at Microsoft &nbsp;&nbsp; EdTech Innovation Hub"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
@@ -190,9 +190,9 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
