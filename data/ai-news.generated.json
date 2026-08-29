@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-29T20:42:16.171Z",
+    "generatedAt": "2026-08-29T23:07:24.304Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-08-29T19:16:23.000Z",
+      "headline": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-08-29T19:06:06.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age &nbsp;&nbsp; NBC News",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbldPb3BLVzR0azR3ZDJ5TVR1V1BTM0VGTXY5V2xvUGhWdGhfcEtybXpjS3F1Y3F3UnBlNTI4emFBTHdJc1ZnTEZFR25va0hhY2pLR1VfTVhGQXdUTmE3ay01YW1qc0NCZHo1WGhVUTZ4Yy1YY3F6b2dxMjJPQU9vMDduU0FELUZaUUt3?oc=5"
+      "category": "models",
+      "summary": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1dOTkh6UXNpOE9KQi1RU3pCTnlNNE9sS1JjQmdlQUxtaWpJNWZMdVNHUndvYWNVRlpSRTlCVEFCNXdLdjhCR1BfNTVNVkVjRmsxaEU2Wm9IdVpXSm1KYlJfeVk1NElXWFlPbjhld0VaXzNzTkp2T0ZjT0hLTVI5RWV1eEQ2bU1mbmRSNThVVU82MjZ6VE1Kam91M0N6Y05ia2c?oc=5"
     },
     {
       "headline": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC",
@@ -32,14 +32,44 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5"
     },
     {
+      "headline": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-29T18:41:59.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5"
+    },
+    {
+      "headline": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios",
+      "source": "Axios",
+      "timestamp": "2026-08-29T17:28:29.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5"
+    },
+    {
       "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios",
       "source": "Axios",
-      "timestamp": "2026-08-29T13:12:21.000Z",
+      "timestamp": "2026-08-29T13:28:29.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "The 5 craziest discoveries from OpenAI's HuggingFace investigation &nbsp;&nbsp; Axios",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5"
+    },
+    {
+      "headline": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-29T07:05:19.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5"
     },
     {
       "headline": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording - Ars Technica",
@@ -57,9 +87,19 @@
       "timestamp": "2026-08-28T12:55:28.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly &nbsp;&nbsp; Futurism Meta’s AI Gamble Gets Bigger After the Company Considered Slashing Teams Again. What That Means for META Stock &nbsp;&nbsp; Barchart.com AI agents meant to replace Meta workers made “large-scale, disruptive actions” &nbsp;&nbsp; Ars Technica",
+      "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly &nbsp;&nbsp; Futurism",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnU5ZVpVWVR0X2tKWmQ3SGtoeVRxaS1pOWYyTTZ1THlKWmFObmM1cXZ4ZlpCT0k5dGtETXFDOHdxTzBjMG1xQlNncE9ZMC1HVjREeUZzaWFtVm1paDNtY01SX3RsMDlkakFCbjV5RDBNQWVaWmF6dHFUNkxiTGl1Ri1tNmFOVWpYTEdQUEN3Y1p0Z21TYXIyOVFR?oc=5"
+    },
+    {
+      "headline": "OpenAI and Anthropic are ruining San Francisco - SFGATE",
+      "source": "SFGATE",
+      "timestamp": "2026-08-28T11:04:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Anthropic are ruining San Francisco &nbsp;&nbsp; SFGATE",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQm1IVndUSE5RT09KZDJTY1hSbzhDbG1ZN1FCVXVtcllTaEljNTUzZlY4SVFMQXV5SjVEMWxxbWtNTVNWY2hYR00xZ0RRZldHSmhzNkVSa3hpbFpwbVE2YWE2Y3FXUTZpeTZ2ZUNYNVVFd0tVb19STTJlRE14dnhqMUx4enI?oc=5"
     },
     {
       "headline": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say - The New York Times",
@@ -70,58 +110,18 @@
       "summary": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGpsR3VZc0lsQmpLMzNHcVR3cWlfWGFKUnhQUGpwRjEwWUVUbUVsRWIwMG8tZFB2T2tqd2NWQUZYY3lUaGRvUEVxRFlZM2FXQzhYVEZhRGxlRnFabGdlNHFxNElOUGU5NFIyeUhhQl92LWlmYkZ5RnlQeGV1cEd3cnVycw?oc=5"
-    },
-    {
-      "headline": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-08-28T01:43:36.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules &nbsp;&nbsp; The New York Times Judge says Pentagon's measures against Anthropic were 'illegal and baseless' &nbsp;&nbsp; NPR Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVhPSzYwTnE2cG5lMWR6SlBYc3RJdTFSaC0tNGc2Z3pXdHNGcTg3b0pVa1NDWklER3UzelN3NllaZ0s4a3JfN1NxQ29CbmxYXzR0eEEyZ05FNjdnc0JHNnE3WHNITHpKQVI1RW9MaGszaUx6VnByYTlPOTNKQnpCNlUyREJac0FSdm9RY21kczZ5WnBKeFE?oc=5"
-    },
-    {
-      "headline": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats - CBS News",
-      "source": "CBS News",
-      "timestamp": "2026-08-27T19:58:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats &nbsp;&nbsp; CBS News",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ZW5yWlE0YV9EU2xVM0NmOG1sQzlOUVFQTXY1Z19iTmpNTFBEZkN4NzVqTVJNdWRUeHl5d3hfT2QwLXpqTjJpTkNaMHFwOUFlRmNmUVYzSExCWmctVGZiUDRTa2VNVk5oS0x2M2M2SVRFdmtqdmQ0ZmRn?oc=5"
-    },
-    {
-      "headline": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-27T17:43:24.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWml1Y29PMkd5TmJVMk1wWTZEYnd6THNkcEFBNWdMWGhfei1SbG1xWkN5NkU4RERwc3hVX0U1dl80NWI5WUR4NnJFTzRYZVlJTXlSUnd1aU9YQ1lWVHJDNmFRblc1aDdSVXg5ZDZzcE11N1Z2Y0FhVTZWdU5jbzVXUFVTbGI5TWI5NmdsdEZZMHFpMEFiTWJPczBXTDdIbzJSYjBOdlR1LTZITU85OHJCV2ZsNm5xbkh1eWR0WWJRckk5dkk?oc=5"
-    },
-    {
-      "headline": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-08-27T17:39:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta memo reveals what its new 'Hatch' AI agent can do, from booking a restaurant to finding a dog sitter &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDBMR3lILS1vUWwyQkNMUm13YWNlNVRNUER4ZFZNWmhzRVRyV3M4c21VRkFDOUtoR0xsWXIyQzlEM19mLWhpYzBkOHppLVBDOHktWFhKc2xYTmJrVTdCMmFmQzVoWTd4QTdtc3NaTTdzYXlVMEkycTVITXlkTnl4bjBfNGdiSHRlYmstWTBsZzg1U2NUckRESjBGOA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-08-29T19:16:23.000Z",
+        "headline": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-08-29T19:06:06.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbldPb3BLVzR0azR3ZDJ5TVR1V1BTM0VGTXY5V2xvUGhWdGhfcEtybXpjS3F1Y3F3UnBlNTI4emFBTHdJc1ZnTEZFR25va0hhY2pLR1VfTVhGQXdUTmE3ay01YW1qc0NCZHo1WGhVUTZ4Yy1YY3F6b2dxMjJPQU9vMDduU0FELUZaUUt3?oc=5",
-        "summary": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age &nbsp;&nbsp; NBC News"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1dOTkh6UXNpOE9KQi1RU3pCTnlNNE9sS1JjQmdlQUxtaWpJNWZMdVNHUndvYWNVRlpSRTlCVEFCNXdLdjhCR1BfNTVNVkVjRmsxaEU2Wm9IdVpXSm1KYlJfeVk1NElXWFlPbjhld0VaXzNzTkp2T0ZjT0hLTVI5RWV1eEQ2bU1mbmRSNThVVU82MjZ6VE1Kam91M0N6Y05ia2c?oc=5",
+        "summary": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC",
@@ -133,40 +133,40 @@
         "summary": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX &nbsp;&nbsp; CNBC"
       },
       {
+        "headline": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-08-29T18:41:59.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejY1TWtSaGE0bDJPNF92ZEZBeTlSYnAycFpjN2dwS2JYZmlCQ2F3SnMzY01vSUlwdGljVzZsYU9mSk50dm9LMENkWW9fSnM5dnN0QVpFdlktalYwYXBGZWVkQ0ltcXRQdjdDYUNRNDExSkFQVXFQWk1ZSlVQLURWNXBZZTVhU2FoWE9vcjlXUURmSlBOOWdIczBtN0U5aF9BM2NoNnVPLTVjTmdhWG9sNGlhb1hXNXZ6Y3NCaTZpU2VBUQ?oc=5",
+        "summary": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music - Axios",
+        "source": "Axios",
+        "timestamp": "2026-08-29T17:28:29.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWkVsWkZ5bXMySGRnSmIwVWNQR2x6Z3B6ZzF0TVU1WGZtN1R2bVczRkFJOU5HZE93VlJFbmZGU3RVeEdPWC1IalN4bXEzbmhPb3RpTGt2TmE0U0lqcTdrR0QtT1VYY05za0hkRGVrOV9sU3hvU2JOX1JR?oc=5",
+        "summary": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music &nbsp;&nbsp; Axios"
+      },
+      {
         "headline": "The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios",
         "source": "Axios",
-        "timestamp": "2026-08-29T13:12:21.000Z",
+        "timestamp": "2026-08-29T13:28:29.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQklJdXdQdU9IVmpFR2dIRlYxTVZmTm5MTU1OWjhIOHRGaURtcDI3VGlwYW5wb1VTVFM5Uk1QNVRDTlNtbmhpaTdNLVg5cDlwVFMzblVaUUQ2R2hXLTh3QTYyQ3htRGVycDEtYThrV2Nta2UzQjNPYThPak9DZURBSzdmYW4xOWt4?oc=5",
         "summary": "The 5 craziest discoveries from OpenAI's HuggingFace investigation &nbsp;&nbsp; Axios"
       },
       {
-        "headline": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording - Ars Technica",
-        "source": "Ars Technica",
-        "timestamp": "2026-08-28T15:42:24.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXNYdkVJRERJMFJXNkFXT2xWREZzc01nNnphdTItRFNFTXlWSUtuNi05ZUdDR0xjV1ZqQUZCdDhpNlNoeURrUUxVdEtIVElFUktrZC1TN2o3WThwdXcxRWJQMm9Zc1dfNm1tQ0pvdGV6N2JIMlhsMU8wRWdSVTJTQ1RyRG9uY0RiM0Y0a2d3YTJ0dmlTS01BdkVRUHVYWW11c1VyQ0s2QzZFQ2p2TmNPYkRuckZ4UXNmcjU2c3M0QmpIdw?oc=5",
-        "summary": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording &nbsp;&nbsp; Ars Technica"
-      },
-      {
-        "headline": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly - Futurism",
-        "source": "Futurism",
-        "timestamp": "2026-08-28T12:55:28.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnU5ZVpVWVR0X2tKWmQ3SGtoeVRxaS1pOWYyTTZ1THlKWmFObmM1cXZ4ZlpCT0k5dGtETXFDOHdxTzBjMG1xQlNncE9ZMC1HVjREeUZzaWFtVm1paDNtY01SX3RsMDlkakFCbjV5RDBNQWVaWmF6dHFUNkxiTGl1Ri1tNmFOVWpYTEdQUEN3Y1p0Z21TYXIyOVFR?oc=5",
-        "summary": "Mark Zuckerberg Had a Secret Plan to Replace Meta Staff With AI Agents, and It Backfired Spectacularly &nbsp;&nbsp; Futurism Meta’s AI Gamble Gets Bigger After the Company Considered Slashing Teams Again. What That Means for META Stock &nbsp;&nbsp; Barchart.com AI agents meant to replace Meta workers made “large-scale, disruptive actions” &nbsp;&nbsp; Ars Technica"
-      },
-      {
-        "headline": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-08-28T09:02:39.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGpsR3VZc0lsQmpLMzNHcVR3cWlfWGFKUnhQUGpwRjEwWUVUbUVsRWIwMG8tZFB2T2tqd2NWQUZYY3lUaGRvUEVxRFlZM2FXQzhYVEZhRGxlRnFabGdlNHFxNElOUGU5NFIyeUhhQl92LWlmYkZ5RnlQeGV1cEd3cnVycw?oc=5",
-        "summary": "A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say &nbsp;&nbsp; The New York Times"
+        "headline": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-08-29T07:05:19.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+        "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
