@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-01T20:48:15.663Z",
+    "generatedAt": "2026-09-01T23:09:35.970Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic releases new models, cuts agent costs - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-01T20:17:20.000Z",
+      "headline": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work - theverge.com",
+      "source": "theverge.com",
+      "timestamp": "2026-09-01T22:01:36.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic releases new models, cuts agent costs &nbsp;&nbsp; Axios",
+      "summary": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work &nbsp;&nbsp; theverge.com",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEJMNThLbnRBLWRoRlBnUnI0bmZ1WlVLLS0ydzhpUUVWYUZQbUtYM3I2eGRRWXhwM2kyNVdTREFQeHpxWjNJR2ZUYk5mQkFMOG5idkt3VDVvUC03bFE2UjhlRENaNTRBMnc5M0xQUHA3c0RfV2lMSTk3bzBKbDNGdHZ0MUJZSk1WODllLTBiRTdYZndGbTJ3?oc=5"
+    },
+    {
+      "headline": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-09-01T21:05:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5"
     },
     {
       "headline": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities - WIRED",
@@ -32,24 +42,44 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFE3NkFwdlQ2WktBelBib0paY3NRUVhCZkRuZF9laks5ZVd5MFhCd0JHWjlqYjF5a1F0WC1GbE5NalgyVEh4REhiRG91TVZFZWs4cUVsWkZBM1hKbnlXRXV1c05NSHVIaGlJUTg4eHpLRTN5QlpXVnpUM2tXY2Z1SWhLSWVzOTROWldMUHdzQQ?oc=5"
     },
     {
-      "headline": "OpenAI to limit release of its Astra model due to hacking concerns - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-09-01T20:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI to limit release of its Astra model due to hacking concerns &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDd4bFMzMm1oeFc0Slp0S1ZKMVZEd2Z6azJMTFRqTFl0S056WE51dWk5OTRUYWFsWE5nZVVORXprR2pub3JiRmRUQ3hlc1l2SFVpVlprdGFDX2JpV1RBZGJlLTZ4NEhITTJIU1M1bTJubWhYVV8wWURteG5sejU3OXkzYkVjLUs0aEFwR1NUbFZHbjhhN3FrcF9UbE5Gb3hCRkNLek96NWE?oc=5"
+      "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-01T19:46:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5"
     },
     {
-      "headline": "Developing Enterprise Frontier Safeguards with our customers - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-09-01T18:05:11.000Z",
+      "headline": "Ask a Scientist: How do researchers use AI to predict a cyclone? - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-09-01T18:55:55.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Ask a Scientist: How do researchers use AI to predict a cyclone? &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUx6eGxWcmVLNl9fZ0M0bjJiZTBJRUdWempYd29MTXBCb2RFUXpjQWM1WE9Ha2sxVmFQbE1mN0V2RUIySDM4S2tpcVBYNmwwVjEtdW5EQWU2UWJOdWpqTUdkYldMWElkZm5CVFZFUXg0ZFJQc0tOeE1XNnB4Tnk1c0lmd0hBWngzOHYxeVVzZG12WVJsa28zeGpuWHZNOU1nOGk1dlJJcEdiSGxma1hVck5yQ0RQaFZlaTBMR2p1Zw?oc=5"
+    },
+    {
+      "headline": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-09-01T18:01:02.000Z",
       "impact": "HIGH",
-      "category": "market",
-      "summary": "Developing Enterprise Frontier Safeguards with our customers &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5"
+      "category": "models",
+      "summary": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5"
+    },
+    {
+      "headline": "AI labs are facing an agent control problem - Axios",
+      "source": "Axios",
+      "timestamp": "2026-09-01T17:51:41.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "AI labs are facing an agent control problem &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxNlpNY3pocUpueHV1Y1dkZ1U5Rm9aazd3M2RiY01YcXVYaVNWdzVrTFY3OTM3cy1KTEtsZVFya3RjVDltYWFvMVhLNEJueHg0YmVaTVVlWl8xVjg1MnJ6MkdoTEZRRlc1eFRBR2FleXEydm9VVy1pMHBB?oc=5"
     },
     {
       "headline": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents - The Guardian",
@@ -62,24 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGFjc2FGWHhOeE9TaEJnVXhGYTl4cEZQVzNKTTNWcmVueTB4eWNTVTI1X0luZnd5cFRiQThjRk9nYXh2TmRybTFNb2o1SjhBWnJlN3dOQTFLZkJNeVowUkFNQWdGMWJ0aExWSWhaUFdHa19sa3dLSmIyc2dkdDZ5Vl9zWUtFYjl4dlotUUpYOHRXSUt4RWc?oc=5"
     },
     {
-      "headline": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac - 9to5Mac",
-      "source": "9to5Mac",
-      "timestamp": "2026-09-01T17:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac &nbsp;&nbsp; 9to5Mac",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmtqNlN1YmtwTnJDTWJhUVZsVlFzd3dMbGF1TWZHQzFKVGdMeGxEWXhYNE1zbEdmUTJSd1VEVldLUFlVdUlfVENYc1F3eWFBZGk5OVZsVWJqdmNyc0NFVHVfdHFqX2UtZVZlUGdST0t2bEVhZnoyS3FMTGNnX0RLeTJsSHJsOG5Jc0J4T1YyTDRoS1JucFYtd3J3YnZqRlVPMWl4OUMtNA?oc=5"
-    },
-    {
-      "headline": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters - the-decoder.com",
-      "source": "the-decoder.com",
-      "timestamp": "2026-09-01T16:55:08.000Z",
-      "impact": "HIGH",
+      "headline": "Introducing Azure Multicloud Interconnect for AWS - azure.microsoft.com",
+      "source": "azure.microsoft.com",
+      "timestamp": "2026-09-01T16:16:29.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters &nbsp;&nbsp; the-decoder.com",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDhIaDBVa1pOLU9CYXBhc3VaTXBhWHhzRlpCS3VnVm1ndHJ5cGdHbzA3Wk45U2VzZFNWNVFuSUNhVmM1MXZvaE9CdVpoVWV6YVR4aE5ZYkllZHUyQzYtYlRmcm9jUTVFcXlBa0prRUJRenNkWnJCa1R6T1RqZjZhZnFWS3QtYjhKVVVjdDMtV29WNHhzc2l2bGVDVkJxY1FscWpuajFWWnp2T3IwamJr?oc=5"
+      "summary": "Introducing Azure Multicloud Interconnect for AWS &nbsp;&nbsp; azure.microsoft.com",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWl1SVNnd0Y2UW9uUjdEYWRqcFlsVDZ3OUlfVDVUTWc1UkpiNnN2d3FHRF9pMDd1SzI2dzhIeHZHczg3WXRHZjgzUG8yMlNPVmEybDJ1dno5UU9YVEszWEF5MnNwVFRNUkxfaTZub3dYY0Y1UFljaklmTC0yaWNMakxYYmFJRjBFUjNjbmt0QnN3cEk?oc=5"
     },
     {
       "headline": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI - CNBC",
@@ -90,38 +110,27 @@
       "summary": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5"
-    },
-    {
-      "headline": "Microsoft Stock Hasn’t Done Much This Year. Why Azure Growth Means the Stock Has 19% Upside. - Barron's",
-      "source": "Barron's",
-      "timestamp": "2026-09-01T15:11:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Stock Hasn’t Done Much This Year. Why Azure Growth Means the Stock Has 19% Upside. &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXpyeGxJQkJoLXo0cnR5MGxqS21tNUZPTGhkcU5uLUNfeldMUlNtTXhiWWlrT1RGQlMyZ2VUUXhkdmR0M01qMV9hQUo5Q3B4eUJFZlNidnRMTmYxTXpuZFJ3bF8xdXpPTHFjYkQ2VjRhVUlTckdSMmpBUG5OZzZYdTBramo0Y1d5?oc=5"
-    },
-    {
-      "headline": "QUICK SPARK: Microsoft's AI Spending Pays Off With Azure Growth Set to Reach 45% - Benzinga",
-      "source": "Benzinga",
-      "timestamp": "2026-09-01T15:06:39.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "QUICK SPARK: Microsoft's AI Spending Pays Off With Azure Growth Set to Reach 45% &nbsp;&nbsp; Benzinga",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUGZYR3dpTFFIbF9DV2hnUjhHdHRXdW5kb09oNVlvQ19mdGhkN1l5OHA0RE4tREMyMjhvaTBRNF9CRV9aeEdWZ0tTZlhLSU50ZE1lODZvdFNFRHR6eks3S20yQzNoWVU5cW1nSUxKZmZwY3hWTXBCaHBwaW9BTlFRR0lCZE42andFWVl3ZnJPVWRtY3d4YjNZUGlXMUQ4Mjg2TGJqalFjMG1TVEJqb3FtQzgwbDFRRm85TUgzQ1dJaGpjb1pHUXpXWElQZ2txcXg1dXhIN1ZncmdmcERQaV9PbnpQTTNvSlk?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic releases new models, cuts agent costs - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-01T20:17:20.000Z",
+        "headline": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work - theverge.com",
+        "source": "theverge.com",
+        "timestamp": "2026-09-01T22:01:36.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2phY0R2b1N5eTVJRXNMM21ubUlFYUhaWjZCY0VDb3pFMXJsSWlxOWhsQ0RXRmVVM0RTejN0OVp4TEtVRm02SlRydW5yS2YzV1dtbVNGeVZocDNaeTIwYzNVSnBST1hSbGZvR25Ba3IwaWowTklveUhyZHo0M21HSEI3V1Mtbk1kdkgwYWwtamt5UzYtenZfVQ?oc=5",
-        "summary": "Anthropic releases new models, cuts agent costs &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEJMNThLbnRBLWRoRlBnUnI0bmZ1WlVLLS0ydzhpUUVWYUZQbUtYM3I2eGRRWXhwM2kyNVdTREFQeHpxWjNJR2ZUYk5mQkFMOG5idkt3VDVvUC03bFE2UjhlRENaNTRBMnc5M0xQUHA3c0RfV2lMSTk3bzBKbDNGdHZ0MUJZSk1WODllLTBiRTdYZndGbTJ3?oc=5",
+        "summary": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work &nbsp;&nbsp; theverge.com"
+      },
+      {
+        "headline": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-09-01T21:05:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5",
+        "summary": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability &nbsp;&nbsp; WSJ"
       },
       {
         "headline": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities - WIRED",
@@ -133,40 +142,31 @@
         "summary": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "OpenAI to limit release of its Astra model due to hacking concerns - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-09-01T20:00:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDd4bFMzMm1oeFc0Slp0S1ZKMVZEd2Z6azJMTFRqTFl0S056WE51dWk5OTRUYWFsWE5nZVVORXprR2pub3JiRmRUQ3hlc1l2SFVpVlprdGFDX2JpV1RBZGJlLTZ4NEhITTJIU1M1bTJubWhYVV8wWURteG5sejU3OXkzYkVjLUs0aEFwR1NUbFZHbjhhN3FrcF9UbE5Gb3hCRkNLek96NWE?oc=5",
-        "summary": "OpenAI to limit release of its Astra model due to hacking concerns &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Developing Enterprise Frontier Safeguards with our customers - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-09-01T18:05:11.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yV1o0ckNzLXpGbEVxUTZqMF96dGlPUXpseUdheWpDS1lrNjRfV2I2aXFOYTJqM2hkSTNrNHU1UTJhZHU5d3hscUlkdGpyajBENkZQbmt3RzFVWEZUSzhWTkxqZ3oxb1FpLTRPOGlB?oc=5",
-        "summary": "Developing Enterprise Frontier Safeguards with our customers &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-09-01T17:19:00.000Z",
+        "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-09-01T19:46:02.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGFjc2FGWHhOeE9TaEJnVXhGYTl4cEZQVzNKTTNWcmVueTB4eWNTVTI1X0luZnd5cFRiQThjRk9nYXh2TmRybTFNb2o1SjhBWnJlN3dOQTFLZkJNeVowUkFNQWdGMWJ0aExWSWhaUFdHa19sa3dLSmIyc2dkdDZ5Vl9zWUtFYjl4dlotUUpYOHRXSUt4RWc?oc=5",
-        "summary": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents &nbsp;&nbsp; The Guardian"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5",
+        "summary": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac - 9to5Mac",
-        "source": "9to5Mac",
-        "timestamp": "2026-09-01T17:00:00.000Z",
+        "headline": "Ask a Scientist: How do researchers use AI to predict a cyclone? - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-09-01T18:55:55.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUx6eGxWcmVLNl9fZ0M0bjJiZTBJRUdWempYd29MTXBCb2RFUXpjQWM1WE9Ha2sxVmFQbE1mN0V2RUIySDM4S2tpcVBYNmwwVjEtdW5EQWU2UWJOdWpqTUdkYldMWElkZm5CVFZFUXg0ZFJQc0tOeE1XNnB4Tnk1c0lmd0hBWngzOHYxeVVzZG12WVJsa28zeGpuWHZNOU1nOGk1dlJJcEdiSGxma1hVck5yQ0RQaFZlaTBMR2p1Zw?oc=5",
+        "summary": "Ask a Scientist: How do researchers use AI to predict a cyclone? &nbsp;&nbsp; blog.google"
+      },
+      {
+        "headline": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-09-01T18:01:02.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmtqNlN1YmtwTnJDTWJhUVZsVlFzd3dMbGF1TWZHQzFKVGdMeGxEWXhYNE1zbEdmUTJSd1VEVldLUFlVdUlfVENYc1F3eWFBZGk5OVZsVWJqdmNyc0NFVHVfdHFqX2UtZVZlUGdST0t2bEVhZnoyS3FMTGNnX0RLeTJsSHJsOG5Jc0J4T1YyTDRoS1JucFYtd3J3YnZqRlVPMWl4OUMtNA?oc=5",
-        "summary": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac &nbsp;&nbsp; 9to5Mac"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3g1eFNCNGd1ZlFka19DSDl3Y0pfdDJudFFfaTZzdHkySlB6WDhvMTlPbkVCLXVWMDdqYjNCWGk5UGEwTGZ4MTBNUkFBdTFfVndrbzY0bHN3VzhzWEV2N1RPYml2ZnAyOE5mQ3JPSWdhb0NFWFg3WGdoVnNEZmRlMEEtTTdtWlpuaHdGVk9tUGhoTEx6V2NsUnRlazFkZE1idlBCMmRyam9MWS05aTJDUTdhWUZINVE?oc=5",
+        "summary": "Anthropic Says New Fable AI Model Is Cheaper, Better at Coding &nbsp;&nbsp; Bloomberg.com"
       }
     ],
     "whyItMatters": [
@@ -190,14 +190,14 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
