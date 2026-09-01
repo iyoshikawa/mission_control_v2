@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-31T21:49:02.546Z",
+    "generatedAt": "2026-09-01T01:06:29.831Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,24 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic’s Claude: What You Need to Know About This AI Tool - CNET",
-      "source": "CNET",
-      "timestamp": "2026-08-31T21:41:06.000Z",
+      "headline": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-08-31T23:25:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic’s Claude: What You Need to Know About This AI Tool &nbsp;&nbsp; CNET",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkM3YWVoYjBiSGdHNVJ2MVhPY2E3bS1NT1F6U3RWaGo0c2dZMjBqa3ktLUFTTGl0N2cwam93aWdYUldGVlQzSWtubW5sbFF2aENVWEhrSFhuR041V20wNjAtWGM0NE1mNGRPdGlpNUpFS0NEdVduU05rZ2tuWWVfX3NqNWxzY05iU3hKQnBPUDJoNTl6TDZld2M1SlVCQ1ZhWmhTbDJFc1IyMGU3TlE?oc=5"
+      "category": "ecosystem",
+      "summary": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5"
+    },
+    {
+      "headline": "Improving our alignment and security practices - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-08-31T22:43:26.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Improving our alignment and security practices &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5"
     },
     {
       "headline": "Introducing Azure Multicloud Interconnect for AWS - Microsoft Azure",
@@ -42,6 +52,16 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNS0wSEdXV0hPWWNNMC1WbUxMNlM3aGFRc1NYNGRHZFpGdTFxaTVXVXdXMFhBQUNWTXJLMUtKb0huNlJQMHRMMWpITWxqNDlZYm9manVCV0l0ZUZ4aVdhYUZJUEJSREZsZ29GdGE5NnNxZnZWN0tZckpyNGZGWU5NQkl4bzY2TTZySDJfR3FvNnZ1NVI3QzJDaEc1Ri1LSDlVdllhOHIzYkJRUjlB?oc=5"
     },
     {
+      "headline": "Sony, Warner Music sue Anthropic over songs used in AI training - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-08-31T16:37:12.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Sony, Warner Music sue Anthropic over songs used in AI training &nbsp;&nbsp; Reuters Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music &nbsp;&nbsp; Axios Anthropic sued over alleged theft of ‘tens of thousands’ of songs &nbsp;&nbsp; theguardian.com",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5"
+    },
+    {
       "headline": "Scaling expertise with Microsoft Foundry - Microsoft Azure",
       "source": "Microsoft Azure",
       "timestamp": "2026-08-31T16:00:00.000Z",
@@ -52,14 +72,24 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEc0ZkFDZ0t0M1N2N1R2X2RoLTNUZXdzTHVySEIxVEc2akpUdlNfRXNaa0duZnNabG5CX2dZSVA4N2FlUHdGdmRteTZqZ2VVaHc5SlNaMkx0MTA5aUZWbTR2MzZuTG9kODRKYUJ4ZjJ5MTJHU1d4ZzgxMFhSUnN4SVpTczNOeUFDNG1keFk3dm5YMDRRV3B6Q1k1QUQ0ODg?oc=5"
     },
     {
-      "headline": "Musk vs. Altman: SpaceX stock in focus as OpenAI ends Cursor access to AI models - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-08-31T14:22:28.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Musk vs. Altman: SpaceX stock in focus as OpenAI ends Cursor access to AI models &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVdkdXduNHBBekU5eUNaeFpvREFVaC1oYXdTTWR5UTVyWEpacDNUWTBqckpOTnZnNHRaOFFGbUliYkFrR3FUUVliUDI1UndCeTVZeE80R0JySWJadGNSeWRFcjVKTXBwWFlYNzVXYkVEanB1cEU5T0FDLWRpek5iSTIta3AyZnliMnlIYzY4Rk1KMzdCOE85YzRlMjE1dWVLaWo5ZXA3OHZocXA4MUtOUmQ5dnAwemVXdnBLNVlDMmsxa0trWUVKcTRzeWRTY3lXcnFmSQ?oc=5"
+      "headline": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-08-31T14:09:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s $60 Billion AI Machine Could Dethrone Google Search by Year-End &nbsp;&nbsp; 24/7 Wall St.",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLW53UG1CbUs4cHBhMFd4eFh0SS12RVE1MnloaUJtNU5NRDFGdktKSHdQeFIyR1o5MDV5R255eHVVWkdlRDA3VUVPOGxBMElJZzVxb2J2MW9hQVA4a1NYeURENWhRT3FIQVZnRnZ0akhwWGVHZGZnM0hfczczVElLS0Q0ODRGVEIwUXJiNERSYUVjMmdCLUkwa19TSVE0cXNCNERkdkdlRHpXUDEtb2ttYV93?oc=5"
+    },
+    {
+      "headline": "Today in AI: Mathematics of AI Uncertainty - startuphub.ai",
+      "source": "startuphub.ai",
+      "timestamp": "2026-08-31T13:16:26.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Today in AI: Mathematics of AI Uncertainty &nbsp;&nbsp; startuphub.ai",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTlNZdVVTYm1vTWMySXoxVURJRk0wT0V0RnBGeS1aU1pqWkUtbkxINjJSQm1WYlBJSTI0TEVKTWx1WjFyUFdELU5XdEYxYllqQ0NNUkd5V2pCQlJVSm52bWoxd2loQV9JNExfbnFwOXBxNHRaZlBTZjJQTUg2ZUQwSXpGRUZSMG1mUnhRTTRUVTlkakNNb0F6NVZrcXZXRmQ0dW9EMzNaQQ?oc=5"
     },
     {
       "headline": "A milestone in expanding access to AI - OpenAI",
@@ -72,56 +102,35 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5"
     },
     {
-      "headline": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - cnbc.com",
-      "source": "cnbc.com",
+      "headline": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - CNBC",
+      "source": "CNBC",
       "timestamp": "2026-08-31T13:00:01.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate &nbsp;&nbsp; cnbc.com",
+      "summary": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TTNSWnpWUm4yMnJ5Wkk5aHg1clFxY1A1OHkxcVRiZ25SY01oWk1rN1QtMlVFQ2NpTWZMejVzS2dfaldqcEFiSEhIVUhESHJUZnNZQXRRaUZzUFBWenZVRlFrcnQzV0JwTE94Mm1KckIyQdIBd0FVX3lxTE5QU1lUNWNXX0FrZFFxSnVycUZMSjFVM1pkbWJQMmloVk5PRVE0bWp5a3BzSm1HaVJ1ZFV3MlNBU3pKaFl4WE9DZUhWLWVBTkZvTUlPVU80SXBEWk4wUHFZQmVUanpXTHpfMU80bWtXdHJUMTVJQVBN?oc=5"
-    },
-    {
-      "headline": "Microsoft Stock and 2 AI Infrastructure Plays for the Next Data Center Buildout - simplywall.st",
-      "source": "simplywall.st",
-      "timestamp": "2026-08-31T12:17:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Stock and 2 AI Infrastructure Plays for the Next Data Center Buildout &nbsp;&nbsp; simplywall.st",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY2hMNmJPbll0b0h2ZE1mQk82YzFzNGlFTE9XN3dWTHROdmg1eTQ0d0pTSzdjTGVfdnR3LVdxSVJpZF8xWmg3QldCc182R2dBZTJVZDU3NG9od3BVdGhGN3Z0TUpIT1NpWkFkY2x2R001QzVVNVFwcEFpbWhock1kV0lVVXhKZTQyY1pvcHo3SXdMTjRVNEVDNVJ0WkRfcGlEUnlWTnFGem9TUktQT2VEWEQ1T2hmeXlWeXJ1Zmg4M3Z2amdzUVkw0gHMAUFVX3lxTE5faG5XWmdpZ1R1R1B4TlU0d2xzNG1ZTUIyLUJxSWY5RU84eVFFcjJCMFl3WFR5RGFNZjNhd1dLS1lwcVlwY29QN0t1ZVpTT3VvbGVWM3I5TDlmMGxYYmdFZ1F6bFkxbUNYNnIyOGVWNlA5cEJyZElwUVBhelZJYTR4M3pzTWlOVmFNVnB5a2cwZk1SVXJMVEl5YmYycWU2UXBfM1FoaERJVW8zSU15c29DU2plU0phak1xSmVZUGtNNnZNTkNjTmlqZFNDSQ?oc=5"
-    },
-    {
-      "headline": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-08-31T09:33:46.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVi1ZbjlzZlUyb2ZVRVNPcHIxWHU2VGtOOURZeExiMXlCLUI1WXBadWI1X293LUdKQnk4a0pQd2d1eW1pTUpkMWNpSlhHemdfVGRPRFFabVQ1NGJMX1BSMnhaaGw2N1BIbUExcUVJMGZzclU3R3c5WDhRX1V2VDlzb1M1aDFnZERMYlpGNDRpTW1vOGdNTEd4TFp6MUVZdHk3M1NRd0p0TXB0RmtFak1rbjV5T24?oc=5"
-    },
-    {
-      "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-08-30T14:27:53.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTzEwWGlnVHZEQlJ2cjNFS20wc3g0cE9YTThIQnRoUGtpVXNoWDdMVFRKV2NXNWJPT19Vd3lLbnVPNUdPbExET1hRZjl1VWtmbEV4TUlQR1Z3enhDTTVkanRrbVFZbGYyalNjRWJNUTJsYXdTSElOVDFEQ3BIblFERlF0NXU3Q0ZRQWNKS29uRkJoRkFsdy1iRnk4TQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic’s Claude: What You Need to Know About This AI Tool - CNET",
-        "source": "CNET",
-        "timestamp": "2026-08-31T21:41:06.000Z",
+        "headline": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-08-31T23:25:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkM3YWVoYjBiSGdHNVJ2MVhPY2E3bS1NT1F6U3RWaGo0c2dZMjBqa3ktLUFTTGl0N2cwam93aWdYUldGVlQzSWtubW5sbFF2aENVWEhrSFhuR041V20wNjAtWGM0NE1mNGRPdGlpNUpFS0NEdVduU05rZ2tuWWVfX3NqNWxzY05iU3hKQnBPUDJoNTl6TDZld2M1SlVCQ1ZhWmhTbDJFc1IyMGU3TlE?oc=5",
-        "summary": "Anthropic’s Claude: What You Need to Know About This AI Tool &nbsp;&nbsp; CNET"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+        "summary": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Improving our alignment and security practices - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-08-31T22:43:26.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+        "summary": "Improving our alignment and security practices &nbsp;&nbsp; Anthropic"
       },
       {
         "headline": "Introducing Azure Multicloud Interconnect for AWS - Microsoft Azure",
@@ -142,6 +151,15 @@
         "summary": "Your boss, tech companies and police can read your chatbot conversations &nbsp;&nbsp; The Washington Post"
       },
       {
+        "headline": "Sony, Warner Music sue Anthropic over songs used in AI training - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-08-31T16:37:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVh4aENUcjZvQVF3R0ZweUhDMjU2c3BHMEJiVjBQWnZXZGptS3p6blBocWcyVDBtQVU0aG5LR25WUzBsMHdNOXB3UERUbU5KeVR6T0FPY1NyN1lGWGJ5RTRXS01oSWJkRGxVVV9FODV2eFNBckY2OWY1SGNZU1QxWC04YTNuck0zVi04WG53T1p2SnZ5dk9LNmFMcC0yMEcyd0xSVlB0cWdPRVZCaXgwdGJR?oc=5",
+        "summary": "Sony, Warner Music sue Anthropic over songs used in AI training &nbsp;&nbsp; Reuters Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music &nbsp;&nbsp; Axios Anthropic sued over alleged theft of ‘tens of thousands’ of songs &nbsp;&nbsp; theguardian.com"
+      },
+      {
         "headline": "Scaling expertise with Microsoft Foundry - Microsoft Azure",
         "source": "Microsoft Azure",
         "timestamp": "2026-08-31T16:00:00.000Z",
@@ -149,24 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEc0ZkFDZ0t0M1N2N1R2X2RoLTNUZXdzTHVySEIxVEc2akpUdlNfRXNaa0duZnNabG5CX2dZSVA4N2FlUHdGdmRteTZqZ2VVaHc5SlNaMkx0MTA5aUZWbTR2MzZuTG9kODRKYUJ4ZjJ5MTJHU1d4ZzgxMFhSUnN4SVpTczNOeUFDNG1keFk3dm5YMDRRV3B6Q1k1QUQ0ODg?oc=5",
         "summary": "Scaling expertise with Microsoft Foundry &nbsp;&nbsp; Microsoft Azure"
-      },
-      {
-        "headline": "Musk vs. Altman: SpaceX stock in focus as OpenAI ends Cursor access to AI models - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-08-31T14:22:28.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVdkdXduNHBBekU5eUNaeFpvREFVaC1oYXdTTWR5UTVyWEpacDNUWTBqckpOTnZnNHRaOFFGbUliYkFrR3FUUVliUDI1UndCeTVZeE80R0JySWJadGNSeWRFcjVKTXBwWFlYNzVXYkVEanB1cEU5T0FDLWRpek5iSTIta3AyZnliMnlIYzY4Rk1KMzdCOE85YzRlMjE1dWVLaWo5ZXA3OHZocXA4MUtOUmQ5dnAwemVXdnBLNVlDMmsxa0trWUVKcTRzeWRTY3lXcnFmSQ?oc=5",
-        "summary": "Musk vs. Altman: SpaceX stock in focus as OpenAI ends Cursor access to AI models &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "A milestone in expanding access to AI - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-08-31T13:05:10.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5",
-        "summary": "A milestone in expanding access to AI &nbsp;&nbsp; OpenAI"
       }
     ],
     "whyItMatters": [
@@ -178,9 +178,9 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
