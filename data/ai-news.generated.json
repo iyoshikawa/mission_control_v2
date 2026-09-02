@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-02T17:45:18.393Z",
+    "generatedAt": "2026-09-02T20:47:55.906Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,94 @@
   },
   "newsFeed": [
     {
-      "headline": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-02T17:09:06.000Z",
+      "headline": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-09-02T20:02:43.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta says AI glasses fix stops users from secretly recording others &nbsp;&nbsp; CBS News",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5"
+    },
+    {
+      "headline": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - bloomberg.com",
+      "source": "bloomberg.com",
+      "timestamp": "2026-09-02T19:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Releases More Powerful AI Model, Edging Closer to Rivals &nbsp;&nbsp; bloomberg.com",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5"
+    },
+    {
+      "headline": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit - nytimes.com",
+      "source": "nytimes.com",
+      "timestamp": "2026-09-02T18:41:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit &nbsp;&nbsp; nytimes.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGtNSzl0QmNqeGlPOWVTOGNIdHVLajBvelRIZVpUN0tLWHBYTHpUUjVNREZ4U0JGNklqc1N6VnlHY0pOcnFNdFcwZk9YVVM3YzJ2eEF6ZERyMzNNbEpHU05lSmJJNk9kbGxQU1RjTmpiTmlYblowTm1yUEhhd3pwZ1dkQ05sVEFwajhuUjNrOGVieDlPc2c?oc=5"
+    },
+    {
+      "headline": "This Is the Worst Possible Time for OpenAI to BfЖ7!م#2猫$9&क - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-09-02T17:42:23.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "This Is the Worst Possible Time for OpenAI to BfЖ7!م#2猫$9&क &nbsp;&nbsp; Gizmodo",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTgxWXVWLVZIc3Brd3dfRGhVdDdrTWQ2c3NCOXdub0hoQjZmdzExM1hFckdTQkxGQjdRWXFXdVdELVBFVy10UTVYY0ExdlMzY3RjZzM5ZUd4M1lGc2M1UE9WczNvTmRzaUxlQjY2SW1mZXVlT0d0RzNlRmNUU1lpNFRDRVUxdFhXYkFZTlVkaktSLUhMbnh0WlI1TmpFaTlIT2ZzZTY0U3BLOUZsM0tLQXJB?oc=5"
+    },
+    {
+      "headline": "Trump administration backs OpenAI in newspapers' copyright case - Politico",
+      "source": "Politico",
+      "timestamp": "2026-09-02T17:21:00.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Trump administration backs OpenAI in newspapers' copyright case &nbsp;&nbsp; Politico",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazlyYzJEYzZkWGJwX0UwZ1k0TkRDRkg4NXZfREh3ZUx3Q0F2TkpuU3pSRFo4MHY4MHNYclI5c0RhQWdXeXdoQTVyandQTWhvbUYxM0c4dzhESjlFaFBuMWZXR0ZUS0xCakJCNUVMaFZiTkstS05uMm13MW5fcml0VE1MaTFidi10R1E?oc=5"
+    },
+    {
+      "headline": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-02T17:15:34.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkVEUVlOR1A1VlQ0bm5KUXR3ZmFyOWU3RnlDbkc2X0tra05TWDhQeUxJclB4OHl1SXZtZjdfVGFTQW1zVUV2QkxVTWdpUENNUjFIVGhIemlsRGV6YTlFUGxzcDY5MEtiSjR5NjZPdjRoS3FIOGtubFNvWHZVN091UFRfUnJsaEZoejhrYkxBRzBvWnp5MGNQSVpSSlJYUjlPcDJYcW1NYWoyQUN1NHF5TTlwRl9zajZF?oc=5"
+      "summary": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA?oc=5"
     },
     {
-      "headline": "Wall Street Is Obsessing Over Nvidia's $105 Billion Circular Financing Structure With OpenAI. Here's the More Important Deal No One Is Talking About. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-09-02T16:30:00.000Z",
+      "headline": "Lutnick: Anthropic is \"back on the right side\" with Trump administration - axios.com",
+      "source": "axios.com",
+      "timestamp": "2026-09-02T15:52:39.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Wall Street Is Obsessing Over Nvidia's $105 Billion Circular Financing Structure With OpenAI. Here's the More Important Deal No One Is Talking About. &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWt3S2VyMTJwNUQ4cW56YnRhdDRZNE5SaW9ZY3Znc2xJZHJlZmpJdDg0TUhtNXlsaTNBaEhVcjU3N2c5S1VvRUhlczFCNWppSGlkSnEzWHpycWhvdXAzX2c1ZUpDaS1QbGEtTlNzTTNacVZubm16ODl3NzY2UExLNzNoT2FhbnpiaXNpdXM1UWNkbldrNkRhRUY4ODBlYjA?oc=5"
+      "summary": "Lutnick: Anthropic is \"back on the right side\" with Trump administration &nbsp;&nbsp; axios.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WkZsU1dLY1B0bWtPX0FDcnlSV0JGYVZNU05RTzlNaTdQd0lKTW9JVFAxOTQwWWRFTFhERndMejJybVJGZmFhLUdidlItSjFOaG11UDV3TTNFeFlSZ2gtd2o1ODJxWlE?oc=5"
     },
     {
-      "headline": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-09-02T13:54:00.000Z",
+      "headline": "Industry Insights: Google DeepMind's Robotics Lead on Gemini Physical AI Push - A3 Association for Advancing Automation",
+      "source": "A3 Association for Advancing Automation",
+      "timestamp": "2026-09-02T14:03:05.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock? &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWN6UW5Icjhtd1R6SlZjb005ckttRDMzUmVBeGRIcjBqSGJZUE93NWRzT3RjU0x0ZUVkVDU4M1BOaEdXY3NVNDNvTGFCb0p1U2FVMkNNZk9GcDBPR2VPWXRjLTZPVk1DR29IZ2N3NTVJY1FPNm9RdG01aHkyUUlBLUI5M2FrbVNTcjVCQ2ZiYkZNMUw2SV9RMTVZY1dxV3JDaGVQMGU3TQ?oc=5"
+      "category": "models",
+      "summary": "Industry Insights: Google DeepMind's Robotics Lead on Gemini Physical AI Push &nbsp;&nbsp; A3 Association for Advancing Automation",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnB2M3hDVE1pNXNvNmRhU0VTLVYzblVWNUNyTE1WbmtBamhtYlVxWDczMW5Wd21kdzZDSW9fak84Vk5uQXBaNTJUSnRFUWNQbVBNSEVGN3kwY2ZjUXNvRnBYeWlObVVFUlNLZFFia3RuRmszeTlReWU1RUVkMW1jQThoMHcwS3RzRkZ3OTBTOHpHNEo3bWVYb3hZTmx3LWJodVdLZnVlelRrRDYyTDJCaDZTcmgxWWVtV3pxeklxUjkyaENaZmdueHd0MA?oc=5"
+    },
+    {
+      "headline": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit - Futurism",
+      "source": "Futurism",
+      "timestamp": "2026-09-02T12:41:03.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Meta Hit With Sweeping New Claims That Its AI Glasses Violated the Consent of \"Millions\" of Bystanders in Searing Lawsuit &nbsp;&nbsp; Futurism",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHZLQ2hDbU5HRS13cnlNOGZ4b2dQNnF5VEQyU2hfMi0zWU1wSDQ3U2Q0TlpjUXphUW00dWVMdUJTbGloQzdpRzRVbGNiT3dzUjRmdmZrdzFkU1EtQWV6cGFCdTltZ0JBamY1WG5FaDFMaThnZ3o4UmlXeWNXdUlqZjVRUW04NlJBNE5rS1ZUM215V05YLW9uakRNa2Y?oc=5"
     },
     {
       "headline": "Microsoft, Azure & AI Tech Combat California Wildfire Risks - AI Magazine",
@@ -50,123 +110,63 @@
       "summary": "Microsoft, Azure & AI Tech Combat California Wildfire Risks &nbsp;&nbsp; AI Magazine",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDMtSUhVbWRwdWJORFM5OXEzeVY1ZUdLNHpMYVprX1huZ1AtOEtUc3UyT1BERzFLbHB6cnk5UUhOQ3dNQzV6VnpoNHdOX2VTMXNhb0MzVlFNY2I1ajlEZWhEYmhfeHZCVXVZY0lGcnUxd1FiTXp3Z1hvX2lFOHVCN1E0QkxmTXJyRW5TTw?oc=5"
-    },
-    {
-      "headline": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-09-02T04:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5"
-    },
-    {
-      "headline": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-09-02T03:10:33.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta bricked the cameras on thousands of its AI glasses &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5"
-    },
-    {
-      "headline": "Teachers in Louisiana got up to $50,000 bonus because of Meta’s AI data center: Report - foxnews.com",
-      "source": "foxnews.com",
-      "timestamp": "2026-09-01T22:24:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Teachers in Louisiana got up to $50,000 bonus because of Meta’s AI data center: Report &nbsp;&nbsp; foxnews.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRDNSaFRGWW53MWktUXg1OWlNQzRhdXZScnozLTJuQnpOYXZ6SmtqbmwtX0pFMVBNQi1SU1BIZUJ4dHpiTzIwMjBwbjBqckI1a21rTHJn?oc=5"
-    },
-    {
-      "headline": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - wsj.com",
-      "source": "wsj.com",
-      "timestamp": "2026-09-01T21:05:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability &nbsp;&nbsp; wsj.com",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5"
-    },
-    {
-      "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T20:10:05.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5"
-    },
-    {
-      "headline": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T19:46:02.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE9wZFM5elJWZVc4bEVwMDdVVlN0RjRPMExRb3JNdXdCdl9fTnBQR0VEbzZTeFdESjJTMEhPcDY1WlFJYXJoVlNuM3YzcjFhV2c0Z09kQWdOZU80R1lTbDlhb01EUy1UdjJxa0lTNzl6SjBnUFlyQzM5RkNYdDBZRXNqS21MWU1XRG82UHhsRXhDbjliUGctbzdheDZfZmk5MUJfRXFreDh2QWNkR0t0YUpBNzg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-09-02T17:09:06.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkVEUVlOR1A1VlQ0bm5KUXR3ZmFyOWU3RnlDbkc2X0tra05TWDhQeUxJclB4OHl1SXZtZjdfVGFTQW1zVUV2QkxVTWdpUENNUjFIVGhIemlsRGV6YTlFUGxzcDY5MEtiSjR5NjZPdjRoS3FIOGtubFNvWHZVN091UFRfUnJsaEZoejhrYkxBRzBvWnp5MGNQSVpSSlJYUjlPcDJYcW1NYWoyQUN1NHF5TTlwRl9zajZF?oc=5",
-        "summary": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Wall Street Is Obsessing Over Nvidia's $105 Billion Circular Financing Structure With OpenAI. Here's the More Important Deal No One Is Talking About. - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-09-02T16:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWt3S2VyMTJwNUQ4cW56YnRhdDRZNE5SaW9ZY3Znc2xJZHJlZmpJdDg0TUhtNXlsaTNBaEhVcjU3N2c5S1VvRUhlczFCNWppSGlkSnEzWHpycWhvdXAzX2c1ZUpDaS1QbGEtTlNzTTNacVZubm16ODl3NzY2UExLNzNoT2FhbnpiaXNpdXM1UWNkbldrNkRhRUY4ODBlYjA?oc=5",
-        "summary": "Wall Street Is Obsessing Over Nvidia's $105 Billion Circular Financing Structure With OpenAI. Here's the More Important Deal No One Is Talking About. &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-09-02T13:54:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWN6UW5Icjhtd1R6SlZjb005ckttRDMzUmVBeGRIcjBqSGJZUE93NWRzT3RjU0x0ZUVkVDU4M1BOaEdXY3NVNDNvTGFCb0p1U2FVMkNNZk9GcDBPR2VPWXRjLTZPVk1DR29IZ2N3NTVJY1FPNm9RdG01aHkyUUlBLUI5M2FrbVNTcjVCQ2ZiYkZNMUw2SV9RMTVZY1dxV3JDaGVQMGU3TQ?oc=5",
-        "summary": "Microsoft's AI Datacenter Expansion: A Game Changer for the Stock? &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Microsoft, Azure & AI Tech Combat California Wildfire Risks - AI Magazine",
-        "source": "AI Magazine",
-        "timestamp": "2026-09-02T11:13:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcDMtSUhVbWRwdWJORFM5OXEzeVY1ZUdLNHpMYVprX1huZ1AtOEtUc3UyT1BERzFLbHB6cnk5UUhOQ3dNQzV6VnpoNHdOX2VTMXNhb0MzVlFNY2I1ajlEZWhEYmhfeHZCVXVZY0lGcnUxd1FiTXp3Z1hvX2lFOHVCN1E0QkxmTXJyRW5TTw?oc=5",
-        "summary": "Microsoft, Azure & AI Tech Combat California Wildfire Risks &nbsp;&nbsp; AI Magazine"
-      },
-      {
-        "headline": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-09-02T04:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXBKOFd0a013ZjVJdUZUbFFzOFhlVklsbmxZdmZhUkFaVkR6eVJsMDd0RzZ3M1JHbUpVcldIVEo3cVV5QjVlMUNBSng1LWwwTzVwWEgwaURCZGNIUnRkMDFkWDktSGFqY0FDUWdxRktmal9LWWMwdFVtdGxrb21YV0lHSk5rbGlVWUljaHhMTFBwT2xGOGpiZndnbw?oc=5",
-        "summary": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-09-02T03:10:33.000Z",
+        "headline": "Meta says AI glasses fix stops users from secretly recording others - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-09-02T20:02:43.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
-        "summary": "Meta bricked the cameras on thousands of its AI glasses &nbsp;&nbsp; Business Insider"
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5",
+        "summary": "Meta says AI glasses fix stops users from secretly recording others &nbsp;&nbsp; CBS News"
+      },
+      {
+        "headline": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - bloomberg.com",
+        "source": "bloomberg.com",
+        "timestamp": "2026-09-02T19:00:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5",
+        "summary": "Meta Releases More Powerful AI Model, Edging Closer to Rivals &nbsp;&nbsp; bloomberg.com"
+      },
+      {
+        "headline": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit - nytimes.com",
+        "source": "nytimes.com",
+        "timestamp": "2026-09-02T18:41:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGtNSzl0QmNqeGlPOWVTOGNIdHVLajBvelRIZVpUN0tLWHBYTHpUUjVNREZ4U0JGNklqc1N6VnlHY0pOcnFNdFcwZk9YVVM3YzJ2eEF6ZERyMzNNbEpHU05lSmJJNk9kbGxQU1RjTmpiTmlYblowTm1yUEhhd3pwZ1dkQ05sVEFwajhuUjNrOGVieDlPc2c?oc=5",
+        "summary": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit &nbsp;&nbsp; nytimes.com"
+      },
+      {
+        "headline": "This Is the Worst Possible Time for OpenAI to BfЖ7!م#2猫$9&क - Gizmodo",
+        "source": "Gizmodo",
+        "timestamp": "2026-09-02T17:42:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTgxWXVWLVZIc3Brd3dfRGhVdDdrTWQ2c3NCOXdub0hoQjZmdzExM1hFckdTQkxGQjdRWXFXdVdELVBFVy10UTVYY0ExdlMzY3RjZzM5ZUd4M1lGc2M1UE9WczNvTmRzaUxlQjY2SW1mZXVlT0d0RzNlRmNUU1lpNFRDRVUxdFhXYkFZTlVkaktSLUhMbnh0WlI1TmpFaTlIT2ZzZTY0U3BLOUZsM0tLQXJB?oc=5",
+        "summary": "This Is the Worst Possible Time for OpenAI to BfЖ7!م#2猫$9&क &nbsp;&nbsp; Gizmodo"
+      },
+      {
+        "headline": "Trump administration backs OpenAI in newspapers' copyright case - Politico",
+        "source": "Politico",
+        "timestamp": "2026-09-02T17:21:00.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazlyYzJEYzZkWGJwX0UwZ1k0TkRDRkg4NXZfREh3ZUx3Q0F2TkpuU3pSRFo4MHY4MHNYclI5c0RhQWdXeXdoQTVyandQTWhvbUYxM0c4dzhESjlFaFBuMWZXR0ZUS0xCakJCNUVMaFZiTkstS05uMm13MW5fcml0VE1MaTFidi10R1E?oc=5",
+        "summary": "Trump administration backs OpenAI in newspapers' copyright case &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-09-02T17:15:34.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHBQMU5YZUNBMjNSRS1VaGhzeHFWVVZhZDNpNjltUUNKVHN5TElMeVkyaVp0VU1XQVNsS0xzdGZTZUZnM3N2QTdVUGlJczNQYnE3MTFhYmU3OUJCOHJUZ2tCNWk5cWlheHQzY25Qc2x2RnJRWWhGU2VzbThNWElSWHM0WXlWeTZrbmc3MVVXRlNGWlNkN3RISE1lRGVZU2RjbFBVRE1GTUdON3FkNl9MTmlHOVdPU3ZzUDVpeA?oc=5",
+        "summary": "US Commerce chief says Anthropic back on 'right side' with Trump, Axios reports &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -178,15 +178,15 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
