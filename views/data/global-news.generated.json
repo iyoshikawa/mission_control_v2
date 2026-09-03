@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-03T14:51:49.948Z",
+    "generatedAt": "2026-09-03T18:20:16.301Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,10 +12,32 @@
   },
   "newsFeed": [
     {
-      "headline": "Wall St indexes climb after Fed's Waller says he could support rate hold",
-      "summary": "Wall St indexes climb after Fed's Waller says he could support rate hold &nbsp;&nbsp; Reuters",
+      "headline": "US House passes bill to crack down on university boycotts of Israel",
+      "summary": "US House passes bill to crack down on university boycotts of Israel &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-03T14:00:50.000Z",
+      "timestamp": "2026-09-03T16:41:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnpLbHdaQlMxd1V3bFF4LV85LUFEbXhFVlZHSTI2S2w1c1FrXzdYM2lmWlh6Uk0zV3ZwaGpFUC1VdjZLZjUwbV9CcXpZRTdRMENiYXVWUHVOc196S20tQWNjWG9weE80WWtLTk4zcWgzS3dRY0s2UnZBNmZEcnFKSTBRbDl4aHZqY05OWklZX05ZX04yZ3hkUUwtNG02VHZoREpweFNR?oc=5"
+    },
+    {
+      "headline": "As Colombia slowly identifies conflict victims, families left waiting",
+      "summary": "As Colombia slowly identifies conflict victims, families left waiting &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-03T16:37:56.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGpDZFFNbTVySEJLZnNDUmxWN0hNb3d2LUVPQjdNX3k3ZTI3LUFqanRpTXQtX2hjT0M1VmNvSktUaWtscjBwejYtZ2RiVmNvVm9fOWE0SEtKZW1VY2c5V3pCV2JXd0paNUxPU3d1SEhxYnN4QVlCN2M4OXBvaVJOYmZLWmstcS1lbU5UT24yTzJhRWxfaUM5R2NmMGxnWEFST1otYmZLVnd3S2wxYXZTY2RmbEpZMU0?oc=5"
+    },
+    {
+      "headline": "Wall St climbs after Fed's Waller says he could support rate hold",
+      "summary": "Wall St climbs after Fed's Waller says he could support rate hold &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-03T15:57:22.000Z",
       "impact": "HIGH",
       "region": "United States",
       "category": "shipping",
@@ -23,81 +45,59 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5"
     },
     {
-      "headline": "COMMENTARY: Why oil importers are learning to live with longer trade routes",
-      "summary": "COMMENTARY: Why oil importers are learning to live with longer trade routes &nbsp;&nbsp; Reuters",
+      "headline": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+      "summary": "US pressure on Iran starting to tell, as sanctions and blockade bite &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-03T10:01:19.000Z",
+      "timestamp": "2026-09-03T15:04:15.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFdWSEQ0NWhzbDhXcnU0Qkg3M2tkUTFVd3FORVkycWhEWWN4M0ZvM3gzaHRUb1c5dkw0Vm1iZXNfM1FiVUFFLURwUUhGektkY01rd0VYT1N2dXJTTks4OEhKN09lRExxZ1dCTDcwZ082XzRmMEMwNkpENlF1c1BnVFlBMmdmd1pRUC14cVZfMmpTdzVpTmpaVWtjdUszR1pxWExxX05Zb0hxSDQy?oc=5"
+    },
+    {
+      "headline": "Canada July trade surplus shrinks, US exports drop",
+      "summary": "Canada July trade surplus shrinks, US exports drop &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-03T14:23:03.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFZzNm5ENTdxTDJpbzgybWtydi1xeFI1WnRmTXoyNlZDeTIyMFJUUEhVUVVsYnlacThKLXdqVWdIV015SlVVNThKYmJYV2M5cUtuUmVYUWNXdUJ2eG5fVXdSRnROb1ZaY3MxMFdrVk82Z0xtWTRDcmtibmg2T0FKX1k2WVNKcm5uMmdya2JIVTh6bjJJNG8zMjZNdXNKRVZuYnZBWjRBTFRhVjlHWXhtMVh3?oc=5"
+    },
+    {
+      "headline": "Snowflake's AI-powered results send shares soaring, buoy software stocks",
+      "summary": "Snowflake's AI-powered results send shares soaring, buoy software stocks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-03T13:59:22.000Z",
       "impact": "HIGH",
       "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2VYUzlsTHFvZVRGVm5SWkRmaEFWR3ktQ1JGeUR4U01Za1Q3dGVadkpxakxJbVhEZF9Cel9ubDRQSGsyNE0xRUl0c3R3Yk5lM2RUSkVWdjZUNEJOXzYta0VMaVFxQUZHVXZta2Nma1lLcmw3QjR6d3hiMnVfY0U0UVdRMWdlX1VWbkoyU2pLZnVqMVpEdkc0Wkd3VVhHYTlwTko3dWV4WUVFM0RGQUVzX0c1SElOVnJhellGWG1sNWtHSlpGZXVvNA?oc=5"
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGllenZQOUdyWUY5dll4MzN6UThlWUp1MWdhN2NTNE00U2JvR2tGcE01a2wzdDA1U0tEb2lwS1NnYkU2STNXNHVXY3lJSGxwbTllTGIxc042dGdwUkduOTQ0c2lTM2xCOHBVcFlXNWdJa2xGMl9XcEZOTjdtdWgwcG4wbjRIWkptSjVRWEpBNUUyaHktWU5YUnNEMlZpZnphUUg3bWlXNFU?oc=5"
     },
     {
-      "headline": "Iran war escalation raises concern over civilian death toll",
-      "summary": "Iran war escalation raises concern over civilian death toll &nbsp;&nbsp; Reuters",
+      "headline": "Lutnick apologizes for saying no Americans have died in Iran war",
+      "summary": "Lutnick apologizes for saying no Americans have died in Iran war &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-03T02:03:00.000Z",
+      "timestamp": "2026-09-03T13:36:18.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ09ZRVoyOU1lODczTEgwTVl4dmdIeWFTQXctWDFUM2d1WHNWcmRCQm5sWFhsZk5qUW16eEtHampoQ3hDVnlxWk5hd3pLdjRjQXYwTExSWGJ2dllJenJsYnhKNUJmNFIyQkFFSnZCM19HMjJBa2hvZy13ZXhIMndBWkVFWldwaFhTaUJ0aWlMcDJtTHBzajU3VkQ5NjNxSlFDNjZOcEljQk5YTUdj?oc=5"
     },
     {
-      "headline": "US-Iran strikes raise fears of renewed war across the Middle East",
-      "summary": "US-Iran strikes raise fears of renewed war across the Middle East &nbsp;&nbsp; Reuters",
+      "headline": "Israel to release five Lebanese detainees amid talks with Lebanon",
+      "summary": "Israel to release five Lebanese detainees amid talks with Lebanon &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-02T21:06:12.000Z",
+      "timestamp": "2026-09-03T13:00:11.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5"
-    },
-    {
-      "headline": "US crude stocks fall on strong refining activity and exports, EIA says",
-      "summary": "US crude stocks fall on strong refining activity and exports, EIA says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-02T15:38:15.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0trVFJRSV85d29RemYtTUdwT0lDaDhrT0RZSTA4a1I3U3BPbkhjZ2pNTi1WNW5pUWwxSWEzTjVZU09hXzd2aU1SLWtNMWl4QzlSOVBEZkUybWV3emZacnhlazBLQUVqcURGXzh4WTNUTW1DT3NxcF9zWVlqd3hqb3loTlBlVnhDbU55SWtNaXktNGdvcGN3UmE5OG9MMURPYjZyUTVWSWs0TVo3SGpKMGJvaG96ZXRSOTQ3SFZUcw?oc=5"
-    },
-    {
-      "headline": "Lloyd’s of London faces £1.4bn losses in Gulf from US-Iran war",
-      "summary": "Lloyd’s of London faces £1.4bn losses in Gulf from US-Iran war &nbsp;&nbsp; Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-09-03T10:35:59.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWJvM3ZFQ1p4bF8zZENSOXRPbngySjJrMktLY0dOMEQxYTNPUTFGZXBIS3F4am96ajd0LURJT0txbVdZVXRkQzhOYmZNa09YUS1WTFBYSUM4TXBnczRQbUxVdzNQd3VXMGxiYzRqdzl0d296YW1Jc3BKbHJfMF9HZHY5ZUw?oc=5"
-    },
-    {
-      "headline": "Ukraine Attacks Ship Used to Repair Key Black Sea Oil Moorings",
-      "summary": "Ukraine Attacks Ship Used to Repair Key Black Sea Oil Moorings &nbsp;&nbsp; Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-09-03T13:43:46.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEtiLVRmV2dWX1dGUGVZbnI2ZUFhZ2xRRnhlRldPakp4UmRBUlZKbUYzc0lQM0pubFlYbjlzMVBOb0hnTFdydkp3cms3eVZwN2lOVUMxZ2lfNWZFUkpVelNPbmpYRUNXamNfQkZWUm9KWlhQeTNxYUIwSnJTZDFGb1dIS2RZUzh2YVVNU1JlRkE4dFg5NVJjZ3hTcGgzbkNmNlMwb09PNW8xdTFQb1g4TXlHTQ?oc=5"
-    },
-    {
-      "headline": "Another Trump bid to curb birthright citizenship blocked, concerns over US Army’s drone warfare strategy",
-      "summary": "Another Trump bid to curb birthright citizenship blocked, concerns over US Army’s drone warfare strategy &nbsp;&nbsp; AP News",
-      "source": "AP News",
-      "timestamp": "2026-09-03T10:48:00.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JOE9iMDdlX0VhXzZpOFZlV1oxd0tVMWlHVk1mYnYwUTRfUWtaTWs4bkFHa2Z5SGpMYU52ZTZkZkJZVFZCZlFDcUxTSEJ3S2phS3Z6b3ZfUnUxZFNpRVJCcGNpUjdyV3hZaWww?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWFsZ2JmZ1BxV0F0NHZub3Jwa0NPbWswdTFURDlIcDNVWng1eGtaWTNjWTA3QXV5ek5mRzJSZGNpXzJLNGtoMGF3M1ZibnlCRXNwb0ZSZHdKd2VkMVM1Qm0wMG9ranVXOU1VN2Y2WW9OM2c5Mk1wOERSOXRWTi1FUzJoZVMyb3VEQTFxY1NwUm9NcnR3YzJVcVZ5T012RGRrdl9FTkwwelFkQml2eF9pWkp1dDFQZnM?oc=5"
     }
   ]
 }
