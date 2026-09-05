@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T05:25:11.426Z",
+    "generatedAt": "2026-09-05T10:15:57.343Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-09-05T06:54:46.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+    },
+    {
       "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
       "source": "Reuters",
       "timestamp": "2026-09-04T22:46:02.000Z",
@@ -22,24 +32,44 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5"
     },
     {
-      "headline": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
-      "source": "The San Francisco Standard",
-      "timestamp": "2026-09-04T20:55:26.000Z",
+      "headline": "OpenAI agents discussed ways to escape their sandbox on public wiki - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-09-04T22:17:36.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding &nbsp;&nbsp; The San Francisco Standard",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5"
+      "summary": "OpenAI agents discussed ways to escape their sandbox on public wiki &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E?oc=5"
     },
     {
-      "headline": "Formalizing Fermat's Last Theorem - anthropic.com",
-      "source": "anthropic.com",
+      "headline": "Formalizing Fermat's Last Theorem - Anthropic",
+      "source": "Anthropic",
       "timestamp": "2026-09-04T18:35:51.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Formalizing Fermat's Last Theorem &nbsp;&nbsp; anthropic.com",
+      "summary": "Formalizing Fermat's Last Theorem &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5"
+    },
+    {
+      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-04T16:12:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why the Hugging Face Hack Should Make You Worry More About A.I. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5"
+    },
+    {
+      "headline": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe - The Information",
+      "source": "The Information",
+      "timestamp": "2026-09-04T15:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5"
     },
     {
       "headline": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
@@ -54,66 +84,45 @@
     {
       "headline": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-09-04T04:00:19.000Z",
+      "timestamp": "2026-09-04T04:01:40.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say &nbsp;&nbsp; Reuters Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch &nbsp;&nbsp; morningstar.com",
+      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say &nbsp;&nbsp; Reuters Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch &nbsp;&nbsp; Morningstar",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5"
     },
     {
-      "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "timestamp": "2026-09-04T02:33:00.000Z",
+      "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company - thestreet.com",
+      "source": "thestreet.com",
+      "timestamp": "2026-09-03T23:33:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft drops $101.9 billion surprise as AI reshapes company &nbsp;&nbsp; Yahoo Finance Singapore",
+      "summary": "Microsoft drops $101.9 billion surprise as AI reshapes company &nbsp;&nbsp; thestreet.com",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkNoWDFZRkhWTDJJMEJId1gzbWNkaGI0RFlFdVQtMVZVVDdzczQ5SjF4MmdDRGtVa1J6c1BvVXhpeTVKU3YzRFh3ZkhuRXFYM2xzR240d2VXTnAwVXFMUDZFUUpsTXIycWRjWVRVSFlnVGRmTHd2RFJEaDBHTmVJY0gtV20?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXp0RmJxLVEtZDU0WlF3QXpzd3BhNUNyWTFGZGhmaEYxeVg5Ym5yNllDTDB1aEhNNlFVd2ZDUEdYaVQ1SC11bllPeEMydzlyZ3h0RzltOWs4RnJxbEFNVEF0Q280dnJQRWxTdDh0cWVrNWlJR1UwNjIwRTFvN21QUEZ6UkxDblNOUmFmUTJGWWdEUUVBVHJ1Wm9ZS01PQQ?oc=5"
     },
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-09-04T02:21:10.000Z",
+      "headline": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry - Microsoft Azure",
+      "source": "Microsoft Azure",
+      "timestamp": "2026-09-03T18:15:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
-    },
-    {
-      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-04T00:06:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why the Hugging Face Hack Should Make You Worry More About A.I. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5"
-    },
-    {
-      "headline": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-09-03T21:56:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today &nbsp;&nbsp; WIRED",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQno2Si1NT01wRmxzSHRFYVc4LS1IWW8wZ1lVcXNTN20wbzI1OTlzRHhTTDEzQm5Kb2xtYlB1S25LbjMtdGxEb0dHLUVGbGQ4S1NrVC02MUhCOUZKSkI1X010QW5BbEJOQ2pTNXFHVjZWbHpQbkxLNzRyalZCcmQzS2VIUzZVNmg0bGRJY3c5SGptZw?oc=5"
-    },
-    {
-      "headline": "Meta is paying to peek at how you use their latest AI model - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-03T18:19:56.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta is paying to peek at how you use their latest AI model &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlJMnF6UGtkMVBOUjAwcURLbUtJMU12eXdubUgteUhsVHloLWdaNzhKWnA1WlhRQ1F4dlE2RkZpZ1h5OGpqQmR0dDVyVi1nWExRM2Z5WVhTM1llV2U2U2d5OTdpSFhiZzNheWlWX2w0aGJtdmJuejhkUk9pRUhNbnhPLW85MExPQktHSFVqRmJrdjY3M3doZVVR?oc=5"
+      "summary": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry &nbsp;&nbsp; Microsoft Azure",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXdMUFVQUF8wMGROZEdmRlVneDFlTWdQVWo4eTJsejg5cVRULWJMWlRaZUdjNzdmNWhCWTFWMlU3c1JiZGxhSDAwYzlPbmNjeHdmUXlWazlmZWk5TG9PTFRtRXN3Q3RwdUV2bkRFT1pKTUhUWHBEUERCcTg1d1cxY2RnNENMb2dFMjVzT0ZyTWg3OGtjdU9jeDlaRVBTSVFpZHpCQnFTTGJGMlFTY3QyMXRrc0lhR0JRb0tGM0g2M3VtWjBvQ2c?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-09-05T06:54:46.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+        "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI"
+      },
       {
         "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
         "source": "Reuters",
@@ -124,49 +133,40 @@
         "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
-        "source": "The San Francisco Standard",
-        "timestamp": "2026-09-04T20:55:26.000Z",
+        "headline": "OpenAI agents discussed ways to escape their sandbox on public wiki - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-09-04T22:17:36.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5",
-        "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding &nbsp;&nbsp; The San Francisco Standard"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXlVSkZWdHVoV181TUNMTnNpd04wQlhNdXVtNk11RWJydkROS0lqaWJ0Y1BKUURJVnh1ZmVKSVN0RUNKOHdiVU5Jc2hTUzg4QnI0SUEwWWk5Y1NJMXI0THhVaG9CaWJpRV8tZVlmUEhwUjlmLU9KTm5LQmljLXlHMUc4NUVMNG1yRzNqY3JkNWdoRDhZTFpET3RqSkFYUjBSbDVqY1F0czJHaFVaR1E?oc=5",
+        "summary": "OpenAI agents discussed ways to escape their sandbox on public wiki &nbsp;&nbsp; Ars Technica"
       },
       {
-        "headline": "Formalizing Fermat's Last Theorem - anthropic.com",
-        "source": "anthropic.com",
+        "headline": "Formalizing Fermat's Last Theorem - Anthropic",
+        "source": "Anthropic",
         "timestamp": "2026-09-04T18:35:51.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5",
-        "summary": "Formalizing Fermat's Last Theorem &nbsp;&nbsp; anthropic.com"
+        "summary": "Formalizing Fermat's Last Theorem &nbsp;&nbsp; Anthropic"
       },
       {
-        "headline": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
+        "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I. - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-09-04T14:55:38.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
-        "summary": "Corporate America Is Getting Hooked on Open-Source A.I. &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-09-04T04:00:19.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5",
-        "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say &nbsp;&nbsp; Reuters Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch &nbsp;&nbsp; morningstar.com"
-      },
-      {
-        "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company - Yahoo Finance Singapore",
-        "source": "Yahoo Finance Singapore",
-        "timestamp": "2026-09-04T02:33:00.000Z",
+        "timestamp": "2026-09-04T16:12:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkNoWDFZRkhWTDJJMEJId1gzbWNkaGI0RFlFdVQtMVZVVDdzczQ5SjF4MmdDRGtVa1J6c1BvVXhpeTVKU3YzRFh3ZkhuRXFYM2xzR240d2VXTnAwVXFMUDZFUUpsTXIycWRjWVRVSFlnVGRmTHd2RFJEaDBHTmVJY0gtV20?oc=5",
-        "summary": "Microsoft drops $101.9 billion surprise as AI reshapes company &nbsp;&nbsp; Yahoo Finance Singapore"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
+        "summary": "Why the Hugging Face Hack Should Make You Worry More About A.I. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe - The Information",
+        "source": "The Information",
+        "timestamp": "2026-09-04T15:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3hHU0xTR1RaR1d6UGlFdGpkc3ZSaVUzRzh6emVsVC1FVV83TGQ1SHVUV1JWMWstaV9GVWZONWFyVmdrYmVMM0xld1c5TnlveXVfUTZHdTRYVUYxc0RubUpKcXV3ekF3N2VOdklrZlhEeW9wY1hLeU9faFpSUWtlMDN4ZDFqS184Z191VUJfekRlNGhjZmVF?oc=5",
+        "summary": "Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe &nbsp;&nbsp; The Information"
       }
     ],
     "whyItMatters": [
@@ -184,20 +184,20 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
