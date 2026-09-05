@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T18:53:43.337Z",
+    "generatedAt": "2026-09-05T21:00:49.535Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch",
-      "source": "TechCrunch",
+      "headline": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - gizmodo.com",
+      "source": "gizmodo.com",
+      "timestamp": "2026-09-05T20:01:48.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns &nbsp;&nbsp; gizmodo.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW5ZSGxCcHFmT1A0d0xVNG1rUFhjOUduLXV1ZzlYNDdhSkVTX2E0YUgtNElLMFVxN2lNd1Z0OTJCSEZoNTdFSzdpb0VHNWp2UEZBbWJYbGxsb19aTjVOajNCTGNaUzBWdm1qMnFxMGNpU0dsMTItS2t6bXlGWkZYTEpBVTY2UC1TcUgxTVdmaXFzZ3VMZGFHLXJKaVJKaWloMTJIVkRtRHNvRlZjV3c?oc=5"
+    },
+    {
+      "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-05T18:59:31.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5"
+    },
+    {
+      "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - techcrunch.com",
+      "source": "techcrunch.com",
       "timestamp": "2026-09-05T18:05:27.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure &nbsp;&nbsp; TechCrunch",
+      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure &nbsp;&nbsp; techcrunch.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5"
-    },
-    {
-      "headline": "Thousands of OpenAI's AI agents hacked a German website and the reason may scare many - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-09-05T14:47:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Thousands of OpenAI's AI agents hacked a German website and the reason may scare many &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdDlPWUY1Q19tX0p6cjkzSmt1M0tlZnFiSkhrb25rTmFzWHlRbEpOOE5ndmtyOF9Nbm1tNVl3bEpWbDlzOVhQNjhoYU5ma2FxajFqNDRETDV3VnpTV3JCSkRBSW14R2VhSkhFNUNCcnBOZG9hN25OWVpUMzNjYWFtZFc0TG8yd0VoejdEMmlkSmhpV2dJWWM0ZEFZV0loZ3dRLWQzZ0JubGlOWG93RktRMm1jclFENmdEcjFfZTVNeFpJQXdnMnp3akRDVmZEVFY5VTMyYWg4ZUg3YjBGWVB6U2c2ZDY0MnY2ckRjb2J2QVNUU2RPUkNJN214c9IBgAJBVV95cUxOOGx0NzFrS09WM0ZCRUZucloycUtlWGd0c2hSVzRHTHdPMk4wQTA2VS04NDR6Zjl6aWFjY2tqay0xMXR6UVZmT1EwVnRMVEJuajRrZVZpcmpIeS1ST21mY3RLUVp1SVFTOFBKM3FCcVJnUWY4RVQzUkYyOUdUSmhaQ1ozTkJTSlc4bW1LNTRPemt3UXlXU0JGSTEtSlhQUTZaTExyaHhzek5ReDdYZmZJdzhwTmpMT3NxeDY3dEVwU1RRSnZSbHZzVVk4NGI1bXc0dGpDUTBlZnNTTEZaUDdGd1d5QWNPRS0zbzMyMFd3eGItcVFEaG5WZDlwVnpxZXF3?oc=5"
     },
     {
       "headline": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
@@ -52,24 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
     },
     {
-      "headline": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
-      "source": "ft.com",
-      "timestamp": "2026-09-04T19:46:21.000Z",
+      "headline": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
+      "source": "The San Francisco Standard",
+      "timestamp": "2026-09-04T20:55:26.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO &nbsp;&nbsp; ft.com Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch &nbsp;&nbsp; Morningstar Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5"
-    },
-    {
-      "headline": "OpenAI Suggests It's Reached AGI. What Is It Anyway? - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-09-04T18:55:35.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Suggests It's Reached AGI. What Is It Anyway? &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3pWZVVEZUF0cHZ5TGNDb2Nzb2laSmppbEZMSkp1SVFwek9EQWt0SUhJNTZPYnROQ2pHcXU3XzBvVldtS1V6WHowVE93ZUVMNUVTQmFfcXFZOUttbXM1ZFNMSGdaVmlyMWlhalBRNF9jV3pPUFlfcE8tWWZHdmg2Z2FhVG5fWW5tRUktWnB2YVJuNnFWRkFiUE1mcmd3U19tUDNnMVNpRERvTUM3UkZVMTNCdnBFcUktaFdQRw?oc=5"
+      "category": "models",
+      "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding &nbsp;&nbsp; The San Francisco Standard",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5"
     },
     {
       "headline": "Formalizing Fermat's Last Theorem - Anthropic",
@@ -82,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWFpGbGlCLVpoN2ZBUGs1UUZNSXJDaHNZNWZoV0g1RFVLc3BKbi1Nc2xVUWZ6SWZPR2JsanI3X1BIb25vZURqckE0Q1ltM1U3RnZXRkR1STVYei1VQ00tenotVjhNS0FfV2lIQ25WTXY5VlRPamc?oc=5"
     },
     {
-      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T10:03:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5"
+      "headline": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-09-04T04:01:40.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times Anthropic IPO launch shifts toward mid-October: Reuters &nbsp;&nbsp; CNBC Morgan Stanley, Goldman Sachs close to bagging top roles in Anthropic IPO - report (MS:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5"
     },
     {
       "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company - Yahoo Finance Singapore",
@@ -102,12 +102,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkNoWDFZRkhWTDJJMEJId1gzbWNkaGI0RFlFdVQtMVZVVDdzczQ5SjF4MmdDRGtVa1J6c1BvVXhpeTVKU3YzRFh3ZkhuRXFYM2xzR240d2VXTnAwVXFMUDZFUUpsTXIycWRjWVRVSFlnVGRmTHd2RFJEaDBHTmVJY0gtV20?oc=5"
     },
     {
-      "headline": "Meta is paying to peek at how you use their latest AI model - TechCrunch",
-      "source": "TechCrunch",
+      "headline": "Meta is paying to peek at how you use their latest AI model - techcrunch.com",
+      "source": "techcrunch.com",
       "timestamp": "2026-09-03T18:19:56.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Meta is paying to peek at how you use their latest AI model &nbsp;&nbsp; TechCrunch",
+      "summary": "Meta is paying to peek at how you use their latest AI model &nbsp;&nbsp; techcrunch.com",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlJMnF6UGtkMVBOUjAwcURLbUtJMU12eXdubUgteUhsVHloLWdaNzhKWnA1WlhRQ1F4dlE2RkZpZ1h5OGpqQmR0dDVyVi1nWExRM2Z5WVhTM1llV2U2U2d5OTdpSFhiZzNheWlWX2w0aGJtdmJuejhkUk9pRUhNbnhPLW85MExPQktHSFVqRmJrdjY3M3doZVVR?oc=5"
     }
@@ -115,22 +115,31 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - TechCrunch",
-        "source": "TechCrunch",
+        "headline": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - gizmodo.com",
+        "source": "gizmodo.com",
+        "timestamp": "2026-09-05T20:01:48.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW5ZSGxCcHFmT1A0d0xVNG1rUFhjOUduLXV1ZzlYNDdhSkVTX2E0YUgtNElLMFVxN2lNd1Z0OTJCSEZoNTdFSzdpb0VHNWp2UEZBbWJYbGxsb19aTjVOajNCTGNaUzBWdm1qMnFxMGNpU0dsMTItS2t6bXlGWkZYTEpBVTY2UC1TcUgxTVdmaXFzZ3VMZGFHLXJKaVJKaWloMTJIVkRtRHNvRlZjV3c?oc=5",
+        "summary": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns &nbsp;&nbsp; gizmodo.com"
+      },
+      {
+        "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-09-05T18:59:31.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
+        "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - techcrunch.com",
+        "source": "techcrunch.com",
         "timestamp": "2026-09-05T18:05:27.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5",
-        "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Thousands of OpenAI's AI agents hacked a German website and the reason may scare many - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-09-05T14:47:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdDlPWUY1Q19tX0p6cjkzSmt1M0tlZnFiSkhrb25rTmFzWHlRbEpOOE5ndmtyOF9Nbm1tNVl3bEpWbDlzOVhQNjhoYU5ma2FxajFqNDRETDV3VnpTV3JCSkRBSW14R2VhSkhFNUNCcnBOZG9hN25OWVpUMzNjYWFtZFc0TG8yd0VoejdEMmlkSmhpV2dJWWM0ZEFZV0loZ3dRLWQzZ0JubGlOWG93RktRMm1jclFENmdEcjFfZTVNeFpJQXdnMnp3akRDVmZEVFY5VTMyYWg4ZUg3YjBGWVB6U2c2ZDY0MnY2ckRjb2J2QVNUU2RPUkNJN214c9IBgAJBVV95cUxOOGx0NzFrS09WM0ZCRUZucloycUtlWGd0c2hSVzRHTHdPMk4wQTA2VS04NDR6Zjl6aWFjY2tqay0xMXR6UVZmT1EwVnRMVEJuajRrZVZpcmpIeS1ST21mY3RLUVp1SVFTOFBKM3FCcVJnUWY4RVQzUkYyOUdUSmhaQ1ozTkJTSlc4bW1LNTRPemt3UXlXU0JGSTEtSlhQUTZaTExyaHhzek5ReDdYZmZJdzhwTmpMT3NxeDY3dEVwU1RRSnZSbHZzVVk4NGI1bXc0dGpDUTBlZnNTTEZaUDdGd1d5QWNPRS0zbzMyMFd3eGItcVFEaG5WZDlwVnpxZXF3?oc=5",
-        "summary": "Thousands of OpenAI's AI agents hacked a German website and the reason may scare many &nbsp;&nbsp; The Times of India"
+        "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure &nbsp;&nbsp; techcrunch.com"
       },
       {
         "headline": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
@@ -151,30 +160,21 @@
         "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
-        "source": "ft.com",
-        "timestamp": "2026-09-04T19:46:21.000Z",
+        "headline": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
+        "source": "The San Francisco Standard",
+        "timestamp": "2026-09-04T20:55:26.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5",
-        "summary": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO &nbsp;&nbsp; ft.com Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch &nbsp;&nbsp; Morningstar Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "OpenAI Suggests It's Reached AGI. What Is It Anyway? - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-04T18:55:35.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3pWZVVEZUF0cHZ5TGNDb2Nzb2laSmppbEZMSkp1SVFwek9EQWt0SUhJNTZPYnROQ2pHcXU3XzBvVldtS1V6WHowVE93ZUVMNUVTQmFfcXFZOUttbXM1ZFNMSGdaVmlyMWlhalBRNF9jV3pPUFlfcE8tWWZHdmg2Z2FhVG5fWW5tRUktWnB2YVJuNnFWRkFiUE1mcmd3U19tUDNnMVNpRERvTUM3UkZVMTNCdnBFcUktaFdQRw?oc=5",
-        "summary": "OpenAI Suggests It's Reached AGI. What Is It Anyway? &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5",
+        "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding &nbsp;&nbsp; The San Francisco Standard"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
