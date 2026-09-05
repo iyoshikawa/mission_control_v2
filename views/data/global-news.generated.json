@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T05:15:32.038Z",
+    "generatedAt": "2026-09-05T09:58:03.932Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,9 +12,31 @@
   },
   "newsFeed": [
     {
-      "headline": "Explosion at Bolivia military base kills at least 10, dozens injured",
-      "summary": "Explosion at Bolivia military base kills at least 10, dozens injured &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "headline": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says",
+      "summary": "Iranian tanker hit by US attack near Iran's Kharg Island, Tasnim says &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-05T08:51:49.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5"
+    },
+    {
+      "headline": "How escalating attacks are upending daily life in Kyiv",
+      "summary": "How escalating attacks are upending daily life in Kyiv &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-05T08:13:11.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTi1uWk5tUVg3Z0QyNUROOER0VE9HWU0yZ09IMHNGQmE4VnFxY2RqSnE2MlRqbHFpdExsT0x0dTE3N1JsZEZzUHZ3dnpGWmdrVTR3UFJDaEhxMGRBeFdUY21GZ3pmQWhBYW9UMU5zM1Q4ODdzR2xRMGpvZF8zTEZlS3hDRzZfS1VGWWVtRnlsR001TGtFMjRPVEZtNjdrNklSR2c?oc=5"
+    },
+    {
+      "headline": "Explosion at Bolivia military base kills at least 2, 14 missing, ministry says",
+      "summary": "Explosion at Bolivia military base kills at least 2, 14 missing, ministry says &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-09-05T01:32:00.000Z",
       "impact": "HIGH",
       "region": "Global",
@@ -24,8 +46,8 @@
     },
     {
       "headline": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
-      "summary": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "summary": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
       "timestamp": "2026-09-04T22:49:54.000Z",
       "impact": "HIGH",
       "region": "United States",
@@ -34,70 +56,48 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnlBSDN4T3YxTDREQ3A2YnFhZ1lUN2E2dm1tZmxjb0tLaHFLUlFSN3NOdERlUFM0ZjBXZUhYOU54T2tKeU5saXBLWjk3dDZxTHl0ZXIxem40LU80bVE1V1ZwYVdUalhtMmVtSGtpRVFCX3F5NVpuUWlOR3o3UDZjcVBVd3N1SFBoR2NIT040R3VGX2xzZm91cVZEQ1JndFFoT3JqdzZWWl9PR2s0OGp2RWVsUUJteGM?oc=5"
     },
     {
-      "headline": "EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports",
-      "summary": "EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T20:24:56.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjdmUFN3Ymp3TUZ5dnBMQnpFQzV4dGNNTlF1RWVnY0VScUZwU2RXZXh2LWQ1aElYUHdaTFFFNVp1VG5JN0xYdGdrZVhCQ1RDT0I4b0JUeXp1b29EYjcyMGt4bFlxdmdzUWN5ay1DaW5EX2NDQ2F5U3hHREZvUFEwVGdqNFI4Qzg3NDN5WmQxaGFZUl9HU2hwTGd0Qi1pWFE1YjRybjRWVnE2d0dJNEJNMGtZYjBFUmZUSkJpYVBrRlFQYnhoS0tYWnI1Xy1NbWVB?oc=5"
-    },
-    {
-      "headline": "Lasers down 11 cartel drones along southern border, US military says",
-      "summary": "Lasers down 11 cartel drones along southern border, US military says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T19:30:51.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHpIMFFvNXpkb09RdC13ZlBDekcxY0dpUFUzLVE0a2M5aTNtb3ViQm1VcWoyWGp3dHZfRFlIWTZ1T2lXZVBtbEJWNVdTbHFUZzVhcXdvb0ZfR01TMF94dzVud0xiUjV1ZkJnWUVCUTN4SThQcXBiVi1mblAyTVhHTlNqUUpwMlNZYVd6a3Vhd1Uyb3NNZF9HMlQ5Y2sxRjAzUDVuWERRcWNDTk5La3cxajhSUGFRdHEtcHdLV0ZkQ0tYbEpz?oc=5"
-    },
-    {
-      "headline": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran",
-      "summary": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T18:22:57.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5"
-    },
-    {
-      "headline": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
-      "summary": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T18:12:50.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDdsZzhvakd2emFpVk5wYkczLURIaUJBZUhKNDlsRjdRcGoxMWdqbWpsdXFNTWZDVk5FUS1nMXNxc0RwMktpbGNTb1RXSHRrYS1oU3BVZGNVMG13dThUQ0E0Ym9KVzVHc1VXRzZTc1RmeHhqR1c2WDBVTXptQXJfQjF2NnZuMjRQZ1JXRzU1dUl6WVQwQlpkYWpsSFZsdjY2SVFPWVJMRC1qVjNuUU0yUjVpRWFXV1NqZllXY19ianRINkpYT0VGN0U3dw?oc=5"
-    },
-    {
-      "headline": "UN approves resolution in support of map that shows Africa's true size",
-      "summary": "UN approves resolution in support of map that shows Africa's true size &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T16:59:43.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkZDdXVTbjZITk5peW5zRVhuVEF3eHB2ZWR4STdweWQyMUhFRnV1MWpHZ0ZNUi10akk4d0FlUGRGdGZwY05hN0pRLWU5MlhIMXNKeEVickZDenZfN3p3UTF2MElYR2VXV21qRkJIRmstU2lwQ0EyREUyclNkX0lvaTBsc0Q5aXBBY2FnVHFIS2gtODFqUTFiQzk4TktXd25hUXRXT24zc3E3NlBleFhwelZ3?oc=5"
-    },
-    {
-      "headline": "Venice film brings Vietnam veteran's anti-war warning to new generation",
-      "summary": "Venice film brings Vietnam veteran's anti-war warning to new generation &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-04T15:15:46.000Z",
+      "headline": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say",
+      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-04T22:41:00.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZy03S0ZkMndGRkhWZ0EwblkwbGlPWkVsZ0JFLV9leDV2RERoMVh1dWV2VW1BcFJUaHBNV0lVQXZMOWhqQktYWWJWMjJMNW10aVgzbXQzWjZnRDRQVEc2cm50ZXRYd25nSUxaN2xFaUNqeWJGUmRlVFZneXJUZzBkV1VSR0lWRjJyWHZ3bDlaelhCY0ZDem9fRHpuTGVNTGVhYmhIR2VvbERGelliS0J6b2RUalVrRzdiUWFCZmVGbWRQMFlY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5"
+    },
+    {
+      "headline": "Israel says it strikes southern Lebanon after Hezbollah drone launch",
+      "summary": "Israel says it strikes southern Lebanon after Hezbollah drone launch &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-04T21:09:03.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2dOV1l1QTdWZWR1S3p6cVMzb01JV2dhV3d5OVRfTzZ1RXZOLXJ0Z2lEU2lLemhDVklwS0x0c2xPRWdzZG1sT2owUHZkVjF5dEFQU1FMVmwzSUFPbUJBLUkzd01DcnVXNVRsZVhKUk9DenpjMWZ1aFBTOThRMWdQWHJtdlM5VWYwT3MyNVJmazlzb3B6dHJzXzI5QnZqTzhROENzMUpKMXhnVDZob25fWkItbnhTUEZSM0Ezb0hYYw?oc=5"
+    },
+    {
+      "headline": "Trump says US may hit Iran's Pickaxe Mountain soon",
+      "summary": "Trump says US may hit Iran's Pickaxe Mountain soon &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-04T20:11:43.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmd2SXBwYUJhclYxN0pLMDhjUXVmeHhzUTRPY0FsM3hPZlN4YkprT2Y0R0l6Z3U5UXNWVjRDcFJUN2NNa1FsaXlIejlDUXVpbWh4UWJNdUZzZUZpdGN5WkxQa24zYkktU191MTZsV0VwNXcwRzVPRHA4YjlCUUwwajE4akV3Y3pLX0thQXEtTTlSRkJRMGc?oc=5"
+    },
+    {
+      "headline": "Russian drone strikes Ukraine's security service HQ, escalating air war",
+      "summary": "Russian drone strikes Ukraine's security service HQ, escalating air war &nbsp;&nbsp; reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-04T20:01:33.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5"
     }
   ]
 }
