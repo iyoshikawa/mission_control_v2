@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T21:00:49.535Z",
+    "generatedAt": "2026-09-05T23:39:18.314Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,19 +12,9 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - gizmodo.com",
-      "source": "gizmodo.com",
-      "timestamp": "2026-09-05T20:01:48.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns &nbsp;&nbsp; gizmodo.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW5ZSGxCcHFmT1A0d0xVNG1rUFhjOUduLXV1ZzlYNDdhSkVTX2E0YUgtNElLMFVxN2lNd1Z0OTJCSEZoNTdFSzdpb0VHNWp2UEZBbWJYbGxsb19aTjVOajNCTGNaUzBWdm1qMnFxMGNpU0dsMTItS2t6bXlGWkZYTEpBVTY2UC1TcUgxTVdmaXFzZ3VMZGFHLXJKaVJKaWloMTJIVkRtRHNvRlZjV3c?oc=5"
-    },
-    {
       "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-05T18:59:31.000Z",
+      "timestamp": "2026-09-05T21:23:43.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior &nbsp;&nbsp; Reuters",
@@ -32,22 +22,42 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5"
     },
     {
-      "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - techcrunch.com",
-      "source": "techcrunch.com",
-      "timestamp": "2026-09-05T18:05:27.000Z",
+      "headline": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-09-05T21:17:18.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure &nbsp;&nbsp; techcrunch.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5"
+      "category": "models",
+      "summary": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue &nbsp;&nbsp; Engadget",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVhDSHNsRGlmbUlISE5OZDl2dV9vOV9uQ2ZkSFRBZ3ZoYmlTUDRmUlB3LXVyZzQzVlR6VGgtTkNfeW1ONHlrLTBDN3QzdUJMTDlhbGEydVZvY0pxUXg0VWZVZEwtVUREQ1A3NzhSd05LRUt4c1VNMnoyaVN6U0hYSnhaR3BhRmJUX2lTVTN5LTRpUE1jbk0zM0xiMkJwcG9tWGo3ZkgwcmQxZ1VJMlRUWi04cEVway05MzIwM0Z3?oc=5"
     },
     {
-      "headline": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
-      "source": "The New York Times",
+      "headline": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026] - tech-insider.org",
+      "source": "tech-insider.org",
+      "timestamp": "2026-09-05T19:25:03.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026] &nbsp;&nbsp; tech-insider.org",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqcEM1dDJsTzVnc2p5SUVjdFZ5RWxQQmpYSTBMOXdCSDh5ckVGMFJxUi01TUtIR1kxMmRpYUZBZnV2WldnSVFBd2Y4OU5TUVU1UzBQeHB4a3BEZXFSZ0xkUkFwN1lSbzFCVmVVZzFyYmo2YVl1Ukdjb0Nqd20?oc=5"
+    },
+    {
+      "headline": "Google Drops First Gemini 4 Pro Checkpoint: October Release & September Flash-Lite Leaked! - nokiapoweruser.com",
+      "source": "nokiapoweruser.com",
+      "timestamp": "2026-09-05T12:55:20.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Google Drops First Gemini 4 Pro Checkpoint: October Release & September Flash-Lite Leaked! &nbsp;&nbsp; nokiapoweruser.com",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGF4eEk5M00zWkJmM2RrdHdiWlNoV2cyN3h0UXBFTHBCckM0R3oxVm5QWXFYQXhZWkt5QWVTN080ME9xVkgwc1ctcFRoSmctNFFLamIwcFhkb2l5aHhFR0kwV3dOTkdrTVItY3QwQ0pBcEhKSkJTaHVTbW1ZQzhUV0hodlNibGU3ZFBsMVhYWQ?oc=5"
+    },
+    {
+      "headline": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - nytimes.com",
+      "source": "nytimes.com",
       "timestamp": "2026-09-05T09:03:10.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement &nbsp;&nbsp; The New York Times",
+      "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement &nbsp;&nbsp; nytimes.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5"
     },
@@ -62,14 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
     },
     {
-      "headline": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
-      "source": "The San Francisco Standard",
-      "timestamp": "2026-09-04T20:55:26.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding &nbsp;&nbsp; The San Francisco Standard",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5"
+      "headline": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-09-04T19:28:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcTZhZmh2V2ZjSmVHekF5elNubTMtT283MEhYRjZwaEE2R2FIUlRxazFBWE05aXNyTzJOeVRFQWdFelV1V242Zzl0M3NCaWlWc1YySDNiS3JrV05TbllEbkM3OW5oNGFLazVVUw?oc=5"
     },
     {
       "headline": "Formalizing Fermat's Last Theorem - Anthropic",
@@ -85,70 +95,69 @@
       "headline": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
       "source": "Financial Times",
       "timestamp": "2026-09-04T04:01:40.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times Anthropic IPO launch shifts toward mid-October: Reuters &nbsp;&nbsp; CNBC Morgan Stanley, Goldman Sachs close to bagging top roles in Anthropic IPO - report (MS:NYSE) &nbsp;&nbsp; Seeking Alpha",
+      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times Anthropic’s IPO Will Be Huge—and Risky. Here Are the Challenges Investors Should Watch &nbsp;&nbsp; global.morningstar.com Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn &nbsp;&nbsp; The Motley Fool",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5"
     },
     {
-      "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "timestamp": "2026-09-04T02:33:00.000Z",
+      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I. - nytimes.com",
+      "source": "nytimes.com",
+      "timestamp": "2026-09-04T00:06:04.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft drops $101.9 billion surprise as AI reshapes company &nbsp;&nbsp; Yahoo Finance Singapore",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkNoWDFZRkhWTDJJMEJId1gzbWNkaGI0RFlFdVQtMVZVVDdzczQ5SjF4MmdDRGtVa1J6c1BvVXhpeTVKU3YzRFh3ZkhuRXFYM2xzR240d2VXTnAwVXFMUDZFUUpsTXIycWRjWVRVSFlnVGRmTHd2RFJEaDBHTmVJY0gtV20?oc=5"
-    },
-    {
-      "headline": "Meta is paying to peek at how you use their latest AI model - techcrunch.com",
-      "source": "techcrunch.com",
-      "timestamp": "2026-09-03T18:19:56.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta is paying to peek at how you use their latest AI model &nbsp;&nbsp; techcrunch.com",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlJMnF6UGtkMVBOUjAwcURLbUtJMU12eXdubUgteUhsVHloLWdaNzhKWnA1WlhRQ1F4dlE2RkZpZ1h5OGpqQmR0dDVyVi1nWExRM2Z5WVhTM1llV2U2U2d5OTdpSFhiZzNheWlWX2w0aGJtdmJuejhkUk9pRUhNbnhPLW85MExPQktHSFVqRmJrdjY3M3doZVVR?oc=5"
+      "summary": "Why the Hugging Face Hack Should Make You Worry More About A.I. &nbsp;&nbsp; nytimes.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns - gizmodo.com",
-        "source": "gizmodo.com",
-        "timestamp": "2026-09-05T20:01:48.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW5ZSGxCcHFmT1A0d0xVNG1rUFhjOUduLXV1ZzlYNDdhSkVTX2E0YUgtNElLMFVxN2lNd1Z0OTJCSEZoNTdFSzdpb0VHNWp2UEZBbWJYbGxsb19aTjVOajNCTGNaUzBWdm1qMnFxMGNpU0dsMTItS2t6bXlGWkZYTEpBVTY2UC1TcUgxTVdmaXFzZ3VMZGFHLXJKaVJKaWloMTJIVkRtRHNvRlZjV3c?oc=5",
-        "summary": "OpenAI Says It Wants to Create a Standard for Revealing AI Alignment Meltdowns &nbsp;&nbsp; gizmodo.com"
-      },
-      {
         "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-09-05T18:59:31.000Z",
+        "timestamp": "2026-09-05T21:23:43.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
         "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure - techcrunch.com",
-        "source": "techcrunch.com",
-        "timestamp": "2026-09-05T18:05:27.000Z",
+        "headline": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-09-05T21:17:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5",
-        "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure &nbsp;&nbsp; techcrunch.com"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVhDSHNsRGlmbUlISE5OZDl2dV9vOV9uQ2ZkSFRBZ3ZoYmlTUDRmUlB3LXVyZzQzVlR6VGgtTkNfeW1ONHlrLTBDN3QzdUJMTDlhbGEydVZvY0pxUXg0VWZVZEwtVUREQ1A3NzhSd05LRUt4c1VNMnoyaVN6U0hYSnhaR3BhRmJUX2lTVTN5LTRpUE1jbk0zM0xiMkJwcG9tWGo3ZkgwcmQxZ1VJMlRUWi04cEVway05MzIwM0Z3?oc=5",
+        "summary": "OpenAI Responds After Report Exposed Another Incident In Which Its AI Agents Went Rogue &nbsp;&nbsp; Engadget"
       },
       {
-        "headline": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - The New York Times",
-        "source": "The New York Times",
+        "headline": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026] - tech-insider.org",
+        "source": "tech-insider.org",
+        "timestamp": "2026-09-05T19:25:03.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqcEM1dDJsTzVnc2p5SUVjdFZ5RWxQQmpYSTBMOXdCSDh5ckVGMFJxUi01TUtIR1kxMmRpYUZBZnV2WldnSVFBd2Y4OU5TUVU1UzBQeHB4a3BEZXFSZ0xkUkFwN1lSbzFCVmVVZzFyYmo2YVl1Ukdjb0Nqd20?oc=5",
+        "summary": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026] &nbsp;&nbsp; tech-insider.org"
+      },
+      {
+        "headline": "Google Drops First Gemini 4 Pro Checkpoint: October Release & September Flash-Lite Leaked! - nokiapoweruser.com",
+        "source": "nokiapoweruser.com",
+        "timestamp": "2026-09-05T12:55:20.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGF4eEk5M00zWkJmM2RrdHdiWlNoV2cyN3h0UXBFTHBCckM0R3oxVm5QWXFYQXhZWkt5QWVTN080ME9xVkgwc1ctcFRoSmctNFFLamIwcFhkb2l5aHhFR0kwV3dOTkdrTVItY3QwQ0pBcEhKSkJTaHVTbW1ZQzhUV0hodlNibGU3ZFBsMVhYWQ?oc=5",
+        "summary": "Google Drops First Gemini 4 Pro Checkpoint: October Release & September Flash-Lite Leaked! &nbsp;&nbsp; nokiapoweruser.com"
+      },
+      {
+        "headline": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - nytimes.com",
+        "source": "nytimes.com",
         "timestamp": "2026-09-05T09:03:10.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
-        "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement &nbsp;&nbsp; The New York Times"
+        "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement &nbsp;&nbsp; nytimes.com"
       },
       {
         "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
@@ -158,15 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
         "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding - The San Francisco Standard",
-        "source": "The San Francisco Standard",
-        "timestamp": "2026-09-04T20:55:26.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DY0E3Y1ZLcnJQamRtLUl3c19Za0Q1RmJzZDVSR3pMb3V2QjltWnJkR2FYeVBzQlhYdXhjUVFxOGNHb2xPWHpuV0hRS0JQZFA0RHp3bjB6bHpNV1lFM1VwWnREZGotdFBQY2lLT3hEOGE?oc=5",
-        "summary": "Anthropic called SFPD over threat against CEO. Claude user says it was a misunderstanding &nbsp;&nbsp; The San Francisco Standard"
       }
     ],
     "whyItMatters": [
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "4 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
