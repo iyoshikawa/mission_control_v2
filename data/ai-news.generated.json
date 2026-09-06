@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-06T16:03:15.051Z",
+    "generatedAt": "2026-09-06T21:11:36.951Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-09-06T15:59:40.000Z",
+      "headline": "Opinion | AI doomers can’t have it both ways - washingtonpost.com",
+      "source": "washingtonpost.com",
+      "timestamp": "2026-09-06T18:00:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      "category": "ecosystem",
+      "summary": "Opinion | AI doomers can’t have it both ways &nbsp;&nbsp; washingtonpost.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5"
+    },
+    {
+      "headline": "An Alien Mind - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-09-06T16:09:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "An Alien Mind &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5"
+    },
+    {
+      "headline": "The AI Talent War Is Heating Up, and Google DeepMind Is Feeling It - inc.com",
+      "source": "inc.com",
+      "timestamp": "2026-09-06T16:04:49.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The AI Talent War Is Heating Up, and Google DeepMind Is Feeling It &nbsp;&nbsp; inc.com",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUo1RlRUZVBVWnYtTDI3X181LUZpNDE3WmVtQTg0aFNrTjI4ekJXbktYYmphZ2t3ZExSVkt5SU1haHB5VFdHaU4wLXYyTWhIaFBwSlR6SGxaYkwwSjRSR0MxQUFsRUlLajRPS0NvS0V1ZkEyek5jakc4bEhhTy1yM1pJb3BPaHVfZm1NbzRqT283azdmMGxyVVdBdnFXU1huSnNNY3RrRzNDUkVWZ1c3c3Z3?oc=5"
+    },
+    {
+      "headline": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
+      "source": "The Information",
+      "timestamp": "2026-09-06T15:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5"
     },
     {
       "headline": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
@@ -32,19 +62,9 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5"
     },
     {
-      "headline": "OpenAI is back in the lead but China won’t let it win - The Telegraph",
-      "source": "The Telegraph",
-      "timestamp": "2026-09-06T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI is back in the lead but China won’t let it win &nbsp;&nbsp; The Telegraph",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlpBcmtMRzJIWER4VHRReUNoU0pfdE1mNjZKSklldEFoaFB1RUlKMGxRZmVCNnBnY3g5N3VyeWhhVi1tbUd1THFsVW8zYTZESXJaWFV1T19zVzl4NHhQcXlWdXZ4UE52TTVPLXM4TWhmaTg5N0U2bExvNWo0a1JORUc1TkgzYXFsRDVaQ1BUYjg1UjdVMlA5LWllbGV4a1hCZURZ?oc=5"
-    },
-    {
       "headline": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-09-06T09:31:00.000Z",
+      "timestamp": "2026-09-06T09:31:27.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. &nbsp;&nbsp; Business Insider",
@@ -90,38 +110,45 @@
       "summary": "‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new lawsuit &nbsp;&nbsp; Fortune",
       "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcTZhZmh2V2ZjSmVHekF5elNubTMtT283MEhYRjZwaEE2R2FIUlRxazFBWE05aXNyTzJOeVRFQWdFelV1V242Zzl0M3NCaWlWc1YySDNiS3JrV05TbllEbkM3OW5oNGFLazVVUw?oc=5"
-    },
-    {
-      "headline": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-09-04T04:01:40.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s $2tn IPO puts powerful external trustees in spotlight &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUtNTk5DR1VqYVhwZ1E0Tl80Z3dfT1BaNDBTRXRxVUxQSTBtSm5ZR1ZrdVF2RzhELVJDRUt4WWs0eVdiZ2RQZDNUOG0zMnVUSVR3T0xXOTV6ajdwS0RPYmRmaUUyNmsxZXVDNTFSUENTQ0hFNkRILXY1YlF1d0xxdWNBVWY?oc=5"
-    },
-    {
-      "headline": "Meta AI chief Alexandr Wang said that he is willing to wait to have kids till Elon Musk’s Neuralink ... - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-09-04T03:51:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Meta AI chief Alexandr Wang said that he is willing to wait to have kids till Elon Musk’s Neuralink ... &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZkxzOHIySVpMTjVkcDZaaUdhaTZRdmFtSzhJNXQ1SV9WVm9uZ1lTSkFHclZyeFJoWHRjMldMaUp0OU5xcUQ0RzU2WGhRVnRiX3ZlWVRrWjdvd21DcDI2eWFTdVpnR1pOY3ZndUo5Z0JkV0pscElySEpWbUwxeThfcHJOcXBwTGktVUpDWm5HNjUtUVkwOWhzWkNCVl9kU2Q3cEhfajdZQlplSG1BVGV1MmRqTDg1NDhXU3M4S0V3UWFfd3V3Zm5uWlFXSWNHM01Fa05BQ3JINTRtRVF6UUFDYm10TXVTUFphN0VVZ2J3ODZaWkZDc2xsLUN1bVgyclJOYVRrWmtONjZrdG0zOEZn0gGUAkFVX3lxTE9Bc3M1b2hSWUEyb3Z0dU5nd210RTdxTGY3T1YwMC1UMzFQb0NDVHRjYUg2anZnTUlOT2VsNWVTTGNhZEhEdnczb1pDY2IzRHhRbnZucHp2Z2pSOWRES3c3MVlfa0JKNGYxZ1N5NWg4Mi1WR3FmOVhRR20yMnpINnlHd2xfdWJvUU8yLWItcnVnSlFhRUxna3FMaFE1WF96aXRIdGhhT0hUN1QyV1EtYlFVcGZPWUlVTVY0b1owTDNPWUNSckVlbzJPQ1RYM1Eta2o2YnppazFEbGMwMUdPeEFld3RWN21Nazc1eDhMekhTNmVMNHZUcHVNdEs0MDFZQURaMERFQWJxU2dmME12eHdtZEZKSA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-09-06T15:59:40.000Z",
+        "headline": "Opinion | AI doomers can’t have it both ways - washingtonpost.com",
+        "source": "washingtonpost.com",
+        "timestamp": "2026-09-06T18:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-        "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5",
+        "summary": "Opinion | AI doomers can’t have it both ways &nbsp;&nbsp; washingtonpost.com"
+      },
+      {
+        "headline": "An Alien Mind - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-09-06T16:09:46.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
+        "summary": "An Alien Mind &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "The AI Talent War Is Heating Up, and Google DeepMind Is Feeling It - inc.com",
+        "source": "inc.com",
+        "timestamp": "2026-09-06T16:04:49.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUo1RlRUZVBVWnYtTDI3X181LUZpNDE3WmVtQTg0aFNrTjI4ekJXbktYYmphZ2t3ZExSVkt5SU1haHB5VFdHaU4wLXYyTWhIaFBwSlR6SGxaYkwwSjRSR0MxQUFsRUlLajRPS0NvS0V1ZkEyek5jakc4bEhhTy1yM1pJb3BPaHVfZm1NbzRqT283azdmMGxyVVdBdnFXU1huSnNNY3RrRzNDUkVWZ1c3c3Z3?oc=5",
+        "summary": "The AI Talent War Is Heating Up, and Google DeepMind Is Feeling It &nbsp;&nbsp; inc.com"
+      },
+      {
+        "headline": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months - The Information",
+        "source": "The Information",
+        "timestamp": "2026-09-06T15:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXRPY1Z1di1Kbks0MzNxSkpJdi1DTkRoQzZxUDJHVW90Q2pCalNYaDVIZ2Y0MENIS2laWE1MdEYtRGZFNFhaRDJKcEVsRHBsY2p2X0pUT3REVEc1VzhHN1JQQ0NmR0IybE5USmFQd1pfSFBBWVAyQzAwME43eEZCd0lCX0pycjIyWU9TT0VBczZyZk9sWnRmNGNn?oc=5",
+        "summary": "How Anthropic Clinched $517 Billion in Compute Deals in 11 Months &nbsp;&nbsp; The Information"
       },
       {
         "headline": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
@@ -133,40 +160,13 @@
         "summary": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "OpenAI is back in the lead but China won’t let it win - The Telegraph",
-        "source": "The Telegraph",
-        "timestamp": "2026-09-06T12:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlpBcmtMRzJIWER4VHRReUNoU0pfdE1mNjZKSklldEFoaFB1RUlKMGxRZmVCNnBnY3g5N3VyeWhhVi1tbUd1THFsVW8zYTZESXJaWFV1T19zVzl4NHhQcXlWdXZ4UE52TTVPLXM4TWhmaTg5N0U2bExvNWo0a1JORUc1TkgzYXFsRDVaQ1BUYjg1UjdVMlA5LWllbGV4a1hCZURZ?oc=5",
-        "summary": "OpenAI is back in the lead but China won’t let it win &nbsp;&nbsp; The Telegraph"
-      },
-      {
         "headline": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. - Business Insider",
         "source": "Business Insider",
-        "timestamp": "2026-09-06T09:31:00.000Z",
+        "timestamp": "2026-09-06T09:31:27.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTEZVbnVzdk55alZvTm5jTmhrRDBqbnhibVNOR3ZfM2xKYURaUnZfRXZGVEk3RzZVdTMteG15MnRwNnZqeWtBb2FlcmNtZS1xaURnRjRLUFBFSjlmTEl3UzB2eVUzam9RZDdYMjlNS2R0NEt5b3lBdk5YYlhMSVpZcjVaclljUUJYUzhoaFgzLUFxeVY1ZEM4?oc=5",
         "summary": "We opened a taco shop because Meta is building an AI data center nearby. Now 40% of our business is tied to it. &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-09-05T14:55:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-        "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Google Drops First Gemini 4 Pro Checkpoint: October Release & September Flash-Lite Leaked! - nokiapoweruser.com",
-        "source": "nokiapoweruser.com",
-        "timestamp": "2026-09-05T12:55:20.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGF4eEk5M00zWkJmM2RrdHdiWlNoV2cyN3h0UXBFTHBCckM0R3oxVm5QWXFYQXhZWkt5QWVTN080ME9xVkgwc1ctcFRoSmctNFFLamIwcFhkb2l5aHhFR0kwV3dOTkdrTVItY3QwQ0pBcEhKSkJTaHVTbW1ZQzhUV0hodlNibGU3ZFBsMVhYWQ?oc=5",
-        "summary": "Google Drops First Gemini 4 Pro Checkpoint: October Release & September Flash-Lite Leaked! &nbsp;&nbsp; nokiapoweruser.com"
       }
     ],
     "whyItMatters": [
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "4 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
