@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-08T07:04:17.434Z",
+    "generatedAt": "2026-09-08T12:43:24.065Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,64 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-08T05:00:01.000Z",
+      "headline": "Jensen Huang declared \"AGI has arrived\" after OpenAI launched its new model - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-09-08T12:02:29.000Z",
       "impact": "HIGH",
+      "category": "models",
+      "summary": "Jensen Huang declared \"AGI has arrived\" after OpenAI launched its new model &nbsp;&nbsp; qz.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvODJpVHBxNXRUSzM3OVZFcXdfRG1HZGhHRDN3M2F5ZGlrbjMwdTVsM1BNSjRYZGtoU1FReXY4OFh3Sm1aUU5PRGliQkd2elNLN0xMek1qV3pQRURPUmRUeWR4dTNjRnRaU2c?oc=5"
+    },
+    {
+      "headline": "DeepMind's agents cheated. Then other agents told on them - The Next Web",
+      "source": "The Next Web",
+      "timestamp": "2026-09-08T11:09:07.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "DeepMind's agents cheated. Then other agents told on them &nbsp;&nbsp; The Next Web",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkt0ajVWYVNxWmgwOHNyaWUwcDV1UXBrYzJ5b19pVGRrVURHWm80eWFUV005UFgybDR4RDZ6cldDWUlQY05rMmdfRUJZN0JPRnNGOVQ3bGlsWUpsQ3N5N0FTQU1iM1J4aVE0X1RGdkpwYXliRFdIWjJxdWFIOTkwNE1IRDVzQ1A3amc?oc=5"
+    },
+    {
+      "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected - MIT Technology Review",
+      "source": "MIT Technology Review",
+      "timestamp": "2026-09-08T10:34:00.000Z",
+      "impact": "LOW",
       "category": "regulation",
-      "summary": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55ckdJc0hEZk8yai1IaFJuUEs4c204MHptMlFyR2VVeFUyN3RaMVZTVlZzRURreXhaQzdYZ3JsbkoyYjR4WGFzNVpoZWhZNmlYWEp6ZzRwWXF2TzE0Q1dSc2dMY29DUzdjLVJwb3h4VDlUUGlIZ3RYaWUxOWJjQdIBgwFBVV95cUxPemMzc0FrZVVIXzNYRktNejlsdjNlQUlvSk9PY2w3Y1U0dFlpWWNYeGlFZTFLOGJkVi1UTlJuVEFQVFcwanZJM3JxNG1TTEhITHQxMWRObG9RdFQyMW5LQllfVWZGZzI0bmJ5ejk3SXVxNmRzT1RTQ2V3b0ZMNFpFWVBGRQ?oc=5"
+      "summary": "This AI entrepreneur is developing agents that can plan ahead for the unexpected &nbsp;&nbsp; MIT Technology Review",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEg1TmNxM3RmQnJvS3FjT1BESVJfYmdVeVRVMHc0M2RGNmxvX2ttZFZJMHhsbVlVNWVIdFlLYWZOVWpoMFVkdWNteFhaUERWWXhzWktnc19leklqWkxRakIwOERrUE4yOFNGQlRsZ1lRSTFyR2pTVHFNZXZ5Y0hJS1NoZnFKUzBMd1lmWWpRNlgzMzlTNGJqazVLZkzSAaIBQVVfeXFMT1Z4MU9zUHhPVElQQzVlS253M0EwazIxYXp0RHRQUDVMYmxlMnVNMXExWEc4dmdsTUZpY1pGRFFLVlZqcGpFUjRsd081X1BwMGJqZHUwY1NOZmR1cEx1d1gwVEFYeG0wM2M3OUc0WEZhNVd3UW9jUWd1TlRTdGh0Q2tZWWM5R0ZTdTJldGRGQzdTVXRkaGRZRU1YUnRZdlVIMFBB?oc=5"
     },
     {
-      "headline": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart - Ynetnews",
-      "source": "Ynetnews",
-      "timestamp": "2026-09-08T04:49:53.000Z",
+      "headline": "OpenAI models went rogue. We urgently need a better Hugging Face investigation - theguardian.com",
+      "source": "theguardian.com",
+      "timestamp": "2026-09-08T10:03:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI models went rogue. We urgently need a better Hugging Face investigation &nbsp;&nbsp; theguardian.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5"
+    },
+    {
+      "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal - The Intercept",
+      "source": "The Intercept",
+      "timestamp": "2026-09-08T09:00:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart &nbsp;&nbsp; Ynetnews",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ta190YUtGTk1YdGMtQ08xaVJkNE41X1Ryck9NYzkzM0lURlpJYTI5ZkFiaHVzSDZBbF9Tal9lQkFydlBrY2swaTIyamQ4UXhNSk16NGdVVzR1eWtnNUMyU01B?oc=5"
+      "category": "regulation",
+      "summary": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal &nbsp;&nbsp; The Intercept",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX19TN1ZXOXA0bWM5YjVmbi1VS0VNaXh2dTJCalV3dEpoTGhSZ0tJX0QzUmwwNmV0WnZneXZWVUxoNFVYZXZucjV5bVFoRWhRWVc5b1gyVU5xb3V6d3FuRnNlMlJXRzF0WkFNYmlhaGd6TV9POVVSX1p4R1JEdTBLb1dOT0JLWFJwbHVORnZLYTRMeE1n?oc=5"
     },
     {
-      "headline": "Anthropic drops plans to acquire Israeli AI startup Decart - calcalistech.com",
-      "source": "calcalistech.com",
-      "timestamp": "2026-09-08T03:56:00.000Z",
+      "headline": "Microsoft Azure Revenue Hits $101.9B in FY26 [2026] - shattered.io",
+      "source": "shattered.io",
+      "timestamp": "2026-09-08T08:10:25.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic drops plans to acquire Israeli AI startup Decart &nbsp;&nbsp; calcalistech.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5"
+      "category": "market",
+      "summary": "Microsoft Azure Revenue Hits $101.9B in FY26 [2026] &nbsp;&nbsp; shattered.io",
+      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUhpV0VzNTEzajFnWEpNamk2eTRTTzFWVlZWSUNkSVFfSEFVLUtsTGtEdUlKOGhoSE0wMUNtSHg2cHR2M2NwUk9teks3VXdUSjhOZEQtZENNUlBhV0k5UEpuRlZUaDRjZEgwM2N2eVFDdHFpcXBuUEpZdHVnU0licA?oc=5"
     },
     {
-      "headline": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition - Bloomberg.com",
+      "headline": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-09-08T05:34:05.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5"
+    },
+    {
+      "headline": "Anthropic Said to Walk Away From $6 Billion Decart Purchase - Bloomberg.com",
       "source": "Bloomberg.com",
       "timestamp": "2026-09-08T02:02:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Anthropic Said to Walk Away From $6 Billion Decart Purchase &nbsp;&nbsp; Bloomberg.com Anthropic drops plans to acquire Israeli AI startup Decart &nbsp;&nbsp; calcalistech.com Anthropic decides against $6b Decart acquisition - report &nbsp;&nbsp; en.globes.co.il",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5"
-    },
-    {
-      "headline": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-08T01:40:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5"
-    },
-    {
-      "headline": "Google WeatherNext 3 Delivers Hourly Forecasts at 5-Kilometer Resolution - TechRepublic",
-      "source": "TechRepublic",
-      "timestamp": "2026-09-07T17:44:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google WeatherNext 3 Delivers Hourly Forecasts at 5-Kilometer Resolution &nbsp;&nbsp; TechRepublic",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXVTaWJTZXJWXzNEVTRqNU1IbEtRNi05RWhFdFEwUlh2M2xzN2VHMUgyenBERWFBNWxDRTlxamRWa0ZkQkZlRENhODB6UnhSN3hYWndLVWYtMGRfOEh4Q21TQXE0dUxiT3FhNTY5VWxoSEFuTkhwOWdaUkJoWVJmbzB4a09lX2JzbEZTdlVVR1Nvdk1UaFJibWVGV1l0Y0V3enc?oc=5"
     },
     {
       "headline": "Microsoft stock gains after strong July earnings and AI-driven Azure growth - AD HOC NEWS",
@@ -90,96 +110,76 @@
       "summary": "OpenAI chief scientist warns no-one is prepared for consequences of AI &nbsp;&nbsp; BBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5"
-    },
-    {
-      "headline": "Exclusive: Ineffable Intelligence adds 6 \"cofounders,\" hiring from Google DeepMind and InstaDeep - fortune.com",
-      "source": "fortune.com",
-      "timestamp": "2026-09-07T10:35:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive: Ineffable Intelligence adds 6 \"cofounders,\" hiring from Google DeepMind and InstaDeep &nbsp;&nbsp; fortune.com",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakpJVXlZRlVXRHhuNUJGWVFueHpGY1dsQ0k1LXRldktNcVVKSkxLQjA4QUk5ZVZUTHBDeUFObHpSR01obFFOT2VaV0RBbmR0QkVlZW16VUZ5Sm1Fc0dHTWdDNGRqSjkxSmZ5bVF2azUzNkM2bFhsUVUxQWdXYVZfVkFpcjA4VGJENjNGYUI2N2l3a2hpT1ZVczVWQkFuaU5zQ1QzMzg1RkJSVkJIQ0x2blExYkxLUWM?oc=5"
-    },
-    {
-      "headline": "How a tiny Anthropic team became a surprisingly productive hit factory - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-09-07T09:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "How a tiny Anthropic team became a surprisingly productive hit factory &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzk3QzRtOWRqVXV5VEJHVU9FUzdoQjhqWEVfdGRMNU1XX2NjSTVHUXQySktINUNWYWVUdXpsNzkyMFBmZmsxTHZpc2pLRUV6ZThwZDZPdG1ncGJDSEJNVG1DNVVTQjVFaVRfMHYzNFR3SFBHa0U3a1pmeUV0RzNYbHRR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-09-08T05:00:01.000Z",
+        "headline": "Jensen Huang declared \"AGI has arrived\" after OpenAI launched its new model - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-09-08T12:02:29.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55ckdJc0hEZk8yai1IaFJuUEs4c204MHptMlFyR2VVeFUyN3RaMVZTVlZzRURreXhaQzdYZ3JsbkoyYjR4WGFzNVpoZWhZNmlYWEp6ZzRwWXF2TzE0Q1dSc2dMY29DUzdjLVJwb3h4VDlUUGlIZ3RYaWUxOWJjQdIBgwFBVV95cUxPemMzc0FrZVVIXzNYRktNejlsdjNlQUlvSk9PY2w3Y1U0dFlpWWNYeGlFZTFLOGJkVi1UTlJuVEFQVFcwanZJM3JxNG1TTEhITHQxMWRObG9RdFQyMW5LQllfVWZGZzI0bmJ5ejk3SXVxNmRzT1RTQ2V3b0ZMNFpFWVBGRQ?oc=5",
-        "summary": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion &nbsp;&nbsp; CNBC"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvODJpVHBxNXRUSzM3OVZFcXdfRG1HZGhHRDN3M2F5ZGlrbjMwdTVsM1BNSjRYZGtoU1FReXY4OFh3Sm1aUU5PRGliQkd2elNLN0xMek1qV3pQRURPUmRUeWR4dTNjRnRaU2c?oc=5",
+        "summary": "Jensen Huang declared \"AGI has arrived\" after OpenAI launched its new model &nbsp;&nbsp; qz.com"
       },
       {
-        "headline": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart - Ynetnews",
-        "source": "Ynetnews",
-        "timestamp": "2026-09-08T04:49:53.000Z",
+        "headline": "DeepMind's agents cheated. Then other agents told on them - The Next Web",
+        "source": "The Next Web",
+        "timestamp": "2026-09-08T11:09:07.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ta190YUtGTk1YdGMtQ08xaVJkNE41X1Ryck9NYzkzM0lURlpJYTI5ZkFiaHVzSDZBbF9Tal9lQkFydlBrY2swaTIyamQ4UXhNSk16NGdVVzR1eWtnNUMyU01B?oc=5",
-        "summary": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart &nbsp;&nbsp; Ynetnews"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkt0ajVWYVNxWmgwOHNyaWUwcDV1UXBrYzJ5b19pVGRrVURHWm80eWFUV005UFgybDR4RDZ6cldDWUlQY05rMmdfRUJZN0JPRnNGOVQ3bGlsWUpsQ3N5N0FTQU1iM1J4aVE0X1RGdkpwYXliRFdIWjJxdWFIOTkwNE1IRDVzQ1A3amc?oc=5",
+        "summary": "DeepMind's agents cheated. Then other agents told on them &nbsp;&nbsp; The Next Web"
       },
       {
-        "headline": "Anthropic drops plans to acquire Israeli AI startup Decart - calcalistech.com",
-        "source": "calcalistech.com",
-        "timestamp": "2026-09-08T03:56:00.000Z",
+        "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected - MIT Technology Review",
+        "source": "MIT Technology Review",
+        "timestamp": "2026-09-08T10:34:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5",
-        "summary": "Anthropic drops plans to acquire Israeli AI startup Decart &nbsp;&nbsp; calcalistech.com"
+        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEg1TmNxM3RmQnJvS3FjT1BESVJfYmdVeVRVMHc0M2RGNmxvX2ttZFZJMHhsbVlVNWVIdFlLYWZOVWpoMFVkdWNteFhaUERWWXhzWktnc19leklqWkxRakIwOERrUE4yOFNGQlRsZ1lRSTFyR2pTVHFNZXZ5Y0hJS1NoZnFKUzBMd1lmWWpRNlgzMzlTNGJqazVLZkzSAaIBQVVfeXFMT1Z4MU9zUHhPVElQQzVlS253M0EwazIxYXp0RHRQUDVMYmxlMnVNMXExWEc4dmdsTUZpY1pGRFFLVlZqcGpFUjRsd081X1BwMGJqZHUwY1NOZmR1cEx1d1gwVEFYeG0wM2M3OUc0WEZhNVd3UW9jUWd1TlRTdGh0Q2tZWWM5R0ZTdTJldGRGQzdTVXRkaGRZRU1YUnRZdlVIMFBB?oc=5",
+        "summary": "This AI entrepreneur is developing agents that can plan ahead for the unexpected &nbsp;&nbsp; MIT Technology Review"
       },
       {
-        "headline": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-08T02:02:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5",
-        "summary": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition &nbsp;&nbsp; Bloomberg.com"
+        "headline": "OpenAI models went rogue. We urgently need a better Hugging Face investigation - theguardian.com",
+        "source": "theguardian.com",
+        "timestamp": "2026-09-08T10:03:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN253ZVo1a19jdWlBRG5VdmVxYldxelhDSnBuVE4xUzBxLWhyc0lWUUthWE4temZ1QkxoeFBNcTdjVGtTdzUyc1NkQXQybklqdmRyZmd3RWZ5eGdNQUhXZzN3YkVtSVlTMkpmakxXbWZtQlk4cXFHV1lLOTJXSlBTWWdvaWUxdks3c3k5MVRWVHR2TUV4bGNTTUp1NmtiUVdRS0E?oc=5",
+        "summary": "OpenAI models went rogue. We urgently need a better Hugging Face investigation &nbsp;&nbsp; theguardian.com"
       },
       {
-        "headline": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-09-08T01:40:00.000Z",
+        "headline": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal - The Intercept",
+        "source": "The Intercept",
+        "timestamp": "2026-09-08T09:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5",
-        "summary": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity &nbsp;&nbsp; Reuters"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX19TN1ZXOXA0bWM5YjVmbi1VS0VNaXh2dTJCalV3dEpoTGhSZ0tJX0QzUmwwNmV0WnZneXZWVUxoNFVYZXZucjV5bVFoRWhRWVc5b1gyVU5xb3V6d3FuRnNlMlJXRzF0WkFNYmlhaGd6TV9POVVSX1p4R1JEdTBLb1dOT0JLWFJwbHVORnZLYTRMeE1n?oc=5",
+        "summary": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal &nbsp;&nbsp; The Intercept"
       },
       {
-        "headline": "Google WeatherNext 3 Delivers Hourly Forecasts at 5-Kilometer Resolution - TechRepublic",
-        "source": "TechRepublic",
-        "timestamp": "2026-09-07T17:44:41.000Z",
+        "headline": "Microsoft Azure Revenue Hits $101.9B in FY26 [2026] - shattered.io",
+        "source": "shattered.io",
+        "timestamp": "2026-09-08T08:10:25.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXVTaWJTZXJWXzNEVTRqNU1IbEtRNi05RWhFdFEwUlh2M2xzN2VHMUgyenBERWFBNWxDRTlxamRWa0ZkQkZlRENhODB6UnhSN3hYWndLVWYtMGRfOEh4Q21TQXE0dUxiT3FhNTY5VWxoSEFuTkhwOWdaUkJoWVJmbzB4a09lX2JzbEZTdlVVR1Nvdk1UaFJibWVGV1l0Y0V3enc?oc=5",
-        "summary": "Google WeatherNext 3 Delivers Hourly Forecasts at 5-Kilometer Resolution &nbsp;&nbsp; TechRepublic"
+        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUhpV0VzNTEzajFnWEpNamk2eTRTTzFWVlZWSUNkSVFfSEFVLUtsTGtEdUlKOGhoSE0wMUNtSHg2cHR2M2NwUk9teks3VXdUSjhOZEQtZENNUlBhV0k5UEpuRlZUaDRjZEgwM2N2eVFDdHFpcXBuUEpZdHVnU0licA?oc=5",
+        "summary": "Microsoft Azure Revenue Hits $101.9B in FY26 [2026] &nbsp;&nbsp; shattered.io"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
