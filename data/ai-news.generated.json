@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-09T08:53:56.614Z",
+    "generatedAt": "2026-09-09T13:35:06.454Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-09T08:34:55.000Z",
+      "headline": "OpenAI and Samsung deepen chip and enterprise AI cooperation - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-09-09T13:18:45.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "OpenAI and Samsung deepen chip and enterprise AI cooperation &nbsp;&nbsp; qz.com",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44TlJhMXI4R2RNeTluTW9vSDd5cEowcGtjZG5QMUZwR1d3cm0tc1Q3cU1oU01jc3A4RUczTFBUWlhTNm51dHJjU1NQMUVWcU5tNndFSXBxc1o5Qlh5Q1lFby1qT0pmSXI2SExybWo0dWZWSkhlVHcw?oc=5"
+    },
+    {
+      "headline": "Microsoft deploys AI agents to find software flaws in Azure Government - MSSP Alert",
+      "source": "MSSP Alert",
+      "timestamp": "2026-09-09T12:23:47.000Z",
       "impact": "LOW",
+      "category": "regulation",
+      "summary": "Microsoft deploys AI agents to find software flaws in Azure Government &nbsp;&nbsp; MSSP Alert",
+      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2Y5c3E1dkl3VGZYVkZSMXk5M0dFNEJVSGJjdS1uS3RJcDRqeTJ4X2NtUTlNMUhPSDZ0NmN6Wm9JT2k1VVBzMGhkQzlhMU1wMVJ0WG9qOE9nYWdwWFpZWFhYYjVuN0Zid0w3N0ZqX0ZpRnpIZTQzZnRJMjkwZkhwQzhrbEdFcWRvQVB1UG5TVU9GaVhsZThMaUtmdTJ2NEpNRldiRFJQRVhWN2VJcEMxV0Z3?oc=5"
+    },
+    {
+      "headline": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-09-09T12:15:33.000Z",
+      "impact": "WATCH",
       "category": "ecosystem",
-      "summary": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours &nbsp;&nbsp; CNBC",
+      "summary": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" &nbsp;&nbsp; CBS News",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWNRZU8yTGdQaXZPLXpsS29LZmYydXhabDZnalg0NEdzbnNTNldZNWYzMXdqbmwxY0Nwb1lPc19fTkRKMXZPUVBDZkhWQ0ZFMzlURlBOMmMtbmI4S2FiSmFCcDRJWGxqU005WnV3alVvNnF5dXVLVUVmUGJ0cmYzNHhfWdIBiAFBVV95cUxOUDZuSjdtMm83NDc0OEc2OTV3OFg5eDFsZ1B0eEd4R2FaYjV3N0E1cm5PS1N6UXFNU2NUdzNYZkVuX0dBQmg5aDNOTVJUZlMzaUM4VWtXbEtWSkJTRVA5dnh1Ul9xbTlFYVZna1VxVFg3eUdfOFBROTZSXzlYSGZLRFFURnZsbmZj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5"
+    },
+    {
+      "headline": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030 - CoinDesk",
+      "source": "CoinDesk",
+      "timestamp": "2026-09-09T11:47:06.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030 &nbsp;&nbsp; CoinDesk",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXcxcHU3M0NBdy1XM3BadGlveEduN0tuZVFfWWI5c1p0dEdZM201aWg2UWRCeTdpNlFwczRIRWxlU1ZaZ0d3ejBHMHhCaHR6OVo4UWkybmNGeGZUc0RMT0ZSTlpwdlJKaDJYQW9NaVNQZ3Q0ajNaQ2U1anp1VUVoQWs2TEE2QzJZdWZsZU1VNTduOVJpLWpLeHJ5cm5QOURWRkNFMnFSS1ZHT1JRTjBwb2FFLURwcjFYV3FNdDd5aHo2Ym8?oc=5"
+    },
+    {
+      "headline": "Meta is launching an AI agent that can autonomously send emails, book travel, and pay for things - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-09-09T11:25:22.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta is launching an AI agent that can autonomously send emails, book travel, and pay for things &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YUW9wYkRLU1dreHJpc1ZRc2c2b0lWc0E3V1pzbGkzaE1LZXVRb094eFg0dmZWTDJpTkc4dGp0YTUtMG16SE5nOFJfN0liYTloZ3hSM1FqTklMR213cHNqRlRQUGM3a0ctUklqMVFFcko?oc=5"
+    },
+    {
+      "headline": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-09T07:06:42.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits &nbsp;&nbsp; CNBC Anthropic researcher quits, calls AI an existential threat to humanity &nbsp;&nbsp; Mashable Anthropic researcher says more than 10% chance AI \"could kill all humans\" &nbsp;&nbsp; CBS News Anthropic insiders warn AI could kill all humans &nbsp;&nbsp; axios.com Anthropic researcher believes more than 10% chance AI 'could kill all humans' &nbsp;&nbsp; BBC 'Gambling with our lives': AI researcher quits Anthropic and leaves AI entirely over what he calls a threat to humanity &nbsp;&nbsp; Yahoo Finance Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI | The 10-Point for Sept. 9 &nbsp;&nbsp; wsj.com An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives' &nbsp;&nbsp; Business Insider Anthropic Alignment Lead Issues Warning About AI Killing Humans As Researcher Resigns &nbsp;&nbsp; Forbes",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5"
     },
     {
       "headline": "Google DeepMind alumni are building tools to accelerate fusion power for the grid - TechCrunch",
@@ -34,7 +84,7 @@
     {
       "headline": "Anthropic withheld latest AI model from UK testing agency - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-09-09T04:02:03.000Z",
+      "timestamp": "2026-09-09T04:00:25.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Anthropic withheld latest AI model from UK testing agency &nbsp;&nbsp; Financial Times",
@@ -42,145 +92,95 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJObGRoR1Q2enZFeHJ0dUx1YVhITDlOVnZpUm53ZjVrMDRrTmFxejdDbUx6dHk3UTlFUFlYS0J2QmExWXQ4aEtRS0tDdlFtRFNWcEdXT0tlemRMTUlGckJzWEtlTUVVVjJ3elI5NUdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5"
     },
     {
-      "headline": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-09-08T23:46:50.000Z",
-      "impact": "HIGH",
+      "headline": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - wsj.com",
+      "source": "wsj.com",
+      "timestamp": "2026-09-08T23:46:00.000Z",
+      "impact": "WATCH",
       "category": "ecosystem",
-      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears &nbsp;&nbsp; WSJ Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits &nbsp;&nbsp; CNBC ‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety &nbsp;&nbsp; politico.eu",
+      "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears &nbsp;&nbsp; wsj.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5"
     },
     {
-      "headline": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-08T21:02:03.000Z",
+      "headline": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started - Yahoo Tech",
+      "source": "Yahoo Tech",
+      "timestamp": "2026-09-08T22:26:02.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5"
-    },
-    {
-      "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours - BBC",
-      "source": "BBC",
-      "timestamp": "2026-09-08T20:57:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI says it cracked 90-year-old maths problem in 88 hours &nbsp;&nbsp; BBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5"
-    },
-    {
-      "headline": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-09-08T20:12:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWdIQlRkZjBGVFRhWnlpdTlaQkh6M0s1Z1VfTmlwTTFBR21UQkVQLS1US2ROYzRsbTB3R2p5bFZ3X252aXlLT2tnV1RUS2QyMGxhM3VjY04xa1EtN3dENEF4VzlIUWh0THh1WjUxYVNOSmxhaTVoWGlLWXBNVFFBZ1M5bzBnaE1ZS2JtU2FjRmhtSWViZVd0cUVR?oc=5"
-    },
-    {
-      "headline": "Scoop: Anthropic breaks from major tech group over chips - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-08T19:57:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scoop: Anthropic breaks from major tech group over chips &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5"
-    },
-    {
-      "headline": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-09-08T19:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta Launches a Personal AI Agent Designed to Be Easy to Use &nbsp;&nbsp; WSJ Meta pushes into personal AI agents as company faces public reckoning over privacy and safety &nbsp;&nbsp; CNBC Introducing Muse: The World’s First Personal AI Agent Built for Everyone &nbsp;&nbsp; meta.com Meta launches AI agent that can access other apps to send emails, make payments &nbsp;&nbsp; Reuters Meta unveils AI personal assistant linked to WhatsApp and Instagram &nbsp;&nbsp; Financial Times Meta debuts Muse, its long-planned personal AI agent &nbsp;&nbsp; Axios Meta Debuts Muse AI Assistant for Personal Tasks and Organization &nbsp;&nbsp; Bloomberg.com Meta bets on AI agent Muse to catch up in AI race &nbsp;&nbsp; theverge.com Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5"
-    },
-    {
-      "headline": "Meta debuts its Muse AI agent. Will consumers trust it? - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-08T19:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta debuts its Muse AI agent. Will consumers trust it? &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2RNUUJzRXdDUURWemZraEM0ancyaUMtZmVfTHZ5NnV5WHEwYXd6bkpCNWJUVVBidmI4OGZiaEkwWUhYZkxicmkwbXI0NFNocWpwU3VMWURpTkk5dDlJU3JNdGpvaWFKb0t4bm82a25lWDIwMTd4eWQzTkRIcV9VdFJ0YjVfT0lTVTVsWUZsMldSZw?oc=5"
+      "summary": "She posted a video of herself singing in the car with her child. Then Meta's AI questions started &nbsp;&nbsp; Yahoo Tech",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWVXZWFybHRYNkhnMUxZRm9ESFd5djVtV1RfeHpFS0ppU3FVWmxUS2lyNkJiV0VMajJrTDZSRlpGcTdONkRqbU5lV0lpRnRrbEJmVk45WWtXQ0k1QjhuenlFbkwxM004SGxCb3ozcTB4bXQ2a0U0VGhBcXdMT1Z5UHMtQk1HeExhMWFYRF9fYXlDc0ptLUF1blZrbG9OOVBCYnB6MzY4NXpCUGVKVkNDdGNqUVkyNVF4dzlpb3FqZndOb0xGVDE5eWx1M05nZ05qdkcyU1o2YzhZVFdhNUJXQkxpTHRDTkhqVDhxbjRPLUNqNDVPUDFUeGRyTFM?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-09-09T08:34:55.000Z",
+        "headline": "OpenAI and Samsung deepen chip and enterprise AI cooperation - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-09-09T13:18:45.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44TlJhMXI4R2RNeTluTW9vSDd5cEowcGtjZG5QMUZwR1d3cm0tc1Q3cU1oU01jc3A4RUczTFBUWlhTNm51dHJjU1NQMUVWcU5tNndFSXBxc1o5Qlh5Q1lFby1qT0pmSXI2SExybWo0dWZWSkhlVHcw?oc=5",
+        "summary": "OpenAI and Samsung deepen chip and enterprise AI cooperation &nbsp;&nbsp; qz.com"
+      },
+      {
+        "headline": "Microsoft deploys AI agents to find software flaws in Azure Government - MSSP Alert",
+        "source": "MSSP Alert",
+        "timestamp": "2026-09-09T12:23:47.000Z",
         "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2Y5c3E1dkl3VGZYVkZSMXk5M0dFNEJVSGJjdS1uS3RJcDRqeTJ4X2NtUTlNMUhPSDZ0NmN6Wm9JT2k1VVBzMGhkQzlhMU1wMVJ0WG9qOE9nYWdwWFpZWFhYYjVuN0Zid0w3N0ZqX0ZpRnpIZTQzZnRJMjkwZkhwQzhrbEdFcWRvQVB1UG5TVU9GaVhsZThMaUtmdTJ2NEpNRldiRFJQRVhWN2VJcEMxV0Z3?oc=5",
+        "summary": "Microsoft deploys AI agents to find software flaws in Azure Government &nbsp;&nbsp; MSSP Alert"
+      },
+      {
+        "headline": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-09-09T12:15:33.000Z",
+        "impact": "WATCH",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWNRZU8yTGdQaXZPLXpsS29LZmYydXhabDZnalg0NEdzbnNTNldZNWYzMXdqbmwxY0Nwb1lPc19fTkRKMXZPUVBDZkhWQ0ZFMzlURlBOMmMtbmI4S2FiSmFCcDRJWGxqU005WnV3alVvNnF5dXVLVUVmUGJ0cmYzNHhfWdIBiAFBVV95cUxOUDZuSjdtMm83NDc0OEc2OTV3OFg5eDFsZ1B0eEd4R2FaYjV3N0E1cm5PS1N6UXFNU2NUdzNYZkVuX0dBQmg5aDNOTVJUZlMzaUM4VWtXbEtWSkJTRVA5dnh1Ul9xbTlFYVZna1VxVFg3eUdfOFBROTZSXzlYSGZLRFFURnZsbmZj?oc=5",
-        "summary": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5",
+        "summary": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" &nbsp;&nbsp; CBS News"
       },
       {
-        "headline": "Google DeepMind alumni are building tools to accelerate fusion power for the grid - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-09-09T06:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2liODI1VUszb05aTjFJekhWREJlbGtqNlAycFZRX2lHajlwYVBXclJJci1FM2kwajJwdl9tQnNTWkV2NW93c0s4MGQ1elRhd1dPdU1fcGMzSUJ0Y2IybFBkbnFKTVNIbXNrMjVhdTdKeUhsR2FydGZVY1hyN3ZyMnpJWEFmMjUwWjc0eGxWX1FxM0VHclRnMGhTMjZlSVhqaGpGY2FEUjcwUXpBekhTYTNHdUtSMjA?oc=5",
-        "summary": "Google DeepMind alumni are building tools to accelerate fusion power for the grid &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Anthropic withheld latest AI model from UK testing agency - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-09-09T04:02:03.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJObGRoR1Q2enZFeHJ0dUx1YVhITDlOVnZpUm53ZjVrMDRrTmFxejdDbUx6dHk3UTlFUFlYS0J2QmExWXQ4aEtRS0tDdlFtRFNWcEdXT0tlemRMTUlGckJzWEtlTUVVVjJ3elI5NUdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5",
-        "summary": "Anthropic withheld latest AI model from UK testing agency &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-09-08T23:46:50.000Z",
-        "impact": "HIGH",
+        "headline": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030 - CoinDesk",
+        "source": "CoinDesk",
+        "timestamp": "2026-09-09T11:47:06.000Z",
+        "impact": "WATCH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
-        "summary": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears &nbsp;&nbsp; WSJ Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits &nbsp;&nbsp; CNBC ‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety &nbsp;&nbsp; politico.eu"
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXcxcHU3M0NBdy1XM3BadGlveEduN0tuZVFfWWI5c1p0dEdZM201aWg2UWRCeTdpNlFwczRIRWxlU1ZaZ0d3ejBHMHhCaHR6OVo4UWkybmNGeGZUc0RMT0ZSTlpwdlJKaDJYQW9NaVNQZ3Q0ajNaQ2U1anp1VUVoQWs2TEE2QzJZdWZsZU1VNTduOVJpLWpLeHJ5cm5QOURWRkNFMnFSS1ZHT1JRTjBwb2FFLURwcjFYV3FNdDd5aHo2Ym8?oc=5",
+        "summary": "Anthropic's AI researcher quits, says insiders fear human extinction by 2030 &nbsp;&nbsp; CoinDesk"
       },
       {
-        "headline": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-08T21:02:03.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-        "summary": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ &nbsp;&nbsp; The New York Times"
+        "headline": "Meta is launching an AI agent that can autonomously send emails, book travel, and pay for things - qz.com",
+        "source": "qz.com",
+        "timestamp": "2026-09-09T11:25:22.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YUW9wYkRLU1dreHJpc1ZRc2c2b0lWc0E3V1pzbGkzaE1LZXVRb094eFg0dmZWTDJpTkc4dGp0YTUtMG16SE5nOFJfN0liYTloZ3hSM1FqTklMR213cHNqRlRQUGM3a0ctUklqMVFFcko?oc=5",
+        "summary": "Meta is launching an AI agent that can autonomously send emails, book travel, and pay for things &nbsp;&nbsp; qz.com"
       },
       {
-        "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours - BBC",
-        "source": "BBC",
-        "timestamp": "2026-09-08T20:57:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5",
-        "summary": "OpenAI says it cracked 90-year-old maths problem in 88 hours &nbsp;&nbsp; BBC"
+        "headline": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-09-09T07:06:42.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5",
+        "summary": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits &nbsp;&nbsp; CNBC Anthropic researcher quits, calls AI an existential threat to humanity &nbsp;&nbsp; Mashable Anthropic researcher says more than 10% chance AI \"could kill all humans\" &nbsp;&nbsp; CBS News Anthropic insiders warn AI could kill all humans &nbsp;&nbsp; axios.com Anthropic researcher believes more than 10% chance AI 'could kill all humans' &nbsp;&nbsp; BBC 'Gambling with our lives': AI researcher quits Anthropic and leaves AI entirely over what he calls a threat to humanity &nbsp;&nbsp; Yahoo Finance Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI | The 10-Point for Sept. 9 &nbsp;&nbsp; wsj.com An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our lives' &nbsp;&nbsp; Business Insider Anthropic Alignment Lead Issues Warning About AI Killing Humans As Researcher Resigns &nbsp;&nbsp; Forbes"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
