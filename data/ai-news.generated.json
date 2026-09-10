@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T17:34:44.049Z",
+    "generatedAt": "2026-09-10T20:38:21.652Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-09-10T17:32:04.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG9SYWIwN0RTcXl0Vnk3SkZsZ0wwejV6MWcxdFJJOGpqNnlkMGd4b2Yxa05ValZiZV9GekJGTFg1YjdoRFhmeGpTYzNCS01qeWxLYUFpTjdkTU1aQjIwMnU3NWlQZkZ6TGhLa2lVak01YWJBbWhoUDluSnpnMVExRlBKeTdhc0t5NHc0Q2U3ck1LODRlOGJHbFFaUjBGSHdVMnc?oc=5"
-    },
-    {
-      "headline": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-10T17:18:48.000Z",
+      "headline": "Anthropic says it blocked possible attempts to use AI to develop bioweapons - CNN",
+      "source": "CNN",
+      "timestamp": "2026-09-10T20:33:24.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem &nbsp;&nbsp; The New York Times",
+      "summary": "Anthropic says it blocked possible attempts to use AI to develop bioweapons &nbsp;&nbsp; CNN",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONUI1SDFWSGoydERvSDR0WG42aDI1RTNvck9YWHJZUEQ5aFlybGNQcjh5OVV4M29yMTlzYWp4andpa1NYdERxZ0taSGd3RUpPQzYzWXhJV1k5MlV2X3BNY3hxbFZHMlpHbGkyaGZJaXBOMTZwMl9KbTdyZXRSaUJDOHZtWmdjWXVYUmdTc083azZkR19yOGxQdWF5cnY5VzB1QUFTWHFURlBETEZWSjctZmg1WGxWeXZNbVIwdTBlbzJxeWFuY0g5cF9MYVNyQjlMZnFHRTI4cmtDSjR3MlN6ZDdxc0FldUxx?oc=5"
+    },
+    {
+      "headline": "The ex-Anthropic researcher's warning that AI could kill us all is missing something important - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-09-10T20:24:00.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "The ex-Anthropic researcher's warning that AI could kill us all is missing something important &nbsp;&nbsp; Fortune",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORlVycG5LajVYQmdjQnBrRmZMTFBsSE0yQ29fQUp3WXFhY2c1SU0yczROUW5hcjE0MDliR19lSlVUSUxCWGhiVm5pWU9HZEJwLWN4Q2RfeWtUaHo4Y0xLR0owcV94bFJIMDN3Q3UtWERRYzZLclRTbXhHTU5lc2dZal94eC1RQW41Z3RzZXd5b0NqRXZBSV93ZmlxdGhZaTVVdG9WSmhQTGZuRExyVWd4dW13R295OVI1ZVVUaXFGS3IxQllCZ0oxaQ?oc=5"
+    },
+    {
+      "headline": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-10T19:50:04.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta’s AI agent Muse is now the No. 2 app in the US &nbsp;&nbsp; TechCrunch Meta bets on AI agent Muse to catch up in AI race &nbsp;&nbsp; The Verge Introducing Muse: The World’s First Personal AI Agent Built for Everyone &nbsp;&nbsp; meta.com",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5"
+    },
+    {
+      "headline": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-09-10T19:49:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development &nbsp;&nbsp; CBS News",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1gxVjdSOXNuN1U4VUVvdzMyeG03NE1WZm5Ya3VBNnJTZVZrcXU5Vy16elVNMzlRbU9YN1JWYjBweS1RQjE1cEdBbFg5QlFVOGlWQkhNb1F0Um5JWDIyelZkbHFmMnhsS2EzZjFyeDJLSFA0Qlk2SDVJa1RMQ2htckk2aFpIYU0?oc=5"
+    },
+    {
+      "headline": "OpenAI faces Senate probe over Hugging Face hack by swarm of rogue agents - New York Post",
+      "source": "New York Post",
+      "timestamp": "2026-09-10T19:10:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI faces Senate probe over Hugging Face hack by swarm of rogue agents &nbsp;&nbsp; New York Post",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTm8ycDV0eHFLVmpVM01mVW9za19uN1ZSTEVHd0Q0bHBZSGdDUmMxUmJaZlJnZUFwWm10S3dTaUx2SDlzSk1RX2dSVHR3bUhYaVlOZmJWQ3dmcEVrX1J5bUhUbVY1RzgtTDRaSDVOTl9xVFR1UnhOcjZoTkstd0tKRV83cHRGanQ4VlhWSWVrWUZxZw?oc=5"
     },
     {
       "headline": "Detecting and countering misuse of AI: September 2026 - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-09-10T17:10:27.000Z",
-      "impact": "HIGH",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic Another Anthropic model gained access to the open internet during testing, company says &nbsp;&nbsp; CBS News Bad actors in China and Russia are already weaponizing Anthropic’s AI &nbsp;&nbsp; Politico",
+      "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5"
     },
     {
-      "headline": "Governments are turning to Claude to automate spying - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-10T17:01:07.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Governments are turning to Claude to automate spying &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5"
-    },
-    {
       "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-09-10T17:00:05.000Z",
+      "timestamp": "2026-09-10T17:00:06.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5"
+    },
+    {
+      "headline": "The AI hurricane model that continues to blow away the competition - WPLG Local 10",
+      "source": "WPLG Local 10",
+      "timestamp": "2026-09-10T16:44:52.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "The AI hurricane model that continues to blow away the competition &nbsp;&nbsp; WPLG Local 10",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnpaNlBPaWdfMmVNVWVUazdieGhOVzh2YU44UUw1cnNOT0tQUzR4NXBhQnhoODNUY29DM0lGY0xDS2dVVXJWNndsekJzU0cyVjM3X1hzZExQa2RyUlZDeEZXVXVuV18tQXl3YTRRN1ZjSGtjX3VYbkYxMF81RkNYNE5icVc1dy1DZUcwMVlFNktwTFV6WGphUC1EeHhOV3U3ZmZtd25yS2tpWWJJbU9ucmYtYWFQS2FtTUNPMw?oc=5"
     },
     {
       "headline": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure - TipRanks",
@@ -72,109 +102,79 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3hIWl9ndFVFOTZ5bzBROHcwVm9sa3N1dmFEZFBlZFpBM0g3NWRqd2R1Q040bzc2T2RGOHlIRFFuNG5yNHgxbjczbVpqdXNHREM5NF9JSEtHRWdKSEJNVTJINElEQzlHVHJadlJwanh2N0E4S0IwYmdSZFo4Mk1MZDZBclpGN3ZRTGJBSXl6X08xeUEyMzhMTXhCX3hwNUFROFhQTHB0SG0xbm4tX0lMekdhWl9CUHFLQW5wX0tYTDYwSkNjaFZEQU9OYWRqTENZOTJyT1RBcmw?oc=5"
     },
     {
-      "headline": "Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools - Fox Business",
-      "source": "Fox Business",
-      "timestamp": "2026-09-10T15:44:00.000Z",
+      "headline": "An N.Y.U. Mathematician Clashed With OpenAI Over a $1 Million Proof - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-10T14:05:57.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools &nbsp;&nbsp; Fox Business",
+      "summary": "An N.Y.U. Mathematician Clashed With OpenAI Over a $1 Million Proof &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXB3ZTR1cm5DUm8xYmNjUHgzOUVoQm81TzIyLWdFRG5lVWFOQ2xpS21LLVR1ZGt4TUlNSmZWYkxfQXJQRXpaZEJoU3owYy1EVVVtY01Kbml5VXJOTE4xT29YVjE1aTF2SVZVb1hXWnJrbFZEbTU2TVp1MTNZdDZtbGVCb1A3Smo2bTZ5TVJvR0NOcFBtckxUcEM5NFdBamdvVEk0X2owVVM4SVRwZTAzQllLYUF0QkVHZ0tjStIBwgFBVV95cUxOckxCMmtKNWdVekphODEzNGw2OVVRRHphYUtJZWpWNlJJOTY1cWc4S2FQdjRKVDlkX2ltR2ZYOHlQdGt4MFhXczg3anV2WGxYMDhqNEdvdjdhOTQ5NExWVTVLbHlRR1EtRWEtSm9ZZi1KbkhncDZjb0UwNEh3VU1YRWE2VkVoaHhkXy1iQzNKRWxUWldZZjB1cWtTNk45UzlVRU8tZ3dURFFJMTNvZUZnd3Y1dU5tREtqSk9qUnpVY2IzUQ?oc=5"
-    },
-    {
-      "headline": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-09-10T12:59:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdHNtSUFDWEU2aEc1NXJxajgwYjdfLS10MmpUa2pET3JWRFBQc1NweEtrV0ZncjM0WGdBVEtCbW51c2hjSVFTOVIwQjhOQXQ1OFpjWXlVTjUyaDc4cVN0eVJIRWRtVFNWVElycGo1SXByanNlOFg1TkV1X3k0cjA?oc=5"
-    },
-    {
-      "headline": "Google DeepMind Develops New AI Search Ranking Model - Search Engine Journal",
-      "source": "Search Engine Journal",
-      "timestamp": "2026-09-10T11:24:46.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Google DeepMind Develops New AI Search Ranking Model &nbsp;&nbsp; Search Engine Journal",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTIwT3JuLTVyTy16WFpqNmtoUHVWMlRwMnBVaFhMSVI0Z0FSWlI4WWtuUEgyRWhDMXNvRHljTDNmM2Vub01QeHFHVmEyYmozNlBBQzVDeDBzT3pSQXVlQTNhQkFKb180Y0FNcDI5MDlTRmtFNk9rUi1pZERMWHRZYWZ3OE1UenVUSkg2eGR5YUdVRlBaUG5qSk1GSW4?oc=5"
-    },
-    {
-      "headline": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-10T10:12:08.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-09-10T17:32:04.000Z",
+        "headline": "Anthropic says it blocked possible attempts to use AI to develop bioweapons - CNN",
+        "source": "CNN",
+        "timestamp": "2026-09-10T20:33:24.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG9SYWIwN0RTcXl0Vnk3SkZsZ0wwejV6MWcxdFJJOGpqNnlkMGd4b2Yxa05ValZiZV9GekJGTFg1YjdoRFhmeGpTYzNCS01qeWxLYUFpTjdkTU1aQjIwMnU3NWlQZkZ6TGhLa2lVak01YWJBbWhoUDluSnpnMVExRlBKeTdhc0t5NHc0Q2U3ck1LODRlOGJHbFFaUjBGSHdVMnc?oc=5",
-        "summary": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. &nbsp;&nbsp; Business Insider"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONUI1SDFWSGoydERvSDR0WG42aDI1RTNvck9YWHJZUEQ5aFlybGNQcjh5OVV4M29yMTlzYWp4andpa1NYdERxZ0taSGd3RUpPQzYzWXhJV1k5MlV2X3BNY3hxbFZHMlpHbGkyaGZJaXBOMTZwMl9KbTdyZXRSaUJDOHZtWmdjWXVYUmdTc083azZkR19yOGxQdWF5cnY5VzB1QUFTWHFURlBETEZWSjctZmg1WGxWeXZNbVIwdTBlbzJxeWFuY0g5cF9MYVNyQjlMZnFHRTI4cmtDSjR3MlN6ZDdxc0FldUxx?oc=5",
+        "summary": "Anthropic says it blocked possible attempts to use AI to develop bioweapons &nbsp;&nbsp; CNN"
       },
       {
-        "headline": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-10T17:18:48.000Z",
-        "impact": "LOW",
+        "headline": "The ex-Anthropic researcher's warning that AI could kill us all is missing something important - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-09-10T20:24:00.000Z",
+        "impact": "WATCH",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5",
-        "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORlVycG5LajVYQmdjQnBrRmZMTFBsSE0yQ29fQUp3WXFhY2c1SU0yczROUW5hcjE0MDliR19lSlVUSUxCWGhiVm5pWU9HZEJwLWN4Q2RfeWtUaHo4Y0xLR0owcV94bFJIMDN3Q3UtWERRYzZLclRTbXhHTU5lc2dZal94eC1RQW41Z3RzZXd5b0NqRXZBSV93ZmlxdGhZaTVVdG9WSmhQTGZuRExyVWd4dW13R295OVI1ZVVUaXFGS3IxQllCZ0oxaQ?oc=5",
+        "summary": "The ex-Anthropic researcher's warning that AI could kill us all is missing something important &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-09-10T19:50:04.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5",
+        "summary": "Meta’s AI agent Muse is now the No. 2 app in the US &nbsp;&nbsp; TechCrunch Meta bets on AI agent Muse to catch up in AI race &nbsp;&nbsp; The Verge Introducing Muse: The World’s First Personal AI Agent Built for Everyone &nbsp;&nbsp; meta.com"
+      },
+      {
+        "headline": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-09-10T19:49:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1gxVjdSOXNuN1U4VUVvdzMyeG03NE1WZm5Ya3VBNnJTZVZrcXU5Vy16elVNMzlRbU9YN1JWYjBweS1RQjE1cEdBbFg5QlFVOGlWQkhNb1F0Um5JWDIyelZkbHFmMnhsS2EzZjFyeDJLSFA0Qlk2SDVJa1RMQ2htckk2aFpIYU0?oc=5",
+        "summary": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development &nbsp;&nbsp; CBS News"
+      },
+      {
+        "headline": "OpenAI faces Senate probe over Hugging Face hack by swarm of rogue agents - New York Post",
+        "source": "New York Post",
+        "timestamp": "2026-09-10T19:10:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTm8ycDV0eHFLVmpVM01mVW9za19uN1ZSTEVHd0Q0bHBZSGdDUmMxUmJaZlJnZUFwWm10S3dTaUx2SDlzSk1RX2dSVHR3bUhYaVlOZmJWQ3dmcEVrX1J5bUhUbVY1RzgtTDRaSDVOTl9xVFR1UnhOcjZoTkstd0tKRV83cHRGanQ4VlhWSWVrWUZxZw?oc=5",
+        "summary": "OpenAI faces Senate probe over Hugging Face hack by swarm of rogue agents &nbsp;&nbsp; New York Post"
       },
       {
         "headline": "Detecting and countering misuse of AI: September 2026 - Anthropic",
         "source": "Anthropic",
         "timestamp": "2026-09-10T17:10:27.000Z",
-        "impact": "HIGH",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-        "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic Another Anthropic model gained access to the open internet during testing, company says &nbsp;&nbsp; CBS News Bad actors in China and Russia are already weaponizing Anthropic’s AI &nbsp;&nbsp; Politico"
-      },
-      {
-        "headline": "Governments are turning to Claude to automate spying - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-10T17:01:07.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5",
-        "summary": "Governments are turning to Claude to automate spying &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-10T17:00:05.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-        "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure - TipRanks",
-        "source": "TipRanks",
-        "timestamp": "2026-09-10T16:11:05.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3hIWl9ndFVFOTZ5bzBROHcwVm9sa3N1dmFEZFBlZFpBM0g3NWRqd2R1Q040bzc2T2RGOHlIRFFuNG5yNHgxbjczbVpqdXNHREM5NF9JSEtHRWdKSEJNVTJINElEQzlHVHJadlJwanh2N0E4S0IwYmdSZFo4Mk1MZDZBclpGN3ZRTGJBSXl6X08xeUEyMzhMTXhCX3hwNUFROFhQTHB0SG0xbm4tX0lMekdhWl9CUHFLQW5wX0tYTDYwSkNjaFZEQU9OYWRqTENZOTJyT1RBcmw?oc=5",
-        "summary": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure &nbsp;&nbsp; TipRanks"
+        "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
