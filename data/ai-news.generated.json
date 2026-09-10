@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T13:26:57.171Z",
+    "generatedAt": "2026-09-10T17:34:44.049Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-09-10T13:22:52.000Z",
+      "headline": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-09-10T17:32:04.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI",
+      "summary": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. &nbsp;&nbsp; Business Insider",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG9SYWIwN0RTcXl0Vnk3SkZsZ0wwejV6MWcxdFJJOGpqNnlkMGd4b2Yxa05ValZiZV9GekJGTFg1YjdoRFhmeGpTYzNCS01qeWxLYUFpTjdkTU1aQjIwMnU3NWlQZkZ6TGhLa2lVak01YWJBbWhoUDluSnpnMVExRlBKeTdhc0t5NHc0Q2U3ck1LODRlOGJHbFFaUjBGSHdVMnc?oc=5"
+    },
+    {
+      "headline": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-10T17:18:48.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5"
+    },
+    {
+      "headline": "Detecting and countering misuse of AI: September 2026 - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-09-10T17:10:27.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic Another Anthropic model gained access to the open internet during testing, company says &nbsp;&nbsp; CBS News Bad actors in China and Russia are already weaponizing Anthropic’s AI &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5"
+    },
+    {
+      "headline": "Governments are turning to Claude to automate spying - Axios",
+      "source": "Axios",
+      "timestamp": "2026-09-10T17:01:07.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Governments are turning to Claude to automate spying &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5"
+    },
+    {
+      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-10T17:00:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5"
+    },
+    {
+      "headline": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure - TipRanks",
+      "source": "TipRanks",
+      "timestamp": "2026-09-10T16:11:05.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure &nbsp;&nbsp; TipRanks",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3hIWl9ndFVFOTZ5bzBROHcwVm9sa3N1dmFEZFBlZFpBM0g3NWRqd2R1Q040bzc2T2RGOHlIRFFuNG5yNHgxbjczbVpqdXNHREM5NF9JSEtHRWdKSEJNVTJINElEQzlHVHJadlJwanh2N0E4S0IwYmdSZFo4Mk1MZDZBclpGN3ZRTGJBSXl6X08xeUEyMzhMTXhCX3hwNUFROFhQTHB0SG0xbm4tX0lMekdhWl9CUHFLQW5wX0tYTDYwSkNjaFZEQU9OYWRqTENZOTJyT1RBcmw?oc=5"
+    },
+    {
+      "headline": "Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools - Fox Business",
+      "source": "Fox Business",
+      "timestamp": "2026-09-10T15:44:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Trump admin partners with OpenAI to equip federal employees with artificial intelligence tools &nbsp;&nbsp; Fox Business",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXB3ZTR1cm5DUm8xYmNjUHgzOUVoQm81TzIyLWdFRG5lVWFOQ2xpS21LLVR1ZGt4TUlNSmZWYkxfQXJQRXpaZEJoU3owYy1EVVVtY01Kbml5VXJOTE4xT29YVjE1aTF2SVZVb1hXWnJrbFZEbTU2TVp1MTNZdDZtbGVCb1A3Smo2bTZ5TVJvR0NOcFBtckxUcEM5NFdBamdvVEk0X2owVVM4SVRwZTAzQllLYUF0QkVHZ0tjStIBwgFBVV95cUxOckxCMmtKNWdVekphODEzNGw2OVVRRHphYUtJZWpWNlJJOTY1cWc4S2FQdjRKVDlkX2ltR2ZYOHlQdGt4MFhXczg3anV2WGxYMDhqNEdvdjdhOTQ5NExWVTVLbHlRR1EtRWEtSm9ZZi1KbkhncDZjb0UwNEh3VU1YRWE2VkVoaHhkXy1iQzNKRWxUWldZZjB1cWtTNk45UzlVRU8tZ3dURFFJMTNvZUZnd3Y1dU5tREtqSk9qUnpVY2IzUQ?oc=5"
     },
     {
       "headline": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty - Microsoft Source",
@@ -32,44 +92,14 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdHNtSUFDWEU2aEc1NXJxajgwYjdfLS10MmpUa2pET3JWRFBQc1NweEtrV0ZncjM0WGdBVEtCbW51c2hjSVFTOVIwQjhOQXQ1OFpjWXlVTjUyaDc4cVN0eVJIRWRtVFNWVElycGo1SXByanNlOFg1TkV1X3k0cjA?oc=5"
     },
     {
-      "headline": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-09-10T12:32:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5"
-    },
-    {
-      "headline": "Anthropic releases interactive model of AI economic scenarios - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-09-10T12:17:40.000Z",
+      "headline": "Google DeepMind Develops New AI Search Ranking Model - Search Engine Journal",
+      "source": "Search Engine Journal",
+      "timestamp": "2026-09-10T11:24:46.000Z",
       "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic releases interactive model of AI economic scenarios &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nTVdnTHNtalBBTmFldzBVZ0RVaTVNRFZGMDMybjhSMHQxd0ZQbU1QcGNsSFp6Zld3eVpjVXFaSzd6Tk90dVBXZlJoeU13Wnl6YmxIanNOX3JHdFhFaGZMc1gzcS1pVHlz?oc=5"
-    },
-    {
-      "headline": "Glassbox Earns Solutions Partner With Certified Software - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "timestamp": "2026-09-10T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Glassbox Earns Solutions Partner With Certified Software &nbsp;&nbsp; GlobeNewswire",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQbDhWODl3akFvS0k4ZzBzOFFtbFhzQ0tnMzJueVdRLVJiMFF3Q05nR0xNMVdxa3kxVjd6TXVwRmNZeTEwSjhyUVFJSG5NOW5tUjJZd0d5MEZOOFhMUVA3WWIwNTg2TTFZeldJQmM5Mkl2Q0FHT2ZmU05RanNfcWt3WURMY3prcGdxcEpzZjhfSDJZeWtWWDRkQXgwbS1FaEM2V2ZEMEN4OHd0SS11RnkwMnFZQ244bmtZNExuODh5VHV0eG5hRDNIWjBTTjFRU1VtQzBlaURnSGFvaUR2aW9EaU9STDFMZkgtMXlRQTJqQ2MxZlJsYldaaU9IeF90WXpablV3WVp3dURSNVlGTGRPcWJ3RlhXd1Nra0U1UjRiM1NCTDQ5RW55bmhCMnhSZkFwNzFIbjFmVQ?oc=5"
-    },
-    {
-      "headline": "Meet the LA-area cook who's gone viral for his Meta AI-filmed cooking videos - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-09-10T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meet the LA-area cook who's gone viral for his Meta AI-filmed cooking videos &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0s3c0pGanpLRFZHT1ZmaVpmS2dlTmZoTDEzaWU2MHJHYl9Vb3NPUEdfeUpEVzBrLUhFZ1NYSXJsQjBnZ1kxWXI3N2tySkNFWTVEYV9fbnhYSk5oZkNkTW5pVm1LNnpCUFpvd2JuOFNHbWFjeElvRVlPYXZybFY4Wk9iRjQ?oc=5"
+      "category": "models",
+      "summary": "Google DeepMind Develops New AI Search Ranking Model &nbsp;&nbsp; Search Engine Journal",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTIwT3JuLTVyTy16WFpqNmtoUHVWMlRwMnBVaFhMSVI0Z0FSWlI4WWtuUEgyRWhDMXNvRHljTDNmM2Vub01QeHFHVmEyYmozNlBBQzVDeDBzT3pSQXVlQTNhQkFKb180Y0FNcDI5MDlTRmtFNk9rUi1pZERMWHRZYWZ3OE1UenVUSkg2eGR5YUdVRlBaUG5qSk1GSW4?oc=5"
     },
     {
       "headline": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown - CNBC",
@@ -78,102 +108,72 @@
       "impact": "WATCH",
       "category": "ecosystem",
       "summary": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5"
-    },
-    {
-      "headline": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-09-10T10:09:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Meta AI glasses lawsuit now includes 'bystander' plaintiffs who say privacy was violated &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhlTEo3OEVNYXY4WURMVVBqS2p5N05IbXpWZXhfMTF6amloZDE4UXFHLTFxRjlnVTMzakZaNkZfZUlfU2p3WE41NXdtbVV6dEc2TzBMNmVDSkFwSWlOV2NfYW5tNk81VG9JYXVsZzFMVWx3dk94dkR2enZPWU5pRkZabzVQbjVK?oc=5"
-    },
-    {
-      "headline": "Simform Completes Microsoft AI Cloud Coverage with AI Business Solutions Designation - PR Newswire",
-      "source": "PR Newswire",
-      "timestamp": "2026-09-10T10:03:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Simform Completes Microsoft AI Cloud Coverage with AI Business Solutions Designation &nbsp;&nbsp; PR Newswire",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWk4TjE0N1NPajBhaEk0RXcwa1M4UzZ6c1ZBWHhTTC0wZkQxdnJob1lJck54OGFoeW9GemRKUk5pLW40Nk9rMUVFa1lnNDdrbDhycWFBVHBCSGZnSV9ya2l3SUROTmdfdXVJeTdaUU1MWDgtQVRCQVlPcHJITEphZXZfZS1kZzB5SkRpMEV2S3k5Z0NQN1MxckpQeTBlNGpvNHdzWjhrQ1hTWHhCQ0xKYlBwSGdVQVpxVm1VNEJEUHd6YXNwd3Aya2k2UTdMTVFLc1M3d084aw?oc=5"
-    },
-    {
-      "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-09-09T21:47:05.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "GPT-6 Astra: The next generation in intelligence for work &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-09-10T13:22:52.000Z",
+        "headline": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-09-10T17:32:04.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-        "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG9SYWIwN0RTcXl0Vnk3SkZsZ0wwejV6MWcxdFJJOGpqNnlkMGd4b2Yxa05ValZiZV9GekJGTFg1YjdoRFhmeGpTYzNCS01qeWxLYUFpTjdkTU1aQjIwMnU3NWlQZkZ6TGhLa2lVak01YWJBbWhoUDluSnpnMVExRlBKeTdhc0t5NHc0Q2U3ck1LODRlOGJHbFFaUjBGSHdVMnc?oc=5",
+        "summary": "Wall Street already loves ChatGPT. Now OpenAI is doubling down. &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty - Microsoft Source",
-        "source": "Microsoft Source",
-        "timestamp": "2026-09-10T12:59:50.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdHNtSUFDWEU2aEc1NXJxajgwYjdfLS10MmpUa2pET3JWRFBQc1NweEtrV0ZncjM0WGdBVEtCbW51c2hjSVFTOVIwQjhOQXQ1OFpjWXlVTjUyaDc4cVN0eVJIRWRtVFNWVElycGo1SXByanNlOFg1TkV1X3k0cjA?oc=5",
-        "summary": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty &nbsp;&nbsp; Microsoft Source"
-      },
-      {
-        "headline": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-09-10T12:32:00.000Z",
+        "headline": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-09-10T17:18:48.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5",
-        "summary": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member &nbsp;&nbsp; The Guardian"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5",
+        "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Anthropic releases interactive model of AI economic scenarios - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-09-10T12:17:40.000Z",
+        "headline": "Detecting and countering misuse of AI: September 2026 - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-09-10T17:10:27.000Z",
         "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+        "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic Another Anthropic model gained access to the open internet during testing, company says &nbsp;&nbsp; CBS News Bad actors in China and Russia are already weaponizing Anthropic’s AI &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "Governments are turning to Claude to automate spying - Axios",
+        "source": "Axios",
+        "timestamp": "2026-09-10T17:01:07.000Z",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nTVdnTHNtalBBTmFldzBVZ0RVaTVNRFZGMDMybjhSMHQxd0ZQbU1QcGNsSFp6Zld3eVpjVXFaSzd6Tk90dVBXZlJoeU13Wnl6YmxIanNOX3JHdFhFaGZMc1gzcS1pVHlz?oc=5",
-        "summary": "Anthropic releases interactive model of AI economic scenarios &nbsp;&nbsp; qz.com"
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGRfWG9zNVZTZHlQbmdxVzNva2dteVZXa3d6RWNaOHBYSV93ZXZUN0NtUVVfWjB2TnFyVzVoUUZmRkJUS3YtbVowUGQ0WklNbU9HQnk4dnVld1J5dmpJVmV3OE8tRDcxaWt5WHZJZktZMVo1MUVCV3Q2Y3FDQTZDUElSdXVLbVpU?oc=5",
+        "summary": "Governments are turning to Claude to automate spying &nbsp;&nbsp; Axios"
       },
       {
-        "headline": "Glassbox Earns Solutions Partner With Certified Software - GlobeNewswire",
-        "source": "GlobeNewswire",
-        "timestamp": "2026-09-10T12:00:00.000Z",
+        "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-09-10T17:00:05.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQbDhWODl3akFvS0k4ZzBzOFFtbFhzQ0tnMzJueVdRLVJiMFF3Q05nR0xNMVdxa3kxVjd6TXVwRmNZeTEwSjhyUVFJSG5NOW5tUjJZd0d5MEZOOFhMUVA3WWIwNTg2TTFZeldJQmM5Mkl2Q0FHT2ZmU05RanNfcWt3WURMY3prcGdxcEpzZjhfSDJZeWtWWDRkQXgwbS1FaEM2V2ZEMEN4OHd0SS11RnkwMnFZQ244bmtZNExuODh5VHV0eG5hRDNIWjBTTjFRU1VtQzBlaURnSGFvaUR2aW9EaU9STDFMZkgtMXlRQTJqQ2MxZlJsYldaaU9IeF90WXpablV3WVp3dURSNVlGTGRPcWJ3RlhXd1Nra0U1UjRiM1NCTDQ5RW55bmhCMnhSZkFwNzFIbjFmVQ?oc=5",
-        "summary": "Glassbox Earns Solutions Partner With Certified Software &nbsp;&nbsp; GlobeNewswire"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
+        "summary": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Meet the LA-area cook who's gone viral for his Meta AI-filmed cooking videos - Yahoo",
-        "source": "Yahoo",
-        "timestamp": "2026-09-10T12:00:00.000Z",
+        "headline": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure - TipRanks",
+        "source": "TipRanks",
+        "timestamp": "2026-09-10T16:11:05.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0s3c0pGanpLRFZHT1ZmaVpmS2dlTmZoTDEzaWU2MHJHYl9Vb3NPUEdfeUpEVzBrLUhFZ1NYSXJsQjBnZ1kxWXI3N2tySkNFWTVEYV9fbnhYSk5oZkNkTW5pVm1LNnpCUFpvd2JuOFNHbWFjeElvRVlPYXZybFY4Wk9iRjQ?oc=5",
-        "summary": "Meet the LA-area cook who's gone viral for his Meta AI-filmed cooking videos &nbsp;&nbsp; Yahoo"
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3hIWl9ndFVFOTZ5bzBROHcwVm9sa3N1dmFEZFBlZFpBM0g3NWRqd2R1Q040bzc2T2RGOHlIRFFuNG5yNHgxbjczbVpqdXNHREM5NF9JSEtHRWdKSEJNVTJINElEQzlHVHJadlJwanh2N0E4S0IwYmdSZFo4Mk1MZDZBclpGN3ZRTGJBSXl6X08xeUEyMzhMTXhCX3hwNUFROFhQTHB0SG0xbm4tX0lMekdhWl9CUHFLQW5wX0tYTDYwSkNjaFZEQU9OYWRqTENZOTJyT1RBcmw?oc=5",
+        "summary": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure &nbsp;&nbsp; TipRanks"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
