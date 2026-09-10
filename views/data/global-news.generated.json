@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T14:49:08.096Z",
+    "generatedAt": "2026-09-10T18:05:27.582Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,48 @@
   },
   "newsFeed": [
     {
-      "headline": "Two arrested by UK police over suspected National Security Act offences relating to Iran",
-      "summary": "Two arrested by UK police over suspected National Security Act offences relating to Iran &nbsp;&nbsp; Reuters",
+      "headline": "White House copper tariff plan stalls amid affordability concerns, sources say",
+      "summary": "White House copper tariff plan stalls amid affordability concerns, sources say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-10T13:30:31.000Z",
+      "timestamp": "2026-09-10T16:31:39.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5"
+    },
+    {
+      "headline": "Iranian arms and advice helped Yemen's Houthis seize key Red Sea city, sources say",
+      "summary": "Iranian arms and advice helped Yemen's Houthis seize key Red Sea city, sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-10T16:30:56.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1UxOEFocWZUYXJVTUdzcW10bmc3SGRzLWdXOFBUMjUxbVAyOUFrZTJQMXJpeFI3U1BheDVPYzdzOG5yOG04TjU0VWpCS2hBdDlmd3VVcV9VYzZXVjN6dHlSeklJR2ZkdWRlaGcyN2dFMjlHbFpHbjVybUJySmZTSGowSFNRYUhBQm9IajBENWFQeG5KOF9zNTk0NFhUYzFEOXczbHFpb2tPaW1ZSDlmUXgyZFRVNUZrNG1SSnFWZUw3LUh2LTdRNE9n?oc=5"
+    },
+    {
+      "headline": "UK bond yields soar to multi-decade highs on fresh Mideast conflict",
+      "summary": "UK bond yields soar to multi-decade highs on fresh Mideast conflict &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-10T16:00:40.000Z",
       "impact": "HIGH",
       "region": "Europe",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjN5Vjg2bUdlVFdmVnlnaFhNR0FVNnp6QnRqaDBQVTNwc3hQa3ExNmtnekpQS2E1dVlUV1Q1dG5QOUZveHBUdVpVaEk2bTk4eEpMMjkzRXRET2pzS1ZiSm5tQnF6Q3d4d0tFZHp2M3U5bHBMTW9raW83Z2htcFBtZTBmUDE0TmZLX3g1eU5ocjJzX0NEYmp3MzJCVWx3OEdVVEVSNWJJQU1RTHBSemVHQl9HWnNwVUEtblJuaGp6VFN4b2c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOG14SXFxcWZJdmR4blloTUc0M0ZjNkJJWjlQajhUNVg3TjVleFh4cmdieFFBdXRMaUxmN3NTOU5hUlR0QWdoNnJuTnJ4clZRampobVU4amZkU0Z3VHMwRjdzSDZGWHAxX2ppZFBFM2NFOUZfT0Jmck82Wk55TmRlVjVSRGdjWG1rQmJtTHJNNUoyZw?oc=5"
+    },
+    {
+      "headline": "Explainer: Why is the Bab el-Mandeb Strait so important?",
+      "summary": "Explainer: Why is the Bab el-Mandeb Strait so important? &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-10T13:11:59.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDdhUHRWTzdDb3pHSHlPa3phYjNsWVc4V1FaUmprbUZIeFZsN1M5SEE1bGRUbHhCU0xYcDdtVWdvOGd6bE9xVE05ek5FbzQ2RDAyUzBCdWV4VHNsUVllWWpMOW84WmYyc0g1UUVQNVJPSXZTeHcxNlNzSzFheVRlV29qX1hYUTkxYkNzYnhiNTFFeGFHc3FMam5R?oc=5"
     },
     {
       "headline": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
@@ -32,6 +65,17 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHNrYzNHZmZuSE9lVTJZT1kyRHFpYlVPc3NFUEg3WmNNSkV0eWhMMVVfdG55MlVvRjZ5cGkySjN0V2o2VjBFdTFJcU5xNFBWV3o3QTN5ZkpUU1pHWkNQOGd3WnBxQmxXZTVGNHN1OUU2NWlsQnBVelF6SGlwODMxUlBlcGZZMXFMb2JZMEMxWGI3QXVlNnNJY0w1MEVETnRwT0ZUVXVNY0NrWWZTdC1MNjhDNmhTMVg3REE?oc=5"
+    },
+    {
+      "headline": "EXCLUSIVE: EU countries to seek import curbs on chemicals, plastics, sources say",
+      "summary": "EXCLUSIVE: EU countries to seek import curbs on chemicals, plastics, sources say &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-10T11:56:50.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2RENzlWLV9HRWM5eHpVY2l4YjZEal9MMWdvS2o0ajVhdUJKTThlc2NQb2RYS1E2UnBtS0dLVS1USlFTaEZ4NHltNjBzNUxDLWplV1FET1FCN1UyZi1KZHNEbXJ2TGx5NjZLQ2x3NFFZeEhWYThNZFRndFNlSTRwcks1aUpqUEhsTEJpQXI3TFJwekdrMDdCTkJ3aW1WcWpiRV9SYkNreVdZQm5ySnc?oc=5"
     },
     {
       "headline": "India hosts BRICS summit as Iran war tests bloc unity",
@@ -54,50 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTNlSTZMdGdiT2hpdkhzVkpTSDVJS3FOVko5eGFJdHJvMzROSVltQVNCbHZYQXhDSERkdDQ2bXFVdlgzOG5lWlZmMW0wckt6aWpKb29JTm12Ny1VaWtuQ1prNjZkTi10aUFFcjF3SmxqR3VKV3V3ZnJwXzVPR2ZXWkIzR1Z3MEpuY2h4c1BnbTNXVEFqWm1fcXBicw?oc=5"
-    },
-    {
-      "headline": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran",
-      "summary": "Iran suspends freight charge on foreign vessels carrying energy products to or from Iran &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-10T11:18:49.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXZnOXJwQTRsaF9qbG1MR25Ld3EzOW56Yk95anF6NFJuRlhzc05YZ0V3VFB5endhR1NIUVI0MWVPSUtVbUwtb1lPV1AzZXFBY2hfZERIb1QyYm5yT3JWY3oya09CdFVsVm1yRUpnUDAxOFRpaWVvekRsR205cFZRNFQ2WFFrb3pnaU02Q05yaEFSN2JKYXRhQlBhdDRJVEhicEd0djU3VHVDWElLUUJxcl8wcWVzTldDbHcyM2xVd3ZYUjZuWldEUg?oc=5"
-    },
-    {
-      "headline": "COMMENTARY: Morning Bid: Forever war?",
-      "summary": "COMMENTARY: Morning Bid: Forever war? &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-10T10:46:08.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT01hdkt1ZTdRak9oZy1PVk4yNnFKc3NTejJ4Z0lNT3lNY0Z6RHdJazhFRjdqVUtuMDdYUHZVRTNRdFZvWWl6WXpUVERCUU5QakJMVFVGZGNJV3dFVkNBdEJRWWZCTllqYTV1RThzWW5mc0tjLVRDSWZRWGRKVXEyTDBpN0NHQXdGNG12Wks3U0oyMTA5amNJ?oc=5"
-    },
-    {
-      "headline": "White House copper tariff plan stalls amid affordability concerns, sources say",
-      "summary": "White House copper tariff plan stalls amid affordability concerns, sources say &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-10T10:18:42.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5"
-    },
-    {
-      "headline": "Pakistan says no military response discussed under Mecca pact over Houthi attacks on Saudi Arabia",
-      "summary": "Pakistan says no military response discussed under Mecca pact over Houthi attacks on Saudi Arabia &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-10T09:15:10.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRW1PVVFpV1gtVzExVGJtc3V2Vko1OS1aQlFsb0pRam82WER6dXQ5anVPSTRzTmVrSmNUSmFncENWYVZ5WU1CLTc0OVp4RGY4R0cyU29lZ0QxdzFCVWc2UVRwS0Fpbk5VcDQ3cC0wTW4yZktsdk55blg0VFRCZWg4S0RpVDFic0J0Ui1zbU83MG9ZS3RKX19QRkxfbE5sZ013dms1Y3UybVdJbVhuanc1V01QUlZhWHpQR0NPUGEwdU15Q0UyeGc?oc=5"
     }
   ]
 }
