@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-11T13:23:32.145Z",
+    "generatedAt": "2026-09-11T17:38:15.361Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,64 +12,94 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI ends $1-a-year federal deal, offers 50% discount on AI - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-09-11T12:59:46.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI ends $1-a-year federal deal, offers 50% discount on AI &nbsp;&nbsp; qz.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzZFaURaVEVDUDF4TTNsTnF4dHpJamlMQ2lMaXJTbms5bDJxeXdhRTk4MVpRVXI5WWhtd1JXdGxfNG5NSWJuVVZRbjhfbkJXd1RubTlqWkhySURjWGhUbkpTQ2hLd2ZHcUo0S1V2SllyYVhRMnZMOVcwYjJ4MTZCcHZmbkpzSGFN?oc=5"
-    },
-    {
-      "headline": "OpenAI launches managed Agents API to simplify enterprise AI agent development - InfoWorld",
-      "source": "InfoWorld",
-      "timestamp": "2026-09-11T12:23:49.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "OpenAI launches managed Agents API to simplify enterprise AI agent development &nbsp;&nbsp; InfoWorld",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3hlSGlCVWx4TGM3Nllyd2xkVUhkdmtFYk1IVW9GYVBSUmxzenhjTU9YcUctQkk5R1YybVphSTB1LVNBa3ZBdExSR1IzTnAyLWJoaWJ0VzN2MGc2OU5YVDNTT001NUFfQ25IN0VxeDlnM092TkctU1Z1ajlKZzZLX3R3ajI0dWxkLXV1WVRDcks3eF9nWkZkRzhIaFpFNGhBTWd2aXBTVXBtWGg0T2M5UmM5ZzdObTFwMHFhMWFqMklhakU?oc=5"
-    },
-    {
-      "headline": "Anthropic Says Yemen Group Used Claude in Missile Development - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-09-11T11:00:54.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic Says Yemen Group Used Claude in Missile Development &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXhtUUpua3FMcFpYZmN0UHdoZjhoa1p2TS0wSXRoVjYxNDFJRTkyRDJQWWx3TDZDN3d0dnIwNnZ1RHg3Y29fNmFDWUMwZVZXdHdOYVp3eVhtZ1UtaHRTWVFHeGtqcktOUlNKSHZ3VHIzMlVCNl9kNlN3R0NXS0xKb0JxSVhEZVJLMTNNVzBmaEszV19penQ4QmpRc0Q0dzhDakdVTzFCQXJ6Zm84Vk5tNF93?oc=5"
-    },
-    {
-      "headline": "Meta's effort to harvest employee data sparked a massive internal revolt - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-09-11T09:00:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's effort to harvest employee data sparked a massive internal revolt &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmRVMFZleENKYTFCbWdkTWU1amJfa29qRDRlZHlhVS1zQ2xXdmFsVGJkMUVMX3MxRm5iVnd2YVFKMUp1WG1jNmVxUUZOZzVKbXhjeFJHU25KU0VMTzFfU1I4QVJqazA2TFRpbTVkUUUtcHlGdkRpQnlUT1libTF2Z19neTk0TnV2eGo5TlhCMDVLV1ZhWElYSmt1UmdXUQ?oc=5"
-    },
-    {
-      "headline": "Anthropic blocks possible attempt to use AI to make biological weapons - BBC",
-      "source": "BBC",
-      "timestamp": "2026-09-11T08:15:25.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Anthropic blocks possible attempt to use AI to make biological weapons &nbsp;&nbsp; BBC Anthropic Says It Blocked Possible Efforts to Build Biological Weapons &nbsp;&nbsp; The New York Times Anthropic Says US Adversaries Aimed Claude at Weapons Research &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5"
-    },
-    {
-      "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
       "source": "OpenAI",
-      "timestamp": "2026-09-11T08:11:58.000Z",
+      "timestamp": "2026-09-11T17:31:24.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI",
+      "summary": "GPT-6 Astra: The next generation in intelligence for work &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+    },
+    {
+      "headline": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-09-11T16:57:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiNlNtd0NTWldpQlVtanFiWk5yLUx0VDEwVElRTTRSTDBfTHpnRXY5Smh2V2VvY01GeFBMemtidEMtQTdtdmR6U183WVMyYjQ0cEdWUnpsNjJxUVVWUFVORTRJMXprVTlQM25XaEFEdw?oc=5"
+    },
+    {
+      "headline": "The AI Token Boom Is Hiding a Bigger Story on Palantir - I/O Fund",
+      "source": "I/O Fund",
+      "timestamp": "2026-09-11T16:55:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The AI Token Boom Is Hiding a Bigger Story on Palantir &nbsp;&nbsp; I/O Fund",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VVEdiWVdRSUR5TndzVVFRMG96MEhtbzh6NzRMODY5TlZleEtDYmE3eHBFN0k5NVBMZWFQYzN3V3RWNEtIM0JrbXFMS21iVkJLRUx2bUdOQWFvVjRUVGx1WGI2TE9HWUFYRXB5MnZqQXhObWN0TUJsN3VB?oc=5"
+    },
+    {
+      "headline": "Parents loved sharing photos of their kids online. Then came AI. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-09-11T16:16:09.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Parents loved sharing photos of their kids online. Then came AI. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5"
+    },
+    {
+      "headline": "Anthropic Disrupts Iran’s Use Of Claude To Spread Propaganda, Spy On Dissidents - rferl.org",
+      "source": "rferl.org",
+      "timestamp": "2026-09-11T15:41:07.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic Disrupts Iran’s Use Of Claude To Spread Propaganda, Spy On Dissidents &nbsp;&nbsp; rferl.org",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LYnNuQ2NqUHNGeXU3WVd3dzJtUjhtbXlPcEdaQmZqd2IwTEJpTmdkREl5cXNKU0l4R0NXQUMxSVBMNGluNjdPdFFOdURNVWhoQnVMUHd0UDRzczhpdTdLY0FlVmNnUkZMZmJyWko1WmFtMjZ4U3VXcXl30gF8QVVfeXFMUHdzWWVvQXZtYjZJM2hTRE1UUjk0Qkk0RW5hVlZtN3ByWGREOGxPNHdoamV5T1JmTklOdzV4R2Q4LVhOTUNROTF0bFVFbmlrUmtYMU5waFgxcHl5dGxJUlpsTlhvUmdZTXhzLTY5dGNkWVp2UVZ1XzYtS1g2bA?oc=5"
+    },
+    {
+      "headline": "Meta says it’s changing AI suggestions after posing invasive personal questions - theverge.com",
+      "source": "theverge.com",
+      "timestamp": "2026-09-11T14:25:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions &nbsp;&nbsp; theverge.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5"
+    },
+    {
+      "headline": "Iran-linked operators used Anthropic's AI to build targeting files on U.S. warships - qz.com",
+      "source": "qz.com",
+      "timestamp": "2026-09-11T14:01:50.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Iran-linked operators used Anthropic's AI to build targeting files on U.S. warships &nbsp;&nbsp; qz.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pcW9yLTNzbzhuZmtvV0pUTHFFTDR0SGdjNGwtbUk2OExLZm4xMXota0dGaFRvbkdTWnRhZS1KbnI5dTBvMDg4V2xGVUM3cjhrQS03dDdOSFo0eTJsS0NxRDduVlN6dXhEaUEtZlRBTjQ?oc=5"
+    },
+    {
+      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-09-11T13:49:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5"
+    },
+    {
+      "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-11T10:58:24.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5"
     },
     {
       "headline": "Hancock Iron Ore scales Azure AI to extend rail lifespan 10% - Microsoft",
@@ -80,100 +110,70 @@
       "summary": "Hancock Iron Ore scales Azure AI to extend rail lifespan 10% &nbsp;&nbsp; Microsoft",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHJpZTg1akNyd1JvYzFaWmZZNVg4cEw3bUI3Y1Q0eS1hU1ROaVdsaUZnNHhiMXZlX2NrY1lPWXRIcF9ad0lwd0FkSlExYTJVb25nOXY0ekVtV0l6ZEQtN2JEdEpFTnBPa0U4QU5ONE12YzBMS2tnSkk4U0d3OEMxQVFmT0E2QU5HbHI4NnZ3?oc=5"
-    },
-    {
-      "headline": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram - SFGATE",
-      "source": "SFGATE",
-      "timestamp": "2026-09-10T18:39:19.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "'F—k me': The Meta AI glasses-shot kitchen video that broke Instagram &nbsp;&nbsp; SFGATE",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS1gyclNKSDNqOWx1VE1DR2xoaUZyVV8zTTVxOGRPbGFRaS1WMEY2cFJDT0NVVFQ2U19BS1RqaElrYTJqODFaUUJjOUY3MlVKWXdzcGJ5OEJEb3J5NFdNUm9WQk1ndExHOEU1VkltVXJzdEs5ZExkRw?oc=5"
-    },
-    {
-      "headline": "Detecting and countering misuse of AI: September 2026 - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-09-10T17:10:27.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Detecting and countering misuse of AI: September 2026 &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5"
-    },
-    {
-      "headline": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure - TipRanks",
-      "source": "TipRanks",
-      "timestamp": "2026-09-10T16:11:05.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "NAGRAVISION Brings Agentic AI to Streaming Security with NAGRA Venturi on Microsoft Azure &nbsp;&nbsp; TipRanks",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3hIWl9ndFVFOTZ5bzBROHcwVm9sa3N1dmFEZFBlZFpBM0g3NWRqd2R1Q040bzc2T2RGOHlIRFFuNG5yNHgxbjczbVpqdXNHREM5NF9JSEtHRWdKSEJNVTJINElEQzlHVHJadlJwanh2N0E4S0IwYmdSZFo4Mk1MZDZBclpGN3ZRTGJBSXl6X08xeUEyMzhMTXhCX3hwNUFROFhQTHB0SG0xbm4tX0lMekdhWl9CUHFLQW5wX0tYTDYwSkNjaFZEQU9OYWRqTENZOTJyT1RBcmw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI ends $1-a-year federal deal, offers 50% discount on AI - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-09-11T12:59:46.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzZFaURaVEVDUDF4TTNsTnF4dHpJamlMQ2lMaXJTbms5bDJxeXdhRTk4MVpRVXI5WWhtd1JXdGxfNG5NSWJuVVZRbjhfbkJXd1RubTlqWkhySURjWGhUbkpTQ2hLd2ZHcUo0S1V2SllyYVhRMnZMOVcwYjJ4MTZCcHZmbkpzSGFN?oc=5",
-        "summary": "OpenAI ends $1-a-year federal deal, offers 50% discount on AI &nbsp;&nbsp; qz.com"
-      },
-      {
-        "headline": "OpenAI launches managed Agents API to simplify enterprise AI agent development - InfoWorld",
-        "source": "InfoWorld",
-        "timestamp": "2026-09-11T12:23:49.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3hlSGlCVWx4TGM3Nllyd2xkVUhkdmtFYk1IVW9GYVBSUmxzenhjTU9YcUctQkk5R1YybVphSTB1LVNBa3ZBdExSR1IzTnAyLWJoaWJ0VzN2MGc2OU5YVDNTT001NUFfQ25IN0VxeDlnM092TkctU1Z1ajlKZzZLX3R3ajI0dWxkLXV1WVRDcks3eF9nWkZkRzhIaFpFNGhBTWd2aXBTVXBtWGg0T2M5UmM5ZzdObTFwMHFhMWFqMklhakU?oc=5",
-        "summary": "OpenAI launches managed Agents API to simplify enterprise AI agent development &nbsp;&nbsp; InfoWorld"
-      },
-      {
-        "headline": "Anthropic Says Yemen Group Used Claude in Missile Development - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-11T11:00:54.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXhtUUpua3FMcFpYZmN0UHdoZjhoa1p2TS0wSXRoVjYxNDFJRTkyRDJQWWx3TDZDN3d0dnIwNnZ1RHg3Y29fNmFDWUMwZVZXdHdOYVp3eVhtZ1UtaHRTWVFHeGtqcktOUlNKSHZ3VHIzMlVCNl9kNlN3R0NXS0xKb0JxSVhEZVJLMTNNVzBmaEszV19penQ4QmpRc0Q0dzhDakdVTzFCQXJ6Zm84Vk5tNF93?oc=5",
-        "summary": "Anthropic Says Yemen Group Used Claude in Missile Development &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Meta's effort to harvest employee data sparked a massive internal revolt - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-09-11T09:00:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmRVMFZleENKYTFCbWdkTWU1amJfa29qRDRlZHlhVS1zQ2xXdmFsVGJkMUVMX3MxRm5iVnd2YVFKMUp1WG1jNmVxUUZOZzVKbXhjeFJHU25KU0VMTzFfU1I4QVJqazA2TFRpbTVkUUUtcHlGdkRpQnlUT1libTF2Z19neTk0TnV2eGo5TlhCMDVLV1ZhWElYSmt1UmdXUQ?oc=5",
-        "summary": "Meta's effort to harvest employee data sparked a massive internal revolt &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Anthropic blocks possible attempt to use AI to make biological weapons - BBC",
-        "source": "BBC",
-        "timestamp": "2026-09-11T08:15:25.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
-        "summary": "Anthropic blocks possible attempt to use AI to make biological weapons &nbsp;&nbsp; BBC Anthropic Says It Blocked Possible Efforts to Build Biological Weapons &nbsp;&nbsp; The New York Times Anthropic Says US Adversaries Aimed Claude at Weapons Research &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+        "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
         "source": "OpenAI",
-        "timestamp": "2026-09-11T08:11:58.000Z",
+        "timestamp": "2026-09-11T17:31:24.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-        "summary": "GPT-6 Astra: A new generation of intelligence &nbsp;&nbsp; OpenAI"
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+        "summary": "GPT-6 Astra: The next generation in intelligence for work &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-09-11T16:57:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiNlNtd0NTWldpQlVtanFiWk5yLUx0VDEwVElRTTRSTDBfTHpnRXY5Smh2V2VvY01GeFBMemtidEMtQTdtdmR6U183WVMyYjQ0cEdWUnpsNjJxUVVWUFVORTRJMXprVTlQM25XaEFEdw?oc=5",
+        "summary": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "The AI Token Boom Is Hiding a Bigger Story on Palantir - I/O Fund",
+        "source": "I/O Fund",
+        "timestamp": "2026-09-11T16:55:36.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VVEdiWVdRSUR5TndzVVFRMG96MEhtbzh6NzRMODY5TlZleEtDYmE3eHBFN0k5NVBMZWFQYzN3V3RWNEtIM0JrbXFMS21iVkJLRUx2bUdOQWFvVjRUVGx1WGI2TE9HWUFYRXB5MnZqQXhObWN0TUJsN3VB?oc=5",
+        "summary": "The AI Token Boom Is Hiding a Bigger Story on Palantir &nbsp;&nbsp; I/O Fund"
+      },
+      {
+        "headline": "Parents loved sharing photos of their kids online. Then came AI. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-09-11T16:16:09.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
+        "summary": "Parents loved sharing photos of their kids online. Then came AI. &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Anthropic Disrupts Iran’s Use Of Claude To Spread Propaganda, Spy On Dissidents - rferl.org",
+        "source": "rferl.org",
+        "timestamp": "2026-09-11T15:41:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LYnNuQ2NqUHNGeXU3WVd3dzJtUjhtbXlPcEdaQmZqd2IwTEJpTmdkREl5cXNKU0l4R0NXQUMxSVBMNGluNjdPdFFOdURNVWhoQnVMUHd0UDRzczhpdTdLY0FlVmNnUkZMZmJyWko1WmFtMjZ4U3VXcXl30gF8QVVfeXFMUHdzWWVvQXZtYjZJM2hTRE1UUjk0Qkk0RW5hVlZtN3ByWGREOGxPNHdoamV5T1JmTklOdzV4R2Q4LVhOTUNROTF0bFVFbmlrUmtYMU5waFgxcHl5dGxJUlpsTlhvUmdZTXhzLTY5dGNkWVp2UVZ1XzYtS1g2bA?oc=5",
+        "summary": "Anthropic Disrupts Iran’s Use Of Claude To Spread Propaganda, Spy On Dissidents &nbsp;&nbsp; rferl.org"
+      },
+      {
+        "headline": "Meta says it’s changing AI suggestions after posing invasive personal questions - theverge.com",
+        "source": "theverge.com",
+        "timestamp": "2026-09-11T14:25:21.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5",
+        "summary": "Meta says it’s changing AI suggestions after posing invasive personal questions &nbsp;&nbsp; theverge.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
