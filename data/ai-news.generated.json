@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T12:44:19.108Z",
+    "generatedAt": "2026-09-12T16:05:59.641Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-12T12:37:56.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic report: 5 ways Claude was exploited for war, spying and repression &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5"
-    },
-    {
-      "headline": "As AI fears grow, lawmakers are racing to turn alarm into action - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-09-12T12:34:20.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "As AI fears grow, lawmakers are racing to turn alarm into action &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWJUeHV4a2xYQW5OWldpMmtheWZOMEdYbjVFT3R5RXV6TmYyb2FNRVJpZEFjS3gycGlzZWYyYzcxZWFkdWVBOVRuM0FXUFIzZ202bFdEalJpejN5WFhWMFdEbHM5c290SDJieE5EZVhsajhjcW9nSUdiLW5TQjd1ck9QbXZpRHdMT2x2Q0pnZm1zcTcwSHg0aXB4X0UyQ1RadTRWODJaZzVrMm10alE?oc=5"
-    },
-    {
-      "headline": "OpenAI just wants to win - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-09-12T11:00:00.000Z",
+      "headline": "Anthropic CEO seeks immediate slowdown on AI - politico.com",
+      "source": "politico.com",
+      "timestamp": "2026-09-12T15:58:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI just wants to win &nbsp;&nbsp; The Verge",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkZtbTBBYXpXdGVCWUpNTHlRbmowMnAzckJRVzlCdUl5MzNwbXA1dl9VOGttWWRYcmRxak1udGo3UGlOdVNUcXpvdzBUOE40TVRPb216bzFabFJKQlkydk1hRElNcHFXREVhendha25ieWpsaUxyUkVsY0J0X0RiOER3Q2g3NnJINGJyOWg1OFNMbTNXZnFLVVZsVUxCUG03MmhBMHE4cjU0YjJBWnFOLUQ4ZEtTVVQybGRIUmdB?oc=5"
+      "summary": "Anthropic CEO seeks immediate slowdown on AI &nbsp;&nbsp; politico.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXU5VmpWekpBOWZuZU00SzJuVVN0cHBfWjRhX2pVWVFIYjhBS1JSamNjLXhLeDk3NVd4c093a3FWTDNYUkI5LVdmSmFKcjJsX051QWhwejI0SGZsQ0RMNjNXTUNDRnFNVXhUR2YtX0VHX1VmdjhpRGUwZllWdzlnWFplSkotb3o1cTZlVS01YXE2OEp1cEtSdUdVZzJJdTdteVdfajQ4Y2NNY3Y1Tm1aa1k0Tmk3RjN0YXNBdGI3aElINDQ?oc=5"
     },
     {
-      "headline": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety - Fortune",
+      "headline": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks - Fortune",
       "source": "Fortune",
-      "timestamp": "2026-09-12T10:00:00.000Z",
+      "timestamp": "2026-09-12T15:00:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2FVbkpubTVNNFhFQmd0V3o1eTN3RVZGZk9vcXdGNE1kWWlyRVJtRlNPb0pIVnJBaXhjeU9nbG9jcFN3MGxVX2lJX2pfOVQ0ZFFIMHJocEt2VmgyNy1wdnd6MDdkaGtqT3NOWnVGM3FUY1RrMXRZN2VuQUx6Yll4bkItWExwRUVYWEV4TGJGTFhSTWVkVkd0aE16S2tpS3VWVm85SjlfQXV6ZW8?oc=5"
+    },
+    {
+      "headline": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-09-12T14:43:35.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWk5tUENzd0NoQi00aldpa0wzR2U0UHhEeHNlZzA2ejBTaFZtYUttY3A4VkJuc3Fmeks4MHpDNzB2N0VWd2x5RnFIMmNhR0pmeU8xMXJPM0FIY1NnVkhYZzFzN2N1OWdrUnoxNllmTTlXbXFYWlBITGYyNHJoSElvdjVZTnU3NDFTOWEwYXFjQkhPbFRaQm9JSjRQVFhHUQ?oc=5"
+    },
+    {
+      "headline": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns | CNN Business - cnn.com",
+      "source": "cnn.com",
+      "timestamp": "2026-09-12T14:17:49.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUR5MFJXeTlhc2FzOFAzR25NbzRqRlVRZG5HdnpDajNpbW83NG82eDMyNkl4SWhzQ0hXSG9MeldQSmZhYndJcHp3RUxmYk1USUVqVlhpWDROTDNaNC1IaFdtUnN5ZnBzUGFsOWNiOGJfZ0Zub3o5bTEyQm51MTg0Wi1XR19nMVBLUS1LcERlZWZTaFNzampEU1hVTlYzN2VMbGpFQW94cGxPeXpqYkUteXVMY2s?oc=5"
+      "summary": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns | CNN Business &nbsp;&nbsp; cnn.com Anthropic CEO calls for immediate slowdown in AI development &nbsp;&nbsp; axios.com Anthropic boss Dario Amodei calls for AI development to slow down &nbsp;&nbsp; BBC Inside the Discussions at AI Companies Over a Superintelligence Doomsday &nbsp;&nbsp; The New York Times Anthropic CEO calls for the AI industry to slow down &nbsp;&nbsp; The Washington Post Why are the people building the most powerful AI so worried about what it could do? &nbsp;&nbsp; NPR Anthropic CEO Says It’s Time to Slow Pace of Improving AI Models &nbsp;&nbsp; Bloomberg.com Anthropic CEO urges AI companies to slow model development amid fears over misuse &nbsp;&nbsp; Reuters Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWkVaSWZ5cFk1S1hPOHJxeHU3b1ptZzgzYS1JMHZhczhjN2dXaDR2WnpJS0drTzRQekpPSmFGRTVPQVl2ZkJDbVVINVM3dXk1UjFnMzlkdTM1T0lFcHRWa1R4QjlOUU5GVHc?oc=5"
     },
     {
-      "headline": "Inside the Snowballing Conversations at A.I. Companies About a Doomsday - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-12T09:03:01.000Z",
+      "headline": "We Must Pace the Frontier - darioamodei.com",
+      "source": "darioamodei.com",
+      "timestamp": "2026-09-12T14:15:02.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Inside the Snowballing Conversations at A.I. Companies About a Doomsday &nbsp;&nbsp; The New York Times",
+      "summary": "We Must Pace the Frontier &nbsp;&nbsp; darioamodei.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5"
+    },
+    {
+      "headline": "How To Get Started With Meta's New AI Agent, Muse - Engadget",
+      "source": "Engadget",
+      "timestamp": "2026-09-12T14:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "How To Get Started With Meta's New AI Agent, Muse &nbsp;&nbsp; Engadget Meta’s AI agent Muse is now the No. 2 app in the US &nbsp;&nbsp; TechCrunch Meta’s Muse AI works and creeps me out &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lUVE9KRmtVQlEzWlNhWGJWYVl6U09RVnV2VmNaZkw4WXAwTDEwSFR2WTVZMDZzMEVQQTg2QktTcHZZX2NrcGJVWnotMWFqY2JKMnZQMkRlU2NTREZXbXN4cXlTaWVGVEN3NHRiMnZNdHZSMF9OZjFzZGVIRUZlbHRtV1N0cUtJYkE?oc=5"
+    },
+    {
+      "headline": "Broadcom VCF 9.1.1 Rivals AWS AI Cloud at 2.6x Scale [2026] - shattered.io",
+      "source": "shattered.io",
+      "timestamp": "2026-09-12T10:07:57.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Broadcom VCF 9.1.1 Rivals AWS AI Cloud at 2.6x Scale [2026] &nbsp;&nbsp; shattered.io",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11djlxWVMtT1VnQVFXVGtZX0FJSHVBcDEyTHdxTUU3amdObjVpSnNsejZZSUNPZi0ySTVSN0MzZXN1RzhoWDVGeEE1amRFanVQOFRBUVlxOGhYZDN1NS1qNkpDb2h2T2xqaUdyZU5aMA?oc=5"
     },
     {
       "headline": "Why are the people building the most powerful AI so worried about what it could do? - NPR",
@@ -68,7 +88,7 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Why are the people building the most powerful AI so worried about what it could do? &nbsp;&nbsp; NPR",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2dEZVQ3TDM1QTVfdTlRQ09QSWhCWnN1ODIwQzdEUTJxTEpGLVI4Qlp0WnVfaTdEdHEyNHdQcWNoNS1FajdpaVU1WWtPcTZ1ZXJWYXBsRzlrZi1jaWZNdEY0S1MtZmQxSVRtdlZHOFV6aW54TUJHWEJDOExGY2l1V25LYmYtNUlic1B4MFNrUklaaVk?oc=5"
     },
     {
@@ -82,99 +102,79 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX3VrU2JCYnc1cEgwbG94d3M4aFRqcDNKWlFwTVFBNHNlNkFWbVU0Z0l5eWx2Y2RlNDVrVEZhNG0tWVFvZ242Tm10RlByNHV5ZEhCSVg0b3lzZUQ4aDk2Zm1wZFUxb0Z6bldlbXE1akp6WWR6LWNWLWlIb3Zob1Rra2FxRWE3YVFiYng2V0h6VjVFbGhLU280aTBWaV9Fb1ZCTjhQd1hONXJfRjlMYmdzU0Vjdi10d2ZmSFQ0Z2xZRzUzYnd6OF9wUERGZnc2ZFhQdkk2M09iVDUycEl2TXpJOElWb2dqbmk2RGV6WVhkUVZSME85NEVRMzFUZklITDZWUmc?oc=5"
     },
     {
-      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-09-11T23:56:00.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5"
-    },
-    {
-      "headline": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-09-11T18:59:00.000Z",
+      "headline": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-09-11T22:25:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnFsM29paW4zazFZMUV1UGowNkJ1R1RnelFqUU5DMndtc3lhTnZzengwdHBJeV96WmZ3bk16R0pjLXNEdW1mcmt6TWRrU3JqWWpfempKb2pTWUd1TUJRWnBlTWVOd2JmZ09DRWhlMUJSOWpiSzlNM1plZHVYRTFpM1R6bk9BZTVaa3pIZEh2aU4tVmJ5RTk4X3pVNGRZUQ?oc=5"
-    },
-    {
-      "headline": "Former Google DeepMind research scientist Alex Turner: Concerned with extinction risk on AI - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T18:56:30.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Former Google DeepMind research scientist Alex Turner: Concerned with extinction risk on AI &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdktkR29RTkhiNkc2MlRnUUlRZDNwazBHbk5VYzRVd24yYVFKdXFxbWhMQ3c0V2djMkpSM0ZsVDU1NXZTLVNxam1EUjhaRm5JN0xDbTBTNWY3VTBIbkxXZGRnQm1XcnJOZEpjVFplaU5WUDY2TGJXeEIxZnlvRjV6WEJGLUljMk52Umd1eU55X1h2VFpuc3JYM3lOSGJvMGlBUDVHTEJORHFiSDBDZDMtYTY0UTc0RDRYTk9zN09EWjVIVzloSUJ5S0JoSlVkUQ?oc=5"
+      "category": "models",
+      "summary": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents &nbsp;&nbsp; WSJ",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-12T12:37:56.000Z",
+        "headline": "Anthropic CEO seeks immediate slowdown on AI - politico.com",
+        "source": "politico.com",
+        "timestamp": "2026-09-12T15:58:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
-        "summary": "Anthropic report: 5 ways Claude was exploited for war, spying and repression &nbsp;&nbsp; Axios"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXU5VmpWekpBOWZuZU00SzJuVVN0cHBfWjRhX2pVWVFIYjhBS1JSamNjLXhLeDk3NVd4c093a3FWTDNYUkI5LVdmSmFKcjJsX051QWhwejI0SGZsQ0RMNjNXTUNDRnFNVXhUR2YtX0VHX1VmdjhpRGUwZllWdzlnWFplSkotb3o1cTZlVS01YXE2OEp1cEtSdUdVZzJJdTdteVdfajQ4Y2NNY3Y1Tm1aa1k0Tmk3RjN0YXNBdGI3aElINDQ?oc=5",
+        "summary": "Anthropic CEO seeks immediate slowdown on AI &nbsp;&nbsp; politico.com"
       },
       {
-        "headline": "As AI fears grow, lawmakers are racing to turn alarm into action - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-09-12T12:34:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWJUeHV4a2xYQW5OWldpMmtheWZOMEdYbjVFT3R5RXV6TmYyb2FNRVJpZEFjS3gycGlzZWYyYzcxZWFkdWVBOVRuM0FXUFIzZ202bFdEalJpejN5WFhWMFdEbHM5c290SDJieE5EZVhsajhjcW9nSUdiLW5TQjd1ck9QbXZpRHdMT2x2Q0pnZm1zcTcwSHg0aXB4X0UyQ1RadTRWODJaZzVrMm10alE?oc=5",
-        "summary": "As AI fears grow, lawmakers are racing to turn alarm into action &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "OpenAI just wants to win - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-09-12T11:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkZtbTBBYXpXdGVCWUpNTHlRbmowMnAzckJRVzlCdUl5MzNwbXA1dl9VOGttWWRYcmRxak1udGo3UGlOdVNUcXpvdzBUOE40TVRPb216bzFabFJKQlkydk1hRElNcHFXREVhendha25ieWpsaUxyUkVsY0J0X0RiOER3Q2g3NnJINGJyOWg1OFNMbTNXZnFLVVZsVUxCUG03MmhBMHE4cjU0YjJBWnFOLUQ4ZEtTVVQybGRIUmdB?oc=5",
-        "summary": "OpenAI just wants to win &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety - Fortune",
+        "headline": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks - Fortune",
         "source": "Fortune",
-        "timestamp": "2026-09-12T10:00:00.000Z",
+        "timestamp": "2026-09-12T15:00:00.000Z",
         "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2FVbkpubTVNNFhFQmd0V3o1eTN3RVZGZk9vcXdGNE1kWWlyRVJtRlNPb0pIVnJBaXhjeU9nbG9jcFN3MGxVX2lJX2pfOVQ0ZFFIMHJocEt2VmgyNy1wdnd6MDdkaGtqT3NOWnVGM3FUY1RrMXRZN2VuQUx6Yll4bkItWExwRUVYWEV4TGJGTFhSTWVkVkd0aE16S2tpS3VWVm85SjlfQXV6ZW8?oc=5",
+        "summary": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-09-12T14:43:35.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUR5MFJXeTlhc2FzOFAzR25NbzRqRlVRZG5HdnpDajNpbW83NG82eDMyNkl4SWhzQ0hXSG9MeldQSmZhYndJcHp3RUxmYk1USUVqVlhpWDROTDNaNC1IaFdtUnN5ZnBzUGFsOWNiOGJfZ0Zub3o5bTEyQm51MTg0Wi1XR19nMVBLUS1LcERlZWZTaFNzampEU1hVTlYzN2VMbGpFQW94cGxPeXpqYkUteXVMY2s?oc=5",
-        "summary": "After a decade of failed bills and three years of resignations, Washington finally discovers it cares about AI safety &nbsp;&nbsp; Fortune"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWk5tUENzd0NoQi00aldpa0wzR2U0UHhEeHNlZzA2ejBTaFZtYUttY3A4VkJuc3Fmeks4MHpDNzB2N0VWd2x5RnFIMmNhR0pmeU8xMXJPM0FIY1NnVkhYZzFzN2N1OWdrUnoxNllmTTlXbXFYWlBITGYyNHJoSElvdjVZTnU3NDFTOWEwYXFjQkhPbFRaQm9JSjRQVFhHUQ?oc=5",
+        "summary": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Inside the Snowballing Conversations at A.I. Companies About a Doomsday - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-12T09:03:01.000Z",
-        "impact": "LOW",
+        "headline": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns | CNN Business - cnn.com",
+        "source": "cnn.com",
+        "timestamp": "2026-09-12T14:17:49.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
-        "summary": "Inside the Snowballing Conversations at A.I. Companies About a Doomsday &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWkVaSWZ5cFk1S1hPOHJxeHU3b1ptZzgzYS1JMHZhczhjN2dXaDR2WnpJS0drTzRQekpPSmFGRTVPQVl2ZkJDbVVINVM3dXk1UjFnMzlkdTM1T0lFcHRWa1R4QjlOUU5GVHc?oc=5",
+        "summary": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns | CNN Business &nbsp;&nbsp; cnn.com Anthropic CEO calls for immediate slowdown in AI development &nbsp;&nbsp; axios.com Anthropic boss Dario Amodei calls for AI development to slow down &nbsp;&nbsp; BBC Inside the Discussions at AI Companies Over a Superintelligence Doomsday &nbsp;&nbsp; The New York Times Anthropic CEO calls for the AI industry to slow down &nbsp;&nbsp; The Washington Post Why are the people building the most powerful AI so worried about what it could do? &nbsp;&nbsp; NPR Anthropic CEO Says It’s Time to Slow Pace of Improving AI Models &nbsp;&nbsp; Bloomberg.com Anthropic CEO urges AI companies to slow model development amid fears over misuse &nbsp;&nbsp; Reuters Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Why are the people building the most powerful AI so worried about what it could do? - NPR",
-        "source": "NPR",
-        "timestamp": "2026-09-12T09:00:00.000Z",
+        "headline": "We Must Pace the Frontier - darioamodei.com",
+        "source": "darioamodei.com",
+        "timestamp": "2026-09-12T14:15:02.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2dEZVQ3TDM1QTVfdTlRQ09QSWhCWnN1ODIwQzdEUTJxTEpGLVI4Qlp0WnVfaTdEdHEyNHdQcWNoNS1FajdpaVU1WWtPcTZ1ZXJWYXBsRzlrZi1jaWZNdEY0S1MtZmQxSVRtdlZHOFV6aW54TUJHWEJDOExGY2l1V25LYmYtNUlic1B4MFNrUklaaVk?oc=5",
-        "summary": "Why are the people building the most powerful AI so worried about what it could do? &nbsp;&nbsp; NPR"
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+        "summary": "We Must Pace the Frontier &nbsp;&nbsp; darioamodei.com"
+      },
+      {
+        "headline": "How To Get Started With Meta's New AI Agent, Muse - Engadget",
+        "source": "Engadget",
+        "timestamp": "2026-09-12T14:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lUVE9KRmtVQlEzWlNhWGJWYVl6U09RVnV2VmNaZkw4WXAwTDEwSFR2WTVZMDZzMEVQQTg2QktTcHZZX2NrcGJVWnotMWFqY2JKMnZQMkRlU2NTREZXbXN4cXlTaWVGVEN3NHRiMnZNdHZSMF9OZjFzZGVIRUZlbHRtV1N0cUtJYkE?oc=5",
+        "summary": "How To Get Started With Meta's New AI Agent, Muse &nbsp;&nbsp; Engadget Meta’s AI agent Muse is now the No. 2 app in the US &nbsp;&nbsp; TechCrunch Meta’s Muse AI works and creeps me out &nbsp;&nbsp; The Verge"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
@@ -184,8 +184,8 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
