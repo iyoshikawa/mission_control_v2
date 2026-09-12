@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-11T23:05:16.954Z",
+    "generatedAt": "2026-09-12T03:54:43.538Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,72 +12,82 @@
   },
   "newsFeed": [
     {
-      "headline": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-09-11T22:25:00.000Z",
+      "headline": "Nvidia says AGI is here. How are China’s top AI labs catching up? - scmp.com",
+      "source": "scmp.com",
+      "timestamp": "2026-09-12T03:00:09.000Z",
       "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Nvidia says AGI is here. How are China’s top AI labs catching up? &nbsp;&nbsp; scmp.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGd1cVAxeDJLVDktY2hsVjZOV1U4YWlQVjdJVjY3ME9PaEdWeFo4WDRpb3BQZVpzbnpaMFJMWVl1NEdZNlZqa2xXbDFiODNWb3VpNFFmNFBlel9iZk1mYmNpQWdtSU15WWdlcFJ0OUZ2dTVVckxzTGdtcWhuR0xiMm53QUktZ09UTVZiRTNWQzhyMUNTek5PdkI5WW5uUVpmM3RLTnRYVWdRSV9yRndWZkg0TXBlZnh1bHg5LW1DRdIBvwFBVV95cUxNNHBaYTJvZFhUVHYzeFF1NHViNTNpZU0tUG53OEtQMzRRNGVsLVkybWZOc3IwbVNxTE83VDQwUlFoeTkySGh6Xy1lVFVDUkR5OXA2cDQzc2VKTWpGc3JodExBaHVKMEV0QkFrRjJPNEpwa3ZXeWxJNGt3Vzlxd2hIcVZ2ZDBnaUxlY0lPcEdIRkp1YWd0RDFDZENDWGp5a2tqNFVXSUIwTjJOakZLWUx5S0RNNE83eDgzZGo0RlY3TQ?oc=5"
+    },
+    {
+      "headline": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-09-12T02:17:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1pNN1E2LTdmelB4VUxzNkxvRThpTmNFc012M3lyWDBiYXc2c2VvUms2LTg2cjBqZGs0ZFJyN3pGU3doRVdkNnVzWVBFM0s3cWRtYVdHdUhtRS0wWEY3TjlBTG02V2czS2tjOVlsbkRMM0s4TV9heWo4UHh6ZFpjcW9pVlhCdXVmUnJFRWZldE5OWlVFQUFYcEhQcWUwRzdER0NKanB6SlIwLU5nSThMUTBsbDlSSk1JSkR0Y19VeHo4VEthNjZzZi1fVTU3S21FbDdRQWl3UGxXNGlMd3NEdVhB?oc=5"
+    },
+    {
+      "headline": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-09-12T01:42:43.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5"
+    },
+    {
+      "headline": "OpenAI Is Beefing With Mathematicians, Will No Longer Sponsor Caltech ‘Mathathon’ - gizmodo.com",
+      "source": "gizmodo.com",
+      "timestamp": "2026-09-12T01:05:18.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Is Beefing With Mathematicians, Will No Longer Sponsor Caltech ‘Mathathon’ &nbsp;&nbsp; gizmodo.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakNrOFEzaXp5NVdQRFlaSmZ3cHJxN2ZxdlpVT3Vaci1pdkNIdU84emcwWmpiTTNZWDJ6MWRNSm4xLTB5ZGZtdEtBaVRXZnhpMjZQUFFVV0YxR0tRbUdvRmFCU0dIYWMwaHlJbG5QODBiQU4za01wd3F1OHI1VXQ0SXBtdWpnT1lLcllRTHptWXpvT184NUkyLTA0WGRGRlFpNkZYdkJzQ0dxYUExNEE?oc=5"
+    },
+    {
+      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-09-11T23:56:00.000Z",
+      "impact": "WATCH",
       "category": "models",
-      "summary": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents &nbsp;&nbsp; WSJ",
+      "summary": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5"
     },
     {
-      "headline": "Anthropic employee quits, warns of AI dangers - WKYC",
-      "source": "WKYC",
-      "timestamp": "2026-09-11T21:12:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic employee quits, warns of AI dangers &nbsp;&nbsp; WKYC",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWprcHNnNFNDT3JPOHU4d2MzTk1hMnpiSUEtQ002S0l3azk1WDBIYWNwdXFUd0pWdVJZU2V2UmxsOC1fRWE5NnJTTHVuSUdvLWZXdXRyUE8zNmtZNFdnYkxScDJVRTNGdkNQYjVDaFAwOVIyV1ZUcEhRTl9takRiUmo0N29ReWtCUkxPZlR5WUoxVk1sazh2c1djVTRqTWRSV2VubUdXQ05HbF9tblFQLU1wcUhzeVU?oc=5"
-    },
-    {
-      "headline": "Anthropic says it blocked possible attempts to use AI to develop bioweapons - Scripps News",
-      "source": "Scripps News",
-      "timestamp": "2026-09-11T21:10:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic says it blocked possible attempts to use AI to develop bioweapons &nbsp;&nbsp; Scripps News",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckxBUE9jQ2FDZ21Za2FCODU1Nmlvc2s1VWRWZUtFS3ZOaFVKX1VLemQwZGVBSWQtcFRaejg3ckdmc19VX3lkNW9FN0tiS3hJOVNrS2lydTEyTWVCc2FPZ1ZsUzYyMUxfWi1yUUpOcXdNcDRUU2JUZXgyYUJVS05ScTRibDVZYnhJckR5SjhfOEVZcG5kR185ZWptd25lNlZiMC04TFBEZS1sRHRkd1RHeC1YTGQ2cFVnV2E0ODlaSUtMRnp3T2theVBxTFpMdXJmY3ZXWC13alo4QksyempoR3E4MXZLUQ?oc=5"
-    },
-    {
-      "headline": "OpenAI’s feud with mathematicians is only escalating - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-11T20:57:36.000Z",
-      "impact": "LOW",
+      "headline": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-11T19:25:28.000Z",
+      "impact": "HIGH",
       "category": "regulation",
-      "summary": "OpenAI’s feud with mathematicians is only escalating &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2RQUFRoamR5cXpHRmhqU01HNHE3aXgtZmdxNjZMdk9xRmFZSUJhdVczYXhUWXNsOWZuY0d4ZU1vWWJNX1FkU2pnVm52TmNrTFJjb0JuUFQ2UlFwaWszcHVZcFNQY1Q1eXVGblFLQXdJM01zaXhhUUJGeVZkRXhxVWZNUU8wR3c1cXlCdU9kTQ?oc=5"
+      "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations &nbsp;&nbsp; Reuters Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships &nbsp;&nbsp; WSJ Rebels used Anthropic’s AI bot to develop guided weapons, report says &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5"
     },
     {
-      "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-09-11T20:32:35.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "GPT-6 Astra: The next generation in intelligence for work &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
-    },
-    {
-      "headline": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
+      "headline": "A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-09-11T17:06:59.000Z",
-      "impact": "LOW",
+      "timestamp": "2026-09-11T17:21:00.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5"
+      "summary": "A former Google DeepMind safety researcher explains the frightening difference between AI and other threats like nuclear war and asteroids &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0hNcHBlSGV4cHRCVjI2WXMxdXlGVTFrU1JvQWtaNzV1M3Mya0hiYXk3bXhPbkwzUXlxczVQemQtaTE4b3ZMQnFDY2xLc2FoaERuM2hwZTEwUFRZSGFTOVRzRzFfWkljYjg2SVU0a01hNnZNdW5SRmFZYUU2TTM2Q1VmY3VKejRSQktNQTVKd0tmUDNlS2hfM1ZOSnc0RnZlMWNyQTZfUQ?oc=5"
     },
     {
-      "headline": "Where is Gemini 3.5 Pro? The case of the missing AI model. - mashable.com",
-      "source": "mashable.com",
+      "headline": "Where is Gemini 3.5 Pro? The case of the missing AI model. - Mashable",
+      "source": "Mashable",
       "timestamp": "2026-09-11T15:20:22.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Where is Gemini 3.5 Pro? The case of the missing AI model. &nbsp;&nbsp; mashable.com",
+      "summary": "Where is Gemini 3.5 Pro? The case of the missing AI model. &nbsp;&nbsp; Mashable",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2aTNiejdCUW45NDE1Vmp5OWt2VHptYnA5dnlYUHdRczh4Y0lPLVBwV0tyeFhjOXlkN2FqTWFESzFnVVQ1aGVnRWFycDZDSy0xeVFRUURWRmtwZ3JqX0NDc09ZVHd0d1dxTmx6Zm1B?oc=5"
     },
@@ -92,81 +102,71 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5"
     },
     {
-      "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T10:58:24.000Z",
+      "headline": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-11T13:16:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown &nbsp;&nbsp; CNBC",
+      "summary": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5"
-    },
-    {
-      "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff - bloomberg.com",
-      "source": "bloomberg.com",
-      "timestamp": "2026-09-11T00:43:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff &nbsp;&nbsp; bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0dsVjMyTGpNX2ZBSWhDSlVUSHczOXF0eURmakkyNlpFMFNBV2R4TE5PSk1nc0tqSHJvVUlmb3ZiM1J2clNJblQzb3VYRDB5TjlvZjhnNjBuY1lhQWlaNTRhaXE3cEFqNkc3THQ0aDJ2X0Faalc1ajlXbFphanlWLVBZM1RPSk8wREZoQl82cEFCMUw5THZN?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-09-11T22:25:00.000Z",
+        "headline": "Nvidia says AGI is here. How are China’s top AI labs catching up? - scmp.com",
+        "source": "scmp.com",
+        "timestamp": "2026-09-12T03:00:09.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5",
-        "summary": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents &nbsp;&nbsp; WSJ"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGd1cVAxeDJLVDktY2hsVjZOV1U4YWlQVjdJVjY3ME9PaEdWeFo4WDRpb3BQZVpzbnpaMFJMWVl1NEdZNlZqa2xXbDFiODNWb3VpNFFmNFBlel9iZk1mYmNpQWdtSU15WWdlcFJ0OUZ2dTVVckxzTGdtcWhuR0xiMm53QUktZ09UTVZiRTNWQzhyMUNTek5PdkI5WW5uUVpmM3RLTnRYVWdRSV9yRndWZkg0TXBlZnh1bHg5LW1DRdIBvwFBVV95cUxNNHBaYTJvZFhUVHYzeFF1NHViNTNpZU0tUG53OEtQMzRRNGVsLVkybWZOc3IwbVNxTE83VDQwUlFoeTkySGh6Xy1lVFVDUkR5OXA2cDQzc2VKTWpGc3JodExBaHVKMEV0QkFrRjJPNEpwa3ZXeWxJNGt3Vzlxd2hIcVZ2ZDBnaUxlY0lPcEdIRkp1YWd0RDFDZENDWGp5a2tqNFVXSUIwTjJOakZLWUx5S0RNNE83eDgzZGo0RlY3TQ?oc=5",
+        "summary": "Nvidia says AGI is here. How are China’s top AI labs catching up? &nbsp;&nbsp; scmp.com"
       },
       {
-        "headline": "Anthropic employee quits, warns of AI dangers - WKYC",
-        "source": "WKYC",
-        "timestamp": "2026-09-11T21:12:00.000Z",
+        "headline": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-09-12T02:17:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWprcHNnNFNDT3JPOHU4d2MzTk1hMnpiSUEtQ002S0l3azk1WDBIYWNwdXFUd0pWdVJZU2V2UmxsOC1fRWE5NnJTTHVuSUdvLWZXdXRyUE8zNmtZNFdnYkxScDJVRTNGdkNQYjVDaFAwOVIyV1ZUcEhRTl9takRiUmo0N29ReWtCUkxPZlR5WUoxVk1sazh2c1djVTRqTWRSV2VubUdXQ05HbF9tblFQLU1wcUhzeVU?oc=5",
-        "summary": "Anthropic employee quits, warns of AI dangers &nbsp;&nbsp; WKYC"
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1pNN1E2LTdmelB4VUxzNkxvRThpTmNFc012M3lyWDBiYXc2c2VvUms2LTg2cjBqZGs0ZFJyN3pGU3doRVdkNnVzWVBFM0s3cWRtYVdHdUhtRS0wWEY3TjlBTG02V2czS2tjOVlsbkRMM0s4TV9heWo4UHh6ZFpjcW9pVlhCdXVmUnJFRWZldE5OWlVFQUFYcEhQcWUwRzdER0NKanB6SlIwLU5nSThMUTBsbDlSSk1JSkR0Y19VeHo4VEthNjZzZi1fVTU3S21FbDdRQWl3UGxXNGlMd3NEdVhB?oc=5",
+        "summary": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Anthropic says it blocked possible attempts to use AI to develop bioweapons - Scripps News",
-        "source": "Scripps News",
-        "timestamp": "2026-09-11T21:10:43.000Z",
+        "headline": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-09-12T01:42:43.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPckxBUE9jQ2FDZ21Za2FCODU1Nmlvc2s1VWRWZUtFS3ZOaFVKX1VLemQwZGVBSWQtcFRaejg3ckdmc19VX3lkNW9FN0tiS3hJOVNrS2lydTEyTWVCc2FPZ1ZsUzYyMUxfWi1yUUpOcXdNcDRUU2JUZXgyYUJVS05ScTRibDVZYnhJckR5SjhfOEVZcG5kR185ZWptd25lNlZiMC04TFBEZS1sRHRkd1RHeC1YTGQ2cFVnV2E0ODlaSUtMRnp3T2theVBxTFpMdXJmY3ZXWC13alo4QksyempoR3E4MXZLUQ?oc=5",
-        "summary": "Anthropic says it blocked possible attempts to use AI to develop bioweapons &nbsp;&nbsp; Scripps News"
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5",
+        "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "OpenAI’s feud with mathematicians is only escalating - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-09-11T20:57:36.000Z",
+        "headline": "OpenAI Is Beefing With Mathematicians, Will No Longer Sponsor Caltech ‘Mathathon’ - gizmodo.com",
+        "source": "gizmodo.com",
+        "timestamp": "2026-09-12T01:05:18.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2RQUFRoamR5cXpHRmhqU01HNHE3aXgtZmdxNjZMdk9xRmFZSUJhdVczYXhUWXNsOWZuY0d4ZU1vWWJNX1FkU2pnVm52TmNrTFJjb0JuUFQ2UlFwaWszcHVZcFNQY1Q1eXVGblFLQXdJM01zaXhhUUJGeVZkRXhxVWZNUU8wR3c1cXlCdU9kTQ?oc=5",
-        "summary": "OpenAI’s feud with mathematicians is only escalating &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakNrOFEzaXp5NVdQRFlaSmZ3cHJxN2ZxdlpVT3Vaci1pdkNIdU84emcwWmpiTTNZWDJ6MWRNSm4xLTB5ZGZtdEtBaVRXZnhpMjZQUFFVV0YxR0tRbUdvRmFCU0dIYWMwaHlJbG5QODBiQU4za01wd3F1OHI1VXQ0SXBtdWpnT1lLcllRTHptWXpvT184NUkyLTA0WGRGRlFpNkZYdkJzQ0dxYUExNEE?oc=5",
+        "summary": "OpenAI Is Beefing With Mathematicians, Will No Longer Sponsor Caltech ‘Mathathon’ &nbsp;&nbsp; gizmodo.com"
       },
       {
-        "headline": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-09-11T20:32:35.000Z",
-        "impact": "LOW",
+        "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-09-11T23:56:00.000Z",
+        "impact": "WATCH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-        "summary": "GPT-6 Astra: The next generation in intelligence for work &nbsp;&nbsp; OpenAI"
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
+        "summary": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-09-11T17:06:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUZ4WVcyUUNtOTJkS2RZanRiTlFfWDFsbUUySnFRTzFpZFZHWEVvc1hncVN4bzFnMHZha3dBMVBWUkxaeUN3WmtyVjh3ajlja0p6eXFsTzdFakcxYzRmbjlYLS02U2lFb240VzNxQXNPb0pkMFhzUGRULVpZZWRMUTI0TDhxYlVrc2Y1SkgzNnZrM09pTklBd25IUGk2cXRB?oc=5",
-        "summary": "Why moms on your social feed are suddenly saying not to post your kids' pics anymore &nbsp;&nbsp; Business Insider"
+        "headline": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-09-11T19:25:28.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
+        "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations &nbsp;&nbsp; Reuters Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships &nbsp;&nbsp; WSJ Rebels used Anthropic’s AI bot to develop guided weapons, report says &nbsp;&nbsp; The Washington Post"
       }
     ],
     "whyItMatters": [
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
