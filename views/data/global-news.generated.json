@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-14T11:49:48.581Z",
+    "generatedAt": "2026-09-14T17:43:09.901Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,10 +12,21 @@
   },
   "newsFeed": [
     {
+      "headline": "AI stocks tumble as safety alarms rattle trillion-dollar trade",
+      "summary": "AI stocks tumble as safety alarms rattle trillion-dollar trade &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-14T17:19:45.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrT25BU3lRMFdzeGdtbmdxU1JoMHMyTFJqRm5EZkI0VXF6LXJDaGtzWVFjSXJhczJaOWVLcnpCTlRtWEJEVVZDTUVGdDlWcHhlM1N5aS1pMGxtN2x5ME5xM2Y2YjhrQQ?oc=5"
+    },
+    {
       "headline": "Carney, locked in US trade war, pitches Canada to global investment titans",
       "summary": "Carney, locked in US trade war, pitches Canada to global investment titans &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-14T10:19:49.000Z",
+      "timestamp": "2026-09-14T15:35:01.000Z",
       "impact": "HIGH",
       "region": "United States",
       "category": "trade",
@@ -23,65 +34,32 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3JPQXNDM2tRbmo0bHhxcE5yaHVkZ2txeVd5T2IzUFpYWkFYZTNsWmloNEUybWhxa3ZPVDdlZ0F0VnBnTmRzM09TekhtRHV3WGRQc0QwSmZuTy10R3BGbUdUc2dkOW5PRGpfRWdpblRtRHZYcnFHMy1HOGljNVFzcW8yOEY5VXg1d3BQY3d5ZWZJRU1JZEQtNTl2bW85NEhCckZpeWRPYlNrY09FckpjbA?oc=5"
     },
     {
-      "headline": "China urges more FX hedging as strong yuan hits exporters, sources say",
-      "summary": "China urges more FX hedging as strong yuan hits exporters, sources say &nbsp;&nbsp; Reuters",
+      "headline": "Europe facing unprecedented risk of being cut off from AI, Lagarde warns",
+      "summary": "Europe facing unprecedented risk of being cut off from AI, Lagarde warns &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-14T09:45:43.000Z",
+      "timestamp": "2026-09-14T15:25:33.000Z",
       "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDE4VV9zWTdrT2lBdjFqY2NHeXhZd2pHUlpMRDd0ZXBRcGFFOWVzUmtVOU9JckVjVHBJaEt5cDI2bHFBUjlHbHJHdlllazQ3aWJFWC1JcFVKRWRCVXM4MjNPVG5HaTB5czBtX3ppdTdDRDNYZG9nX2JsbmFhQktnUUZEbmFQR2RYbE5vNENVTk1TQ05jNVZOb3V0cC0tYXdZbmotUlUxd0lwdTdaN0s2a2FCeWhFUWZwRlp3?oc=5"
-    },
-    {
-      "headline": "AI warnings knock Nasdaq futures, pressure tech stocks",
-      "summary": "AI warnings knock Nasdaq futures, pressure tech stocks &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-14T09:23:43.000Z",
-      "impact": "HIGH",
-      "region": "Global",
+      "region": "Europe",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEJidFNRQ1I5MGgydDNteUNFSGpyc0R6WEZ5RGRnQ3JBLXZfdVdnUHVpZVJxaG8zMFlIMDNucm5UM3huWVNYa1FZNmtGZk03VEY2aHJFSHBvU0ZVN1JydTVmTko0UHNJc0Z3N0d2UTU3aW5VWUtma3hiNDR3X2FybnJpTW5iMS1VYUU1ZmhLdkY4ZzlCYzVrZW1TbUR5R0VjTmdTWjdTd3UzUVh2Q2NuTC1ObEt1QU0?oc=5"
     },
     {
-      "headline": "Maersk, Hapag-Lloyd to sail more container ships through the Suez Canal",
-      "summary": "Maersk, Hapag-Lloyd to sail more container ships through the Suez Canal &nbsp;&nbsp; Reuters",
+      "headline": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media",
+      "summary": "Senior Sunni cleric shot dead by unidentified gunmen in southeast Iran - Iranian state media &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-14T08:41:55.000Z",
+      "timestamp": "2026-09-14T15:10:56.000Z",
       "impact": "HIGH",
       "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU0dTandCbzlJcGJCQXZubGhYeWM1c2x5S0RFU0hxUHJscER1M3pSM21JUzZUQ2g1UDMxSWpQaTBCMDliNWNxMlpLUjFQOFFtQnNqUzNmRFMxLU81MUx6SF9WTzAzazNUTFN4UW1MeHd6QmNIZ2lRV09xdU1XQmJpbkp2cURzMnFqamV5NjlKcERpVjAtSlZYZ2tlSjA3dVB0cWh2V2VqQk14QQ?oc=5"
-    },
-    {
-      "headline": "China Gas signs 20-year LNG import deal with US-based Venture Global",
-      "summary": "China Gas signs 20-year LNG import deal with US-based Venture Global &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-14T08:36:09.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWxlM2NTeFhjVlduRnZUZldDRFIwbzQtX21QY1hTNjdmZEp5MG9XdWNJRWlwZlowQkstYkQwV2ljbl9TeW1vemZ3M19GOF8tanFocjZQTDNjRmVGbmZtVlJkZkdSRWlSVDJiWm5qUnlJa2ZqMUZ1U1FBTFJ4Q05OeXRMN3U3R3l4NEpoMlFlMHBrVldTaWRtWkllaVlfdnZPNlZ4aUxtaVpTYm1ONUhJbFctV2JwQ25NOVNMRA?oc=5"
-    },
-    {
-      "headline": "Companies left China to dodge tariffs. Now some are heading back",
-      "summary": "Companies left China to dodge tariffs. Now some are heading back &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-14T08:18:05.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5"
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXc0MkRtdlNRQUxNbjlDN3pHenA5cnEwdFBLU2ZPS3FBZDlpdXI4UDZ1WEZFQnZaemdZUVd6Q1JMOWNyc2s1QWZMU0YzWWVuSjl3V0hGS3BLTzFQWFZtalViVUZEcmduVElMUm0zU19oenVaUkdlRHAyUUF5TW9GelVoNlZyUktjV1FpQWNDbVRiOGdzNHg1X3JBNFRwZ0dDbGIyeWs2dWhVbERSVWJFYlhwLWtSSm00Z0ZIcDJtMXJ2U3dlY3pvZA?oc=5"
     },
     {
       "headline": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite",
       "summary": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-14T06:47:00.000Z",
+      "timestamp": "2026-09-14T14:58:30.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
@@ -89,15 +67,37 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBsQlVVMThMRmZ6a3gxOE5lRG1fbENPRnEwUmlWN3pXNUdGT1ZhMDZOQnFMbGZWZUk5ZTQzYUd0VVByOXdZVy01ZE85UTJ2dVBIZW1EX0ZzZjVaRjRyc09PTkpGQlJQc0JGQmh3b1J0NkllWFItWHhaNTVIRUxrbEJVaWQyVkpfcm0zcks0X1ZZdw?oc=5"
     },
     {
-      "headline": "Morning Bid: Shipping oil gets ever harder, costlier",
-      "summary": "Morning Bid: Shipping oil gets ever harder, costlier &nbsp;&nbsp; Reuters",
+      "headline": "Kioxia considers raising $10 billion in US listing, Bloomberg News reports",
+      "summary": "Kioxia considers raising $10 billion in US listing, Bloomberg News reports &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-14T04:33:00.000Z",
+      "timestamp": "2026-09-14T12:53:05.000Z",
       "impact": "HIGH",
-      "region": "Global",
+      "region": "United States",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJCUUMxaW05Wm0yazVud3pVRFlHLTJKai13QUcxaUhtX2dlTEJPcV9XOWZGSnRzdFRXejctZE1sUGZrcEd3Sy1JOUZxVktnQW9hVl9vbTVSdEhldXBEaUxQTlJRanQyWDFpQXNaTlE1UWUwaVgzMU8yTmF2dzFGYUNuUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSU16S3NJSnRFcEFGc3I1akJ0X3pocjdnaWl5OFNSSjlmSE1hZ1p3NWg5ZEZndldsY21PcmdOS3B1Zk9XSFROV0ctcWwzMm54bjgzS3F1Q3pHcTNPd0p1d2QtWU1aWFEzTkJhRVVHQ0NHOWthdndZTExjLWNKZnNNM3FmNDRocHEwbTFKOWZPNENYM2pFYlQ0UVJGbm8zbmk5TjFCODFQUUJER3hrMEItN1NQSWpnMm5obndoekVR?oc=5"
+    },
+    {
+      "headline": "Companies left China to dodge tariffs. Now some are heading back",
+      "summary": "Companies left China to dodge tariffs. Now some are heading back &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-14T12:40:33.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5"
+    },
+    {
+      "headline": "Denmark PM says hopes for peaceful way forward with US on Arctic, Greenland",
+      "summary": "Denmark PM says hopes for peaceful way forward with US on Arctic, Greenland &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-14T12:20:15.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTdLSC1sLWhIVFROalppbml5b01MZ2NYaVZBbUZEcGdKamJ1VmRuYkx4bV9Zb1Z4dWt5NVFCMkpNcjBCSVZUZjRwbVdLTHhTT0kzeWVRT25YRGpwaFBncEFPUjdyN2EwTVhJTEtTeFo0cU1xNWw5SXhuUWNtMmw4ZjdTZk1ITG1XYVhZWS1PQnA3RG9jdHFQbEZSMWlGQlVZWVQwTkljckI2SHdieFE?oc=5"
     }
   ]
 }
