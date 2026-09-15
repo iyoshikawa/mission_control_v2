@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T04:11:10.755Z",
+    "generatedAt": "2026-09-15T09:51:37.992Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,72 @@
   },
   "newsFeed": [
     {
-      "headline": "Google DeepMind Staffer Quits, Says AI Could Cause 'Immense Harm' In 5 Years - NDTV",
-      "source": "NDTV",
-      "timestamp": "2026-09-15T03:29:29.000Z",
+      "headline": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-15T09:50:19.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Top A.I. Leaders Call for Slowing Down A.I. Development &nbsp;&nbsp; The New York Times Trump goes scorched earth on AI warnings, raging about data center opposition and regulation &nbsp;&nbsp; CNBC AI experts are sounding alarms. Our government won't listen. | Opinion &nbsp;&nbsp; USA Today",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5"
+    },
+    {
+      "headline": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-15T09:43:02.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google DeepMind Staffer Quits, Says AI Could Cause 'Immense Harm' In 5 Years &nbsp;&nbsp; NDTV",
+      "summary": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcnB3dDBzWkZiNE41VHJUMjdYbk9nNHY4ZFc4bUtHYVh2MnE5cmlNVEtuNDNKSjF5MXNiVjA0U1hDY25FWEF0c002R1l1WHhOWEtxNGFkN0VueGI4S3FNSUw4cklXaTZCMGpGbWRPeGlDUHpPZTM5My1nUTd3UDB5Q2JFei00eUc2d2ZJQ2lUNnl5dXJXdjBieFZXejE2STFqU0o3dm1iOWdkQ25udG52bVc5a1gydG80YjhyTWU3QTBHcUw5ZzVfSTFBY2xuVFhZSzBUVXI5cFU5MUEyYmZFYklfSFlUQXhSUm53NUVfNVc4R0RhaUc5aWlvemtFMWVR?oc=5"
+    },
+    {
+      "headline": "OpenAI has tapped a startup to make its AI work for lawyers - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-09-15T09:00:23.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI has tapped a startup to make its AI work for lawyers &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTZCNTBSWXJYYUlJTkJ3R0dNU2RiY1M4WlY4TnhuZk05QWtrMzg4bWtsT3diT3d4R1BFcVF5LXBRX2dSQzhzMl80a25EeXoyUGN3SEt2Mk9ya1A4NkFMd2JEWXQyN0MxX1FPaWhZaW9RR1RIYTgtUXNuTmVDUFM1SHNLNlFGVnoyZnJsaTdyTFBOcmVr?oc=5"
+    },
+    {
+      "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC",
+      "source": "BBC",
+      "timestamp": "2026-09-15T08:49:31.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards &nbsp;&nbsp; BBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZTRfbU9qV2pjcHdCVmNGbUo2NElLSzQwUFpqZ2E0cVVSZlpFTk9Lb3FQQ3FCV0NxTEMtZ1FaQVVWMFdXUks5djdEVHVqa0Z3YmJZTzdpejMza2c?oc=5"
+    },
+    {
+      "headline": "Why a decade of doomsday warnings failed to slow the AI race - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-09-15T08:01:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why a decade of doomsday warnings failed to slow the AI race &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92d2RPRE5TRkowQkN2bUQxdTAyZHlLUFYyTTI3RjFCZGEtaC1OZHNXWGFkR0dWR3BoLVN0T2VCMnR6Rm9tY1kwZ29yY0xGWmhfLUQ4aEJkWW83Uk1PdTB6SHNnTUxINy0xT0w5RTNCV2dYYnRBamx4ZmZqTQ?oc=5"
+    },
+    {
+      "headline": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-15T07:12:30.000Z",
+      "impact": "WATCH",
+      "category": "regulation",
+      "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5"
+    },
+    {
+      "headline": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning - NDTV",
+      "source": "NDTV",
+      "timestamp": "2026-09-15T03:29:29.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "'Immense Harm In 5 Years': Google's AI Researcher Quits With Stark Warning &nbsp;&nbsp; NDTV",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlXSAcsBQVVfeXFMTTBmWGdET1VXOVIzNk5KcWMyVTByRE1NMzkwR19PN0ZYdGRtN09YZlczcEdBMmo2aXV0MzZsR0lacS1TRGpFVkJ6U2RLZmJ1VnNBMUdGb1JfcE9KQzlENEdpWlZnT0F0NmFoSnRrQVY1anVWeENDM3c1Y29oVVhmN3F1Xy1NU21CR2MwRXNaVTJDRWlLSHBUSDNaaWppci0tWWpuYlc2ZTRCRHFTTjlQa296d1NCeENNOGdTY0JnbHVaODMyRlktQnlmUWs?oc=5"
     },
@@ -28,152 +88,92 @@
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5"
     },
     {
-      "headline": "AI CEOs Predictably Suck Up to Trump Amid ‘AI Pause’ Debate - Gizmodo",
-      "source": "Gizmodo",
-      "timestamp": "2026-09-15T02:52:34.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI CEOs Predictably Suck Up to Trump Amid ‘AI Pause’ Debate &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcldxeHRVZlkxeUNkWWZZUnFRckg4OElERGhTS0tpWGxjWExjcUxRR0c3VWdjQ2djWi05RVl6ZWVGLS14elVBQW54UTZEUllGNVdWRUExSHhDcjVtNmJlR0U3bjZpX0d0ZFREUVF2MmVsSFJZZXc1TU1WaTFZOVJwS2pQWU5DNi1HMGd5SnlKUFk4UQ?oc=5"
-    },
-    {
-      "headline": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post - Yahoo Finance",
+      "source": "Yahoo Finance",
       "timestamp": "2026-09-15T02:39:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGhMd2RLSEktZThRdFdxNmxkazJJRE51b2FzTXJoaUVPUlNFZmhaMUE5ODd4cG55Q2RZTWJka1R1bWNhUVo5Mk5LT1ktM2ppekhRZWp1N1FBaFZKU3Y1RWlVY3NjNV8zLTRpRGtNRHdlckpLT2dpQmktRmFPM3NkbkJkS1FZSm14ZzVTTjhGeVZVcnF1NWhyenR1QzJNVFNLMnRBVW15M2NzalhKaEpFTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWlE2MjY2eV9RNmNZNjU5RkEyTTN0aTRtYmI5RHJfQVRHTzBNdEJsbndEc0taM29oU1JTZmV5dnVOX0NiX0UxZEY3SlRiY094NEJ1MUN4UWpnMjcxa3g2R2h5d2pDUXhNS0dUTWhTaWdEcTllbU82b2o5R3BMU3A1aXhKZzN4cFdQNEJCeHdXT0hoN1MyQlVtN2tVQQ?oc=5"
     },
     {
-      "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC - bbc.com",
-      "source": "bbc.com",
-      "timestamp": "2026-09-15T00:32:21.000Z",
+      "headline": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - Barron's",
+      "source": "Barron's",
+      "timestamp": "2026-09-14T19:51:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC &nbsp;&nbsp; bbc.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5"
-    },
-    {
-      "headline": "Opinion | Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-14T22:12:58.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Opinion | Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough. &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvbUF6cjhvWlZwTlB0YlpvaVlpWHBiYXhRTzViSXdmMlRLazVDU1NvdzZzV1dRT2Z0V2E1Y045UlF5VUh6MTU1dDBMRlpVdjg2U1pZanZtOWNlaFppTzlKRUxsMFlvejBjcG1iVEh5eEZOYVRoLWJFUjZqV05EZw?oc=5"
-    },
-    {
-      "headline": "'Don’t kill the Golden Goose': Trump calls AI warnings a 'HOAX' as AI leaders raise alarms - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "timestamp": "2026-09-14T21:11:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "'Don’t kill the Golden Goose': Trump calls AI warnings a 'HOAX' as AI leaders raise alarms &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWNtRTBsT1hCQi1nNmp1czRuajhwRFZoeVdLbnFIX1NrQmw4MFBIcS1pUGhRQ3gtcE9qeHVsUlRMVkZWTHl0THFyRlpZQVFVUWFKdHA3cW9ZdV9UUDBKV1JZRHA5R0p5eVBqQ1RrZHR0Smw3ZGljTnJ0OUZ5VndnVU4tNEFLR0VwTkd6MUo1RVI0X082S3FSUUNGRG1rUUg4UkHSAacBQVVfeXFMTXItcFc4LWNJR1Raa292U0RjTGpaOWNrLXdXX0s2VmxUdndsUlRSUHpYaGkydnpRU2VQUlBvelZwcjhDYVhiODgxTk1ENzJOWDk0d1BCQ0FkR3pXS2xnamV4eW05d2RMNU1seVhGQXNZVlhKT2JqRF9pTEtaeFVfcE1xcUpmSWNWU05YQWs0a29FN2xpamVudVRqUFVLVlRPMTNhNzFtbzQ?oc=5"
-    },
-    {
-      "headline": "Microsoft's $678B Backlog vs Alphabet's 82% Cloud Growth: The AI Capex Reckoning - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "timestamp": "2026-09-14T18:18:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft's $678B Backlog vs Alphabet's 82% Cloud Growth: The AI Capex Reckoning &nbsp;&nbsp; finance.biggo.com",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zYkZXNFp1WUl5MmdOVGdTenUxdUs4Vjg1VC1adUlONDhOb3lxMW9Vb2ZqWmlPMFZvS2RCMVhtamNkdm10NzgyUjBlR3RjZTEtOEJXZ3pmRHFRQWRUR09sXy1FYVItVGVlSzRMVmZOR0tBWHBtbUE?oc=5"
-    },
-    {
-      "headline": "AI agents blew the whistle on their cheating colleagues - MIT Technology Review",
-      "source": "MIT Technology Review",
-      "timestamp": "2026-09-14T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "AI agents blew the whistle on their cheating colleagues &nbsp;&nbsp; MIT Technology Review",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5"
-    },
-    {
-      "headline": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-09-14T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGxuNi04LTNuYVlTMzNLQk94SnMwQUNIaHcyemtsZEhHR3ZJSjFKQlpsZ2JENFBiUklQVEUxVjhGbDJiVmFWb2t2cUlhdWlITFduWEpDNGNRM3k5LTJDM09FZzBnc0Q2TURqT203c1VBdkNvSy1aSnBCTmFqaVBlQmVwY2k4cFlJOEJwWEVMOVI2X0Iza1ZaRGhMYmI1LW1hNGVacGMyWnJwSC1TS0FQZkpIaUZHX0hkMDFtVVN1QmU3OWJRWVlQMDRVX0o4WG1BQWJ2ZFNxQkpIdlNrVDZWOA?oc=5"
+      "summary": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Google DeepMind Staffer Quits, Says AI Could Cause 'Immense Harm' In 5 Years - NDTV",
-        "source": "NDTV",
-        "timestamp": "2026-09-15T03:29:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1pVlRJcFpIcmNVckVUdmUwZXJrLVRRaEVMOEtfZkd5aDcweHg4eS11QmZXR2cyUUNDeHVKVW5IWW84SlhwWDF5VzlhSEdPM21NaGlqQVBMb2hrQi13dEFIQ2c4blBlblRNQkt6ZmQzdjU4cGxyOXRwdHB4cldZWmJ1R2lieDcwSlFMcHBGZ0NNMXBVenppOWhDSHBscnBxcDJETHlheFM0MklxSTlDTjJCVXBXU2JZTUJmNVQtMW13NlXSAcsBQVVfeXFMTTBmWGdET1VXOVIzNk5KcWMyVTByRE1NMzkwR19PN0ZYdGRtN09YZlczcEdBMmo2aXV0MzZsR0lacS1TRGpFVkJ6U2RLZmJ1VnNBMUdGb1JfcE9KQzlENEdpWlZnT0F0NmFoSnRrQVY1anVWeENDM3c1Y29oVVhmN3F1Xy1NU21CR2MwRXNaVTJDRWlLSHBUSDNaaWppci0tWWpuYlc2ZTRCRHFTTjlQa296d1NCeENNOGdTY0JnbHVaODMyRlktQnlmUWs?oc=5",
-        "summary": "Google DeepMind Staffer Quits, Says AI Could Cause 'Immense Harm' In 5 Years &nbsp;&nbsp; NDTV"
-      },
-      {
-        "headline": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-09-15T03:17:47.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
-        "summary": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "AI CEOs Predictably Suck Up to Trump Amid ‘AI Pause’ Debate - Gizmodo",
-        "source": "Gizmodo",
-        "timestamp": "2026-09-15T02:52:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcldxeHRVZlkxeUNkWWZZUnFRckg4OElERGhTS0tpWGxjWExjcUxRR0c3VWdjQ2djWi05RVl6ZWVGLS14elVBQW54UTZEUllGNVdWRUExSHhDcjVtNmJlR0U3bjZpX0d0ZFREUVF2MmVsSFJZZXc1TU1WaTFZOVJwS2pQWU5DNi1HMGd5SnlKUFk4UQ?oc=5",
-        "summary": "AI CEOs Predictably Suck Up to Trump Amid ‘AI Pause’ Debate &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-15T02:39:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGhMd2RLSEktZThRdFdxNmxkazJJRE51b2FzTXJoaUVPUlNFZmhaMUE5ODd4cG55Q2RZTWJka1R1bWNhUVo5Mk5LT1ktM2ppekhRZWp1N1FBaFZKU3Y1RWlVY3NjNV8zLTRpRGtNRHdlckpLT2dpQmktRmFPM3NkbkJkS1FZSm14ZzVTTjhGeVZVcnF1NWhyenR1QzJNVFNLMnRBVW15M2NzalhKaEpFTQ?oc=5",
-        "summary": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC - bbc.com",
-        "source": "bbc.com",
-        "timestamp": "2026-09-15T00:32:21.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5",
-        "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC &nbsp;&nbsp; bbc.com"
-      },
-      {
-        "headline": "Opinion | Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough. - The New York Times",
+        "headline": "Top A.I. Leaders Call for Slowing Down A.I. Development - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-09-14T22:12:58.000Z",
+        "timestamp": "2026-09-15T09:50:19.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+        "summary": "Top A.I. Leaders Call for Slowing Down A.I. Development &nbsp;&nbsp; The New York Times Trump goes scorched earth on AI warnings, raging about data center opposition and regulation &nbsp;&nbsp; CNBC AI experts are sounding alarms. Our government won't listen. | Opinion &nbsp;&nbsp; USA Today"
+      },
+      {
+        "headline": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-15T09:43:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcnB3dDBzWkZiNE41VHJUMjdYbk9nNHY4ZFc4bUtHYVh2MnE5cmlNVEtuNDNKSjF5MXNiVjA0U1hDY25FWEF0c002R1l1WHhOWEtxNGFkN0VueGI4S3FNSUw4cklXaTZCMGpGbWRPeGlDUHpPZTM5My1nUTd3UDB5Q2JFei00eUc2d2ZJQ2lUNnl5dXJXdjBieFZXejE2STFqU0o3dm1iOWdkQ25udG52bVc5a1gydG80YjhyTWU3QTBHcUw5ZzVfSTFBY2xuVFhZSzBUVXI5cFU5MUEyYmZFYklfSFlUQXhSUm53NUVfNVc4R0RhaUc5aWlvemtFMWVR?oc=5",
+        "summary": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "OpenAI has tapped a startup to make its AI work for lawyers - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-09-15T09:00:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTZCNTBSWXJYYUlJTkJ3R0dNU2RiY1M4WlY4TnhuZk05QWtrMzg4bWtsT3diT3d4R1BFcVF5LXBRX2dSQzhzMl80a25EeXoyUGN3SEt2Mk9ya1A4NkFMd2JEWXQyN0MxX1FPaWhZaW9RR1RIYTgtUXNuTmVDUFM1SHNLNlFGVnoyZnJsaTdyTFBOcmVr?oc=5",
+        "summary": "OpenAI has tapped a startup to make its AI work for lawyers &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards - BBC",
+        "source": "BBC",
+        "timestamp": "2026-09-15T08:49:31.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZTRfbU9qV2pjcHdCVmNGbUo2NElLSzQwUFpqZ2E0cVVSZlpFTk9Lb3FQQ3FCV0NxTEMtZ1FaQVVWMFdXUks5djdEVHVqa0Z3YmJZTzdpejMza2c?oc=5",
+        "summary": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "Why a decade of doomsday warnings failed to slow the AI race - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-09-15T08:01:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvbUF6cjhvWlZwTlB0YlpvaVlpWHBiYXhRTzViSXdmMlRLazVDU1NvdzZzV1dRT2Z0V2E1Y045UlF5VUh6MTU1dDBMRlpVdjg2U1pZanZtOWNlaFppTzlKRUxsMFlvejBjcG1iVEh5eEZOYVRoLWJFUjZqV05EZw?oc=5",
-        "summary": "Opinion | Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough. &nbsp;&nbsp; The New York Times"
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92d2RPRE5TRkowQkN2bUQxdTAyZHlLUFYyTTI3RjFCZGEtaC1OZHNXWGFkR0dWR3BoLVN0T2VCMnR6Rm9tY1kwZ29yY0xGWmhfLUQ4aEJkWW83Uk1PdTB6SHNnTUxINy0xT0w5RTNCV2dYYnRBamx4ZmZqTQ?oc=5",
+        "summary": "Why a decade of doomsday warnings failed to slow the AI race &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-09-15T07:12:30.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5",
+        "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
