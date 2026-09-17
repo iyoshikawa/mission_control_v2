@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-17T01:11:50.439Z",
+    "generatedAt": "2026-09-17T07:23:46.648Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -14,12 +14,42 @@
     {
       "headline": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown - Pittsburgh Post-Gazette",
       "source": "Pittsburgh Post-Gazette",
-      "timestamp": "2026-09-17T00:52:08.000Z",
+      "timestamp": "2026-09-17T06:57:07.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown &nbsp;&nbsp; Pittsburgh Post-Gazette",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDB2TnJUdmZNMjZYdjVqWUdxX1F1Z1dmTnNkT05mdlNlMEI5RVFEMVhTTDBNbmhxdU5lSDQtQXhUNzg0eEFtTEJCYkhLdkxWekhWQUxWZFN0TE9EQ0FraFYtODFGaXJTZHIzNmJBdzhPUEpkUk1yOGM2UnNpOF9oTlVheGEwenp1djQ5VHNVUDlHcGJiUko1REktcVRLTk8tcURXNzcyVTRoQXM?oc=5"
+    },
+    {
+      "headline": "OpenAI flags new concerning AI behavior, to track model misalignment regularly - NPR",
+      "source": "NPR",
+      "timestamp": "2026-09-17T06:44:49.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI flags new concerning AI behavior, to track model misalignment regularly &nbsp;&nbsp; NPR",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wenVuMHkxd2dIMl9kOUdPblJhbUFSeWgxUWoxS21fOUdHNHZHbGVhMEVvUnJVMC1Wa1hFd0x5RlRSUFhpSXYtSzFCUE96bUNFUW9EMTN3OVQ3ZkRKX0gwSW8zOFBNR0FIMVFVT09ndktOWE8zTi1EcDdOOUM?oc=5"
+    },
+    {
+      "headline": "Google DeepMind offshoot nears $4bn valuation just a month after founding - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-09-17T04:00:11.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind offshoot nears $4bn valuation just a month after founding &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmlNUHJWS1RGSm5TWmhUc0c2X3NaQjllM3duMmE0N1ZYcjNwMzl4UVhxVnV1VmV0TWRJdERwbzlCZzNmdEdzU2FFMHF5YkV2S1R0bE1xVTZfOVowdXdRVXF4WGpNaXplTDlTUTZHMW03c01YQTFCenN2XzJZNVZnT2luVnk?oc=5"
+    },
+    {
+      "headline": "OpenAI says it found more instances of AI models acting deceptively - cnn.com",
+      "source": "cnn.com",
+      "timestamp": "2026-09-17T01:33:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI says it found more instances of AI models acting deceptively &nbsp;&nbsp; cnn.com",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5"
     },
     {
       "headline": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times",
@@ -42,34 +72,14 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5"
     },
     {
-      "headline": "OpenAI discloses six new AI safety incidents - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-16T22:01:19.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "OpenAI discloses six new AI safety incidents &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT013aGlZYVZ5b3FNeC1BT3VXbk1WYi1HUVk3bDFaVTlJdnhCaXhvOXNOMHJGaG85MmFTalFwUEFlU0xRMktvMkxTTGtnaE5kdTZFVkVCOGtzSzQ0T0d2VnNPLTM0VVIwOVpUb25QbkJXeVZLYmxQdmhRTzlFRlg1bQ?oc=5"
-    },
-    {
       "headline": "Bedrock vs Azure Foundry vs Vertex AI: $50 Gap [2026] - shattered.io",
       "source": "shattered.io",
-      "timestamp": "2026-09-16T20:48:45.000Z",
+      "timestamp": "2026-09-16T20:52:36.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Bedrock vs Azure Foundry vs Vertex AI: $50 Gap [2026] &nbsp;&nbsp; shattered.io",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sVzBGUE5COU8zdXlKdGtvUmFHTUpnamRBWjdWWVVYeW1TNzhxcll5QmFZdXVQNGQ3RHRuZElXSUlDT183SjJZellCVkxFY3dCcDZqR0I0VUlNZGFtNGdPXzFYWlVTX0RlVXRwNk9nWlZ3WGd1WkE?oc=5"
-    },
-    {
-      "headline": "Google, DeepMind launch institute to explore AGI - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-16T20:08:35.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Google, DeepMind launch institute to explore AGI &nbsp;&nbsp; Axios",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4aU5EODcxNGZlb3Zta3RTbUVCUHhGcFliOENJREpTOTcwa0RjM3JvXzA1bzRVbnNnTDNWdDhGNzJ1MXRTaHJoVjZPWG5xcUpvWEhIcEJkSjd3XzN6ZGhITEtrdXJTWEpWNE1sMFlCbw?oc=5"
     },
     {
       "headline": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code' - CNBC",
@@ -92,24 +102,14 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5"
     },
     {
-      "headline": "Meta Launches Meta One To Monetize AI Tools Across Its Apps - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-09-16T17:35:03.000Z",
+      "headline": "Google, DeepMind launch institute to explore AGI - Axios",
+      "source": "Axios",
+      "timestamp": "2026-09-16T17:03:15.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Meta Launches Meta One To Monetize AI Tools Across Its Apps &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmpzczl1bndpQktEZWdrZ0hjV2dWTVlXNHViZlNuWjUtbkhxTS0wd1RVWnBXNWtCS01RbzI3dmtXNkpVa2Mxdno4VENiWnZ1ZnZseUc0SmNkeFgxdWtFQ292VjBLUXRIR1JsYi10VHdOSGNSZ0h2Nlhfa3l6N2xTMGpxU2FpYmFYVEowNVVCTlB2cDRVUUlkNFhTMXE5UENCWFdaaHV5RzZ6MHc0UHlGbQ?oc=5"
-    },
-    {
-      "headline": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity - BBC",
-      "source": "BBC",
-      "timestamp": "2026-09-16T14:16:14.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity &nbsp;&nbsp; BBC",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zdHcyV0lzWDk5S0ZtZURXeTVKbFVYT2tSY2czZXVhVXFmQ0pfZ2ZaNFI1akxveWJQcF9aZFhlU1dNUUZUVjJaTUlHVnlUZlp1M0FHUzNQOXdGYk0?oc=5"
+      "summary": "Google, DeepMind launch institute to explore AGI &nbsp;&nbsp; Axios",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4aU5EODcxNGZlb3Zta3RTbUVCUHhGcFliOENJREpTOTcwa0RjM3JvXzA1bzRVbnNnTDNWdDhGNzJ1MXRTaHJoVjZPWG5xcUpvWEhIcEJkSjd3XzN6ZGhITEtrdXJTWEpWNE1sMFlCbw?oc=5"
     }
   ],
   "aiNews": {
@@ -117,11 +117,38 @@
       {
         "headline": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown - Pittsburgh Post-Gazette",
         "source": "Pittsburgh Post-Gazette",
-        "timestamp": "2026-09-17T00:52:08.000Z",
+        "timestamp": "2026-09-17T06:57:07.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDB2TnJUdmZNMjZYdjVqWUdxX1F1Z1dmTnNkT05mdlNlMEI5RVFEMVhTTDBNbmhxdU5lSDQtQXhUNzg0eEFtTEJCYkhLdkxWekhWQUxWZFN0TE9EQ0FraFYtODFGaXJTZHIzNmJBdzhPUEpkUk1yOGM2UnNpOF9oTlVheGEwenp1djQ5VHNVUDlHcGJiUko1REktcVRLTk8tcURXNzcyVTRoQXM?oc=5",
         "summary": "Zuckerberg distances Meta from calls for a coordinated approach on an AI slowdown &nbsp;&nbsp; Pittsburgh Post-Gazette"
+      },
+      {
+        "headline": "OpenAI flags new concerning AI behavior, to track model misalignment regularly - NPR",
+        "source": "NPR",
+        "timestamp": "2026-09-17T06:44:49.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wenVuMHkxd2dIMl9kOUdPblJhbUFSeWgxUWoxS21fOUdHNHZHbGVhMEVvUnJVMC1Wa1hFd0x5RlRSUFhpSXYtSzFCUE96bUNFUW9EMTN3OVQ3ZkRKX0gwSW8zOFBNR0FIMVFVT09ndktOWE8zTi1EcDdOOUM?oc=5",
+        "summary": "OpenAI flags new concerning AI behavior, to track model misalignment regularly &nbsp;&nbsp; NPR"
+      },
+      {
+        "headline": "Google DeepMind offshoot nears $4bn valuation just a month after founding - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-09-17T04:00:11.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmlNUHJWS1RGSm5TWmhUc0c2X3NaQjllM3duMmE0N1ZYcjNwMzl4UVhxVnV1VmV0TWRJdERwbzlCZzNmdEdzU2FFMHF5YkV2S1R0bE1xVTZfOVowdXdRVXF4WGpNaXplTDlTUTZHMW03c01YQTFCenN2XzJZNVZnT2luVnk?oc=5",
+        "summary": "Google DeepMind offshoot nears $4bn valuation just a month after founding &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "OpenAI says it found more instances of AI models acting deceptively - cnn.com",
+        "source": "cnn.com",
+        "timestamp": "2026-09-17T01:33:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5",
+        "summary": "OpenAI says it found more instances of AI models acting deceptively &nbsp;&nbsp; cnn.com"
       },
       {
         "headline": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior - The New York Times",
@@ -140,33 +167,6 @@
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
         "summary": "Our framework for reporting model misalignment &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "OpenAI discloses six new AI safety incidents - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-16T22:01:19.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT013aGlZYVZ5b3FNeC1BT3VXbk1WYi1HUVk3bDFaVTlJdnhCaXhvOXNOMHJGaG85MmFTalFwUEFlU0xRMktvMkxTTGtnaE5kdTZFVkVCOGtzSzQ0T0d2VnNPLTM0VVIwOVpUb25QbkJXeVZLYmxQdmhRTzlFRlg1bQ?oc=5",
-        "summary": "OpenAI discloses six new AI safety incidents &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Bedrock vs Azure Foundry vs Vertex AI: $50 Gap [2026] - shattered.io",
-        "source": "shattered.io",
-        "timestamp": "2026-09-16T20:48:45.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sVzBGUE5COU8zdXlKdGtvUmFHTUpnamRBWjdWWVVYeW1TNzhxcll5QmFZdXVQNGQ3RHRuZElXSUlDT183SjJZellCVkxFY3dCcDZqR0I0VUlNZGFtNGdPXzFYWlVTX0RlVXRwNk9nWlZ3WGd1WkE?oc=5",
-        "summary": "Bedrock vs Azure Foundry vs Vertex AI: $50 Gap [2026] &nbsp;&nbsp; shattered.io"
-      },
-      {
-        "headline": "Google, DeepMind launch institute to explore AGI - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-16T20:08:35.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4aU5EODcxNGZlb3Zta3RTbUVCUHhGcFliOENJREpTOTcwa0RjM3JvXzA1bzRVbnNnTDNWdDhGNzJ1MXRTaHJoVjZPWG5xcUpvWEhIcEJkSjd3XzN6ZGhITEtrdXJTWEpWNE1sMFlCbw?oc=5",
-        "summary": "Google, DeepMind launch institute to explore AGI &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
