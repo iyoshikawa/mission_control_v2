@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-17T19:32:31.325Z",
+    "generatedAt": "2026-09-17T22:40:09.266Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,70 @@
   },
   "newsFeed": [
     {
+      "headline": "Top US power grid operator urges big users to curb demand amid warm weather",
+      "summary": "Top US power grid operator urges big users to curb demand amid warm weather &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-17T21:44:55.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0VWbFZES3dVYWd5N1hBQk84bURoaWVVdGo2WHhlYkc2Q0F4bEtockRJNVZCVTNJNUNqVWVXZnNZSEhLQ011aHc5VWhOM1pCM196bFdkTWJBeTloREluZnRTaEpLUzc2VVpFZUxvTDdsaTFpRThOQUVGSTRUYjNvUG1Gc0tmX3VXdXpmcTYxZkN0WDdzRHM4dmsySXNNZ0U2ZDhjTzQxVjZ4Wk44aTNneU9DbWdkaEQ1QmJLN1BFM3pSZw?oc=5"
+    },
+    {
+      "headline": "US to allow Iranian leaders to attend UN General Assembly",
+      "summary": "US to allow Iranian leaders to attend UN General Assembly &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-17T21:08:12.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlRxdXlUU25MV1Q5ZThqV29lYjBpb1Y0V2MwV3RqZFNoR25hS2ZUX0VpR0hENmZIMlRPWWxGS1p1WUJmNktPZ0ZMWE8xSGRQYmFOUHkwamNjVTFhZFdpSkUxUEhROGl4Y0Y4X05kcTM5QmxqRXVnRm9hSzNCWGZza2RNX1JqYmJiLUJ3UUFFeHFlZVNQQ2QxbzEtbkF5MzlKSktFV3ZUaEdMdTdOdy1rMU9CYWxlRG81SlM0Zg?oc=5"
+    },
+    {
       "headline": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
       "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-17T18:22:00.000Z",
+      "timestamp": "2026-09-17T20:28:35.000Z",
       "impact": "HIGH",
       "region": "China",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5"
+    },
+    {
+      "headline": "Impoverished by war in Iran, Afghan migrants return to Taliban rule",
+      "summary": "Impoverished by war in Iran, Afghan migrants return to Taliban rule &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-17T20:05:38.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw?oc=5"
+    },
+    {
+      "headline": "US sanctions Cuban nickel reserves, military enterprises",
+      "summary": "US sanctions Cuban nickel reserves, military enterprises &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-17T18:32:09.000Z",
+      "impact": "HIGH",
+      "region": "United States",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdW04QTl1WUFFYmMxSF9TVHBrcEEtNUFURTVMd2FSMHdkZmFpU0tFQWJDdDZLSnJsSWw0cmRLeExNNEE1MG9rN0VfVzZ0VDdNQk5LdHVRQXlKUzR6dGREOXhXbWhrWlgyVWhUdmNEWnBaWWFvaFI0NkFLR1JzSUEzU3ZnRWJBX0sxMF81NzFQMmFHRnBXMi11SmF4T3dycXp6ODRHT0NtQVVJdw?oc=5"
+    },
+    {
+      "headline": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters",
+      "summary": "FAA waives emissions rules to let Boeing sell 35 additional 777F freighters &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-17T18:21:22.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeTQ4a2JORTVZMVR1UjdwZXpsc1hvYWZqbk90aWtUc3pVRVNfbHFlbWkxLTRheTNKVkl2REdGalZvLWVVRlhJUHZfWElGT2poY3JjRW41QmwwWHVaT0RsdDNoZTZkdGM1eDJyczlIenNQNk5qSXZxWWVIU2JpX0FKQVNhbXRxWHNVVmJXVUx0U1hfLUUxTUtyRnJoNTViMjRZVXJBSWlZNWc1T0hsTWs2Ul95akxuMEdiS1hjVDlQRFNYNDNzS0Z0MzNjMVpLOEU5Y1lUdw?oc=5"
     },
     {
       "headline": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails",
@@ -43,61 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5"
-    },
-    {
-      "headline": "UBS chairman warns bank could rethink Swiss base if rules too harsh",
-      "summary": "UBS chairman warns bank could rethink Swiss base if rules too harsh &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-17T18:01:28.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0d3VzlEY2dxUTRBOU9nSFU2MEtjNWp3YkpwV2lZNlUyUzNfMVRaV1JLUTh1cHJnODg3WG9fSERJX1doN0pnMjBuSFR2OFBhajJNTUdmOWRreVlENXlWZFhuVDNqdGs2aW5PUEhSZnBnbEo3b0M0NHRTTF95YjI4NHhBNUdzZF9xVFlLSFNTcW45eW9OdVR2UHJQWmkwaVBoekMtdDNOYk9qT1JuWFdTZA?oc=5"
-    },
-    {
-      "headline": "King Charles warns tech leaders of 'existential dangers' from AI",
-      "summary": "King Charles warns tech leaders of 'existential dangers' from AI &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-17T17:40:59.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5"
-    },
-    {
-      "headline": "Poland's Tusk says Russia plans 'hybrid' missile and drone attacks on Kyiv's allies",
-      "summary": "Poland's Tusk says Russia plans 'hybrid' missile and drone attacks on Kyiv's allies &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-17T17:33:01.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTElJRGt4ZWo4WXdSVzNiQmlxbFJhb25IQnJzVjRaYUNMbzVTYzNJcTFheUNmTUJxelVub2NCSHhwT1BqWWQ2TnR5TlQ0ZkRHUk1Oandua3JHSWJYNG53OVhBZWlPRkRQU05IOXdFenA3eHBNN2ZvTG9BVG5aUWtzd3dXUllNaDNfZGVTTkIyNU8tdUxPZE1uNlpIVkpQMk5aaTRfLUZfNG5LTWlfSHVSbUF0UVRxS00?oc=5"
-    },
-    {
-      "headline": "Russia, China end mandate for independent monitoring of UN sanctions on Iran",
-      "summary": "Russia, China end mandate for independent monitoring of UN sanctions on Iran &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-17T17:17:44.000Z",
-      "impact": "HIGH",
-      "region": "China",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHBsNEJfd0VCaF9BYlJXbDRTbFVTc1hGVE01TmdQaF9oRDdlaGw0YzU3TDRucEI4UjRpR2owemo3NUdFLTBkOVFCWm42Z0d3M0p1eHNvU3JBRkNyUG95VWoyWXRoY21lR0lvYjNXUjVEdUFON2x0dHdlbDF5OTlTOXpnV1kwNzlGQmRjODZGZzVsNXVjMHZvbXNad0dEWFdWTXVfdEVSNVh2dGx4elF1Nm5oaw?oc=5"
-    },
-    {
-      "headline": "Impoverished by war in Iran, Afghan migrants return to Taliban rule",
-      "summary": "Impoverished by war in Iran, Afghan migrants return to Taliban rule &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-17T17:11:49.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtnR01KbXZwRU1yS09FNXhXdnFRaXRXR1YyaWwyOWFvYWl1VC1MbVJFb1dvVWgxNGVFR0xKV3pCQkNycmVDaUJpVjFLYmt4MTVhSmR5dXRlVU54MWFRTG9LY2V4a1g3d2cyblNlVkU2MjNUTWJXaEY0MFNpNG9uZ3dWMWFEZ0ZIZ1dGMFdQby1jd1A5RzZ2TXNsQlJzdEFER2ZjRHE2SWstblhoVFRWWVhGcXFMZw?oc=5"
     }
   ]
 }
