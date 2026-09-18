@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-18T05:40:09.967Z",
+    "generatedAt": "2026-09-18T10:52:31.110Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic says its chatbot Claude is taking over the work of building its own successor - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-09-18T05:30:22.000Z",
+      "headline": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-09-18T10:04:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic says its chatbot Claude is taking over the work of building its own successor &nbsp;&nbsp; The Washington Post",
+      "summary": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward &nbsp;&nbsp; Fortune",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW80YlEwQkJ0MlpGREhiRy12UGVkdUpULW1GUm1WenpEM2NQbGk0Z2lETGNNVlZtQVJFN3lna2Mzb0xKSWoxVzN5T19lZmwycnRJNmVlc3RRVmZLdU9Md3pDd1BVUDFiLXVXR0ZFVWhCaW9OOFM1bWxoNXFwNWlSelFVYjhCcU5kS181RUQ2VjM?oc=5"
     },
     {
-      "headline": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-09-18T04:00:00.000Z",
+      "headline": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-18T09:38:17.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29OQzlUUU91RTM1ZTlCUlltS3VHQ0tpMWdBMVBxMmU3Y2xfYnJBZVljU2dzdUdObHhLVTl4QkVnUzZUdmlQTUhhVGw1UTNndGxNWVZ3S2xYbFhvdDNWbllZamRralZLV1IzUHI2enczREd3alE2dkpaZkJMZV9aNFVyYWhYYmJOSV9OTUNpLUlLcW1NT0dkRnhxbUZWNkhDZTNRMzZWc19RTEUwLUxJc1dGbW4xdl9n?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVDWHVZSXRaSnJENExMeU1PSjI3dXFEMUY3NWdsT1VOTU53NzJ6MXRZRl9Od3FQRFNpSllldGxYenM4RmdhVlp5MjJ1YmVvV01KTTI1Xy1BSTJrNmRuS24tME9DckN1ejRxQno5elpteEV6RlRGNFRaNkUzb1EtN0Q3SnExQlnSAYwBQVVfeXFMTlVtampvZjJYUEo4WERsUnYxd3AxdG9MWTdFY0pUcXNQYWp6Q2tsS1lfZTNESEdBaHV1T0VfcVpIVVNjSDRkV09wMDROWWZtaXlTQ1Jrd3NGVXBCdXMtWE1GWVlzSk9aekpRek00U3NwMXdWa2ttZFZlU3UtZmsxS2F6bHh6a25STXI0dHI?oc=5"
+    },
+    {
+      "headline": "Meta’s AI Agent Has a Trust Problem - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-09-18T09:30:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5"
+    },
+    {
+      "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-09-18T09:00:14.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5"
     },
     {
       "headline": "OpenAI breached by researchers using Anthropic models - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-09-18T03:31:31.000Z",
+      "timestamp": "2026-09-18T06:01:40.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "OpenAI breached by researchers using Anthropic models &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5"
-    },
-    {
-      "headline": "Anthropic says its model Claude is helping to build the next version of itself - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "timestamp": "2026-09-18T02:17:55.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic says its model Claude is helping to build the next version of itself &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0RtTS1pM2xacndPR245b3dPT2JqaTFjcFJRbGtaZUhNcVV0WlY5dFVRZFBreWVhSGhheWM2Zk1GdHNYYW5mVWJkRzFsV3BPQzNneXpwb3NVODN4WUhzLWZxVWYzd0ZmZjYzYWxBUWg2WEprSEV2MV8yYTY3UGM4ejc0ay1aOVVWWC04U1B5OEvSAZYBQVVfeXFMTnVfLUdtelBwZ0dGMVRTTWdMMzJDY1lKQ3IxZW1mSzYwOXJyYnp0cGh2NXhiNmswM3FZQ183NkVQYnR4Tl9kZFNTcWZHOXEydV83YmlEZklDQXJHSy1URUs1VlJmU25xSFZUMlE3ZnBESHV5LXhkejE3QlBzZlZoMjc1QTZvNEJpdGNYd0RqN2FuZ1I2Y1B3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5"
     },
     {
       "headline": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI - WSJ",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUlsdFN3V3lpNmQ1b0VyLWJsUHQ1VXdOQkVoTmp6dHFzc29fWmJOREs5bjFWMXB5bDUtbEpQc0RtWnc2dXNTbDdLUjRZWlk3LVp1RmFjbWl3TG5yQmEydGloUmFrOXZlY3pvX2xjMU9zYWdRdW9UU1Z2eG0wLWREcVFDbmZPRWxQR2dVU0dmTmdhR0ZOUDRBTA?oc=5"
     },
     {
-      "headline": "Influencers Are Using Meta's AI-Glasses to Film Manipulative Feel-Good Slop of People in Public - Futurism",
-      "source": "Futurism",
-      "timestamp": "2026-09-17T19:17:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Influencers Are Using Meta's AI-Glasses to Film Manipulative Feel-Good Slop of People in Public &nbsp;&nbsp; Futurism",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVZGZHVnUU5SamJoQUg5WHZGVU4tNnpzLThJS2NtVTRVSGNuY1BwQUFxU3lobmRHcHkyQW1jbEIyYktKYURuZ1l2V1B3VHdHTGd3Ui1zR1V6amVKc3JuVWlDUW9yOTY4dmg5MXJaU3A4T2FpblVDenlaMjJOSmZWRFdXc1FmT0s0R0N6SHpBd0hrTVU5VDl5Z05nX0JyaU03WHNDcnItLUladw?oc=5"
-    },
-    {
       "headline": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls - TechCrunch",
       "source": "TechCrunch",
       "timestamp": "2026-09-17T13:46:16.000Z",
@@ -115,40 +115,49 @@
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic says its chatbot Claude is taking over the work of building its own successor - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-09-18T05:30:22.000Z",
+        "headline": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-09-18T10:04:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5",
-        "summary": "Anthropic says its chatbot Claude is taking over the work of building its own successor &nbsp;&nbsp; The Washington Post"
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW80YlEwQkJ0MlpGREhiRy12UGVkdUpULW1GUm1WenpEM2NQbGk0Z2lETGNNVlZtQVJFN3lna2Mzb0xKSWoxVzN5T19lZmwycnRJNmVlc3RRVmZLdU9Md3pDd1BVUDFiLXVXR0ZFVWhCaW9OOFM1bWxoNXFwNWlSelFVYjhCcU5kS181RUQ2VjM?oc=5",
+        "summary": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-18T04:00:00.000Z",
+        "headline": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-09-18T09:38:17.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29OQzlUUU91RTM1ZTlCUlltS3VHQ0tpMWdBMVBxMmU3Y2xfYnJBZVljU2dzdUdObHhLVTl4QkVnUzZUdmlQTUhhVGw1UTNndGxNWVZ3S2xYbFhvdDNWbllZamRralZLV1IzUHI2enczREd3alE2dkpaZkJMZV9aNFVyYWhYYmJOSV9OTUNpLUlLcW1NT0dkRnhxbUZWNkhDZTNRMzZWc19RTEUwLUxJc1dGbW4xdl9n?oc=5",
-        "summary": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVDWHVZSXRaSnJENExMeU1PSjI3dXFEMUY3NWdsT1VOTU53NzJ6MXRZRl9Od3FQRFNpSllldGxYenM4RmdhVlp5MjJ1YmVvV01KTTI1Xy1BSTJrNmRuS24tME9DckN1ejRxQno5elpteEV6RlRGNFRaNkUzb1EtN0Q3SnExQlnSAYwBQVVfeXFMTlVtampvZjJYUEo4WERsUnYxd3AxdG9MWTdFY0pUcXNQYWp6Q2tsS1lfZTNESEdBaHV1T0VfcVpIVVNjSDRkV09wMDROWWZtaXlTQ1Jrd3NGVXBCdXMtWE1GWVlzSk9aekpRek00U3NwMXdWa2ttZFZlU3UtZmsxS2F6bHh6a25STXI0dHI?oc=5",
+        "summary": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Meta’s AI Agent Has a Trust Problem - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-09-18T09:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12bzFJR09NNVNvZjRVTWRiSjFpbW1mSERNendTQzdROHRDQ0NIZUtQYzB4bXFrQ2pOYmJoV2owY3hsRUxzbUhnbURRZTJkbFpxaWQ4SGd6V0MybzlpdDhzX0Zmdno4RFA5MkJvWUEtTmdjeVN3R1B0MWJWaw?oc=5",
+        "summary": "Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-09-18T09:00:14.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
+        "summary": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal. &nbsp;&nbsp; Business Insider"
       },
       {
         "headline": "OpenAI breached by researchers using Anthropic models - Financial Times",
         "source": "Financial Times",
-        "timestamp": "2026-09-18T03:31:31.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5",
-        "summary": "OpenAI breached by researchers using Anthropic models &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "Anthropic says its model Claude is helping to build the next version of itself - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "timestamp": "2026-09-18T02:17:55.000Z",
+        "timestamp": "2026-09-18T06:01:40.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0RtTS1pM2xacndPR245b3dPT2JqaTFjcFJRbGtaZUhNcVV0WlY5dFVRZFBreWVhSGhheWM2Zk1GdHNYYW5mVWJkRzFsV3BPQzNneXpwb3NVODN4WUhzLWZxVWYzd0ZmZjYzYWxBUWg2WEprSEV2MV8yYTY3UGM4ejc0ay1aOVVWWC04U1B5OEvSAZYBQVVfeXFMTnVfLUdtelBwZ0dGMVRTTWdMMzJDY1lKQ3IxZW1mSzYwOXJyYnp0cGh2NXhiNmswM3FZQ183NkVQYnR4Tl9kZFNTcWZHOXEydV83YmlEZklDQXJHSy1URUs1VlJmU25xSFZUMlE3ZnBESHV5LXhkejE3QlBzZlZoMjc1QTZvNEJpdGNYd0RqN2FuZ1I2Y1B3?oc=5",
-        "summary": "Anthropic says its model Claude is helping to build the next version of itself &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos"
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5",
+        "summary": "OpenAI breached by researchers using Anthropic models &nbsp;&nbsp; Financial Times"
       },
       {
         "headline": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI - WSJ",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
         "summary": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-09-18T00:09:23.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-        "summary": "Measurements for understanding the pace of AI development inside frontier labs &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
