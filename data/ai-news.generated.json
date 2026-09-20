@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T18:07:20.956Z",
+    "generatedAt": "2026-09-20T21:18:25.238Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop' - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-09-20T17:48:11.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop' &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXBEQlVENUVjVFJIenloX1NGdmw2YmZOWHEtX3NUX2R1X1RNODRSS3RCR2hhUDVoMXl3OU1iVzR3Wng0bS0wczdJV3dPMXBWMjRCNHlfajVTVUV6RjZFbjROempSMHRZSmtLbHU5VF9DbmxaWFNLRm51akVoQmNDbnRyUU5mRGduZ0tPWl9hbEY?oc=5"
-    },
-    {
-      "headline": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
-      "source": "qz.com",
-      "timestamp": "2026-09-20T14:32:50.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown &nbsp;&nbsp; qz.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHBiS2tSYUVPMi1YRjVtOWdKNHNLdmg1amtkTkdFUnF6NzZzYWRiSGg0SkRPMzdHaEJfTzFiOWwzVm90LURvMC1KWjdKdGYzRnVwaS03eEtPUDVDWFVEcnFrcDUtTUtYdTJweFMtZk80YWYzcWZ0Mk5QNFhKbDZXUk5JWUlpS0VEZ1F5Yg?oc=5"
+      "headline": "Hackers who broke into OpenAI warn the AI industry has a security problem - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-09-20T16:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Hackers who broke into OpenAI warn the AI industry has a security problem &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5"
     },
     {
       "headline": "The tech battle to build your AI assistant - Axios",
@@ -42,33 +32,23 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSV9qc0ZQeGdsRWhPZW5RSGk4S29MeHAwSl8wX21lb3FBR1hXdC1CTjdoQ3RoT2M1ZHc0NURiU1F6R3gwUW5aR1lIMWhLa0lFV2NtTk5tdnlJZE44aS1jTml6R1djSTBVa2R1cWpfd0MwcnZnZFdsWWluRjdKUGMxQzByYmxvM1dBamc?oc=5"
     },
     {
-      "headline": "The Company Trump Can’t Ignore - Politico",
-      "source": "Politico",
-      "timestamp": "2026-09-20T11:01:00.000Z",
+      "headline": "Meta’s Muse Is Better at Surveilling Than Helping Me - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-09-20T10:30:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The Company Trump Can’t Ignore &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5"
+      "summary": "Meta’s Muse Is Better at Surveilling Than Helping Me &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3RQZm45QzVjakJxR2RuaENRQ0VpVDlCSWhNWGhUWEdMb3F5Y0d5ampKS2l5aVVWOTdDMUtMM3A4UWYtTV9kNGpSaTdrMFFDaC1KSW5ZT0VCVjNhTmNkdEk1ajlWalRnY3pHeWdaOVp1OGh2NW1nd2FyM0VKbjllU2ozVVNra0E?oc=5"
     },
     {
-      "headline": "Deploy MAI-Thinking-1 on Azure AI Foundry: 12 Steps [2026] - tech-insider.org",
-      "source": "tech-insider.org",
-      "timestamp": "2026-09-20T01:01:03.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Deploy MAI-Thinking-1 on Azure AI Foundry: 12 Steps [2026] &nbsp;&nbsp; tech-insider.org",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EMmh6dmJtNGpwSW1JUE5ZSkZDTWhUTWgtZE9CYkotVl9HTUU5eGZHTUNnR0FTX3lpa2ZDTWZfVVhYVEhnQ243VE1YOVBvV2RQdVFKRzcycDRLZ2NfWmg1cE52eFlBTmp5d2ltN1o2Q295b0wxdXJFRTRDeWg?oc=5"
-    },
-    {
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-      "source": "AP News",
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - apnews.com",
+      "source": "apnews.com",
       "timestamp": "2026-09-19T22:05:00.000Z",
       "impact": "HIGH",
       "category": "regulation",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown &nbsp;&nbsp; AP News",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown &nbsp;&nbsp; apnews.com",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5"
     },
     {
@@ -82,12 +62,22 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5"
     },
     {
-      "headline": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges - cybersecuritynews.com",
-      "source": "cybersecuritynews.com",
+      "headline": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-09-19T13:05:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5"
+    },
+    {
+      "headline": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges - CyberSecurityNews",
+      "source": "CyberSecurityNews",
       "timestamp": "2026-09-19T04:42:58.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges &nbsp;&nbsp; cybersecuritynews.com",
+      "summary": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges &nbsp;&nbsp; CyberSecurityNews",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DUGtZbnJJVkhRNVVsbnlyX0ZNNE1pRWJnLW9YbDJvNl9yTHVkdUlYQ09YdW52UzEtR3Y2ZG1UZmFtSDVnRVN4Q3oxNlNtdGY4bEhDT1ZDZ1U5YVVkLXlWS2JoY3kteE45bVBxOU5ZNDl2UlBDeGRIYmlRWdIBgAFBVV95cUxOdW14TEM3ZXh3TWtJS0tpUUNMWkduVWl6a09PUGxyOXlwbTNLRmNIZ2NVOE5GdWczY2tXTTlrZFRZcDNCV2s2UXlFcHBoQjdxVkxiSTNqTUl6U3JlcHN5YWp4OF9iNnhGbFI1S053encyU1pwMDM1MVlMamdFNDNRTw?oc=5"
     },
@@ -110,27 +100,28 @@
       "summary": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development &nbsp;&nbsp; Politico",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5"
+    },
+    {
+      "headline": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-19T00:05:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say &nbsp;&nbsp; reuters.com",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop' - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-09-20T17:48:11.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXBEQlVENUVjVFJIenloX1NGdmw2YmZOWHEtX3NUX2R1X1RNODRSS3RCR2hhUDVoMXl3OU1iVzR3Wng0bS0wczdJV3dPMXBWMjRCNHlfajVTVUV6RjZFbjROempSMHRZSmtLbHU5VF9DbmxaWFNLRm51akVoQmNDbnRyUU5mRGduZ0tPWl9hbEY?oc=5",
-        "summary": "Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop' &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown - qz.com",
-        "source": "qz.com",
-        "timestamp": "2026-09-20T14:32:50.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHBiS2tSYUVPMi1YRjVtOWdKNHNLdmg1amtkTkdFUnF6NzZzYWRiSGg0SkRPMzdHaEJfTzFiOWwzVm90LURvMC1KWjdKdGYzRnVwaS03eEtPUDVDWFVEcnFrcDUtTUtYdTJweFMtZk80YWYzcWZ0Mk5QNFhKbDZXUk5JWUlpS0VEZ1F5Yg?oc=5",
-        "summary": "Antitrust lawsuit targets Anthropic, OpenAI, Google, SpaceXAI AI slowdown &nbsp;&nbsp; qz.com"
+        "headline": "Hackers who broke into OpenAI warn the AI industry has a security problem - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-09-20T16:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
+        "summary": "Hackers who broke into OpenAI warn the AI industry has a security problem &nbsp;&nbsp; The Washington Post"
       },
       {
         "headline": "The tech battle to build your AI assistant - Axios",
@@ -142,31 +133,40 @@
         "summary": "The tech battle to build your AI assistant &nbsp;&nbsp; Axios"
       },
       {
-        "headline": "The Company Trump Can’t Ignore - Politico",
-        "source": "Politico",
-        "timestamp": "2026-09-20T11:01:00.000Z",
+        "headline": "Meta’s Muse Is Better at Surveilling Than Helping Me - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-09-20T10:30:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
-        "summary": "The Company Trump Can’t Ignore &nbsp;&nbsp; Politico"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3RQZm45QzVjakJxR2RuaENRQ0VpVDlCSWhNWGhUWEdMb3F5Y0d5ampKS2l5aVVWOTdDMUtMM3A4UWYtTV9kNGpSaTdrMFFDaC1KSW5ZT0VCVjNhTmNkdEk1ajlWalRnY3pHeWdaOVp1OGh2NW1nd2FyM0VKbjllU2ozVVNra0E?oc=5",
+        "summary": "Meta’s Muse Is Better at Surveilling Than Helping Me &nbsp;&nbsp; WIRED"
       },
       {
-        "headline": "Deploy MAI-Thinking-1 on Azure AI Foundry: 12 Steps [2026] - tech-insider.org",
-        "source": "tech-insider.org",
-        "timestamp": "2026-09-20T01:01:03.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EMmh6dmJtNGpwSW1JUE5ZSkZDTWhUTWgtZE9CYkotVl9HTUU5eGZHTUNnR0FTX3lpa2ZDTWZfVVhYVEhnQ243VE1YOVBvV2RQdVFKRzcycDRLZ2NfWmg1cE52eFlBTmp5d2ltN1o2Q295b0wxdXJFRTRDeWg?oc=5",
-        "summary": "Deploy MAI-Thinking-1 on Azure AI Foundry: 12 Steps [2026] &nbsp;&nbsp; tech-insider.org"
-      },
-      {
-        "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-        "source": "AP News",
+        "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - apnews.com",
+        "source": "apnews.com",
         "timestamp": "2026-09-19T22:05:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-        "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown &nbsp;&nbsp; AP News"
+        "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown &nbsp;&nbsp; apnews.com"
+      },
+      {
+        "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-09-19T17:49:31.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
+        "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown &nbsp;&nbsp; CBS News"
+      },
+      {
+        "headline": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-09-19T13:05:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
+        "summary": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age &nbsp;&nbsp; Fortune"
       }
     ],
     "whyItMatters": [
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
@@ -196,7 +196,7 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
