@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T17:56:57.998Z",
+    "generatedAt": "2026-09-20T20:30:48.248Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,28 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Trump administration prepares to sanction the International Criminal Court, WSJ reports",
+      "summary": "Trump administration prepares to sanction the International Criminal Court, WSJ reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-20T18:46:05.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5"
+    },
+    {
+      "headline": "Trump wants to use Washington arch as military complex for drones and snipers",
+      "summary": "Trump wants to use Washington arch as military complex for drones and snipers &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-20T18:05:52.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5"
+    },
     {
       "headline": "Iran and US trade threats after Houthi attacks escalate regional conflict",
       "summary": "Iran and US trade threats after Houthi attacks escalate regional conflict &nbsp;&nbsp; Reuters",
@@ -34,17 +56,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHlUSW5Qa09GV3dSeG93QlNOUkVaQnRjMWRJUWJGaHBWekpMWkRSRlBfNDZyUkEtTXVodTNuRE1FazZsUnBxZnJEMnFkVGdwTDJtcFVlOEpJWTJrLTRPVVZfYloxTGJoOEdtSWpJTzFkMzR6Yy13NXc5bGEwdkJKNVFfVnA4Smk1aDROQVkwcm85SHNMQkNLOVNaVVI4VkRwTTl0N0lhd05VeUtXOWUtUWp6U2dPaU43QS1mcw?oc=5"
     },
     {
-      "headline": "Iran warns against new escalation by US and allies",
-      "summary": "Iran warns against new escalation by US and allies &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-20T15:54:06.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5"
-    },
-    {
       "headline": "Russian exiles cast votes to voice dissent to Putin and Ukraine war",
       "summary": "Russian exiles cast votes to voice dissent to Putin and Ukraine war &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -54,17 +65,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHN0dkVIZGRKZjYxeTMxV2RiY1JnSFh3WmtwTmZUR1Q4Y3dCd3htZkVLMG1BTkp1Z1ZqRzdqLUxFLTRHT01RX1g5TWlJSU8taXNMbTlNZUc5NjFTdGNWak4wN3E2Yjd0SnUtNGV5UjFwbjEyZG1RU3AycXdEZDFMcjFvS1NpSkRScU9ZWDRhSG85ZmdnbzVCd0lJTXR3M1lY?oc=5"
-    },
-    {
-      "headline": "Trump to use Washington arch as military complex for drones and snipers",
-      "summary": "Trump to use Washington arch as military complex for drones and snipers &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-20T15:48:15.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5"
     },
     {
       "headline": "PODCAST: Houthis target Saudi, Moscow drone attack and Ed Sheeran",
