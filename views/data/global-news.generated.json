@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T05:42:54.093Z",
+    "generatedAt": "2026-09-20T10:38:53.162Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,9 +12,42 @@
   },
   "newsFeed": [
     {
+      "headline": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+      "summary": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-20T08:11:43.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5"
+    },
+    {
+      "headline": "Russian drone attack kills three children and a woman in Kyiv region",
+      "summary": "Russian drone attack kills three children and a woman in Kyiv region &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-20T06:30:00.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2VHSUIyQ3pINUdyakNEOEE1ZWpJZzZOMUxjUXJvekhrNkJINzZlY3J5MFVfVUFFdW1sZ09SY19EQ3JqM0MxR1NrQVEwOVFxSDlBazZ4VlBhMEF5eFFma0NhMHR3amg1TnJtdi1qaFIybHdEZW1DUVV6SUNVSEFXeWttbnF6N0Y5dFRWYnlkbnVPaU1VVWozTjBUc3hlSDRjQlcxYUh6Z1d4NjUz?oc=5"
+    },
+    {
+      "headline": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
+      "summary": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-20T05:06:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5"
+    },
+    {
       "headline": "World leaders return to UN amid wars in Middle East and Ukraine",
-      "summary": "World leaders return to UN amid wars in Middle East and Ukraine &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "World leaders return to UN amid wars in Middle East and Ukraine &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-09-20T05:05:00.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -23,20 +56,31 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5"
     },
     {
-      "headline": "Russian election, cast as test of support for Ukraine war, enters final day",
-      "summary": "Russian election, cast as test of support for Ukraine war, enters final day &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "headline": "Ukraine launches biggest Moscow drone attack as Russia votes",
+      "summary": "Ukraine launches biggest Moscow drone attack as Russia votes &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-09-20T04:03:00.000Z",
       "impact": "HIGH",
       "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWF9NeWpBYnEyU1JJdWppTldhbFJ1RDR0emoxZ1ZyNTE0WF8xTW1VTE5lb2dDYkFyUS1BVU9NdzRxYnpqdXNHVk1KWU42RTZvVy1uQXBoaDBNQ2pWQVJUY2xtTGtyMDdMMjhYdG1jbHVkYUhOaEhXcDVmYlo5Q2NWcVRfZHlmZnRKamd1YlRPOFN3VlE5OFlfWEVHbmFDenU3VzFZVWNGQVlhbkxXWjZmc25R?oc=5"
     },
     {
+      "headline": "Trump seeks to bring health-research funding under his control, Politico reports",
+      "summary": "Trump seeks to bring health-research funding under his control, Politico reports &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-20T03:34:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcHFPVFJQWkZGSFpvSUh0cGlxYWlOUEJFYVJVQS1Ma0RiRWlBMHdGcHFCa3J1SUtsRUE0c3d1YjcwM1pBVTFIUkR1MHhxamhZZHNWbTQwSU1ZSDI3eUtvU0JIYnd4TDV2UVU0ZGN1bEllMzRyZmJ1cjZndnZJb1VyZHpZalVWdmNmU3RHSktTS2NVdUcwcmVwSktncTVZam9WRU9TMkVKRHhWazVtTmJsdHQxbnJYdXJvTWdPZ2J1NlJ5akwzcm5UQ1FBZ0NwZTRrcVF5cGwyZGhIVWZsQzRjb3Nn?oc=5"
+    },
+    {
       "headline": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy",
-      "summary": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
+      "summary": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "timestamp": "2026-09-20T01:37:00.000Z",
       "impact": "HIGH",
       "region": "Middle East",
@@ -45,59 +89,15 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjF0SWxoajFDdXhWT1U5M1QxbE9BXzJIT3dpVVhoUE51LUh2c3FBQ1IzQ3Y3Mm5mb25yWGZhbXRIUjhlZHNQUGUwdUE3OTRPSndaWk5SZ0tKY1d1Y08zNVZ1OWhnUTU1OXpuQnVyNkxBRVYyYTZQYkNsTTl5NzR6LWpsUWp0aEdUNnRfRTk2ZW82LUZia3VkRHJ5LVRqY3NXb3c0M29MM1VZZEVPNGt6cTFNNmY4Q3NMS0VlRjQ1NDZTT2NCTEl1Z1V4MW10Rmc?oc=5"
     },
     {
-      "headline": "Turkey says it could help meet Saudi military needs under defence pact",
-      "summary": "Turkey says it could help meet Saudi military needs under defence pact &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-09-19T19:21:47.000Z",
+      "headline": "Hungarians and Slovaks share breakfast on Danube bridge that survived war and division",
+      "summary": "Hungarians and Slovaks share breakfast on Danube bridge that survived war and division &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-19T21:46:51.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
+      "region": "Global",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFRETlRnejhZT205SG1jcTdjVXczcElRSUxEam5NemVkeWdYaEdkU0hjSFlrMGkxd0JoV1YzMHlRUWl4TnJSSy14aFJUemp3bm55X0dqcXdEN0o4aUdScDE0M3ZsRzlEQ0lhWm4yX0NDVE02aUl6djZneTMxMWxsYnVlYTltMmVhMlVXdU5vZjY1Z3B3aVpCU0NVb1Y0ZmI1V3FJUi1EaGt1d1AwUV9JeTR0RWZVeFRZbUsyS2lTUUJUd1hfOFg4NEtMcWhUQQ?oc=5"
-    },
-    {
-      "headline": "Slovak PM Fico says some in West seek war between Russia and NATO",
-      "summary": "Slovak PM Fico says some in West seek war between Russia and NATO &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-09-19T19:11:45.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016UFBsM3NGZkljZl9SU0E?oc=5"
-    },
-    {
-      "headline": "Japan's Nippon Life plans $13 billion for data center financing in US, Nikkei Asia reports",
-      "summary": "Japan's Nippon Life plans $13 billion for data center financing in US, Nikkei Asia reports &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-09-19T18:43:43.000Z",
-      "impact": "HIGH",
-      "region": "Japan",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjh5T3NXaFpGUEVWa2tnSE93LXNoNzJEUXZGVU9hSXNRRmI2ODZhRk5remJwemRMbVBrM0E5T2t4Z3VDbGdzNEVPSGhtSEV2bDJXN2tQYWpURlJKRGtKaGN0YThaTGdRQVdadDZ6MG0tQzM3T05YU1lCSDJVUHZaRXhEN3Y5ZVB3eXJYaHJOeGFvUFA3Q3dXeDNKQThaMUVOS1BraTVRT1Qxa1ctWkM5UDEtVDJpYVdacjNWc1gyNDc2dkxPemVMU2tWZjdHX3lW?oc=5"
-    },
-    {
-      "headline": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "summary": "Canada optimistic about concluding trade talks with India by year-end, minister says &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-09-19T17:24:05.000Z",
-      "impact": "HIGH",
-      "region": "India",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5"
-    },
-    {
-      "headline": "UEFA defends draw policy after Ireland request, Israel dismisses FAI comments",
-      "summary": "UEFA defends draw policy after Ireland request, Israel dismisses FAI comments &nbsp;&nbsp; reuters.com",
-      "source": "reuters.com",
-      "timestamp": "2026-09-19T15:34:00.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTBaQ2p3YTFxMmxpT3BaeWNZZ1BnS3NRR2l2ZXZHQWhhanRLcEFIWDZxT0hYS3NhMUtNcXIwc1lDNUNPWE0tZWJ4ZlVsMTN5VUpGaFo5dTFvTDBXY1RiWGNBenZxaGRTSGV2WGtFTjJCTnJrLUpULVdxSEhvU1FuZzhsT3dOTHBDRnhmcUZCTFc5Rm12MzFoM0lHb3BxV1BJRmdiRnRaWHRJZi1CQ3hoMVR4MzZNS1hwdUNqazh5c0wzQXBl?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckNCakJvb1JpZnluMzdhMkY2ck95S0ZCMm04RElYWEEzSGNnbGFZWGFLS3dsYm1wVEtsWTBpUXVBczlObFVaaHJxZGduY0ZVam1uLUFHVzdvQVpVaEF0UHZIOFRkVENteXo5YzJ4NFkzVmItS2tFM3pPMFVxaFdOd2hKOUZMbmZHWkhtWkRiNl92cWNndVE1ZkNlTDR3azRjOHgtRmhkU253UjVBb2x0NmhwNDFLODAt?oc=5"
     }
   ]
 }
