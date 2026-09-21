@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-21T10:31:04.041Z",
+    "generatedAt": "2026-09-21T16:53:18.012Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "The tech battle to build your AI assistant - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-20T21:48:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The tech battle to build your AI assistant &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSV9qc0ZQeGdsRWhPZW5RSGk4S29MeHAwSl8wX21lb3FBR1hXdC1CTjdoQ3RoT2M1ZHc0NURiU1F6R3gwUW5aR1lIMWhLa0lFV2NtTk5tdnlJZE44aS1jTml6R1djSTBVa2R1cWpfd0MwcnZnZFdsWWluRjdKUGMxQzByYmxvM1dBamc?oc=5"
+      "headline": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-09-21T16:05:23.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5"
     },
     {
-      "headline": "The Guardian view on AI v mathematicians: humans are still vital to the field, but tech firms refuse to see that | Editorial - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-09-20T16:58:00.000Z",
+      "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - theinformation.com",
+      "source": "theinformation.com",
+      "timestamp": "2026-09-21T13:55:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The Guardian view on AI v mathematicians: humans are still vital to the field, but tech firms refuse to see that | Editorial &nbsp;&nbsp; The Guardian",
+      "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI &nbsp;&nbsp; theinformation.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcjItcDBPVG5ZQ0RNUWJDTVc5dTg5Tk02cURGWUJIRmhjcWZpV2hmLUJPbmNJRDh5MUphdnczLTJIMmF5aXpIWFdKWkRYbGZlUm0ycmJNckNrR2dhQUlQSm8zVmRvMS01RnRhdkloNzJ5NVdRanZzd18xOXRYbDB6bGlHWGdrc1ROM1Nmc014UlFFSktNc1F0V3F3ZTVLSFU0N3dBNHU4ZjdDb1dJN1ZhYXM4M21kemxvMHB6X0hlVkN1NE9QM3NZUGFaQTJocURFS2dIMGNVczFPTW82U0RpajNsQ1ZLR2xyeHpOM0tDMHJyV1I2U1ZR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5"
+    },
+    {
+      "headline": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse - NDTV",
+      "source": "NDTV",
+      "timestamp": "2026-09-21T13:47:33.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse &nbsp;&nbsp; NDTV",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWt6SHBBbmZQbGZzOF9GeWkxMi02TXFwYzFkVGF1aU1rYTVWRUMzYUFzRDhTVlNYRlEwT2FLVTZDbkRXNFB1Mk9fWHFQWnRsTXV0UGh1aTJCbVpJTUtYXzE4WnRNZl95N1JtM0NiaWpBbzAzeGdISWJubUZPTVNDM1UyVi1tT2w3THZraU1xMF9SZVF2cUJON3ZiLU9mU01iT2lkcnpxMEE3WXdzWFlnSUp3SS1vRHZhTUdyNEpVZDhXamFrWjJFR2RB0gHSAUFVX3lxTE1oa3R1aWxnVGY5d1d4LUtRSW1EcGZtcWF1QzNIU3RnVVlwd05zaUJ1QUNWOVJhLTRXTGtNSjI2Z2FseXJ3alBudTdBQ01TTDIyaXJsMlViczhEd2RjUTM2NjZabVFWcFU0Y2gxNGNNTEluV1ZSek82ZkhVYlBOV2RqSGk3LTdFdmlqNlRKeDBXc0lCeWtmWk5WNWtSUDROdzgxR2NPOXAxOWNRVktQYXRHZGVvazZmNG8yVkM4T1NzaEVLOUM1ZWN1SmxYYTJKVmU5QQ?oc=5"
+    },
+    {
+      "headline": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-21T13:10:51.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem9JYzZDak5TUTVrM2N6a25qVDI1eG9XSkRKaU1nUU5CYUFBdWNQU1puZ2FoNWJ5aWF2RXFYQi1BVU9xcFRaWHhhYnh1cTAzeE9PeUdvRTdxWDRIZU04WDVZQkdNVkJQYjFXcm54Y1A5dDk1YzhfbFNoQ0d0aUNmVDNtUlBIc1FNRUE2Qy02ZkVnTlFCQ3VYXzgwc2I?oc=5"
+    },
+    {
+      "headline": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-21T13:10:40.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Anthropic to push IPO: Strategic delay or AI market warning? &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5"
+    },
+    {
+      "headline": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-09-21T04:03:04.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5"
     },
     {
       "headline": "Hackers who broke into OpenAI warn the AI industry has a security problem - The Washington Post",
@@ -52,12 +92,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRmVFUU9na1lXODAzRDhqdDR3MWRIa3JSRjgzaFZiTW9iSjB6NVlBX1ZpelBZbUtHeDAwNnRlcWhxVlc2WWxqRWNWNG1KWVZjcm1xNVVLRGxIbXBKOGc3VjRGMGxHWWM?oc=5"
     },
     {
-      "headline": "The Company Trump Can’t Ignore - Politico",
-      "source": "Politico",
+      "headline": "The Company Trump Can’t Ignore - politico.com",
+      "source": "politico.com",
       "timestamp": "2026-09-20T11:01:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "The Company Trump Can’t Ignore &nbsp;&nbsp; Politico",
+      "summary": "The Company Trump Can’t Ignore &nbsp;&nbsp; politico.com",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5"
     },
@@ -70,122 +110,82 @@
       "summary": "Meta’s Muse Is Better at Surveilling Than Helping Me &nbsp;&nbsp; WIRED",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3RQZm45QzVjakJxR2RuaENRQ0VpVDlCSWhNWGhUWEdMb3F5Y0d5ampKS2l5aVVWOTdDMUtMM3A4UWYtTV9kNGpSaTdrMFFDaC1KSW5ZT0VCVjNhTmNkdEk1ajlWalRnY3pHeWdaOVp1OGh2NW1nd2FyM0VKbjllU2ozVVNra0E?oc=5"
-    },
-    {
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business - CNN",
-      "source": "CNN",
-      "timestamp": "2026-09-20T01:25:43.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown | CNN Business &nbsp;&nbsp; CNN",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LMXZMNUl2VW9SaW0wMWE2Z1lwaVFvQi1nSDkzajgyY1o2MVpreExYNkZ3NElyU18ySjJTUUkzNHUtdUpVYVJpMzFvTEFRbWpDdXJjaS1QdFk2RmFFbm9GR2V6SzlvTWRFT1BWcEp4bWp2SXBuaFVr?oc=5"
-    },
-    {
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN",
-      "source": "CNN",
-      "timestamp": "2026-09-20T01:06:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5"
-    },
-    {
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-      "source": "AP News",
-      "timestamp": "2026-09-19T22:05:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown &nbsp;&nbsp; AP News",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5"
-    },
-    {
-      "headline": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges - CyberSecurityNews",
-      "source": "CyberSecurityNews",
-      "timestamp": "2026-09-19T04:42:58.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges &nbsp;&nbsp; CyberSecurityNews",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DUGtZbnJJVkhRNVVsbnlyX0ZNNE1pRWJnLW9YbDJvNl9yTHVkdUlYQ09YdW52UzEtR3Y2ZG1UZmFtSDVnRVN4Q3oxNlNtdGY4bEhDT1ZDZ1U5YVVkLXlWS2JoY3kteE45bVBxOU5ZNDl2UlBDeGRIYmlRWdIBgAFBVV95cUxOdW14TEM3ZXh3TWtJS0tpUUNMWkduVWl6a09PUGxyOXlwbTNLRmNIZ2NVOE5GdWczY2tXTTlrZFRZcDNCV2s2UXlFcHBoQjdxVkxiSTNqTUl6U3JlcHN5YWp4OF9iNnhGbFI1S053encyU1pwMDM1MVlMamdFNDNRTw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "The tech battle to build your AI assistant - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-20T21:48:50.000Z",
+        "headline": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-09-21T16:05:23.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5",
+        "summary": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - theinformation.com",
+        "source": "theinformation.com",
+        "timestamp": "2026-09-21T13:55:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSV9qc0ZQeGdsRWhPZW5RSGk4S29MeHAwSl8wX21lb3FBR1hXdC1CTjdoQ3RoT2M1ZHc0NURiU1F6R3gwUW5aR1lIMWhLa0lFV2NtTk5tdnlJZE44aS1jTml6R1djSTBVa2R1cWpfd0MwcnZnZFdsWWluRjdKUGMxQzByYmxvM1dBamc?oc=5",
-        "summary": "The tech battle to build your AI assistant &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+        "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI &nbsp;&nbsp; theinformation.com"
       },
       {
-        "headline": "The Guardian view on AI v mathematicians: humans are still vital to the field, but tech firms refuse to see that | Editorial - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-09-20T16:58:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcjItcDBPVG5ZQ0RNUWJDTVc5dTg5Tk02cURGWUJIRmhjcWZpV2hmLUJPbmNJRDh5MUphdnczLTJIMmF5aXpIWFdKWkRYbGZlUm0ycmJNckNrR2dhQUlQSm8zVmRvMS01RnRhdkloNzJ5NVdRanZzd18xOXRYbDB6bGlHWGdrc1ROM1Nmc014UlFFSktNc1F0V3F3ZTVLSFU0N3dBNHU4ZjdDb1dJN1ZhYXM4M21kemxvMHB6X0hlVkN1NE9QM3NZUGFaQTJocURFS2dIMGNVczFPTW82U0RpajNsQ1ZLR2xyeHpOM0tDMHJyV1I2U1ZR?oc=5",
-        "summary": "The Guardian view on AI v mathematicians: humans are still vital to the field, but tech firms refuse to see that | Editorial &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Hackers who broke into OpenAI warn the AI industry has a security problem - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-09-20T16:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
-        "summary": "Hackers who broke into OpenAI warn the AI industry has a security problem &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "Google Preps Gemini 4 Pro Content Creation for October 2026 - Geeky Gadgets",
-        "source": "Geeky Gadgets",
-        "timestamp": "2026-09-20T12:04:37.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRmVFUU9na1lXODAzRDhqdDR3MWRIa3JSRjgzaFZiTW9iSjB6NVlBX1ZpelBZbUtHeDAwNnRlcWhxVlc2WWxqRWNWNG1KWVZjcm1xNVVLRGxIbXBKOGc3VjRGMGxHWWM?oc=5",
-        "summary": "Google Preps Gemini 4 Pro Content Creation for October 2026 &nbsp;&nbsp; Geeky Gadgets"
-      },
-      {
-        "headline": "The Company Trump Can’t Ignore - Politico",
-        "source": "Politico",
-        "timestamp": "2026-09-20T11:01:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5",
-        "summary": "The Company Trump Can’t Ignore &nbsp;&nbsp; Politico"
-      },
-      {
-        "headline": "Meta’s Muse Is Better at Surveilling Than Helping Me - WIRED",
-        "source": "WIRED",
-        "timestamp": "2026-09-20T10:30:00.000Z",
+        "headline": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse - NDTV",
+        "source": "NDTV",
+        "timestamp": "2026-09-21T13:47:33.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3RQZm45QzVjakJxR2RuaENRQ0VpVDlCSWhNWGhUWEdMb3F5Y0d5ampKS2l5aVVWOTdDMUtMM3A4UWYtTV9kNGpSaTdrMFFDaC1KSW5ZT0VCVjNhTmNkdEk1ajlWalRnY3pHeWdaOVp1OGh2NW1nd2FyM0VKbjllU2ozVVNra0E?oc=5",
-        "summary": "Meta’s Muse Is Better at Surveilling Than Helping Me &nbsp;&nbsp; WIRED"
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWt6SHBBbmZQbGZzOF9GeWkxMi02TXFwYzFkVGF1aU1rYTVWRUMzYUFzRDhTVlNYRlEwT2FLVTZDbkRXNFB1Mk9fWHFQWnRsTXV0UGh1aTJCbVpJTUtYXzE4WnRNZl95N1JtM0NiaWpBbzAzeGdISWJubUZPTVNDM1UyVi1tT2w3THZraU1xMF9SZVF2cUJON3ZiLU9mU01iT2lkcnpxMEE3WXdzWFlnSUp3SS1vRHZhTUdyNEpVZDhXamFrWjJFR2RB0gHSAUFVX3lxTE1oa3R1aWxnVGY5d1d4LUtRSW1EcGZtcWF1QzNIU3RnVVlwd05zaUJ1QUNWOVJhLTRXTGtNSjI2Z2FseXJ3alBudTdBQ01TTDIyaXJsMlViczhEd2RjUTM2NjZabVFWcFU0Y2gxNGNNTEluV1ZSek82ZkhVYlBOV2RqSGk3LTdFdmlqNlRKeDBXc0lCeWtmWk5WNWtSUDROdzgxR2NPOXAxOWNRVktQYXRHZGVvazZmNG8yVkM4T1NzaEVLOUM1ZWN1SmxYYTJKVmU5QQ?oc=5",
+        "summary": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse &nbsp;&nbsp; NDTV"
+      },
+      {
+        "headline": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-21T13:10:51.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem9JYzZDak5TUTVrM2N6a25qVDI1eG9XSkRKaU1nUU5CYUFBdWNQU1puZ2FoNWJ5aWF2RXFYQi1BVU9xcFRaWHhhYnh1cTAzeE9PeUdvRTdxWDRIZU04WDVZQkdNVkJQYjFXcm54Y1A5dDk1YzhfbFNoQ0d0aUNmVDNtUlBIc1FNRUE2Qy02ZkVnTlFCQ3VYXzgwc2I?oc=5",
+        "summary": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-21T13:10:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5",
+        "summary": "Anthropic to push IPO: Strategic delay or AI market warning? &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-09-21T04:03:04.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5",
+        "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched &nbsp;&nbsp; Financial Times"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
-      },
-      {
-        "topic": "OpenAI",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
-        "topic": "Google DeepMind",
+        "topic": "OpenAI",
         "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "Google DeepMind",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
