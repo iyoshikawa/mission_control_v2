@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-21T16:53:18.012Z",
+    "generatedAt": "2026-09-21T20:53:26.362Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,23 +12,63 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-09-21T16:05:23.000Z",
-      "impact": "HIGH",
+      "headline": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-09-21T20:41:00.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models &nbsp;&nbsp; Bloomberg.com",
+      "summary": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXJwMGtYR1RqS2g1eHhWenZLaXhsNlBtZTNmNE5oTzhfbzFPNXRobmQ3bnFScVg5dS1MZjdqOVF0bGowSjZ0VjQyR2lZT0lsVHhETVJYckhnbGZ6N01iaklvMllUU3BYcG13ZWN5SXZwWEdaZE5IWHY4NFF1Ulh4QXdPRE9USTEzUERDYUNaTktUU0kyc0Naczg0dkVJSkdpSFlhQkh1YTNuLVI3LVE?oc=5"
     },
     {
-      "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - theinformation.com",
-      "source": "theinformation.com",
+      "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-21T20:21:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI proposes development of global AI standards to guide alignment, RSI &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5"
+    },
+    {
+      "headline": "Meta stock rockets 10% on price target increase, Muse AI downloads - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-21T18:04:23.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "Meta stock rockets 10% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDF3aTdKOF9NRDVQUTc2Tm5ld3ZOMmt2MHlnMFVleC03c3NlZ2J0QThiUVJ3c0RwRHNpV3JUODNaai1VbE1kekVqQmZHMXB1S0N4VmR6VF9tTDFuTFowS19NMjh4VnJ0aGk1ZkJiOXlmQjQxcGk3UFlJNUUxc3pud01saHFWUmgyYXFjcDlMX1BQU3pqaXVIQ3BpNHJhNzhnOHRwU3BQZEQ3c2lsSWRmTm5oMk9HSzM4RmNSMUJoZ196Zw?oc=5"
+    },
+    {
+      "headline": "Meta’s New Muse AI App Tops Charts, Draws Strong Early Reviews - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-09-21T17:44:30.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Meta’s New Muse AI App Tops Charts, Draws Strong Early Reviews &nbsp;&nbsp; Bloomberg.com Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads &nbsp;&nbsp; CNBC Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar &nbsp;&nbsp; Investing.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn?oc=5"
+    },
+    {
+      "headline": "Building standards for the next phase of AI - openai.com",
+      "source": "openai.com",
+      "timestamp": "2026-09-21T17:23:01.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Building standards for the next phase of AI &nbsp;&nbsp; openai.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5"
+    },
+    {
+      "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
+      "source": "The Information",
       "timestamp": "2026-09-21T13:55:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI &nbsp;&nbsp; theinformation.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5"
     },
     {
@@ -52,121 +92,81 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem9JYzZDak5TUTVrM2N6a25qVDI1eG9XSkRKaU1nUU5CYUFBdWNQU1puZ2FoNWJ5aWF2RXFYQi1BVU9xcFRaWHhhYnh1cTAzeE9PeUdvRTdxWDRIZU04WDVZQkdNVkJQYjFXcm54Y1A5dDk1YzhfbFNoQ0d0aUNmVDNtUlBIc1FNRUE2Qy02ZkVnTlFCQ3VYXzgwc2I?oc=5"
     },
     {
-      "headline": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-09-21T13:10:40.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Anthropic to push IPO: Strategic delay or AI market warning? &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5"
-    },
-    {
-      "headline": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-09-21T04:03:04.000Z",
+      "headline": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "timestamp": "2026-09-21T13:10:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5"
+      "summary": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 &nbsp;&nbsp; 24/7 Wall St.",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnd0bGtLUmMyVGFISWY1MmVHNlhWRkREaWFYRW1HeFk3UkFnd2dscklxejVtUGZwXzVTRWFJcWsxelRoa1ZmZmFCeGUwcEtaZ2JxNE5fOWxHUW90dHcwcGx0c01Qal9Uc3hMc2Y0dmRsQ1I4VUg4REpZZVNnMVlFMFJuY0Z1MHkwWVp4UkVJZGJrWXZ1d1NjZnhDV0FxNHkzQmFkcFdFMkdyc3hvcHFhbURkY1E4R0lULUE?oc=5"
     },
     {
-      "headline": "Hackers who broke into OpenAI warn the AI industry has a security problem - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-09-20T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Hackers who broke into OpenAI warn the AI industry has a security problem &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5"
-    },
-    {
-      "headline": "Google Preps Gemini 4 Pro Content Creation for October 2026 - Geeky Gadgets",
-      "source": "Geeky Gadgets",
-      "timestamp": "2026-09-20T12:04:37.000Z",
+      "headline": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - GeekWire",
+      "source": "GeekWire",
+      "timestamp": "2026-09-21T07:03:34.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Google Preps Gemini 4 Pro Content Creation for October 2026 &nbsp;&nbsp; Geeky Gadgets",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRmVFUU9na1lXODAzRDhqdDR3MWRIa3JSRjgzaFZiTW9iSjB6NVlBX1ZpelBZbUtHeDAwNnRlcWhxVlc2WWxqRWNWNG1KWVZjcm1xNVVLRGxIbXBKOGc3VjRGMGxHWWM?oc=5"
-    },
-    {
-      "headline": "The Company Trump Can’t Ignore - politico.com",
-      "source": "politico.com",
-      "timestamp": "2026-09-20T11:01:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Company Trump Can’t Ignore &nbsp;&nbsp; politico.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5"
-    },
-    {
-      "headline": "Meta’s Muse Is Better at Surveilling Than Helping Me - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-09-20T10:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta’s Muse Is Better at Surveilling Than Helping Me &nbsp;&nbsp; WIRED",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3RQZm45QzVjakJxR2RuaENRQ0VpVDlCSWhNWGhUWEdMb3F5Y0d5ampKS2l5aVVWOTdDMUtMM3A4UWYtTV9kNGpSaTdrMFFDaC1KSW5ZT0VCVjNhTmNkdEk1ajlWalRnY3pHeWdaOVp1OGh2NW1nd2FyM0VKbjllU2ozVVNra0E?oc=5"
+      "summary": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping &nbsp;&nbsp; GeekWire",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-21T16:05:23.000Z",
-        "impact": "HIGH",
+        "headline": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-09-21T20:41:00.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZuY0stdlMwbFc4Q2VoM3NKZU4yZ2FwekVvTTF4SWdTQzBhcldVU0JuTlJBVDg5d084bVo1QjFtR1RFZFQzTnZkRnM1dWlNbG16OUdnazhzbl9UUzFSS1psb1J3TlRBT3lvRzJVVGgzRDc3X2lkaE5BWjVRdm9ieWRmam1xRGhQMHlJdFgxX25hZktlR0V4emNqSGNXVjNvT2tvQnpUcnNiVnFDd01QVUdJVl9SeXc3OVYyLTltX090dzhYc1E?oc=5",
-        "summary": "OpenAI, Anthropic Costs Push More Startups to Build Off Cheaper Open Models &nbsp;&nbsp; Bloomberg.com"
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXJwMGtYR1RqS2g1eHhWenZLaXhsNlBtZTNmNE5oTzhfbzFPNXRobmQ3bnFScVg5dS1MZjdqOVF0bGowSjZ0VjQyR2lZT0lsVHhETVJYckhnbGZ6N01iaklvMllUU3BYcG13ZWN5SXZwWEdaZE5IWHY4NFF1Ulh4QXdPRE9USTEzUERDYUNaTktUU0kyc0Naczg0dkVJSkdpSFlhQkh1YTNuLVI3LVE?oc=5",
+        "summary": "British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - theinformation.com",
-        "source": "theinformation.com",
-        "timestamp": "2026-09-21T13:55:00.000Z",
+        "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-09-21T20:21:41.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
-        "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI &nbsp;&nbsp; theinformation.com"
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5",
+        "summary": "OpenAI proposes development of global AI standards to guide alignment, RSI &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse - NDTV",
-        "source": "NDTV",
-        "timestamp": "2026-09-21T13:47:33.000Z",
-        "impact": "LOW",
+        "headline": "Meta stock rockets 10% on price target increase, Muse AI downloads - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-21T18:04:23.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDF3aTdKOF9NRDVQUTc2Tm5ld3ZOMmt2MHlnMFVleC03c3NlZ2J0QThiUVJ3c0RwRHNpV3JUODNaai1VbE1kekVqQmZHMXB1S0N4VmR6VF9tTDFuTFowS19NMjh4VnJ0aGk1ZkJiOXlmQjQxcGk3UFlJNUUxc3pud01saHFWUmgyYXFjcDlMX1BQU3pqaXVIQ3BpNHJhNzhnOHRwU3BQZEQ3c2lsSWRmTm5oMk9HSzM4RmNSMUJoZ196Zw?oc=5",
+        "summary": "Meta stock rockets 10% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Meta’s New Muse AI App Tops Charts, Draws Strong Early Reviews - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-09-21T17:44:30.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWt6SHBBbmZQbGZzOF9GeWkxMi02TXFwYzFkVGF1aU1rYTVWRUMzYUFzRDhTVlNYRlEwT2FLVTZDbkRXNFB1Mk9fWHFQWnRsTXV0UGh1aTJCbVpJTUtYXzE4WnRNZl95N1JtM0NiaWpBbzAzeGdISWJubUZPTVNDM1UyVi1tT2w3THZraU1xMF9SZVF2cUJON3ZiLU9mU01iT2lkcnpxMEE3WXdzWFlnSUp3SS1vRHZhTUdyNEpVZDhXamFrWjJFR2RB0gHSAUFVX3lxTE1oa3R1aWxnVGY5d1d4LUtRSW1EcGZtcWF1QzNIU3RnVVlwd05zaUJ1QUNWOVJhLTRXTGtNSjI2Z2FseXJ3alBudTdBQ01TTDIyaXJsMlViczhEd2RjUTM2NjZabVFWcFU0Y2gxNGNNTEluV1ZSek82ZkhVYlBOV2RqSGk3LTdFdmlqNlRKeDBXc0lCeWtmWk5WNWtSUDROdzgxR2NPOXAxOWNRVktQYXRHZGVvazZmNG8yVkM4T1NzaEVLOUM1ZWN1SmxYYTJKVmU5QQ?oc=5",
-        "summary": "Meta AI Chief Apologises For \"Dumb Joke\" After Tech Executive Books Flight Using Muse &nbsp;&nbsp; NDTV"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0pWbDJJdHB2NjY5UHRWOU1OVU1BaHBMT00yUzctMkJiWThOWmtXVk1SM09EQjJ6U1VZRFNudmJuOFd5aTl4N0U5QkdwcHhELUV4NEhud0l1T1RuWTlxZTViS09ybGo5UVh1NVQ4VHlNUml6SkZsc01GM0taQUNETmltLTVwVFVIYnlxUk1IVHVEMzAxdnBNT0ptMlIteUk5WkxBNmxBd3ctVmhRWDE5WDhn?oc=5",
+        "summary": "Meta’s New Muse AI App Tops Charts, Draws Strong Early Reviews &nbsp;&nbsp; Bloomberg.com Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads &nbsp;&nbsp; CNBC Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar &nbsp;&nbsp; Investing.com"
       },
       {
-        "headline": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-09-21T13:10:51.000Z",
+        "headline": "Building standards for the next phase of AI - openai.com",
+        "source": "openai.com",
+        "timestamp": "2026-09-21T17:23:01.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem9JYzZDak5TUTVrM2N6a25qVDI1eG9XSkRKaU1nUU5CYUFBdWNQU1puZ2FoNWJ5aWF2RXFYQi1BVU9xcFRaWHhhYnh1cTAzeE9PeUdvRTdxWDRIZU04WDVZQkdNVkJQYjFXcm54Y1A5dDk1YzhfbFNoQ0d0aUNmVDNtUlBIc1FNRUE2Qy02ZkVnTlFCQ3VYXzgwc2I?oc=5",
-        "summary": "Azure, AI Capex, and What to Expect Out of Microsoft Through The End of 2026 &nbsp;&nbsp; Yahoo Finance"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5",
+        "summary": "Building standards for the next phase of AI &nbsp;&nbsp; openai.com"
       },
       {
-        "headline": "Anthropic to push IPO: Strategic delay or AI market warning? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-09-21T13:10:40.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0JZdVA2dVBfQ3I3U0hXd3I3YS1PVkRqbXR1UEJVd2oxN1FXVHJ0Y3kxQWRiV0p2bTktQzN6UmtGOW40ZnlNTzJJYTVQZVZRbHRFZUVSODMzcGdTODZRSmduTkJOOHpES3hRSWtUTGRpZ2o2Z2RuYms4a1o4QjVvdkl2bmxMNTNi?oc=5",
-        "summary": "Anthropic to push IPO: Strategic delay or AI market warning? &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Lex in depth: Anthropic at $2tn isn’t far-fetched - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-09-21T04:03:04.000Z",
+        "headline": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
+        "source": "The Information",
+        "timestamp": "2026-09-21T13:55:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEZDMGtoTHV5SFVqZWU4UjlXb0ZjSFhDQ25qN3h1WGpaOHB2UnI5UGxGeVltUGR2cTE4eTRNeW5nTmk5aG1udWtBMHN5LUxiVmkyS1FKY25jSFhlV0VqRnJ3cDRveDZqbWI2V3NNYWVfZzFURTFQcmlwcG5ubzZTa1Q0QjM?oc=5",
-        "summary": "Lex in depth: Anthropic at $2tn isn’t far-fetched &nbsp;&nbsp; Financial Times"
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+        "summary": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI &nbsp;&nbsp; The Information"
       }
     ],
     "whyItMatters": [
@@ -178,14 +178,14 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
