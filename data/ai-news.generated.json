@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T14:30:28.362Z",
+    "generatedAt": "2026-09-22T18:37:59.463Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,19 +12,19 @@
   },
   "newsFeed": [
     {
-      "headline": "People Training OpenAI’s AI Fired for Using AI to Train the AI - 404media.co",
-      "source": "404media.co",
-      "timestamp": "2026-09-22T13:03:29.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "People Training OpenAI’s AI Fired for Using AI to Train the AI &nbsp;&nbsp; 404media.co",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEUtRVFRci1pREJCMXg5ZjUyTHY1YUpPWFFXOHdFdTZERGxQeTZhb3A2UTZaU01GeGlXQnZpRFRudXRhS2ltS3JWbXVPLXhRQ3MxUHYxX1F0M3FacFJvbVM0NVRBQVo0bTdVZlY3YWFkR3NSRklIblExX0dUcUFVVFFGYTJwUVVwTHpWci1pbw?oc=5"
+      "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-22T18:23:57.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5"
     },
     {
       "headline": "Amazon blocks Meta's Muse AI agent from shopping - mashable.com",
       "source": "mashable.com",
-      "timestamp": "2026-09-22T12:00:07.000Z",
+      "timestamp": "2026-09-22T18:17:47.000Z",
       "impact": "LOW",
       "category": "models",
       "summary": "Amazon blocks Meta's Muse AI agent from shopping &nbsp;&nbsp; mashable.com",
@@ -32,14 +32,44 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1eExJWlBudTJNb0Y5dVUzOXp1WW1La0RvYmdrM1ZGOVJNTkhybUg0ZThib1NNRms5OFVJbjdHUVlBSmdLc21JRDM0SFJTaTlaRzlmTy1KOG1QOWpSMURiNy1mNFZhTGl2M3RYbzYwVVdZV1lt?oc=5"
     },
     {
-      "headline": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks - bloomberg.com",
-      "source": "bloomberg.com",
-      "timestamp": "2026-09-22T11:48:09.000Z",
+      "headline": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-22T18:03:43.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5"
+    },
+    {
+      "headline": "Anthropic launches Opus 5.5, its first model since CEO Amodei called for AI slowdown - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-22T16:30:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic launches Opus 5.5, its first model since CEO Amodei called for AI slowdown &nbsp;&nbsp; Yahoo Finance Anthropic releases Opus 5.5 with lower prices and Fable-level performance &nbsp;&nbsp; TechCrunch What AI slowdown? OpenAI, Anthropic release dueling models as price wars heat up &nbsp;&nbsp; fortune.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJxVmZoZEFaUVFjUUV5OC1YZGw3VUdpbDduWERINVQ2cGNySWtScE1MTm1FbnB4ZXZJMkRaZVBmWV9yMHh4dkJhcmQ2OVBERTFsVU1GNHJ4VEVOTTctblpRckdJWWtzbmZwUUhlZHhncGF5U0NITFRnY21nTjM0OXpoOUgtNzFZaDNlOUUyMmphendMVHlLTXhEZ2poNTBvb1NJUlQ0WWFFVmZfeU9rcFFBdWp6ZzNtVVNENWpJSEV0SnpFOXU2X19yMzMxMWJxT1VSY3NTS0FmQQ?oc=5"
+    },
+    {
+      "headline": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-22T15:55:03.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away &nbsp;&nbsp; The New York Times Meta stock soars 11% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude &nbsp;&nbsp; CNBC Muse, Meta’s extraordinarily privileged AI assistant, has a serious 0-day &nbsp;&nbsp; Ars Technica Wall Street expects Meta's AI agent to shape into a new revenue engine &nbsp;&nbsp; Reuters Meta’s New Muse AI App Tops Charts, Draws Strong Reviews &nbsp;&nbsp; Bloomberg.com Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ Meta Platforms surges 12% amid AI monetization rally (META:NASDAQ) &nbsp;&nbsp; Seeking Alpha Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant &nbsp;&nbsp; MarketWatch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5"
+    },
+    {
+      "headline": "Shopify partners with Meta Muse for AI-powered checkout - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-22T11:58:07.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks &nbsp;&nbsp; bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzlJandXaXNfM1d1SlFFbkpVUDdiOHpZR2RFcVJZMkhJTG9rbm1rQXVnOHhGbXhQSFFrSm5kR3NUMUh3azVQTWRSbzUyekhtRFBUQ21nRmlMWUFxWF9IYWg0NFlOSnVMM2hydEl6aG5mR0htZHV4YjFVR2FZNzV2THRzYzAtSm9xZGp0VEEyREtTSXJaOVJ2UHk4TmtIdW5aMDB3MGxnbER6OHh5SHliOFB3?oc=5"
+      "summary": "Shopify partners with Meta Muse for AI-powered checkout &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTdMaldzeFlrV3BaUHJwUkpmX2FyZUV4UFc4TmdBM0FNSllDbk5DV3ozOHBHVllLODJITXozZ0xWRU9vN2xhQVYwbzl4TjBROVpRZGhLTWxoakl1aXg0aUxYMVhTTEZfbWo5aTlHLUx1OW51ZEN0dURMZVFxTVVYcFFuUmc5UUJ0elBLZEdWZlU0cWxTVEs0Rw?oc=5"
     },
     {
       "headline": "Massive AI-Fueled Hack Hit 100 Companies In Days - Forbes",
@@ -52,34 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemhwX1dobU94R0tSelBqNUg5OTQ5Sko3VXBDWWZHVW90MWxUTnMxbzhZMVNZazM5VjVWZmoxNm5fdmw4dVdOWUdLZG56dXp1d0NRblZQSEtCVTgzeVF5R0NjU3VCSkx5SGpuR25iTkpuZXNlcjQwTW5ZTUdsc1d1SzlJaHFleGk1aE9wd0VBSUNpMkxDWE5pbVhaZTg2U3YwZmJsVEJ4TGdqWUExZ2xXTkpxbU1lV09rTl9sZW53eTBfZGstMHc?oc=5"
     },
     {
-      "headline": "Tencent: Shares Look Cheap as Meta’s AI Agent Success Boosts the Bull Case - Morningstar",
-      "source": "Morningstar",
-      "timestamp": "2026-09-22T11:19:08.000Z",
+      "headline": "Amazon bars Meta’s AI agent from online shopping - Morning Brew",
+      "source": "Morning Brew",
+      "timestamp": "2026-09-22T07:09:15.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Tencent: Shares Look Cheap as Meta’s AI Agent Success Boosts the Bull Case &nbsp;&nbsp; Morningstar",
+      "summary": "Amazon bars Meta’s AI agent from online shopping &nbsp;&nbsp; Morning Brew",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmVZejFxeUN2dVZDVGFMU19vd0VVdUFvN3dSbkdFM2txdTBZUTVESmo4eW1yejhFaWVVbng3d1dlbHdjV0V5ZkwyWm9GOTFLLW8xdWZMWGhVVTVaX0dSRWQ4b0FSUTZpdk45ZHpyYnBZQzJXbnlzYXk3NDkzNG84eTNhZzQzT0ZCa0RVU1MtODZTRU1IeGxkMWNLZnh3cUtLdFNMQzl0YVA4VlpkbVE?oc=5"
-    },
-    {
-      "headline": "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing - MLex",
-      "source": "MLex",
-      "timestamp": "2026-09-22T09:47:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing &nbsp;&nbsp; MLex",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3ZTTUtoOHdXSnZrUC1DT05DaTYyN0RtM2E2NGYwclNMMjczQ1BlUWdmWkJWb2dxbmY4dURJczktMlF1LS05d004YThhUnBOSWxfV0ItYjRLNHIxalR4NHhfODBfTG5MenFSZzVqUzVXWnlHV0VyRjhJc0oxdmV2MnNQcE44NTk1STRUaWZjVHNIZTF2bDlDMGNacjdidzZ6TjRoVDNNZ1B0bDV6c2o2TUlQbHM2MU3SAVpBVV95cUxQVTlpX2p0QVR3YjVmQjF4SC1yNXNwN3Q3Y1hPRi1Lb2RQenBLOXpXU3g1SWJtelhLMFhwUV9hcG1SS3RZa0RabENBZE9FaTQwcFNsTmUzVlZIS1E?oc=5"
-    },
-    {
-      "headline": "What to Know About Recent A.I. Hacks - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-22T09:03:32.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What to Know About Recent A.I. Hacks &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SWTNQUUFGR2FfdzVYTzRjdHRzc3Zfbkg3aFNXYWZwSDZEYmQ0bFkyaVlQMDFTV1dkSndfdG8tRGtIV3ZlN040SDJkM2FRTUw0eC14VjA5TElXSTlHc0cwaUVnelZjMHVTb3JfRl8temdkZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeml6OFJaTnhGLTE3Z3VzdWhocnlXdEl1R0tMWVpVNE5CS3NfdnVodVUyVFNCQ0JmOTlYLVFLRFNCSzFlQnpTOGx3b1lZblN1M01LTHZiemhiTGpvXzA0TEFhX19iamxnNEExakRNcDBRcVNrUEdPblh4UDkwVWZoTUJVNlBaNWNYQjFz?oc=5"
     },
     {
       "headline": "OpenAI, Anthropic And Google DeepMind Discuss AI Safety As Industry Faces Pressure To Slow Frontier Development: Report - Stocktwits",
@@ -92,89 +102,79 @@
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOczIwLUh4ekpuTDNLTjAyN21fbVNlakdEMUdTY21uN0JJWmRhVFhxRnQ4aUNqMTRFTFFVMmhRak5OdmdTNGQ4TFgtWkl3a2ZJNWZIRXZodEl1Znl5dWhsOHdMOXJIZFpmdkJWVF9NbWRzMlBKb1pCTnVXQWlJcTJiQTV4UjNRMjVPNlhlbDRzZ3RId3BSRk1yZGxzaUlKS1huTXlrbDJ4UndSZzNWNEpmYWQ0aG9TaXJjdHdvaXpkTUQwN1p1d0p4N2QxNnNuMEt2eWJuSUg4UWlHVTNYYjV5YjF0MExudlhKYmZXVDRGd1liTGJqYkFKVkE3TU5tY3dXUWdpWWh4UXAtVzlBMS04aA?oc=5"
     },
     {
-      "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-21T20:21:41.000Z",
-      "impact": "HIGH",
+      "headline": "Building standards for the next phase of AI - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-09-21T17:23:01.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI proposes development of global AI standards to guide alignment, RSI &nbsp;&nbsp; CNBC OpenAI says U.S. should lead efforts to set global AI safety standards &nbsp;&nbsp; CBS News DeepSeek is joining OpenAI and Anthropic at the UN Security Council to discuss AI risks &nbsp;&nbsp; qz.com",
+      "summary": "Building standards for the next phase of AI &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5"
-    },
-    {
-      "headline": "Meta stock soars 11% on price target increase, Muse AI downloads - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-09-21T20:11:02.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Meta stock soars 11% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ Wall Street expects Meta's AI agent to shape into a new revenue engine &nbsp;&nbsp; Reuters Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude &nbsp;&nbsp; CNBC Meta’s New Muse AI App Tops Charts, Draws Strong Reviews &nbsp;&nbsp; bloomberg.com Meta Platforms surges 12% amid AI monetization rally (META:NASDAQ) &nbsp;&nbsp; seekingalpha.com Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To &nbsp;&nbsp; inc.com Meta’s New Muse AI Agent May Be the Creepiest Ever Released &nbsp;&nbsp; Futurism Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant &nbsp;&nbsp; marketwatch.com",
-      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3JRd2ozbzl0VjdQODBPQlY0T3NVZWR1ZHdOc3NPaU4ybERnX2czVmwzc1dRQnYyUFR1b2NSN0M5Z1ZOdlRUWjYzNzhXUmFkemFqV1RlTkptSnNVX2JiNlZMOG5CY0paUnhrZkpldWZhcWphSHJZcmJaUTFJWFE1LUFoYlJXTmkteVpEMjY2VmxlanVyN2ZpQTVFVlBpSUdRTmxIVEd2MWd6ajl0V1B2VERDMzBjSklMcTBfZFFDaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "People Training OpenAI’s AI Fired for Using AI to Train the AI - 404media.co",
-        "source": "404media.co",
-        "timestamp": "2026-09-22T13:03:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEUtRVFRci1pREJCMXg5ZjUyTHY1YUpPWFFXOHdFdTZERGxQeTZhb3A2UTZaU01GeGlXQnZpRFRudXRhS2ltS3JWbXVPLXhRQ3MxUHYxX1F0M3FacFJvbVM0NVRBQVo0bTdVZlY3YWFkR3NSRklIblExX0dUcUFVVFFGYTJwUVVwTHpWci1pbw?oc=5",
-        "summary": "People Training OpenAI’s AI Fired for Using AI to Train the AI &nbsp;&nbsp; 404media.co"
+        "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-09-22T18:23:57.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
+        "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC"
       },
       {
         "headline": "Amazon blocks Meta's Muse AI agent from shopping - mashable.com",
         "source": "mashable.com",
-        "timestamp": "2026-09-22T12:00:07.000Z",
+        "timestamp": "2026-09-22T18:17:47.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1eExJWlBudTJNb0Y5dVUzOXp1WW1La0RvYmdrM1ZGOVJNTkhybUg0ZThib1NNRms5OFVJbjdHUVlBSmdLc21JRDM0SFJTaTlaRzlmTy1KOG1QOWpSMURiNy1mNFZhTGl2M3RYbzYwVVdZV1lt?oc=5",
         "summary": "Amazon blocks Meta's Muse AI agent from shopping &nbsp;&nbsp; mashable.com"
       },
       {
-        "headline": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks - bloomberg.com",
-        "source": "bloomberg.com",
-        "timestamp": "2026-09-22T11:48:09.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzlJandXaXNfM1d1SlFFbkpVUDdiOHpZR2RFcVJZMkhJTG9rbm1rQXVnOHhGbXhQSFFrSm5kR3NUMUh3azVQTWRSbzUyekhtRFBUQ21nRmlMWUFxWF9IYWg0NFlOSnVMM2hydEl6aG5mR0htZHV4YjFVR2FZNzV2THRzYzAtSm9xZGp0VEEyREtTSXJaOVJ2UHk4TmtIdW5aMDB3MGxnbER6OHh5SHliOFB3?oc=5",
-        "summary": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks &nbsp;&nbsp; bloomberg.com"
+        "headline": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-09-22T18:03:43.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
+        "summary": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Massive AI-Fueled Hack Hit 100 Companies In Days - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-09-22T11:43:16.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemhwX1dobU94R0tSelBqNUg5OTQ5Sko3VXBDWWZHVW90MWxUTnMxbzhZMVNZazM5VjVWZmoxNm5fdmw4dVdOWUdLZG56dXp1d0NRblZQSEtCVTgzeVF5R0NjU3VCSkx5SGpuR25iTkpuZXNlcjQwTW5ZTUdsc1d1SzlJaHFleGk1aE9wd0VBSUNpMkxDWE5pbVhaZTg2U3YwZmJsVEJ4TGdqWUExZ2xXTkpxbU1lV09rTl9sZW53eTBfZGstMHc?oc=5",
-        "summary": "Massive AI-Fueled Hack Hit 100 Companies In Days &nbsp;&nbsp; Forbes"
+        "headline": "Anthropic launches Opus 5.5, its first model since CEO Amodei called for AI slowdown - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-22T16:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJxVmZoZEFaUVFjUUV5OC1YZGw3VUdpbDduWERINVQ2cGNySWtScE1MTm1FbnB4ZXZJMkRaZVBmWV9yMHh4dkJhcmQ2OVBERTFsVU1GNHJ4VEVOTTctblpRckdJWWtzbmZwUUhlZHhncGF5U0NITFRnY21nTjM0OXpoOUgtNzFZaDNlOUUyMmphendMVHlLTXhEZ2poNTBvb1NJUlQ0WWFFVmZfeU9rcFFBdWp6ZzNtVVNENWpJSEV0SnpFOXU2X19yMzMxMWJxT1VSY3NTS0FmQQ?oc=5",
+        "summary": "Anthropic launches Opus 5.5, its first model since CEO Amodei called for AI slowdown &nbsp;&nbsp; Yahoo Finance Anthropic releases Opus 5.5 with lower prices and Fable-level performance &nbsp;&nbsp; TechCrunch What AI slowdown? OpenAI, Anthropic release dueling models as price wars heat up &nbsp;&nbsp; fortune.com"
       },
       {
-        "headline": "Tencent: Shares Look Cheap as Meta’s AI Agent Success Boosts the Bull Case - Morningstar",
-        "source": "Morningstar",
-        "timestamp": "2026-09-22T11:19:08.000Z",
-        "impact": "LOW",
+        "headline": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-09-22T15:55:03.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmVZejFxeUN2dVZDVGFMU19vd0VVdUFvN3dSbkdFM2txdTBZUTVESmo4eW1yejhFaWVVbng3d1dlbHdjV0V5ZkwyWm9GOTFLLW8xdWZMWGhVVTVaX0dSRWQ4b0FSUTZpdk45ZHpyYnBZQzJXbnlzYXk3NDkzNG84eTNhZzQzT0ZCa0RVU1MtODZTRU1IeGxkMWNLZnh3cUtLdFNMQzl0YVA4VlpkbVE?oc=5",
-        "summary": "Tencent: Shares Look Cheap as Meta’s AI Agent Success Boosts the Bull Case &nbsp;&nbsp; Morningstar"
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
+        "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away &nbsp;&nbsp; The New York Times Meta stock soars 11% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude &nbsp;&nbsp; CNBC Muse, Meta’s extraordinarily privileged AI assistant, has a serious 0-day &nbsp;&nbsp; Ars Technica Wall Street expects Meta's AI agent to shape into a new revenue engine &nbsp;&nbsp; Reuters Meta’s New Muse AI App Tops Charts, Draws Strong Reviews &nbsp;&nbsp; Bloomberg.com Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ Meta Platforms surges 12% amid AI monetization rally (META:NASDAQ) &nbsp;&nbsp; Seeking Alpha Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant &nbsp;&nbsp; MarketWatch"
       },
       {
-        "headline": "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing - MLex",
-        "source": "MLex",
-        "timestamp": "2026-09-22T09:47:00.000Z",
+        "headline": "Shopify partners with Meta Muse for AI-powered checkout - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-22T11:58:07.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3ZTTUtoOHdXSnZrUC1DT05DaTYyN0RtM2E2NGYwclNMMjczQ1BlUWdmWkJWb2dxbmY4dURJczktMlF1LS05d004YThhUnBOSWxfV0ItYjRLNHIxalR4NHhfODBfTG5MenFSZzVqUzVXWnlHV0VyRjhJc0oxdmV2MnNQcE44NTk1STRUaWZjVHNIZTF2bDlDMGNacjdidzZ6TjRoVDNNZ1B0bDV6c2o2TUlQbHM2MU3SAVpBVV95cUxQVTlpX2p0QVR3YjVmQjF4SC1yNXNwN3Q3Y1hPRi1Lb2RQenBLOXpXU3g1SWJtelhLMFhwUV9hcG1SS3RZa0RabENBZE9FaTQwcFNsTmUzVlZIS1E?oc=5",
-        "summary": "OpenAI, Meta, Anthropic, Google DeepMind invited to UK parliament AI hearing &nbsp;&nbsp; MLex"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTdMaldzeFlrV3BaUHJwUkpmX2FyZUV4UFc4TmdBM0FNSllDbk5DV3ozOHBHVllLODJITXozZ0xWRU9vN2xhQVYwbzl4TjBROVpRZGhLTWxoakl1aXg0aUxYMVhTTEZfbWo5aTlHLUx1OW51ZEN0dURMZVFxTVVYcFFuUmc5UUJ0elBLZEdWZlU0cWxTVEs0Rw?oc=5",
+        "summary": "Shopify partners with Meta Muse for AI-powered checkout &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
