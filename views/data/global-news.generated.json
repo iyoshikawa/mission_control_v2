@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T13:06:05.468Z",
+    "generatedAt": "2026-09-22T17:56:33.041Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,21 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "France urges EU to postpone methane reporting requirements",
-      "summary": "France urges EU to postpone methane reporting requirements &nbsp;&nbsp; Reuters",
+      "headline": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman",
+      "summary": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-22T12:08:05.000Z",
+      "timestamp": "2026-09-22T17:37:37.000Z",
       "impact": "HIGH",
       "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXRuQzZ0dWZUMUktT0VqSWFxbE80QTNFSTk2WFdBelpyNThBMWVwQ0l1dDNnanktVHVxR1lvY20yeENubTF0bVdWcl9vdklQd09CcVpGaE0yN0xqVERVQTVKUGhtUjQtZy1KcnR1d0wtZzZOVXl4eWVNRnBRQ2F4OUl3aFZ5N0J2SzFWdlBGS0NOdlA5V2wzQmhjMHY0UDNkUHVDWGdHa3h2dTh1UU9oUG1fd0h0MWhlU3VnemVSZzlHR1pn?oc=5"
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5"
+    },
+    {
+      "headline": "Trump urges complete isolation of Iran, expects deal after election",
+      "summary": "Trump urges complete isolation of Iran, expects deal after election &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-22T16:43:41.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI?oc=5"
+    },
+    {
+      "headline": "Banks, telecoms weigh on FTSE 100; focus on US-Iran talks",
+      "summary": "Banks, telecoms weigh on FTSE 100; focus on US-Iran talks &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-22T16:11:39.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3JCUDhubW1Yb0o4bFpaMFdtVE9oYVVuUll5R0tpVS1YNXpjd285eWxWa1ZDUklJd0ZBNnZJdnJQdEVnZmJ6czA1TEYtMmFhNjlUcWZGeDdhMFdpNXRJd21TaWlmcjRiWTBHNEpDVmg2U0RicWlnUWNWRFkyUy01WXA4c09OREpKM2JNWUk5dHEyNDQ0SWM1U3BudkhJUENDWXVjdlUyRl9nZw?oc=5"
+    },
+    {
+      "headline": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
+      "summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-22T16:09:00.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5"
     },
     {
       "headline": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say",
       "summary": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-22T10:15:41.000Z",
+      "timestamp": "2026-09-22T14:48:54.000Z",
       "impact": "HIGH",
       "region": "Global",
       "category": "shipping",
@@ -34,70 +67,37 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVVMaFBzbF9UZE5pd2VoZlZnclpPTjU3SVRDTkFzSjFOWk04VzREVjRnSlFCZTBJV1g0SXRMT3hJeFRwVjNwM2JuLTBVOHJZcndDZTc0bEt6NFlweElqQ3oyWGFtTzBUVDE1dEV4NFE5UnVDbV9IelEzU2dHNzhSQ3lKbVVBNW1pMTdSbTFqV0RCOXd6Z3FfU2NBMU1tUWZPOXItX3d5Z1RQZnRlU3VzLXVveFN2LThhSjdxaXp3?oc=5"
     },
     {
-      "headline": "China adds drug precursor chemicals to export control list ahead of Trump-Xi summit",
-      "summary": "China adds drug precursor chemicals to export control list ahead of Trump-Xi summit &nbsp;&nbsp; Reuters",
+      "headline": "Fed's discount window supports market liquidity, Jefferson says",
+      "summary": "Fed's discount window supports market liquidity, Jefferson says &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-22T09:32:05.000Z",
+      "timestamp": "2026-09-22T14:28:29.000Z",
       "impact": "HIGH",
-      "region": "China",
+      "region": "United States",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUW01Z2w5SlFzQ3VXT3g1cGUzbWlMU2FNM25rVEJFZkZQTzFHampOdUI3NU56aUxVem5oM3dhVXdPN1JxRFpOWmZublhkaEVrUmc5UTNVU3E2cVVVbE1uV3pTWFEzX1R6bmZ2Yjlyc1ZiUEQ2YlZFZHpTQWR3aFBWcUgtWGdNYXRqNmY2UzBkRkdOY2tmWGQyWVJQMEl6WjhWb0dJeGUwbTdvNURreElseVJjZUxBdXdjY2VON2QxU3dSQU5URlFjcy0zbWJWS0xtTlpJdmJ0TW54VFVaTEpGaUFyUHFlVWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjYybDFyWWptTVNObC1pLXFtVXBDdTdPcWdQbjVURUduYlJnS3ZVZUVybnRMcUdoYU8zOHNCZkpsOE1FRGFrN0ltbkM3WTd0NGpnX0xBQ2RFM24zcG1KWnFWeXNqYXNSR0pkOS1NRXhkYVkxWWFqeF9PT0J5VzFER3V2YnJCSEQ2bkh1Ylg0TjBZTGY5N2dJWWFjN3k2TFJsYjFmUzRVQS1WQWtjeFA0SERoWF9UQVEz?oc=5"
     },
     {
-      "headline": "Russia says Ukrainian drone attack kills one in its Samara region",
-      "summary": "Russia says Ukrainian drone attack kills one in its Samara region &nbsp;&nbsp; Reuters",
+      "headline": "EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources say",
+      "summary": "EXCLUSIVE: US withholding Sudanese leader's visa over ceasefire plan, sources say &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-22T08:55:43.000Z",
+      "timestamp": "2026-09-22T14:19:49.000Z",
       "impact": "HIGH",
-      "region": "Europe",
+      "region": "United States",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUZGc3R0QWlvZG9mR3o3cTlMcF96eE14OXJkd29rRnRYRkV4djlSd24zN0lkSHhIN2hKbUFZQnh2UlJPOHhabDd1bjNHWkFUV3BzT1BpMHlBV08td0E4UExmWVgtVlFjVWVRcGlnOVcwT2FPQW5rcVdyQVRBUzFBT2FFQjdqWDRfcFhaM3RfM0RVT2NJZ093d25XWFVRTkNIQlVoU0h3NA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHBLcDVNc2R4eEVLY19UV2t5QThiQUtBYzdtVC1IRUphZm5BejJmUnN5SXB2T0hTLUVfcDcwc083aS1hYUtpRVI3VVdtNFVwc2xSTjVDdVZPY3pqbXlpSDFwRlZWLTc1M056Wi03cGFoV3pBVHFldGNNY0xmRElLTjR5amRYdEYzLXllQjhXUDdJQTdpd0tfMHlqUlNtcTlSSnlVMUJxWjAwa3diXzlKRlliQUM1ekYx?oc=5"
     },
     {
-      "headline": "South African rand subdued as investors eye US-Iran talks, domestic events",
-      "summary": "South African rand subdued as investors eye US-Iran talks, domestic events &nbsp;&nbsp; Reuters",
+      "headline": "India's Russian oil imports fell in August, seen lower in September, data shows",
+      "summary": "India's Russian oil imports fell in August, seen lower in September, data shows &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-09-22T07:24:09.000Z",
+      "timestamp": "2026-09-22T13:28:56.000Z",
       "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXEzdDY5Y1k1d2JaWnZHOGFqNk5USC1QRVNlYUVQWklvTi1ibldrd2NfRDc0R2FYMmxCMGlsYWpBVmlUZ1BfU0VhcDJrcmV3RC1wSVhKci14T1NkUTZqOUExZWVlOUxLQUdCU2swdDEtNDZNSFFMWU5SazMyRVFHd2RKZTJ5dEstcmhFT1NBMFN4Ry0tWXVwY2V2cktOclJqOXJMS3Jlem9zM3ZMdmVldkpBd1pvbXV2ay1B?oc=5"
-    },
-    {
-      "headline": "Latvian PM opposes deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman",
-      "summary": "Latvian PM opposes deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-22T07:23:44.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG1IejIzR3VCUzFJOWFYYXhFWUN2VWgyVjU4UWlXS0h6eUJjZ1M2UXU0NDA2ekR4OGFxZzE3SUpyTWNoN19PNGs1TFVnOEVmUmU3TUFCR2xoc0RfQVMxTElDR0dkQnZkNWx4RlpiZks2Q1kwc1VFZElsb3lkVVN2cnVoUG52bTZyQkJMemhGZWxHTHJiZmtxV181TElzVU1SMlRrZ3F3S0l4Z1JfM0FOVTM5SmhaUkpObXZnVWl3dw?oc=5"
-    },
-    {
-      "headline": "Canada says Philippines, ASEAN trade talks 90% complete, eyes November finish",
-      "summary": "Canada says Philippines, ASEAN trade talks 90% complete, eyes November finish &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-22T06:05:00.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "trade",
-      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdFRIbFd0MTZYU2t3dlI1a3Byb1NkX1o4dVhSYUxuRXRjWE9KTVpLS2xNNFNpa1pER0t5YnViS09SM0J1OHF6SnhZc0M1YXdaYmtCa09UVk8tZ0lJaF9ibTFIM21jUnVoMnFBcXhzQlEybTczQmt4dDZDX3NXSzhMcGhma0o1SDg1MWEzODcxbkNOTW5UNVZ1ZVVPSkJwUThwSlVTeEppTU5QRmdvcWx2NjYxelpjUnRDbmVRdk44emhndkE4aXhtdw?oc=5"
-    },
-    {
-      "headline": "Why is Taiwan such an important issue for China?",
-      "summary": "Why is Taiwan such an important issue for China? &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-22T06:02:00.000Z",
-      "impact": "HIGH",
-      "region": "China",
+      "region": "India",
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT09MRkhtMm9UTjgyUVRWUmFSeVNuLS1ONmtUX2RTU2N3c1A1OTM4R1RiRXhVUGI4VWNCSlNVaG0yVzBuYU5sellDMV9MODRPV3phd0x3blhPYlZwMEdlaXVLb0hQNXZLVzVHdWdhQURiZFR3ZFpDVEUtOWltZEdBZnJrN1dudTVpeHR5dTRUeFprQjNnTGc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2xoNlhIRmM0OGlDbzZXSF9uQ2Z2N3NHTVNtOFQyNDZPcHJlYjd3S0hZYm5WWF91U2xyLURzeUJmMVNpb2dsNExRNDdwV19pcE1UOG5TUEIzbmlWT3hacXVxSi1CYkVqcm9SR3ZzX3hXc2laUFpIQnR0bGdsQ3RsUGQ4Tm9PZEFyMllSZWYzVVZQdFhqMVdfUlJ3VnBfSnA2MW9xSG8tYXgwTGNMTV9EZFB3UXhIMjliWkE?oc=5"
     }
   ]
 }
