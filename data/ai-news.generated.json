@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T00:09:49.138Z",
+    "generatedAt": "2026-09-23T05:40:23.676Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,42 +12,92 @@
   },
   "newsFeed": [
     {
-      "headline": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-22T22:01:25.000Z",
+      "headline": "Anthropic in Talks to Lease Apollo-Owned Stream Data Centers - The Information",
+      "source": "The Information",
+      "timestamp": "2026-09-23T04:12:00.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5"
+      "category": "ecosystem",
+      "summary": "Anthropic in Talks to Lease Apollo-Owned Stream Data Centers &nbsp;&nbsp; The Information",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDc0cnFKMG5MSGd3Y1dlU0hEakZGSjlGYlozRXBHb0hjc19sblFvM0ozSzBjNHhZQ1VwQlNLdnlMelhRcGZjZldMWXNIR01oNC12ckdjZjl3WWtSand3dFdwa3BUek5XTTY5QS1vTTYyZlJ2WjZRRWNPOEFjajRUbExieGhwcHphN2gtbUlZMXVycnNjZjJka3cxbw?oc=5"
     },
     {
       "headline": "Introducing Claude Opus 5.5 - Anthropic",
       "source": "Anthropic",
-      "timestamp": "2026-09-22T20:03:34.000Z",
+      "timestamp": "2026-09-22T23:25:46.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Introducing Claude Opus 5.5 &nbsp;&nbsp; Anthropic Anthropic unveils Claude Opus 5.5 &nbsp;&nbsp; Reuters Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC",
+      "summary": "Introducing Claude Opus 5.5 &nbsp;&nbsp; Anthropic Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate &nbsp;&nbsp; The New York Times Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5"
     },
     {
-      "headline": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-22T19:24:41.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away &nbsp;&nbsp; The New York Times Meta's Muse personal agent is a hit, as AI commerce starts to take off &nbsp;&nbsp; cbsnews.com Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude &nbsp;&nbsp; CNBC Muse, Meta’s extraordinarily privileged AI assistant, has a serious 0-day &nbsp;&nbsp; Ars Technica Meta stock rockets 10% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance Wall Street expects Meta's AI agent to shape into a new revenue engine &nbsp;&nbsp; Reuters Meta’s New Muse AI App Tops Charts, Draws Strong Reviews &nbsp;&nbsp; bloomberg.com Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To &nbsp;&nbsp; inc.com",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5"
+      "headline": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI - The Information",
+      "source": "The Information",
+      "timestamp": "2026-09-22T22:51:36.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI &nbsp;&nbsp; The Information",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5"
     },
     {
-      "headline": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry - azure.microsoft.com",
-      "source": "azure.microsoft.com",
+      "headline": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-09-22T22:11:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant &nbsp;&nbsp; Fortune",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5"
+    },
+    {
+      "headline": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - reuters.com",
+      "source": "reuters.com",
+      "timestamp": "2026-09-22T22:01:25.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide &nbsp;&nbsp; reuters.com",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5"
+    },
+    {
+      "headline": "Introducing GPT-6 Sol and Luna - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-09-22T21:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+    },
+    {
+      "headline": "King Charles warns of 'existential danger' of AI falling into wrong hands King Charles has urged leaders from OpenAI, Google DeepMind and Nvidia to keep AI under human control. - LinkedIn",
+      "source": "LinkedIn",
+      "timestamp": "2026-09-22T19:33:55.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "King Charles warns of 'existential danger' of AI falling into wrong hands King Charles has urged leaders from OpenAI, Google DeepMind and Nvidia to keep AI under human control. &nbsp;&nbsp; LinkedIn",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWIzY2FMQjZvUWRBdHR3cnZIZF9BTkNKZjkza2stM2sweGE0UExxX2U3eGVtMnAxdEpZLXNwd0p3SFJHQkJtZFFnMmpOTlA4cGRUSHdmR1RsYUNFdFpwanFMZzlMNm5rUnQ0dWlmakFDeXF2T0RNeDJqRFRaZmtGTTBncW1Ga0RkaGdLQk1Kb0hKUUpnYjRyamVOcnNwOW5kNVZ5YVhDamFrNnN1bXNJVVR0QVQ2ODdhTkt6UXM0Yw?oc=5"
+    },
+    {
+      "headline": "Microsoft Azure, M365 Commercial Can Sustain Acceleration in Fiscal 2027 Despite Some Risks, Oppenheimer Says - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-22T18:55:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Azure, M365 Commercial Can Sustain Acceleration in Fiscal 2027 Despite Some Risks, Oppenheimer Says &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzZDQmNpUWdyQjNrLXo0WkZvSjRnYXNyRW1NWDRhakxhVnBTejFZSnluWl9ETEYxM2ExMWtvLW9xM2dtOVRyeDloRi1jYV94aEZWeDV0UUFwXzMyR3l5LWpZelVBdEN5MWZ1cUtha2NDOHJERnFKYU45cFhqVUdvcHczMGNvWmo0bDZpdTViWVNUcmltdV81dVhkTWdMdE5KcGdIbVV3?oc=5"
+    },
+    {
+      "headline": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry - Microsoft Azure",
+      "source": "Microsoft Azure",
       "timestamp": "2026-09-22T18:30:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry &nbsp;&nbsp; azure.microsoft.com",
+      "summary": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry &nbsp;&nbsp; Microsoft Azure",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ROVVZpcUN6X21fRXcxN3dzOUJfUTZEODN6MXRwNGlZYU93N3JQZFl4WU9zMVVYZ2xfcFFSdmRXQUd5TlVyZTJxQ0lQcWZZMWlmcHM4Sm16WHZBeE1ySGQ1RU9hbkVJMTJwMmN0bjlWWWNHaHJ5clkwU1o1UG51UnppS2t0YUV0Wi0yYmhDaHJpOWljYnVyXzByQTZTeVEwY0JxQlN5TWIwcmc?oc=5"
     },
@@ -60,109 +110,59 @@
       "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5"
-    },
-    {
-      "headline": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-09-22T18:07:05.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Introducing GPT-6 Sol and Luna &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
-    },
-    {
-      "headline": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-09-22T16:22:20.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "PayPal Joins Meta’s Muse Checkout Ecosystem — Partnership Extends AI Shopping Across Its Merchant Network &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGU4RzlSV0tfMTNwRWpWdWNmRjNIdFJkd2hIRk45bVZyWE5IdEI5QlJjcnp0WFdJWGxRX3J6bW54RUQ3dlI0ZlJLOHVySVh6eGFjcks2LV81Zm1WUUFXOUJMZlIwUkxOV2tHY1ZwZ0p0Z3dtc0plOWFXOGl4enhxUlRJSUI4THJBeUdaUXByQ21lVjJ5ZUg3U3R5MA?oc=5"
-    },
-    {
-      "headline": "Ex-Anthropic Staffers’ Self-Improving AI Startup in Talks to Raise at $5 Billion Value - bloomberg.com",
-      "source": "bloomberg.com",
-      "timestamp": "2026-09-22T16:16:48.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Ex-Anthropic Staffers’ Self-Improving AI Startup in Talks to Raise at $5 Billion Value &nbsp;&nbsp; bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNEttTkpIMmxhV3RwcFQ5R2pMTUV0NUpPNmhBbUx6bWpNZFpkMmJhWE9ka29ObnNZLW1MTS1ETHZITmNJVjBzR2tNVWd6bndyYndPTTA0MXB0Y2hCNzhQbFZNQU5HM1FnZkx2MFAzQ3h1LW9CM0xGUW0zVkI2MU9QYm1GRGhtb2xPU1hFVDU4OWlVeXlzeG44VkU0RFM0RWJ6OEF2LVhzeW5CS3hBY0dId3pUXzJFbG92cHNYeA?oc=5"
-    },
-    {
-      "headline": "Meta Shows AI Agents Aren’t Just For Businesses Anymore - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-09-22T12:33:50.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta Shows AI Agents Aren’t Just For Businesses Anymore &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2tJVmk4TXpveG52aC1XYWZkTWg4LUxpLTNPNlZacFJjWW81LUt6NS1zU3B2TXJTeWpZd2ZZRWN1dUNHLTNVU1hkWUxsYW84a1pLejFRV2p3VlkyRFRsaDQzZ2w4NHI4bWdaYnNvVDlmV2lBT0ttRmFzZFBRT3Zrc0l1ZEptc1NPMS11dVFhTDNmUFI1Z01kQXVldw?oc=5"
-    },
-    {
-      "headline": "Massive AI-Fueled Hack Hit 100 Companies In Days - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-09-22T11:43:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Massive AI-Fueled Hack Hit 100 Companies In Days &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemhwX1dobU94R0tSelBqNUg5OTQ5Sko3VXBDWWZHVW90MWxUTnMxbzhZMVNZazM5VjVWZmoxNm5fdmw4dVdOWUdLZG56dXp1d0NRblZQSEtCVTgzeVF5R0NjU3VCSkx5SGpuR25iTkpuZXNlcjQwTW5ZTUdsc1d1SzlJaHFleGk1aE9wd0VBSUNpMkxDWE5pbVhaZTg2U3YwZmJsVEJ4TGdqWUExZ2xXTkpxbU1lV09rTl9sZW53eTBfZGstMHc?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-09-22T22:01:25.000Z",
+        "headline": "Anthropic in Talks to Lease Apollo-Owned Stream Data Centers - The Information",
+        "source": "The Information",
+        "timestamp": "2026-09-23T04:12:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-        "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide &nbsp;&nbsp; Reuters"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDc0cnFKMG5MSGd3Y1dlU0hEakZGSjlGYlozRXBHb0hjc19sblFvM0ozSzBjNHhZQ1VwQlNLdnlMelhRcGZjZldMWXNIR01oNC12ckdjZjl3WWtSand3dFdwa3BUek5XTTY5QS1vTTYyZlJ2WjZRRWNPOEFjajRUbExieGhwcHphN2gtbUlZMXVycnNjZjJka3cxbw?oc=5",
+        "summary": "Anthropic in Talks to Lease Apollo-Owned Stream Data Centers &nbsp;&nbsp; The Information"
       },
       {
         "headline": "Introducing Claude Opus 5.5 - Anthropic",
         "source": "Anthropic",
-        "timestamp": "2026-09-22T20:03:34.000Z",
+        "timestamp": "2026-09-22T23:25:46.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-        "summary": "Introducing Claude Opus 5.5 &nbsp;&nbsp; Anthropic Anthropic unveils Claude Opus 5.5 &nbsp;&nbsp; Reuters Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC"
+        "summary": "Introducing Claude Opus 5.5 &nbsp;&nbsp; Anthropic Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate &nbsp;&nbsp; The New York Times Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-22T19:24:41.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-        "summary": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away &nbsp;&nbsp; The New York Times Meta's Muse personal agent is a hit, as AI commerce starts to take off &nbsp;&nbsp; cbsnews.com Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude &nbsp;&nbsp; CNBC Muse, Meta’s extraordinarily privileged AI assistant, has a serious 0-day &nbsp;&nbsp; Ars Technica Meta stock rockets 10% on price target increase, Muse AI downloads &nbsp;&nbsp; Yahoo Finance Wall Street expects Meta's AI agent to shape into a new revenue engine &nbsp;&nbsp; Reuters Meta’s New Muse AI App Tops Charts, Draws Strong Reviews &nbsp;&nbsp; bloomberg.com Meta’s AI Agent Has a Trust Problem &nbsp;&nbsp; WSJ Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To &nbsp;&nbsp; inc.com"
-      },
-      {
-        "headline": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry - azure.microsoft.com",
-        "source": "azure.microsoft.com",
-        "timestamp": "2026-09-22T18:30:00.000Z",
+        "headline": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI - The Information",
+        "source": "The Information",
+        "timestamp": "2026-09-22T22:51:36.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ROVVZpcUN6X21fRXcxN3dzOUJfUTZEODN6MXRwNGlZYU93N3JQZFl4WU9zMVVYZ2xfcFFSdmRXQUd5TlVyZTJxQ0lQcWZZMWlmcHM4Sm16WHZBeE1ySGQ1RU9hbkVJMTJwMmN0bjlWWWNHaHJ5clkwU1o1UG51UnppS2t0YUV0Wi0yYmhDaHJpOWljYnVyXzByQTZTeVEwY0JxQlN5TWIwcmc?oc=5",
-        "summary": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry &nbsp;&nbsp; azure.microsoft.com"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+        "summary": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI &nbsp;&nbsp; The Information"
       },
       {
-        "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-09-22T18:23:57.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
-        "summary": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown &nbsp;&nbsp; CNBC"
+        "headline": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-09-22T22:11:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
+        "summary": "Meta’s Muse AI is exploding in popularity—and already drawing heated backlash from another tech giant &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide - reuters.com",
+        "source": "reuters.com",
+        "timestamp": "2026-09-22T22:01:25.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
+        "summary": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide &nbsp;&nbsp; reuters.com"
       },
       {
         "headline": "Introducing GPT-6 Sol and Luna - OpenAI",
         "source": "OpenAI",
-        "timestamp": "2026-09-22T18:07:05.000Z",
+        "timestamp": "2026-09-22T21:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
