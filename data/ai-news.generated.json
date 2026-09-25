@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T01:16:20.381Z",
+    "generatedAt": "2026-09-25T07:23:34.014Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,44 @@
   },
   "newsFeed": [
     {
-      "headline": "Open AI attacked Australia’s health system – and then doubled down on its negligence. The time for ‘wait and see’ is over | Kate Crawford and Edward Santow - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-09-25T00:03:00.000Z",
+      "headline": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws - theguardian.com",
+      "source": "theguardian.com",
+      "timestamp": "2026-09-25T05:19:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws &nbsp;&nbsp; theguardian.com",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkpTeHBGYTV1OFRvUENaWEZzcm1LeFNWeE1HUi1zWk1pd0tlVzViQjZ3b2x5ay1NU3ZFQWxZR1lubDFBUlhGNXQwQmNsYWZYS3VuTkVRWGZrV3ZwM0pLS3k3dkJZMGNnaEJYdGltWFBNZ2pOazFWY0tZSVRpT1Rwa1BxcGp2WG1FMHBGMmhxY3RVTkNKVEpHbTlwdnV1Yl84bTN4dGg1dlJOQy1kdWFxM1BwM0h5N0ZlYlJaQTRHeUdoUFcxNkFrdVMzZnhIM3hf?oc=5"
+    },
+    {
+      "headline": "An OpenAI system has gone rogue again – and it is the most panic-inducing yet - the-independent.com",
+      "source": "the-independent.com",
+      "timestamp": "2026-09-25T05:11:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Open AI attacked Australia’s health system – and then doubled down on its negligence. The time for ‘wait and see’ is over | Kate Crawford and Edward Santow &nbsp;&nbsp; The Guardian",
+      "summary": "An OpenAI system has gone rogue again – and it is the most panic-inducing yet &nbsp;&nbsp; the-independent.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX1lXQUNnOWNRaDh4WlZzRTZQMmpHa1dib0dlX004Vl9Cb1RDbDFrbThoN2hfbUc3bG1odFBhdUF3bWhPX3Q2NzVDZmhSNXdfREhuM3NFUDNMc1hkSkJsbDdQR3I0Mmh0anZiSW5TcUJERlpCQUNQSVB2TlFvRnVQYkNYZmdpdWI3U0RvaGIxQ0Rkb0ZCeFhaUUVrZVRaRUJPU1RGc0k3TlhqX0xfeFVOREJPb0E4bVpwYU1mNWRaeVd2MGg1cEw0aTItWF84NEpTbGluWmNmM3BDV1Y2VDFOZTBqaWZDc3RuRWxmWDFELVNiS2gzYmlHNGtDa0VOUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjN3UGxNZFhqbVFNTFpaR2EyRVY5bkd6bjFzQXk2U2g5YURaZ3d4VHEzQXFpMHJERjZmZHppTER4SXBzWmhpR0RFVlFMQ0hoNmJKaUpLVUdlZmhDOHp1OUFaei1xSUJ5VDVqdnBWSEFVUnFpU0Qxb3FoVjBqZkVmRjVpNU8zYy1zNlNaVjIyc1RUUllTTWFKZHROa09wQ082WXc?oc=5"
+    },
+    {
+      "headline": "The cheap new AI model taking aim at OpenAI and Anthropic - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-09-25T04:03:14.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "The cheap new AI model taking aim at OpenAI and Anthropic &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5"
     },
     {
       "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action - Fox News",
       "source": "Fox News",
-      "timestamp": "2026-09-24T23:16:41.000Z",
+      "timestamp": "2026-09-25T01:56:52.000Z",
       "impact": "HIGH",
       "category": "regulation",
       "summary": "Rogue AI agents hack government website, world leaders on edge of regulatory action &nbsp;&nbsp; Fox News",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5"
-    },
-    {
-      "headline": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery. - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-24T22:12:48.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery. &nbsp;&nbsp; The New York Times Anthropic says its biology lab has already found something big &nbsp;&nbsp; TechCrunch Claude discovers a novel enzyme system with CRISPR-like repeats &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFZzajNZQW1MeHplVTRLYWd5NUlpUjhTSVU1YU9sODRIQTRvZU5TXzBvR2xETVVPYmEzRVJNNVJkRk83Y2pPZlVFbnB5RHZULU85MEdTa09wZUVBM3ZiLUJIdWs3U2NieXZVNTJUNER0WG1qSGF1TkdEZGs4TjNLdVFB?oc=5"
-    },
-    {
-      "headline": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-24T21:17:08.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5"
-    },
-    {
-      "headline": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-24T16:49:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5"
     },
     {
       "headline": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - Politico",
@@ -68,7 +58,7 @@
       "impact": "HIGH",
       "category": "models",
       "summary": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review &nbsp;&nbsp; Politico",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5"
     },
     {
@@ -82,97 +72,107 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmtCRFVMNFRENGJEaVBBdVl2cXJpaFQydXhabHZlcF85ajl4NXJpTHJyTnRIZDlZbW02c0J0bTN0VjljUldSZWdGNm5mZG5ydnJBVXFzQ2laLWFfSUlJbEFKSmw0OENTeW5yeXRJZHFIVmhfb3NfQnktQXVIVEszX1B6ZkwzVk9BdFdpOGo0Tmp2WWhiRnNJTnRIdzhTSTBJRFFMcVpMbXlKMUhMWklKS0ZZM2VXTmg0?oc=5"
     },
     {
-      "headline": "Scan for Good: Using AI to discover and fix high-priority exposures across public services and critical infrastructure - wiz.io",
-      "source": "wiz.io",
-      "timestamp": "2026-09-24T13:00:03.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scan for Good: Using AI to discover and fix high-priority exposures across public services and critical infrastructure &nbsp;&nbsp; wiz.io",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84OVNtYmw3d2V4UnZMODlpRzZIWV90M3JUSXNOZmc5aG5ITDdhSUlkMWNJS2pQSndBQklDZWp1bzVwbmRnUmVkMnF3b3doNUQ2NU5HeHJKcEdPbEZvbXRlUjVGOEp1RTh6YWdj?oc=5"
-    },
-    {
-      "headline": "Ex-DeepMind Researcher Who Worked On AlphaGo Seeks Funds for Startup Working on AI Reasoning - bloomberg.com",
-      "source": "bloomberg.com",
+      "headline": "Ex-DeepMind Researcher Who Worked On AlphaGo Seeks Funds for Startup Working on AI Reasoning - Bloomberg.com",
+      "source": "Bloomberg.com",
       "timestamp": "2026-09-24T11:21:26.000Z",
       "impact": "WATCH",
       "category": "ecosystem",
-      "summary": "Ex-DeepMind Researcher Who Worked On AlphaGo Seeks Funds for Startup Working on AI Reasoning &nbsp;&nbsp; bloomberg.com",
+      "summary": "Ex-DeepMind Researcher Who Worked On AlphaGo Seeks Funds for Startup Working on AI Reasoning &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWFFBbXYyY0loMV92c25XUUhPaXRuZ2lrRl9DZlJ1Rnc5cFJZLXRPRmJoWVZDMUk4OUdGclF4NTk0TVZkY2ZudkVIY0FlblNpNVU0LW1NV1Jnek0tbjRFUTlDWUVqWHphM0gxVFZaMnoyNUNGQVRRdk1NNE0wX0VJM1N1UHB1ZUpvT0pRUjBuZDFZMlR5MGpqTlZ5UGFpZkNVb3lNdzE5S2l6V3hMY2Njd3ZxREktUUJ4aXR2cTZTaUVEbk92?oc=5"
     },
     {
-      "headline": "Google Nears Release of Flagship Gemini 4 AI Model - The Information",
-      "source": "The Information",
-      "timestamp": "2026-09-24T02:15:00.000Z",
+      "headline": "Gemini 4 is almost ready, says new Google DeepMind chief - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-09-24T09:04:18.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Gemini 4 is almost ready, says new Google DeepMind chief &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjBvcU5MVHoyMUJ4OUYyWkpUdFJMNm1nV0JvbjBQNTJMbFQyUk1QWTdGSVNob1VJdk4tbUNzdmhHVDduQXNubkFYYnBDaFBSanAzN2RzaFdVMmNRUU5aQzdHLU9Ub3JvREFjaXhMcFZPUy1XYVpELXgyVlQyek5nNjhEUEotNVR6ai1DcXZhdy0yZw?oc=5"
+    },
+    {
+      "headline": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says - aljazeera.com",
+      "source": "aljazeera.com",
+      "timestamp": "2026-09-24T04:34:53.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Google Nears Release of Flagship Gemini 4 AI Model &nbsp;&nbsp; The Information",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5"
+      "summary": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says &nbsp;&nbsp; aljazeera.com Anthropic says Claude has found something potentially transformative in our bodies &nbsp;&nbsp; The Independent Claude discovers a novel enzyme system with CRISPR-like repeats &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMENUOHhWSmdxQTlHcUtqOTVmSVhWOS01ZGg1NHY4ajVaUk03ZXJPcVVIaDk2SFl5UzBsYXZVZzVFMERsNlUwdlk1ZlVrbnFEVEJLdkNweVpaZFdfY0V5SjZUZXVPS2JlQ3dPcmp0d1UxNWcyYTI5enNvT3lJQ3BOSkRfLTgzeVRmcHVWNXlTLVZ3WEVLdkJpeTAyV0FfOE80bHV0emgwUFJsajB5X3Y00gG0AUFVX3lxTE5JcnNCQ0IxUUMxdndVQmZobFd0V1czbUQ4bEk5ekVGZGJ2ejdzQlBDVTRzT3R1QVFjXzZXS0pfSTcwMnZSZjdHd3NkSVMxUW1iOC03V2tJVDdVM0RmTXRkZDJhUmlEWnlnVjlLT0VHeVE1TllRM1p0UWR1d2JFekkwdHVHWjNOREotQlZYNnNUWkxITTFCN3lRd0NMQVZUT2dtYVhMQlAtRUoyUGRhTzVsbzNvZQ?oc=5"
+    },
+    {
+      "headline": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-24T02:28:53.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Open AI attacked Australia’s health system – and then doubled down on its negligence. The time for ‘wait and see’ is over | Kate Crawford and Edward Santow - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-09-25T00:03:00.000Z",
+        "headline": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws - theguardian.com",
+        "source": "theguardian.com",
+        "timestamp": "2026-09-25T05:19:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkpTeHBGYTV1OFRvUENaWEZzcm1LeFNWeE1HUi1zWk1pd0tlVzViQjZ3b2x5ay1NU3ZFQWxZR1lubDFBUlhGNXQwQmNsYWZYS3VuTkVRWGZrV3ZwM0pLS3k3dkJZMGNnaEJYdGltWFBNZ2pOazFWY0tZSVRpT1Rwa1BxcGp2WG1FMHBGMmhxY3RVTkNKVEpHbTlwdnV1Yl84bTN4dGg1dlJOQy1kdWFxM1BwM0h5N0ZlYlJaQTRHeUdoUFcxNkFrdVMzZnhIM3hf?oc=5",
+        "summary": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws &nbsp;&nbsp; theguardian.com"
+      },
+      {
+        "headline": "An OpenAI system has gone rogue again – and it is the most panic-inducing yet - the-independent.com",
+        "source": "the-independent.com",
+        "timestamp": "2026-09-25T05:11:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX1lXQUNnOWNRaDh4WlZzRTZQMmpHa1dib0dlX004Vl9Cb1RDbDFrbThoN2hfbUc3bG1odFBhdUF3bWhPX3Q2NzVDZmhSNXdfREhuM3NFUDNMc1hkSkJsbDdQR3I0Mmh0anZiSW5TcUJERlpCQUNQSVB2TlFvRnVQYkNYZmdpdWI3U0RvaGIxQ0Rkb0ZCeFhaUUVrZVRaRUJPU1RGc0k3TlhqX0xfeFVOREJPb0E4bVpwYU1mNWRaeVd2MGg1cEw0aTItWF84NEpTbGluWmNmM3BDV1Y2VDFOZTBqaWZDc3RuRWxmWDFELVNiS2gzYmlHNGtDa0VOUQ?oc=5",
-        "summary": "Open AI attacked Australia’s health system – and then doubled down on its negligence. The time for ‘wait and see’ is over | Kate Crawford and Edward Santow &nbsp;&nbsp; The Guardian"
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjN3UGxNZFhqbVFNTFpaR2EyRVY5bkd6bjFzQXk2U2g5YURaZ3d4VHEzQXFpMHJERjZmZHppTER4SXBzWmhpR0RFVlFMQ0hoNmJKaUpLVUdlZmhDOHp1OUFaei1xSUJ5VDVqdnBWSEFVUnFpU0Qxb3FoVjBqZkVmRjVpNU8zYy1zNlNaVjIyc1RUUllTTWFKZHROa09wQ082WXc?oc=5",
+        "summary": "An OpenAI system has gone rogue again – and it is the most panic-inducing yet &nbsp;&nbsp; the-independent.com"
+      },
+      {
+        "headline": "The cheap new AI model taking aim at OpenAI and Anthropic - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-09-25T04:03:14.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5",
+        "summary": "The cheap new AI model taking aim at OpenAI and Anthropic &nbsp;&nbsp; Financial Times"
       },
       {
         "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action - Fox News",
         "source": "Fox News",
-        "timestamp": "2026-09-24T23:16:41.000Z",
+        "timestamp": "2026-09-25T01:56:52.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
         "summary": "Rogue AI agents hack government website, world leaders on edge of regulatory action &nbsp;&nbsp; Fox News"
       },
       {
-        "headline": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery. - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-24T22:12:48.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFZzajNZQW1MeHplVTRLYWd5NUlpUjhTSVU1YU9sODRIQTRvZU5TXzBvR2xETVVPYmEzRVJNNVJkRk83Y2pPZlVFbnB5RHZULU85MEdTa09wZUVBM3ZiLUJIdWs3U2NieXZVNTJUNER0WG1qSGF1TkdEZGs4TjNLdVFB?oc=5",
-        "summary": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery. &nbsp;&nbsp; The New York Times Anthropic says its biology lab has already found something big &nbsp;&nbsp; TechCrunch Claude discovers a novel enzyme system with CRISPR-like repeats &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-09-24T21:17:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5",
-        "summary": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-09-24T16:49:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-        "summary": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting &nbsp;&nbsp; The New York Times"
-      },
-      {
         "headline": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review - Politico",
         "source": "Politico",
         "timestamp": "2026-09-24T16:43:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5",
         "summary": "White House asks OpenAI and Anthropic to hold new models from UK testers until US review &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "Meta's $14 billion AI bet looks like it's finally paying off - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-24T15:51:39.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmtCRFVMNFRENGJEaVBBdVl2cXJpaFQydXhabHZlcF85ajl4NXJpTHJyTnRIZDlZbW02c0J0bTN0VjljUldSZWdGNm5mZG5ydnJBVXFzQ2laLWFfSUlJbEFKSmw0OENTeW5yeXRJZHFIVmhfb3NfQnktQXVIVEszX1B6ZkwzVk9BdFdpOGo0Tmp2WWhiRnNJTnRIdzhTSTBJRFFMcVpMbXlKMUhMWklKS0ZZM2VXTmg0?oc=5",
+        "summary": "Meta's $14 billion AI bet looks like it's finally paying off &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "4 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
