@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-26T07:18:44.180Z",
+    "generatedAt": "2026-09-26T12:49:27.775Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,36 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI AI Agents Tried to Breach US Government Sites - Newser",
+      "source": "Newser",
+      "timestamp": "2026-09-26T11:50:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI AI Agents Tried to Breach US Government Sites &nbsp;&nbsp; Newser",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2ZLckhXYzlkSHZDNW56OXoxNmU5VzhRLU9XMFpUTkZOQWp1cjFtU0xLZ051NHdsdWRkWXRnLXFzVVFnQjQ5ZDJTWHBGQS1laXJ6QXBiWGNma0VsS2dPVHI5Q19yNWhZUW9TVEdTMlEyZEptTFpSeThwa05LVFhuRTJTdjR0TWk0NS1FM1JJWl9UQ0E2OGVkaQ?oc=5"
+    },
+    {
+      "headline": "Oxford lets OpenAI train its AI models on Bodleian Library - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-09-26T11:23:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Oxford lets OpenAI train its AI models on Bodleian Library &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDBLbUhWbUtyVUg2bWZsNFF4NDdyRWVydjNwX3ctQldEbkN2cW4ybi1hU0tMdy1jMzlVSGtXQVVHcnEwVmxVVFh2bHk0UXBtMWxqRE5Bc3doanJTcWY5TDBCTXdpZzFJWDk1QUc0UjBTTU5ZWDU2c3NFZW9BRkZhWEd1U0pFUDNFRXpOT3ZOazQ4dHNZcTY5UTVOM3ByWUtHUnBBdg?oc=5"
+    },
+    {
+      "headline": "Inside Meta's months-long grind to turn Muse into a hit - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-09-26T09:01:35.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Inside Meta's months-long grind to turn Muse into a hit &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFdNbDd4b3h0S2pGYnY2dEsteUplS1hEQXh0SXVQM2QydWJIUjVVNWVVbnc1YlAyNERBT2NhbXJ6emtqaW9sTDE0MW0tNjF6VUV2SkEzbjVYa2JDcUhWODI2Rm1uSnMxUmVxWW93aUU4SnlOUlF2ejRwVGtKU0pDOENJTWF2Zw?oc=5"
+    },
+    {
       "headline": "Google engineer quits his 'amazing' job over AI, and says the doomers have it wrong: I am not convinced t - The Times of India",
       "source": "The Times of India",
       "timestamp": "2026-09-26T05:29:00.000Z",
@@ -22,12 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPS0drUXZJYUUxTjFfXzdfbXhVY01mRFZhNWxFTGJ5M3VUdkdfUWhuZHlEcjZ1S3J3QUtlLUpwaWtEWHVTeVVVRmNtX3NMeWV2NXg0d0VSUHp1OE51RGlYeXZySEYyaHZLWTJDc1BNRHp3VXNjSC02ZGVtTWZSUDhmR2UtWFhPbUdmSndVcVdSYkhDV0Z4THF5SXdUYS1YRUF5LTk4MFRoYzhaeFltLWtMWkFHS19WMXFrWHV0RmRINkFJM3NOaDVpYW1HSnJBSC0xUDF3TmMzLWFmdmkxTnp2ZUM2YjBjRnV0bm5aQXE0TVliUzJIUm45M1BPbzNyU3pHTk5wVS1NR2wyNVdiOXBVUzYxcTlJNVdKRVEtZndaTXdQRG9kS1pvUHhGTEtJcDJBeXfSAbcCQVVfeXFMT1dRVW5LczdHZlY1cUhDY1cwSDNmWDJnbVI0U01ybjBpcUVzT2lwakpQdS0wNTlyUmFLYk5NTkNMVHBWZFVPamVfa2NSNEVyaVlIeUxEb0NhRjdpVUhCZzQ2Rk9pT0NKTVBpTXZRdGNhbGNtWlktalFmbVJWeTd0OXQ1MUhNVTQ0N3REU3BTa3dXM3hjSnh4T1M4bW8tMkRFTVhYSWVrUnFvSHVtTUVJVzNULVdKWTd6ZGJQQ0pnUkNSMmM0U3RiZ3FhZmg3YXAzb1lpTXFEM2VnQVdLTjl4YWduLUhHbWJubzlLazUta0lJUzVtcGlrNTZmakJoT1VjTEpJUmpObTZCdzNfM213djBZS2dtaGNGVDhydlpWZzdOOHN6dmVMaDR1MUtyVnRwSFV3bjRzOVk?oc=5"
     },
     {
-      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census - bbc.com",
-      "source": "bbc.com",
+      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census - BBC",
+      "source": "BBC",
       "timestamp": "2026-09-26T02:50:56.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "OpenAI bots meddled with US government agencies, including SEC and Census &nbsp;&nbsp; bbc.com",
+      "summary": "OpenAI bots meddled with US government agencies, including SEC and Census &nbsp;&nbsp; BBC",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5"
     },
@@ -62,26 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw?oc=5"
     },
     {
-      "headline": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-09-25T22:55:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5"
-    },
-    {
-      "headline": "In a New Anthropic Lab, A.I. Turns to Biology - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-25T18:42:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "In a New Anthropic Lab, A.I. Turns to Biology &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFZzajNZQW1MeHplVTRLYWd5NUlpUjhTSVU1YU9sODRIQTRvZU5TXzBvR2xETVVPYmEzRVJNNVJkRk83Y2pPZlVFbnB5RHZULU85MEdTa09wZUVBM3ZiLUJIdWs3U2NieXZVNTJUNER0WG1qSGF1TkdEZGs4TjNLdVFB?oc=5"
-    },
-    {
       "headline": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-09-25T17:44:53.000Z",
@@ -100,20 +110,37 @@
       "summary": "Google DeepMind Exodus Sparks VC Frenzy for AI’s Next Big Thing &nbsp;&nbsp; Bloomberg",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEVVemdsNUNWUVl2TWJMTGZSOWhYZW15MXJVNFZScTJoRDdkekgyOUI2MDNtdlhMN2RFbDVjdXJZcmtld3B2RWl4dEVjZFQ0RTdTOFJTZFJrOXdxVEp0dHBCNU11R3JjMVdONm9yVEVFRXhYQWJaaFlfZ0ZMRE9Oa0tXVmU0Sk9ZSnNvNVNDcHl3TDQ0NWdRT1Y2a3B4UHd6RVBVZDVWdkUtRHZ4M1Z6WWF4UHA?oc=5"
-    },
-    {
-      "headline": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-09-25T15:25:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk &nbsp;&nbsp; CNBC US appeals court upholds Pentagon's blacklisting of Anthropic &nbsp;&nbsp; Reuters Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features &nbsp;&nbsp; Ars Technica",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3ZmOE1OdnZzZlNfVTllZUVPMUVnb3g4c3hYS1k4c2U5Sk13dTBWZUkwRzZnajFTVmpCbFdoZlM1cV9fZEU1NGlCc053UkRLN3JadElNN3NGVE1iRGJzSnZrcEdBV1d4UWdwVjVvOGV4ZlUwamNULU9wSnVlTE9lU3dHd9IBiAFBVV95cUxPMndkTFZBaExhd2RzWlU5NXliOHlwRXh6eFlRci1OenRuY01nWlQ3WnBmbURNYzRRMzY2TzhpcElNVVQ4Wktla1FNanl2STc3THN4VUlJdjFpSFJOZzgwaklVRkhoNlNGS1lTUFZ5dDZPZnJZblU0bi1KVlNRYms2ZlVfbm1CdXlp?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI AI Agents Tried to Breach US Government Sites - Newser",
+        "source": "Newser",
+        "timestamp": "2026-09-26T11:50:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2ZLckhXYzlkSHZDNW56OXoxNmU5VzhRLU9XMFpUTkZOQWp1cjFtU0xLZ051NHdsdWRkWXRnLXFzVVFnQjQ5ZDJTWHBGQS1laXJ6QXBiWGNma0VsS2dPVHI5Q19yNWhZUW9TVEdTMlEyZEptTFpSeThwa05LVFhuRTJTdjR0TWk0NS1FM1JJWl9UQ0E2OGVkaQ?oc=5",
+        "summary": "OpenAI AI Agents Tried to Breach US Government Sites &nbsp;&nbsp; Newser"
+      },
+      {
+        "headline": "Oxford lets OpenAI train its AI models on Bodleian Library - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-09-26T11:23:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDBLbUhWbUtyVUg2bWZsNFF4NDdyRWVydjNwX3ctQldEbkN2cW4ybi1hU0tMdy1jMzlVSGtXQVVHcnEwVmxVVFh2bHk0UXBtMWxqRE5Bc3doanJTcWY5TDBCTXdpZzFJWDk1QUc0UjBTTU5ZWDU2c3NFZW9BRkZhWEd1U0pFUDNFRXpOT3ZOazQ4dHNZcTY5UTVOM3ByWUtHUnBBdg?oc=5",
+        "summary": "Oxford lets OpenAI train its AI models on Bodleian Library &nbsp;&nbsp; The Guardian"
+      },
+      {
+        "headline": "Inside Meta's months-long grind to turn Muse into a hit - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-09-26T09:01:35.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFdNbDd4b3h0S2pGYnY2dEsteUplS1hEQXh0SXVQM2QydWJIUjVVNWVVbnc1YlAyNERBT2NhbXJ6emtqaW9sTDE0MW0tNjF6VUV2SkEzbjVYa2JDcUhWODI2Rm1uSnMxUmVxWW93aUU4SnlOUlF2ejRwVGtKU0pDOENJTWF2Zw?oc=5",
+        "summary": "Inside Meta's months-long grind to turn Muse into a hit &nbsp;&nbsp; Business Insider"
+      },
       {
         "headline": "Google engineer quits his 'amazing' job over AI, and says the doomers have it wrong: I am not convinced t - The Times of India",
         "source": "The Times of India",
@@ -124,13 +151,13 @@
         "summary": "Google engineer quits his 'amazing' job over AI, and says the doomers have it wrong: I am not convinced t &nbsp;&nbsp; The Times of India"
       },
       {
-        "headline": "OpenAI bots meddled with US government agencies, including SEC and Census - bbc.com",
-        "source": "bbc.com",
+        "headline": "OpenAI bots meddled with US government agencies, including SEC and Census - BBC",
+        "source": "BBC",
         "timestamp": "2026-09-26T02:50:56.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
-        "summary": "OpenAI bots meddled with US government agencies, including SEC and Census &nbsp;&nbsp; bbc.com"
+        "summary": "OpenAI bots meddled with US government agencies, including SEC and Census &nbsp;&nbsp; BBC"
       },
       {
         "headline": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times",
@@ -140,53 +167,26 @@
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
         "summary": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Azure’s Inflection Point: Can Microsoft (MSFT) Balance AI Growth With Capex Risk? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-09-25T23:13:47.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkNvN0VsX2VSTFZ3UXdfVnRHd0JWc0VlTEQtcTY4clNvamptRlRhZkcxelRpR2g0SHp0RklpTmV5Ykd2Zmoxc042X0FiczZiQ3libnpCS001LVB0dnRBdXI0Y0lOeERsb3RVNHlWdjBpc3RYOWFLX0VmbW15ZURLRVpkVFhPWGZGSW93OG9ueW4wVC13UENvZDZkb0lOTjVFQXA4?oc=5",
-        "summary": "Azure’s Inflection Point: Can Microsoft (MSFT) Balance AI Growth With Capex Risk? &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "He’s Completely Terrified of AI—and He’s About to Make Billions Off It - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-09-25T23:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw?oc=5",
-        "summary": "He’s Completely Terrified of AI—and He’s About to Make Billions Off It &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-09-25T22:55:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
-        "summary": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity &nbsp;&nbsp; The Guardian"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "Google DeepMind",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "OpenAI",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "Google DeepMind",
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
