@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-27T01:12:34.741Z",
+    "generatedAt": "2026-09-27T07:50:12.870Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,29 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-09-27T07:13:12.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5"
+    },
+    {
+      "headline": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
+      "source": "Axios",
+      "timestamp": "2026-09-27T03:53:51.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Scoop: Top AI companies probing tens of thousands of security incidents &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5"
+    },
+    {
       "headline": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-09-27T01:11:04.000Z",
+      "timestamp": "2026-09-27T02:33:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "OpenAI halts training of latest models as reports mount of AI agents going rogue &nbsp;&nbsp; The Guardian",
@@ -32,24 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5"
     },
     {
-      "headline": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
-      "source": "Axios",
-      "timestamp": "2026-09-26T22:39:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Scoop: Top AI companies probing tens of thousands of security incidents &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5"
-    },
-    {
-      "headline": "OpenAI says its AI agents probed federal websites without the company's knowledge - NPR",
-      "source": "NPR",
-      "timestamp": "2026-09-26T21:13:08.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI says its AI agents probed federal websites without the company's knowledge &nbsp;&nbsp; NPR",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjdncTRUV0lndmJtVDRsT2NRczR3ZVhkSzNoLWpNNzRCNF9qdWFMQXQxUGpaeEtNaGE3MWd2QWJHSW9QUjF1MzN1dW5oQnplWDhSMTBHaW1yYmk0NUdTS25YLXptZmd2VzhCdzRlV1ZDV20zbHpMNFQ4clZGUk5kelIzWFNDNHNQenN1WFd2aTM1OXpvUlBFQ1VQVDhwZ1FlUm5XUkdfeW1NdkFFV0szUzRCYWxkRk1INEwtVW1zSWlCS1k?oc=5"
+      "headline": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - AP News",
+      "source": "AP News",
+      "timestamp": "2026-09-26T23:18:00.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways &nbsp;&nbsp; AP News",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ?oc=5"
     },
     {
       "headline": "Inside Meta's months-long grind to turn Muse into a hit - Business Insider",
@@ -62,22 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFdNbDd4b3h0S2pGYnY2dEsteUplS1hEQXh0SXVQM2QydWJIUjVVNWVVbnc1YlAyNERBT2NhbXJ6emtqaW9sTDE0MW0tNjF6VUV2SkEzbjVYa2JDcUhWODI2Rm1uSnMxUmVxWW93aUU4SnlOUlF2ejRwVGtKU0pDOENJTWF2Zw?oc=5"
     },
     {
-      "headline": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule - nytimes.com",
-      "source": "nytimes.com",
-      "timestamp": "2026-09-26T02:48:20.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule &nbsp;&nbsp; nytimes.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CdXRRd1p6Z2h6UTdnSmpSVlJ5MWRGLTNtanlfNlU5SmVfVVhTdGlfdnpMb3Z6cmYxYTlOUXU0ZC1xYTZoa1R4LWgyT0FHR0Q4NTRNcEdUb3R0NTRNSk9aR3l2c2NPT3dfX2x1eDhadG5Ud3lOTGFKMEdhSWwxQQ?oc=5"
-    },
-    {
-      "headline": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - nytimes.com",
-      "source": "nytimes.com",
+      "headline": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites - The New York Times",
+      "source": "The New York Times",
       "timestamp": "2026-09-25T23:16:40.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites &nbsp;&nbsp; nytimes.com",
+      "summary": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
     },
@@ -92,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkNvN0VsX2VSTFZ3UXdfVnRHd0JWc0VlTEQtcTY4clNvamptRlRhZkcxelRpR2g0SHp0RklpTmV5Ykd2Zmoxc042X0FiczZiQ3libnpCS001LVB0dnRBdXI0Y0lOeERsb3RVNHlWdjBpc3RYOWFLX0VmbW15ZURLRVpkVFhPWGZGSW93OG9ueW4wVC13UENvZDZkb0lOTjVFQXA4?oc=5"
     },
     {
-      "headline": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-09-25T17:44:53.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5"
-    },
-    {
       "headline": "Google employee says he quit because aiming for superintelligent AI is 'inherently irresponsible' - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-09-25T16:30:00.000Z",
@@ -110,14 +100,42 @@
       "summary": "Google employee says he quit because aiming for superintelligent AI is 'inherently irresponsible' &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYk5YMGVEdEJWelVFOW4zbXlfRzAxZFlhcGphRy0wbmFXMm03X29CcXdQLTdDdmpxdXRTcTBkV2FFWGlYMmdkdVlYU3dLUWFfTHRPQmlrNVdIWWotcU43YndlNzR0VGRBWDhUanVONnFCZTJFUWwyR2tqRVY5ZktJYlNNRVZBRGtIbEhKMEFsV3NUQy1waXR0T0t2TW9iOGN5V2YxcjlHRVVKb2JNMlE?oc=5"
+    },
+    {
+      "headline": "Google DeepMind Exodus Sparks VC Frenzy for AI’s Next Big Thing - Bloomberg",
+      "source": "Bloomberg",
+      "timestamp": "2026-09-25T15:45:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind Exodus Sparks VC Frenzy for AI’s Next Big Thing &nbsp;&nbsp; Bloomberg",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEVVemdsNUNWUVl2TWJMTGZSOWhYZW15MXJVNFZScTJoRDdkekgyOUI2MDNtdlhMN2RFbDVjdXJZcmtld3B2RWl4dEVjZFQ0RTdTOFJTZFJrOXdxVEp0dHBCNU11R3JjMVdONm9yVEVFRXhYQWJaaFlfZ0ZMRE9Oa0tXVmU0Sk9ZSnNvNVNDcHl3TDQ0NWdRT1Y2a3B4UHd6RVBVZDVWdkUtRHZ4M1Z6WWF4UHA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "OpenAI, Anthropic CEOs called to appear at Australian AI probe - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-09-27T07:13:12.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlYxZ3NxM3NWUmc4TDgxWnNXZkRmSWhOeHJPcWMzbDhoT2NsWDJMVzN6bUdLbk8zMXU4Y0dtU0o0NndMM2tGZDFzekNJV1ZYMjQtTkZxVkxQNHp5VjdfcEl1UG5zQWlOWUsyLXY5bzQwZ1FfREZ0UWpSbEdVTGh3c3VtbTlGQzRtVGptcktEQ2FkLWU2UkFsMlVMZzRhaWvSAaQBQVVfeXFMTnhpZ3pGckk0YTB1RXpfbktja0VMUUgyWS1zbGJwY2FhUFN1b1lXc2Y3Sk50UmhtcVdkRHZ0eEc0bUNOR2tBdVNsc2tBX19rR1RsN3U2bFJjWEV3SE94Tm5Wc3Fkc1dNSm15QlRpaVFJN1JnR3BmS2Q0bXJXSnJINFJWX0F4ZnItTmNtQWFSMkhkc1NvNkhMYVhkY3Z4MEJFbmJ1R1k?oc=5",
+        "summary": "OpenAI, Anthropic CEOs called to appear at Australian AI probe &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
+        "source": "Axios",
+        "timestamp": "2026-09-27T03:53:51.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
+        "summary": "Scoop: Top AI companies probing tens of thousands of security incidents &nbsp;&nbsp; Axios"
+      },
+      {
         "headline": "OpenAI halts training of latest models as reports mount of AI agents going rogue - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-09-27T01:11:04.000Z",
+        "timestamp": "2026-09-27T02:33:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
@@ -133,22 +151,13 @@
         "summary": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
-        "source": "Axios",
-        "timestamp": "2026-09-26T22:39:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
-        "summary": "Scoop: Top AI companies probing tens of thousands of security incidents &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "OpenAI says its AI agents probed federal websites without the company's knowledge - NPR",
-        "source": "NPR",
-        "timestamp": "2026-09-26T21:13:08.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjdncTRUV0lndmJtVDRsT2NRczR3ZVhkSzNoLWpNNzRCNF9qdWFMQXQxUGpaeEtNaGE3MWd2QWJHSW9QUjF1MzN1dW5oQnplWDhSMTBHaW1yYmk0NUdTS25YLXptZmd2VzhCdzRlV1ZDV20zbHpMNFQ4clZGUk5kelIzWFNDNHNQenN1WFd2aTM1OXpvUlBFQ1VQVDhwZ1FlUm5XUkdfeW1NdkFFV0szUzRCYWxkRk1INEwtVW1zSWlCS1k?oc=5",
-        "summary": "OpenAI says its AI agents probed federal websites without the company's knowledge &nbsp;&nbsp; NPR"
+        "headline": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - AP News",
+        "source": "AP News",
+        "timestamp": "2026-09-26T23:18:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ?oc=5",
+        "summary": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways &nbsp;&nbsp; AP News"
       },
       {
         "headline": "Inside Meta's months-long grind to turn Muse into a hit - Business Insider",
@@ -158,22 +167,13 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFdNbDd4b3h0S2pGYnY2dEsteUplS1hEQXh0SXVQM2QydWJIUjVVNWVVbnc1YlAyNERBT2NhbXJ6emtqaW9sTDE0MW0tNjF6VUV2SkEzbjVYa2JDcUhWODI2Rm1uSnMxUmVxWW93aUU4SnlOUlF2ejRwVGtKU0pDOENJTWF2Zw?oc=5",
         "summary": "Inside Meta's months-long grind to turn Muse into a hit &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule - nytimes.com",
-        "source": "nytimes.com",
-        "timestamp": "2026-09-26T02:48:20.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CdXRRd1p6Z2h6UTdnSmpSVlJ5MWRGLTNtanlfNlU5SmVfVVhTdGlfdnpMb3Z6cmYxYTlOUXU0ZC1xYTZoa1R4LWgyT0FHR0Q4NTRNcEdUb3R0NTRNSk9aR3l2c2NPT3dfX2x1eDhadG5Ud3lOTGFKMEdhSWwxQQ?oc=5",
-        "summary": "Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule &nbsp;&nbsp; nytimes.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
