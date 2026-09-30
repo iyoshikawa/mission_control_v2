@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-29T21:52:21.103Z",
+    "generatedAt": "2026-09-30T01:04:10.560Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -11,6 +11,28 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "China vows response if EU introduces moves targeting Chinese trade",
+      "summary": "China vows response if EU introduces moves targeting Chinese trade &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-29T23:32:00.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "trade",
+      "whyItMatters": "Trade restrictions can tighten supply chains and change vendor pricing.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0FPcDBVWmJlMnBCSGdYZTQwN25iOVVneEVLU3RadEczS2ZiOXQwaG9qajM1aWIxMEJDblhRbVNlNjdnZUpiTldnT3hUeEQ3UWxNLWVUY056ancwUE9VVGM5b3pZTzZxUm9pY0VmMzQ3ak9uYldlNExVcTd6QnJvQXBMN1FtZWJFdDBvTU1uSmI3VjZhQUZ6ZVNxSHF0Ym5QN1ozd2ZSa25fV0kzYjVyTmZtWDE0UlJYV1QyMGFn?oc=5"
+    },
+    {
+      "headline": "Trump says he does not know if Iran is going to 'give up yet'",
+      "summary": "Trump says he does not know if Iran is going to 'give up yet' &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-29T21:12:06.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalM2cldRTWlLdGZFN2FTOExtVVFrODNCbVJaeTBZMVZXVllmU2IzRHJScWd3cHl0SERRT21NdDNuSXFuaGFvak83czlLbGNfTUpkcXUzWGxYZlhfWmxWOXhaeVQ4Q0RRY2JKWlk1RjVsd2xJVklodUxiZXpJdHpLMFdnVmVxd2lXYzBjTF9sNUduZWRRb25Cdk42bFNxSWd1UTVaNTY1WXhnNm1yMmdj?oc=5"
+    },
     {
       "headline": "US imposes sanctions on 13 tied to Iran weapons procurement",
       "summary": "US imposes sanctions on 13 tied to Iran weapons procurement &nbsp;&nbsp; Reuters",
@@ -32,6 +54,17 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLW1ERC14bXJ6YXd2cmtUMzZlVHBEZ1Z2Wi02VjNyVmJCTjI2ekpHRWtXTlVSSDFyaEgxVGE3bDdfSk9TQ1FkcWJ0MTlqM0hwSWtjR3lrblFNN2ZFRzRQa3lqeXZPcjJWODBQLW91Wi0wbTNpUFV5TmpoTDFuWUZyRVA3dlJpcTFoQ1U3cERjbDBIODFYRTllUEZ0ZlhqWGpyekE?oc=5"
+    },
+    {
+      "headline": "UN alarmed by reports that Myanmar air strike killed 50",
+      "summary": "UN alarmed by reports that Myanmar air strike killed 50 &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-29T19:56:56.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNfc0kxMkFDRU1CWGhNZy1DWmF2U2lHTXZJa0RxWTJzU1I2cDcyQ1d3ajg5Zm1xYTdqNEVNamVmX2dVYWdVc0U1UTVOeXFHcHhsVmhTSlN5dDVhM2RlTkNfcGpsQTczdlIyQ0lRcmQtMG5WQ0lUT0NFUUp2RUE3bXNGM0V4dnVNNXV2LWtfY2RjZmo5YUZFeUthcE1FeDhoXzV4aGJJMkFyTXlfSmVn?oc=5"
     },
     {
       "headline": "Appeals court declines to pause sanctions against Trump lawyers in IRS settlement",
@@ -65,39 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lWTTdxaVZMaDlmeS1TNERQbGRyNENwTzhUZGt5d2pMSFMwSFZpQUtHWks4UklrU2lKU2EyMWVuUnU3U1Y1Vk9icjlYR1F4M0pCNjdUWDZIVVpIeC1SMVVnT05ySmRSaGZYdEZnVXFaR01ISHlqdEttMVJoWXdGbTB0RlBUdVEwWDFnd3J5S2Q5TjExN0FFVkMwcHRES0k4R1luZDNJMUNmaVMydXBRX3g4RERlZHc4emUxN2xiMllTQlpWbUE?oc=5"
-    },
-    {
-      "headline": "SpaceX's Starship engine failure could impact NASA's moon mission objectives",
-      "summary": "SpaceX's Starship engine failure could impact NASA's moon mission objectives &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-29T18:31:07.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5"
-    },
-    {
-      "headline": "Israeli settlers attack West Bank village, blocking family's return home",
-      "summary": "Israeli settlers attack West Bank village, blocking family's return home &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-29T17:06:16.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmdKU3oyaktydTkxalgxVnVxZExQYnEzVzBUeUxtaDFGdE1SazhYMkdnS28wNTJXWWlLdkt1T3hJUmZURHRqZFdLNG4taEFLaWVCZUdxQ25Cb2c0U3FNX3M5THB1Nm40MXJvMkpsY29BUzg1WThIM3MyUldyY1Z6SHctYnczdTl6ZkYzeXdwYmNqQWZodmlrdGFBZFAzZnU0RjIzdklLSDlueDh6Q3k1NFZwNTJtX3VGNDRnT19JRE4xZw?oc=5"
-    },
-    {
-      "headline": "Iranians stagger under soaring costs of seven months of war",
-      "summary": "Iranians stagger under soaring costs of seven months of war &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-09-29T15:10:18.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkZiODJvYlVSWTFTXzU5NnY5dV9vQzAya01EME94cUZRdmtITkpwTnR2UWVLX0gtY2hOX0k5bE1mbUpSSjhGMU43NDRqQkJJaWVVVmt6d1p3cmJnVGdJQkg3U0RtUTZXVDRzVUNJdnB3bDdiUmVLTDF0ZXc1a3FnTi1qMVNOZUxxeVFZR1JxbDZUaFVmT2RIWDlTN292SFBUZlVYUDZwNG0?oc=5"
     }
   ]
 }
