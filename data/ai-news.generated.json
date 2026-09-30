@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-30T18:56:56.621Z",
+    "generatedAt": "2026-09-30T22:55:35.282Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,46 @@
   },
   "newsFeed": [
     {
+      "headline": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-09-30T22:27:26.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5"
+    },
+    {
+      "headline": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
+      "source": "NBC News",
+      "timestamp": "2026-09-30T20:24:05.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents &nbsp;&nbsp; NBC News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5"
+    },
+    {
+      "headline": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-09-30T20:06:23.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Gemini 4 Argon: our next era of frontier intelligence &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5"
+    },
+    {
+      "headline": "Billionaire Bill Ackman calls Anthropic “perhaps the greatest business story I've ever seen” - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-09-30T18:37:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Billionaire Bill Ackman calls Anthropic “perhaps the greatest business story I've ever seen” &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGRnTWlfUFJSNmVrUjJwbWgtYWRQR053OEZoZi1BVTJzRWN4SkI5ZkFpVFNkWFNKSU5jSnNvTy1zeXVsbWpVSGNwOHJ2QVJZRlUzdlJMOWkyR2ZZVnNTMkloWXd0ajg0MHNkNmliUmZzOXUtem9hbjhsNEJVR05RU1BaRjk5T040SVpKZFhRQ051cHNTVXdDUmVzWmt4VGMxc1ZRdV9RODZRVEF0R1pYcXBPMVNuaUlOLVdNTHRheDZ6c2ZKbkhIOVMxVXB3cUJJUXVrVlBmWW54Q3RKMVg0?oc=5"
+    },
+    {
       "headline": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters",
       "source": "Reuters",
       "timestamp": "2026-09-30T18:17:19.000Z",
@@ -20,66 +60,6 @@
       "summary": "FTC opens probe into AI giants including Anthropic and OpenAI &nbsp;&nbsp; Reuters",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5"
-    },
-    {
-      "headline": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report - Gizmodo",
-      "source": "Gizmodo",
-      "timestamp": "2026-09-30T17:50:05.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5"
-    },
-    {
-      "headline": "FTC launches broad investigation into Anthropic, OpenAI - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-09-30T17:29:21.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "FTC launches broad investigation into Anthropic, OpenAI &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5"
-    },
-    {
-      "headline": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-09-30T17:17:58.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5"
-    },
-    {
-      "headline": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "timestamp": "2026-09-30T16:52:30.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "OpenAI sued by safety group over autonomous hack of Hugging Face &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5"
-    },
-    {
-      "headline": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-09-30T15:34:02.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC1LanFHbHlibGhZam1NRllQRGtNSDBXUThkUG5jdzUxWFE0S0NvTTZfNEpjeU5yb1FONl8walZsXzZLY0Y4WlIwOWFqa05KdnBQODBrYy1XOXhlbVhNVm5jZzJONlpGeVI4dWxDbjVuaUJUb2JmVGYyLTloRURoQUc4UmoxME5yc1laSmRQWQ?oc=5"
-    },
-    {
-      "headline": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks - cnbc.com",
-      "source": "cnbc.com",
-      "timestamp": "2026-09-30T15:27:47.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks &nbsp;&nbsp; cnbc.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE?oc=5"
     },
     {
       "headline": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
@@ -92,14 +72,24 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5"
     },
     {
-      "headline": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-30T09:00:48.000Z",
+      "headline": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue just to br - thestreet.com",
+      "source": "thestreet.com",
+      "timestamp": "2026-09-30T02:33:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5"
+      "category": "market",
+      "summary": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue just to br &nbsp;&nbsp; thestreet.com",
+      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16MlZHeFMxbjk4NUZaY3VGempaaUlRamFaeGtsSlhPdmF0S0NRal9ZNXh4SUFlbEowZnRtTjROcXVEOGZFLXd5TzlrQWtGNlAyTC1KX0FlNFcyWm5lT050WU03REY1N2w4MGNRS3RNcG1pZ2xCY1hPNQ?oc=5"
+    },
+    {
+      "headline": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-09-30T01:16:47.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs &nbsp;&nbsp; Reuters Anthropic warns of ‘existential risks to humanity’ in IPO prospectus &nbsp;&nbsp; Financial Times EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVlPeVROc0FBWTl6a0ZCZXdPVF93WjdPT1BFV2xkQmlyRE9oYS1wRF9yWk0zV1EwSlJ5Vmt0UkpucHdQWUpSbGdzUmdVeC1EWm5sMzBkTUNQMkg3ekVYMkMtemVySUxhWnRCTWRNLTA1Vl8tZVZkRU80ZVk4TjdZbE5LdjJ5VzJXbUlmM1FvMnJqTFE4TkZVeEJFVndEMmpIbGN5WDRxclhHX0JZdHp6LWlad3JTakZr?oc=5"
     },
     {
       "headline": "Introducing dots - OpenAI",
@@ -110,10 +100,56 @@
       "summary": "Introducing dots &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5"
+    },
+    {
+      "headline": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’ - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-09-29T17:35:03.000Z",
+      "impact": "WATCH",
+      "category": "regulation",
+      "summary": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’ &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGJBenRicmptaFZjQ08tMnZ2U01BSDlkOEd3d1FIaHBxRlI0SjBZRUlza3F4TGZjYVpmdEtkY0xWd2V4VXloU2Q1VXpzM3NPQ0tUM0lUeDZfcS10c2xVODJRby01aHFlQU9CZzZOakVuV0JWQS13eE9KN0FlUkQ2Vkdra2Rhb0pWRVk4cG9jZGdjemcwbFJMb3lKcXhSWHZJR2tFWm9jaTJidF9SUnZmcmZ4d1FjQ1k?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-09-30T22:27:26.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
+        "summary": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
+        "source": "NBC News",
+        "timestamp": "2026-09-30T20:24:05.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
+        "summary": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents &nbsp;&nbsp; NBC News"
+      },
+      {
+        "headline": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-09-30T20:06:23.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+        "summary": "Gemini 4 Argon: our next era of frontier intelligence &nbsp;&nbsp; blog.google"
+      },
+      {
+        "headline": "Billionaire Bill Ackman calls Anthropic “perhaps the greatest business story I've ever seen” - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-09-30T18:37:46.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGRnTWlfUFJSNmVrUjJwbWgtYWRQR053OEZoZi1BVTJzRWN4SkI5ZkFpVFNkWFNKSU5jSnNvTy1zeXVsbWpVSGNwOHJ2QVJZRlUzdlJMOWkyR2ZZVnNTMkloWXd0ajg0MHNkNmliUmZzOXUtem9hbjhsNEJVR05RU1BaRjk5T040SVpKZFhRQ051cHNTVXdDUmVzWmt4VGMxc1ZRdV9RODZRVEF0R1pYcXBPMVNuaUlOLVdNTHRheDZ6c2ZKbkhIOVMxVXB3cUJJUXVrVlBmWW54Q3RKMVg0?oc=5",
+        "summary": "Billionaire Bill Ackman calls Anthropic “perhaps the greatest business story I've ever seen” &nbsp;&nbsp; Yahoo Finance"
+      },
       {
         "headline": "FTC opens probe into AI giants including Anthropic and OpenAI - Reuters",
         "source": "Reuters",
@@ -124,63 +160,27 @@
         "summary": "FTC opens probe into AI giants including Anthropic and OpenAI &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report - Gizmodo",
-        "source": "Gizmodo",
-        "timestamp": "2026-09-30T17:50:05.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5",
-        "summary": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "FTC launches broad investigation into Anthropic, OpenAI - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-09-30T17:29:21.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
-        "summary": "FTC launches broad investigation into Anthropic, OpenAI &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-09-30T17:17:58.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZwUGZ4TTFCRnpDakw1allVVXl4QnJCZVlCV2JMeXZMVWNmZzNPd0VrN2ZLeEM1Zk56WDZydVlHX0U4U05EQ1dRbUtJMk0zUGVLTmlUbHFIcjRZZFdzNjcyZTZCeHRRVlU4WS1nVFd5d2JMLUwzQndqVVFhQ2ZObjJEQ3hHMUpvWi1jT21ZV0hWcGRibjZxVXoxTjB2cFpDTjBRWXc5c0hsMksyQ1NKa3Q5TTNzZw?oc=5",
-        "summary": "OpenAI Blames Moonshot for Mass Data Extraction on Its AI Models &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "OpenAI sued by safety group over autonomous hack of Hugging Face - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "timestamp": "2026-09-30T16:52:30.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGk0MnJrR0tQVHFrdVZSZ08tN05ZQXN5V19sRklaQVlHdFUyODNxa1JyY1JLLWRNSktuOGFPOFUwaXlXMnFLam04bDlRRXlNa055SzEwWFhOWEpZQ0s3U0FidXJwaE1ralg3bFFXTTY2ZU1MWW9kWmpQaGsya1NqVmJHVHFkRzROMWFUNU1tdW1nbjh5ZGx4OdIBngFBVV95cUxQdm0yVm05eTg4czRMbkJpWGJOTkFrZmpUYmg5aFotZjVnYUlxbWN0ek5fdWRjck1YX3h4WnBPeUpPVC1FY2xRTGNRbk9aOEh3SHFWU1ZOVmF0bXJXVXZtaHRWU0JjZDdrdG1ueGFicHBfSThDVnVIZ2lUeWhMSURnYTZnYlhEdkdzb2g3RWZQTVc5d0VQdVI5eEpsVC00UQ?oc=5",
-        "summary": "OpenAI sued by safety group over autonomous hack of Hugging Face &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "headline": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
-        "source": "blog.google",
-        "timestamp": "2026-09-30T15:34:02.000Z",
+        "headline": "SynthID Bio: Watermarking methods for synthetic biology - Google DeepMind",
+        "source": "Google DeepMind",
+        "timestamp": "2026-09-30T15:07:03.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC1LanFHbHlibGhZam1NRllQRGtNSDBXUThkUG5jdzUxWFE0S0NvTTZfNEpjeU5yb1FONl8walZsXzZLY0Y4WlIwOWFqa05KdnBQODBrYy1XOXhlbVhNVm5jZzJONlpGeVI4dWxDbjVuaUJUb2JmVGYyLTloRURoQUc4UmoxME5yc1laSmRQWQ?oc=5",
-        "summary": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. &nbsp;&nbsp; blog.google"
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WVZXTHl5UmxibkdDVUlrUlBoNWVCb0lUaThwcDd3QjVLM1FSd0lKSzlROC1sazVFUThoWWZlMWd4SmdObWgtU0g2cXFQM05RbGwyMzMydGZWbDI4V0JQVTJZQQ?oc=5",
+        "summary": "SynthID Bio: Watermarking methods for synthetic biology &nbsp;&nbsp; Google DeepMind"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
