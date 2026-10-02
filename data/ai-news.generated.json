@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-02T15:34:21.863Z",
+    "generatedAt": "2026-10-02T20:30:51.054Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,34 @@
   },
   "newsFeed": [
     {
-      "headline": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism - Stocktwits",
-      "source": "Stocktwits",
-      "timestamp": "2026-10-02T11:58:34.000Z",
+      "headline": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-10-02T20:21:12.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism &nbsp;&nbsp; Stocktwits",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXZrVGQySXVNalNUeHVSWHVKLW5ndEsxdXYyT1VNMzdTdGZfZmNvZ2tjTkdTWFlIdmZmSUlCM083b0tEd0ZuZDdPMEtmX19CdmFWVUFJOUk1TnFXSmNOZ1k3SjAyclJVMXB5WThTNUJOWTdiZE96R2J5YUtNVDI1VW9tTFlxQ3lLV0R6TndaSUNFTnU4eGZjejhNOWJ3N1M4Ui1JbG9YMk9yTURSVm1uclJ5emN2Q0piYmZVYWFUWkU2MWRIRm9OU3dIZ1FLc0RIYkZZQjBpZw?oc=5"
+      "category": "models",
+      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5"
     },
     {
-      "headline": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-      "source": "BBC",
-      "timestamp": "2026-10-02T08:20:32.000Z",
+      "headline": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-10-02T16:05:30.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTlfRWNuNFBkcjRyVVY3bDNtdHZWT2hUekpza3RXVkhpbFc0dThLRmlYclBtQlNDSlFqRlVKalhZeThNNjNQNlR4N1NpbzktUXoyUTh4RFI1YjdIay04cWpxbzdaOGhzWXBxYjVvZ2FBNi1WSGxNN192MFRxX0NBMXdSSmFlVWJIemZqR0ZicGJqLWVTeUZHc1MtbnNHYUY3ak80WURIenVnYjJ6WHp1cEl4Rmw?oc=5"
+    },
+    {
+      "headline": "Who’s to Blame When A.I. Goes Rogue? - nytimes.com",
+      "source": "nytimes.com",
+      "timestamp": "2026-10-02T09:21:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI fires workers for 'mishandling sensitive information' &nbsp;&nbsp; BBC",
+      "summary": "Who’s to Blame When A.I. Goes Rogue? &nbsp;&nbsp; nytimes.com",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5"
     },
     {
       "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
@@ -52,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVlHMWJKMEdEOW1mQ2x2MzBNMnYxOWtuWWlzN1hpRG84czBDN3RsdFVZdWZMWkh2U3ljcEtHUkt1X1NyZ0FkU1U3blJrN0xTb2tVQktoWkRHLWRRUTM5dkg5cTFXLXEzVzZRMGZqSUxQQ0tSN2VLNmMwZVg3OXdRUmdwRENFQ1k3YXItYWV3R01sWDJUOHV5YU12dw?oc=5"
     },
     {
+      "headline": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human - CBC",
+      "source": "CBC",
+      "timestamp": "2026-10-01T20:53:46.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human &nbsp;&nbsp; CBC",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5"
+    },
+    {
       "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - Phys.org",
       "source": "Phys.org",
       "timestamp": "2026-10-01T20:40:09.000Z",
@@ -72,65 +92,54 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5"
     },
     {
-      "headline": "Claude-shaped science - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-10-01T14:02:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude-shaped science &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5"
-    },
-    {
-      "headline": "Trump Says He Liked Anthropic’s Amodei in Sign of Detente - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-10-01T12:18:57.000Z",
+      "headline": "Microsoft holds firm as Azure and AI monetization support growth - Traders Union",
+      "source": "Traders Union",
+      "timestamp": "2026-10-01T16:43:37.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Trump Says He Liked Anthropic’s Amodei in Sign of Detente &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWlRNjM2WjFWSTRxc3FJM2c4S0F4RlF4WXdxZ0FGT1FWWmRuVWljV0lMajdYeXhxdWlLMW9YRGhjSkZGYjVrWVI2TkZabFhxX1A3dGhMc1FjdWM3d2F4ek1zQ3FqaDMyQnQwSmx2X2VtOFFxZS1NYk1FeVAwZFNEendOcS14dWZHb2Z3R1ZQM0JndkJsV3E1SENvYmhMUTdTcDlfUlhLN190WmFU?oc=5"
+      "summary": "Microsoft holds firm as Azure and AI monetization support growth &nbsp;&nbsp; Traders Union",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelBOWW9xZGVxbEtVRnpQTV9lOW0xLWRmRmNoLWp3cnRYVjVuV245eG5rVnRzR2ZoSWdZV2EtN283OXZ6UWpVYXo2aTZiRjNjX19iQUc5dUN4SnNEb25Vb19wV3k5MTJabG1pSzNodTlyX0tYUTF1aUh1dEpJelRPajNwVUpNZUp6SUFGTHNaSlNydjdFRGliTDNFX3NWUnlIT2c?oc=5"
     },
     {
-      "headline": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity - Fortune",
-      "source": "Fortune",
+      "headline": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
+      "source": "Reuters",
       "timestamp": "2026-10-01T10:06:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUxXaW9wZ3RjVXV6ZUNKRFBJVTdMZXNhU0I3eUNhRnI0alc0MmNMbmR4TlZVb3VKRUdYNmRiMW1jM3lyZUk1elphb1VvWVRXTmpKM3IyMmRfbVdvSjZIb2I2LVZWaVdqQ0taQTBUZzBHZTJyNkZRcnR3NWVoT3JNSHhObkxEdHo2cC1kUmw4Tml6RnRWVkhMVXdqN0R4QQ?oc=5"
-    },
-    {
-      "headline": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying - BBC",
-      "source": "BBC",
-      "timestamp": "2026-10-01T09:08:46.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying &nbsp;&nbsp; BBC",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5"
+      "category": "regulation",
+      "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism - Stocktwits",
-        "source": "Stocktwits",
-        "timestamp": "2026-10-02T11:58:34.000Z",
+        "headline": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-10-02T20:21:12.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXZrVGQySXVNalNUeHVSWHVKLW5ndEsxdXYyT1VNMzdTdGZfZmNvZ2tjTkdTWFlIdmZmSUlCM083b0tEd0ZuZDdPMEtmX19CdmFWVUFJOUk1TnFXSmNOZ1k3SjAyclJVMXB5WThTNUJOWTdiZE96R2J5YUtNVDI1VW9tTFlxQ3lLV0R6TndaSUNFTnU4eGZjejhNOWJ3N1M4Ui1JbG9YMk9yTURSVm1uclJ5emN2Q0piYmZVYWFUWkU2MWRIRm9OU3dIZ1FLc0RIYkZZQjBpZw?oc=5",
-        "summary": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism &nbsp;&nbsp; Stocktwits"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+        "summary": "Claude Frontier Academy: $100M to train 10,000 engineers &nbsp;&nbsp; Anthropic"
       },
       {
-        "headline": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-        "source": "BBC",
-        "timestamp": "2026-10-02T08:20:32.000Z",
+        "headline": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-10-02T16:05:30.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTlfRWNuNFBkcjRyVVY3bDNtdHZWT2hUekpza3RXVkhpbFc0dThLRmlYclBtQlNDSlFqRlVKalhZeThNNjNQNlR4N1NpbzktUXoyUTh4RFI1YjdIay04cWpxbzdaOGhzWXBxYjVvZ2FBNi1WSGxNN192MFRxX0NBMXdSSmFlVWJIemZqR0ZicGJqLWVTeUZHc1MtbnNHYUY3ak80WURIenVnYjJ6WHp1cEl4Rmw?oc=5",
+        "summary": "Blackstone, Banks Amass $60 Billion for Broadcom’s AI Chip Deal &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "Who’s to Blame When A.I. Goes Rogue? - nytimes.com",
+        "source": "nytimes.com",
+        "timestamp": "2026-10-02T09:21:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
-        "summary": "OpenAI fires workers for 'mishandling sensitive information' &nbsp;&nbsp; BBC"
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
+        "summary": "Who’s to Blame When A.I. Goes Rogue? &nbsp;&nbsp; nytimes.com"
       },
       {
         "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
@@ -151,30 +160,21 @@
         "summary": "In Robotics, Google Goes Android to Tesla’s Apple &nbsp;&nbsp; The Information"
       },
       {
-        "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - Phys.org",
-        "source": "Phys.org",
-        "timestamp": "2026-10-01T20:40:09.000Z",
+        "headline": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human - CBC",
+        "source": "CBC",
+        "timestamp": "2026-10-01T20:53:46.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSzRoVHU3OU5JQ2dIc252Y0ZsdlRSY3ZNYk02cGdYdG1kNVgyZURuVVFXbjNSNFBUMTdpV1RWRWN1QTFFMm55R19pRU9tVzJhalhSWlgxYzBjS2tXemJGb2prVzJTcjFERnd1MnFwMDlLZHN2dmF0ME5mbUgzY2c?oc=5",
-        "summary": "Google DeepMind develops invisible watermarks for AI-designed proteins &nbsp;&nbsp; Phys.org"
-      },
-      {
-        "headline": "The eternal complement - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-10-01T17:09:59.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
-        "summary": "The eternal complement &nbsp;&nbsp; OpenAI"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5",
+        "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human &nbsp;&nbsp; CBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
