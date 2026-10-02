@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-01T21:40:40.848Z",
+    "generatedAt": "2026-10-02T01:26:04.503Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,44 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Exclusive | OpenAI Fires Researchers Researchers After Alleged Information-Sharing - wsj.com",
-      "source": "wsj.com",
-      "timestamp": "2026-10-01T20:47:00.000Z",
-      "impact": "WATCH",
+      "headline": "OpenAI fires three workers over mishandling 'sensitive information' - BBC",
+      "source": "BBC",
+      "timestamp": "2026-10-02T01:05:13.000Z",
+      "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Exclusive | OpenAI Fires Researchers Researchers After Alleged Information-Sharing &nbsp;&nbsp; wsj.com",
+      "summary": "OpenAI fires three workers over mishandling 'sensitive information' &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5"
+    },
+    {
+      "headline": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-10-01T22:53:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5"
     },
     {
-      "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - phys.org",
-      "source": "phys.org",
-      "timestamp": "2026-10-01T20:40:09.000Z",
+      "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-01T22:26:30.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind develops invisible watermarks for AI-designed proteins &nbsp;&nbsp; phys.org",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSzRoVHU3OU5JQ2dIc252Y0ZsdlRSY3ZNYk02cGdYdG1kNVgyZURuVVFXbjNSNFBUMTdpV1RWRWN1QTFFMm55R19pRU9tVzJhalhSWlgxYzBjS2tXemJGb2prVzJTcjFERnd1MnFwMDlLZHN2dmF0ME5mbUgzY2c?oc=5"
-    },
-    {
-      "headline": "OpenAI’s Chris Lehane speaks about AI super intelligence | CNN Business - CNN",
-      "source": "CNN",
-      "timestamp": "2026-10-01T20:28:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s Chris Lehane speaks about AI super intelligence | CNN Business &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMC1VbUpoM1ZZakR0ZVlQbDBVR0hORE51SlBaSkcwUzBXWFp6YWZ4OW9CZ0hWeUlaSWpZLTRuMDNqQlBZbjBXNl9sRDBtVnhUTmRvT0U2SVZ2dUxCbjRveFhiRTBVUVozYmJWdGVxc1UzZTB2TjlteUdLSVVTeDItZzBDR2FramxXZEZDZFF6ODhWeEQxSDlJQXdQZWJpRUNZNFQwQkctUnE?oc=5"
+      "category": "regulation",
+      "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5"
     },
     {
       "headline": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
       "source": "Reuters",
-      "timestamp": "2026-10-01T19:44:28.000Z",
+      "timestamp": "2026-10-01T21:50:00.000Z",
       "impact": "LOW",
       "category": "regulation",
       "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
+    },
+    {
+      "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - Phys.org",
+      "source": "Phys.org",
+      "timestamp": "2026-10-01T20:40:09.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind develops invisible watermarks for AI-designed proteins &nbsp;&nbsp; Phys.org",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSzRoVHU3OU5JQ2dIc252Y0ZsdlRSY3ZNYk02cGdYdG1kNVgyZURuVVFXbjNSNFBUMTdpV1RWRWN1QTFFMm55R19pRU9tVzJhalhSWlgxYzBjS2tXemJGb2prVzJTcjFERnd1MnFwMDlLZHN2dmF0ME5mbUgzY2c?oc=5"
     },
     {
       "headline": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - Barron's",
@@ -62,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlU3MlRpX21YbFpIcUUwOWxhNHVIUVNHTl9ydGtoZ3JNcDZGbjhESGhSMmlQN1hyNWNpNGdQNWVKWlc5NUZNblNUekZpSjBmZ1VXOXo3TWxmd092LVJVaWgyamxnc2UyVkk4ZnhjcmxJWGhCYzZpcl9KQnJiR1BHUg?oc=5"
     },
     {
+      "headline": "Microsoft holds firm as Azure and AI monetization support growth - Traders Union",
+      "source": "Traders Union",
+      "timestamp": "2026-10-01T16:43:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft holds firm as Azure and AI monetization support growth &nbsp;&nbsp; Traders Union",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelBOWW9xZGVxbEtVRnpQTV9lOW0xLWRmRmNoLWp3cnRYVjVuV245eG5rVnRzR2ZoSWdZV2EtN283OXZ6UWpVYXo2aTZiRjNjX19iQUc5dUN4SnNEb25Vb19wV3k5MTJabG1pSzNodTlyX0tYUTF1aUh1dEpJelRPajNwVUpNZUp6SUFGTHNaSlNydjdFRGliTDNFX3NWUnlIT2c?oc=5"
+    },
+    {
       "headline": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
       "source": "Yahoo Finance",
       "timestamp": "2026-10-01T14:37:32.000Z",
@@ -70,16 +90,6 @@
       "summary": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5"
-    },
-    {
-      "headline": "Google DeepMind watermarks AI-generated protein as company chief AI scientist Demis Hassabis flags Biosec - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-10-01T12:20:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind watermarks AI-generated protein as company chief AI scientist Demis Hassabis flags Biosec &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOM1oxYklGdWJhY21KSnNSYkZzYy03c0M3QUNzYmdGd2RIUjY0QlRZeVNkYnJ5V040bDQ0SHpOVUVzUldEcG1YNXk5NmdtWVhOY0pGMWV0STFrWGp5V3VQVmRlVEpjT0k3MVlELVJGaUVfSzB4cE9RSG5zdmFZWE9sekxGblVjYlhxSVdkRnpKYlJtNGRKYV9LRVBkcVp6bk5ISmJWa0tBQVROd3JJeGQ4cjZoMFZTZ2doZTZfdTFPTW1sVHRaR1B0aDJhTUotYTNmN2ZxMUFUU21LOXNQWElVdkhDaGNWcUhyUnkyNU5peW9OaG11MVB3M2VDVXU2Q2V3WHhlQmRuN0s4bFlVcVhZVjlPOGlqTHRHUDJlVEdZdU44Y0hWejJHeU1CSGMzMWFCOThfRENkdi1rSTFGSTVQVTl30gHHAkFVX3lxTE5fQTA5RjhpQktoeEZGT1VBNlhUS3MzTXd1em51YTlmcVFQOElRRFI5bFpTbnYtY3ptNHJETlZBbVR2RXg0eGJPM0hZSzZaVGRyOXJGdmcxWnJLNXlQNktXUHJvSWxSd2FsSTNyeUE2Yml1ZFYzZWJBVGVTMXZ4MlZrcnA2UUNDaERGeFRtcWhpQTA3d3RkVHpqZU9ZeXdYOWtWdDZDZG1idkRzWDU2a2tvSUdMSzV3RFVoMjd3R244ckJueDN4NU1lbUZQU1BBM0d5NDFWdEFweGoyTlRYRmdoOFlNRkdTYlRWLVViMFBRTXlsa3pQTG55ODhQRmlVcXR4T2hwZ0VXTjhwZFBXVzJDX1l3anBhSml6X2hEQzZYb01NbXNvTVZJQnNubG9Ldy1HaFg0c0kwSWU0a3d0cUYwdVF3YmZDbw?oc=5"
     },
     {
       "headline": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying - BBC",
@@ -92,63 +102,62 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5"
     },
     {
-      "headline": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-09-30T21:11:06.000Z",
+      "headline": "Microsoft’s Hyderabad AI Hub: Azure Availability Varies - quasa.io",
+      "source": "quasa.io",
+      "timestamp": "2026-09-30T17:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5"
-    },
-    {
-      "headline": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-09-30T15:34:02.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC1LanFHbHlibGhZam1NRllQRGtNSDBXUThkUG5jdzUxWFE0S0NvTTZfNEpjeU5yb1FONl8walZsXzZLY0Y4WlIwOWFqa05KdnBQODBrYy1XOXhlbVhNVm5jZzJONlpGeVI4dWxDbjVuaUJUb2JmVGYyLTloRURoQUc4UmoxME5yc1laSmRQWQ?oc=5"
+      "summary": "Microsoft’s Hyderabad AI Hub: Azure Availability Varies &nbsp;&nbsp; quasa.io",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUVuVkhJVkl4YlZmdVVlQ0VseDdkSHVaakoxTTYxYnBNRlRoMFQycGJEak0xOGYwSVR3SmY5S2VTbnF4d0t1aW5SS0xCSWdiaVd4Z1c4RFNOeVE5V29CQmpVLUNDZll4MFFLTFk5UjBDcExuaHp1TUwxdVZIMTdtSWlWZVJfeVR3WkdpNFVZUUNtdUU4Y3ZIV2RkOU5KdHdC?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Exclusive | OpenAI Fires Researchers Researchers After Alleged Information-Sharing - wsj.com",
-        "source": "wsj.com",
-        "timestamp": "2026-10-01T20:47:00.000Z",
-        "impact": "WATCH",
+        "headline": "OpenAI fires three workers over mishandling 'sensitive information' - BBC",
+        "source": "BBC",
+        "timestamp": "2026-10-02T01:05:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
+        "summary": "OpenAI fires three workers over mishandling 'sensitive information' &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-10-01T22:53:00.000Z",
+        "impact": "HIGH",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5",
-        "summary": "Exclusive | OpenAI Fires Researchers Researchers After Alleged Information-Sharing &nbsp;&nbsp; wsj.com"
+        "summary": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - phys.org",
-        "source": "phys.org",
-        "timestamp": "2026-10-01T20:40:09.000Z",
+        "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-01T22:26:30.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSzRoVHU3OU5JQ2dIc252Y0ZsdlRSY3ZNYk02cGdYdG1kNVgyZURuVVFXbjNSNFBUMTdpV1RWRWN1QTFFMm55R19pRU9tVzJhalhSWlgxYzBjS2tXemJGb2prVzJTcjFERnd1MnFwMDlLZHN2dmF0ME5mbUgzY2c?oc=5",
-        "summary": "Google DeepMind develops invisible watermarks for AI-designed proteins &nbsp;&nbsp; phys.org"
-      },
-      {
-        "headline": "OpenAI’s Chris Lehane speaks about AI super intelligence | CNN Business - CNN",
-        "source": "CNN",
-        "timestamp": "2026-10-01T20:28:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMC1VbUpoM1ZZakR0ZVlQbDBVR0hORE51SlBaSkcwUzBXWFp6YWZ4OW9CZ0hWeUlaSWpZLTRuMDNqQlBZbjBXNl9sRDBtVnhUTmRvT0U2SVZ2dUxCbjRveFhiRTBVUVozYmJWdGVxc1UzZTB2TjlteUdLSVVTeDItZzBDR2FramxXZEZDZFF6ODhWeEQxSDlJQXdQZWJpRUNZNFQwQkctUnE?oc=5",
-        "summary": "OpenAI’s Chris Lehane speaks about AI super intelligence | CNN Business &nbsp;&nbsp; CNN"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+        "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-10-01T19:44:28.000Z",
+        "timestamp": "2026-10-01T21:50:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
         "summary": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - Phys.org",
+        "source": "Phys.org",
+        "timestamp": "2026-10-01T20:40:09.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSzRoVHU3OU5JQ2dIc252Y0ZsdlRSY3ZNYk02cGdYdG1kNVgyZURuVVFXbjNSNFBUMTdpV1RWRWN1QTFFMm55R19pRU9tVzJhalhSWlgxYzBjS2tXemJGb2prVzJTcjFERnd1MnFwMDlLZHN2dmF0ME5mbUgzY2c?oc=5",
+        "summary": "Google DeepMind develops invisible watermarks for AI-designed proteins &nbsp;&nbsp; Phys.org"
       },
       {
         "headline": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. - Barron's",
@@ -158,15 +167,6 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlU3MlRpX21YbFpIcUUwOWxhNHVIUVNHTl9ydGtoZ3JNcDZGbjhESGhSMmlQN1hyNWNpNGdQNWVKWlc5NUZNblNUekZpSjBmZ1VXOXo3TWxmd092LVJVaWgyamxnc2UyVkk4ZnhjcmxJWGhCYzZpcl9KQnJiR1BHUg?oc=5",
         "summary": "Broadcom Stock Rises. Anthropic and Broadcom Are Becoming More Intertwined. &nbsp;&nbsp; Barron's"
-      },
-      {
-        "headline": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-10-01T14:37:32.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5",
-        "summary": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
@@ -178,15 +178,15 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
