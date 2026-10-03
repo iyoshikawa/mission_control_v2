@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-03T06:13:27.020Z",
+    "generatedAt": "2026-10-03T12:20:48.011Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-10-03T05:39:00.000Z",
+      "headline": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
+      "source": "The Atlantic",
+      "timestamp": "2026-10-03T11:00:00.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5"
+      "category": "ecosystem",
+      "summary": "I Quit OpenAI Because Its Culture Is Broken &nbsp;&nbsp; The Atlantic",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5"
     },
     {
       "headline": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
@@ -42,14 +42,44 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5"
     },
     {
-      "headline": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves - Business Insider",
+      "headline": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-10-02T22:17:00.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves &nbsp;&nbsp; Business Insider",
+      "summary": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5"
+    },
+    {
+      "headline": "OpenAI reveals another hack into a government agency in Australia - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "timestamp": "2026-10-02T20:52:59.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI reveals another hack into a government agency in Australia &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnRRUTIzVFZJTHI2M2pBWjR1ellUbGZVQU5aUVFsREhzRjQxdm11NkhFLVJ6LVBrQUZ1MmplQm5LRHhvdmVKZG15b2VIYUIwRGdrR2YyY0VUZUlLZ0V6X0NjbnRPSnJKUG5GeEpWSkdCbU1mVExfbnE3Z0pheTFxU2c4clJ2dGJCTjNtRmJaZ0lEYTlCSzNRQ1gxMNIBoAFBVV95cUxOX3BySGluR3pzZ29lT1V2Ri12eVUtZVd2SnZWbVllZFhtNjZMdnlpVFVQSTBJcTgyY0NacjNHRE51Q2k3ejhFMVhSQURfU1pNYVhzQW1Rd2p1ck1uby1fWFJ0ckNLUHYzcFFpanF3bWlHaDBySGtGYjJ4WXhqcHlzeUV1c0szVC12cmdzQXVKTXhJSTNiNUtjd3lHSzB5OElp?oc=5"
+    },
+    {
+      "headline": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism - Stocktwits",
+      "source": "Stocktwits",
+      "timestamp": "2026-10-02T20:19:34.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism &nbsp;&nbsp; Stocktwits",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXZrVGQySXVNalNUeHVSWHVKLW5ndEsxdXYyT1VNMzdTdGZfZmNvZ2tjTkdTWFlIdmZmSUlCM083b0tEd0ZuZDdPMEtmX19CdmFWVUFJOUk1TnFXSmNOZ1k3SjAyclJVMXB5WThTNUJOWTdiZE96R2J5YUtNVDI1VW9tTFlxQ3lLV0R6TndaSUNFTnU4eGZjejhNOWJ3N1M4Ui1JbG9YMk9yTURSVm1uclJ5emN2Q0piYmZVYWFUWkU2MWRIRm9OU3dIZ1FLc0RIYkZZQjBpZw?oc=5"
+    },
+    {
+      "headline": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier? - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-10-02T11:00:01.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier? &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0EwdFVqRF81X3lORF9KSk9IWTYwSzJxclg4U1BMZmg1NkpzM1NyajBQWUV0ZWk0NXo5Y19SUl9wYWNycFJGYWs3bjA2d05lcmdMMU1yOVktbEQ1WDljNW4yRS1OS3RmdDczTzFPcTZDcHdWcjRFNndiNFR5UWNZZHE1b1QxRXVLenlRdU1ZcW8yRnPSAZgBQVVfeXFMTm12SHI4M2FuUlNia1hWdmZhc0pjMzhfajROeGEwU0V1RkZ3NWhPYURHQWg2YlFUUVVadkFVaDRYSzZFb1BtbnhBVjYtZS1FLVc2c2dRaVRkazRhbDFnV2FQSmZkLVhWQTVvWURobzNUNlhFZVB3VVNTOHJla3htM2JvR1ZJMnV2RVc0N2ZlX1R5aGNFTlVnU28?oc=5"
     },
     {
       "headline": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
@@ -80,48 +110,18 @@
       "summary": "Overnight, Meta deleted all her accounts. AI customer service won’t let her reach a human &nbsp;&nbsp; CBC",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWNfSHptUGJXcFBGbXpPdkNsN2RfSmlTNEFsZF9EYUJoUzJMQmFoeWVQbGIzQm1keE5JT3BkaWtYY3NOa2I0c3hMMEZKRVFjR1ZLY1cwTU5JUkFrUUpwUmZEUm9nT0VnQzg2c3l4dEpSdEwtTGxYeDRtNW5rcTFHOElHZ0pQVnNoWXMxbw?oc=5"
-    },
-    {
-      "headline": "Google DeepMind develops invisible watermarks for AI-designed proteins - Phys.org",
-      "source": "Phys.org",
-      "timestamp": "2026-10-01T20:40:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind develops invisible watermarks for AI-designed proteins &nbsp;&nbsp; Phys.org",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSzRoVHU3OU5JQ2dIc252Y0ZsdlRSY3ZNYk02cGdYdG1kNVgyZURuVVFXbjNSNFBUMTdpV1RWRWN1QTFFMm55R19pRU9tVzJhalhSWlgxYzBjS2tXemJGb2prVzJTcjFERnd1MnFwMDlLZHN2dmF0ME5mbUgzY2c?oc=5"
-    },
-    {
-      "headline": "The eternal complement - openai.com",
-      "source": "openai.com",
-      "timestamp": "2026-10-01T17:09:59.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The eternal complement &nbsp;&nbsp; openai.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5"
-    },
-    {
-      "headline": "Microsoft holds firm as Azure and AI monetization support growth - Traders Union",
-      "source": "Traders Union",
-      "timestamp": "2026-10-01T16:43:37.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft holds firm as Azure and AI monetization support growth &nbsp;&nbsp; Traders Union",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNelBOWW9xZGVxbEtVRnpQTV9lOW0xLWRmRmNoLWp3cnRYVjVuV245eG5rVnRzR2ZoSWdZV2EtN283OXZ6UWpVYXo2aTZiRjNjX19iQUc5dUN4SnNEb25Vb19wV3k5MTJabG1pSzNodTlyX0tYUTF1aUh1dEpJelRPajNwVUpNZUp6SUFGTHNaSlNydjdFRGliTDNFX3NWUnlIT2c?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-10-03T05:39:00.000Z",
+        "headline": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
+        "source": "The Atlantic",
+        "timestamp": "2026-10-03T11:00:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQV9vbzIxazFuRjRrZVRqQnF1c2toZ1dMcnMxTUN4Uk5ISVNFQ1Q4aGdSd0t6aE16YjMzZ09nWGVHdUYzUE1jN0IyOThnYUNVTEdBNFlEWkJ1LVhBOU0yNGZwWnRvWGgwNTUyTTVNX1BnVkRvb2g1WFlmTDBTcGdfYUd2bGhHWFdycFY4WWFiSGxYOVR2QldpR3VnN0VsLW1JWDFBTUxlTFN6UTVwRjBVRGxjRlE3M3JSRnVV?oc=5",
-        "summary": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day &nbsp;&nbsp; The Guardian"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
+        "summary": "I Quit OpenAI Because Its Culture Is Broken &nbsp;&nbsp; The Atlantic"
       },
       {
         "headline": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
@@ -142,31 +142,31 @@
         "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves - Business Insider",
+        "headline": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? - Business Insider",
         "source": "Business Insider",
         "timestamp": "2026-10-02T22:17:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5",
-        "summary": "The Netherlands considers banning Meta AI glasses as some retailers pull them from shelves &nbsp;&nbsp; Business Insider"
+        "summary": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-        "source": "BBC",
-        "timestamp": "2026-10-02T08:20:32.000Z",
+        "headline": "OpenAI reveals another hack into a government agency in Australia - ABC News - Breaking News, Latest News and Videos",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "timestamp": "2026-10-02T20:52:59.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
-        "summary": "OpenAI fires workers for 'mishandling sensitive information' &nbsp;&nbsp; BBC"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnRRUTIzVFZJTHI2M2pBWjR1ellUbGZVQU5aUVFsREhzRjQxdm11NkhFLVJ6LVBrQUZ1MmplQm5LRHhvdmVKZG15b2VIYUIwRGdrR2YyY0VUZUlLZ0V6X0NjbnRPSnJKUG5GeEpWSkdCbU1mVExfbnE3Z0pheTFxU2c4clJ2dGJCTjNtRmJaZ0lEYTlCSzNRQ1gxMNIBoAFBVV95cUxOX3BySGluR3pzZ29lT1V2Ri12eVUtZVd2SnZWbVllZFhtNjZMdnlpVFVQSTBJcTgyY0NacjNHRE51Q2k3ejhFMVhSQURfU1pNYVhzQW1Rd2p1ck1uby1fWFJ0ckNLUHYzcFFpanF3bWlHaDBySGtGYjJ4WXhqcHlzeUV1c0szVC12cmdzQXVKTXhJSTNiNUtjd3lHSzB5OElp?oc=5",
+        "summary": "OpenAI reveals another hack into a government agency in Australia &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "headline": "In Robotics, Google Goes Android to Tesla’s Apple - The Information",
-        "source": "The Information",
-        "timestamp": "2026-10-01T21:50:00.000Z",
+        "headline": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism - Stocktwits",
+        "source": "Stocktwits",
+        "timestamp": "2026-10-02T20:19:34.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVlHMWJKMEdEOW1mQ2x2MzBNMnYxOWtuWWlzN1hpRG84czBDN3RsdFVZdWZMWkh2U3ljcEtHUkt1X1NyZ0FkU1U3blJrN0xTb2tVQktoWkRHLWRRUTM5dkg5cTFXLXEzVzZRMGZqSUxQQ0tSN2VLNmMwZVg3OXdRUmdwRENFQ1k3YXItYWV3R01sWDJUOHV5YU12dw?oc=5",
-        "summary": "In Robotics, Google Goes Android to Tesla’s Apple &nbsp;&nbsp; The Information"
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXZrVGQySXVNalNUeHVSWHVKLW5ndEsxdXYyT1VNMzdTdGZfZmNvZ2tjTkdTWFlIdmZmSUlCM083b0tEd0ZuZDdPMEtmX19CdmFWVUFJOUk1TnFXSmNOZ1k3SjAyclJVMXB5WThTNUJOWTdiZE96R2J5YUtNVDI1VW9tTFlxQ3lLV0R6TndaSUNFTnU4eGZjejhNOWJ3N1M4Ui1JbG9YMk9yTURSVm1uclJ5emN2Q0piYmZVYWFUWkU2MWRIRm9OU3dIZ1FLc0RIYkZZQjBpZw?oc=5",
+        "summary": "MSFT Stock Posts Best Quarter Since 1998 As Azure Growth Revives AI Optimism &nbsp;&nbsp; Stocktwits"
       }
     ],
     "whyItMatters": [
