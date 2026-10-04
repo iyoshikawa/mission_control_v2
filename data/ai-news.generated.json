@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-04T05:07:05.809Z",
+    "generatedAt": "2026-10-04T12:02:01.614Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,9 +12,39 @@
   },
   "newsFeed": [
     {
+      "headline": "Former OpenAI safety chief warns AI industry’s culture is ‘broken’ - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-10-04T11:18:25.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Former OpenAI safety chief warns AI industry’s culture is ‘broken’ &nbsp;&nbsp; Fox News",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kWUtCMEZDNW5PTmttai1RN2t6a1pSNTF4ODBlcnpIaGRYTXFjUmJKUUVZSnVvS1pRdy1Sb0RjcEN1VDZESC1aQ2VPTk10amc4VEFNdDdB?oc=5"
+    },
+    {
+      "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-10-04T11:00:08.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5"
+    },
+    {
+      "headline": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-10-04T09:31:48.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5"
+    },
+    {
       "headline": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian",
       "source": "The Guardian",
-      "timestamp": "2026-10-03T20:09:00.000Z",
+      "timestamp": "2026-10-03T19:41:00.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
       "summary": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ &nbsp;&nbsp; The Guardian",
@@ -22,14 +52,14 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5"
     },
     {
-      "headline": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" - axios.com",
-      "source": "axios.com",
-      "timestamp": "2026-10-03T16:06:26.000Z",
-      "impact": "HIGH",
+      "headline": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-10-03T17:26:10.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" &nbsp;&nbsp; axios.com",
+      "summary": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check &nbsp;&nbsp; Fox News",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG96X2d2YlZHeXRKVFZMamFsVklneUVYNzBnV3RJdWFndV9ONkdheE9IZktfQXU0dnF1b1BLY0VDb3c3TDk1RmUwaS1DcFJtYWNhVWZ2MTNHS21JbkE0SHVoV2lxMm1RWjNwSmJYZ0tOX054UE1mUTVCWFAxRGhJbDBfcHVWZ1ZHNXpRLW1pbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJIM1RfS0l6SDBQY29CRUNuNWNVaE9JTEdDdXVueWc4dXo3eUZ4UzA0QVdpcWFydFB1U1BRYVd0V1gxQWhZZU1LTERTMmt3a3FzTm1QbWFTYWY3R0lNc0VLbFFRMnNMU2FKWVloclBLQWR4bDZmRS1GeTE0S2w4a1dvaklkWXhkeVlOUzRfc1cyTFZTVVlMQnhXZTkteUp2M25KSUI0UG54a2tvQkxXT3hkc1ptdXNrcmF30gHAAUFVX3lxTE4wcmtnRFY5cF9KMnFwLTdacndfMi1tVTFyYXotTHdsOGxoYnRpX0NwWnQ4dlRlcjRJd2RMOEtIWTNLRWplcHNLZHU2QUlWQWc0cWhwUkVOUUFYRWxwT3BwTGQ2TW5xTWFvaGtuS01yS0tEQzFjNDVtVkJVd2JyOGRPU1Q2bUhRLVFXcVlrM21nc2xXTjgxSDI2dkFsa19GUEJwYXVYR19uV09qemtxZVktMlk4MjVsMVloRlE1SFVseg?oc=5"
     },
     {
       "headline": "Microsoft’s AI Bet Supercharges Azure Growth and Wall Street Hype - TipRanks",
@@ -52,6 +82,16 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHOXo3TXdkWnQ5TllYdWhESHhLVHAySUdoVFlmZFJrTmVfbmJseER4UEVOcUV4Qlhkek1CbkdZM2hqcVQ4VzFNb0FEUkhVZ2VvS0dUQS1FTjlkWWJiLURlZVZtRm9VdFljQmZ5a1NrdUduVjhOdVpnWTFR?oc=5"
     },
     {
+      "headline": "SpaceX Bags Massive AI Compute Deal With Anthropic. What That Means for SPCX Stock. - Barchart.com",
+      "source": "Barchart.com",
+      "timestamp": "2026-10-03T13:34:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "SpaceX Bags Massive AI Compute Deal With Anthropic. What That Means for SPCX Stock. &nbsp;&nbsp; Barchart.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmJyVkNiT2hCdmFVRkVTY2JrN2VPTXVYMkdtbjBoMDNSeXVHMk0xNXJ2S2d5WW1CcGdyeHFDSXVMUldZWkN2VHhfdWhkWnlfUUFrYmM2ajhiSm1uSjFnUkV0NEtrT2prWjdEbEF2NTRDZmR1MVhlVFBDSjBZaFlaby1US3BnemJjSGtjVlprWm5oX1RkZmw0c1JyWU8teG1MMXU4Tl93UmpoUjVUSWdqcnJ0cWxnVG9Fb1FwanFMejQtQWs?oc=5"
+    },
+    {
       "headline": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
       "source": "The Atlantic",
       "timestamp": "2026-10-03T11:00:00.000Z",
@@ -62,75 +102,62 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5"
     },
     {
-      "headline": "Anthropic Is Aiming To Transform Healthcare—Here’s How - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-10-03T10:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Is Aiming To Transform Healthcare—Here’s How &nbsp;&nbsp; Forbes",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFdMaUxYZThZN1lmTFNDV1VXNDIxakQxTndoX0E5ckduNFR1a29TbnByNV9TZmc0N1dHWVQ2OTJSS0lVN0J6MmVlbUY2dmM1TldnRmpQMjVnd3Fpa0hrNTVLcjVYNU9MMFNoUnZTYWRkR3pUZVBJNDNEQVVkN2h0aXJvdGh4blJQWElGN19JbllwbGVxU3phaG5mRUt3blpDbmJwRGxLV08?oc=5"
-    },
-    {
-      "headline": "Claude Frontier Academy: $100M to train 10,000 engineers - anthropic.com",
-      "source": "anthropic.com",
-      "timestamp": "2026-10-02T23:01:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers &nbsp;&nbsp; anthropic.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5"
-    },
-    {
-      "headline": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-10-02T23:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5"
-    },
-    {
-      "headline": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-10-02T22:17:00.000Z",
+      "headline": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-10-03T09:45:20.000Z",
       "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Some Dutch stores pull Meta glasses from shelves after creep reports. Is a ban next? &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHhzTFI0SVRibHBPLVA3NzQ2b3pRUWpoMVBnSlpIQnlleXhiWXNBN2VhLWxvb0o4WWhVOERrV2NSY2t2TlZQNXo4bEZPUmNhaEdxZjdSUkg4ZERXbFF1LVVGTkhQVldJNl9URUhBaEFnWVhSTEdZbEduRXZOSl9nQS1TeUQ0NWxiemQ1bVB3bTNtb2xnSDByZGNBeUZ0RkhtMkFKNEIxWQ?oc=5"
-    },
-    {
-      "headline": "Tagging AI-generated proteins during design process will let scientists know who made them - Chemistry World",
-      "source": "Chemistry World",
-      "timestamp": "2026-10-02T08:39:41.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Tagging AI-generated proteins during design process will let scientists know who made them &nbsp;&nbsp; Chemistry World",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORzFEaEFHSC1Sa09xSGpNUVFsNkp5c3ZEY05nZ1RyZFRTcWFvZ3lFRnBmVWhjNXl1YzFIX19MZzI3YVVfSVZqdGpkcHVWclM1Tzh5S1lkRjNSMGowRmM1RWlKQ3F0OEZ5SEh2OWpkMWhyd1NMcWwyc01McFdKcVpNOWtQUVYxYWQtVjVJN3lrNENOdzRkLUo0cGd6T2VtZkRWdEJyOUVtRlFiYlFfdjZsc2JpMXQzeXFMdDBUajRQeUNkUWN0MVRISkxNSjdxWGZySk1MbTNuaU0tZw?oc=5"
+      "category": "models",
+      "summary": "Meta's AI Spending Has a $3.9 Billion Tax Perk — Mark Zuckerberg-Led Company Reportedly Classified Data Centers as ‘Pilot Models’ &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJxN0lVX3o4N2tHdU5rcmd5TnowWkIzaHViMnoxSmRrZGpCQ1NJc2VFcndRZWsyR2xucE9LMUpjMHZsUUNRSUVIb0pQa0Ztc2pxZndkdUZ2VXRudEV6NmdyZndPVFRqNWRYOHlRMktOVnZ6ZFZKdk9QV2xUX2d1VzBaTkxuQ2lPUGVtSXlB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Former OpenAI safety chief warns AI industry’s culture is ‘broken’ - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-10-04T11:18:25.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kWUtCMEZDNW5PTmttai1RN2t6a1pSNTF4ODBlcnpIaGRYTXFjUmJKUUVZSnVvS1pRdy1Sb0RjcEN1VDZESC1aQ2VPTk10amc4VEFNdDdB?oc=5",
+        "summary": "Former OpenAI safety chief warns AI industry’s culture is ‘broken’ &nbsp;&nbsp; Fox News"
+      },
+      {
+        "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-10-04T11:00:08.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5",
+        "summary": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks &nbsp;&nbsp; Financial Times"
+      },
+      {
+        "headline": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-10-04T09:31:48.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YX3laMUtZSWRNdXl6TlhHZVVsZjdDWEJrd3ZJUU92UnJYV1VhekVKeTJ5VjN2Vk4teU9OZWVSSDVsYVBnR1BMaW1laFI3NE1hSDBpdm1pZWZwOXozVlZhamlWR2FXc2t2eW5mMg?oc=5",
+        "summary": "The Mulleted, Meme-Loving Billionaire Behind Meta’s Hit AI App &nbsp;&nbsp; WSJ"
+      },
+      {
         "headline": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ - The Guardian",
         "source": "The Guardian",
-        "timestamp": "2026-10-03T20:09:00.000Z",
+        "timestamp": "2026-10-03T19:41:00.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcldEYVVROGhFOHl0UGVvVkEzTnZyWkRBRTVxWkZOeXphTkdqYkJ1dFFNOFFJNldDdVVRTE1KaGxaNUJmQWlBNVhocE9CSHNnMFE1WVZQb3lBRF9KSTZKNVFHMndMSGJOYVdHRzhIdEZXNGMtNml2clZCYUtKTk52TjlZTVRRWE1OVFdiMTBIOFdpeEp2RW5mT2RqaEp2UkFGLVZTLVZPSkdIMzE3blc5YzFMdTFsQQ?oc=5",
         "summary": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’ &nbsp;&nbsp; The Guardian"
       },
       {
-        "headline": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" - axios.com",
-        "source": "axios.com",
-        "timestamp": "2026-10-03T16:06:26.000Z",
-        "impact": "HIGH",
+        "headline": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-10-03T17:26:10.000Z",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG96X2d2YlZHeXRKVFZMamFsVklneUVYNzBnV3RJdWFndV9ONkdheE9IZktfQXU0dnF1b1BLY0VDb3c3TDk1RmUwaS1DcFJtYWNhVWZ2MTNHS21JbkE0SHVoV2lxMm1RWjNwSmJYZ0tOX054UE1mUTVCWFAxRGhJbDBfcHVWZ1ZHNXpRLW1pbw?oc=5",
-        "summary": "OpenAI's Altman: Ascribing religion to models a \"safety issue\" &nbsp;&nbsp; axios.com"
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJIM1RfS0l6SDBQY29CRUNuNWNVaE9JTEdDdXVueWc4dXo3eUZ4UzA0QVdpcWFydFB1U1BRYVd0V1gxQWhZZU1LTERTMmt3a3FzTm1QbWFTYWY3R0lNc0VLbFFRMnNMU2FKWVloclBLQWR4bDZmRS1GeTE0S2w4a1dvaklkWXhkeVlOUzRfc1cyTFZTVVlMQnhXZTkteUp2M25KSUI0UG54a2tvQkxXT3hkc1ptdXNrcmF30gHAAUFVX3lxTE4wcmtnRFY5cF9KMnFwLTdacndfMi1tVTFyYXotTHdsOGxoYnRpX0NwWnQ4dlRlcjRJd2RMOEtIWTNLRWplcHNLZHU2QUlWQWc0cWhwUkVOUUFYRWxwT3BwTGQ2TW5xTWFvaGtuS01yS0tEQzFjNDVtVkJVd2JyOGRPU1Q2bUhRLVFXcVlrM21nc2xXTjgxSDI2dkFsa19GUEJwYXVYR19uV09qemtxZVktMlk4MjVsMVloRlE1SFVseg?oc=5",
+        "summary": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check &nbsp;&nbsp; Fox News"
       },
       {
         "headline": "Microsoft’s AI Bet Supercharges Azure Growth and Wall Street Hype - TipRanks",
@@ -140,33 +167,6 @@
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcm5NWE1OV1piTlZHNHVvc2pEWHF4N1VKT2FSU1g2Y3dBRHJzYllpeVp4cXJaOE1JVWo5YlBYNXRjb3QwdkR0OVJxY1c2TUNxdFpYdDhYWms3QklPSzQ5cUo5VE1nRmNoMjhqY1ZYVlExVGxfeTM3VUY0YUNJUDB2ZFVHZEdnaDM0ZVVUOVFUUDBZZUtlYUNaUVEwVkNrSG0ydlNmV1psWndSdGQ5d2dN?oc=5",
         "summary": "Microsoft’s AI Bet Supercharges Azure Growth and Wall Street Hype &nbsp;&nbsp; TipRanks"
-      },
-      {
-        "headline": "Billionaires Are Suddenly Dressing Like They Deal Weed. I Have a Theory Why. - Slate",
-        "source": "Slate",
-        "timestamp": "2026-10-03T14:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHOXo3TXdkWnQ5TllYdWhESHhLVHAySUdoVFlmZFJrTmVfbmJseER4UEVOcUV4Qlhkek1CbkdZM2hqcVQ4VzFNb0FEUkhVZ2VvS0dUQS1FTjlkWWJiLURlZVZtRm9VdFljQmZ5a1NrdUduVjhOdVpnWTFR?oc=5",
-        "summary": "Billionaires Are Suddenly Dressing Like They Deal Weed. I Have a Theory Why. &nbsp;&nbsp; Slate"
-      },
-      {
-        "headline": "I Quit OpenAI Because Its Culture Is Broken - The Atlantic",
-        "source": "The Atlantic",
-        "timestamp": "2026-10-03T11:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2NNSzBoT3NhRmFhWjdUZ1NtOTFVNUFRaFBvNUd2R1c2NlhCLVZNanZfdm5UR3BDZ2V0bC1Oa00zano0OWtDdUo3WFFzMXNqdUxDczJ2Ujl3Vng5N2VlRGZDeWx5OHBhbWFnTXZpNkVTbWNHOFMtTEcyLXFGckl4bDRtUE81ZnIyWU91S21n?oc=5",
-        "summary": "I Quit OpenAI Because Its Culture Is Broken &nbsp;&nbsp; The Atlantic"
-      },
-      {
-        "headline": "Anthropic Is Aiming To Transform Healthcare—Here’s How - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-10-03T10:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFdMaUxYZThZN1lmTFNDV1VXNDIxakQxTndoX0E5ckduNFR1a29TbnByNV9TZmc0N1dHWVQ2OTJSS0lVN0J6MmVlbUY2dmM1TldnRmpQMjVnd3Fpa0hrNTVLcjVYNU9MMFNoUnZTYWRkR3pUZVBJNDNEQVVkN2h0aXJvdGh4blJQWElGN19JbllwbGVxU3phaG5mRUt3blpDbmJwRGxLV08?oc=5",
-        "summary": "Anthropic Is Aiming To Transform Healthcare—Here’s How &nbsp;&nbsp; Forbes"
       }
     ],
     "whyItMatters": [
@@ -178,7 +178,7 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
