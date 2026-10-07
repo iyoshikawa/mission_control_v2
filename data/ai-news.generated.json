@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-07T01:16:58.021Z",
+    "generatedAt": "2026-10-07T08:20:45.791Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-10-07T08:03:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45MHNqR014dUJnRkpJRXJZNGtGNW9DT2l2NGdYYlB0blRWRUhIMS1TTVoySG1fRWxEZ3d4d1FpUFdkN1pqMGxuR1pyb1lwbnFybFIyMmVFcjBpT0JSMGp2bGlFcVVVdHc3SjRWY09kM3hHNy1udnlCbDlB?oc=5"
+    },
+    {
       "headline": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. - WSJ",
       "source": "WSJ",
       "timestamp": "2026-10-07T01:09:00.000Z",
@@ -20,16 +30,6 @@
       "summary": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA?oc=5"
-    },
-    {
-      "headline": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-10-07T01:06:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVURKSW5Md04tSFNPcXJmb0lGbFYtazloZTF5NURxY2N6V2UwV1FyRU51cWc2dlZZX2x4ODJEWnZndE1FRXpCVm1vZERlMTB1cFZ1VktycWhSSjdoZEdfTUxFQm8tVkZ6RmlqZkw3Zi13dS1xVTlpMEdDQkxaOFB0dERFSTlZWmVxWVNES3NBTl80d2hWcmZlV2JEQkFNZW9aMXRoVFJDTXpWVlVWZVpj?oc=5"
     },
     {
       "headline": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field - The New York Times",
@@ -52,24 +52,54 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5"
     },
     {
-      "headline": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them - Inc.com",
-      "source": "Inc.com",
-      "timestamp": "2026-10-06T17:21:13.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them &nbsp;&nbsp; Inc.com",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGx5bVFscUl2RnFNaHZOdWd5aFlOUVUxSERwWjZYNWRKcU96aWloWlI0RnVxSTlaSF84SUtyU2xRcWEtSGNUY0FSNjlTWjlhZ1ZteDhhQzZlXzhPS1hEYmNfUUs4dkNQb0tJY3ZnN0g1MzVpeVdkMkpXdTBsQkcteGQ5bERsME1fSTN0X0hrREFTN1kwaTA0VV8yUkl4dnppZzVneUk0eEJXdE14NXRWNGlmUnVjcmJPSkI1Sjl0UFV2ZGVQeTVVVFFoTFg?oc=5"
-    },
-    {
-      "headline": "Google DeepMind launches multimodal AI model for on-device search (GOOGL:NASDAQ) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-10-06T16:45:46.000Z",
+      "headline": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search - TipRanks",
+      "source": "TipRanks",
+      "timestamp": "2026-10-06T21:53:16.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Google DeepMind launches multimodal AI model for on-device search (GOOGL:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
+      "summary": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search &nbsp;&nbsp; TipRanks",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1ZmVmtZblIyUHdYWWo0b0MxT2FsRllHRVFlSDhxYzl0MDBiY2tCbU9NSlJCV3N5eGdMTEdpQXRiamU2NzBzRnhnRzRlWVdnbW13UktSeWp3cTJHdXpWWkxJTmNBRFQ4dEpFajNpaHpWYXhFTXRSblJXVlk0bnJiM3JsWV8tZGo1cDZYZDV1by14cE5WTk10aS1sZHBfd0VFOGtLT3B3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1BYMm95aW9aYkMxem5Ha3FmM1hZcC1nMjdyd2s0eEMzMXIzYnJmM1ZpWmYtZ3YtUERvYW5qcnVySUU3SW1DLVFBTk1VQUkwM1dNUi1QSi1UZ3pEc2hoUlpYU0x1ZlIxdERzanExQ1ZCQnR2LUpPUnpJMzZQM2xrUjRSbGpWRzBVWU5PN3RabFEwa2g1TXk2QUFDWHlXWUlp?oc=5"
+    },
+    {
+      "headline": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-06T20:37:46.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic opens its most powerful AI models to more security teams &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5"
+    },
+    {
+      "headline": "Expanding the Cyber Verification Program - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-10-06T19:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Expanding the Cyber Verification Program &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5"
+    },
+    {
+      "headline": "Anthropic Expands Access to Latest AI Models for Cyber Firms - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-10-06T18:58:42.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic Expands Access to Latest AI Models for Cyber Firms &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFDRnZGRFVzbHJ2T2pHTE5yR0pGWkNxTmxrWldxNkNONFVWSThUU2Zta3VJV0Ryd3BTcjRsV3V1QXRPZFZzS09weVdicWpxOEhSbFliTGVPVVU2X3BDZHhQSE9GdmJJcUlJcV9fSEtMaGdCYmdmYUtadDBnWnpTMUFUSFBMRGVDQjdhYWhLd0NQWmMxMERTSlhhUlc5RjFWc0gzWmZCVUVGaUhYN0MzMQ?oc=5"
+    },
+    {
+      "headline": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 - MarkTechPost",
+      "source": "MarkTechPost",
+      "timestamp": "2026-10-06T18:36:08.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 &nbsp;&nbsp; MarkTechPost",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjUxck5mdDhqckFOU0ZLSWxfLWVqaEI0R08tWndCVTA5aHRjdnBQZkZnUVFybS1Dc0dnUW9MWE5fUzdsblhNZDM1bHpSeWU4ZW1KUEVTZkJSNTIwOThXVFdBZTVVSmJxMlc4RHNBY0VZRlBuSE1HWmZuSjVucnpXQml0ZXJ0em85NVB3aUFpZnE2N3NxTGJqdEdIT3JsQ3pyMG5PMV9zNENaSDR2dFRIM0JRTkl2TFQ3NGhYNEVhYlJVMEs1bHhMZ2VLT2gxUGlyeGtWTtIB1AFBVV95cUxPQjUxck5mdDhqckFOU0ZLSWxfLWVqaEI0R08tWndCVTA5aHRjdnBQZkZnUVFybS1Dc0dnUW9MWE5fUzdsblhNZDM1bHpSeWU4ZW1KUEVTZkJSNTIwOThXVFdBZTVVSmJxMlc4RHNBY0VZRlBuSE1HWmZuSjVucnpXQml0ZXJ0em85NVB3aUFpZnE2N3NxTGJqdEdIT3JsQ3pyMG5PMV9zNENaSDR2dFRIM0JRTkl2TFQ3NGhYNEVhYlJVMEs1bHhMZ2VLT2gxUGlyeGtWTg?oc=5"
     },
     {
       "headline": "EmbeddingGemma 2: an open, lightweight multimodal embedding model - blog.google",
@@ -80,40 +110,19 @@
       "summary": "EmbeddingGemma 2: an open, lightweight multimodal embedding model &nbsp;&nbsp; blog.google",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFld2xRdDVNUloweENSSVlzYXVZQ1ZUM2F3RXFFdl8yOHhudlZiUnkxdEJBcEtaWnJYcFh3UnI5QkFnbWRpVldxa1RjYTQzNVFhUzZHaE1OZllLWUoyVjZvLWhudjlZdTEzdkJWZW5TUTBHZGhkMS1KemlhbjkzaWVtN1BxQ2RHcGJn?oc=5"
-    },
-    {
-      "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-06T16:00:28.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMXU1ams3ZHlMaE4yVnNKLUFKUEREMjJGRkVJQ09UVHRYbzBiXzdQSlFqS2lsY3dtSWZmLUpoZFRkb0tEZHh4YlBvbUVVQVBCcUFQMlVyNTJuOVdscHhabW5SY1oyRzZLU2ZsT1BwSlJoUHRiYVNrSmlR0gF_QVVfeXFMUFlncV9mdTFCd3ZGSVZqeGVEUVVfVl9mRzc0UzhEQ2dncnNRN1Y0NE9LWHpvREFYcVljSG90RXl3UGRIVnVhaEc3NldUSjlZSTdDTHJSRGxEekZXQUJaejVWSGtiOW45RHZuZHA0RlFzVzdGa3M4NEIySjJEWWdIdw?oc=5"
-    },
-    {
-      "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-06T16:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUw1T3diMDBtTXdtdnJ1bk5DdUpfUWtuYzJaVjF2M0lUMjJkeXYxZUN0bEQ5bU45OGM5OXZXUzJGZFJKSHhRaHRlbk80dnZlMEpNaGZfT1JfWmhnRmtpMGJ0dWNlaFRNd0FWVUNQVGRoeVhJVmk5clNPMkRZWmNnLUZSRmlZeXN5bEtvNW51WmlSazMxcHhPODdIV2lZYnNyWDBRUk1nRW5KMklkaHpwSFQ5M0NOS2l2dlow?oc=5"
-    },
-    {
-      "headline": "Physical AI in manufacturing: From intelligent machines to coordinated operations - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-10-06T15:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Physical AI in manufacturing: From intelligent machines to coordinated operations &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd0sycmc2a3hCTmpaOURaSUxuMHpDbGNYYTFYaFZMNERBWDNXNk80ZzVXVjZWLVJtdnc5TEo4RFpJYmU2bWF1cDFjZjNyWV9GNWFUbkZnWTVmak83Mk1XXzZfU1B1OGhSRjVsRVdqYXJITGtFRVpjSjJDOURwTE0yWUxVSUN4V3VxTUp4SzRpSzd3WDZQLVhsV0FQeW5rTlpnSHVGSWNTem1CZlFBWnFVOWR4aEE2a0ZWOTJtWldncG4xSzhEV0VuUGh0bHVONUFoQklzbUM2cXZRd0JMUFZCUm5XTWJEVjZhN01Wa0NSeVQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-10-07T08:03:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45MHNqR014dUJnRkpJRXJZNGtGNW9DT2l2NGdYYlB0blRWRUhIMS1TTVoySG1fRWxEZ3d4d1FpUFdkN1pqMGxuR1pyb1lwbnFybFIyMmVFcjBpT0JSMGp2bGlFcVVVdHc3SjRWY09kM3hHNy1udnlCbDlB?oc=5",
+        "summary": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner &nbsp;&nbsp; Business Insider"
+      },
       {
         "headline": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. - WSJ",
         "source": "WSJ",
@@ -122,15 +131,6 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNZZW9GaVRnVzBtRVBfNkpablBtcTB6aTJyM1RZSi1sTDZMS1ozRk5oRE5XR3pWNWtKU1UxRmhDSk1rY19vT0lXOWhQTlU3UWZuZHpCc1hQaWZONEJpZlp4Zmk0QkVPcDJhTEo4ejlQcVIxSVNmUkZkRUhsTDVzZE1JNA?oc=5",
         "summary": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More. &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-10-07T01:06:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVURKSW5Md04tSFNPcXJmb0lGbFYtazloZTF5NURxY2N6V2UwV1FyRU51cWc2dlZZX2x4ODJEWnZndE1FRXpCVm1vZERlMTB1cFZ1VktycWhSSjdoZEdfTUxFQm8tVkZ6RmlqZkw3Zi13dS1xVTlpMEdDQkxaOFB0dERFSTlZWmVxWVNES3NBTl80d2hWcmZlV2JEQkFNZW9aMXRoVFJDTXpWVlVWZVpj?oc=5",
-        "summary": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh &nbsp;&nbsp; The Guardian"
       },
       {
         "headline": "OpenAI Releases Findings on 377 Math Problems, Further Roiling Field - The New York Times",
@@ -151,30 +151,30 @@
         "summary": "Sharing AI progress in mathematics &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them - Inc.com",
-        "source": "Inc.com",
-        "timestamp": "2026-10-06T17:21:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGx5bVFscUl2RnFNaHZOdWd5aFlOUVUxSERwWjZYNWRKcU96aWloWlI0RnVxSTlaSF84SUtyU2xRcWEtSGNUY0FSNjlTWjlhZ1ZteDhhQzZlXzhPS1hEYmNfUUs4dkNQb0tJY3ZnN0g1MzVpeVdkMkpXdTBsQkcteGQ5bERsME1fSTN0X0hrREFTN1kwaTA0VV8yUkl4dnppZzVneUk0eEJXdE14NXRWNGlmUnVjcmJPSkI1Sjl0UFV2ZGVQeTVVVFFoTFg?oc=5",
-        "summary": "Anthropic Is Offering More Than $50,000 in Claude Perks for Entrepreneurs. Here's How to Get Them &nbsp;&nbsp; Inc.com"
-      },
-      {
-        "headline": "Google DeepMind launches multimodal AI model for on-device search (GOOGL:NASDAQ) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-10-06T16:45:46.000Z",
+        "headline": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search - TipRanks",
+        "source": "TipRanks",
+        "timestamp": "2026-10-06T21:53:16.000Z",
         "impact": "HIGH",
         "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1ZmVmtZblIyUHdYWWo0b0MxT2FsRllHRVFlSDhxYzl0MDBiY2tCbU9NSlJCV3N5eGdMTEdpQXRiamU2NzBzRnhnRzRlWVdnbW13UktSeWp3cTJHdXpWWkxJTmNBRFQ4dEpFajNpaHpWYXhFTXRSblJXVlk0bnJiM3JsWV8tZGo1cDZYZDV1by14cE5WTk10aS1sZHBfd0VFOGtLT3B3?oc=5",
-        "summary": "Google DeepMind launches multimodal AI model for on-device search (GOOGL:NASDAQ) &nbsp;&nbsp; Seeking Alpha"
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1BYMm95aW9aYkMxem5Ha3FmM1hZcC1nMjdyd2s0eEMzMXIzYnJmM1ZpWmYtZ3YtUERvYW5qcnVySUU3SW1DLVFBTk1VQUkwM1dNUi1QSi1UZ3pEc2hoUlpYU0x1ZlIxdERzanExQ1ZCQnR2LUpPUnpJMzZQM2xrUjRSbGpWRzBVWU5PN3RabFEwa2g1TXk2QUFDWHlXWUlp?oc=5",
+        "summary": "Google DeepMind Launches 740M-Parameter AI Model for On-Device Search &nbsp;&nbsp; TipRanks"
+      },
+      {
+        "headline": "Anthropic opens its most powerful AI models to more security teams - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-06T20:37:46.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkxQM2QzdFNaWVZ2cDdhMGNGb24za0lLSjNZOTlLTkMwMTNPNDBnSjMyaHRXZ0QwVkRLV2RwNUdob2ZpNHhfX19TVkNxQW1XOFEybjdJWTZFbGZPU1hLR1pEcFpyNmZLV19IUVJqUm9LOWxZNnNhRjVSc1pFQU1YR2lXZEw4X19FT3pXM0dVUmdZdW5QNWtKU3YxS0RkLUI4UnJPZXJkeERJdlNSakNLUE9GX2d2Zm8?oc=5",
+        "summary": "Anthropic opens its most powerful AI models to more security teams &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
@@ -184,7 +184,7 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
