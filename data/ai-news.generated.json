@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-10T00:36:17.645Z",
+    "generatedAt": "2026-10-10T06:49:56.742Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,16 @@
   },
   "newsFeed": [
     {
+      "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-10-10T01:19:55.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5"
+    },
+    {
       "headline": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
       "source": "Fox News",
       "timestamp": "2026-10-09T23:42:23.000Z",
@@ -22,32 +32,12 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5"
     },
     {
-      "headline": "Anthropic Says Its A.I. Agents Attempted to Access a Range of Government Sites - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-10-09T23:15:12.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Anthropic Says Its A.I. Agents Attempted to Access a Range of Government Sites &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5"
-    },
-    {
-      "headline": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios",
-      "source": "Axios",
-      "timestamp": "2026-10-09T22:52:30.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive: Anthropic breaches spark White House AI reporting mandate &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5"
-    },
-    {
       "headline": "Anthropic AI model submits false tip on unsolved Philly murder, police say - NBC10 Philadelphia",
       "source": "NBC10 Philadelphia",
       "timestamp": "2026-10-09T18:09:08.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic AI model submits false tip on unsolved Philly murder, police say &nbsp;&nbsp; NBC10 Philadelphia Anthropic AI model submits false homicide tip to Philadelphia police website &nbsp;&nbsp; Reuters Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip &nbsp;&nbsp; WSJ",
+      "summary": "Anthropic AI model submits false tip on unsolved Philly murder, police say &nbsp;&nbsp; NBC10 Philadelphia Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say &nbsp;&nbsp; 6abc Philadelphia Anthropic AI submits false tip in unsolved murder case &nbsp;&nbsp; Yahoo",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkFsY2dFeENpS2Z1dVh4Z1VBMzVkdWEwcFdiMk0zZnY0Zk1ZUFNMYXJFZ0xLWDVwVjRsenhrQlZ6N3dEZExJN2FrSXJSVVRLZndHeUNxWTVLdy1vNXpmR1FrMEJNZWx5Q3FUVTFZTDhrbXg2ZmdjVWRPdHhLeXhUb2lFam04X253VHdoU3VfVGltcFZyZThWQm9hSkVyQy0wZmNieG9zUUhVeUdfQ0RjcEt0NzJ6NS1lZXlrS3BIQ05yR1HSAcsBQVVfeXFMTlg2bXhHU3dHMlZGNjNGckNSa0Z1ZFRhMVM1ZHQzamR2djN3MXVkRnVCZTJ3SEt4bVZqRkZVWkZRSnUxTlRvTkxtLTBBQkd3MktDWVNQUVRVVkJhQUp2alBpdS1GSVVZUXFwS2ZOaVI5ZGJfZ1JINnBTNGh4SDZHbWgzUXZ4WG1lQlRHMGFtUkJhTFhUWTFERExTSnBEd0YyQTRJb1A3bWVZT0M1bExZa3hWMlBqcHN0c19CalNKbWVVbnpOV2liUmxtUGM?oc=5"
     },
@@ -74,11 +64,11 @@
     {
       "headline": "Scoop: AI companies plot \"day after\" scenarios for public revolt - Axios",
       "source": "Axios",
-      "timestamp": "2026-10-09T10:34:03.000Z",
+      "timestamp": "2026-10-09T10:48:37.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Scoop: AI companies plot \"day after\" scenarios for public revolt &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5"
     },
     {
@@ -94,7 +84,7 @@
     {
       "headline": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-10-08T21:56:33.000Z",
+      "timestamp": "2026-10-08T21:53:08.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release &nbsp;&nbsp; The New York Times",
@@ -110,10 +100,29 @@
       "summary": "Why the National Hurricane Center bet big on AI to forecast Isaias &nbsp;&nbsp; CNN",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tejFROFF1NmFoeU9KYkp5WUlMRThHUVdUbExSdlotQ1VpNENBR0hta3JUSUVxQzZjLUgyaXB6ZU8yd2xja25RelZsTWZnaDZpNS1ELVRCUlVGenQ4SGJ5WU1KejdoMWk5eUhzRkRFWkZMUVlSUEFXNC1nVTA?oc=5"
+    },
+    {
+      "headline": "Disrupting AI-enabled “false front” operations - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-10-08T14:47:44.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Disrupting AI-enabled “false front” operations &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kNmsxRmIwUjBlQmNJRHJTSy1zM3BiQkFXYmZJbjJrTGExalBtWngta1I4OWEyVkpWVERxQ2UtbVpoTFE1VUc5eVc5Mk14Q0pKZDJJN0t3YjFqWURFNVVaY2JTQUE2Vmh2eV9GTkFQVlVYR2t0NEN4dGRn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-10-10T01:19:55.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
+        "summary": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website &nbsp;&nbsp; The New York Times"
+      },
       {
         "headline": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
         "source": "Fox News",
@@ -124,31 +133,13 @@
         "summary": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI &nbsp;&nbsp; Fox News"
       },
       {
-        "headline": "Anthropic Says Its A.I. Agents Attempted to Access a Range of Government Sites - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-10-09T23:15:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5",
-        "summary": "Anthropic Says Its A.I. Agents Attempted to Access a Range of Government Sites &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Exclusive: Anthropic breaches spark White House AI reporting mandate - Axios",
-        "source": "Axios",
-        "timestamp": "2026-10-09T22:52:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
-        "summary": "Exclusive: Anthropic breaches spark White House AI reporting mandate &nbsp;&nbsp; Axios"
-      },
-      {
         "headline": "Anthropic AI model submits false tip on unsolved Philly murder, police say - NBC10 Philadelphia",
         "source": "NBC10 Philadelphia",
         "timestamp": "2026-10-09T18:09:08.000Z",
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkFsY2dFeENpS2Z1dVh4Z1VBMzVkdWEwcFdiMk0zZnY0Zk1ZUFNMYXJFZ0xLWDVwVjRsenhrQlZ6N3dEZExJN2FrSXJSVVRLZndHeUNxWTVLdy1vNXpmR1FrMEJNZWx5Q3FUVTFZTDhrbXg2ZmdjVWRPdHhLeXhUb2lFam04X253VHdoU3VfVGltcFZyZThWQm9hSkVyQy0wZmNieG9zUUhVeUdfQ0RjcEt0NzJ6NS1lZXlrS3BIQ05yR1HSAcsBQVVfeXFMTlg2bXhHU3dHMlZGNjNGckNSa0Z1ZFRhMVM1ZHQzamR2djN3MXVkRnVCZTJ3SEt4bVZqRkZVWkZRSnUxTlRvTkxtLTBBQkd3MktDWVNQUVRVVkJhQUp2alBpdS1GSVVZUXFwS2ZOaVI5ZGJfZ1JINnBTNGh4SDZHbWgzUXZ4WG1lQlRHMGFtUkJhTFhUWTFERExTSnBEd0YyQTRJb1A3bWVZT0M1bExZa3hWMlBqcHN0c19CalNKbWVVbnpOV2liUmxtUGM?oc=5",
-        "summary": "Anthropic AI model submits false tip on unsolved Philly murder, police say &nbsp;&nbsp; NBC10 Philadelphia Anthropic AI model submits false homicide tip to Philadelphia police website &nbsp;&nbsp; Reuters Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip &nbsp;&nbsp; WSJ"
+        "summary": "Anthropic AI model submits false tip on unsolved Philly murder, police say &nbsp;&nbsp; NBC10 Philadelphia Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say &nbsp;&nbsp; 6abc Philadelphia Anthropic AI submits false tip in unsolved murder case &nbsp;&nbsp; Yahoo"
       },
       {
         "headline": "Microsoft Stocks Rise 1.4% as Local AI Shifts Compute Off Azure - Yahoo Finance",
@@ -167,6 +158,15 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnJfdmQzcThvdk5kMkxlWXpMZlhIUXM1ZGR4SGlycFdUZV82Z1N3eHVCVGk4UnpKb0s3U2lvX3d0RVFDNnVVekhyUVhSQlJOYlQyLVpETDI5V3FSZDFYeDcyLU5nbXB2SGhmeTNBbFIzNUsyZFRFcWs0OHBZSU9IZlpkRVUwUl83ck55U2E5dkZpM1hoN0s3blJScUZaT3J6a0w4b1FOXzQ4U2JVQTREUEVyYkY5bVU?oc=5",
         "summary": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake. &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "Scoop: AI companies plot \"day after\" scenarios for public revolt - Axios",
+        "source": "Axios",
+        "timestamp": "2026-10-09T10:48:37.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ha1RBX2ZHb3UzTExKcWhNY05zSVM4Q093ai1JU19kekVLMFFXZHBzUUxpQkpIOHZTN2NUUzBLSUNldEZZNEVjREkxT1gtRzdLZTRsZU1vck1mY09HdUVMQmR1X3lWdzZFcGoxWkJFNDVGcGx1ZTZN?oc=5",
+        "summary": "Scoop: AI companies plot \"day after\" scenarios for public revolt &nbsp;&nbsp; Axios"
       }
     ],
     "whyItMatters": [
