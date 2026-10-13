@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-12T17:34:51.763Z",
+    "generatedAt": "2026-10-13T00:22:14.570Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI adds 200 Dublin jobs, launches Applied AI Lab - Quartz",
-      "source": "Quartz",
-      "timestamp": "2026-10-12T17:13:14.000Z",
+      "headline": "Anthropic AI model made false tip in unsolved Philly murder: Officials - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "timestamp": "2026-10-12T20:44:34.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "OpenAI adds 200 Dublin jobs, launches Applied AI Lab &nbsp;&nbsp; Quartz",
+      "summary": "Anthropic AI model made false tip in unsolved Philly murder: Officials &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos Anthropic’s Claude AI submitted false murder tip to Philadelphia police &nbsp;&nbsp; Ars Technica Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnlyRGc0MjctaER4YUVmRHFzZ2ZQRnc5N2JBVFNhNlBnNVprLTFtRmNlaUgwZndhME1CZE1FR3dxaDctNXRaWkd1VmlFbUE1ZVZmWVZvY1BMbndpaDJXSmxLTFA0SFM4aFhRbHNBZnVxSVdPU3M4Um5ZeU9iZ1M5UjlZSHhrdXZEREQ1di1Qb3FEOFBqWlHSAZsBQVVfeXFMT21OMTJzRWlHUXVRMTdZQlZwcU9ZVm5nejdYazVzV3pCUzNEMS1XNVBVZ1ZkaEhwTHdGYXZodEltZDVnY1RvcEtlUW1rTS1iSmdNc3pvV0dpZkRqQmw1RmtFQ3BFam93RmoxYjVvaU90cnFTOF9RYmFOQUwyb0tlcWYtbnlQRTRiMGp1OHNyNDVHM3Jtd09URjc5NlE?oc=5"
+    },
+    {
+      "headline": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-10-12T20:41:08.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare? &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5"
+    },
+    {
+      "headline": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-10-12T20:10:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5"
+    },
+    {
+      "headline": "Applying technology to understand and treat disease - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-10-12T17:45:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Applying technology to understand and treat disease &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5"
+    },
+    {
+      "headline": "Microsoft to expand Azure Maia system to multi-gigawatt deployments - The Official Microsoft Blog",
+      "source": "The Official Microsoft Blog",
+      "timestamp": "2026-10-12T17:24:05.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft to expand Azure Maia system to multi-gigawatt deployments &nbsp;&nbsp; The Official Microsoft Blog",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWtCRTJBSThLQjBSa09qbEhKc2d2N0xyMDdJYXFXZWg4UGFRcUExcVBBd292eFl2WGwzVXBCVzg2WWtnOFM5eE1ma2gzTGNSMms5SFFpdTZOVjR4TEZEcmlpZmNYbEdUZmxya1FremFRNmVNTTdzYUlRdzZEYmFBV3VwVWNEUmFDMG9NMjNRX25BRW9Gbktyb0RGNWE2a0kxLTV0VEZ1YXozZDRuNm91YkpB?oc=5"
+    },
+    {
+      "headline": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
+      "source": "Axios",
+      "timestamp": "2026-10-12T17:20:35.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic &nbsp;&nbsp; Axios",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNjEzc1IxUTJuNWNLZjAwTno2M295VWc4QTRhcjlUdjBCbGFlQnZEQ3A1Wjd5OE13Rjc5enVVTUdveGRQZVZXc01YWHdSNXRNVzFuYWY0Z2VhNDNTSHJNX1NCR2w2Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5"
     },
     {
       "headline": "Microsoft announces new AI chip Azure Maia 300 - upi",
@@ -32,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5"
     },
     {
-      "headline": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
-      "source": "Axios",
-      "timestamp": "2026-10-12T17:02:48.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5"
-    },
-    {
       "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
       "source": "CNBC",
       "timestamp": "2026-10-12T17:00:25.000Z",
@@ -52,121 +92,81 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown - Financial Times",
+      "headline": "Meta Unveils New Series of Advanced A.I. Models - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-10-12T17:00:05.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Unveils New Series of Advanced A.I. Models &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3hUd1VrZ2o4V1lPMjZHeUd1RnRpMTRMZHQ3QUppcWtUdFo0TXYzM1FDUHZoZ0wtUWtwTUhFZFl3b19xT1IwMEpTcWUxcEY4NEliN2ZWRWM5ckJlYkVIZnM3bzg5TUN3dFZyTHNydWNKZ05aTHVqOGRNdXhOUW5jNXl0bEd2QQ?oc=5"
+    },
+    {
+      "headline": "Mark Zuckerberg says Meta has reached AI ‘frontier’ - Financial Times",
       "source": "Financial Times",
       "timestamp": "2026-10-12T17:00:02.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Mark Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown &nbsp;&nbsp; Financial Times",
+      "summary": "Mark Zuckerberg says Meta has reached AI ‘frontier’ &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5"
-    },
-    {
-      "headline": "The AI factory is leaving the data center - Fierce Network",
-      "source": "Fierce Network",
-      "timestamp": "2026-10-12T16:58:07.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "The AI factory is leaving the data center &nbsp;&nbsp; Fierce Network",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByUzQya0JTbGp3ajllNjhfWmxwVUw4eHdFRERfN3ZQa1JFVTEyVXdwRXgySExwLWoza2t2dUV5VVF2b2ZSMXJsS3lBdGJKZU10d2llRTFrNkNsZmZEbEVaV1duMFE1OWJxRmZEMzNESWlBa0M4Zk04MlZBSQ?oc=5"
-    },
-    {
-      "headline": "Google DeepMind's Lila Ibrahim on balancing AI innovation and safety - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-12T14:38:17.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Google DeepMind's Lila Ibrahim on balancing AI innovation and safety &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFB6WDFRaTAwQ2p6XzZfWmViZ2V0RDFiYXJhRGp4ZUoyMzRvRW9LZGVPb1lzVGhmbmRzYVJDbkFQX3BuVExpMmhwSV8wNkFqWWVHdkpCMkMtVE1zS2pncFlET1hTTlhBMEU1MUYyblczLWVRV0dPM2ZFUDZEcVJaZEphUDJwRjdLTVpIdUNHeF9EbWRtbDIzWFpRbkJ1WEJSZ2FnT3NmMi1EVWNmUS00?oc=5"
-    },
-    {
-      "headline": "An Interview with Microsoft’s Scott Guthrie on Azure’s New AI Chip, ‘Insatiable’ AI Demand and Today’s AI Model Price War - Key Context by Tae Kim",
-      "source": "Key Context by Tae Kim",
-      "timestamp": "2026-10-12T13:48:56.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "An Interview with Microsoft’s Scott Guthrie on Azure’s New AI Chip, ‘Insatiable’ AI Demand and Today’s AI Model Price War &nbsp;&nbsp; Key Context by Tae Kim",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhNk5uaFNHMUFFMFE1SW1UajBzMjhuYkV4RzF1b2gtd3BYU283cEY3b016MXI1MFFwSWFkX1Zoak1vdmdzamRJM1FYa1dNVmpEVUJNU0FDX1lJV2l3VWE2V1otckhnSWd2dkI0cElLNUE1dw?oc=5"
-    },
-    {
-      "headline": "Deep dive into Azure Maia 300 architecture - Microsoft Azure",
-      "source": "Microsoft Azure",
-      "timestamp": "2026-10-12T13:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Deep dive into Azure Maia 300 architecture &nbsp;&nbsp; Microsoft Azure",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlZ6RzdwazdNcW5ieTRZZ2RERjI5S21PQXFCR1NZUk1OSHVvdDdLQ3NWeWo4YzNDUnB3RWtvNHdteUpkanppZUszMDZ1QVNJbjVGTGhpQm9lMFFqcmVLSURqUjFBZl95djAybHN2MGpUVU8yazY0ZGhTNkItRFZ4WVpqSGpwUzhDNkE?oc=5"
-    },
-    {
-      "headline": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-12T12:30:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "IREN Climbs 4% on Report of Unconfirmed Anthropic Cloud Deal; TeraWulf and Applied Digital Hold Flat &nbsp;&nbsp; Yahoo Finance The Attractive Economics Behind Anthropic Data Center Sprint &nbsp;&nbsp; The Information IREN Stock Pops After Reportedly Winning Anthropic Deal &nbsp;&nbsp; Investor's Business Daily",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVNwOFNaZFNadHd6MGlzVmRUbldPQlNvQVFOUWc0UnlMeFI4eWpvOUZHTERUX0FXU2dWMEFQR2N5Qk0wWlhOeElmVXByWFhSVWpDS3J6MkJQUHE4dG9DdzhGMGYxblotWnNYaTgzX3U5X3V2ekthd1BzcFVHR1Fiak1MdXlMbFVCOHVLQkdzTW9VZVJWN29sZzZVa1lyZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI adds 200 Dublin jobs, launches Applied AI Lab - Quartz",
-        "source": "Quartz",
-        "timestamp": "2026-10-12T17:13:14.000Z",
+        "headline": "Anthropic AI model made false tip in unsolved Philly murder: Officials - ABC News - Breaking News, Latest News and Videos",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "timestamp": "2026-10-12T20:44:34.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zNjEzc1IxUTJuNWNLZjAwTno2M295VWc4QTRhcjlUdjBCbGFlQnZEQ3A1Wjd5OE13Rjc5enVVTUdveGRQZVZXc01YWHdSNXRNVzFuYWY0Z2VhNDNTSHJNX1NCR2w2Zw?oc=5",
-        "summary": "OpenAI adds 200 Dublin jobs, launches Applied AI Lab &nbsp;&nbsp; Quartz"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnlyRGc0MjctaER4YUVmRHFzZ2ZQRnc5N2JBVFNhNlBnNVprLTFtRmNlaUgwZndhME1CZE1FR3dxaDctNXRaWkd1VmlFbUE1ZVZmWVZvY1BMbndpaDJXSmxLTFA0SFM4aFhRbHNBZnVxSVdPU3M4Um5ZeU9iZ1M5UjlZSHhrdXZEREQ1di1Qb3FEOFBqWlHSAZsBQVVfeXFMT21OMTJzRWlHUXVRMTdZQlZwcU9ZVm5nejdYazVzV3pCUzNEMS1XNVBVZ1ZkaEhwTHdGYXZodEltZDVnY1RvcEtlUW1rTS1iSmdNc3pvV0dpZkRqQmw1RmtFQ3BFam93RmoxYjVvaU90cnFTOF9RYmFOQUwyb0tlcWYtbnlQRTRiMGp1OHNyNDVHM3Jtd09URjc5NlE?oc=5",
+        "summary": "Anthropic AI model made false tip in unsolved Philly murder: Officials &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos Anthropic’s Claude AI submitted false murder tip to Philadelphia police &nbsp;&nbsp; Ars Technica Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Microsoft announces new AI chip Azure Maia 300 - upi",
-        "source": "upi",
-        "timestamp": "2026-10-12T17:04:31.000Z",
+        "headline": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-10-12T20:41:08.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5",
+        "summary": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare? &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-10-12T20:10:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
+        "summary": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Applying technology to understand and treat disease - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-10-12T17:45:21.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0xsYk1wZWZQdV9UWUZZY01BR2ltejVVWi1ndjNxdnZIVWotQ2xQM0ktVXpRTjJzSlVnVGlHNGd5QXJKNnB3SFM2X0xkZ1NSRnZZdVlOWG1yOElqbmNUS0dhUTZtV1FCNnB6dGNxZTgtVWk5dFU0dHVuTk50Mk9BMQ?oc=5",
+        "summary": "Applying technology to understand and treat disease &nbsp;&nbsp; blog.google"
+      },
+      {
+        "headline": "Microsoft to expand Azure Maia system to multi-gigawatt deployments - The Official Microsoft Blog",
+        "source": "The Official Microsoft Blog",
+        "timestamp": "2026-10-12T17:24:05.000Z",
         "impact": "LOW",
         "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaVm5kTjgzM0tHQkFtYnh4Z2JMLW1ZWTlPSkJGcjRrNlR5eVY4OXBJdVczYmY4SVBLa0pyN0dqNTY5TUF2QXRaSWlPUnNwQ1VpWWp0WkNFYUU1MndYeDRleEZ1U0dqNjkxckhoMHdUTWxHTC15cFFLMzIyZGRNaDd5c2Z6YkNMSVk3Z3M2aXJfSXBfbjNiWW1VYmdTYlHSAaQBQVVfeXFMTUpFNTVDX0VSV3V0VnlFcVpPdkV2Y3BJN0M0TlJpSEtSOUtsbFd5WXdScTllNWhKQVBscEM2X3NHbGRBYi1TQXZ3VVJUWFMzMnJ4Y2hyVkdXZTY4cXI0cUlVazFteURXS2xlTjR4ZUViblIzX3JxYndpZGJ1MG04U1U1c002ejRMOUFTR3Y0ak1veXdPdmdkV01UQi1NY3N6OGRydGc?oc=5",
-        "summary": "Microsoft announces new AI chip Azure Maia 300 &nbsp;&nbsp; upi"
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWtCRTJBSThLQjBSa09qbEhKc2d2N0xyMDdJYXFXZWg4UGFRcUExcVBBd292eFl2WGwzVXBCVzg2WWtnOFM5eE1ma2gzTGNSMms5SFFpdTZOVjR4TEZEcmlpZmNYbEdUZmxya1FremFRNmVNTTdzYUlRdzZEYmFBV3VwVWNEUmFDMG9NMjNRX25BRW9Gbktyb0RGNWE2a0kxLTV0VEZ1YXozZDRuNm91YkpB?oc=5",
+        "summary": "Microsoft to expand Azure Maia system to multi-gigawatt deployments &nbsp;&nbsp; The Official Microsoft Blog"
       },
       {
         "headline": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
         "source": "Axios",
-        "timestamp": "2026-10-12T17:02:48.000Z",
+        "timestamp": "2026-10-12T17:20:35.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5",
         "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-10-12T17:00:25.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
-        "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Mark Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-10-12T17:00:02.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5",
-        "summary": "Mark Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "The AI factory is leaving the data center - Fierce Network",
-        "source": "Fierce Network",
-        "timestamp": "2026-10-12T16:58:07.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByUzQya0JTbGp3ajllNjhfWmxwVUw4eHdFRERfN3ZQa1JFVTEyVXdwRXgySExwLWoza2t2dUV5VVF2b2ZSMXJsS3lBdGJKZU10d2llRTFrNkNsZmZEbEVaV1duMFE1OWJxRmZEMzNESWlBa0M4Zk04MlZBSQ?oc=5",
-        "summary": "The AI factory is leaving the data center &nbsp;&nbsp; Fierce Network"
       }
     ],
     "whyItMatters": [
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
