@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-14T17:51:50.959Z",
+    "generatedAt": "2026-10-14T21:25:21.317Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-14T17:25:34.000Z",
-      "impact": "LOW",
+      "headline": "Bipartisan coalition of states sues OpenAI over user safety - Politico",
+      "source": "Politico",
+      "timestamp": "2026-10-14T21:18:00.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor &nbsp;&nbsp; CNBC",
+      "summary": "Bipartisan coalition of states sues OpenAI over user safety &nbsp;&nbsp; Politico",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JzN09IZDJjcHJLS1lCWnZKYlpOLVBJLUl1RDFoV2t1eFNZVEtONFdFR19qYURJX3poOTJvUmNrZGxTczB3MFZRWVIzQnZPNzJ6YXVpZHNlQ2NDVWJNTXNCUnNRQ0F2VTVEcUVVbWx6OTJmZDEzbndaSmdSOTJ4SnZCSllZNWo1blVTVFB0RG1pUTNrd0F4Wk9pZk1iRGpVVXdhUjktOGbSAa4BQVVfeXFMT28zWXA2LU9ySEV3c3pscnlJNVFkY05ZN2ZwaTc4cTZNOTQwazg1ckJaSm1ObTNIa0w1TThkUXBiNGx5SVhwZWJHYTgwaktsdnYteFU4d0VwaE5Mam1ON2FlSWp5NjdwQ3NLUF8wQnVsc1VoVFpGWllGcEs1VTBULXJUbHdTUy1NYmxlSlF6VTVrWGN4WTNrbXZWOER4VEpLUjI0WmVjbF9JaTNtVDdB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHhfTkZFRW9fdDlJY0NRZmR0enVlbTBFZms2MGNXMGtmekthMHI0Y3JWTHR6MURZU0JXWk5ZbkRRdElMcW1LOEFELWVIcTNsU0tQaVhHdmtuMDFZbXNMYjA0cTRfbzVvY1B5VldvY1gzUmFWRzNVd01TTU03Wk9QTnV4dw?oc=5"
     },
     {
-      "headline": "FBI says an OpenAI engineer used his wife's AI chatbot to figure out how to plant a secret recording device at the office - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-10-14T17:12:00.000Z",
+      "headline": "OpenAI sued by 8 states over ChatGPT safety concerns - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-10-14T21:09:20.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI sued by 8 states over ChatGPT safety concerns &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5"
+    },
+    {
+      "headline": "Anthropic to add US voting information to Claude before midterms - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-14T20:17:16.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic to add US voting information to Claude before midterms &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5"
+    },
+    {
+      "headline": "The AI race is back on - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-10-14T19:06:03.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "FBI says an OpenAI engineer used his wife's AI chatbot to figure out how to plant a secret recording device at the office &nbsp;&nbsp; Fortune",
+      "summary": "The AI race is back on &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5"
+    },
+    {
+      "headline": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-10-14T18:47:38.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5"
+    },
+    {
+      "headline": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-10-14T17:30:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlllSFdjUGN6MXplZWlreE1xek9XZmx0OVdGVFZzbDRsRXFjR0hfYkEzYXpZdTF5bVNEbzRRVGVzc1p1dUZFX3BzT25aLVRyenM3X1Nqel9CX3pZZ2lCYnI2ZDB6UVpfdnhPejNCWFdyWU1LcXh4NUFnNS1uclh3enpXdm05T0ZQWHRHbVNCVWFQbkpFRkJ1ODJ3VEE?oc=5"
+    },
+    {
+      "headline": "OpenAI Computing Chief to Depart - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-10-14T16:13:12.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Computing Chief to Depart &nbsp;&nbsp; WSJ",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc29qbG10Z0twWkNSV2U5Q01rWW0yZzBaSGdhQ2RLV3VfVzVMNnBYU1k4dW12TnpSeGFUbmZuSlhsU0RPTElIaHEwbUEwSjZ0TjQwWE1udW5aY1Q1VkR0NTlESzl0SXZwTFkzZ1JGUXROc19MUmJELU5uNlNnWVBmZU5MZEFkYjlTTDRkcG5lMmhrVHV6TVlIMlJR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EYVZsMHc3czQwUGhoVkhLUGRtSnhCZ2VrUHRtdWpZTHFzYzF6QmxPTUVOQnZWNlEyWUlCQVdRZENKLWh6aTlub25UemQ1RzcyUEJKRmZ2dDBYRHI1Y2xaY0tmczh2NHRRSTJIVU00NTFla0x3Z1ppUg?oc=5"
     },
     {
       "headline": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
@@ -42,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
     },
     {
-      "headline": "Meta's AI comeback: From missteps to Muse AI - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-14T12:49:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Meta's AI comeback: From missteps to Muse AI &nbsp;&nbsp; Yahoo Finance Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents &nbsp;&nbsp; Facebook Mark Zuckerberg says Meta has reached AI ‘frontier’ &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnRNTUU3cVZMSWtWRTBhbFNWVi00RWh0QkRJaDE3OHZOaUhhZEo0Zjh5Qi02MGgzbG45ZXozZmlfMDJrQnlqN2NMME9rX3VjU2Z6LTk5Tl9rU2Y5ZHhyNGVXVzlIWEJKME1mMDhMbld3UmdTMkRDbmlSUmpZaUVxMG9jWXMyVGR4bkpYVVRfSG9vZHM?oc=5"
-    },
-    {
       "headline": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
       "source": "Ars Technica",
       "timestamp": "2026-10-14T11:00:30.000Z",
@@ -62,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU5EeklRRTJXTjhZRlRpaVBYWHpaOHF3b0otZXNmNmZFLVpwR2RRR0JXY0tXTWQ3YmJ3YURWazRqT2ZuTkhUcXB2ZUxidFotR2N3ZUpvT3lDQ3FjSDNoS3dqb2FZVWw2NVBLT3JEQXN2eHIxYTctRTJGU2pORHlLTFZTbjExM2wtd0d4UHdNbU5mOGpPWHVIeTlocjItZlBtLVJmMWxOa3BhMW1lRW1iSXJPRlNIaVk2VF9kbkEwdjFVRnBaZG1BVg?oc=5"
     },
     {
-      "headline": "Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-10-14T08:48:30.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic Executive Says Open-Source AI Models Are Higher Risk &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl8zSEtRa0QyR0Z5OHJVOFhjX2xJTGtmVVVXSll3cXNCUkVBOFdKWGZUMVhTZDVzX1lpM0RYSUFkdkRjbTVQZ2dnTjhjeDIzYWtncUsyMHZnbGZqZmhqaDdyS1RMNkp6MjBQRlFRcWJ5SFJSYU90SGhPanBUQjBsSncxeXVYOTlSb05ONVNMOHRYWVFFenp0VFpnM1pRbGliU3ktb2t5ZnV4MnREQUxsVVBiSQ?oc=5"
-    },
-    {
       "headline": "On-Device AI Against Scams - Google DeepMind",
       "source": "Google DeepMind",
       "timestamp": "2026-10-14T04:08:45.000Z",
@@ -80,106 +110,76 @@
       "summary": "On-Device AI Against Scams &nbsp;&nbsp; Google DeepMind",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5"
-    },
-    {
-      "headline": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-10-14T01:33:22.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXdjcW9mZmQwckRKN1MyRmJrSWRDc0p4b21STDBDSnFnMlMwbWtIVk9LUHRaTFlnaXdsbzdRS3hPRV9Ea3hDTi1IUU1VUjk3YUNhZWhUZjRWMXh3T2NTSkg3cWNtUjZqOTZxeVpNeFctazhFVU5leWk2OFBzLVcwanI1WEVFQ25H?oc=5"
-    },
-    {
-      "headline": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-13T23:40:48.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTR4QnM0X3ZDWkFnRUtTV1hDaDZ3OFg2R1o5R3Q0a0cxY3M1Rm5NbmQweDh3OFgwNTRtX21VZzFfWmRoM182aktXdzhwUDFRckVjRG5DaURUT1pSWm56TVk3Wlp5VERaMmdGYmNERFN3c0FTZlM2Q1p4Z3RReUZTcGsxU1hOaGxEa09TWWFuRDczdmlCU2VEbw?oc=5"
-    },
-    {
-      "headline": "Gemini 4 Argon: Built to solve your hardest problems - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-10-13T16:16:01.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Gemini 4 Argon: Built to solve your hardest problems &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-10-14T17:25:34.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JzN09IZDJjcHJLS1lCWnZKYlpOLVBJLUl1RDFoV2t1eFNZVEtONFdFR19qYURJX3poOTJvUmNrZGxTczB3MFZRWVIzQnZPNzJ6YXVpZHNlQ2NDVWJNTXNCUnNRQ0F2VTVEcUVVbWx6OTJmZDEzbndaSmdSOTJ4SnZCSllZNWo1blVTVFB0RG1pUTNrd0F4Wk9pZk1iRGpVVXdhUjktOGbSAa4BQVVfeXFMT28zWXA2LU9ySEV3c3pscnlJNVFkY05ZN2ZwaTc4cTZNOTQwazg1ckJaSm1ObTNIa0w1TThkUXBiNGx5SVhwZWJHYTgwaktsdnYteFU4d0VwaE5Mam1ON2FlSWp5NjdwQ3NLUF8wQnVsc1VoVFpGWllGcEs1VTBULXJUbHdTUy1NYmxlSlF6VTVrWGN4WTNrbXZWOER4VEpLUjI0WmVjbF9JaTNtVDdB?oc=5",
-        "summary": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "FBI says an OpenAI engineer used his wife's AI chatbot to figure out how to plant a secret recording device at the office - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-10-14T17:12:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc29qbG10Z0twWkNSV2U5Q01rWW0yZzBaSGdhQ2RLV3VfVzVMNnBYU1k4dW12TnpSeGFUbmZuSlhsU0RPTElIaHEwbUEwSjZ0TjQwWE1udW5aY1Q1VkR0NTlESzl0SXZwTFkzZ1JGUXROc19MUmJELU5uNlNnWVBmZU5MZEFkYjlTTDRkcG5lMmhrVHV6TVlIMlJR?oc=5",
-        "summary": "FBI says an OpenAI engineer used his wife's AI chatbot to figure out how to plant a secret recording device at the office &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-10-14T15:48:25.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
-        "summary": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Meta's AI comeback: From missteps to Muse AI - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-10-14T12:49:00.000Z",
+        "headline": "Bipartisan coalition of states sues OpenAI over user safety - Politico",
+        "source": "Politico",
+        "timestamp": "2026-10-14T21:18:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnRNTUU3cVZMSWtWRTBhbFNWVi00RWh0QkRJaDE3OHZOaUhhZEo0Zjh5Qi02MGgzbG45ZXozZmlfMDJrQnlqN2NMME9rX3VjU2Z6LTk5Tl9rU2Y5ZHhyNGVXVzlIWEJKME1mMDhMbld3UmdTMkRDbmlSUmpZaUVxMG9jWXMyVGR4bkpYVVRfSG9vZHM?oc=5",
-        "summary": "Meta's AI comeback: From missteps to Muse AI &nbsp;&nbsp; Yahoo Finance Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents &nbsp;&nbsp; Facebook Mark Zuckerberg says Meta has reached AI ‘frontier’ &nbsp;&nbsp; Financial Times"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHhfTkZFRW9fdDlJY0NRZmR0enVlbTBFZms2MGNXMGtmekthMHI0Y3JWTHR6MURZU0JXWk5ZbkRRdElMcW1LOEFELWVIcTNsU0tQaVhHdmtuMDFZbXNMYjA0cTRfbzVvY1B5VldvY1gzUmFWRzNVd01TTU03Wk9QTnV4dw?oc=5",
+        "summary": "Bipartisan coalition of states sues OpenAI over user safety &nbsp;&nbsp; Politico"
       },
       {
-        "headline": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
-        "source": "Ars Technica",
-        "timestamp": "2026-10-14T11:00:30.000Z",
+        "headline": "OpenAI sued by 8 states over ChatGPT safety concerns - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-10-14T21:09:20.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU5EeklRRTJXTjhZRlRpaVBYWHpaOHF3b0otZXNmNmZFLVpwR2RRR0JXY0tXTWQ3YmJ3YURWazRqT2ZuTkhUcXB2ZUxidFotR2N3ZUpvT3lDQ3FjSDNoS3dqb2FZVWw2NVBLT3JEQXN2eHIxYTctRTJGU2pORHlLTFZTbjExM2wtd0d4UHdNbU5mOGpPWHVIeTlocjItZlBtLVJmMWxOa3BhMW1lRW1iSXJPRlNIaVk2VF9kbkEwdjFVRnBaZG1BVg?oc=5",
-        "summary": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say &nbsp;&nbsp; Ars Technica"
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5",
+        "summary": "OpenAI sued by 8 states over ChatGPT safety concerns &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Anthropic Executive Says Open-Source AI Models Are Higher Risk - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-10-14T08:48:30.000Z",
+        "headline": "Anthropic to add US voting information to Claude before midterms - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-14T20:17:16.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5",
+        "summary": "Anthropic to add US voting information to Claude before midterms &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "The AI race is back on - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-10-14T19:06:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTlwczV1a1J1TXN3MkRxVm1kZHZmTmZ5OENrR0M2WFEtbUFFNjRPMWRLVTVOZWc1Skd2bGZDYS1WVWJyTlFkWndqbmd5dTZjb191T1pDR001dVdKZ2VOWDlKS3AzNXNsU0VySVpESVlPZ1RvQkFHN0FOR01uMVFhV2JKN3l5VU1nYmc?oc=5",
+        "summary": "The AI race is back on &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-10-14T18:47:38.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl8zSEtRa0QyR0Z5OHJVOFhjX2xJTGtmVVVXSll3cXNCUkVBOFdKWGZUMVhTZDVzX1lpM0RYSUFkdkRjbTVQZ2dnTjhjeDIzYWtncUsyMHZnbGZqZmhqaDdyS1RMNkp6MjBQRlFRcWJ5SFJSYU90SGhPanBUQjBsSncxeXVYOTlSb05ONVNMOHRYWVFFenp0VFpnM1pRbGliU3ktb2t5ZnV4MnREQUxsVVBiSQ?oc=5",
-        "summary": "Anthropic Executive Says Open-Source AI Models Are Higher Risk &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5",
+        "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-10-14T17:30:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlllSFdjUGN6MXplZWlreE1xek9XZmx0OVdGVFZzbDRsRXFjR0hfYkEzYXpZdTF5bVNEbzRRVGVzc1p1dUZFX3BzT25aLVRyenM3X1Nqel9CX3pZZ2lCYnI2ZDB6UVpfdnhPejNCWFdyWU1LcXh4NUFnNS1uclh3enpXdm05T0ZQWHRHbVNCVWFQbkpFRkJ1ODJ3VEE?oc=5",
+        "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
