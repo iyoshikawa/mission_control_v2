@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-14T06:01:42.802Z",
+    "generatedAt": "2026-10-14T12:44:16.489Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,19 +12,69 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI engineer charged after listening device found in meeting room - Al Jazeera",
-      "source": "Al Jazeera",
-      "timestamp": "2026-10-14T03:11:15.000Z",
+      "headline": "OpenAI engineer arrested after recording device found at San Francisco office - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-10-14T11:52:51.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI engineer charged after listening device found in meeting room &nbsp;&nbsp; Al Jazeera",
+      "summary": "OpenAI engineer arrested after recording device found at San Francisco office &nbsp;&nbsp; Fox News",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DNGtWOUZxNDhRajRUakVfNjlhMkRjUlc3M0JjZFdtbkFnSExjUjFtcDlrakRMVGFfUGRXT3Y4UzBldWRvZ0stVm0zcDdRLWItQncyUmwwdFN4MFRicUNON3JYR3doWUVQb29id0VfYmdrV3ZTbzVKUV9qX2dyUQ?oc=5"
+    },
+    {
+      "headline": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days - The Hacker News",
+      "source": "The Hacker News",
+      "timestamp": "2026-10-14T11:19:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days &nbsp;&nbsp; The Hacker News",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmY1TVNqYkRROFR2WjRqaFZuc2dLUWlkNERiSnhuZjE3UVFWVHdUUGR3dkxQOE5mZ3FXUWxzYkJPbGNiTTdsSERobFRoX2QtVjNreDJsaGhxR0pON3BHUHpjQms0VEdhaGtXdVJPSmpHUzNEdUhpUGJqM2JDTmRCSHM0b3Q?oc=5"
+    },
+    {
+      "headline": "Apple and OpenAI face off in trade secret hearing - Quartz",
+      "source": "Quartz",
+      "timestamp": "2026-10-14T11:17:40.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Apple and OpenAI face off in trade secret hearing &nbsp;&nbsp; Quartz",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGZWNWZhU1h2ekNHal9PRmQ4SHcwTE9fSVBDRjJ4SDFYSXJRMXVxWGE0bjNsaTMyYUVheHFlYTFMYUI2c1JmWFd5NGE5dUMzbWdjZnJTVmVFQUVKNE9NYzNSTG1nUEs5LVF6TGY5UExIWFU5dFYxM0FVbjg4RmhSbmVlaTl5WFZEeUdYZlJpVHB5WWdRRXZDTDduaEN3eVJNbTdNLXpwbHJ4aUU5WmJv0gG0AUFVX3lxTE1MMXl2a0NtZHJvMjhIdWkxUWdPV3puWGV5NU1rbmVtc1pqQjR5cmM1blVGc0hpWFdjT2dkWTQzd3VjbVhfamR4emtDeWxkZTJxVDBPNnRxb0x4dzgxbDg1ZHNENVlSZ2l2NGFfRmJiblFwWm9MM3MwZWxkVzFock9XNHRMcDd2cENfLXFPMzBsVVNLTWJ6a2hPVmYzMkxPSFAzRHFNM2xkajZrUy1KR0xCY1J6cA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWFlVUNHN0NFNEV4bUxLMVc1aldoMEVkSFM2b0c3Q2NYSFQ3b0NicGxURHZ0Q01VZUpQV1Mzdm5rcHlnS0FxVzBzblA5VnBseWljdml4c2p4cW43ZUhjTTNPSUVESlBZR0RDZ0ViWV85c25HdWVxeXJER19vaHVQaEt3?oc=5"
+    },
+    {
+      "headline": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-10-14T11:00:30.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU5EeklRRTJXTjhZRlRpaVBYWHpaOHF3b0otZXNmNmZFLVpwR2RRR0JXY0tXTWQ3YmJ3YURWazRqT2ZuTkhUcXB2ZUxidFotR2N3ZUpvT3lDQ3FjSDNoS3dqb2FZVWw2NVBLT3JEQXN2eHIxYTctRTJGU2pORHlLTFZTbjExM2wtd0d4UHdNbU5mOGpPWHVIeTlocjItZlBtLVJmMWxOa3BhMW1lRW1iSXJPRlNIaVk2VF9kbkEwdjFVRnBaZG1BVg?oc=5"
+    },
+    {
+      "headline": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-14T10:29:17.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
+    },
+    {
+      "headline": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does - Scientific American",
+      "source": "Scientific American",
+      "timestamp": "2026-10-14T10:00:00.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does &nbsp;&nbsp; Scientific American",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5"
     },
     {
       "headline": "On-Device AI Against Scams - Google DeepMind",
       "source": "Google DeepMind",
-      "timestamp": "2026-10-14T02:00:52.000Z",
+      "timestamp": "2026-10-14T04:08:45.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "On-Device AI Against Scams &nbsp;&nbsp; Google DeepMind",
@@ -42,151 +92,101 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTR4QnM0X3ZDWkFnRUtTV1hDaDZ3OFg2R1o5R3Q0a0cxY3M1Rm5NbmQweDh3OFgwNTRtX21VZzFfWmRoM182aktXdzhwUDFRckVjRG5DaURUT1pSWm56TVk3Wlp5VERaMmdGYmNERFN3c0FTZlM2Q1p4Z3RReUZTcGsxU1hOaGxEa09TWWFuRDczdmlCU2VEbw?oc=5"
     },
     {
-      "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office - BBC",
-      "source": "BBC",
-      "timestamp": "2026-10-13T21:42:49.000Z",
+      "headline": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-10-13T21:31:18.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office &nbsp;&nbsp; BBC",
+      "summary": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MjNkNW5WYWhlZE43SWlVQ1VwOERnZm9Va0szcWtwSDZGZ3RmSEZvUGdJSzg5dmpwSll1cUxOSi1zdkZDRm5Nb0ZoMzdKbFpZcnp6UGhyejhnaGM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXdjcW9mZmQwckRKN1MyRmJrSWRDc0p4b21STDBDSnFnMlMwbWtIVk9LUHRaTFlnaXdsbzdRS3hPRV9Ea3hDTi1IUU1VUjk3YUNhZWhUZjRWMXh3T2NTSkg3cWNtUjZqOTZxeVpNeFctazhFVU5leWk2OFBzLVcwanI1WEVFQ25H?oc=5"
     },
     {
-      "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-13T20:55:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53?oc=5"
-    },
-    {
-      "headline": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-10-13T18:24:34.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police &nbsp;&nbsp; NBC News",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVnaE1VYlN3bTFyQnA2bnduR0FHTWh4MFB1M29VU3NTeTFJWlYzejlickh4SUlJbXI5N0xOY3lBRWpmdWtZeHBGOG9BZTRwOFpaSnlITTBhSUp2RnZVc1YzNWlHLXpnbDg0X2trak9OSFNFWVN2YUFKR1RFWlBGbnNycUd6NEh1eHgxTTkxNUtIRUtEeXV1cE5VaUVOVjJvNTJIaXp0S0I5Y1Zqd2pWbHRwWUZfY1Z4UHc?oc=5"
-    },
-    {
-      "headline": "Developing Gemini 4 Argon responsibly and safely - blog.google",
+      "headline": "Gemini 4 Argon: Built to solve your hardest problems - blog.google",
       "source": "blog.google",
-      "timestamp": "2026-10-13T18:14:01.000Z",
+      "timestamp": "2026-10-13T16:16:01.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "Developing Gemini 4 Argon responsibly and safely &nbsp;&nbsp; blog.google",
+      "summary": "Gemini 4 Argon: Built to solve your hardest problems &nbsp;&nbsp; blog.google",
       "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2ExMndUd3p2T0tCT080TWJ2QWFjYWt4Tk14dDllRVpHOTk1SWswdDlucUh0SVBaRUN1VGJVZUdGVk5taUxkcldvTm96MWVHd1Bxek5VR0Y0OER1Yi01RjhSdkNCbEdmRTJYcF9sUUlRdnpfWUQyNDRFR21sN190dnRJS3VNOURqclNNQlFYUVJnZjlsUnhzLVp3UHU?oc=5"
-    },
-    {
-      "headline": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was - Scientific American",
-      "source": "Scientific American",
-      "timestamp": "2026-10-13T16:42:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was &nbsp;&nbsp; Scientific American",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0hpaXoyRVRKSmpocTRROV81TzVndk9UTGdGT0dHN1poVmFzMWFNd0N6QUt3N3pQdXZQX1M4NkpCNDJEalNoaHlQTVN1OXBqLWFTVE1DbDZneWtOUHhtclpmMU10UDdqcS05TGdMWWdHVmpOX09VazJLWkZXSkN4cERVMlItc1RLSGJ6a0lWU0NQeFU1RGtiYU1OSnpZRFJ6RHktUUlZUmdGTG5VcENzZQ?oc=5"
-    },
-    {
-      "headline": "Redesigning source control at Anthropic - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-10-13T16:00:43.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Redesigning source control at Anthropic &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5"
-    },
-    {
-      "headline": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-13T14:50:50.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade &nbsp;&nbsp; CNBC",
-      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI engineer charged after listening device found in meeting room - Al Jazeera",
-        "source": "Al Jazeera",
-        "timestamp": "2026-10-14T03:11:15.000Z",
+        "headline": "OpenAI engineer arrested after recording device found at San Francisco office - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-10-14T11:52:51.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGZWNWZhU1h2ekNHal9PRmQ4SHcwTE9fSVBDRjJ4SDFYSXJRMXVxWGE0bjNsaTMyYUVheHFlYTFMYUI2c1JmWFd5NGE5dUMzbWdjZnJTVmVFQUVKNE9NYzNSTG1nUEs5LVF6TGY5UExIWFU5dFYxM0FVbjg4RmhSbmVlaTl5WFZEeUdYZlJpVHB5WWdRRXZDTDduaEN3eVJNbTdNLXpwbHJ4aUU5WmJv0gG0AUFVX3lxTE1MMXl2a0NtZHJvMjhIdWkxUWdPV3puWGV5NU1rbmVtc1pqQjR5cmM1blVGc0hpWFdjT2dkWTQzd3VjbVhfamR4emtDeWxkZTJxVDBPNnRxb0x4dzgxbDg1ZHNENVlSZ2l2NGFfRmJiblFwWm9MM3MwZWxkVzFock9XNHRMcDd2cENfLXFPMzBsVVNLTWJ6a2hPVmYzMkxPSFAzRHFNM2xkajZrUy1KR0xCY1J6cA?oc=5",
-        "summary": "OpenAI engineer charged after listening device found in meeting room &nbsp;&nbsp; Al Jazeera"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DNGtWOUZxNDhRajRUakVfNjlhMkRjUlc3M0JjZFdtbkFnSExjUjFtcDlrakRMVGFfUGRXT3Y4UzBldWRvZ0stVm0zcDdRLWItQncyUmwwdFN4MFRicUNON3JYR3doWUVQb29id0VfYmdrV3ZTbzVKUV9qX2dyUQ?oc=5",
+        "summary": "OpenAI engineer arrested after recording device found at San Francisco office &nbsp;&nbsp; Fox News"
       },
       {
-        "headline": "On-Device AI Against Scams - Google DeepMind",
-        "source": "Google DeepMind",
-        "timestamp": "2026-10-14T02:00:52.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVWm4yeFpMWXAtMmRmZm5JTGVxVk1uZWJFX00ydzE4eEh4dEV1QXJXcTNwU3E0NEw0aUJCMXJrM2VqMmNKUmQtQ0IzNlhoMlhEX25wRjd5Rno2dDFXZmZuMTZWU0owYW5xZGVnRF9OUQ?oc=5",
-        "summary": "On-Device AI Against Scams &nbsp;&nbsp; Google DeepMind"
-      },
-      {
-        "headline": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-10-13T23:40:48.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTR4QnM0X3ZDWkFnRUtTV1hDaDZ3OFg2R1o5R3Q0a0cxY3M1Rm5NbmQweDh3OFgwNTRtX21VZzFfWmRoM182aktXdzhwUDFRckVjRG5DaURUT1pSWm56TVk3Wlp5VERaMmdGYmNERFN3c0FTZlM2Q1p4Z3RReUZTcGsxU1hOaGxEa09TWWFuRDczdmlCU2VEbw?oc=5",
-        "summary": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office - BBC",
-        "source": "BBC",
-        "timestamp": "2026-10-13T21:42:49.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MjNkNW5WYWhlZE43SWlVQ1VwOERnZm9Va0szcWtwSDZGZ3RmSEZvUGdJSzg5dmpwSll1cUxOSi1zdkZDRm5Nb0ZoMzdKbFpZcnp6UGhyejhnaGM?oc=5",
-        "summary": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-10-13T20:55:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53?oc=5",
-        "summary": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police - NBC News",
-        "source": "NBC News",
-        "timestamp": "2026-10-13T18:24:34.000Z",
+        "headline": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days - The Hacker News",
+        "source": "The Hacker News",
+        "timestamp": "2026-10-14T11:19:00.000Z",
         "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmY1TVNqYkRROFR2WjRqaFZuc2dLUWlkNERiSnhuZjE3UVFWVHdUUGR3dkxQOE5mZ3FXUWxzYkJPbGNiTTdsSERobFRoX2QtVjNreDJsaGhxR0pON3BHUHpjQms0VEdhaGtXdVJPSmpHUzNEdUhpUGJqM2JDTmRCSHM0b3Q?oc=5",
+        "summary": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days &nbsp;&nbsp; The Hacker News"
+      },
+      {
+        "headline": "Apple and OpenAI face off in trade secret hearing - Quartz",
+        "source": "Quartz",
+        "timestamp": "2026-10-14T11:17:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWFlVUNHN0NFNEV4bUxLMVc1aldoMEVkSFM2b0c3Q2NYSFQ3b0NicGxURHZ0Q01VZUpQV1Mzdm5rcHlnS0FxVzBzblA5VnBseWljdml4c2p4cW43ZUhjTTNPSUVESlBZR0RDZ0ViWV85c25HdWVxeXJER19vaHVQaEt3?oc=5",
+        "summary": "Apple and OpenAI face off in trade secret hearing &nbsp;&nbsp; Quartz"
+      },
+      {
+        "headline": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-10-14T11:00:30.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU5EeklRRTJXTjhZRlRpaVBYWHpaOHF3b0otZXNmNmZFLVpwR2RRR0JXY0tXTWQ3YmJ3YURWazRqT2ZuTkhUcXB2ZUxidFotR2N3ZUpvT3lDQ3FjSDNoS3dqb2FZVWw2NVBLT3JEQXN2eHIxYTctRTJGU2pORHlLTFZTbjExM2wtd0d4UHdNbU5mOGpPWHVIeTlocjItZlBtLVJmMWxOa3BhMW1lRW1iSXJPRlNIaVk2VF9kbkEwdjFVRnBaZG1BVg?oc=5",
+        "summary": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-14T10:29:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
+        "summary": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does - Scientific American",
+        "source": "Scientific American",
+        "timestamp": "2026-10-14T10:00:00.000Z",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODVnaE1VYlN3bTFyQnA2bnduR0FHTWh4MFB1M29VU3NTeTFJWlYzejlickh4SUlJbXI5N0xOY3lBRWpmdWtZeHBGOG9BZTRwOFpaSnlITTBhSUp2RnZVc1YzNWlHLXpnbDg0X2trak9OSFNFWVN2YUFKR1RFWlBGbnNycUd6NEh1eHgxTTkxNUtIRUtEeXV1cE5VaUVOVjJvNTJIaXp0S0I5Y1Zqd2pWbHRwWUZfY1Z4UHc?oc=5",
-        "summary": "Anthropic says its AI model submitted a false cold case tip to Philadelphia police &nbsp;&nbsp; NBC News"
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VvcHh4UGVpa1NTQXhBZFE5c2cxaFc5TWtLRDNkcjRUVFE2QkRUWHZacXRWcVMwLWJEOU8yTHNyWEVFQXplelU2LWpDaW5GekxQbWxNVXZSMHctdGVDQ1l5WEQ1QTI5TUZKTjhrdVhNcnFYV24zUEZfRkJsQkxtMHk4ajZ5Y3FxRzlwaVlxMVV0aUxXWDFnbVVxRzJmb1VWVTIzYkE5enZJRnhPeDJndm5YbTVUWXhodFlIdkRtSURIcGRXMGNrd1pZTUM5cE5JODFxdGZlRmc4UQ?oc=5",
+        "summary": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does &nbsp;&nbsp; Scientific American"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "OpenAI",
         "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
-        "topic": "OpenAI",
+        "topic": "Google DeepMind",
         "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
         "urgency": "LOW",
         "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
