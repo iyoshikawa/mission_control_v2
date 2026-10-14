@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-13T21:04:31.636Z",
+    "generatedAt": "2026-10-14T00:59:06.730Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-13T20:59:11.000Z",
+      "headline": "Anthropic seeks rehearing of case over Pentagon's security risk branding - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-14T00:50:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFvbzdDZncxY1I4SXdvTEFiYWt4RC1vdjhKcXkxY3NmZ3dtS1hLZ2lVUUJTNzNoa2ZBeGduYWw2dkNfSHNUTk9LSDVRRG9VQ0dyVHpTM3Q0elh1RG5nczdrSUJMWG5MYVdXNFRLaEtXdHNEbV9nMzhrNF9rcW5fRkt2aHljRmo5SEFobDZlSW5lcDNjaU5CVHdHWjJOampfTWdDYTVaZGZXakFJbjc3R1VzdVVIUC03MjRESkdCWmhwYTg?oc=5"
+      "category": "regulation",
+      "summary": "Anthropic seeks rehearing of case over Pentagon's security risk branding &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlUyMjJEVkZpNDJXTXQtc09tN1BTTFl5T2JoUjBpa29Ud0dCQUk5am9ndUxQbElNdjBSTHJMNExaaDRCa2hkdThOOE9aTGVpNmt3WEJmbU93dEIwSmlSMlNXRVBvME1rcDNKZ3lGYWpJY1VOVFVYeEItdXNDeFlMQzIyTGIzUG9ITmFtVUNBcnZhVVdMX0pfVS1wVEZfU3lqZ0ZrNHJZQ1RESVRfSHN6QjYyNkh2dVJ5elhwRkp3?oc=5"
     },
     {
-      "headline": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information",
-      "source": "The Information",
-      "timestamp": "2026-10-13T19:51:00.000Z",
+      "headline": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-10-14T00:35:15.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXdjcW9mZmQwckRKN1MyRmJrSWRDc0p4b21STDBDSnFnMlMwbWtIVk9LUHRaTFlnaXdsbzdRS3hPRV9Ea3hDTi1IUU1VUjk3YUNhZWhUZjRWMXh3T2NTSkg3cWNtUjZqOTZxeVpNeFctazhFVU5leWk2OFBzLVcwanI1WEVFQ25H?oc=5"
+    },
+    {
+      "headline": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-13T23:29:36.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5"
+    },
+    {
+      "headline": "Anthropic warns AI models could soon replicate across home devices, become difficult to shut down - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-10-13T22:47:15.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model &nbsp;&nbsp; The Information",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDFqZGhJOXVPdUJITWJ3TGVlQkdrdG0zaVlyczBQZEFUcW5RdDlmTktHajR1bEl2eC0zLW14LUlEU0NLNjYzRlYyWGpkb2k0M1RKUEc2Yno2ZVIxYUMzTU5iYm12RldMM25mTFZCNW5BdjRlMGxPb3JYR2F3T1pwaVdPN2wxaWFBMG5yNHJXTnBzSnB5dmZXWEE0ZHVxWlhoWENURlV3?oc=5"
+      "summary": "Anthropic warns AI models could soon replicate across home devices, become difficult to shut down &nbsp;&nbsp; Fox News Anthropic warns AI models could soon copy themselves across home devices &nbsp;&nbsp; CNBC AI researcher unpacks Anthropic's self-replication warning &nbsp;&nbsp; CBS News",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFB3aGVWQmlzcGNwdGVNZVhfZG1OOFlBQmVOaHpTS3E2XzJzclFnV3hXdTQ4UE5CQlQxZ2RiMjVWTDZaLVlrdU1QVkV5VzdVSjNEeFBBM3hNS2FTekVjTFBHS0tLWUJ1UGlWTFdMcGtjemhJNmZLb1kzaEJHbDNVbGp1ZTJJNms?oc=5"
+    },
+    {
+      "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office - BBC",
+      "source": "BBC",
+      "timestamp": "2026-10-13T21:42:49.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MjNkNW5WYWhlZE43SWlVQ1VwOERnZm9Va0szcWtwSDZGZ3RmSEZvUGdJSzg5dmpwSll1cUxOSi1zdkZDRm5Nb0ZoMzdKbFpZcnp6UGhyejhnaGM?oc=5"
     },
     {
       "headline": "Blind veterans run Army Ten-Miler with help from AI glasses - Axios",
@@ -42,6 +72,16 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2RXSThlTlNhY3A1ZXdIV1hHRXhUVU1SZVF1cV83b1ZudDZxT09wYjM2RDZtSkdvRFM5S3B1LUhtNVZRa2hoX2pWN2JLTGU4R0JXdndNTG9uQXp2dkxUN3c5M0VzczNTeUxZdTBKdWdGbm43bk1CdnNpMnluQ3pad1g2WFNhTHBnX1VTZTRhWlUzMWxYM2t1bDdjWGtNSFdtQ0hn?oc=5"
     },
     {
+      "headline": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was - Scientific American",
+      "source": "Scientific American",
+      "timestamp": "2026-10-13T16:42:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was &nbsp;&nbsp; Scientific American",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0hpaXoyRVRKSmpocTRROV81TzVndk9UTGdGT0dHN1poVmFzMWFNd0N6QUt3N3pQdXZQX1M4NkpCNDJEalNoaHlQTVN1OXBqLWFTVE1DbDZneWtOUHhtclpmMU10UDdqcS05TGdMWWdHVmpOX09VazJLWkZXSkN4cERVMlItc1RLSGJ6a0lWU0NQeFU1RGtiYU1OSnpZRFJ6RHktUUlZUmdGTG5VcENzZQ?oc=5"
+    },
+    {
       "headline": "Gemini 4 Argon: Built to solve your hardest problems - blog.google",
       "source": "blog.google",
       "timestamp": "2026-10-13T16:16:01.000Z",
@@ -52,85 +92,72 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5"
     },
     {
-      "headline": "Redesigning source control at Anthropic - Anthropic",
+      "headline": "Redesigning source control at Anthropic \\ Anthropic - Anthropic",
       "source": "Anthropic",
       "timestamp": "2026-10-13T16:00:43.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Redesigning source control at Anthropic &nbsp;&nbsp; Anthropic",
+      "summary": "Redesigning source control at Anthropic \\ Anthropic &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5"
     },
     {
-      "headline": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks - The Register",
-      "source": "The Register",
-      "timestamp": "2026-10-13T13:30:00.000Z",
+      "headline": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-10-13T14:50:50.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks &nbsp;&nbsp; The Register",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb01VY2FSTlM0X2ZOQ2d1aEJMcG9CaFBVcVNSY0ZqN21odVpqTjhiaXZmNlkyU1FJb25fTlFDVzF1N2VDbEM3Sk8ySW1YV3VIQ0hXSzdRSE1JblpjQ1VqZllzX1F0VVFLLUNMOV9aSWtobkg1V3pZRVVoTWNjaXBzQWFIdC1HbWpRUmdjYWNwc085eFhsZzR1QXRGbE9uS2hHd0hIbnlqcG9GNGdJcDhxeUNpVmNsd3dDblhGbV9kSUJJcHl1MVZwYjBjMHJCMkRkdGpj?oc=5"
-    },
-    {
-      "headline": "Privacy campaigners to ask court to ban sale of Meta AI glasses - DutchNews.nl",
-      "source": "DutchNews.nl",
-      "timestamp": "2026-10-13T11:45:06.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Privacy campaigners to ask court to ban sale of Meta AI glasses &nbsp;&nbsp; DutchNews.nl",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVEpsaFdyckZnZ0V4Q2pRZlJnOGhyVENOMnBtVmhvaEJOM0s5VG8teC1wTHRuSk9RREUzMldxUnFDUWxUbl8zbV92VURfNnlxZm5Xa09YQlVRSXRndi03MGR5TFN2OWVJRDNpQ3lTZWFMNFZtellfSUdGSnZweFlHT0tWTDBfdmhWak5YTi1pTktwaFNULXdlZDhIbFhrZw?oc=5"
-    },
-    {
-      "headline": "AI models may soon self-replicate across smart-home devices, Anthropic warns - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-13T05:14:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "AI models may soon self-replicate across smart-home devices, Anthropic warns &nbsp;&nbsp; Reuters Anthropic warns AI models could soon copy themselves across home devices &nbsp;&nbsp; CNBC Anthropic warns AI models could soon replicate across home devices, become difficult to shut down &nbsp;&nbsp; Fox News",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5"
-    },
-    {
-      "headline": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul - The Information",
-      "source": "The Information",
-      "timestamp": "2026-10-13T00:59:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul &nbsp;&nbsp; The Information",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5"
-    },
-    {
-      "headline": "Anthropic AI model made false tip in unsolved Philly murder: Officials - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "timestamp": "2026-10-12T20:44:34.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic AI model made false tip in unsolved Philly murder: Officials &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnlyRGc0MjctaER4YUVmRHFzZ2ZQRnc5N2JBVFNhNlBnNVprLTFtRmNlaUgwZndhME1CZE1FR3dxaDctNXRaWkd1VmlFbUE1ZVZmWVZvY1BMbndpaDJXSmxLTFA0SFM4aFhRbHNBZnVxSVdPU3M4Um5ZeU9iZ1M5UjlZSHhrdXZEREQ1di1Qb3FEOFBqWlHSAZsBQVVfeXFMT21OMTJzRWlHUXVRMTdZQlZwcU9ZVm5nejdYazVzV3pCUzNEMS1XNVBVZ1ZkaEhwTHdGYXZodEltZDVnY1RvcEtlUW1rTS1iSmdNc3pvV0dpZkRqQmw1RmtFQ3BFam93RmoxYjVvaU90cnFTOF9RYmFOQUwyb0tlcWYtbnlQRTRiMGp1OHNyNDVHM3Jtd09URjc5NlE?oc=5"
+      "category": "market",
+      "summary": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZWR3Z9IBd0FVX3lxTE9UQjBLY1Jza0hRNlRoYXdYYmN6QU9jT01YUlUwTllZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-10-13T20:59:11.000Z",
+        "headline": "Anthropic seeks rehearing of case over Pentagon's security risk branding - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-14T00:50:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFvbzdDZncxY1I4SXdvTEFiYWt4RC1vdjhKcXkxY3NmZ3dtS1hLZ2lVUUJTNzNoa2ZBeGduYWw2dkNfSHNUTk9LSDVRRG9VQ0dyVHpTM3Q0elh1RG5nczdrSUJMWG5MYVdXNFRLaEtXdHNEbV9nMzhrNF9rcW5fRkt2aHljRmo5SEFobDZlSW5lcDNjaU5CVHdHWjJOampfTWdDYTVaZGZXakFJbjc3R1VzdVVIUC03MjRESkdCWmhwYTg?oc=5",
-        "summary": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room &nbsp;&nbsp; TechCrunch"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlUyMjJEVkZpNDJXTXQtc09tN1BTTFl5T2JoUjBpa29Ud0dCQUk5am9ndUxQbElNdjBSTHJMNExaaDRCa2hkdThOOE9aTGVpNmt3WEJmbU93dEIwSmlSMlNXRVBvME1rcDNKZ3lGYWpJY1VOVFVYeEItdXNDeFlMQzIyTGIzUG9ITmFtVUNBcnZhVVdMX0pfVS1wVEZfU3lqZ0ZrNHJZQ1RESVRfSHN6QjYyNkh2dVJ5elhwRkp3?oc=5",
+        "summary": "Anthropic seeks rehearing of case over Pentagon's security risk branding &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model - The Information",
-        "source": "The Information",
-        "timestamp": "2026-10-13T19:51:00.000Z",
+        "headline": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-10-14T00:35:15.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXdjcW9mZmQwckRKN1MyRmJrSWRDc0p4b21STDBDSnFnMlMwbWtIVk9LUHRaTFlnaXdsbzdRS3hPRV9Ea3hDTi1IUU1VUjk3YUNhZWhUZjRWMXh3T2NTSkg3cWNtUjZqOTZxeVpNeFctazhFVU5leWk2OFBzLVcwanI1WEVFQ25H?oc=5",
+        "summary": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-13T23:29:36.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+        "summary": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Anthropic warns AI models could soon replicate across home devices, become difficult to shut down - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-10-13T22:47:15.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDFqZGhJOXVPdUJITWJ3TGVlQkdrdG0zaVlyczBQZEFUcW5RdDlmTktHajR1bEl2eC0zLW14LUlEU0NLNjYzRlYyWGpkb2k0M1RKUEc2Yno2ZVIxYUMzTU5iYm12RldMM25mTFZCNW5BdjRlMGxPb3JYR2F3T1pwaVdPN2wxaWFBMG5yNHJXTnBzSnB5dmZXWEE0ZHVxWlhoWENURlV3?oc=5",
-        "summary": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model &nbsp;&nbsp; The Information"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFB3aGVWQmlzcGNwdGVNZVhfZG1OOFlBQmVOaHpTS3E2XzJzclFnV3hXdTQ4UE5CQlQxZ2RiMjVWTDZaLVlrdU1QVkV5VzdVSjNEeFBBM3hNS2FTekVjTFBHS0tLWUJ1UGlWTFdMcGtjemhJNmZLb1kzaEJHbDNVbGp1ZTJJNms?oc=5",
+        "summary": "Anthropic warns AI models could soon replicate across home devices, become difficult to shut down &nbsp;&nbsp; Fox News Anthropic warns AI models could soon copy themselves across home devices &nbsp;&nbsp; CNBC AI researcher unpacks Anthropic's self-replication warning &nbsp;&nbsp; CBS News"
+      },
+      {
+        "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office - BBC",
+        "source": "BBC",
+        "timestamp": "2026-10-13T21:42:49.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MjNkNW5WYWhlZE43SWlVQ1VwOERnZm9Va0szcWtwSDZGZ3RmSEZvUGdJSzg5dmpwSll1cUxOSi1zdkZDRm5Nb0ZoMzdKbFpZcnp6UGhyejhnaGM?oc=5",
+        "summary": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Blind veterans run Army Ten-Miler with help from AI glasses - Axios",
@@ -140,53 +167,26 @@
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2RXSThlTlNhY3A1ZXdIV1hHRXhUVU1SZVF1cV83b1ZudDZxT09wYjM2RDZtSkdvRFM5S3B1LUhtNVZRa2hoX2pWN2JLTGU4R0JXdndNTG9uQXp2dkxUN3c5M0VzczNTeUxZdTBKdWdGbm43bk1CdnNpMnluQ3pad1g2WFNhTHBnX1VTZTRhWlUzMWxYM2t1bDdjWGtNSFdtQ0hn?oc=5",
         "summary": "Blind veterans run Army Ten-Miler with help from AI glasses &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Gemini 4 Argon: Built to solve your hardest problems - blog.google",
-        "source": "blog.google",
-        "timestamp": "2026-10-13T16:16:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlfSFAtZ3F0bFlnbTVkTUJHb2ZMa2ZLR2Q0Zm4wUi1yd0dPNjk0Z1dxalhMZ0x3WFpmNGF0bnA5SGpnalRXSFZEcjc0M2VsNjlHOFZtU1dVVUlrUGpNN24zLW02V0U0NFk5Z3dwbDZFcE1kS0ZSaFNxOHVHUWdTWURZSWIyUENmbXdjeTRwOGQ3SkhOSHMxaHlBMVpEbWw2?oc=5",
-        "summary": "Gemini 4 Argon: Built to solve your hardest problems &nbsp;&nbsp; blog.google"
-      },
-      {
-        "headline": "Redesigning source control at Anthropic - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-10-13T16:00:43.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYlpJeHk2enVYSG9CYl8wRndZeW1XOUpvWHA2NXVHREZBV2JoSFhmTW0tLU1MWDNrWlZVNU9yMDZCbVd5YUZyNFJDaXVxbFo4V1hURTAySlBUVmowR3BVMzJxbmNLdDMtSW5KV3U0NlBqdw?oc=5",
-        "summary": "Redesigning source control at Anthropic &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks - The Register",
-        "source": "The Register",
-        "timestamp": "2026-10-13T13:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb01VY2FSTlM0X2ZOQ2d1aEJMcG9CaFBVcVNSY0ZqN21odVpqTjhiaXZmNlkyU1FJb25fTlFDVzF1N2VDbEM3Sk8ySW1YV3VIQ0hXSzdRSE1JblpjQ1VqZllzX1F0VVFLLUNMOV9aSWtobkg1V3pZRVVoTWNjaXBzQWFIdC1HbWpRUmdjYWNwc085eFhsZzR1QXRGbE9uS2hHd0hIbnlqcG9GNGdJcDhxeUNpVmNsd3dDblhGbV9kSUJJcHl1MVZwYjBjMHJCMkRkdGpj?oc=5",
-        "summary": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks &nbsp;&nbsp; The Register"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
-      },
-      {
-        "topic": "Google DeepMind",
         "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
         "urgency": "LOW",
         "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+      },
+      {
+        "topic": "Google DeepMind",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Microsoft Azure AI",
