@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-15T11:06:37.505Z",
+    "generatedAt": "2026-10-15T16:37:29.697Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance",
+      "headline": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-10-15T15:43:24.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXdUNGl0SU9fM0RQWDJ1N1JWMi1vc0VCUFE1UkZQNG1pTVgxcTRfWkZyZHlXalJKcGotNzl1VjFvaWVhZnItMjM3c2xCRnRWWlBLX0dNRDQ5Um9xYmRrZ0RWX0p5V0FEM3BpZE16QjJFQU9kZ3BaVDBHU195UGU2Y05rZDJtazNmZGFzZWFUSVpWbmMtWUNuTl8zU2RGWnNhZ0c2bC1jRDY0RGZrTGxHUmVnTmZQUnotUG82ZWttZk4?oc=5"
+    },
+    {
+      "headline": "TIME has named Google SynthID one of the Best Inventions of 2026. - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-10-15T13:30:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "TIME has named Google SynthID one of the Best Inventions of 2026. &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenZjSnVqNmUxaGxqYXZEcUZDU2lUd3IzTmp3X1Q0aEM5SmI1ZEpkSk5vNTljeHJsa2xyVUpfSUxUS2lOTnRrRE16YmpnZE5hZ3pVUXZhbDUwNV9NREpEc2RsaVMzVkFZMl9aR0thLW9xeFVra3JxdkUzcWpZUmpfSGVwRFhJeklxbVdHZUk2UEh2VHBmVTF3cUphOXVldTBMOUdiMVVB?oc=5"
+    },
+    {
+      "headline": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-10-15T13:15:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents &nbsp;&nbsp; CBS News",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkhjUENoTlFhVkZ5NmN4TXRnb19CM0xaa0lkNlU3TjNtdjhuZ1Rnak1zTUhGLWtPSlJNdWVLU3BwNmd3WUFxbmdWT2NnbTdBcU5pZVpOTTdOclFMRzByMlg1RzRQWlFYR1VsLVU2THVPc3hUWFIwc3RpVW5xVjdsOTVBdnhwWW8?oc=5"
+    },
+    {
+      "headline": "Cloudflare and OpenAI: making AI discovery better for everyone - Cloudflare Blog",
+      "source": "Cloudflare Blog",
+      "timestamp": "2026-10-15T13:10:17.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Cloudflare and OpenAI: making AI discovery better for everyone &nbsp;&nbsp; Cloudflare Blog",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQ0pfZTQwbEVHV2gxNW4waER0SGMtd0lYVEZOaWJPR0lIdlVmeWlzbkhqci15X0RsRWFCdFljSW8ybS1zbkRRYkczaTB4RXJOZkU5RUFMYVNnZzJvSDRBaExUVlNVNnRabUFlaGk2UEtJNWRXTktZ?oc=5"
+    },
+    {
+      "headline": "What Wall Street may be forgetting about Meta's AI business - Yahoo Finance",
       "source": "Yahoo Finance",
+      "timestamp": "2026-10-15T12:34:22.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What Wall Street may be forgetting about Meta's AI business &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5"
+    },
+    {
+      "headline": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis - BBC",
+      "source": "BBC",
       "timestamp": "2026-10-15T10:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta has an AI advantage OpenAI and Anthropic can't replicate &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5"
-    },
-    {
-      "headline": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-10-15T09:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room &nbsp;&nbsp; WSJ",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTEV4TDV6NkRVWWpJUWJFUDNpZ1BSLVBHMEJlN21CeURGcUhxcUlrc2hGR3RUdzJ6bTA4b1NyVDVBYml2T0NhNUd4elRxeEJ4ckFzY3pHeVdOU3VwcDBIUTRzeHYwQVFJTS1EVURnNlBfNlZhZXJvWUdmT3lEMzhFRldibXE0WTFCVEZkc3ctTi1aTkZlZk95V1VOaW45QW9VR2c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg?oc=5"
     },
     {
       "headline": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
       "source": "Axios",
-      "timestamp": "2026-10-15T09:01:58.000Z",
+      "timestamp": "2026-10-15T09:33:34.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
       "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents &nbsp;&nbsp; Axios",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5"
-    },
-    {
-      "headline": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-14T22:27:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction &nbsp;&nbsp; Reuters Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter &nbsp;&nbsp; The New York Times Sandisk, AMD Stocks Drop as Anthropic Adds to AI Misery &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5"
-    },
-    {
-      "headline": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-10-14T20:26:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5"
     },
     {
       "headline": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil - Folha de S.Paulo",
@@ -82,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5"
     },
     {
-      "headline": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-14T17:30:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Mark Zuckerberg Defends Meta's AI CapEx, Ready to 'Write This Check' for up to '$200 Billion' to Dominate 'Decades to Come' &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlllSFdjUGN6MXplZWlreE1xek9XZmx0OVdGVFZzbDRsRXFjR0hfYkEzYXpZdTF5bVNEbzRRVGVzc1p1dUZFX3BzT25aLVRyenM3X1Nqel9CX3pZZ2lCYnI2ZDB6UVpfdnhPejNCWFdyWU1LcXh4NUFnNS1uclh3enpXdm05T0ZQWHRHbVNCVWFQbkpFRkJ1ODJ3VEE?oc=5"
-    },
-    {
       "headline": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' - Reuters",
       "source": "Reuters",
       "timestamp": "2026-10-14T15:48:25.000Z",
@@ -100,85 +110,75 @@
       "summary": "Google Deepmind's Hassabis calls AI hacks 'early warning shots' &nbsp;&nbsp; Reuters",
       "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
-    },
-    {
-      "headline": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
-      "source": "Ars Technica",
-      "timestamp": "2026-10-14T11:00:30.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say &nbsp;&nbsp; Ars Technica",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU5EeklRRTJXTjhZRlRpaVBYWHpaOHF3b0otZXNmNmZFLVpwR2RRR0JXY0tXTWQ3YmJ3YURWazRqT2ZuTkhUcXB2ZUxidFotR2N3ZUpvT3lDQ3FjSDNoS3dqb2FZVWw2NVBLT3JEQXN2eHIxYTctRTJGU2pORHlLTFZTbjExM2wtd0d4UHdNbU5mOGpPWHVIeTlocjItZlBtLVJmMWxOa3BhMW1lRW1iSXJPRlNIaVk2VF9kbkEwdjFVRnBaZG1BVg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta has an AI advantage OpenAI and Anthropic can't replicate - Yahoo Finance",
+        "headline": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-10-15T15:43:24.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXdUNGl0SU9fM0RQWDJ1N1JWMi1vc0VCUFE1UkZQNG1pTVgxcTRfWkZyZHlXalJKcGotNzl1VjFvaWVhZnItMjM3c2xCRnRWWlBLX0dNRDQ5Um9xYmRrZ0RWX0p5V0FEM3BpZE16QjJFQU9kZ3BaVDBHU195UGU2Y05rZDJtazNmZGFzZWFUSVpWbmMtWUNuTl8zU2RGWnNhZ0c2bC1jRDY0RGZrTGxHUmVnTmZQUnotUG82ZWttZk4?oc=5",
+        "summary": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says &nbsp;&nbsp; Ars Technica"
+      },
+      {
+        "headline": "TIME has named Google SynthID one of the Best Inventions of 2026. - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-10-15T13:30:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenZjSnVqNmUxaGxqYXZEcUZDU2lUd3IzTmp3X1Q0aEM5SmI1ZEpkSk5vNTljeHJsa2xyVUpfSUxUS2lOTnRrRE16YmpnZE5hZ3pVUXZhbDUwNV9NREpEc2RsaVMzVkFZMl9aR0thLW9xeFVra3JxdkUzcWpZUmpfSGVwRFhJeklxbVdHZUk2UEh2VHBmVTF3cUphOXVldTBMOUdiMVVB?oc=5",
+        "summary": "TIME has named Google SynthID one of the Best Inventions of 2026. &nbsp;&nbsp; blog.google"
+      },
+      {
+        "headline": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-10-15T13:15:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkhjUENoTlFhVkZ5NmN4TXRnb19CM0xaa0lkNlU3TjNtdjhuZ1Rnak1zTUhGLWtPSlJNdWVLU3BwNmd3WUFxbmdWT2NnbTdBcU5pZVpOTTdOclFMRzByMlg1RzRQWlFYR1VsLVU2THVPc3hUWFIwc3RpVW5xVjdsOTVBdnhwWW8?oc=5",
+        "summary": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents &nbsp;&nbsp; CBS News"
+      },
+      {
+        "headline": "Cloudflare and OpenAI: making AI discovery better for everyone - Cloudflare Blog",
+        "source": "Cloudflare Blog",
+        "timestamp": "2026-10-15T13:10:17.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQ0pfZTQwbEVHV2gxNW4waER0SGMtd0lYVEZOaWJPR0lIdlVmeWlzbkhqci15X0RsRWFCdFljSW8ybS1zbkRRYkczaTB4RXJOZkU5RUFMYVNnZzJvSDRBaExUVlNVNnRabUFlaGk2UEtJNWRXTktZ?oc=5",
+        "summary": "Cloudflare and OpenAI: making AI discovery better for everyone &nbsp;&nbsp; Cloudflare Blog"
+      },
+      {
+        "headline": "What Wall Street may be forgetting about Meta's AI business - Yahoo Finance",
         "source": "Yahoo Finance",
+        "timestamp": "2026-10-15T12:34:22.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5",
+        "summary": "What Wall Street may be forgetting about Meta's AI business &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis - BBC",
+        "source": "BBC",
         "timestamp": "2026-10-15T10:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkh1U3hwN0V0OWc2SWp1S1Zpa204RldpMm1qUUJ6cGRMT3BuOHhWbGtNbGJla3B6RXZFb3dSZkN4NTE0NTJOYmNoLTVLVnV4RS14Zkx2ZTFUbXR1ckpfQUNDM1gyVmJESTc3ZHd4YnVoNjNpYmtrUWNBYTZEU3JwV0JfQWc1SkM4M1ZMbzBlUDVyQU5PbjVSTndGdHlzOEFTNkctekxTSXlSSG5qNlc4WDR1UmFZNjdCMUg3Zg?oc=5",
-        "summary": "Meta has an AI advantage OpenAI and Anthropic can't replicate &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-10-15T09:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTEV4TDV6NkRVWWpJUWJFUDNpZ1BSLVBHMEJlN21CeURGcUhxcUlrc2hGR3RUdzJ6bTA4b1NyVDVBYml2T0NhNUd4elRxeEJ4ckFzY3pHeVdOU3VwcDBIUTRzeHYwQVFJTS1EVURnNlBfNlZhZXJvWUdmT3lEMzhFRldibXE0WTFCVEZkc3ctTi1aTkZlZk95V1VOaW45QW9VR2c?oc=5",
-        "summary": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
-        "source": "Axios",
-        "timestamp": "2026-10-15T09:01:58.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
-        "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-10-14T22:27:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ?oc=5",
-        "summary": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction &nbsp;&nbsp; Reuters Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter &nbsp;&nbsp; The New York Times Sandisk, AMD Stocks Drop as Anthropic Adds to AI Misery &nbsp;&nbsp; Barron's"
-      },
-      {
-        "headline": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-10-14T20:26:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5",
-        "summary": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil - Folha de S.Paulo",
-        "source": "Folha de S.Paulo",
-        "timestamp": "2026-10-14T19:35:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmpjSGIwSE9MZ0VlV3FrdldNdy1QbnQ1NHpYMmVkbTJvUmFmeURGWEh1WGhnZlRxNXNKMFFZUENmTkhDMGVFMWtCbFQ4TnY4Qnc5d1Bvb1Z1QnlSVkg2LTdoVzk5aVNCU2ZvLWRhOC1TQVRPdkhfYVRLcHVvWVdMVUdQRjNrTW5zWnNQU3V0WmtfcThxY2tuWHVtdk1fV3p6NmdVUmNCejZybGxCeXNOcU9ULVBKbGptM3JQZTRBMU9pNms3UmZzWkxPeGt6RHU4S2VKbkt0RjJoQjFBcXV3?oc=5",
-        "summary": "Meta AI Creates Campaign Material for Flávio Bolsonaro and Blocks Lula Content - 14/10/2026 - Brazil &nbsp;&nbsp; Folha de S.Paulo"
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkFXVVJyYUU2Ry1qN2hheWdRRlRGb2pCZWY2VGdJRWVWTF9Md3dBbzN2dFROTnFFTFNLcHFRYU4zR0dpclduLUlYdHhJVnZMakZQQXZUQVlNTTVDV0lLU3BEdzFGd2hYQkdrWTQxdmpmRXNwVldSTTVfTzVEdjEzXy1PRVFLLTRaaW5LQg?oc=5",
+        "summary": "Anthropic wants to protect its AI - from you. Welcome to the consciousness crisis &nbsp;&nbsp; BBC"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
