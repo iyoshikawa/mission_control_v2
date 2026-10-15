@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-15T20:12:40.467Z",
+    "generatedAt": "2026-10-15T23:35:17.355Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "New lawsuits: OpenAI's 'insatiable hunger to win AI race' led to people getting hurt - KOMO",
-      "source": "KOMO",
-      "timestamp": "2026-10-15T20:10:47.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "New lawsuits: OpenAI's 'insatiable hunger to win AI race' led to people getting hurt &nbsp;&nbsp; KOMO",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQnJ1R1FWWm5uSnY2SVpSSzhHRk1yY3QwcFk4b1ZjdjY0UTBCWTdJVzBCc0tBT0prRlJEd3lKT3BoNG5TYVRtaVhQblJrRE8zUlNEcFFHNGcxQmVKT05Nd1lsWXY1ZWYtMm9EUk52Y2ZxOF9JS2U0X3ZuZXRESm9tcmRITUhnNmpSejRiMlE4QXZ0OVpXUE05MnJ0dzRWa3EyaFZKOFlRY054MDl0Q1lSbnc5NjFheHdnc1pZZG1hZks5Sk5mbTFTTWZzUzJZTU01S1VCRkZ6NTltX3JhREN3U3dnaHR1NFBya2VIdW9jbXpzSmVZSzg5OWZ5SWVDaWVTZENWMzlBUGFMaHM?oc=5"
-    },
-    {
-      "headline": "Anthropic is letting METR researchers look under the hood with employee-level access - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-15T19:14:26.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "Anthropic is letting METR researchers look under the hood with employee-level access &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkZQVi13WFJwaVFpR281aW9QVHU3R1pTekEwZXpQWnFFUW9DVUFmdDM1MjlBS2tieUFUdndJU0FDal9MT2dUemZOdDh6RVBpRkFXemdjUWNSVzlsNFlqNDhzTmhyRlRudWV4NlQtMlA3elEzbGRLS0doRlo2RDJxcXltbkJ6Z05kVXdLaDM2NG9FcUlKNUtyRnVzVlliRmwzTUROMHBfUlRrYm9EQ2ZFMnFuWUNiRURfRTJz?oc=5"
-    },
-    {
-      "headline": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-10-15T19:12:29.000Z",
+      "headline": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-10-15T23:31:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5"
+      "summary": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5"
+    },
+    {
+      "headline": "OpenAI vows not to use trade secrets allegedly taken from Apple - The Seattle Times",
+      "source": "The Seattle Times",
+      "timestamp": "2026-10-15T22:01:33.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI vows not to use trade secrets allegedly taken from Apple &nbsp;&nbsp; The Seattle Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3I0N2d1eFB0YXRFLXZ5MlZkcWxXLXp3V05UTlJQYzEtaXJJU3hDd2NfMGNyMnJiQ3RBQkJBY0dKejVxQloxRU9mZlB4OVloa2xTNkNaR1JmU1lRUkF2bmtjZV94dW5ZLXhIMGNNWlBQbmhGemt5eDRuZ0NOLXBzMWg2czYwaDFiWlZHWWlMblE0eS14Xy12WHYzY3lBMFAta1FLQg?oc=5"
+    },
+    {
+      "headline": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-15T21:48:03.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say &nbsp;&nbsp; Reuters Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter &nbsp;&nbsp; The New York Times Sandisk, AMD Stocks Fall as Anthropic Adds to AI Concerns &nbsp;&nbsp; Barron's",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
+    },
+    {
+      "headline": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-10-15T20:35:21.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTIyNURFZndfMmRpN0liM2l3eE9Rb3pncXlkaGRDUExCemNqQldWUmlLcVhEWHhwYXlOVHFxSlpuLWVUXzV0eHoxcjdsVXAxVTJ0X3FFVGFscldqY0lnbVVxNlhxWWZ4QUZNUmYyc1dSWHpHSl9XdXNaMEVONm5SVXd5ODM2VFFEa2fSAY8BQVVfeXFMUGdJcmpnY21LbUlicTI5OEZXSzB2UE1SclB6TDZWRDdNd0luMEpaY1o3a3podTZLQ3hFZUVpSUpKaEtqWlNETUhZYXUyLWFqdTJhSGoyVXF3ejFCNldkMHJnYjJCbmRFLVlKeGo3OFFOQUNSUDRJRzNfaVlSb3p4NGl4eWE3TFNFR0tUNHNxa0k?oc=5"
+    },
+    {
+      "headline": "Anthropic grants outside evaluator METR employee-level access in AI safety push - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-15T19:51:22.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5"
     },
     {
       "headline": "An update on independent evaluators - Anthropic",
@@ -57,19 +77,9 @@
       "timestamp": "2026-10-15T17:00:00.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs &nbsp;&nbsp; WSJ Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents &nbsp;&nbsp; Facebook Meta and Apple team up to make Muse AI models run better on Macs &nbsp;&nbsp; The Verge Apple and Meta team up to make Muse AI model run on Mac computers &nbsp;&nbsp; CNBC \"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs &nbsp;&nbsp; Axios Mark Zuckerberg says Meta has reached AI ‘frontier’ &nbsp;&nbsp; Financial Times Why Meta's AI bet could be mispriced &nbsp;&nbsp; Yahoo Finance Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect (NASDAQ:META) &nbsp;&nbsp; Seeking Alpha Meta Unveils New Series of Advanced A.I. Models &nbsp;&nbsp; The New York Times",
+      "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs &nbsp;&nbsp; WSJ Meta debuts Muse Wonder AI model in latest test of users' willingness to pay &nbsp;&nbsp; CNBC \"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs &nbsp;&nbsp; Axios",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5"
-    },
-    {
-      "headline": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date - Meta AI",
-      "source": "Meta AI",
-      "timestamp": "2026-10-15T16:56:06.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date &nbsp;&nbsp; Meta AI",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxQTR0N0dqcHl2SFlORVRDWlZ2MFg3c1l3czJ5ZF9pQVJMd1FFcTBzTjdfQ00ydURKSVpESEloR2hhVzNJTkIyNU9XalpybnFmdWlJYjhHV0k?oc=5"
     },
     {
       "headline": "Cloudflare and OpenAI: Making AI discovery better for everyone - Cloudflare Blog",
@@ -92,54 +102,62 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkVjRkdRdVp2TUFaMmczY2dJaC00d1lUcnpZQ1RFN29hS0V5NHhmaGRGOGhZeDhocjFNM0FjeXMzb0JVV01HcGM1QUt3RDV1NGdpZGRSNllVWENhdUE4NG14UUV2NEdVa0tjWV9YeDFBR1JCUlJlbktFbzVUSHpPSkFpYkkyVWo2WUxJdnJicWRuMHBZTGdVQzFjVElVZGpNbk1GRkg2SGVETXBhUVJrLWs1aUJKTkVjdWJmdVpEWQ?oc=5"
     },
     {
-      "headline": "Robots are coming to Watertown as Google announces a new 35,000 square foot lab - The Boston Globe",
+      "headline": "Robots are coming to Watertown as Google announces a new 35,000-square-foot lab - The Boston Globe",
       "source": "The Boston Globe",
       "timestamp": "2026-10-15T10:51:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Robots are coming to Watertown as Google announces a new 35,000 square foot lab &nbsp;&nbsp; The Boston Globe",
+      "summary": "Robots are coming to Watertown as Google announces a new 35,000-square-foot lab &nbsp;&nbsp; The Boston Globe",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDI4aWpsS2Z2YzZONVhNdVYxd01PakNLYXRvb2txUTB0eTM0Q1pkUGNkYWtSaUFaU0ppdUtReUtzTGkwUTc3NjVRSVA5SVpWaGMxblRjRmpoVUxPS2tEY0RtSVZ3UVFIV1FtVXdFZDRETkdNSk0yd1JBT3VoMmdtbTNjOVRkSURrNy1pRUVmOVA?oc=5"
-    },
-    {
-      "headline": "Eight states sue OpenAI over ChatGPT’s alleged harms to users - NBC News",
-      "source": "NBC News",
-      "timestamp": "2026-10-14T23:18:31.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Eight states sue OpenAI over ChatGPT’s alleged harms to users &nbsp;&nbsp; NBC News",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGNQSVdYV0tjSzZsZDN3ellzU0lzUGMtMUxlZk5PUnhKZE5hcTVrTWlFTU9POUlfVm1zSzc1S0s2amdFR3dmUHE1Z2JraHE0RDduQ3A4ZFM0bmVaZEJxQnNyMWpMZ1gtVklYX2VFMmhiZXdVVWwtVVBHX1V6N2xrZmwwZl81dDFiZGI5ZE9yeUUtTlRuaU5IUEZiMA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "New lawsuits: OpenAI's 'insatiable hunger to win AI race' led to people getting hurt - KOMO",
-        "source": "KOMO",
-        "timestamp": "2026-10-15T20:10:47.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQnJ1R1FWWm5uSnY2SVpSSzhHRk1yY3QwcFk4b1ZjdjY0UTBCWTdJVzBCc0tBT0prRlJEd3lKT3BoNG5TYVRtaVhQblJrRE8zUlNEcFFHNGcxQmVKT05Nd1lsWXY1ZWYtMm9EUk52Y2ZxOF9JS2U0X3ZuZXRESm9tcmRITUhnNmpSejRiMlE4QXZ0OVpXUE05MnJ0dzRWa3EyaFZKOFlRY054MDl0Q1lSbnc5NjFheHdnc1pZZG1hZks5Sk5mbTFTTWZzUzJZTU01S1VCRkZ6NTltX3JhREN3U3dnaHR1NFBya2VIdW9jbXpzSmVZSzg5OWZ5SWVDaWVTZENWMzlBUGFMaHM?oc=5",
-        "summary": "New lawsuits: OpenAI's 'insatiable hunger to win AI race' led to people getting hurt &nbsp;&nbsp; KOMO"
-      },
-      {
-        "headline": "Anthropic is letting METR researchers look under the hood with employee-level access - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-10-15T19:14:26.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkZQVi13WFJwaVFpR281aW9QVHU3R1pTekEwZXpQWnFFUW9DVUFmdDM1MjlBS2tieUFUdndJU0FDal9MT2dUemZOdDh6RVBpRkFXemdjUWNSVzlsNFlqNDhzTmhyRlRudWV4NlQtMlA3elEzbGRLS0doRlo2RDJxcXltbkJ6Z05kVXdLaDM2NG9FcUlKNUtyRnVzVlliRmwzTUROMHBfUlRrYm9EQ2ZFMnFuWUNiRURfRTJz?oc=5",
-        "summary": "Anthropic is letting METR researchers look under the hood with employee-level access &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-10-15T19:12:29.000Z",
+        "headline": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-10-15T23:31:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NzMHJNSXozSjVOR1hlSWtqYnF6VjdSTU92TC00YmhySU1raDUxVDJQbDMtOXhBZExBQWpROEpwZjc0SnpvaVZsZzJHTC1BaDdTU2c2UWZkWXprS1ZDTjRaM2pGVk5uQ2k1ZllFQXlXU3pwc1hrZDd1Qk5meHdvdWplYjY?oc=5",
-        "summary": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks &nbsp;&nbsp; Financial Times"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5",
+        "summary": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "OpenAI vows not to use trade secrets allegedly taken from Apple - The Seattle Times",
+        "source": "The Seattle Times",
+        "timestamp": "2026-10-15T22:01:33.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3I0N2d1eFB0YXRFLXZ5MlZkcWxXLXp3V05UTlJQYzEtaXJJU3hDd2NfMGNyMnJiQ3RBQkJBY0dKejVxQloxRU9mZlB4OVloa2xTNkNaR1JmU1lRUkF2bmtjZV94dW5ZLXhIMGNNWlBQbmhGemt5eDRuZ0NOLXBzMWg2czYwaDFiWlZHWWlMblE0eS14Xy12WHYzY3lBMFAta1FLQg?oc=5",
+        "summary": "OpenAI vows not to use trade secrets allegedly taken from Apple &nbsp;&nbsp; The Seattle Times"
+      },
+      {
+        "headline": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-15T21:48:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+        "summary": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say &nbsp;&nbsp; Reuters Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter &nbsp;&nbsp; The New York Times Sandisk, AMD Stocks Fall as Anthropic Adds to AI Concerns &nbsp;&nbsp; Barron's"
+      },
+      {
+        "headline": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-10-15T20:35:21.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTIyNURFZndfMmRpN0liM2l3eE9Rb3pncXlkaGRDUExCemNqQldWUmlLcVhEWHhwYXlOVHFxSlpuLWVUXzV0eHoxcjdsVXAxVTJ0X3FFVGFscldqY0lnbVVxNlhxWWZ4QUZNUmYyc1dSWHpHSl9XdXNaMEVONm5SVXd5ODM2VFFEa2fSAY8BQVVfeXFMUGdJcmpnY21LbUlicTI5OEZXSzB2UE1SclB6TDZWRDdNd0luMEpaY1o3a3podTZLQ3hFZUVpSUpKaEtqWlNETUhZYXUyLWFqdTJhSGoyVXF3ejFCNldkMHJnYjJCbmRFLVlKeGo3OFFOQUNSUDRJRzNfaVlSb3p4NGl4eWE3TFNFR0tUNHNxa0k?oc=5",
+        "summary": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Anthropic grants outside evaluator METR employee-level access in AI safety push - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-15T19:51:22.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5",
+        "summary": "Anthropic grants outside evaluator METR employee-level access in AI safety push &nbsp;&nbsp; Reuters"
       },
       {
         "headline": "An update on independent evaluators - Anthropic",
@@ -149,38 +167,20 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
         "summary": "An update on independent evaluators &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-10-15T17:00:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzh2RmRTanJlLWlJdUQ4Z3FNQXI5aGZVWlVCdHNVdWlQNGJ5MlhCbkR5d3QtdWVLYXNfdlpmOHVGVTJidXBrTFh4Wml6d1dkYmFiUGJtNDRHVl9vSWF0T2Zvb1pjc0ttX19FYjQwdDA5U214ZGFlNFpVclNxOXR1RERXZlRwUTFLcXVyOTNpd2NRamdGTExfdFVaSURGSDkyTjZ1WWRR?oc=5",
-        "summary": "Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs &nbsp;&nbsp; WSJ Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents &nbsp;&nbsp; Facebook Meta and Apple team up to make Muse AI models run better on Macs &nbsp;&nbsp; The Verge Apple and Meta team up to make Muse AI model run on Mac computers &nbsp;&nbsp; CNBC \"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs &nbsp;&nbsp; Axios Mark Zuckerberg says Meta has reached AI ‘frontier’ &nbsp;&nbsp; Financial Times Why Meta's AI bet could be mispriced &nbsp;&nbsp; Yahoo Finance Meta Platforms: Muse Wonder Exposes The AI Trade's Biggest Disconnect (NASDAQ:META) &nbsp;&nbsp; Seeking Alpha Meta Unveils New Series of Advanced A.I. Models &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date - Meta AI",
-        "source": "Meta AI",
-        "timestamp": "2026-10-15T16:56:06.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxQTR0N0dqcHl2SFlORVRDWlZ2MFg3c1l3czJ5ZF9pQVJMd1FFcTBzTjdfQ00ydURKSVpESEloR2hhVzNJTkIyNU9XalpybnFmdWlJYjhHV0k?oc=5",
-        "summary": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date &nbsp;&nbsp; Meta AI"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
