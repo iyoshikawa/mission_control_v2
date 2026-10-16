@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-16T19:18:09.631Z",
+    "generatedAt": "2026-10-16T22:31:20.140Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,15 +12,70 @@
   },
   "newsFeed": [
     {
+      "headline": "Israeli settlers attack Palestinians during West Bank olive harvest",
+      "summary": "Israeli settlers attack Palestinians during West Bank olive harvest &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-16T21:41:15.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczd6aXNWNkdjZTNxV0V1MXhjQm5YTUtZT2JEUXY4dm81UFNlMVprd01ZdDI0VDI2ZEducHJha09yTkRIaWZMLVpmanQ0dVRBWm56cVBxLWFCOEZkekdCU0ZISkhWeEFxTWRDaGtmR3NPRjc1MVkyQnVhdjZRSzZxWm9OODE2RmxSY19CclZ1WThuWTZrOG15SUtmSlZJd0tfZkwtcmVsQlltc0VNZnMtMWdB?oc=5"
+    },
+    {
+      "headline": "Why is the battle for Yemen's Taiz so important?",
+      "summary": "Why is the battle for Yemen's Taiz so important? &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-16T20:09:52.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVE5NX1dPV1lsbk1MeFB4OGoyZHJ0OUhNV3hxRkQxT3FmcGo4emVHVi1fRDhrV1ByWlUwSURBZ1pPUzQzanIxbWx4MXVwUnFmQWtPNjAzd3NTUDEzOU5NSmJTVHF3OHoxdHk1d0VpUm13YjcwQ2FjT1djOGVGTC1MSkFvVjhVTmM?oc=5"
+    },
+    {
       "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack",
       "summary": "Israeli settlers burn olive trees, injure journalist in West Bank attack &nbsp;&nbsp; Reuters",
       "source": "Reuters",
-      "timestamp": "2026-10-16T18:44:28.000Z",
+      "timestamp": "2026-10-16T20:05:56.000Z",
       "impact": "HIGH",
       "region": "Middle East",
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5"
+    },
+    {
+      "headline": "Beijing seeks tighter grip on AI exports amid US rivalry",
+      "summary": "Beijing seeks tighter grip on AI exports amid US rivalry &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-16T18:59:17.000Z",
+      "impact": "HIGH",
+      "region": "China",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5"
+    },
+    {
+      "headline": "Swiss finance minister warns steep European debt could trigger euro crisis",
+      "summary": "Swiss finance minister warns steep European debt could trigger euro crisis &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-16T17:33:43.000Z",
+      "impact": "HIGH",
+      "region": "Europe",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTmwxaWZfbXJ1NjFHRGhZbGJQM3h4TVl2czdNajJCdnhVWWcteWRNQW9KUS1UaXlNa3R0WERESHRIWHB4cGY0VVJDbXZIaUh5YVlYN3ZCX3BROUtUVTIwNVF6TGdudzB3LWw4QzFLanZHTjRPYk02NHRHb3VaVEhEUUctQmdiUjVnYzBQVmtCLTNWSERSOEpfT3hLZFNSWkJKbkdjLUIyenNSZHVVT3RnV1lVUG1JRVlwM2g4?oc=5"
+    },
+    {
+      "headline": "Kenya reports third Ebola case, a close relative of first two patients",
+      "summary": "Kenya reports third Ebola case, a close relative of first two patients &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-16T16:44:40.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEljblJyN3hKYThaRFo1dWlIRWVIemRsdFFmMlBNcmZhNmZJOFFRRzVSbWh3MlRBSjFWcm9tM19GNnhVcHVsOE9CdHFSWEFJb1dGenNQVV9hYnp5a01RcVM2VldxWm1FY0Qzamw3bTZRdDdEZkFUQ2dzeGN5REJScmtBaF96dnlyaWZmdFNoMnoxU0xhLVFKTVdzaDNwdEdXdWZDM0JKUTQyclVXeDBSMTVnZkdOTV9BQ0lPVkZEUERwQkVNczhDSjlRaTYtUTA?oc=5"
     },
     {
       "headline": "US import prices increase; post largest annual gain in more than four years",
@@ -43,61 +98,6 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWF4d1Z5QlhpMUR3Y0JvLWNnVElGVUU2Vnk0ZHVvcUFLZzFFcWhEb184TmZVSVdzQjdoM1BuRS0zVWNtZ2owWmRPTklGNm4yOXN3SzBDanAzemJzVTVGRXBXYUtsanBLVGRqM3kwTndodXk0VkxJbUw5blhzRVNsNmk1SzBVc3YwTkpuLW5IMS1GVlJZcW05SmE3RDFYdThhVGpuWC1RSXVuNno3VTJYZkkwdWUyODVZWHJjQVdyLTlyeFlqU3l2d1Vn?oc=5"
-    },
-    {
-      "headline": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum",
-      "summary": "IMF chief urges cooperation on AI and war risks, as US hails economic momentum &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-16T13:08:03.000Z",
-      "impact": "HIGH",
-      "region": "United States",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaC1kZ3BadTRtNzZPdmw0UzNSSHNNTHh3cGltTWJvQ0hHanZaeWhoTDFrSG5GdnNkU2NRamJ3OXF6VVVtdDRncGJtdnpKemJQeHpqbTZFaFVOMUgtOFhNYnU5UFlFbTdtUWZ0SGhMVEtZVnYtMHFQTUlCZG5yN2txMnJjTklQWWtrYTFkS1JTeGRqNkNMa2Vra19qYk5XVzZ2V3pjZnczVERFb0pOOTFaQzZmaThwQ0RSRXM1VA?oc=5"
-    },
-    {
-      "headline": "Trump says US may need to strike Iran's Pickaxe Mountain",
-      "summary": "Trump says US may need to strike Iran's Pickaxe Mountain &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-16T12:54:29.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5"
-    },
-    {
-      "headline": "Why is the battle for Yemen's Taiz so important?",
-      "summary": "Why is the battle for Yemen's Taiz so important? &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-16T12:21:01.000Z",
-      "impact": "HIGH",
-      "region": "Global",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVE5NX1dPV1lsbk1MeFB4OGoyZHJ0OUhNV3hxRkQxT3FmcGo4emVHVi1fRDhrV1ByWlUwSURBZ1pPUzQzanIxbWx4MXVwUnFmQWtPNjAzd3NTUDEzOU5NSmJTVHF3OHoxdHk1d0VpUm13YjcwQ2FjT1djOGVGTC1MSkFvVjhVTmM?oc=5"
-    },
-    {
-      "headline": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows",
-      "summary": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-16T12:03:27.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5"
-    },
-    {
-      "headline": "Russia talks up refinery attack as Trump blames Ukraine for expensive fuel",
-      "summary": "Russia talks up refinery attack as Trump blames Ukraine for expensive fuel &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-16T10:29:49.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEIyVDItZjJtU1kxNlBBZWU1eEpadHhlaHJRMUN3WUVTbnNibUgyemJ6V1NQZGdiN1NocU40ald3bEJYbGhZNmRZMm9kNEZxR3NVX21wc1UwSDZuQklaWVBWQ1c2MVItNTBidDR3eDlyRUxwU044SFhoSUNJVjNZQzlORzlwV0NZQ2FaNGRhQXVOSnotNGZRakR4bnpBRDVwUmxuTDBHMWZTcVhUeVlzTWxKWnRzYVB6WFJr?oc=5"
     }
   ]
 }
