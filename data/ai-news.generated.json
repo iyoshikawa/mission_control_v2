@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-16T20:43:36.230Z",
+    "generatedAt": "2026-10-16T23:20:29.901Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta confirms smart glasses were recording without being activated - Mashable",
-      "source": "Mashable",
-      "timestamp": "2026-10-16T18:41:53.000Z",
+      "headline": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs. - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-10-16T22:48:00.000Z",
       "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUtQVmpxb255WWNodDByNXRKVWx1VzZfQWFtUTJLeU1qZ25uLVFpVmwwZDhscnRuRjczdTZIZ1luVjRRNEI2SUpPaFZfc0pPeVRPN3otcXlfcTFoeG1vNWxxYXZOM2RhSFl5eC1LRWhaZ0xFRlNzeG9DQjVCcFpYZzNoT1NaTGpRaWUwZFB3Vy1GSV90Yi11WlpkU25RRzZwRlE?oc=5"
+    },
+    {
+      "headline": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude - CBC",
+      "source": "CBC",
+      "timestamp": "2026-10-16T22:28:05.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude &nbsp;&nbsp; CBC",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnVIOG51MWpiWDNTOTl0Zk5BNXVPV2dQdmJpVFp0SEZIOFZBOGhyMnpYZGFETkdYUWxNdWlXbVpXZ0ltcTJteU56bE5OM1JjZFAwOWQyQ2RiZ2dGR3JmYThGY3oyNGI0QUpWc1RHSGFjYThvQ3ZLYW01NEdsbEY4U0xQMm42d2xLN3U4TnI0VGhKcUtFYnR0dlRWZmlKZk5DcURDdTlLU2YyYTJnOXRkM2stY2pMRmdTQ0FNYUVIc2JUa1NwazhSWTRsZHNoUQ?oc=5"
+    },
+    {
+      "headline": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-10-16T22:25:33.000Z",
+      "impact": "HIGH",
       "category": "regulation",
-      "summary": "Meta confirms smart glasses were recording without being activated &nbsp;&nbsp; Mashable",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VhNFVtZ01iX2pwNTFPMkxGV1NhaWdzWVdIYWgtdHhpWEpPMU85MUxFZ0tTUnBuYWZhYnYwajFoenRpR29zQWZ6NFpWd1lINm5SeGtkUDVuQS1pZy1XZlVfRHdYX3FNYnowejc2RmF6UXNzUHZiXzNYUWJPS09ZY09ENXRlMkJGb0E3NGh6U1o?oc=5"
+      "summary": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcENENWdpRlloLVpNclIyQWpIM3JSV3VHZklqOWZlQ0NJYnB2TWg2ZlhPMndNbS1qM2pWM0dTTVFZQ2l1SmxTT1h3VjZJNVpXTWhZTHRnLThqYm9UeFJ4ZEp0U3JROG1sUFJrN3Z6SEFKN2tPcU5teHZ6cU9JUDh4X1laZVZJMkZNNXNSZnJlZDdOX0dFMlM5REZCSGRHR3AydkdCbUY3RU9zYTRoNzdz?oc=5"
+    },
+    {
+      "headline": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-10-16T21:36:22.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU5hVjlwRlhleC1wU2FNX29Rd3h4RndiY3JEeDFjY0tZWU92MktjdjMydDdXckxzTmt6V1NKT3VGekhCSS1UdlVMcFVyM1BYNVBRWEtXdE1ITGljVWd4M2prRnFJREhiV1E4azhDMlhMTXpwVXdybUFFa0lPT2Y0YnlIRjlqbXI4Rkw4bm1UZUhNbVFZVTJHZ3FjbTl3clEzZEFTcGs2WWk?oc=5"
+    },
+    {
+      "headline": "Replit is no longer working with Anthropic, CEO says - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-16T21:22:28.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Replit is no longer working with Anthropic, CEO says &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlVYN3JyLXhSRWZheGhuRXJkMHVUZlladnZDUEZha3lzZlJ5cXZyQ2R3aGxDZFlHUXgxc0VSQkJkeThQelUtMzk5R09aWHJmVGtXVm5yeTdsV3NZT0cxMzZVMERLc0R2QmY5MS1VLUJ1dWw2WExxQUNIRXVCWFRjZE1uSks2QlQ1RHZEc3ZHWQ?oc=5"
+    },
+    {
+      "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
+      "source": "AP News",
+      "timestamp": "2026-10-16T18:46:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults &nbsp;&nbsp; AP News",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5"
     },
     {
       "headline": "Alexandr Wang, Meta’s AI wunderkind - Financial Times",
@@ -32,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5"
     },
     {
-      "headline": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task - Fortune",
+      "headline": "OpenAI discloses four more rogue incidents involving financial, medical, and government data - Fortune",
       "source": "Fortune",
-      "timestamp": "2026-10-16T16:14:00.000Z",
+      "timestamp": "2026-10-16T16:05:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task &nbsp;&nbsp; Fortune",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVUVDMyRmxZRlhiQlpNZnEzRUpFZVl2anlEQVZCaGU3N2hpUmtkak5oTUdYemRyNS1jUFFiQWJCbTZFaHFQNVFONk90QkJuZ3F2QWNFU3NkOFhTQVBWalVVZW03LWY2Wi03UlhrZUNQRGNKbHB2NGNCVjVSbndlUw?oc=5"
+      "category": "regulation",
+      "summary": "OpenAI discloses four more rogue incidents involving financial, medical, and government data &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNU5sdFZhc1BfNENtd3BmZnplN0l2alNaTmg1a3g5M1lfQ2dBU2kwWG1CYkhiZ01lUWpUc0JQY1VPOWtpRkQ5OFZrR2E3eU5NanlTbk9tTDA3Z1BXaGRveU9OeUtQMV9fbkJKZ18tV1hPNURaTzQ1b0t6ZjBrdk1oc1pkQVVkLVRkSUIzZEMxRXRGU1hYNHBaMl9oVjQwZzN5akhzeTk4NlVDaGJ1MzJuV2JvZXFNeDRxc29talhBWQ?oc=5"
     },
     {
       "headline": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton - CNBC",
@@ -52,121 +102,71 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2aURfdGotR0JvZTg1YzFqNTAwd0tzdDYxZ2d3UmJfaVhCaFJ6dGYzOG5feDFobnJlQzdYSVJWQ1g2YUh5TmxnOUh0UnlYMGlOWnNtUi1ReEVTbHE1eTBMbGh1TUVRNm5pVzhHamdpWjItY2ROR0tZ0gF8QVVfeXFMTVBocE1ZYl9QUFZZQ0ZCb3dZOFFoRzRZQ2dMOE9SQXMxYlFDaXRaWjhKZFRYTVZXNHJ6MElxd3U5S0NtTjBIVDU4UFYzZDc4bkVqVzZ2Z29IYnZDd2dMdDJJamlkVjlfTm10dW5meUs4QTY0NnhkWDNKekN0Nw?oc=5"
     },
     {
-      "headline": "Anthropic assigned highest junk credit rating in June - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-10-16T04:02:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic assigned highest junk credit rating in June &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm50bnlrZVJHbjF1SFlKcG5TVFlYRWtrYmJBc2FnTGNOOXZzaEtxdmxITS0yQkh5QWdqZ0h5TGdqeUU5TmFmZHZYTWhLNjlmWE5FSjdQNVZpNHV5SWVzX0ZnMkF5YU9kN3pJdG16WDFxREZFLWc0cWZ6bjc4S19KTjRsZ20?oc=5"
-    },
-    {
-      "headline": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
+      "headline": "\"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs - Axios",
       "source": "Axios",
-      "timestamp": "2026-10-16T01:21:13.000Z",
+      "timestamp": "2026-10-16T10:38:32.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents &nbsp;&nbsp; Axios",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5"
-    },
-    {
-      "headline": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-10-15T23:31:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft AI chief says the company beat OpenAI at its own game, using a quarter of the computing power &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUm9QUUxrcmFLc2hGRGljQUd3N1JKbXNVYVZPb0xfbno1eWhaVDZ4UnJXSzBkU0VBcTlCbC1Hdkc4eXZ6QzB3eEh5cEdKM3ZmWnEyNWxkWUxEeWl1anY3ald1b1JISkh4R1BmY2wxaDQ0YXJCMndhTmw3UlJGT3RFSUd3Q3hLVFFybHdlYmROV0pQZUE2X0J6RlhXQlhYc0E?oc=5"
-    },
-    {
-      "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
-      "source": "AP News",
-      "timestamp": "2026-10-15T22:26:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults &nbsp;&nbsp; AP News",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5"
-    },
-    {
-      "headline": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-15T21:00:00.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say &nbsp;&nbsp; Reuters Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter &nbsp;&nbsp; The New York Times Sandisk, AMD Stocks Fall as Anthropic Adds to AI Concerns &nbsp;&nbsp; Barron's",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
-    },
-    {
-      "headline": "Apple and Meta team up to make Muse AI model run on Mac computers - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-15T17:00:01.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Apple and Meta team up to make Muse AI model run on Mac computers &nbsp;&nbsp; CNBC Meta releases Muse Spark Open, a new ‘open-weight’ AI model &nbsp;&nbsp; The Guardian \"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs &nbsp;&nbsp; Axios",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yN20yMnBlVzc4aS0wdWFEbE5Xb2NEam5KRVV2SUMtNElVdkhwa2l5MlVGZzMxemJqWGhEbUZWYUtJd1JhSW1qY2R4djRsUTNKRzhkbHZzTEdJZHpROTFpNnZ5T0JLYWlKLXfSAW9BVV95cUxQSlFLOV9CYWZWMlBDb2N5ZEgzODdobW83Vzh1Qy03R2lpWGtsOXhPbG9OMHRFaDR2UG5kNDhnRDFVTWtWVVUxOHBTWTZ5d0E4WHRVdUZiZ2hEMmlEODByOFZMYjVhNHNESVRNRzFCUUU?oc=5"
+      "summary": "\"Mommy and daddy\" play nice: Apple and Meta team up to bring open-source Muse to Macs &nbsp;&nbsp; Axios Apple and Meta team up to make Muse AI model run on Mac computers &nbsp;&nbsp; CNBC Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPMHkzbG9EYWhwX241Y1R3ZmJmbExHdXAyQnRZOEUzM1dfaXBiMmZGYjNQM2IzT2NGUW1PM1hMSkhTZmpNN3VfNlR2eEUxSXZnUnNpQjZRd0NxQjJjSnBqZHhWbW9wb1NJTG1LbU5fa0Rod215cVhjanEyYw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta confirms smart glasses were recording without being activated - Mashable",
-        "source": "Mashable",
-        "timestamp": "2026-10-16T18:41:53.000Z",
+        "headline": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs. - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-10-16T22:48:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VhNFVtZ01iX2pwNTFPMkxGV1NhaWdzWVdIYWgtdHhpWEpPMU85MUxFZ0tTUnBuYWZhYnYwajFoenRpR29zQWZ6NFpWd1lINm5SeGtkUDVuQS1pZy1XZlVfRHdYX3FNYnowejc2RmF6UXNzUHZiXzNYUWJPS09ZY09ENXRlMkJGb0E3NGh6U1o?oc=5",
-        "summary": "Meta confirms smart glasses were recording without being activated &nbsp;&nbsp; Mashable"
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUtQVmpxb255WWNodDByNXRKVWx1VzZfQWFtUTJLeU1qZ25uLVFpVmwwZDhscnRuRjczdTZIZ1luVjRRNEI2SUpPaFZfc0pPeVRPN3otcXlfcTFoeG1vNWxxYXZOM2RhSFl5eC1LRWhaZ0xFRlNzeG9DQjVCcFpYZzNoT1NaTGpRaWUwZFB3Vy1GSV90Yi11WlpkU25RRzZwRlE?oc=5",
+        "summary": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs. &nbsp;&nbsp; Business Insider"
       },
       {
-        "headline": "Alexandr Wang, Meta’s AI wunderkind - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-10-16T16:31:25.000Z",
+        "headline": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude - CBC",
+        "source": "CBC",
+        "timestamp": "2026-10-16T22:28:05.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BRTlBUNDNKa2J0ZUJxdDFrNmdiZVN4Mm42UVg2c3FOeEdLMFE5VldjcUxhdVRUSUxQc3dNbFdyekVoMHh3QlV5VmdTcGIzZjNSaHlIbHhfYUEyQkxyLVlLdld1eGRHMmxSMTk1RFY0ZGU2aEVXbVZ3WWl2LUE2TnhuR2k?oc=5",
-        "summary": "Alexandr Wang, Meta’s AI wunderkind &nbsp;&nbsp; Financial Times"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnVIOG51MWpiWDNTOTl0Zk5BNXVPV2dQdmJpVFp0SEZIOFZBOGhyMnpYZGFETkdYUWxNdWlXbVpXZ0ltcTJteU56bE5OM1JjZFAwOWQyQ2RiZ2dGR3JmYThGY3oyNGI0QUpWc1RHSGFjYThvQ3ZLYW01NEdsbEY4U0xQMm42d2xLN3U4TnI0VGhKcUtFYnR0dlRWZmlKZk5DcURDdTlLU2YyYTJnOXRkM2stY2pMRmdTQ0FNYUVIc2JUa1NwazhSWTRsZHNoUQ?oc=5",
+        "summary": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude &nbsp;&nbsp; CBC"
       },
       {
-        "headline": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task - Fortune",
-        "source": "Fortune",
-        "timestamp": "2026-10-16T16:14:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVUVDMyRmxZRlhiQlpNZnEzRUpFZVl2anlEQVZCaGU3N2hpUmtkak5oTUdYemRyNS1jUFFiQWJCbTZFaHFQNVFONk90QkJuZ3F2QWNFU3NkOFhTQVBWalVVZW03LWY2Wi03UlhrZUNQRGNKbHB2NGNCVjVSbndlUw?oc=5",
-        "summary": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task &nbsp;&nbsp; Fortune"
-      },
-      {
-        "headline": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-10-16T13:55:56.000Z",
+        "headline": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-10-16T22:25:33.000Z",
         "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcENENWdpRlloLVpNclIyQWpIM3JSV3VHZklqOWZlQ0NJYnB2TWg2ZlhPMndNbS1qM2pWM0dTTVFZQ2l1SmxTT1h3VjZJNVpXTWhZTHRnLThqYm9UeFJ4ZEp0U3JROG1sUFJrN3Z6SEFKN2tPcU5teHZ6cU9JUDh4X1laZVZJMkZNNXNSZnJlZDdOX0dFMlM5REZCSGRHR3AydkdCbUY3RU9zYTRoNzdz?oc=5",
+        "summary": "Anthropic Pitches AI Safety Bill to Lawmakers, Politico Says &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
+        "headline": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-10-16T21:36:22.000Z",
+        "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2aURfdGotR0JvZTg1YzFqNTAwd0tzdDYxZ2d3UmJfaVhCaFJ6dGYzOG5feDFobnJlQzdYSVJWQ1g2YUh5TmxnOUh0UnlYMGlOWnNtUi1ReEVTbHE1eTBMbGh1TUVRNm5pVzhHamdpWjItY2ROR0tZ0gF8QVVfeXFMTVBocE1ZYl9QUFZZQ0ZCb3dZOFFoRzRZQ2dMOE9SQXMxYlFDaXRaWjhKZFRYTVZXNHJ6MElxd3U5S0NtTjBIVDU4UFYzZDc4bkVqVzZ2Z29IYnZDd2dMdDJJamlkVjlfTm10dW5meUs4QTY0NnhkWDNKekN0Nw?oc=5",
-        "summary": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU5hVjlwRlhleC1wU2FNX29Rd3h4RndiY3JEeDFjY0tZWU92MktjdjMydDdXckxzTmt6V1NKT3VGekhCSS1UdlVMcFVyM1BYNVBRWEtXdE1ITGljVWd4M2prRnFJREhiV1E4azhDMlhMTXpwVXdybUFFa0lPT2Y0YnlIRjlqbXI4Rkw4bm1UZUhNbVFZVTJHZ3FjbTl3clEzZEFTcGs2WWk?oc=5",
+        "summary": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "Anthropic assigned highest junk credit rating in June - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-10-16T04:02:56.000Z",
+        "headline": "Replit is no longer working with Anthropic, CEO says - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-10-16T21:22:28.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUm50bnlrZVJHbjF1SFlKcG5TVFlYRWtrYmJBc2FnTGNOOXZzaEtxdmxITS0yQkh5QWdqZ0h5TGdqeUU5TmFmZHZYTWhLNjlmWE5FSjdQNVZpNHV5SWVzX0ZnMkF5YU9kN3pJdG16WDFxREZFLWc0cWZ6bjc4S19KTjRsZ20?oc=5",
-        "summary": "Anthropic assigned highest junk credit rating in June &nbsp;&nbsp; Financial Times"
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlVYN3JyLXhSRWZheGhuRXJkMHVUZlladnZDUEZha3lzZlJ5cXZyQ2R3aGxDZFlHUXgxc0VSQkJkeThQelUtMzk5R09aWHJmVGtXVm5yeTdsV3NZT0cxMzZVMERLc0R2QmY5MS1VLUJ1dWw2WExxQUNIRXVCWFRjZE1uSks2QlQ1RHZEc3ZHWQ?oc=5",
+        "summary": "Replit is no longer working with Anthropic, CEO says &nbsp;&nbsp; TechCrunch"
       },
       {
-        "headline": "Scoop: The FTC demanded documents from AI giants over recent safety incidents - Axios",
-        "source": "Axios",
-        "timestamp": "2026-10-16T01:21:13.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
-        "summary": "Scoop: The FTC demanded documents from AI giants over recent safety incidents &nbsp;&nbsp; Axios"
+        "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
+        "source": "AP News",
+        "timestamp": "2026-10-16T18:46:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
+        "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults &nbsp;&nbsp; AP News"
       }
     ],
     "whyItMatters": [
