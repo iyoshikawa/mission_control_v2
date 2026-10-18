@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-18T17:54:25.222Z",
+    "generatedAt": "2026-10-18T20:20:51.047Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -11,6 +11,16 @@
     ]
   },
   "newsFeed": [
+    {
+      "headline": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-10-18T18:03:03.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5"
+    },
     {
       "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
       "source": "The Guardian",
@@ -30,16 +40,6 @@
       "summary": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits &nbsp;&nbsp; Futurism",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcGljR2F3bXBwbUxGYURZMS1zaDlDcHpDaFhqMFZVSUhTcEh1emw0cWZLRFQ0dXhva1QxbThudmptcTlWSkh3M0hjSVJNQnZFOEZIaF9FSHhBQ3l0aGpJYXZNX0x1YTJUVnFpNHBuSWNnRWhYMVJZM3VVNA?oc=5"
-    },
-    {
-      "headline": "Anthropic turns to lawyers to help AI agents strike deals - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-10-18T04:00:47.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Anthropic turns to lawyers to help AI agents strike deals &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c?oc=5"
     },
     {
       "headline": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
@@ -115,6 +115,15 @@
   "aiNews": {
     "topStories": [
       {
+        "headline": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-10-18T18:03:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmMyNWxod0hjdmwxeU0tdEk1dGpOSXdfSVdrLXdIVjB2LVR5YlpmZFhMZnlYcDNRNV9zRTcxY3piNFAzZm5mMThxeXJmVW5rMHFUSkpkQjc2NkJNWG0zUHE4RUNuV2w0RGFTQXlVQ0RtQ2VJbVdfVjE2Nmg4aDdFYXBVZGlhVzRmV3U4bXQzMHgtR1hqcl94YnRJNTVqRjVsT1h0SjJvVDUtZTdDSHJwWWxHbw?oc=5",
+        "summary": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund &nbsp;&nbsp; Bloomberg.com"
+      },
+      {
         "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them? - The Guardian",
         "source": "The Guardian",
         "timestamp": "2026-10-18T13:30:00.000Z",
@@ -131,15 +140,6 @@
         "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OcGljR2F3bXBwbUxGYURZMS1zaDlDcHpDaFhqMFZVSUhTcEh1emw0cWZLRFQ0dXhva1QxbThudmptcTlWSkh3M0hjSVJNQnZFOEZIaF9FSHhBQ3l0aGpJYXZNX0x1YTJUVnFpNHBuSWNnRWhYMVJZM3VVNA?oc=5",
         "summary": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits &nbsp;&nbsp; Futurism"
-      },
-      {
-        "headline": "Anthropic turns to lawyers to help AI agents strike deals - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-10-18T04:00:47.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmFlM0p6TV9oV3pMdGVaZ3ZVWkpDaU1oZV9JMEVGdkk4dXZoSVhiX2dERjhYRUJjQ252bW9VeVliam5Kemd5YzZjQXVqMlVsRlc2RkM2QUZELWdPTFJSTjk3MkxvUWg1STdiSkVIQWd2ZFU0ZXhhdWI4RGNLTm4yYzVER2c?oc=5",
-        "summary": "Anthropic turns to lawyers to help AI agents strike deals &nbsp;&nbsp; Financial Times"
       },
       {
         "headline": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers - CNBC",
