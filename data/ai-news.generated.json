@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-21T14:57:29.333Z",
+    "generatedAt": "2026-10-21T19:12:42.479Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-21T14:31:04.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "OpenAI president urges AI safeguards as group he funds opposes regulation &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5"
-    },
-    {
-      "headline": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook - MarketWatch",
-      "source": "MarketWatch",
-      "timestamp": "2026-10-21T14:05:00.000Z",
-      "impact": "LOW",
-      "category": "market",
-      "summary": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook &nbsp;&nbsp; MarketWatch",
-      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHBBZHZ5SmlfMlJld3djNmdPcTVXN0txckV0cGpLbTFZRVIwV21XTnJaVFFHcW1nMERidkNvYW1GamNKQTBkdVlkcC1ZbTd4aTJSNUVEY0toLVV5cERuZmk4dDBLWkRBZFpqWjZTMlZqRFhGQlEzdnZvZjdIMjlVVUZkcGdnSS1IbmMzVUtQSUNRTnBVaWpVT01JVUppQUQ2eG13b1JEdVRHbjk2dlJDY3Vlc3M0VExYbThjLXRudlNJRXZ1dVZtYQ?oc=5"
-    },
-    {
-      "headline": "OpenAI brings its frontier models to rival Google Cloud - Axios",
-      "source": "Axios",
-      "timestamp": "2026-10-21T12:04:16.000Z",
+      "headline": "OpenAI's latest AI models are coming to Google Cloud and Antigravity - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-10-21T18:51:42.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "OpenAI brings its frontier models to rival Google Cloud &nbsp;&nbsp; Axios",
+      "summary": "OpenAI's latest AI models are coming to Google Cloud and Antigravity &nbsp;&nbsp; Ars Technica",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fRGVTajlqaGI0cGJ0aXFYYXZHQmxmb01MLW50TW5mV3drRVFTZXIyRkxSZDV6b0p6Z1dsNnFXN29FZHYtUjJkam1saGdERkF6SXgyWVZ5dVlmbXRRbjhwc2NnVGlQTVlLVm9JVTMtOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmpZWlRoN0xEdnhMZDJxS1NnRVBRX2N0cUc1MFhDOVpjeDZDa29xdmpBVDR2cm1hVDF0b3NFMDRpWnV3NDFLeElBb0hjeTd3VTRmWm9OYTdib1I2dnN6QklNSDlTbXI2dHJVWjBkQ0Q5Nm9OT0M4QS1FRlNoaVRleHJ5TG9kVHhNNTE2dU1SZ0s3cURVX3hwS0FQaWhQVUpUUVl6M1R3?oc=5"
+    },
+    {
+      "headline": "A.I. Discovered a Critical Security Flaw Underpinning Websites - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-10-21T18:43:33.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "A.I. Discovered a Critical Security Flaw Underpinning Websites &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVhkbmJVQVEzWkd2YnJuNGZlRUtDdERWQUkyZVhGRTNiTHJmZjJlWU9lUXpBZmllQWtfelkwdF9kVzRJQXVPcDRSTWR0VnlpMWJEd0VqYkkxTVktUzVXMktnX2FXZEpfREdYMWFQbXlIY3NnZ25sQll5djdRcnJnOHNxZmc1anhfUTc0QzFiOC10aURCSUJKVg?oc=5"
+    },
+    {
+      "headline": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China - Fox News",
+      "source": "Fox News",
+      "timestamp": "2026-10-21T18:18:29.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China &nbsp;&nbsp; Fox News",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5"
+    },
+    {
+      "headline": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-10-21T18:09:52.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmRrTzFGUWdQWHBOUjIwQUlHWURGbUpKTUpaZnBITFlyRXZCOEEyMVpta0kxdXBJblpKcEpnR0syS0RzQzA4TmlDVWp3dC1RZFRzX3o3QnVNNm84XzBhY2NzVW9XRFRQQ0t1UFpLdzBWT0hMbnN4MGtsTk96UlZTX1lQT0hkLTdmTGFxWU94M0JLZlHSAZgBQVVfeXFMUG10Tno1STVRQWVaOXJVOHRkY2pxcmRKYmNNdUdncVIwMHNocDY3TnBtX0JjM25FZWhDa3pfekZQUVRBTUprWjJNUjF1ZC1YYVhLRklOUExNZjJ3a2pTU2hPdDRlR3AxNm9ZekRRUDVrRnRaU0xsMVNqZ1FVZ0ktSGxuV2FqX21tSU81VlhPZDY4QS1rQmZJX0c?oc=5"
+    },
+    {
+      "headline": "Anthropic adds former Harvard science dean to oversight body - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-21T17:49:45.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Anthropic adds former Harvard science dean to oversight body &nbsp;&nbsp; Reuters",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTYzS2wtUDJzU2ZHVGxLUGpGSUJFRGw0UGlnejIxWk16MGtLS3NsVkxreUhuTVFGU29WVGotekwwUXlvYThNVFE2UTg4b2xnQmZ2QktiaVN0TUlvQWJQdDVfVXc4ajJXY2dLZmxoVVU3c1lvNWttdkc2Vjl3eXlCck40SnZla3ZBR0pCbGlMenNsYUVlWHB6OHl5UWRUZk1xUllQTQ?oc=5"
+    },
+    {
+      "headline": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract - The Intercept",
+      "source": "The Intercept",
+      "timestamp": "2026-10-21T16:25:02.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract &nbsp;&nbsp; The Intercept",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjZyeTBvbUlQVUMybVhKMWR1ek5sbnJPTjhmbVVPUW1rcUs3REdTMGxvc2p0WlRZenNIN1hLREdlS2k5bjVYZG1XRXdfREN3Q2ZUMW9CNnBIWlJZTEQ2VGxWZF9RWHYwY2l0S01ESG1UZUppZEVTbzB6LWRRSWRZYnFn?oc=5"
+    },
+    {
+      "headline": "Google staff resign in backlash over its AI contracts with military - BBC",
+      "source": "BBC",
+      "timestamp": "2026-10-21T15:41:25.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Google staff resign in backlash over its AI contracts with military &nbsp;&nbsp; BBC",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWVdJWjFtOWFyR2FOZzJSZlF5TmFGZDh6UVV6SHZ2V2ZvV0NDdm9hVUVBWDVQYjhZYms1aDA4YU9iRzRoMmpSY1BJQ1puNXpCM3RoLVRDbWU3Zmc?oc=5"
+    },
+    {
+      "headline": "OpenAI models are coming to Google Cloud - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-10-21T12:40:10.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI models are coming to Google Cloud &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VQ0dJX2hsMnZhUnJFNnM1YkwyUHZwWmNGR3BHbGpCSEZ3YkJaaHYydV94RlF2dGJQbVZ4SnV6TFN4YWhvbkc5dGNfOTc5bXlkcDlUWmxiRnFRQ1RmSjZ1ZzlB?oc=5"
     },
     {
       "headline": "Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ",
@@ -52,128 +102,78 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5"
     },
     {
-      "headline": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
-      "source": "Politico",
-      "timestamp": "2026-10-21T09:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5"
-    },
-    {
-      "headline": "Meta’s AI agent Muse set up Marketplace sale without telling him — and gave out his address - CBC",
+      "headline": "Meta's AI agent Muse set up Marketplace sale without telling him — and gave out his address - CBC",
       "source": "CBC",
       "timestamp": "2026-10-21T08:00:00.000Z",
       "impact": "LOW",
       "category": "market",
-      "summary": "Meta’s AI agent Muse set up Marketplace sale without telling him — and gave out his address &nbsp;&nbsp; CBC",
+      "summary": "Meta's AI agent Muse set up Marketplace sale without telling him — and gave out his address &nbsp;&nbsp; CBC",
       "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZ0ozS2k0VFljMURVQjNMRXF4ZHVyQThJVEMwNUhmcTR4eWQ5WDQ5SEpWckFVOEtKNlZGMzdpWnVOQjE4bjN2cTZkdlJTUGRBS2JoWGxvNllnSVJtWUU2bGoyYi1fdDF4YnQwMVh4RkdnZVp6ZUlNd3NqNlFudG8?oc=5"
-    },
-    {
-      "headline": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-10-21T07:03:48.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82c0lqMFI4dFFfLWhRZ0VZbW9LeFpaVDVTM3kwR3BzWFlST3o4ZXFqcVJVVF9BT2JRM0dFcFN0YWNCcUJjOUVkUUFDZVFidUwyTFM0cHBPVHAtRXk3a2hCYVU4VFJqeDhBckpWNVJ1RjFlVEs5R1pHNXRhMNIBgAFBVV95cUxQbEVjZjZVOEZHSm1UelVuSmxTYnRPTDE3NFB2ZHJFTjBrUnBtejdCWTRVb0JWcXVmNW90R2R1RTBsZWx3Qkw3NXhwU3EzUHhQQ0hDbFg0emFvUkhTNlV0dWJCZm5FMzJQdHpzNTJrSm9ZenhtY1VUTng4UFVPOXp6SQ?oc=5"
-    },
-    {
-      "headline": "How Birlasoft turned contract obligations into a delivery advantage with AI agents and Microsoft Azure - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-10-21T06:49:41.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "How Birlasoft turned contract obligations into a delivery advantage with AI agents and Microsoft Azure &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdDlPWDVaVzE2OWRWbllZcm1YcnExRmlENUtDa1FNemR4NVo0Q2ozMWJjUG11dnk5Ykp1STlhLTJfMEFoMnEtOW9aWXhlTm5wbUpJZFdNeTNDSC1FZzBFTGpIMFdTTmlrel9CRmZpZ0JJWG1wMl9LdE9ILThYZTRYeXhCalFHTG1pN2F4RUtwbE95ZmplSGRKTnJFM1BNUkxjeE44Q2dTQmFuQ0FTeVRZcGpYT0xtUC1QY1Q0ZVhuWjltcll6UklLYjB6dHN0MWNjeEZxMEUwbVJfcGo0MC1QRE9kZFBQUQ?oc=5"
-    },
-    {
-      "headline": "Q2 moves to Azure for 27%+ faster lifecycle, 50% cost reduction, new AI capabilities - Microsoft",
-      "source": "Microsoft",
-      "timestamp": "2026-10-21T04:54:11.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Q2 moves to Azure for 27%+ faster lifecycle, 50% cost reduction, new AI capabilities &nbsp;&nbsp; Microsoft",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jNTktVkVzOGwwcTkweFhpUTVLREpnMklhODBFUGxzYmtGcnRqMS12U1ctNV85cmFNUS1LUUpTWEpFM2gzZXBDUFVZbUJaenlOTzJOc0JSbmtoMHp2eHN6bVktajdKdi1od2tqN0NCb0V1RVplaVB3?oc=5"
-    },
-    {
-      "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-20T23:01:23.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-10-21T14:31:04.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
-        "summary": "OpenAI president urges AI safeguards as group he funds opposes regulation &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook - MarketWatch",
-        "source": "MarketWatch",
-        "timestamp": "2026-10-21T14:05:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHBBZHZ5SmlfMlJld3djNmdPcTVXN0txckV0cGpLbTFZRVIwV21XTnJaVFFHcW1nMERidkNvYW1GamNKQTBkdVlkcC1ZbTd4aTJSNUVEY0toLVV5cERuZmk4dDBLWkRBZFpqWjZTMlZqRFhGQlEzdnZvZjdIMjlVVUZkcGdnSS1IbmMzVUtQSUNRTnBVaWpVT01JVUppQUQ2eG13b1JEdVRHbjk2dlJDY3Vlc3M0VExYbThjLXRudlNJRXZ1dVZtYQ?oc=5",
-        "summary": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook &nbsp;&nbsp; MarketWatch"
-      },
-      {
-        "headline": "OpenAI brings its frontier models to rival Google Cloud - Axios",
-        "source": "Axios",
-        "timestamp": "2026-10-21T12:04:16.000Z",
+        "headline": "OpenAI's latest AI models are coming to Google Cloud and Antigravity - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-10-21T18:51:42.000Z",
         "impact": "HIGH",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fRGVTajlqaGI0cGJ0aXFYYXZHQmxmb01MLW50TW5mV3drRVFTZXIyRkxSZDV6b0p6Z1dsNnFXN29FZHYtUjJkam1saGdERkF6SXgyWVZ5dVlmbXRRbjhwc2NnVGlQTVlLVm9JVTMtOA?oc=5",
-        "summary": "OpenAI brings its frontier models to rival Google Cloud &nbsp;&nbsp; Axios"
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmpZWlRoN0xEdnhMZDJxS1NnRVBRX2N0cUc1MFhDOVpjeDZDa29xdmpBVDR2cm1hVDF0b3NFMDRpWnV3NDFLeElBb0hjeTd3VTRmWm9OYTdib1I2dnN6QklNSDlTbXI2dHJVWjBkQ0Q5Nm9OT0M4QS1FRlNoaVRleHJ5TG9kVHhNNTE2dU1SZ0s3cURVX3hwS0FQaWhQVUpUUVl6M1R3?oc=5",
+        "summary": "OpenAI's latest AI models are coming to Google Cloud and Antigravity &nbsp;&nbsp; Ars Technica"
       },
       {
-        "headline": "Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-10-21T09:30:00.000Z",
+        "headline": "A.I. Discovered a Critical Security Flaw Underpinning Websites - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-10-21T18:43:33.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
-        "summary": "Why AI’s Deepest Mind Believes the World Is About to Change Radically &nbsp;&nbsp; WSJ"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVhkbmJVQVEzWkd2YnJuNGZlRUtDdERWQUkyZVhGRTNiTHJmZjJlWU9lUXpBZmllQWtfelkwdF9kVzRJQXVPcDRSTWR0VnlpMWJEd0VqYkkxTVktUzVXMktnX2FXZEpfREdYMWFQbXlIY3NnZ25sQll5djdRcnJnOHNxZmc1anhfUTc0QzFiOC10aURCSUJKVg?oc=5",
+        "summary": "A.I. Discovered a Critical Security Flaw Underpinning Websites &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
-        "source": "Politico",
-        "timestamp": "2026-10-21T09:00:00.000Z",
+        "headline": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China - Fox News",
+        "source": "Fox News",
+        "timestamp": "2026-10-21T18:18:29.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5",
+        "summary": "Trump issues AI, data center position; Anthropic CEO defends record on safety, sales to China &nbsp;&nbsp; Fox News"
+      },
+      {
+        "headline": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-10-21T18:09:52.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5",
-        "summary": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk &nbsp;&nbsp; Politico"
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmRrTzFGUWdQWHBOUjIwQUlHWURGbUpKTUpaZnBITFlyRXZCOEEyMVpta0kxdXBJblpKcEpnR0syS0RzQzA4TmlDVWp3dC1RZFRzX3o3QnVNNm84XzBhY2NzVW9XRFRQQ0t1UFpLdzBWT0hMbnN4MGtsTk96UlZTX1lQT0hkLTdmTGFxWU94M0JLZlHSAZgBQVVfeXFMUG10Tno1STVRQWVaOXJVOHRkY2pxcmRKYmNNdUdncVIwMHNocDY3TnBtX0JjM25FZWhDa3pfekZQUVRBTUprWjJNUjF1ZC1YYVhLRklOUExNZjJ3a2pTU2hPdDRlR3AxNm9ZekRRUDVrRnRaU0xsMVNqZ1FVZ0ktSGxuV2FqX21tSU81VlhPZDY4QS1rQmZJX0c?oc=5",
+        "summary": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "Meta’s AI agent Muse set up Marketplace sale without telling him — and gave out his address - CBC",
-        "source": "CBC",
-        "timestamp": "2026-10-21T08:00:00.000Z",
+        "headline": "Anthropic adds former Harvard science dean to oversight body - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-21T17:49:45.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZ0ozS2k0VFljMURVQjNMRXF4ZHVyQThJVEMwNUhmcTR4eWQ5WDQ5SEpWckFVOEtKNlZGMzdpWnVOQjE4bjN2cTZkdlJTUGRBS2JoWGxvNllnSVJtWUU2bGoyYi1fdDF4YnQwMVh4RkdnZVp6ZUlNd3NqNlFudG8?oc=5",
-        "summary": "Meta’s AI agent Muse set up Marketplace sale without telling him — and gave out his address &nbsp;&nbsp; CBC"
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTYzS2wtUDJzU2ZHVGxLUGpGSUJFRGw0UGlnejIxWk16MGtLS3NsVkxreUhuTVFGU29WVGotekwwUXlvYThNVFE2UTg4b2xnQmZ2QktiaVN0TUlvQWJQdDVfVXc4ajJXY2dLZmxoVVU3c1lvNWttdkc2Vjl3eXlCck40SnZla3ZBR0pCbGlMenNsYUVlWHB6OHl5UWRUZk1xUllQTQ?oc=5",
+        "summary": "Anthropic adds former Harvard science dean to oversight body &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract - The Intercept",
+        "source": "The Intercept",
+        "timestamp": "2026-10-21T16:25:02.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjZyeTBvbUlQVUMybVhKMWR1ek5sbnJPTjhmbVVPUW1rcUs3REdTMGxvc2p0WlRZenNIN1hLREdlS2k5bjVYZG1XRXdfREN3Q2ZUMW9CNnBIWlJZTEQ2VGxWZF9RWHYwY2l0S01ESG1UZUppZEVTbzB6LWRRSWRZYnFn?oc=5",
+        "summary": "Google DeepMind Engineer Resigns in Protest of Pentagon Contract &nbsp;&nbsp; The Intercept"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
