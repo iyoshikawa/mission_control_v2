@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-22T19:08:26.740Z",
+    "generatedAt": "2026-10-22T23:05:10.901Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,46 @@
   },
   "newsFeed": [
     {
+      "headline": "Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-10-22T23:01:11.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why AI’s Deepest Mind Believes the World Is About to Change Radically &nbsp;&nbsp; WSJ",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5"
+    },
+    {
+      "headline": "Open call for guest investigators in the life sciences - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-10-22T22:03:06.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Open call for guest investigators in the life sciences &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5"
+    },
+    {
+      "headline": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-10-22T21:58:06.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "LLMs are making formal software verification feasible at a much larger scale &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5"
+    },
+    {
+      "headline": "The Myth of Safe AI - The Atlantic",
+      "source": "The Atlantic",
+      "timestamp": "2026-10-22T19:12:03.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Myth of Safe AI &nbsp;&nbsp; The Atlantic",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUpsa1B0Mng2UXl0cTBTMlc1TzRROVRGV2F4d0dPRVVwZWNmdDlDNmFfcjRPLXc4LW94bzBNWTBsNzAwN3d2aXJiandWVDk2ZlNDay1fS29odE9qckxaVmJad0JOQjAzSndqNU1RbHVrZjlXeXNzMDZQMDltdXFTUjZzcnVPdw?oc=5"
+    },
+    {
       "headline": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review - Reuters",
       "source": "Reuters",
       "timestamp": "2026-10-22T18:14:36.000Z",
@@ -22,14 +62,14 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5"
     },
     {
-      "headline": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI - Yahoo Tech",
-      "source": "Yahoo Tech",
-      "timestamp": "2026-10-22T16:38:10.000Z",
+      "headline": "Meta shares slide, default insurance hits record as AI spending alarms investors - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-22T17:21:56.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI &nbsp;&nbsp; Yahoo Tech",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlozTDhMLWt2dUdLYlZNTGNFRlk5aFFLcmE3OUo5YUlWelIzZ3EtcmVEQVNVUmdCWlh6SlU5YzU4cmxPbVVsUS03MV9QVVhZQkp4N0tVemZsMHphc2duWkFZRHhPY0REdEp4V3gyZ3AxNUw3bEJMYndNZFNQRl9MV0x3?oc=5"
+      "category": "regulation",
+      "summary": "Meta shares slide, default insurance hits record as AI spending alarms investors &nbsp;&nbsp; Reuters Meta reports third-quarter revenue beat and issues strong guidance &nbsp;&nbsp; CNBC Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5"
     },
     {
       "headline": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters",
@@ -37,29 +77,19 @@
       "timestamp": "2026-10-22T16:29:48.000Z",
       "impact": "LOW",
       "category": "regulation",
-      "summary": "Anthropic IPO stands alone as AI market jitters sideline others &nbsp;&nbsp; Reuters Anthropic to publicly file for IPO as early as Friday, sources say &nbsp;&nbsp; Yahoo Finance Which Funds Have the Largest Stakes in Anthropic and OpenAI Ahead of Their IPOs? &nbsp;&nbsp; Morningstar",
+      "summary": "Anthropic IPO stands alone as AI market jitters sideline others &nbsp;&nbsp; Reuters Anthropic to publicly file for IPO as early as Friday, sources say &nbsp;&nbsp; Yahoo Finance Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5"
     },
     {
-      "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-10-22T15:50:30.000Z",
+      "headline": "The biggest wealth giveaway in modern history aims to transform the world - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-10-22T16:00:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "OpenAI, Anthropic, and Nvidia had record lobbying quarters &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg?oc=5"
-    },
-    {
-      "headline": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-22T15:39:07.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5"
+      "summary": "The biggest wealth giveaway in modern history aims to transform the world &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5"
     },
     {
       "headline": "Microsoft launches AI Supercomputer Infrastructure team, led by networking head - SDxCentral",
@@ -72,48 +102,54 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWd1VlVreUREbnFNZy1EVUxFQ1BxOG9BRzNDeW9ZY2xLUzRzNnI1OFR3Z1psMFJ6TE1uOFF0T1FoMU84Wk45aTNxRFZjRXlKa1dTTjVvNmdSaTkyN2o1OEhWTF9DRE1UY0hDZ3FVZVlDdW5XcmtEUFhPQjctSTJ0TmgzeGlTWng4SWRiOUl5cEhRYm5KR21TcWJ0LVNrQVFMVWdYZ2VkTW5QS09Fb04xbg?oc=5"
     },
     {
-      "headline": "Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-10-22T13:56:54.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Why AI’s Deepest Mind Believes the World Is About to Change Radically &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5"
-    },
-    {
-      "headline": "Meta's AI build-out comes with an $825 billion price tag - Yahoo Finance",
+      "headline": "Tesla lowers capital expenditures target, IBM recovers from earnings, META AI build-out plans - Yahoo Finance",
       "source": "Yahoo Finance",
-      "timestamp": "2026-10-22T13:00:46.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Meta's AI build-out comes with an $825 billion price tag &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Meta AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjBURUhlWENudEZMUzZ1OGZCNmZBTXVIbURucGY3azBMbTJXaGkxaS1nVTMwRWo5VnhlUlcwc05fc19LVmVyeU5hYWxXbnl3U0pXTUhZdHVhRks3QUg1NmZmdllDSFFqdzlOZ3RUVkxJSm4tTmlEU05MZHFzTUQyNzZDSklEcmxWQlBSMFlZclRhZ3pabkFTYWIwYnZ4RDdtQjBV?oc=5"
-    },
-    {
-      "headline": "Meta's AI spending drives create new stock class - Fox News",
-      "source": "Fox News",
-      "timestamp": "2026-10-22T12:38:00.000Z",
+      "timestamp": "2026-10-22T13:42:07.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta's AI spending drives create new stock class &nbsp;&nbsp; Fox News Meta reports third-quarter revenue beat and issues strong guidance &nbsp;&nbsp; CNBC Meta shares slide, default insurance hits record as AI spending alarms investors &nbsp;&nbsp; Reuters Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow &nbsp;&nbsp; The New York Times Meta adds users and revenue as AI costs climb &nbsp;&nbsp; Social Media Today Meta's AI vision doesn't come cheap, and its earnings could prove it &nbsp;&nbsp; Yahoo Finance PODCAST: Meta's AI bill &nbsp;&nbsp; Reuters Meta puts Muse agent at heart of AI strategy, plans new stock to power investments &nbsp;&nbsp; Reuters Meta's AI bet faces Wall Street &nbsp;&nbsp; CNBC",
+      "summary": "Tesla lowers capital expenditures target, IBM recovers from earnings, META AI build-out plans &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZb2l2emNyX3hMVHhlWjliLWRzWWdKeFRxeUNGa1RUamp4d3MyWXhhRFI3aUxqS1NhRVZTUmVxTkZYQnBGTUdDajFMQ2Zkb1FxaVZVX0xR?oc=5"
-    },
-    {
-      "headline": "Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried - Time Magazine",
-      "source": "Time Magazine",
-      "timestamp": "2026-10-22T12:00:04.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta's Muse AI Is Winning Over Older Adults. Privacy Experts Are Worried &nbsp;&nbsp; Time Magazine",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBVWVYNkMweW9aM3VpcGl5ekhoRjdSYm5aM0xOVTdKOU1yOGU5TGhma29lckk4eXdDQjZaODAwVGpRWFE5OW1VNUpqckV5NVdydk0xZnh2VzNuWnM0NjB3VHN5ZFJyTFVwSEpGXzZDcDJZenZXc3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcUwxVEFOckVNa1hsZlNMblhBOGJRZVI0M2d0X2RNQXpCdnE0THdXRHFIUU1BTXBTcUtSLTNfQ2NDUFdYeWVva0dfMVpza1ZJVG5CTjAyTm9IZEF0VHc4TklMZ2ZXNWxBQ3hxZHNSVVNQUGdFeUFfS0RRSFRER203ZjYwdmNQX19UZERNeS1xUFBwT3lSdUduY1N1SC03dWh2R3VrOExjNlZWbWJLNWtmS3V0NTlDNWg2VTR3a3F4MFRhcHhoQW1LamQxWmxHMEc0c0ZEZg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-10-22T23:01:11.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
+        "summary": "Why AI’s Deepest Mind Believes the World Is About to Change Radically &nbsp;&nbsp; WSJ"
+      },
+      {
+        "headline": "Open call for guest investigators in the life sciences - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-10-22T22:03:06.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+        "summary": "Open call for guest investigators in the life sciences &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "LLMs are making formal software verification feasible at a much larger scale - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-10-22T21:58:06.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
+        "summary": "LLMs are making formal software verification feasible at a much larger scale &nbsp;&nbsp; Anthropic"
+      },
+      {
+        "headline": "The Myth of Safe AI - The Atlantic",
+        "source": "The Atlantic",
+        "timestamp": "2026-10-22T19:12:03.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUpsa1B0Mng2UXl0cTBTMlc1TzRROVRGV2F4d0dPRVVwZWNmdDlDNmFfcjRPLXc4LW94bzBNWTBsNzAwN3d2aXJiandWVDk2ZlNDay1fS29odE9qckxaVmJad0JOQjAzSndqNU1RbHVrZjlXeXNzMDZQMDltdXFTUjZzcnVPdw?oc=5",
+        "summary": "The Myth of Safe AI &nbsp;&nbsp; The Atlantic"
+      },
       {
         "headline": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review - Reuters",
         "source": "Reuters",
@@ -124,49 +160,13 @@
         "summary": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI - Yahoo Tech",
-        "source": "Yahoo Tech",
-        "timestamp": "2026-10-22T16:38:10.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlozTDhMLWt2dUdLYlZNTGNFRlk5aFFLcmE3OUo5YUlWelIzZ3EtcmVEQVNVUmdCWlh6SlU5YzU4cmxPbVVsUS03MV9QVVhZQkp4N0tVemZsMHphc2duWkFZRHhPY0REdEp4V3gyZ3AxNUw3bEJMYndNZFNQRl9MV0x3?oc=5",
-        "summary": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI &nbsp;&nbsp; Yahoo Tech"
-      },
-      {
-        "headline": "Anthropic IPO stands alone as AI market jitters sideline others - Reuters",
+        "headline": "Meta shares slide, default insurance hits record as AI spending alarms investors - Reuters",
         "source": "Reuters",
-        "timestamp": "2026-10-22T16:29:48.000Z",
+        "timestamp": "2026-10-22T17:21:56.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5",
-        "summary": "Anthropic IPO stands alone as AI market jitters sideline others &nbsp;&nbsp; Reuters Anthropic to publicly file for IPO as early as Friday, sources say &nbsp;&nbsp; Yahoo Finance Which Funds Have the Largest Stakes in Anthropic and OpenAI Ahead of Their IPOs? &nbsp;&nbsp; Morningstar"
-      },
-      {
-        "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-10-22T15:50:30.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg?oc=5",
-        "summary": "OpenAI, Anthropic, and Nvidia had record lobbying quarters &nbsp;&nbsp; The Verge"
-      },
-      {
-        "headline": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-10-22T15:39:07.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZfdGdfS21jbGZ2WDZCX241bWs2RTFmdnRFY1FCQVdsS0VLOTdFNk1relhYdHAxT3VrdUY1RzhfdlFtbGRkV3o5MzZVeG93WkxfNzFxczIxWDJOVEZEN0o2eXJiQUN2eGQxRUdNMkEtZm52RUdZTmFmdGJnVEl2YjV3djlkVzExVnJQMFMwRWM5eldrdFRiNnFHQVFQUzhUZWFYOVN0Wlk1Zk96aWdEQ2thRDM2NDVKRFZwNnB0QWdUMGhCQkRtUQ?oc=5",
-        "summary": "Meta and chip stocks decline as AI trade comes under pressure: AlphaCheck &nbsp;&nbsp; Yahoo Finance"
-      },
-      {
-        "headline": "Microsoft launches AI Supercomputer Infrastructure team, led by networking head - SDxCentral",
-        "source": "SDxCentral",
-        "timestamp": "2026-10-22T15:24:44.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQWd1VlVreUREbnFNZy1EVUxFQ1BxOG9BRzNDeW9ZY2xLUzRzNnI1OFR3Z1psMFJ6TE1uOFF0T1FoMU84Wk45aTNxRFZjRXlKa1dTTjVvNmdSaTkyN2o1OEhWTF9DRE1UY0hDZ3FVZVlDdW5XcmtEUFhPQjctSTJ0TmgzeGlTWng4SWRiOUl5cEhRYm5KR21TcWJ0LVNrQVFMVWdYZ2VkTW5QS09Fb04xbg?oc=5",
-        "summary": "Microsoft launches AI Supercomputer Infrastructure team, led by networking head &nbsp;&nbsp; SDxCentral"
+        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
+        "summary": "Meta shares slide, default insurance hits record as AI spending alarms investors &nbsp;&nbsp; Reuters Meta reports third-quarter revenue beat and issues strong guidance &nbsp;&nbsp; CNBC Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow &nbsp;&nbsp; The New York Times"
       }
     ],
     "whyItMatters": [
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
