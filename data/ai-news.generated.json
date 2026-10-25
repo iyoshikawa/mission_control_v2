@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-25T21:32:35.549Z",
+    "generatedAt": "2026-10-25T23:57:31.509Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,32 @@
   },
   "newsFeed": [
     {
+      "headline": "AI bot tied to Anthropic reaches public Georgia data hub - FOX 5 Atlanta",
+      "source": "FOX 5 Atlanta",
+      "timestamp": "2026-10-25T23:33:35.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "AI bot tied to Anthropic reaches public Georgia data hub &nbsp;&nbsp; FOX 5 Atlanta",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJvR0lQaXp6MHlOVkR6ejFSUzdwY1Y3VXpxRkVzZHZUcnd1czB0MmVIaWxOSnQ3UGlkeTdzdTNOR25vUUV2WXlFWkNVUGtfZUpYa1FQeHUtVFhpRF93dkhKN3BjUlZ4bVJIb2hXSTRWQU1tVVZESkJjT29XeEZ1R3hrRzFHR21wck9NajdEUmM3T2V0?oc=5"
+    },
+    {
+      "headline": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization - Axios",
+      "source": "Axios",
+      "timestamp": "2026-10-25T22:38:35.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization &nbsp;&nbsp; Axios",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5"
+    },
+    {
       "headline": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models - The Guardian",
       "source": "The Guardian",
       "timestamp": "2026-10-25T18:41:00.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models &nbsp;&nbsp; The Guardian Elvis Presley’s rights holders sue Anthropic saying it trained AI on his music &nbsp;&nbsp; NBC News Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement &nbsp;&nbsp; The New York Times",
+      "summary": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models &nbsp;&nbsp; The Guardian Elvis Presley’s rights holders sue Anthropic, saying it trained AI on his music &nbsp;&nbsp; NBC News Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelFOZFdTZmw2a1FtcjAxZk5lYktWT09FRTRaT0g0MmFrRFpHX0dIbk1IeVJNYmxVVlhBZHRYWk1YZzFHRjh0N29jSEdWd2s3OEJrcFM4SW9Tb29tLTQ5VjJaQ3BFQThpRXNJUzVPbXcwOElvcVJUNl9aZE1SaWVZTTR1VTYtcHNGZVdjU2t4MVItd2ZKYlhZZGd3cw?oc=5"
     },
@@ -42,6 +62,16 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5"
     },
     {
+      "headline": "Stacklet’s AI FinOps Benchmark Spans 3 Clouds [2026] - tech-insider.org",
+      "source": "tech-insider.org",
+      "timestamp": "2026-10-25T14:11:03.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Stacklet’s AI FinOps Benchmark Spans 3 Clouds [2026] &nbsp;&nbsp; tech-insider.org",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0pBc2ZDUjk3RVNkU25mYXRoallNU2F2MUhhVTEwenlUZ2Z0bVZIWjhtMGpxb1lMRmZVc21FUnFnVmpzYlNFR3JSRjFJMGNUYlV0c0RjYUxDU28tdzRPa0ZYWV9sMXpGTHAxdy1YdEFzeFVYVVpnS3RzS1RYM0J2dHl1MjE?oc=5"
+    },
+    {
       "headline": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-10-25T12:00:00.000Z",
@@ -50,26 +80,6 @@
       "summary": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2tEcWk4TXRUN3NDNGl3TFZRd1RldklrN2hwUko3ckQtSFRyUEFKcDJkN1dycm4waVNBU0xnTU9MRTFsaGpTdXlJeXRmRGdReWlWVGYxMHRULUFaN3pKMFA3WWt3STRoazNUUGZyMEZFSFpLZjhhT2dNN0VRSzQ0Y21zcDVaajNzc3R4bE5mcldXQQ?oc=5"
-    },
-    {
-      "headline": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes - Tom's Hardware",
-      "source": "Tom's Hardware",
-      "timestamp": "2026-10-25T11:30:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes &nbsp;&nbsp; Tom's Hardware",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5"
-    },
-    {
-      "headline": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple - AP News",
-      "source": "AP News",
-      "timestamp": "2026-10-25T10:57:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple &nbsp;&nbsp; AP News",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5"
     },
     {
       "headline": "Google DeepMind builds 3D periodic table with Gemini 4 Argon: What is so different about it - The Times of India",
@@ -82,16 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZmFqbWV1UW1hWmt2b1pBZTVjOWthVUNHYjd4V3RzeV9UX1hzSUVTQVRRZTRfMTBWdTMtalQtblBTd0Q4VTdWbENybm45UWx3TnRrcF9wb1UtVFVqeFI1UERmNnY2M2l0SjNBUnY0cjZMalFnSGpveXllT2tweUthaWdwa2hlWWFSRUV1VE5PbVBkbkJlQWxGNUFPMXl6Ql9XS0NZTkFSMFB4ajYwNU4tdDZuUm00UFNGQVlyVkpSdFpJWE5rb0xsSkg0TVlLa0luRy1rZXY3bUJHNEFWMTdPTloyVnZCMGZMUjFhLWVSZlBZakZmMWhEVE8tVDZKZkRPbkYw0gGIAkFVX3lxTE9fT3d3Yng3TVBINThDT01aNkZnQkxHTFIta0FYR1NaSWxZUUYyMHIxa3VGdWowUHk0TFpLdURkV0p4RFIzRmhtVGdHdmRZdWFuZW44bEtlOW1wMDZBc245cEFyaTUzTTFhT0lyVnl4STkySS00TFBWd3l5S180blFkekdxdkNUbjBNdVN3X0EwcVNITk9sN05aZjVWV2NsVFhHek5uTjhsQm1RUFpMUVBudVBRNExyUlVzYUFhRUdCekp6dU1hOVhpVkROWjIxSnhHeUxWNVIwR2J2OUZkdG5COFhCMUlYdkZoczRUSlQ3djEtTDBFanBYamwweDZCaEdFNEZkYWd6TA?oc=5"
     },
     {
-      "headline": "Put Your A.I. Agents to Work With These 5 Killer Tasks - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-10-25T09:01:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Put Your A.I. Agents to Work With These 5 Killer Tasks &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVM3eS0zbjY1QVZYMl92Ym80ZHZ2MTJ2ZTVycG8xY2FrWjAzSHlOODNKUmhWTkhuN1RqSm9TeXJPLXBzM0s3YUhKY2ttZVpENjlVQmRpbGIxazBISmNnYkExbFR1RnMtSGRaTVlYaFdxYzlHOTJvT1JjMDBzVnE0UnRieGJabm0tZ1lWYXJEcnlYeTBobWRMNjY0QWxVeG8?oc=5"
-    },
-    {
       "headline": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News",
       "source": "The Hacker News",
       "timestamp": "2026-10-25T06:54:00.000Z",
@@ -102,18 +102,36 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5"
     },
     {
-      "headline": "Microsoft's $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget? - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "timestamp": "2026-10-24T15:44:00.000Z",
+      "headline": "Microsoft’s $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-10-24T15:44:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft's $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary": "Microsoft’s $50 Billion Gamble: Can Microsoft’s Azure Growth Justify Its Exploding AI Budget? &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUsyVnlVRjI5ZjFFeTQzdG55X3hyaVhqU1VKaFVjMENpZWxoMF9WQUdzRDM2VXg5T1NsTTdNalFCRGtwcG1DaThUOTc1VzlJdlpmdDk2bXBXRjRUOTNkZ1pZdEVPOHByNS1JMFRQLThsTkhscmdwVnNUbHpyellqTEdXMWZGWjZoc3Q4N2dKLVJoazU0YnJfeVhRemFtMmt0UkdqSWpud1IzV2N3SGU3Q1hOYThmRWVOd0I0UWNhTDVtR1NVbGQ1eTdhb1M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDZfVUM2dHBSc0pRbEdaWTlzWUI1SDBkRzhBRXdwaExYNUU5UU43dEI3MGtzUWpZeGg4cFhRRFo2Y2VaTWJ5blZSU0VSeGNiQUxrbGVEc0hCcWpxT0t6WmZLTmhfemJoeDRHZENBaHhOWFBEbTQtNkVDUm5yRl9McXlnSGJWLXJRcUhrWDdaMWh3RnpWblZzdjJqVm9jekdab3dV?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "AI bot tied to Anthropic reaches public Georgia data hub - FOX 5 Atlanta",
+        "source": "FOX 5 Atlanta",
+        "timestamp": "2026-10-25T23:33:35.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJvR0lQaXp6MHlOVkR6ejFSUzdwY1Y3VXpxRkVzZHZUcnd1czB0MmVIaWxOSnQ3UGlkeTdzdTNOR25vUUV2WXlFWkNVUGtfZUpYa1FQeHUtVFhpRF93dkhKN3BjUlZ4bVJIb2hXSTRWQU1tVVZESkJjT29XeEZ1R3hrRzFHR21wck9NajdEUmM3T2V0?oc=5",
+        "summary": "AI bot tied to Anthropic reaches public Georgia data hub &nbsp;&nbsp; FOX 5 Atlanta"
+      },
+      {
+        "headline": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization - Axios",
+        "source": "Axios",
+        "timestamp": "2026-10-25T22:38:35.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
+        "summary": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization &nbsp;&nbsp; Axios"
+      },
       {
         "headline": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models - The Guardian",
         "source": "The Guardian",
@@ -121,7 +139,7 @@
         "impact": "HIGH",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelFOZFdTZmw2a1FtcjAxZk5lYktWT09FRTRaT0g0MmFrRFpHX0dIbk1IeVJNYmxVVlhBZHRYWk1YZzFHRjh0N29jSEdWd2s3OEJrcFM4SW9Tb29tLTQ5VjJaQ3BFQThpRXNJUzVPbXcwOElvcVJUNl9aZE1SaWVZTTR1VTYtcHNGZVdjU2t4MVItd2ZKYlhZZGd3cw?oc=5",
-        "summary": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models &nbsp;&nbsp; The Guardian Elvis Presley’s rights holders sue Anthropic saying it trained AI on his music &nbsp;&nbsp; NBC News Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement &nbsp;&nbsp; The New York Times"
+        "summary": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models &nbsp;&nbsp; The Guardian Elvis Presley’s rights holders sue Anthropic, saying it trained AI on his music &nbsp;&nbsp; NBC News Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement &nbsp;&nbsp; The New York Times"
       },
       {
         "headline": "Google DeepMind staff quit over military AI work: 'Ashamed to work at Google' - Yahoo",
@@ -142,31 +160,13 @@
         "summary": "Meta’s Unending AI Spending &nbsp;&nbsp; WSJ"
       },
       {
-        "headline": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-10-25T12:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2tEcWk4TXRUN3NDNGl3TFZRd1RldklrN2hwUko3ckQtSFRyUEFKcDJkN1dycm4waVNBU0xnTU9MRTFsaGpTdXlJeXRmRGdReWlWVGYxMHRULUFaN3pKMFA3WWt3STRoazNUUGZyMEZFSFpLZjhhT2dNN0VRSzQ0Y21zcDVaajNzc3R4bE5mcldXQQ?oc=5",
-        "summary": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes - Tom's Hardware",
-        "source": "Tom's Hardware",
-        "timestamp": "2026-10-25T11:30:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
-        "summary": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes &nbsp;&nbsp; Tom's Hardware"
-      },
-      {
-        "headline": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple - AP News",
-        "source": "AP News",
-        "timestamp": "2026-10-25T10:57:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
-        "summary": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple &nbsp;&nbsp; AP News"
+        "headline": "Stacklet’s AI FinOps Benchmark Spans 3 Clouds [2026] - tech-insider.org",
+        "source": "tech-insider.org",
+        "timestamp": "2026-10-25T14:11:03.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0pBc2ZDUjk3RVNkU25mYXRoallNU2F2MUhhVTEwenlUZ2Z0bVZIWjhtMGpxb1lMRmZVc21FUnFnVmpzYlNFR3JSRjFJMGNUYlV0c0RjYUxDU28tdzRPa0ZYWV9sMXpGTHAxdy1YdEFzeFVYVVpnS3RzS1RYM0J2dHl1MjE?oc=5",
+        "summary": "Stacklet’s AI FinOps Benchmark Spans 3 Clouds [2026] &nbsp;&nbsp; tech-insider.org"
       }
     ],
     "whyItMatters": [
