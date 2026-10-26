@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-26T17:10:44.142Z",
+    "generatedAt": "2026-10-26T22:27:20.287Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-10-26T16:54:00.000Z",
+      "headline": "Stock Market Today: Anthropic IPO in Focus; Nasdaq, Dow Move Higher — Live Updates - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-10-26T21:58:27.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "Stock Market Today: Anthropic IPO in Focus; Nasdaq, Dow Move Higher — Live Updates &nbsp;&nbsp; WSJ Anthropic just put out its IPO filing. Here’s everything you need to know. &nbsp;&nbsp; MarketWatch Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1 &nbsp;&nbsp; CNBC",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzdFQkJFVk8yOUxhWXN4M0J5TGc2cFZMLU1HLWpYblk2RGprSlh3RHhMOE1mRlUzRE5XU3d1a08zcjE1UE0xTUZzWDBSSnBhZ3hjekRXVzYxajhNRFdYZ1lyZURmWW9USTNhYXVWWTFDRGlxczFydE5UNTRCQTVmc1duR2RKTGs?oc=5"
+    },
+    {
+      "headline": "Anthropic says its AI model Claude accessed public voter data with prompting - CBS News",
+      "source": "CBS News",
+      "timestamp": "2026-10-26T21:50:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic says its AI model Claude accessed public voter data with prompting &nbsp;&nbsp; CBS News",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmVwVGx2VUR4dlU5eXhnb193Sy1DZ0tBR1JlNnpxZU9Sc056ZGhoVFM5M09lWDhzSmQ3RDZsVHRIRDQzcURIVkpaMnVHcmZucVBUbHdUWHRBeHpCbXl6RlI0Tjc0VWthZmZDVDhuS25BdkpvU3h1V2pvOEMxMjdTWkhfal9HVENVeDZWVnJQNkgybC15TndkcFJCTFhTemxjUXVRS2VNVHJtdGpPaW0xaW9jcw?oc=5"
+    },
+    {
+      "headline": "The Best Meta Smart Glasses for Everyday Wear, Ranked - Popular Mechanics",
+      "source": "Popular Mechanics",
+      "timestamp": "2026-10-26T20:49:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5"
+      "summary": "The Best Meta Smart Glasses for Everyday Wear, Ranked &nbsp;&nbsp; Popular Mechanics",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjdoN29WY3JkVncweTlzRmtsa0pxaldSVFJ1bE9ZS2c3ak4xRFlGWTBTakpUc2Q4bWFmUzB0c0RFTHVkQkxORG51M3A4czlDVTd0c1R2bUZvU3N3YzUxRnQyY1VtYXRsSjZOcFVqYV9HSVZIR194WVJXWTZXSWtXNDBMYThlam92bmpVeGt3?oc=5"
+    },
+    {
+      "headline": "Microsoft’s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst - Benzinga",
+      "source": "Benzinga",
+      "timestamp": "2026-10-26T17:58:56.000Z",
+      "impact": "WATCH",
+      "category": "models",
+      "summary": "Microsoft’s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst &nbsp;&nbsp; Benzinga",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM215SVdVdm9nWktoMTREWUFRdkwydjk1cE1nbjRsbHJRaFMxaWVhVGlwWHlyVW1OSnVrV2p5YmU4aExFU2VoQlF4bkdVRHFNNTM1OUZrbHVLNndNcE1sQjdlODE2MUlXM1NTN2I0Mm5HM09wb2l2akRobEYwc0FtZEFOT3M3TjZRZDFtcFBJeWxldGoyNk8tWTJxV1YxY1BQWERlTDZvWnlaVTI1MU9LS0NaTGNrUzF6MExZUFluWW9lRnM?oc=5"
+    },
+    {
+      "headline": "‘Just three guys’: Break-ins at OpenAI are a warning to America - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-10-26T17:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "‘Just three guys’: Break-ins at OpenAI are a warning to America &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWFiR3pEUFJ2dHA5cndfVUNmTkZoNWNrSlFlXzNsSVhwLWRna2ZiMVI2MXpOdktUVFpNREVXZWRiTUdKNU5fWjhES2VyTFBrWlJTREFwYU1MVDlqeXVFSmxxTXc4R19rRlA3ZV91NnlJVTNzZ1B3aERQWWc1MnU4eFpKRnJPQUZ2MmlsV0h0UVJnbUFMbnRhY3NoYzVYOWhMOF9pZEJB?oc=5"
     },
     {
       "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian",
@@ -32,64 +72,24 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5"
     },
     {
-      "headline": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity - PBS",
-      "source": "PBS",
-      "timestamp": "2026-10-26T16:40:54.000Z",
+      "headline": "Building Your First AI Agent in Python with the OpenAI Agents SDK - KDnuggets",
+      "source": "KDnuggets",
+      "timestamp": "2026-10-26T14:05:12.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity &nbsp;&nbsp; PBS",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVJ3UjVBc3k5bGw5NW91U01kWGFyd05kT1BRb3hIODdqLTRUdExySGhIQWdUdkxfU2Zmc0V1cVF4LWNFVjRqTU03VVM3cmozcTkxTXozX0ZuUWcxRlNIc3lVNW1tWDJTcnVLTXl5aDNyangxYmZFSGtIemFIbUg1Q2h2UmZfOGtISkxPM2hwc2lPek93cXhiTjlMZFk4S2F1Z0U3MVhqZkJFUDA5MkJkNVhUdWswbHJCWUE2MHktNlRMSUpIbFVtR1lIbUZ5LUFHQVE4?oc=5"
+      "category": "models",
+      "summary": "Building Your First AI Agent in Python with the OpenAI Agents SDK &nbsp;&nbsp; KDnuggets",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblhoeXFkSXQ0QWVHVkZuSnk1NXVZX3dmSlNlTkpqcXp5NE54X2FDRm8xejFlZE5EODQ5QktEdW90eV9xLVl0eGxmUjJRNm55Q0xWZUFnVDRsNERhRkUwRDU1a09XQVBLczZpMGRWSi1WWGNiMVgxYVlBMGRtNnJ1VlBRcmVzbHBrNzJfanNDbFFMUGdiT2c?oc=5"
     },
     {
-      "headline": "Opinion | The AI race has a cybersecurity problem no one can ignore - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-10-26T16:04:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Opinion | The AI race has a cybersecurity problem no one can ignore &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWFiR3pEUFJ2dHA5cndfVUNmTkZoNWNrSlFlXzNsSVhwLWRna2ZiMVI2MXpOdktUVFpNREVXZWRiTUdKNU5fWjhES2VyTFBrWlJTREFwYU1MVDlqeXVFSmxxTXc4R19rRlA3ZV91NnlJVTNzZ1B3aERQWWc1MnU4eFpKRnJPQUZ2MmlsV0h0UVJnbUFMbnRhY3NoYzVYOWhMOF9pZEJB?oc=5"
-    },
-    {
-      "headline": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO - The New York Times",
+      "headline": "Meet Anthropic’s Seven Founders as It Prepares to Go Public - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-10-26T15:24:56.000Z",
+      "timestamp": "2026-10-26T13:34:56.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO &nbsp;&nbsp; The New York Times",
+      "summary": "Meet Anthropic’s Seven Founders as It Prepares to Go Public &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5"
-    },
-    {
-      "headline": "Meta eyes record $95 billion equity raise to fund AI expansion - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-26T15:17:40.000Z",
-      "impact": "LOW",
-      "category": "regulation",
-      "summary": "Meta eyes record $95 billion equity raise to fund AI expansion &nbsp;&nbsp; Reuters",
-      "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5"
-    },
-    {
-      "headline": "AI giant Anthropic files for an IPO that could break records - NPR",
-      "source": "NPR",
-      "timestamp": "2026-10-26T14:16:23.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI giant Anthropic files for an IPO that could break records &nbsp;&nbsp; NPR",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWRLbnU1SW5mV0hFN0luc05jT3VYaU4yTEc2MVdvTGpZUnVkcXJsTElPZUNWNEM0TDZBalFMYWhEeHVNY2hUYjB2cUhBYUEtV3BCT1JLQjF0ZnBmNkJkY3FGamZBdlJmS2hVV21neFJHblpROHZYTVN2OFU3LTZ5Zy14ZGdQMjcz?oc=5"
-    },
-    {
-      "headline": "Anthropic, PBC - S-1 (Q2) - SEC.gov",
-      "source": "SEC.gov",
-      "timestamp": "2026-10-26T13:24:23.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic, PBC - S-1 (Q2) &nbsp;&nbsp; SEC.gov Anthropic Files for IPO Live Updates: AI Giant Unveils S-1 &nbsp;&nbsp; WSJ Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT' &nbsp;&nbsp; Yahoo Finance Anthropic IPO live updates: Prospectus sheds new light on Alphabet, Amazon stakes &nbsp;&nbsp; CNBC Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO &nbsp;&nbsp; The New York Times Anthropic's IPO filing shows explosive growth, risks and staggering costs &nbsp;&nbsp; Reuters Anthropic Files for IPO to Become First Frontier AI Lab to List &nbsp;&nbsp; Bloomberg.com Anthropic reveals $80 billion loss, huge spending spree ahead of IPO &nbsp;&nbsp; NBC News Anthropic set to make stock market debut as questions swirl about safety of AI &nbsp;&nbsp; CNN",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2ItSXJrUWdNaklDTWloN3RSd1VfTldGWDFMc2xySV8ta1ZTSUNNdUpmajBhMmVtTks0QnJIZnI1TWlHdnd1WF91Z2c1WEFHSVNxWTF4UXNMWnJ1RmFCM2hEb3NYd29uSVljWWhpVV81MGFfVENldDJxbFhUeWJ2RU93WmVPSnBJMmM0WDA3OGU?oc=5"
     },
     {
       "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature - CNBC",
@@ -102,26 +102,62 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHJaQ1NDV05GMUZYdFVWdUhBTlZEN0l1Q3l5VWVMRVNzVWUtZEd4M0VXYlV3dnkwOWtEQ1hkS1M3QWQzMUZpemZ6RFVZbEtBcmE2QXBueHJlZ05mNmVXMGZYVVU0SGdWZ2dlUF80c2FkQ3dkaTF3cnpETUM3ZGk2eHVUanJfYjMwQ1UxUWgza9IBlAFBVV95cUxPbEZHSVc4Z2QwOG15V2F6MFAzcU9udXNWSUhqWTZxaG15TjVvRzlmdkphRnJyS2JJd3JjcmRIR3YzQjlZN3p2djhLeDlkZzhLNWp0RmlBOUtKeUVtX3pVZGg5Zk8yLXpaV05MVUc0UDg0Y3ZHbEtveHFlQXhwZTh0Qmg2MlZtYWN1VHEzVGJhendLMDRT?oc=5"
     },
     {
-      "headline": "Microsoft Likely to See Continued Azure Growth Momentum Amid Rising AI Demand, Truist Says - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "timestamp": "2026-10-26T12:19:15.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Likely to See Continued Azure Growth Momentum Amid Rising AI Demand, Truist Says &nbsp;&nbsp; Yahoo! Finance Canada",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHVBQThBRGtEcVN5ZWt6Qm5qREJCOVhKUTc3Y3prY2FwUXJhVU85RDNIUzZ5QjNZVU5EMzBFZnNvTVltZ0pha3lhb3BKZDFBWTRUaWFIMEVtcXBtdFNCX2JpdElrbEQ4TEdqd2xnam14X3lmR3R6MkNUeV9BRXI1bDlXczNQWGV5LUJocGVR?oc=5"
+      "headline": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements - Meta Investor Relations",
+      "source": "Meta Investor Relations",
+      "timestamp": "2026-10-26T11:47:25.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements &nbsp;&nbsp; Meta Investor Relations",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxON0lNaXV6RThzZ0ltRF9MS3VXbHJpTkdETG81Y2toYkd5QXN2NUVhX3BiSnNkVWhhUU1sNzdMV1RIS1lNSm44Z05LdmZiWk42WlB4OGE2YUZZSlRIX3ZQN3ByNUVrYmFBdWFnLVBwUUNqMW14bllLZnV0OTB2WG9CMHlBWXl6SUhZWnYyU1lmdHBNNm41dDVzb2RESnFuNElWallZa2ZMamtpc3lLNms3N2VyOUxpZjl0QlZ6UzRORkpadGJ1bTV0NG5NaERaNDdTc0NFSVExWVREaHFMaGZzOFU5bFZ2anl4aFRHaW5BdjBNbzdKU01NM211OHFubTlGV2stRHJBdlVjYlRSeUVLMnE3TGpNaU9Ya2FScjJyWlBRUnd6Z0xZdUR5djdQb2ZDQkVsZUkzSEw1d1V1SzNIcXBweTBvMVRIRmNTd0JFcWhsMlZhczJlVFkxcnhNMkVER0JqQU10Tm9JQzVZU3BkM1lFWVZEaXVYYnJ2Z3FCQW9DQks4TWZmbUQyWFg?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-10-26T16:54:00.000Z",
+        "headline": "Stock Market Today: Anthropic IPO in Focus; Nasdaq, Dow Move Higher — Live Updates - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-10-26T21:58:27.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5",
-        "summary": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement &nbsp;&nbsp; The New York Times"
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzdFQkJFVk8yOUxhWXN4M0J5TGc2cFZMLU1HLWpYblk2RGprSlh3RHhMOE1mRlUzRE5XU3d1a08zcjE1UE0xTUZzWDBSSnBhZ3hjekRXVzYxajhNRFdYZ1lyZURmWW9USTNhYXVWWTFDRGlxczFydE5UNTRCQTVmc1duR2RKTGs?oc=5",
+        "summary": "Stock Market Today: Anthropic IPO in Focus; Nasdaq, Dow Move Higher — Live Updates &nbsp;&nbsp; WSJ Anthropic just put out its IPO filing. Here’s everything you need to know. &nbsp;&nbsp; MarketWatch Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1 &nbsp;&nbsp; CNBC"
+      },
+      {
+        "headline": "Anthropic says its AI model Claude accessed public voter data with prompting - CBS News",
+        "source": "CBS News",
+        "timestamp": "2026-10-26T21:50:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmVwVGx2VUR4dlU5eXhnb193Sy1DZ0tBR1JlNnpxZU9Sc056ZGhoVFM5M09lWDhzSmQ3RDZsVHRIRDQzcURIVkpaMnVHcmZucVBUbHdUWHRBeHpCbXl6RlI0Tjc0VWthZmZDVDhuS25BdkpvU3h1V2pvOEMxMjdTWkhfal9HVENVeDZWVnJQNkgybC15TndkcFJCTFhTemxjUXVRS2VNVHJtdGpPaW0xaW9jcw?oc=5",
+        "summary": "Anthropic says its AI model Claude accessed public voter data with prompting &nbsp;&nbsp; CBS News"
+      },
+      {
+        "headline": "The Best Meta Smart Glasses for Everyday Wear, Ranked - Popular Mechanics",
+        "source": "Popular Mechanics",
+        "timestamp": "2026-10-26T20:49:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjdoN29WY3JkVncweTlzRmtsa0pxaldSVFJ1bE9ZS2c3ak4xRFlGWTBTakpUc2Q4bWFmUzB0c0RFTHVkQkxORG51M3A4czlDVTd0c1R2bUZvU3N3YzUxRnQyY1VtYXRsSjZOcFVqYV9HSVZIR194WVJXWTZXSWtXNDBMYThlam92bmpVeGt3?oc=5",
+        "summary": "The Best Meta Smart Glasses for Everyday Wear, Ranked &nbsp;&nbsp; Popular Mechanics"
+      },
+      {
+        "headline": "Microsoft’s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst - Benzinga",
+        "source": "Benzinga",
+        "timestamp": "2026-10-26T17:58:56.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM215SVdVdm9nWktoMTREWUFRdkwydjk1cE1nbjRsbHJRaFMxaWVhVGlwWHlyVW1OSnVrV2p5YmU4aExFU2VoQlF4bkdVRHFNNTM1OUZrbHVLNndNcE1sQjdlODE2MUlXM1NTN2I0Mm5HM09wb2l2akRobEYwc0FtZEFOT3M3TjZRZDFtcFBJeWxldGoyNk8tWTJxV1YxY1BQWERlTDZvWnlaVTI1MU9LS0NaTGNrUzF6MExZUFluWW9lRnM?oc=5",
+        "summary": "Microsoft’s Copilot, Azure Demand Signals Stronger AI Monetization: Analyst &nbsp;&nbsp; Benzinga"
+      },
+      {
+        "headline": "‘Just three guys’: Break-ins at OpenAI are a warning to America - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-10-26T17:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWFiR3pEUFJ2dHA5cndfVUNmTkZoNWNrSlFlXzNsSVhwLWRna2ZiMVI2MXpOdktUVFpNREVXZWRiTUdKNU5fWjhES2VyTFBrWlJTREFwYU1MVDlqeXVFSmxxTXc4R19rRlA3ZV91NnlJVTNzZ1B3aERQWWc1MnU4eFpKRnJPQUZ2MmlsV0h0UVJnbUFMbnRhY3NoYzVYOWhMOF9pZEJB?oc=5",
+        "summary": "‘Just three guys’: Break-ins at OpenAI are a warning to America &nbsp;&nbsp; The Washington Post"
       },
       {
         "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian",
@@ -131,42 +167,6 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5",
         "summary": "Anthropic’s Claude AI model accessed Georgia voter data in US &nbsp;&nbsp; The Guardian"
-      },
-      {
-        "headline": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity - PBS",
-        "source": "PBS",
-        "timestamp": "2026-10-26T16:40:54.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVJ3UjVBc3k5bGw5NW91U01kWGFyd05kT1BRb3hIODdqLTRUdExySGhIQWdUdkxfU2Zmc0V1cVF4LWNFVjRqTU03VVM3cmozcTkxTXozX0ZuUWcxRlNIc3lVNW1tWDJTcnVLTXl5aDNyangxYmZFSGtIemFIbUg1Q2h2UmZfOGtISkxPM2hwc2lPek93cXhiTjlMZFk4S2F1Z0U3MVhqZkJFUDA5MkJkNVhUdWswbHJCWUE2MHktNlRMSUpIbFVtR1lIbUZ5LUFHQVE4?oc=5",
-        "summary": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity &nbsp;&nbsp; PBS"
-      },
-      {
-        "headline": "Opinion | The AI race has a cybersecurity problem no one can ignore - The Washington Post",
-        "source": "The Washington Post",
-        "timestamp": "2026-10-26T16:04:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWFiR3pEUFJ2dHA5cndfVUNmTkZoNWNrSlFlXzNsSVhwLWRna2ZiMVI2MXpOdktUVFpNREVXZWRiTUdKNU5fWjhES2VyTFBrWlJTREFwYU1MVDlqeXVFSmxxTXc4R19rRlA3ZV91NnlJVTNzZ1B3aERQWWc1MnU4eFpKRnJPQUZ2MmlsV0h0UVJnbUFMbnRhY3NoYzVYOWhMOF9pZEJB?oc=5",
-        "summary": "Opinion | The AI race has a cybersecurity problem no one can ignore &nbsp;&nbsp; The Washington Post"
-      },
-      {
-        "headline": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-10-26T15:24:56.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
-        "summary": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO &nbsp;&nbsp; The New York Times"
-      },
-      {
-        "headline": "Meta eyes record $95 billion equity raise to fund AI expansion - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-10-26T15:17:40.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
-        "summary": "Meta eyes record $95 billion equity raise to fund AI expansion &nbsp;&nbsp; Reuters"
       }
     ],
     "whyItMatters": [
@@ -196,8 +196,8 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
