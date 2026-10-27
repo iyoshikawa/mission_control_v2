@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-27T19:56:15.167Z",
+    "generatedAt": "2026-10-27T23:39:54.115Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,74 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI Says Its Newest Model Is Better at This 1 Skill. It Starts With Being Honest - Inc.com",
-      "source": "Inc.com",
-      "timestamp": "2026-10-27T19:13:45.000Z",
-      "impact": "HIGH",
+      "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-27T23:34:27.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI Says Its Newest Model Is Better at This 1 Skill. It Starts With Being Honest &nbsp;&nbsp; Inc.com",
+      "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication &nbsp;&nbsp; TechCrunch",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjB6M0hsUkF0RUoteWtFZXJ4M0NPSGZQdXFPcTMtUVhzZFJBbXhmMV9Db252d2xzN3ZzdG5rOFA0ZDJmVmZ3a0dFcTNqQjVaR3NnakFqNkpwbDEtNGNFSWRPRThnTUN1dEdJdVN4SkZncGJraXNtaEo4SzBfUFlIXy1rcWJscEIxYjNyaFNVZGpLcEJPZDdUczB0b1pBOVB0d08tX09fdmliX0VGMXFGRjhhczhqWFZpbGRmVXBB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3JtRzlfcnp1ZXJ4ZFFyZ2dSSUROTkNzY3FnY3l0SEJpRngzcDJNQzc3LUZpblVFc0dPWXF6eVNEbENSVU1ycjI0ZjJrbWEtcjhaR1B4XzlEWnVBRFQyaGZhc2ZocU9wTHJLcVgwOUc1djNNb2VWRVBUdjNVTGo2YXVpRlJTOEFnMmtPUkwxNUlEbVd6M3JyWUMwVlhyM1dLZmRYMXYtTmVoR0s0VmN0QXM0RnJUQQ?oc=5"
+    },
+    {
+      "headline": "What an Anthropic IPO Could Mean for the Bay Area - KQED",
+      "source": "KQED",
+      "timestamp": "2026-10-27T23:30:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What an Anthropic IPO Could Mean for the Bay Area &nbsp;&nbsp; KQED",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnc3YmdPaHkwLWY1c05kNW1YUTF5eFZYUUJEbkI1SEhwbXh0V1VTSmVGVHZrNWJHMmpFT1ItWWZTbXJrZGQzU2NiQ2NEc2xkWWlLaklVYkRYTFBZbTFmcG5IeGhkTDI1MGpnOFRBNXpvWnZtNEZCa3JseTlYR2RpOEFZWE16VUp6eGg3c09pZmtfNmRO?oc=5"
+    },
+    {
+      "headline": "Anthropic to Newsom: courts should have power to block risky AI - Politico",
+      "source": "Politico",
+      "timestamp": "2026-10-27T23:27:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic to Newsom: courts should have power to block risky AI &nbsp;&nbsp; Politico",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjZraEFFWjNFWGtzOUFEVW12Q1lRb0o1ay03UWU3RC1UYzRUVDRkQjJ2MGNtQXptUExnRE5MSE92RjQydzB6bE9RNTVUdVFhenNyYUo5QjllUUhETW0xcjJfd056Nnp4U25vWU1iQlhLYXdBS1JRSlZQTnBBTGlYSHVR?oc=5"
+    },
+    {
+      "headline": "Can You Trust Google And Meta’s AI With Your Ad Budget? - Forbes",
+      "source": "Forbes",
+      "timestamp": "2026-10-27T22:36:10.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Can You Trust Google And Meta’s AI With Your Ad Budget? &nbsp;&nbsp; Forbes",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbk90MmNaeVR1WUlMeDY5QzY2QTFCNUYxUk9zUzlCcEozX0V4VnJ2UjRpUGs4S1g4QkxvSi1NemxXTVN0WDE0SktaR1RzMGEzdjBNYlRac3hFdzNzR2xJdzdXSmZnaWNiQy1sOXBvMWNISjN3b2pwRmx5WFhEdTFmX1UzRUMzWW0tcHNGUXF2MDZuNHpHZ3lXUVlHOE1RYlRUbU9vY2wyYVZEaGtGSkE?oc=5"
+    },
+    {
+      "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-10-27T20:48:58.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs &nbsp;&nbsp; The Verge",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHZEeVBXNzg3cXBQbG83MnVCTjdGQWhjWU00Qjd2dTdRbWVERWJ2alV3LUFqNEZZT2J5VjF4cmVORnR0LVZqZFFBMGhUWXhMSnk4d2J3azEtZGRQVldDWExXNnlHNlhaQW9uMnNjTXNmd0l1cHp5WHc4TnFwV1lzeW4zeE5TeVlMVW03dy1ESmIxU0JnekJ2MHBTUzZBb3RzZGNpRGlucUc4UW9uRmc?oc=5"
+    },
+    {
+      "headline": "Early progress on accelerating drug development with Claude - Anthropic",
+      "source": "Anthropic",
+      "timestamp": "2026-10-27T20:20:53.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Early progress on accelerating drug development with Claude &nbsp;&nbsp; Anthropic",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5"
     },
     {
       "headline": "Anthropic IPO filing reveals AI security breaches, training halt - Fox News",
       "source": "Fox News",
-      "timestamp": "2026-10-27T18:01:52.000Z",
+      "timestamp": "2026-10-27T19:58:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic IPO filing reveals AI security breaches, training halt &nbsp;&nbsp; Fox News Stock Market News, Oct. 26, 2026: Tech Shares Rally After Anthropic Files for Historic IPO &nbsp;&nbsp; WSJ What is the 'AI bubble' and what happens if it pops? &nbsp;&nbsp; USA Today",
+      "summary": "Anthropic IPO filing reveals AI security breaches, training halt &nbsp;&nbsp; Fox News From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect' &nbsp;&nbsp; CNBC Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT' &nbsp;&nbsp; Yahoo Finance",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5"
-    },
-    {
-      "headline": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal - WSJ",
-      "source": "WSJ",
-      "timestamp": "2026-10-27T17:50:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal &nbsp;&nbsp; WSJ",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5"
     },
     {
       "headline": "We’re announcing Genie 4, our new world model for real-time interactive simulation. - blog.google",
@@ -62,130 +102,90 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSHE1Q2pvLWgzQk5SaDNUVjcwWnpNLUoteDhJZVRLU3RPZjFhX2dtSGdSRW9OVGdLbUZRQ2dyd3pMeWRqNEtUM080azFBX2l6RGZCd2diZkxYU19LSE9HNUNoTUFHa3NLMUN4SjhwMmRXdFFHVW1hVEpsZkxnWTA?oc=5"
     },
     {
-      "headline": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-27T14:59:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenBXenBKaW9oQ1R5bGVxbWNzYko0NTRSQkNfS1ZNMVZsWW84Y1JHQmtZMmVHcWNwU042b1ZmUEl2bTJfUnRhc05sMl9WUm1OZ1g3a2MySWJtYVVSc0FndURSQms3ZHBMVUZ3Mm4xQ3NfVnZRWk00cWhFR0VTVFZaTUFONzVjVEdCXzRfaDFQc3JrbjA4Q3N6a2xuU2FENlJBSEJzWGprdHdteVYxVXNUSEJfWWN0OXFsMFYw?oc=5"
-    },
-    {
-      "headline": "AI makes discoveries in mathematics, computer science, physics, OpenAI says - Al Jazeera",
-      "source": "Al Jazeera",
-      "timestamp": "2026-10-27T14:57:09.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "AI makes discoveries in mathematics, computer science, physics, OpenAI says &nbsp;&nbsp; Al Jazeera",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3ZUWTh4RW5uQUFNdlBLdHNZZnRDUUcwOWl2WVBsejlET1hpYWFheW1yaTAtRlNsOEFDRW9UbFliY0VuVDR0SW9YaXp1eTdJbk5kN2ExbGgtSTA0V1ItQmM2RzJ6ZzlqZndnRTBoeDlhS2F4aDk1eW5tVVdZRmtaazBTNUpmZUEzZ0Q1NjlfUGxmX3ZNQnkzWkNrdDRQYkVEa2NHcDVuZENKck9XMHp1MXRvX2p4RWFi0gG-AUFVX3lxTE9JeVZjeGd4RTdGeEJEQnJYcGVnWXJzdnJqLXVBczBTSXI3WEJQMmZBbmV5N050Wko5WkFCZEZfX0ljdlR0MlNITnZpeVNPUzhPczM0UTVYUDFWM2p6RmZSUVh6bm1kZ1BOYUlqeDVRMnA4RjkyR3A4YWZRbUlLd3R1M25sR3pXQ3BQM2d5NHZySFM5S3pzSUc0TWdkUk5TNEhsa2NFV3F5MEJzM21nemNETFlEM28zNFlpVGpZZnc?oc=5"
-    },
-    {
-      "headline": "Does Azure AI Growth Make Microsoft Stock a Hold Ahead of Q1 Earnings? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-27T14:15:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Does Azure AI Growth Make Microsoft Stock a Hold Ahead of Q1 Earnings? &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BMZi1wM3FuNmNna25BU21aV1NsR1g5ZzR0Rm5zZEgtWlgwX1NxeU5mLUhsZU1SalFnXzhQUURMZUFleWhwXzA5bGpYM0pyLUNMTnBaSC05UGlOVTl2aVotVUtJRmJKdDk1dGUtMUZhUFRGMWI4SE56ekV4TGdQcjd4b0JocFRwY0ZvMC1ybUZUWGFfeVZGOFBB?oc=5"
-    },
-    {
-      "headline": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic’s AI Hardware - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-10-26T22:50:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Broadcom Partners With Wall Street Bigwigs To Forge $63B Deal To Power Anthropic’s AI Hardware &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONHEwVER4QWp2OF9zMExQczNkS210UmUyNXhMZnRlMDdLRnNRN1pQY2tWZUpBWDhNVFFsZTdkRHhYSno0cUx4SW9tWnFNOUxESWFNejJpWnFaWDdzY1lkT2ZMdmJ3TEFCcDhjWDEtVkMwQy0tR0lfei1aQ0RveXVOSFpVX3pMZE52M01fVHF1Q0JLYldXejdTcVBCdUpwaFlITXE4?oc=5"
-    },
-    {
-      "headline": "Working with academic communities to build scientific understanding - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-10-26T21:42:50.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Working with academic communities to build scientific understanding &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHBEWEZtNngxZnVFcFlMRGFkb0xZZ3ViYUVzcTZXa3hpdWhhZzQxYVg1ZkhRMmI3ek5jU2hEVkdQMzlaV3hpV1R1enBucVJkQWsxNmhCVmE4LVc2UXpnZ2dQQnBXRGdzc3dSdnhFaXlxdjdxdDU0Sy02dWoxSTE5SUtnZXE1akZYN2VxeWRn?oc=5"
+      "headline": "DeepMind unveils Genie 4 world model promising more realistic physics and humans - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-10-27T16:00:22.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "DeepMind unveils Genie 4 world model promising more realistic physics and humans &nbsp;&nbsp; Ars Technica",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzhhVHhOcWFHTWVOU0ZPYUswRERZWXg4SFJFRV82RGdNbWY1YlZocVlwN2tNVGFkY2ZjOGd3dHpPV3Ywa0RRRklvM1pSSmQzS3FJUkc2UzdCVTF0YnJCQjEwQkROR2FYSWNNbVRWb0RsVjctdW90blVnY1ZzUWpweXZHR1ZMMElpeTVDYUdERUNhV0lRUWhaeGdndlFnMXFiRS1kNGxxd19YNmZKVXIyNDVwc1hjamt2ckFSWDVR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI Says Its Newest Model Is Better at This 1 Skill. It Starts With Being Honest - Inc.com",
-        "source": "Inc.com",
-        "timestamp": "2026-10-27T19:13:45.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjB6M0hsUkF0RUoteWtFZXJ4M0NPSGZQdXFPcTMtUVhzZFJBbXhmMV9Db252d2xzN3ZzdG5rOFA0ZDJmVmZ3a0dFcTNqQjVaR3NnakFqNkpwbDEtNGNFSWRPRThnTUN1dEdJdVN4SkZncGJraXNtaEo4SzBfUFlIXy1rcWJscEIxYjNyaFNVZGpLcEJPZDdUczB0b1pBOVB0d08tX09fdmliX0VGMXFGRjhhczhqWFZpbGRmVXBB?oc=5",
-        "summary": "OpenAI Says Its Newest Model Is Better at This 1 Skill. It Starts With Being Honest &nbsp;&nbsp; Inc.com"
-      },
-      {
-        "headline": "Anthropic IPO filing reveals AI security breaches, training halt - Fox News",
-        "source": "Fox News",
-        "timestamp": "2026-10-27T18:01:52.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTlKRElSWm9qYTIzblVBRG1Bbm5Idk1mYW9HZ2c0bFY3cGw1MlpsT1k2NlRIRlVNOHA2Y2pvWGJqVGk5U2JLcjVONWRTdU9VMWtiS3Q3alNPanBMbHM0dHFPZ2ZESEJwZHdLVllxQmVvcEdBUzlQVGNzeUlFUnI4eHBWeGxFdno1YWc?oc=5",
-        "summary": "Anthropic IPO filing reveals AI security breaches, training halt &nbsp;&nbsp; Fox News Stock Market News, Oct. 26, 2026: Tech Shares Rally After Anthropic Files for Historic IPO &nbsp;&nbsp; WSJ What is the 'AI bubble' and what happens if it pops? &nbsp;&nbsp; USA Today"
-      },
-      {
-        "headline": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-10-27T17:50:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5",
-        "summary": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "We’re announcing Genie 4, our new world model for real-time interactive simulation. - blog.google",
-        "source": "blog.google",
-        "timestamp": "2026-10-27T16:26:11.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWVjemszVnZuX2wzWXZBUEV0cEhFZDN1Vk5OV0g5THlTQ0ozdGtrM21SVG1IdnpYaXVxNHYycEkySXJEVnZYV1Vnd1N0al9yS25xSWdMVklRa0JkZUs4Y3pSWGVzV0pONnV4SzgzMHV5M2hqc0hNdTk2eDYyREJ0SUhnaE5wVDdiQUZ6MXhFMzZBWVBGVXFLVWNR?oc=5",
-        "summary": "We’re announcing Genie 4, our new world model for real-time interactive simulation. &nbsp;&nbsp; blog.google"
-      },
-      {
-        "headline": "Genie 4: A new generation of world simulation - Google DeepMind",
-        "source": "Google DeepMind",
-        "timestamp": "2026-10-27T16:06:33.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSHE1Q2pvLWgzQk5SaDNUVjcwWnpNLUoteDhJZVRLU3RPZjFhX2dtSGdSRW9OVGdLbUZRQ2dyd3pMeWRqNEtUM080azFBX2l6RGZCd2diZkxYU19LSE9HNUNoTUFHa3NLMUN4SjhwMmRXdFFHVW1hVEpsZkxnWTA?oc=5",
-        "summary": "Genie 4: A new generation of world simulation &nbsp;&nbsp; Google DeepMind"
-      },
-      {
-        "headline": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
+        "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication - TechCrunch",
         "source": "TechCrunch",
-        "timestamp": "2026-10-27T14:59:09.000Z",
+        "timestamp": "2026-10-27T23:34:27.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3JtRzlfcnp1ZXJ4ZFFyZ2dSSUROTkNzY3FnY3l0SEJpRngzcDJNQzc3LUZpblVFc0dPWXF6eVNEbENSVU1ycjI0ZjJrbWEtcjhaR1B4XzlEWnVBRFQyaGZhc2ZocU9wTHJLcVgwOUc1djNNb2VWRVBUdjNVTGo2YXVpRlJTOEFnMmtPUkwxNUlEbVd6M3JyWUMwVlhyM1dLZmRYMXYtTmVoR0s0VmN0QXM0RnJUQQ?oc=5",
+        "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication &nbsp;&nbsp; TechCrunch"
+      },
+      {
+        "headline": "What an Anthropic IPO Could Mean for the Bay Area - KQED",
+        "source": "KQED",
+        "timestamp": "2026-10-27T23:30:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnc3YmdPaHkwLWY1c05kNW1YUTF5eFZYUUJEbkI1SEhwbXh0V1VTSmVGVHZrNWJHMmpFT1ItWWZTbXJrZGQzU2NiQ2NEc2xkWWlLaklVYkRYTFBZbTFmcG5IeGhkTDI1MGpnOFRBNXpvWnZtNEZCa3JseTlYR2RpOEFZWE16VUp6eGg3c09pZmtfNmRO?oc=5",
+        "summary": "What an Anthropic IPO Could Mean for the Bay Area &nbsp;&nbsp; KQED"
+      },
+      {
+        "headline": "Anthropic to Newsom: courts should have power to block risky AI - Politico",
+        "source": "Politico",
+        "timestamp": "2026-10-27T23:27:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjZraEFFWjNFWGtzOUFEVW12Q1lRb0o1ay03UWU3RC1UYzRUVDRkQjJ2MGNtQXptUExnRE5MSE92RjQydzB6bE9RNTVUdVFhenNyYUo5QjllUUhETW0xcjJfd056Nnp4U25vWU1iQlhLYXdBS1JRSlZQTnBBTGlYSHVR?oc=5",
+        "summary": "Anthropic to Newsom: courts should have power to block risky AI &nbsp;&nbsp; Politico"
+      },
+      {
+        "headline": "Can You Trust Google And Meta’s AI With Your Ad Budget? - Forbes",
+        "source": "Forbes",
+        "timestamp": "2026-10-27T22:36:10.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenBXenBKaW9oQ1R5bGVxbWNzYko0NTRSQkNfS1ZNMVZsWW84Y1JHQmtZMmVHcWNwU042b1ZmUEl2bTJfUnRhc05sMl9WUm1OZ1g3a2MySWJtYVVSc0FndURSQms3ZHBMVUZ3Mm4xQ3NfVnZRWk00cWhFR0VTVFZaTUFONzVjVEdCXzRfaDFQc3JrbjA4Q3N6a2xuU2FENlJBSEJzWGprdHdteVYxVXNUSEJfWWN0OXFsMFYw?oc=5",
-        "summary": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite &nbsp;&nbsp; TechCrunch"
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbk90MmNaeVR1WUlMeDY5QzY2QTFCNUYxUk9zUzlCcEozX0V4VnJ2UjRpUGs4S1g4QkxvSi1NemxXTVN0WDE0SktaR1RzMGEzdjBNYlRac3hFdzNzR2xJdzdXSmZnaWNiQy1sOXBvMWNISjN3b2pwRmx5WFhEdTFmX1UzRUMzWW0tcHNGUXF2MDZuNHpHZ3lXUVlHOE1RYlRUbU9vY2wyYVZEaGtGSkE?oc=5",
+        "summary": "Can You Trust Google And Meta’s AI With Your Ad Budget? &nbsp;&nbsp; Forbes"
+      },
+      {
+        "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-10-27T20:48:58.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHZEeVBXNzg3cXBQbG83MnVCTjdGQWhjWU00Qjd2dTdRbWVERWJ2alV3LUFqNEZZT2J5VjF4cmVORnR0LVZqZFFBMGhUWXhMSnk4d2J3azEtZGRQVldDWExXNnlHNlhaQW9uMnNjTXNmd0l1cHp5WHc4TnFwV1lzeW4zeE5TeVlMVW03dy1ESmIxU0JnekJ2MHBTUzZBb3RzZGNpRGlucUc4UW9uRmc?oc=5",
+        "summary": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Early progress on accelerating drug development with Claude - Anthropic",
+        "source": "Anthropic",
+        "timestamp": "2026-10-27T20:20:53.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
+        "summary": "Early progress on accelerating drug development with Claude &nbsp;&nbsp; Anthropic"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
