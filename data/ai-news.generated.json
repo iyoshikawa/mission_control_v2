@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-30T05:02:46.225Z",
+    "generatedAt": "2026-10-30T12:26:41.218Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta Delays Update Amid Concern About Scraping Websites for AI Training - PCMag",
-      "source": "PCMag",
-      "timestamp": "2026-10-29T23:43:07.000Z",
+      "headline": "Dario Amodei Predicted at Davos in January 2025 That AI Could Surpass Humans \"at Almost Everything\" Within 2 to 3 Years. As Anthropic Prepares for Its $2 Trillion IPO, Is That Timeline Still on Track? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-10-30T12:04:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training &nbsp;&nbsp; PCMag",
+      "summary": "Dario Amodei Predicted at Davos in January 2025 That AI Could Surpass Humans \"at Almost Everything\" Within 2 to 3 Years. As Anthropic Prepares for Its $2 Trillion IPO, Is That Timeline Still on Track? &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUtFNmtnOEhROVZYeThsUEVLSnlkMVVUT29oTUVlSkdGOXI5ZEMxbnk5NkZkOVdsdHBJQnMzdkVSdDMxUnpPQ2xJem5qNlhrYXRnWFkteW00RXNrbFVpU2dDYmhoRzh2QnJ1UFk5Uk1WUzdvbXowTWlISlNWclp5TXludHlublM1V2lZY0xvT2I3bjRKN3ZfYUJBYl8wOGVRVEE?oc=5"
+    },
+    {
+      "headline": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods - NPR",
+      "source": "NPR",
+      "timestamp": "2026-10-30T11:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods &nbsp;&nbsp; NPR",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT21pMGMxQzRXZzVBYndjSUkzZlRReHVwLVFWRnA4VWsxMjNGNnFtZW44Vl9rbm14WkdCd0tzWmZoUHA3LU9CRFB4d1VxQXFEUm9SeUdVWkdmdTRrejE0aUNJUUdnT2pkZzJKcEMxbVJzVDdlYlhpOEJXR2ZJb3FKcjhLUU1mX2ozdlpNaDFQeEdiYWdseG5ia2ZET3oySVdDRVZwMkZtZGR0RlgwTVE?oc=5"
+    },
+    {
+      "headline": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses - Yahoo",
+      "source": "Yahoo",
+      "timestamp": "2026-10-30T10:08:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses &nbsp;&nbsp; Yahoo",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlFIdnN2elM2YmNhVngxMTJnMWdwaWNOeHdMeTh0UUJhbHFGdTRuaV9xdmExcVlQcUh6U1lfV1FvNk15QlQxMGhndE1YVDl4UWcwZC1nM211Sl84N0M3N0EyXzg4ajItVkNvWVB5LXZyWG5PVEp4cmFQSDhCNFl4SmIyLW9MTDU2RnlHYjUwTzhFdW9RbnN5NXRwVUVlZGs?oc=5"
+    },
+    {
+      "headline": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-10-30T09:48:16.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5"
+    },
+    {
+      "headline": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "timestamp": "2026-10-29T19:19:12.000Z",
+      "impact": "LOW",
+      "category": "market",
+      "summary": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ044eGtubmthLU5BVE1IbUVZbGQ1MklPR1R2MzhTQ0xRdE95ZUEwSEx5b0ttZkRrWDNLWG4zQ3d6S3IwZjBQbUphajhfY2VCa0NIbkx2TEc0TWpENmRvS2ZpTHB1TVNKMEJvNjdlNHFNYVRzZUwtb2N6SnZoeG5ISmtwOUFsajdYMnd4dlJBcm1uQ1czNzVlRTlDUE81QVo3QW1kTGFoSXBmT1gxZ0RRa2ZPNm4?oc=5"
+    },
+    {
+      "headline": "Meta quietly launches an AI fashion app called Style Sketch - TechCrunch",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-29T19:14:36.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Meta quietly launches an AI fashion app called Style Sketch &nbsp;&nbsp; TechCrunch",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXRBNUhYaUUzS1AzR0lfSWpvTVZrT2xhVEczTzJqMmg0dUp1S2RVeWlmQno4SGFXRmk5UkNub0dibHl1eEpMbEtiSnhtaFpZUlYyd2huLUF2SGZnUm5QZGwtb0E0TjNQaDBidTh2RWdUZ0FzTXNNcFNuU3MzV3BXSURmS19qSWNpSk5OcENWdzRXX0pjWHpFUTR3?oc=5"
     },
     {
       "headline": "Meta Will Now Alert Parents If Teens 'Repeatedly' Search For Self-Harm Content On Facebook - Engadget",
@@ -32,16 +82,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzlXR2w2a2J1R0RfaVg3WmxXdjFhejhtVHVLcDBLZnQ1bjNsVmxwbGs3YmQ4QldaWEx3S0NkYnpZWTlkSUR1RGRibGdVTmZWSGYyV25GMUVxMUE2ZGJXOXdzenhhYkIwWl9TOFpKUWNYX0xPNFdEeEJZd09HQzRyUXJWQU5Qc0ZiUFcwMDlJZUFydFVrWHZBVnJLenZqdkJTbWwzYTQtT2ZVWlZlZlpnLVJRMWRfdlhJclUtRGd2Zw?oc=5"
     },
     {
-      "headline": "Alphabet vs. Microsoft earnings: Why investors see their AI spending differently - Fierce Network",
-      "source": "Fierce Network",
-      "timestamp": "2026-10-29T17:30:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Alphabet vs. Microsoft earnings: Why investors see their AI spending differently &nbsp;&nbsp; Fierce Network",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjN0X1hwTXpSbkFneVA0VEd1X2RCMnY4NFVtanp2djBKdnZKMDRSZ0xhcXBpU0ZJc1NsV1hnNmhWenZweEx5aC02RndWVjNmY2RWUXQ2MFo3RHF4N1Y5Ul9iUVNDeUNqc1JwcUdsZFRDdmczTEEwbWJDWXEwUlhpQlhXY2VIYzNIQVpYN3ZGVHNoMGVvTjhZc0hVVWxhM1Y2UHJMWWkyUWFpd2p6YWRuWEdRZkVlUQ?oc=5"
-    },
-    {
       "headline": "How we detect frontier model misalignment - OpenAI",
       "source": "OpenAI",
       "timestamp": "2026-10-29T16:15:43.000Z",
@@ -52,121 +92,81 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5"
     },
     {
-      "headline": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "The Economics of Intelligence: How and when does AGI lead to economic transformation? - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-10-29T14:55:53.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The Economics of Intelligence: How and when does AGI lead to economic transformation? &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ob1g1UVBZR3JzYW01TURTNURNU003UXcyLWM5dWZEM3c2ZVoyd0xkZlBZR1QwV2FWbUVxVUdVaksxS0x0QnRnYzI0d1ZYYkhUZEdPdm9HaXI4RTZ1U3g1QVVJRFBGOWpUN2htTXVmRnRpcWZvVnI0?oc=5"
+    },
+    {
+      "headline": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg.com",
+      "source": "Bloomberg.com",
       "timestamp": "2026-10-29T13:32:29.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxcW9icjhXZ0x3ZTVNS2NmRVhlT1lEYnQ0a2VPNG5zem1fQWRpTnZNdkNuRkZtdHJkVDUzSlA5MmNZOEF2ZUlCaERpLTdzUFdqUGtqaEMtZFlWRlU5aU5ZMEN3NTU4bjZsMHE2WHFBemx2cEFCcXlpeHRfendMa1Y1b2lFWWQ0?oc=5"
-    },
-    {
-      "headline": "Microsoft's Azure surge and full-stack AI monetization drives growth: analysts - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "timestamp": "2026-10-29T12:48:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft's Azure surge and full-stack AI monetization drives growth: analysts &nbsp;&nbsp; Seeking Alpha",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBoUU5XbWFsUXRhRmljcklaRnR0VThVb1k0UDhUNlhQZmRKZFJobDcyZDJYLUZUUnladXpSejZnVmRmTE1qMGwtYkd6VVNnUkJ6UE5MLWJuYlJ3dUctT2ZuRW5YMVVoaWJJQ3IteW14aTZPQXVVMk5lS19CMFZ4ZjB3d3BNOThQc3BnblBOWVVvdnRsX0pzRFdsMmJJR0FrbnlIMzdLVFdrNWdKejlWT2I2R0w?oc=5"
-    },
-    {
-      "headline": "Meet AI Engineer Who Resigned from DeepMind over “Google’s Complicity in the Gaza Genocide” - Democracy Now!",
-      "source": "Democracy Now!",
-      "timestamp": "2026-10-29T12:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meet AI Engineer Who Resigned from DeepMind over “Google’s Complicity in the Gaza Genocide” &nbsp;&nbsp; Democracy Now!",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWVd3dkVYWmMzUVpXZzJtTFJpZGRJUjhON0pTZW9vUGhKbEVrdWpYSW1xUXRxVXhWcjRjejJ2N09lZUNlZU9wakl1UUowUFp6aFNXQTVkdzVhMHJWTDBuaXdTTkVEeng2MDQ1T2tFYkNwRk8yZFVibTVLeWVvZ0RqSFJrdw?oc=5"
-    },
-    {
-      "headline": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ - WIRED",
-      "source": "WIRED",
-      "timestamp": "2026-10-29T10:45:00.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ &nbsp;&nbsp; WIRED",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUZwci12S2x3U1g0M19pWWl1RjY0clg0MFhoQVc0Z3ZkQXFfaWZFZE5IV0pqd0xoV3J3R0VSWnk0OTlJeGdBNWVTc1JyZ3JHcWw1WXZQSkF3b2ZEUVptQ00tZnFVWnJrOXE3djNfc2F3THJtQnNuX3VmVXNYVGtPM3R2T29Ja0Ytc2JkYw?oc=5"
-    },
-    {
-      "headline": "What a Wobbly AI Trade Could Mean for Anthropic’s IPO - Morningstar",
-      "source": "Morningstar",
-      "timestamp": "2026-10-29T10:12:03.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What a Wobbly AI Trade Could Mean for Anthropic’s IPO &nbsp;&nbsp; Morningstar Anthropic IPO May Spark AI Rally as Short Bets on Tech Pile Up &nbsp;&nbsp; Bloomberg Anthropic’s business plan: Build God or die trying &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGk1Rnc4cExnUkFnVUlxUUgtOHhHbkUtLXY3eXNob0VOOWRReUM0Nl9XN3NXaUplMTh1LXF1ZndseWg4X0VKb2pfNmY5bnNhYWx1REFfbnpEcUhIT3o4R25FaEd2cFhieDVjWmNrMjBjUkRnTXIzYjNZX3dRUDBCb3R3SnB0SEV3?oc=5"
-    },
-    {
-      "headline": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-10-29T02:11:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports &nbsp;&nbsp; Reuters",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta Delays Update Amid Concern About Scraping Websites for AI Training - PCMag",
-        "source": "PCMag",
-        "timestamp": "2026-10-29T23:43:07.000Z",
+        "headline": "Dario Amodei Predicted at Davos in January 2025 That AI Could Surpass Humans \"at Almost Everything\" Within 2 to 3 Years. As Anthropic Prepares for Its $2 Trillion IPO, Is That Timeline Still on Track? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-10-30T12:04:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUtFNmtnOEhROVZYeThsUEVLSnlkMVVUT29oTUVlSkdGOXI5ZEMxbnk5NkZkOVdsdHBJQnMzdkVSdDMxUnpPQ2xJem5qNlhrYXRnWFkteW00RXNrbFVpU2dDYmhoRzh2QnJ1UFk5Uk1WUzdvbXowTWlISlNWclp5TXludHlublM1V2lZY0xvT2I3bjRKN3ZfYUJBYl8wOGVRVEE?oc=5",
+        "summary": "Dario Amodei Predicted at Davos in January 2025 That AI Could Surpass Humans \"at Almost Everything\" Within 2 to 3 Years. As Anthropic Prepares for Its $2 Trillion IPO, Is That Timeline Still on Track? &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods - NPR",
+        "source": "NPR",
+        "timestamp": "2026-10-30T11:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT21pMGMxQzRXZzVBYndjSUkzZlRReHVwLVFWRnA4VWsxMjNGNnFtZW44Vl9rbm14WkdCd0tzWmZoUHA3LU9CRFB4d1VxQXFEUm9SeUdVWkdmdTRrejE0aUNJUUdnT2pkZzJKcEMxbVJzVDdlYlhpOEJXR2ZJb3FKcjhLUU1mX2ozdlpNaDFQeEdiYWdseG5ia2ZET3oySVdDRVZwMkZtZGR0RlgwTVE?oc=5",
+        "summary": "OpenAI’s latest discoveries spark a backlash + Help! My kid hates AI : Machine Gods &nbsp;&nbsp; NPR"
+      },
+      {
+        "headline": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses - Yahoo",
+        "source": "Yahoo",
+        "timestamp": "2026-10-30T10:08:13.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5",
-        "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training &nbsp;&nbsp; PCMag"
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlFIdnN2elM2YmNhVngxMTJnMWdwaWNOeHdMeTh0UUJhbHFGdTRuaV9xdmExcVlQcUh6U1lfV1FvNk15QlQxMGhndE1YVDl4UWcwZC1nM211Sl84N0M3N0EyXzg4ajItVkNvWVB5LXZyWG5PVEp4cmFQSDhCNFl4SmIyLW9MTDU2RnlHYjUwTzhFdW9RbnN5NXRwVUVlZGs?oc=5",
+        "summary": "Senators Are Looking Into 'Serious Privacy Risks' With Meta's AI Glasses &nbsp;&nbsp; Yahoo"
       },
       {
-        "headline": "Meta Will Now Alert Parents If Teens 'Repeatedly' Search For Self-Harm Content On Facebook - Engadget",
-        "source": "Engadget",
-        "timestamp": "2026-10-29T18:20:21.000Z",
+        "headline": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-10-30T09:48:16.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzlXR2w2a2J1R0RfaVg3WmxXdjFhejhtVHVLcDBLZnQ1bjNsVmxwbGs3YmQ4QldaWEx3S0NkYnpZWTlkSUR1RGRibGdVTmZWSGYyV25GMUVxMUE2ZGJXOXdzenhhYkIwWl9TOFpKUWNYX0xPNFdEeEJZd09HQzRyUXJWQU5Qc0ZiUFcwMDlJZUFydFVrWHZBVnJLenZqdkJTbWwzYTQtT2ZVWlZlZlpnLVJRMWRfdlhJclUtRGd2Zw?oc=5",
-        "summary": "Meta Will Now Alert Parents If Teens 'Repeatedly' Search For Self-Harm Content On Facebook &nbsp;&nbsp; Engadget"
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
+        "summary": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Alphabet vs. Microsoft earnings: Why investors see their AI spending differently - Fierce Network",
-        "source": "Fierce Network",
-        "timestamp": "2026-10-29T17:30:13.000Z",
+        "headline": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "timestamp": "2026-10-29T19:19:12.000Z",
         "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdjN0X1hwTXpSbkFneVA0VEd1X2RCMnY4NFVtanp2djBKdnZKMDRSZ0xhcXBpU0ZJc1NsV1hnNmhWenZweEx5aC02RndWVjNmY2RWUXQ2MFo3RHF4N1Y5Ul9iUVNDeUNqc1JwcUdsZFRDdmczTEEwbWJDWXEwUlhpQlhXY2VIYzNIQVpYN3ZGVHNoMGVvTjhZc0hVVWxhM1Y2UHJMWWkyUWFpd2p6YWRuWEdRZkVlUQ?oc=5",
-        "summary": "Alphabet vs. Microsoft earnings: Why investors see their AI spending differently &nbsp;&nbsp; Fierce Network"
+        "whyItMatters": "Anthropic item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ044eGtubmthLU5BVE1IbUVZbGQ1MklPR1R2MzhTQ0xRdE95ZUEwSEx5b0ttZkRrWDNLWG4zQ3d6S3IwZjBQbUphajhfY2VCa0NIbkx2TEc0TWpENmRvS2ZpTHB1TVNKMEJvNjdlNHFNYVRzZUwtb2N6SnZoeG5ISmtwOUFsajdYMnd4dlJBcm1uQ1czNzVlRTlDUE81QVo3QW1kTGFoSXBmT1gxZ0RRa2ZPNm4?oc=5",
+        "summary": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic &nbsp;&nbsp; Bloomberg.com"
       },
       {
-        "headline": "How we detect frontier model misalignment - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-10-29T16:15:43.000Z",
+        "headline": "Meta quietly launches an AI fashion app called Style Sketch - TechCrunch",
+        "source": "TechCrunch",
+        "timestamp": "2026-10-29T19:14:36.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIYy1GQVhzVjQ3LTAyVW42QnlOOVZISGJsS05mc0gtRG5WZ2lkVks0REVvcENkYXVPVW1sVUw3dThYY01Ib1FCTUNkanBCMXduYTdGUXFqREdFYUdtVVhsN0ZtT2VoSWJlandTbUxvSVh1OUgxMWc?oc=5",
-        "summary": "How we detect frontier model misalignment &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg",
-        "source": "Bloomberg",
-        "timestamp": "2026-10-29T13:32:29.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFplZTkxUEdqUExRU0N0UHdSdGNtNWZzWVAxd1hrTXZNa3NCQVFXUXJxcW9icjhXZ0x3ZTVNS2NmRVhlT1lEYnQ0a2VPNG5zem1fQWRpTnZNdkNuRkZtdHJkVDUzSlA5MmNZOEF2ZUlCaERpLTdzUFdqUGtqaEMtZFlWRlU5aU5ZMEN3NTU4bjZsMHE2WHFBemx2cEFCcXlpeHRfendMa1Y1b2lFWWQ0?oc=5",
-        "summary": "Microsoft Reports Rising Cloud Sales That Show Payoff From AI &nbsp;&nbsp; Bloomberg"
-      },
-      {
-        "headline": "Microsoft's Azure surge and full-stack AI monetization drives growth: analysts - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "timestamp": "2026-10-29T12:48:13.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjBoUU5XbWFsUXRhRmljcklaRnR0VThVb1k0UDhUNlhQZmRKZFJobDcyZDJYLUZUUnladXpSejZnVmRmTE1qMGwtYkd6VVNnUkJ6UE5MLWJuYlJ3dUctT2ZuRW5YMVVoaWJJQ3IteW14aTZPQXVVMk5lS19CMFZ4ZjB3d3BNOThQc3BnblBOWVVvdnRsX0pzRFdsMmJJR0FrbnlIMzdLVFdrNWdKejlWT2I2R0w?oc=5",
-        "summary": "Microsoft's Azure surge and full-stack AI monetization drives growth: analysts &nbsp;&nbsp; Seeking Alpha"
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXRBNUhYaUUzS1AzR0lfSWpvTVZrT2xhVEczTzJqMmg0dUp1S2RVeWlmQno4SGFXRmk5UkNub0dibHl1eEpMbEtiSnhtaFpZUlYyd2huLUF2SGZnUm5QZGwtb0E0TjNQaDBidTh2RWdUZ0FzTXNNcFNuU3MzV3BXSURmS19qSWNpSk5OcENWdzRXX0pjWHpFUTR3?oc=5",
+        "summary": "Meta quietly launches an AI fashion app called Style Sketch &nbsp;&nbsp; TechCrunch"
       }
     ],
     "whyItMatters": [
@@ -178,8 +178,8 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       }
     ],
     "watchlist": [
