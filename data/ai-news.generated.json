@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-03T10:36:04.444Z",
+    "generatedAt": "2026-11-03T18:17:06.098Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,74 @@
   },
   "newsFeed": [
     {
+      "headline": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
+      "source": "The Washington Post",
+      "timestamp": "2026-11-03T18:15:41.000Z",
+      "impact": "WATCH",
+      "category": "ecosystem",
+      "summary": "Google researchers are fighting the company to tell the world what they know about AI &nbsp;&nbsp; The Washington Post",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5"
+    },
+    {
+      "headline": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-11-03T18:00:07.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5"
+    },
+    {
+      "headline": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft - Axios",
+      "source": "Axios",
+      "timestamp": "2026-11-03T17:55:37.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft &nbsp;&nbsp; Axios",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5"
+    },
+    {
+      "headline": "What Microsoft & Lumen's Partnership Means for Data Centres - Data Centre Magazine",
+      "source": "Data Centre Magazine",
+      "timestamp": "2026-11-03T16:30:00.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "What Microsoft & Lumen's Partnership Means for Data Centres &nbsp;&nbsp; Data Centre Magazine",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZE9xZ1RpUUhHZU9WUDBGLUNJVk1uOXp6Qkxqc1FQX1NtUldUMDJSNHVoN0xOdlh4RTNQTmV4RUw3ejY5RU1TVWRCZTlSdXlGYm9LSjNuVks3YXdBY0xXb2hYdDBYb1JubFhsVXNkSWpqZUR4RGxXMGFEeS1hZ0c0M3FRWEUzWWdqZ0NBeWU2T3JjUnBOMDE4?oc=5"
+    },
+    {
+      "headline": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-11-03T10:19:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5"
+    },
+    {
       "headline": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
       "source": "Business Insider",
       "timestamp": "2026-11-03T10:00:00.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Chinese AI models tumble down rankings after a crucial change to testing &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5"
+    },
+    {
+      "headline": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. - Wccftech",
+      "source": "Wccftech",
+      "timestamp": "2026-11-03T09:52:17.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. &nbsp;&nbsp; Wccftech",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjdTekJoa3gzVS1WSGpCX0lpQmRvc3dCUVl2NHNoU2JudXFFM1pXTkhfZXJsY1JiLVdNSFE3dU1ZQnIyenhGWFZIRFV2T0dCcDVkdFRWR2F4ZDZtSXkzYVlXaXRackIwZjJXZkVudlpBRHJUeG85Tm9aVWZVZzNvVGVXaURSNnY4dzNaWmo3QlhjQmRQQU9ReGZvellZb28zRk9iRjEwdV8tMjZNZlZRd082UG9fREZMbVHSAb8BQVVfeXFMTkxpWHM1MWp1a2hsSHV6eUNNZE04aGxzdzhaVHR6ZW1hODg2QlRsNzZGMU95cGhLbGJZR0o1NGhUTUFjYlVjbTlsTmQ5LW5qNjRMQnJVdEQ5b0RnUmo3VHA5SEFLdS1KX01nWnFfb0d0Uk1MeVVOYndWb1BYSzBqd3cyZkdqQ2I0UUhSYkNBQmRrZEstLVlUbEJBS1YzSWUwSnVtTThRamdvWmIyWEVuT2Vjb3RELUVHTDJPT3FxdkU?oc=5"
     },
     {
       "headline": "Progress on provable inference for large language models - Anthropic",
@@ -32,155 +92,95 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5"
     },
     {
-      "headline": "Enterprise architecture: Dell and Microsoft integrate hybrid AI - SiliconANGLE",
-      "source": "SiliconANGLE",
-      "timestamp": "2026-11-03T02:52:00.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Enterprise architecture: Dell and Microsoft integrate hybrid AI &nbsp;&nbsp; SiliconANGLE",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0JFRGJMTGpzdTdmN0M2cmNJVDJtWXp4My1DSXNlVExCb1RWcWVXbmZBWTNfdXd3Vk5OUExKbVRWM05pNU5SWjZ2YnV6WHlua3NJYXg4aHVtRHQyTHFOU0tzRUUzLUhuMFJnTEV4NXNHSU1XSkRpLXpnR0VIZkZ3T3ptT2JrTjFMSVFoV08zcl9FcjJEY0oxT0xnZGlEVjdQZGVZYzZESDQ?oc=5"
-    },
-    {
-      "headline": "OpenAI hires former US Army secretary as military seeks to expand AI use - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-11-02T22:58:27.000Z",
-      "impact": "WATCH",
-      "category": "ecosystem",
-      "summary": "OpenAI hires former US Army secretary as military seeks to expand AI use &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4?oc=5"
-    },
-    {
-      "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-02T22:14:50.000Z",
+      "headline": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
+      "source": "Gizmodo",
+      "timestamp": "2026-11-03T04:03:24.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI &nbsp;&nbsp; TechCrunch",
+      "summary": "Anthropic Claims to Be Near Recursive Self-Improvement &nbsp;&nbsp; Gizmodo",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5"
     },
     {
-      "headline": "Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-11-02T20:12:27.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVhoYmtlZjVaYkFjNy1oNkJqMDA1d1E0MGRCbjF4Sk5weHRGVDhHTFhubDJkMmpmOEFYTnJLZGp2Nmg0TXpiTDZtVk1hZXdiSEpaVUZUYnpvOFZPUUxLU28ydGpRMzlIeTJKNWFaVlVsbjk2N1YzTWl6bEdCMVNFUWR5U0l1RjgwTXgtenowT0o1dmlVcU8xTDlGS2tPeXpBSVFOdER0S1pfQQ?oc=5"
-    },
-    {
-      "headline": "Lumen and Microsoft expand collaboration to co-sell enterprise AI-ready networks - Microsoft Source",
-      "source": "Microsoft Source",
-      "timestamp": "2026-11-02T18:07:11.000Z",
-      "impact": "HIGH",
-      "category": "market",
-      "summary": "Lumen and Microsoft expand collaboration to co-sell enterprise AI-ready networks &nbsp;&nbsp; Microsoft Source",
-      "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3FNSGwyLVlBeXJWZHR3MG1sWklORnp0RE0tYW5YM1E4elBvSkQwcXllZllNT2dsN3pUR244anVjSmhFVjVYbTJxUGpiNzhPRkpjS1hQLUk0d2VOcjk0UWRMZ3R1cEo0S1VGbkJFOEZ5VTc0ckxEZW5mZnNoVXgwY2pWSkFFdmlVQjZ2X0RGbEM0VC1VUTIzbG5YRjQtOFRyWHhjNWU0Q3NVUGl3VDN1RUQ2Ni1rRHNacTVhMkVsRTkycTRz?oc=5"
-    },
-    {
-      "headline": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning - CNN",
-      "source": "CNN",
-      "timestamp": "2026-11-02T17:06:21.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning &nbsp;&nbsp; CNN",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wNnd5X2dtS0lfRXltNllHeEVVaGV6a3JkVW1YMUozczhqY0xIMHBCOVlTcGlvbjdQT05ZdVdxMW0tS3k3eVUweFlBa1JUdlBuaUdNTXBaTUFhR3FYX21kUjVraWlLVGJRN0lDQXMxcmdnbmJvNHVTbGNpRTA?oc=5"
-    },
-    {
-      "headline": "Introducing the Grid Protectors Program - OpenAI",
+      "headline": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization - OpenAI",
       "source": "OpenAI",
-      "timestamp": "2026-11-02T15:12:44.000Z",
+      "timestamp": "2026-11-03T00:37:13.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Introducing the Grid Protectors Program &nbsp;&nbsp; OpenAI",
+      "summary": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VR3oxdk1UcmphMkNDb1JRZFBCV0xJY1lmc3NGWkp6WlFTbXNKTzFRcGVWYXpLZk9MQkVEdXp0RWdiOEtYY0ZEdkIxc01DVFpyUXJ1bWl4WG01Z2hSY3c?oc=5"
-    },
-    {
-      "headline": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO - Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-11-02T14:50:00.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO &nbsp;&nbsp; Reuters Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches &nbsp;&nbsp; The New York Times Can AI safety and profit growth coexist? Anthropic is betting on it &nbsp;&nbsp; CNN",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
+        "source": "The Washington Post",
+        "timestamp": "2026-11-03T18:15:41.000Z",
+        "impact": "WATCH",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
+        "summary": "Google researchers are fighting the company to tell the world what they know about AI &nbsp;&nbsp; The Washington Post"
+      },
+      {
+        "headline": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-11-03T18:00:07.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
+        "summary": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft - Axios",
+        "source": "Axios",
+        "timestamp": "2026-11-03T17:55:37.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5",
+        "summary": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft &nbsp;&nbsp; Axios"
+      },
+      {
+        "headline": "What Microsoft & Lumen's Partnership Means for Data Centres - Data Centre Magazine",
+        "source": "Data Centre Magazine",
+        "timestamp": "2026-11-03T16:30:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZE9xZ1RpUUhHZU9WUDBGLUNJVk1uOXp6Qkxqc1FQX1NtUldUMDJSNHVoN0xOdlh4RTNQTmV4RUw3ejY5RU1TVWRCZTlSdXlGYm9LSjNuVks3YXdBY0xXb2hYdDBYb1JubFhsVXNkSWpqZUR4RGxXMGFEeS1hZ0c0M3FRWEUzWWdqZ0NBeWU2T3JjUnBOMDE4?oc=5",
+        "summary": "What Microsoft & Lumen's Partnership Means for Data Centres &nbsp;&nbsp; Data Centre Magazine"
+      },
+      {
+        "headline": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
+        "source": "Business Insider",
+        "timestamp": "2026-11-03T10:19:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5",
+        "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business &nbsp;&nbsp; Business Insider"
+      },
+      {
         "headline": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
         "source": "Business Insider",
         "timestamp": "2026-11-03T10:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
         "summary": "Chinese AI models tumble down rankings after a crucial change to testing &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Progress on provable inference for large language models - Anthropic",
-        "source": "Anthropic",
-        "timestamp": "2026-11-03T04:43:45.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
-        "summary": "Progress on provable inference for large language models &nbsp;&nbsp; Anthropic"
-      },
-      {
-        "headline": "Enterprise architecture: Dell and Microsoft integrate hybrid AI - SiliconANGLE",
-        "source": "SiliconANGLE",
-        "timestamp": "2026-11-03T02:52:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0JFRGJMTGpzdTdmN0M2cmNJVDJtWXp4My1DSXNlVExCb1RWcWVXbmZBWTNfdXd3Vk5OUExKbVRWM05pNU5SWjZ2YnV6WHlua3NJYXg4aHVtRHQyTHFOU0tzRUUzLUhuMFJnTEV4NXNHSU1XSkRpLXpnR0VIZkZ3T3ptT2JrTjFMSVFoV08zcl9FcjJEY0oxT0xnZGlEVjdQZGVZYzZESDQ?oc=5",
-        "summary": "Enterprise architecture: Dell and Microsoft integrate hybrid AI &nbsp;&nbsp; SiliconANGLE"
-      },
-      {
-        "headline": "OpenAI hires former US Army secretary as military seeks to expand AI use - Financial Times",
-        "source": "Financial Times",
-        "timestamp": "2026-11-02T22:58:27.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4?oc=5",
-        "summary": "OpenAI hires former US Army secretary as military seeks to expand AI use &nbsp;&nbsp; Financial Times"
-      },
-      {
-        "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-11-02T22:14:50.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0VUSzBwdmlqRHY0N1duclMzOVBhVk5FbjllcHNiX0ludVpmX25neDhaWlFLUmx4R21mY20wNjVOVE1uZUdDajNzNDNHdGkwY3BvYVpMOFI5cmF4TWRDaUppTmJrTE5NaHJPbmdkWWJEWGJPNmNyVl9ZUE1Lb1U5WV9PckEzd3RMZzhVMW53cHBSMHh2Y2VDU2tnY3BoMFpZczdObkp1VEV4ZXNfWUE?oc=5",
-        "summary": "Anthropic warns that it’s very close to RSI capability, aka self-building AI &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "timestamp": "2026-11-02T20:12:27.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVhoYmtlZjVaYkFjNy1oNkJqMDA1d1E0MGRCbjF4Sk5weHRGVDhHTFhubDJkMmpmOEFYTnJLZGp2Nmg0TXpiTDZtVk1hZXdiSEpaVUZUYnpvOFZPUUxLU28ydGpRMzlIeTJKNWFaVlVsbjk2N1YzTWl6bEdCMVNFUWR5U0l1RjgwTXgtenowT0o1dmlVcU8xTDlGS2tPeXpBSVFOdER0S1pfQQ?oc=5",
-        "summary": "Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply &nbsp;&nbsp; Yahoo Finance"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
