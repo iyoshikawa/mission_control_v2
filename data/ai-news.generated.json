@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-03T18:17:06.098Z",
+    "generatedAt": "2026-11-03T23:53:29.179Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -14,7 +14,7 @@
     {
       "headline": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
       "source": "The Washington Post",
-      "timestamp": "2026-11-03T18:15:41.000Z",
+      "timestamp": "2026-11-03T23:02:18.000Z",
       "impact": "WATCH",
       "category": "ecosystem",
       "summary": "Google researchers are fighting the company to tell the world what they know about AI &nbsp;&nbsp; The Washington Post",
@@ -22,29 +22,59 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5"
     },
     {
-      "headline": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-11-03T18:00:07.000Z",
+      "headline": "Accelerating engineering for the physical world - OpenAI",
+      "source": "OpenAI",
+      "timestamp": "2026-11-03T21:53:57.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections &nbsp;&nbsp; The New York Times",
+      "summary": "Accelerating engineering for the physical world &nbsp;&nbsp; OpenAI",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5"
+    },
+    {
+      "headline": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-11-03T20:25:18.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "OpenAI employees warned about operational security lapses for years, sources say &nbsp;&nbsp; Reuters",
+      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5"
+    },
+    {
+      "headline": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-11-03T18:25:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections &nbsp;&nbsp; The New York Times",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5"
     },
     {
-      "headline": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft - Axios",
-      "source": "Axios",
-      "timestamp": "2026-11-03T17:55:37.000Z",
+      "headline": "Agentic Cheminformatics with Google Antigravity - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-11-03T17:02:35.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Agentic Cheminformatics with Google Antigravity &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3RhUWRXXzlzV09IcEQ0c0Q4VXlMTUNaVGNvVXBBeHpLNmV4cmhwV1hKZ0x3YVVERUx3MTBJbUZ0eGVMTTYxdGJSTngwT1dQNTRqdl9WM0NzOVNkcFprUWQ4RDRieWVFZnZLMVREMElxU2pYdUNmVlhuejJrcFROMUJWOA?oc=5"
+    },
+    {
+      "headline": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi - The Guardian",
+      "source": "The Guardian",
+      "timestamp": "2026-11-03T16:58:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft &nbsp;&nbsp; Axios",
+      "summary": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi &nbsp;&nbsp; The Guardian",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT01TWjlIVVdvQU1WTEdESzQ4Wk05ZXVLbU5ReVBGMDlZNnk5UmJ2OERldl9weWRqUk5aSV9vRkxteVdRSG5QcXZmZGZ2ZkhGbzM0YldYUGE5Z3R1TXFNVmhPXy03LUd4azhqX2YyTHF5OWl2eTNIRG1Kd0V4eG45NjFNN1ZWWERuM1hjZ2d3RVY5WHNfcVBwdWZ1WmFCdGFwS1psRFZPM1diclJ2N3lkR0JjOGJ0WEpUYkVPSXlEbzhPUUFtb3VjMFMzM3o?oc=5"
     },
     {
       "headline": "What Microsoft & Lumen's Partnership Means for Data Centres - Data Centre Magazine",
       "source": "Data Centre Magazine",
-      "timestamp": "2026-11-03T16:30:00.000Z",
+      "timestamp": "2026-11-03T16:31:52.000Z",
       "impact": "HIGH",
       "category": "ecosystem",
       "summary": "What Microsoft & Lumen's Partnership Means for Data Centres &nbsp;&nbsp; Data Centre Magazine",
@@ -54,22 +84,12 @@
     {
       "headline": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
       "source": "Business Insider",
-      "timestamp": "2026-11-03T10:19:00.000Z",
+      "timestamp": "2026-11-03T10:19:01.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business &nbsp;&nbsp; Business Insider",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5"
-    },
-    {
-      "headline": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-11-03T10:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Chinese AI models tumble down rankings after a crucial change to testing &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5"
     },
     {
       "headline": "Anthropic Warns Self-Improving AI Milestone May Be Imminent, As Claude Writes Over 90% Of Its Code. - Wccftech",
@@ -90,26 +110,6 @@
       "summary": "Progress on provable inference for large language models &nbsp;&nbsp; Anthropic",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5"
-    },
-    {
-      "headline": "Anthropic Claims to Be Near Recursive Self-Improvement - Gizmodo",
-      "source": "Gizmodo",
-      "timestamp": "2026-11-03T04:03:24.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic Claims to Be Near Recursive Self-Improvement &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW56ZDBxWlhxY24xbDBENFhEXzNZUFRiYzhfbHI2bjRFSzdlRGlxR05jX0hKS21HOU1DVHJURjFnVmVuNmxzQ0JhU3FrQU9hemlsVjNQSUNCa1BYODdhQWdaN1ZNQnh0Mzk0MjVjT3h3RWVUUHBOYnE3V1BOZTBGZDJqLWkzS2hIYVdRWUdwUW1YaHJRMnJ1a2Jn?oc=5"
-    },
-    {
-      "headline": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization - OpenAI",
-      "source": "OpenAI",
-      "timestamp": "2026-11-03T00:37:13.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization &nbsp;&nbsp; OpenAI",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QWxBUzRHS0poRDcxSjVQT1ZLQjBqUnhOaS1kd01mWjVxMXMyWXN5S05MXzlvVUtVeVU2djZFVnZtdFhNMEwxZmVJZXppX2VreUIxT3M2aFotSUdhZ1JqdA?oc=5"
     }
   ],
   "aiNews": {
@@ -117,56 +117,56 @@
       {
         "headline": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
         "source": "The Washington Post",
-        "timestamp": "2026-11-03T18:15:41.000Z",
+        "timestamp": "2026-11-03T23:02:18.000Z",
         "impact": "WATCH",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
         "summary": "Google researchers are fighting the company to tell the world what they know about AI &nbsp;&nbsp; The Washington Post"
       },
       {
-        "headline": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections - The New York Times",
+        "headline": "Accelerating engineering for the physical world - OpenAI",
+        "source": "OpenAI",
+        "timestamp": "2026-11-03T21:53:57.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
+        "summary": "Accelerating engineering for the physical world &nbsp;&nbsp; OpenAI"
+      },
+      {
+        "headline": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-11-03T20:25:18.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
+        "summary": "OpenAI employees warned about operational security lapses for years, sources say &nbsp;&nbsp; Reuters"
+      },
+      {
+        "headline": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-11-03T18:00:07.000Z",
+        "timestamp": "2026-11-03T18:25:13.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
-        "summary": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections &nbsp;&nbsp; The New York Times"
+        "summary": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections &nbsp;&nbsp; The New York Times"
       },
       {
-        "headline": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft - Axios",
-        "source": "Axios",
-        "timestamp": "2026-11-03T17:55:37.000Z",
+        "headline": "Agentic Cheminformatics with Google Antigravity - Google DeepMind",
+        "source": "Google DeepMind",
+        "timestamp": "2026-11-03T17:02:35.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3RhUWRXXzlzV09IcEQ0c0Q4VXlMTUNaVGNvVXBBeHpLNmV4cmhwV1hKZ0x3YVVERUx3MTBJbUZ0eGVMTTYxdGJSTngwT1dQNTRqdl9WM0NzOVNkcFprUWQ4RDRieWVFZnZLMVREMElxU2pYdUNmVlhuejJrcFROMUJWOA?oc=5",
+        "summary": "Agentic Cheminformatics with Google Antigravity &nbsp;&nbsp; Google DeepMind"
+      },
+      {
+        "headline": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi - The Guardian",
+        "source": "The Guardian",
+        "timestamp": "2026-11-03T16:58:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5",
-        "summary": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "What Microsoft & Lumen's Partnership Means for Data Centres - Data Centre Magazine",
-        "source": "Data Centre Magazine",
-        "timestamp": "2026-11-03T16:30:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZE9xZ1RpUUhHZU9WUDBGLUNJVk1uOXp6Qkxqc1FQX1NtUldUMDJSNHVoN0xOdlh4RTNQTmV4RUw3ejY5RU1TVWRCZTlSdXlGYm9LSjNuVks3YXdBY0xXb2hYdDBYb1JubFhsVXNkSWpqZUR4RGxXMGFEeS1hZ0c0M3FRWEUzWWdqZ0NBeWU2T3JjUnBOMDE4?oc=5",
-        "summary": "What Microsoft & Lumen's Partnership Means for Data Centres &nbsp;&nbsp; Data Centre Magazine"
-      },
-      {
-        "headline": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-11-03T10:19:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDh5SzdrS0VITndGaS1CcGcwVjl4SDJ2NjlYT0JNNzFtdWRvbjFiWWdNRC02ZHhaeklmUk9la2R2cEtVdEprOHg5dVRBaUlENFM3U1R2dWo4N3Q2RUdUaUJ4eGFrNXEyazVETVBkR3pUNzFOVDExcXE5b3RBUDNBLWV1aUxoV2wyQUtQYnltXzFsZmRpckE?oc=5",
-        "summary": "An artist says Meta's bots overwhelmed her website and left her scrambling to protect her business &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Chinese AI models tumble down rankings after a crucial change to testing - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-11-03T10:00:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaUVqU2o3ZnlXOVp2V3hyc3pzcnpKbTVIQU96VkpOSDJLdlBGdGxiTzI3aV9HMFBBbjZNR2dnWTZ5dUNod1NoWThjbmlTeTRjNHhmZlR3R1hZZm5VS2pERUNxT2dpRGVOQXhJTU5WN3pJZVMwWU9FbFRoMFZVTmpibnJHYnl2bWVkY0hQdHgzbnpNNlpqUklDemFnZkJwMm1ucmg0WHhfdm93bndFVDlBSDBZWnNTd0Y2?oc=5",
-        "summary": "Chinese AI models tumble down rankings after a crucial change to testing &nbsp;&nbsp; Business Insider"
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT01TWjlIVVdvQU1WTEdESzQ4Wk05ZXVLbU5ReVBGMDlZNnk5UmJ2OERldl9weWRqUk5aSV9vRkxteVdRSG5QcXZmZGZ2ZkhGbzM0YldYUGE5Z3R1TXFNVmhPXy03LUd4azhqX2YyTHF5OWl2eTNIRG1Kd0V4eG45NjFNN1ZWWERuM1hjZ2d3RVY5WHNfcVBwdWZ1WmFCdGFwS1psRFZPM1diclJ2N3lkR0JjOGJ0WEpUYkVPSXlEbzhPUUFtb3VjMFMzM3o?oc=5",
+        "summary": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi &nbsp;&nbsp; The Guardian"
       }
     ],
     "whyItMatters": [
@@ -178,15 +178,15 @@
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
