@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-05T10:32:29.279Z",
+    "generatedAt": "2026-11-05T18:34:45.307Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,54 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI pledges to pay for data center power after election highlights AI concerns - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-11-05T10:00:01.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI pledges to pay for data center power after election highlights AI concerns &nbsp;&nbsp; CNBC",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5"
+      "headline": "Claude AI can plug directly into your bank account - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-11-05T18:00:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Claude AI can plug directly into your bank account &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3lQLVFKMlNaVkNiczJpdi1IZ1pjWWpSQVhjQTV0X3FHWnhIVklqX2swZFZHT1JJSzFkWEVsN002WGhOalpRSXBrT3Nzc09DU3RnS2VoZzUwMVFkTHlVb1ItME1QYmoyWGpmaFBwX2ZhTUY2V3Zid0M5OTg2d3kyam1pR3l5MXh6ZWpEZWJYVG8wY3EwOTNIN3BJd3NkVHZo?oc=5"
     },
     {
-      "headline": "OpenAI to Change How It Handles Data Center Efforts After Outcry - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "OpenAI’s Dots are coming up against the price of privacy, and the price of compute - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-11-05T17:39:00.000Z",
+      "impact": "HIGH",
+      "category": "market",
+      "summary": "OpenAI’s Dots are coming up against the price of privacy, and the price of compute &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM28zUGRQRF92YmJPeThmbllCR2ZHbDVVSWVwNEZwNUpuNVpjYjVTQjh3SmU2bG5fdDU0T1JiTmNheTBFOGxRckNVcFUwdWVCMVZFS000VVNNeE93NTBWX1YwVk1zcVhCbkhGQlJPUTNnSHJRVjRvdFo3aW9IV185MWJNTGM3OEE5QTNrUmdrM2t2TFltMVhLZjUxb2JpeVU4VmdTZzVfRkNnVjVlR0N1Z2lB?oc=5"
+    },
+    {
+      "headline": "OpenAI rebrands data centers as ‘compute campuses,’ unveils new framework - The Hill",
+      "source": "The Hill",
+      "timestamp": "2026-11-05T17:21:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI rebrands data centers as ‘compute campuses,’ unveils new framework &nbsp;&nbsp; The Hill",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHFmbW13Z1BiOEVjT1d4a2cyOXdReTRKVlRxbjA4M0pqTmJKZVVBUUFqSjNKTVdWeFo2NWxWTFhVa3hlTnhNX2FsaVpHU1VpMjZLeVJMMkRzcnhkbjc0MEgzTEl6M0R5eTl5X1hDeklja2k4cktKWmNwX1JMajVYVjJFT3pWb0xaOWZFTWNpZEhBY2fSAZgBQVVfeXFMT3VjUEc2bzQ1VC1MbnRkbVhLRkZ4NnNYa1VmWERpaFBkRVotV2hJcTZsdXFmY2MzLWdqNV9FWE1qU2lRT1dNY204RFhaLXp4ZEQ4OG1tZGV3eUFDMHUxTW52cnRuamlLclhhcy14TVJ6cmM0THZXc3JhYVJ0UEs1a1JRS3FhcjF2OWhoeXVpVi1oTXBLRFNZT2M?oc=5"
+    },
+    {
+      "headline": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I. - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-11-05T16:51:48.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I. &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzc5ME9TaVQ4MWd2dlgyempENHN0eTRwRDZ0NmN1Vlo3OTRLQWpIdjVsRDVJSnFTSGlyWlJzamtaelVoTHpuSnVITlpuT0VLUnFKUlZpOWFWb2V5UUdyVk5EU3lYb1BwSzFBQ2c0TDNZY3pmcXZFTkM4MXpscEk4V3pR?oc=5"
+    },
+    {
+      "headline": "Meta's AI Buildout Runs Into a Political Problem - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-11-05T14:41:54.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta's AI Buildout Runs Into a Political Problem &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2VoZHR0RFNKX05qZG1hY3RlODRmNlN2QTBOcWNSanRkbkVkSEE2OWJZSVZreWt5S1l1VGVodkZ1aHhycFRuVkFNNFczdUg3elBSZFQwamZfMkVjaFZwZjR3WTYzUUpEa1BYZU16ejA4Z3BubDB2bnVBRXJxanBNWjdqUmhaRU4yT19jLVRWTk9yVVVCbGd1NUpoZGM?oc=5"
+    },
+    {
+      "headline": "Google Staffers Say They’re Being Silenced From Telling the Public the Truth About AI - Futurism",
+      "source": "Futurism",
+      "timestamp": "2026-11-05T14:25:13.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google Staffers Say They’re Being Silenced From Telling the Public the Truth About AI &nbsp;&nbsp; Futurism",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2FoTnRaQWo1WlFXMmI4dlRVRVlEYVpmU3FKeG5QbGh3a0xnTlJEOVNweVpVazB4c09seXpkVk9ZM1RYanc5RmdrM1Y2c3B3alhsdW9wVXRWRUZJQTVCRHgwMzl6Z2phNHZCNUszUzlmYkNVMzJOS1ZoYU5mZVVQUTY2R1Faa1VLR1Zwa1MtSEVDRFZsSGc?oc=5"
+    },
+    {
+      "headline": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work - Business Insider",
+      "source": "Business Insider",
       "timestamp": "2026-11-05T10:00:00.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI to Change How It Handles Data Center Efforts After Outcry &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEowNWhNQkUxQWk5Z2xWQ0NNc3hkTV92SzBjV1hGMmw3NEQ4QXlSTTRQRl9wZlNWWGtEZzVpN3Y2MXZPdVpLZTdBZUJnR0NxMXRpV2ROaElJRF9pYzlLXy1Sclp6Nmk0UU5QQ2JZSEw5VDVuNWNmSWFwZGp6UWwtWklwR1lIZDlQVERuMlZQVlk4ZEJURmlDd3RUaW9fdjhwY212UW9MZl9VRmtmRXJqdUcyS2RnUQ?oc=5"
-    },
-    {
-      "headline": "Can Anthropic make enough money to justify its value? : The Indicator from Planet Money - NPR",
-      "source": "NPR",
-      "timestamp": "2026-11-05T08:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Can Anthropic make enough money to justify its value? : The Indicator from Planet Money &nbsp;&nbsp; NPR",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTZrSTU1cFRQVWFZbjBRWlI4TTRnVXlBOUx5T1EtOHRsNjl0ajV2LVFHdVM2andoSm9hOHQ5RG5OWDdfX1VpTmN3QmFDTi14UFlqbXdFdTNESkhDWl9uRUh0MEMwVEV2aWFOTjRERGEtazNlci1wZmlTcnFoODk2UFhINTY2YUFCRWZrS3FSY1lvVFV1Q3JqWDhHZzVQZw?oc=5"
+      "category": "models",
+      "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5"
     },
     {
       "headline": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
       "source": "The Hacker News",
-      "timestamp": "2026-11-05T04:31:00.000Z",
+      "timestamp": "2026-11-05T04:32:22.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run &nbsp;&nbsp; The Hacker News",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5"
-    },
-    {
-      "headline": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
-      "source": "Business Insider",
-      "timestamp": "2026-11-05T00:57:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "A top Anthropic product leader has been poached by OpenAI &nbsp;&nbsp; Business Insider",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5"
     },
     {
       "headline": "Isomorphic Labs in Talks for About $5 Billion in Funding - Bloomberg.com",
@@ -72,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2FLdk1jbXlhaGNFWDB2MzB1Z0dZTDhQNkdWRFBBTlRjMHE1T08wS25RVTBQMGVqeHMyQ0ZxSDJkWXgtNkNxRTVaaTRCenBjSi0yWDhzMUNmY2xBLUtBQnI5a09hSnVwWVdsVzU5aU5WVHVrN2d2NkFEWXZnMlBzei1CeVdpbkpCdE9KTUQxV084NWw4QWJEMV9qU1p2OWhzN2Uzc19uZl85QQ?oc=5"
     },
     {
-      "headline": "The New Meta AI Glasses Have Reached Their Peak - Yahoo",
-      "source": "Yahoo",
-      "timestamp": "2026-11-04T21:37:22.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "The New Meta AI Glasses Have Reached Their Peak &nbsp;&nbsp; Yahoo",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXk1TkZtR1ltQ1AySm9SbHpsMTRQcEhLOUNWN3ZjWmtHR2gza3ZWZWljeURjRGVBUVBZbHNOVWd5dGV3OUg2UEN4NWVZVHNsTkhHYkN3cEZEYUJLRklEM2dBNGJNR0JpNVJnUlpXSmVzUUxFdTZhS3Q2cFB6a1BqOGktYWRWSjBuckE?oc=5"
-    },
-    {
       "headline": "OpenAI’s approach to mathematics does not add up - The Economist",
       "source": "The Economist",
       "timestamp": "2026-11-04T18:11:10.000Z",
@@ -90,97 +110,77 @@
       "summary": "OpenAI’s approach to mathematics does not add up &nbsp;&nbsp; The Economist",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFh5RG43Smk1X05pc3ZtX1dybGFjWjBqamE0VjlFVm1Ga25fdXJPcWp6TnBJSnZvRFVpSVF1LTA0UURrLVo5QUk2dWl6SFBUcTk3Rl9qYlpDajJLOUFuZzBkSVRrX3ZhZ0hkWXRfQlBEM3pVZWxGeHp5LWxfTXBJdHVDN3U2YUYzdlRuWmlOS1MwYWsyeEZveXJmUGtmTHIwMDF2OFNfOGdxZ3M?oc=5"
-    },
-    {
-      "headline": "Meta is training its AI on millions of Australians, but now you can stop it - ABC News & Headlines – Australian Broadcasting Corporation",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "timestamp": "2026-11-04T18:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta is training its AI on millions of Australians, but now you can stop it &nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekpNSXp6Tm5FbzFHb1M0MC04bklBMGExd2JvVWFvQTZ2OTFWaGZtV3NQamxkVC1RM3VzZWdBdzVrVjFoSjBWYjVLTG9qN0VUUG9MYzFqeG02NHQ3S05Qc2duemV5YTl5Z0dLZ3pGSnUyVW91OFlKWXY4aXZMVWRJRlozYmxxZ1lCaXIzbnJyckVtRWNqV3JvS3YzeDdDSDVSQmlZNVl3?oc=5"
-    },
-    {
-      "headline": "Microsoft and Lumen Expand Azure AI Network Sales Collaboration - Channel Insider",
-      "source": "Channel Insider",
-      "timestamp": "2026-11-04T17:17:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Microsoft and Lumen Expand Azure AI Network Sales Collaboration &nbsp;&nbsp; Channel Insider",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUh2b2c1Z0hMUWVleGk5azZPa2hwWkhaYjlDZ0NkdVZIUHZiN1lGTGtNc2d2amx4MHNyVURpYVBVOXRFSm8zUXBtMEVhNno2NVc1MjhacHBQdlcybkwzbW9lNlpJeEMxeVc5WHNuQWhucG54V256OUFkR0FKRTRUWjhybDNMSnVFMm5NckdxUjg3Z0tOaUNTSVVvVQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI pledges to pay for data center power after election highlights AI concerns - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-11-05T10:00:01.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZThLcjRmNUduOEJ4aUt0bmF0OXI4T0xhb0hQMk9BMjlYb3YzYWx1V05CaFRjR2xuMTROU1l3NUd6M0phTWE4ZG9hSHEzS21KTGVrUGxBWVBsRFA4UWtZVEtxVjM1V2x4NGFzY01UVkMzcEQzSW9pc013MDc3RXZRSFM4TENWcmxRbGExTHAwQzRHYlE3UEZlaHZvWldTTUVyNEZkWWZ5VdIBrAFBVV95cUxNb0ZKaGw3Qmh1WEFRTHV1Tk9RNDd5bnVudHhrR0pCQVJXUG5TUDdrXy1kXzA1Z2s2MFpSSlNzVEl0TFh2RURiejFETVZVZkNkSzhVZ1JFa3hPRHFFcUFOWFpWSE1EOTUwSDF6dEFCZU01Z2JMV3JKRjJ3ZkQ0Wkc2VHFwdzhkd1VodEtPdUg4REItby15c3d5azQ0MGdLbExuaEdxdjhlTS16MlhP?oc=5",
-        "summary": "OpenAI pledges to pay for data center power after election highlights AI concerns &nbsp;&nbsp; CNBC"
-      },
-      {
-        "headline": "OpenAI to Change How It Handles Data Center Efforts After Outcry - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-11-05T10:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEowNWhNQkUxQWk5Z2xWQ0NNc3hkTV92SzBjV1hGMmw3NEQ4QXlSTTRQRl9wZlNWWGtEZzVpN3Y2MXZPdVpLZTdBZUJnR0NxMXRpV2ROaElJRF9pYzlLXy1Sclp6Nmk0UU5QQ2JZSEw5VDVuNWNmSWFwZGp6UWwtWklwR1lIZDlQVERuMlZQVlk4ZEJURmlDd3RUaW9fdjhwY212UW9MZl9VRmtmRXJqdUcyS2RnUQ?oc=5",
-        "summary": "OpenAI to Change How It Handles Data Center Efforts After Outcry &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "Can Anthropic make enough money to justify its value? : The Indicator from Planet Money - NPR",
-        "source": "NPR",
-        "timestamp": "2026-11-05T08:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTZrSTU1cFRQVWFZbjBRWlI4TTRnVXlBOUx5T1EtOHRsNjl0ajV2LVFHdVM2andoSm9hOHQ5RG5OWDdfX1VpTmN3QmFDTi14UFlqbXdFdTNESkhDWl9uRUh0MEMwVEV2aWFOTjRERGEtazNlci1wZmlTcnFoODk2UFhINTY2YUFCRWZrS3FSY1lvVFV1Q3JqWDhHZzVQZw?oc=5",
-        "summary": "Can Anthropic make enough money to justify its value? : The Indicator from Planet Money &nbsp;&nbsp; NPR"
-      },
-      {
-        "headline": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
-        "source": "The Hacker News",
-        "timestamp": "2026-11-05T04:31:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
-        "summary": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run &nbsp;&nbsp; The Hacker News"
-      },
-      {
-        "headline": "A top Anthropic product leader has been poached by OpenAI - Business Insider",
-        "source": "Business Insider",
-        "timestamp": "2026-11-05T00:57:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
-        "summary": "A top Anthropic product leader has been poached by OpenAI &nbsp;&nbsp; Business Insider"
-      },
-      {
-        "headline": "Isomorphic Labs in Talks for About $5 Billion in Funding - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-11-04T22:51:44.000Z",
+        "headline": "Claude AI can plug directly into your bank account - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-11-05T18:00:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "Google DeepMind item may shift vendor pricing, buyer expectations, or stack selection.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2FLdk1jbXlhaGNFWDB2MzB1Z0dZTDhQNkdWRFBBTlRjMHE1T08wS25RVTBQMGVqeHMyQ0ZxSDJkWXgtNkNxRTVaaTRCenBjSi0yWDhzMUNmY2xBLUtBQnI5a09hSnVwWVdsVzU5aU5WVHVrN2d2NkFEWXZnMlBzei1CeVdpbkpCdE9KTUQxV084NWw4QWJEMV9qU1p2OWhzN2Uzc19uZl85QQ?oc=5",
-        "summary": "Isomorphic Labs in Talks for About $5 Billion in Funding &nbsp;&nbsp; Bloomberg.com"
+        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3lQLVFKMlNaVkNiczJpdi1IZ1pjWWpSQVhjQTV0X3FHWnhIVklqX2swZFZHT1JJSzFkWEVsN002WGhOalpRSXBrT3Nzc09DU3RnS2VoZzUwMVFkTHlVb1ItME1QYmoyWGpmaFBwX2ZhTUY2V3Zid0M5OTg2d3kyam1pR3l5MXh6ZWpEZWJYVG8wY3EwOTNIN3BJd3NkVHZo?oc=5",
+        "summary": "Claude AI can plug directly into your bank account &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "OpenAI’s Dots are coming up against the price of privacy, and the price of compute - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-11-05T17:39:00.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may shift vendor pricing, buyer expectations, or stack selection.",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM28zUGRQRF92YmJPeThmbllCR2ZHbDVVSWVwNEZwNUpuNVpjYjVTQjh3SmU2bG5fdDU0T1JiTmNheTBFOGxRckNVcFUwdWVCMVZFS000VVNNeE93NTBWX1YwVk1zcVhCbkhGQlJPUTNnSHJRVjRvdFo3aW9IV185MWJNTGM3OEE5QTNrUmdrM2t2TFltMVhLZjUxb2JpeVU4VmdTZzVfRkNnVjVlR0N1Z2lB?oc=5",
+        "summary": "OpenAI’s Dots are coming up against the price of privacy, and the price of compute &nbsp;&nbsp; Fortune"
+      },
+      {
+        "headline": "OpenAI rebrands data centers as ‘compute campuses,’ unveils new framework - The Hill",
+        "source": "The Hill",
+        "timestamp": "2026-11-05T17:21:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHFmbW13Z1BiOEVjT1d4a2cyOXdReTRKVlRxbjA4M0pqTmJKZVVBUUFqSjNKTVdWeFo2NWxWTFhVa3hlTnhNX2FsaVpHU1VpMjZLeVJMMkRzcnhkbjc0MEgzTEl6M0R5eTl5X1hDeklja2k4cktKWmNwX1JMajVYVjJFT3pWb0xaOWZFTWNpZEhBY2fSAZgBQVVfeXFMT3VjUEc2bzQ1VC1MbnRkbVhLRkZ4NnNYa1VmWERpaFBkRVotV2hJcTZsdXFmY2MzLWdqNV9FWE1qU2lRT1dNY204RFhaLXp4ZEQ4OG1tZGV3eUFDMHUxTW52cnRuamlLclhhcy14TVJ6cmM0THZXc3JhYVJ0UEs1a1JRS3FhcjF2OWhoeXVpVi1oTXBLRFNZT2M?oc=5",
+        "summary": "OpenAI rebrands data centers as ‘compute campuses,’ unveils new framework &nbsp;&nbsp; The Hill"
+      },
+      {
+        "headline": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I. - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-11-05T16:51:48.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzc5ME9TaVQ4MWd2dlgyempENHN0eTRwRDZ0NmN1Vlo3OTRLQWpIdjVsRDVJSnFTSGlyWlJzamtaelVoTHpuSnVITlpuT0VLUnFKUlZpOWFWb2V5UUdyVk5EU3lYb1BwSzFBQ2c0TDNZY3pmcXZFTkM4MXpscEk4V3pR?oc=5",
+        "summary": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I. &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Meta's AI Buildout Runs Into a Political Problem - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "timestamp": "2026-11-05T14:41:54.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2VoZHR0RFNKX05qZG1hY3RlODRmNlN2QTBOcWNSanRkbkVkSEE2OWJZSVZreWt5S1l1VGVodkZ1aHhycFRuVkFNNFczdUg3elBSZFQwamZfMkVjaFZwZjR3WTYzUUpEa1BYZU16ejA4Z3BubDB2bnVBRXJxanBNWjdqUmhaRU4yT19jLVRWTk9yVVVCbGd1NUpoZGM?oc=5",
+        "summary": "Meta's AI Buildout Runs Into a Political Problem &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Google Staffers Say They’re Being Silenced From Telling the Public the Truth About AI - Futurism",
+        "source": "Futurism",
+        "timestamp": "2026-11-05T14:25:13.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2FoTnRaQWo1WlFXMmI4dlRVRVlEYVpmU3FKeG5QbGh3a0xnTlJEOVNweVpVazB4c09seXpkVk9ZM1RYanc5RmdrM1Y2c3B3alhsdW9wVXRWRUZJQTVCRHgwMzl6Z2phNHZCNUszUzlmYkNVMzJOS1ZoYU5mZVVQUTY2R1Faa1VLR1Zwa1MtSEVDRFZsSGc?oc=5",
+        "summary": "Google Staffers Say They’re Being Silenced From Telling the Public the Truth About AI &nbsp;&nbsp; Futurism"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "Google DeepMind",
