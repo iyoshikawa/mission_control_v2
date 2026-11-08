@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-07T23:24:51.497Z",
+    "generatedAt": "2026-11-08T04:30:15.270Z",
     "refreshCadence": "hourly",
     "sources": [
       "https://news.google.com/rss/search?q=when:1d+shipping%20OR%20Suez%20OR%20Red%20Sea%20logistics%20(site%3Areuters.com%20OR%20site%3Abloomberg.com%20OR%20site%3Aft.com%20OR%20site%3Aapnews.com%20OR%20site%3Awsj.com%20OR%20site%3Anikkei.com%20OR%20site%3Acnbc.com)&hl=en-US&gl=US&ceid=US:en",
@@ -12,6 +12,28 @@
   },
   "newsFeed": [
     {
+      "headline": "Former Kraken forwards help Rangers prevail in Seattle",
+      "summary": "Former Kraken forwards help Rangers prevail in Seattle &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-11-08T01:13:00.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "conflict",
+      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGt0eHFCamt0VzVRSHZ3MjNzNFM3cHhVTlI3dnRYRi1ueFZTQlFITFEzdkFZZ0k1WHhhWE9yMVNsMFFLVGlHN0pOVWhEMHc1NVppY210N3UxdFAxbHNVeEJORHJpbzR1OUMtOFlZZzJzRWFKT3Y0TmJBcVctazgtTDhNTVllVFdwRzFKUVV3SjdhWkhNUElSU2RUOGl6NXE1b1dwbGNB?oc=5"
+    },
+    {
+      "headline": "Report: Ravens not expected to trade RB Derrick Henry",
+      "summary": "Report: Ravens not expected to trade RB Derrick Henry &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-11-07T23:31:28.000Z",
+      "impact": "HIGH",
+      "region": "Global",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclNSREVvLWVXMFdjZWtZRmx2Wkx6X1hNX280cW5Db0Y3LUJiakxxMS1MRHQtNDhMNTM2TzA2emhQWVFXbEYwRXZtcDNWeTAxMFY3VFZvYjJldm5ySjJfQ3BWbjNLYVlzUEVvQTFzMld6bk05QzBxYThtemZJbUJCN3otdHE5R1ZIVm94OE9Ed2Y2c04tMFJNMjgzSV9mdw?oc=5"
+    },
+    {
       "headline": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
       "summary": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government &nbsp;&nbsp; Reuters",
       "source": "Reuters",
@@ -21,6 +43,17 @@
       "category": "conflict",
       "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5"
+    },
+    {
+      "headline": "Explosions heard in areas in southern Iran, Iranian media report",
+      "summary": "Explosions heard in areas in southern Iran, Iranian media report &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-11-07T21:57:14.000Z",
+      "impact": "HIGH",
+      "region": "Middle East",
+      "category": "shipping",
+      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5"
     },
     {
       "headline": "US military says it disabled cargo vessel in Gulf of Oman",
@@ -65,39 +98,6 @@
       "category": "shipping",
       "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5"
-    },
-    {
-      "headline": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says",
-      "summary": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "timestamp": "2026-11-07T08:14:35.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5"
-    },
-    {
-      "headline": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
-      "summary": "Israel’s president gives Gadi Eisenkot first shot at forming a government &nbsp;&nbsp; Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-11-07T20:20:57.000Z",
-      "impact": "HIGH",
-      "region": "Middle East",
-      "category": "conflict",
-      "whyItMatters": "Geopolitical escalation can spill into supply, energy, and operating risk quickly.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTZjUWtqZE5xNi1MSGprM2UxMzFpWml5MFNDakFiclhwN0VERnNudk9reHJaVm1LcmN0VXNUcy1yTWNQREVFd0JkQTd0WDk5aFBiZm5ZQTI3bWYzMXFjc2RxX2FFZnIyRi01UkhoNkxBbm1FT3FjYTJPaU9TRExzby1oS24?oc=5"
-    },
-    {
-      "headline": "Russia ships metal via the Arctic to evade Ukrainian strikes",
-      "summary": "Russia ships metal via the Arctic to evade Ukrainian strikes &nbsp;&nbsp; Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-11-07T05:03:43.000Z",
-      "impact": "HIGH",
-      "region": "Europe",
-      "category": "shipping",
-      "whyItMatters": "Watch for delivery delays and freight-cost pressure on hardware or imported goods.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVRjcEsxZWxtb3QtUkhiNmRDdmgwZUZNQlRDQzZNWFdiYk95R3M2a1JMSGN3V1RuUkZEUzlyanBaQnJiS2Z1N2xLaVJCeHdjVm5GYmRjZDk2QVEtX1Z2SVRab1V1Q0VndWpwckVXd3ZxU2tBU05fVTl1UGhUNkR5RmQweHc?oc=5"
     }
   ]
 }
