@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-10T01:55:13.633Z",
+    "generatedAt": "2026-11-10T09:29:01.934Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,74 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "Australia tightens AI oversight rules after OpenAI agent breached government website - Reuters",
+      "headline": "Anthropic and OpenAI are coming for the development workflow - InfoWorld",
+      "source": "InfoWorld",
+      "timestamp": "2026-11-10T09:02:40.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic and OpenAI are coming for the development workflow &nbsp;&nbsp; InfoWorld",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU1UYUJLSnZocU81U2xreTYxdm5yTTgzTHlGUDVnSTQ5OTgwbG5jX01hZ240cUtTUDYxLUhEeXJZNVVFM0VJNzNyNHVMUTB5UllFSk9oaVIyMW9xMmM1T0lfZ2t5VWdZbHpEMnE1UlFkaUJicUFkN3lVdEhSUVkydVFaQzdYeTgtSWEwUndYOWVKVHB4c2g3WDAwVmZCTUNtSF9kR0xhNEpmeFk?oc=5"
+    },
+    {
+      "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack - BBC",
+      "source": "BBC",
+      "timestamp": "2026-11-10T05:22:39.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack &nbsp;&nbsp; BBC",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEQl9udTRUU1hUZzhQNmxLY29aQjRqb3dYZEU1ME5ncnlLMkUzTmpwaTBSRHJmTXRmNkduZmdVNFllZmVNeUlIcVI0TW5rQThqLUNlWDRvcnVJOXM?oc=5"
+    },
+    {
+      "headline": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-11-10T05:01:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSV9UXzJZbldTTW1URGM4UVozZGNvMTlrZldGaWR1Y3ZjTngwa0JTdVVxWURJcDdsd3kxUjd6bWRZUFBkemdIMjdYX1ZsUExYY1Y0X2pMdTJDVy01WDBfdzZTN0RQblloam5VbUpNU3FzeV9FUWtaS3c1N3pobFBJUk1RMlo3bEk0MFFobVptODFNUWcxRW9wbHRUcWpJcXNCTldn?oc=5"
+    },
+    {
+      "headline": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters",
       "source": "Reuters",
       "timestamp": "2026-11-10T01:30:00.000Z",
-      "impact": "LOW",
+      "impact": "HIGH",
       "category": "regulation",
-      "summary": "Australia tightens AI oversight rules after OpenAI agent breached government website &nbsp;&nbsp; Reuters",
+      "summary": "Australia to mandate AI breach reporting, create regulator after OpenAI breach &nbsp;&nbsp; Reuters",
       "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5"
     },
     {
-      "headline": "Anthropic reportedly plans to move forward with IPO plans - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-10T01:27:12.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic reportedly plans to move forward with IPO plans &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR043WEdNZWExX05pWkFfZDBaSE5jbXh5TUp4VGlIM0RGTWhEUk5BNUlxdHEzeG5OTXBFdzZXaE0xd2ViQlNLa1lBT3BBak9NOVBxMW12aXRFLV9DSjdJT0VQX1VVNl96TnI3ak5DRm9oa0o4c1dlaWdaM0lCWm9iVmx2N1lKTG9XRDN2c0pyNVB4Y1FqR0lB?oc=5"
-    },
-    {
-      "headline": "Anthropic is one of the few companies that needs to make money from AI investing, says Jim Cramer - CNBC",
+      "headline": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why - CNBC",
       "source": "CNBC",
-      "timestamp": "2026-11-10T00:53:23.000Z",
-      "impact": "LOW",
+      "timestamp": "2026-11-09T23:30:15.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "Anthropic is one of the few companies that needs to make money from AI investing, says Jim Cramer &nbsp;&nbsp; CNBC",
+      "summary": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why &nbsp;&nbsp; CNBC Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires &nbsp;&nbsp; Bloomberg.com EXCLUSIVE: Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted &nbsp;&nbsp; Reuters",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2UtUG1EWG5laEpvdjM2eUUycnBOVHpwaTlQcXByb1lwM2JiQW5OVmpxSTFodG5NRFFxTGhGeHZ1VmVrZHdlNVRKTDlrOFRySWQteXlUcGxxR1Y4a0xLRlEwaXFNWmZ2eDhlc1gxUWZNUy1WckdKeEZiOHhmUEVCT0xVQVF4SGJpSDdSYVFwbUlPNHNsWVNhNndXa0V5eTQ1bHI0SGFsN2VnQlMtTFUyNENpU3o5Um9BbXZqVzQtSTZHb250SDVLT3YyLU9PRW8yLXlMT2pn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mRmcyLUg0WGtROUVfM1hsLWQ1WFJiWWhiVDB5SDZScHpVaGE1eWRHV0hEUTlJcUc5UHd4THpvMGFfcTRYZURXSFdFQlhOV3dtZlprcDNNZ29HcXktUFhTb1ZrcWVkelM3Q3lobnBSaFdMMnprejVreF9B?oc=5"
     },
     {
-      "headline": "Meta AI glasses can overheat from water and sweat — update right now - Tom's Guide",
+      "headline": "Meta AI glasses can get too warm from water and sweat — update right now - Tom's Guide",
       "source": "Tom's Guide",
       "timestamp": "2026-11-09T22:07:58.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Meta AI glasses can overheat from water and sweat — update right now &nbsp;&nbsp; Tom's Guide",
+      "summary": "Meta AI glasses can get too warm from water and sweat — update right now &nbsp;&nbsp; Tom's Guide",
       "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5"
     },
     {
-      "headline": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-11-09T20:30:56.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires &nbsp;&nbsp; Bloomberg.com Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why &nbsp;&nbsp; CNBC Anthropic Still Plans to Go Public as Soon as Next Week: Report &nbsp;&nbsp; Gizmodo",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR18tUkxpWXdHY2ltZ01ybEpIbWJYWHpmQmxkTWozQkxadVBFeGExUGJHZ3pCSXhNLThmTGJvTjNiU0h2bmZ3dEhmZjQ3ODliTks5Y1J2bDBLNGJ6WWo0aDFFOEZtN1pRZXlCRk9TV1pmb1k2alIwcDhwSVA2V3ktTGNtd2ZGTHBuMzg4aG9nRHZqSzItNlF0RVZzN3VsdmFGTm5McEtHOU55cXZZVW1uOXJ6cnU?oc=5"
-    },
-    {
-      "headline": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-11-09T19:00:01.000Z",
+      "headline": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-11-09T19:04:05.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds &nbsp;&nbsp; CNBC Anthropic releases new Mythos and Fable models amid RSI concerns &nbsp;&nbsp; TechCrunch Claude can design electronic prototypes from start to finish &nbsp;&nbsp; Anthropic",
+      "summary": "Anthropic debuts Claude Fable 5.2 and Mythos 5.2 models as IPO nears &nbsp;&nbsp; Yahoo Finance Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds &nbsp;&nbsp; CNBC Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark &nbsp;&nbsp; The Hacker News",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORUxtR3VZQVJjcnhWLW1rb3RBdG1vMlFJRlpGeG9iTmdtZ0RrVTBDRkJITUQtM3FjZkhrZHQtb3J4cGNsLUs0SllMR05JcENTWFVOZjJLUUM0c0k2aXlhZGJKNFdnUFd2ZUVtcmp3WWdudFhpWG41by11a3lDZWI1b3Z1VHppTzBteEt4amNJeXc0Y0diSkxnMUdGeVVwNXQ2Y3RUeC1qS3V6cU04eUJtUUg2WHBPVk5pWXB5Vlp1YktpOWxY?oc=5"
     },
     {
-      "headline": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits - Time Magazine",
-      "source": "Time Magazine",
-      "timestamp": "2026-11-09T16:37:25.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits &nbsp;&nbsp; Time Magazine",
-      "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ed2ppQ2tULUM3WjB5MU05c3FPcHJIdnl0aFNsbkQ1eElCM3NDbHFYRVY1dW5Xbkluc3N4ZHRhYnhjOTdncUFac0dEUE1rSE5NSEp6V1ZwNmh4cmxaRE9KelNFYkoxUU9IdkFreFBQaG9QbHNQRi12SE41X0NXQ00?oc=5"
+      "headline": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-11-09T16:56:54.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2IwVDdzNjlTZGt6OFp5bmVUdkZ1aldJdDdfVlluakRKbzh4SWRCckJ5Qk05OWhiSzRzSERMbDJhYnhnYnQxVTRlVDdyamlQOTRCTFNoUFF4QmgzNXJicUJhUC1tUlJGbkNRVUtGdGxTRXp2T09lYkNiRGZnOU82TDdWdF9RMUFLWG5GMkdZNDRPbjlzUDE4VkNn?oc=5"
     },
     {
       "headline": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session - The Register",
@@ -92,88 +102,78 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbVBsUWJXLU1hQjcyUTdYaGFFUHU5M1hPN19ZeWpxTkN1VXN6UlhzWmhyZENNMTQtelQtMEhfZUdOMWM5eDlZMnBlX1BXQnVNNmp0clR1OXNKTnNHVk5ROXFseVRxUzRoUU5DLVVZUTBrNUJPUXdEUmZyOVhFUXZUM1Mwb0R5Z2dBV2lmRXpWaGctQ2g4WVltZlphbnpPQ1NjRE9Cd2dRaUlDWjdLT1NOX0NaVzdGZVZjano4RDRKTWNkc18xdW5FU0dVVFlscC00RnAtNDZmWQ?oc=5"
     },
     {
-      "headline": "ChatGPT, Gemini, Meta AI: What parents can control in AI chatbots - Notebookcheck",
-      "source": "Notebookcheck",
-      "timestamp": "2026-11-09T09:10:00.000Z",
+      "headline": "DeepMind workers invoke '1984' over contract clause that keeps AI concerns out of public view - Yahoo",
+      "source": "Yahoo",
+      "timestamp": "2026-11-09T13:32:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "ChatGPT, Gemini, Meta AI: What parents can control in AI chatbots &nbsp;&nbsp; Notebookcheck",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOS1kLXFSYzJEa01NaUdBc2JmU2lwRFZnX2lFWkhrbWl1VmFMQWhUX2pSdVM0dzFQZHBHZUV3a0xnaVpKY3c1clZTaFV6LU81MG9KX2tyQmpsMWxHTkZGRlNVTlA2OWZCcHFEUzgyVXZSUjRVNVVWN2RMNG9IbGlDVTNQSFRlbVJMS3hPYkZUWk9VNmFJMW80anNNcThxQklnN3lJU3I3NExEYzg?oc=5"
-    },
-    {
-      "headline": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy - Rest of World",
-      "source": "Rest of World",
-      "timestamp": "2026-11-09T08:32:31.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy &nbsp;&nbsp; Rest of World",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEZrZm1CdDlWLUh4Zm5rbUlkVF82SHFGc3ZJMW41dXJHZGVqQWpYeEJBd2RsVW91MjRfRmR6UVdQcGhwQVdMT2NCV2ZrSU5ObGRvS2tieTBmUzE5Yk9MUDdLM3o1b3E5Qm9ub19ZYWJpcFRWWVF2bS0wdklTZjJhLTVsUjJ0N3BOYUxJQjdVTW9LSjNKU0g4?oc=5"
+      "category": "regulation",
+      "summary": "DeepMind workers invoke '1984' over contract clause that keeps AI concerns out of public view &nbsp;&nbsp; Yahoo",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazZVV2N1VzZrVm5XOG01MjZTekp2TTI1VklWSHNoV2hKMjQ5bmcwVmN5UUxRS3k0Rk9pUmtzT1NzRGoxOWVyRDNWUFBXRE5xMUJTYkp4REFCMl9EM0tsQUppMHNrS29nT0lVQ3JzUnVaZnRIQU5uN0xfM3BzaUZlZXpRS0tKWnZzY2tKc01KSlY?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Australia tightens AI oversight rules after OpenAI agent breached government website - Reuters",
+        "headline": "Anthropic and OpenAI are coming for the development workflow - InfoWorld",
+        "source": "InfoWorld",
+        "timestamp": "2026-11-10T09:02:40.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU1UYUJLSnZocU81U2xreTYxdm5yTTgzTHlGUDVnSTQ5OTgwbG5jX01hZ240cUtTUDYxLUhEeXJZNVVFM0VJNzNyNHVMUTB5UllFSk9oaVIyMW9xMmM1T0lfZ2t5VWdZbHpEMnE1UlFkaUJicUFkN3lVdEhSUVkydVFaQzdYeTgtSWEwUndYOWVKVHB4c2g3WDAwVmZCTUNtSF9kR0xhNEpmeFk?oc=5",
+        "summary": "Anthropic and OpenAI are coming for the development workflow &nbsp;&nbsp; InfoWorld"
+      },
+      {
+        "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack - BBC",
+        "source": "BBC",
+        "timestamp": "2026-11-10T05:22:39.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEQl9udTRUU1hUZzhQNmxLY29aQjRqb3dYZEU1ME5ncnlLMkUzTmpwaTBSRHJmTXRmNkduZmdVNFllZmVNeUlIcVI0TW5rQThqLUNlWDRvcnVJOXM?oc=5",
+        "summary": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack &nbsp;&nbsp; BBC"
+      },
+      {
+        "headline": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure - WIRED",
+        "source": "WIRED",
+        "timestamp": "2026-11-10T05:01:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSV9UXzJZbldTTW1URGM4UVozZGNvMTlrZldGaWR1Y3ZjTngwa0JTdVVxWURJcDdsd3kxUjd6bWRZUFBkemdIMjdYX1ZsUExYY1Y0X2pMdTJDVy01WDBfdzZTN0RQblloam5VbUpNU3FzeV9FUWtaS3c1N3pobFBJUk1RMlo3bEk0MFFobVptODFNUWcxRW9wbHRUcWpJcXNCTldn?oc=5",
+        "summary": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure &nbsp;&nbsp; WIRED"
+      },
+      {
+        "headline": "Australia to mandate AI breach reporting, create regulator after OpenAI breach - Reuters",
         "source": "Reuters",
         "timestamp": "2026-11-10T01:30:00.000Z",
-        "impact": "LOW",
+        "impact": "HIGH",
         "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
-        "summary": "Australia tightens AI oversight rules after OpenAI agent breached government website &nbsp;&nbsp; Reuters"
+        "summary": "Australia to mandate AI breach reporting, create regulator after OpenAI breach &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Anthropic reportedly plans to move forward with IPO plans - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-11-10T01:27:12.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR043WEdNZWExX05pWkFfZDBaSE5jbXh5TUp4VGlIM0RGTWhEUk5BNUlxdHEzeG5OTXBFdzZXaE0xd2ViQlNLa1lBT3BBak9NOVBxMW12aXRFLV9DSjdJT0VQX1VVNl96TnI3ak5DRm9oa0o4c1dlaWdaM0lCWm9iVmx2N1lKTG9XRDN2c0pyNVB4Y1FqR0lB?oc=5",
-        "summary": "Anthropic reportedly plans to move forward with IPO plans &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Anthropic is one of the few companies that needs to make money from AI investing, says Jim Cramer - CNBC",
+        "headline": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why - CNBC",
         "source": "CNBC",
-        "timestamp": "2026-11-10T00:53:23.000Z",
-        "impact": "LOW",
+        "timestamp": "2026-11-09T23:30:15.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2UtUG1EWG5laEpvdjM2eUUycnBOVHpwaTlQcXByb1lwM2JiQW5OVmpxSTFodG5NRFFxTGhGeHZ1VmVrZHdlNVRKTDlrOFRySWQteXlUcGxxR1Y4a0xLRlEwaXFNWmZ2eDhlc1gxUWZNUy1WckdKeEZiOHhmUEVCT0xVQVF4SGJpSDdSYVFwbUlPNHNsWVNhNndXa0V5eTQ1bHI0SGFsN2VnQlMtTFUyNENpU3o5Um9BbXZqVzQtSTZHb250SDVLT3YyLU9PRW8yLXlMT2pn?oc=5",
-        "summary": "Anthropic is one of the few companies that needs to make money from AI investing, says Jim Cramer &nbsp;&nbsp; CNBC"
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mRmcyLUg0WGtROUVfM1hsLWQ1WFJiWWhiVDB5SDZScHpVaGE1eWRHV0hEUTlJcUc5UHd4THpvMGFfcTRYZURXSFdFQlhOV3dtZlprcDNNZ29HcXktUFhTb1ZrcWVkelM3Q3lobnBSaFdMMnprejVreF9B?oc=5",
+        "summary": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why &nbsp;&nbsp; CNBC Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires &nbsp;&nbsp; Bloomberg.com EXCLUSIVE: Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted &nbsp;&nbsp; Reuters"
       },
       {
-        "headline": "Meta AI glasses can overheat from water and sweat — update right now - Tom's Guide",
+        "headline": "Meta AI glasses can get too warm from water and sweat — update right now - Tom's Guide",
         "source": "Tom's Guide",
         "timestamp": "2026-11-09T22:07:58.000Z",
         "impact": "LOW",
         "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5",
-        "summary": "Meta AI glasses can overheat from water and sweat — update right now &nbsp;&nbsp; Tom's Guide"
-      },
-      {
-        "headline": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-11-09T20:30:56.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR18tUkxpWXdHY2ltZ01ybEpIbWJYWHpmQmxkTWozQkxadVBFeGExUGJHZ3pCSXhNLThmTGJvTjNiU0h2bmZ3dEhmZjQ3ODliTks5Y1J2bDBLNGJ6WWo0aDFFOEZtN1pRZXlCRk9TV1pmb1k2alIwcDhwSVA2V3ktTGNtd2ZGTHBuMzg4aG9nRHZqSzItNlF0RVZzN3VsdmFGTm5McEtHOU55cXZZVW1uOXJ6cnU?oc=5",
-        "summary": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Expires &nbsp;&nbsp; Bloomberg.com Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why &nbsp;&nbsp; CNBC Anthropic Still Plans to Go Public as Soon as Next Week: Report &nbsp;&nbsp; Gizmodo"
-      },
-      {
-        "headline": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
-        "source": "CNBC",
-        "timestamp": "2026-11-09T19:00:01.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5",
-        "summary": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds &nbsp;&nbsp; CNBC Anthropic releases new Mythos and Fable models amid RSI concerns &nbsp;&nbsp; TechCrunch Claude can design electronic prototypes from start to finish &nbsp;&nbsp; Anthropic"
+        "summary": "Meta AI glasses can get too warm from water and sweat — update right now &nbsp;&nbsp; Tom's Guide"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,9 +184,9 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Microsoft Azure AI",
