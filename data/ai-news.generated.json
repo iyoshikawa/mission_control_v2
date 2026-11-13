@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-13T14:17:05.802Z",
+    "generatedAt": "2026-11-13T21:17:28.401Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,64 @@
   },
   "newsFeed": [
     {
-      "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-11-13T14:00:00.000Z",
+      "headline": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
+      "source": "Ars Technica",
+      "timestamp": "2026-11-13T17:25:45.000Z",
       "impact": "LOW",
-      "category": "regulation",
-      "summary": "Claude’s Duet agent is a little neurotic and surprisingly helpful &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5"
-    },
-    {
-      "headline": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death - The Seattle Times",
-      "source": "The Seattle Times",
-      "timestamp": "2026-11-13T14:00:00.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death &nbsp;&nbsp; The Seattle Times",
-      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2F3YnBFS2Z5NFljbDJPRmFuVC1wMllwN3E4Zm91aDdZOHF4NDJpWkRTZjB5MnFqbzByRk1JSTZ1bHhDOW9feHV5S2NCNk9CZkExUER2VFBtUnJMVzNsNmxXZnVRUDRncEd5Vkt6SVRqanVjRzlDb21ob25VYzdmOFNtZXJlQl94SzdQTzZ6OElQNWJsLTBSVkl3bEV1RGNaMThPeUhvWE9fTFh2WWc?oc=5"
-    },
-    {
-      "headline": "OpenAI safety board member warned AI takeover could come within months - Quartz",
-      "source": "Quartz",
-      "timestamp": "2026-11-13T13:47:06.000Z",
-      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "OpenAI safety board member warned AI takeover could come within months &nbsp;&nbsp; Quartz",
+      "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away &nbsp;&nbsp; Ars Technica",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sTHlFUW5hRXR5YVNCdWd0Sy1PX1NDYXU3UUNIQmxxWG9abUVpLWNGUThwYzQ4WGU3VHlyaVQ2dnRmTnpWZVFtOXZvcTZQVnN1dU15Zjh1QlRfZFVYVHJSU0VoNXpCaTF3Q2stWF9WNzZxQVhIOG9r?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0oxbjBlUlEwbUh1bmtnX0d2YUZMWHZqR3VNV0F6R3Q5cUVDTUV2WXA3RmFlYVhfMTUyd2dYVDNGaWJ0YWx3d2JYZHFwZTVLcG1sMFpneUFQbnFUNThMa0tDM2MzUHVOeGY4Q3poVVFRX2I2aWZQUlNPVEQ5MHdSQk9SejNoajFyVFA5U1BIclVJU1BBcGt0TEZlb1JqUm5JZUZ5S081QnhuQQ?oc=5"
+    },
+    {
+      "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune",
+      "source": "Fortune",
+      "timestamp": "2026-11-13T17:05:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots &nbsp;&nbsp; Fortune",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5"
+    },
+    {
+      "headline": "Meta AI smart glasses being tested by 21 Penn State profs - TribLIVE.com",
+      "source": "TribLIVE.com",
+      "timestamp": "2026-11-13T16:27:02.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta AI smart glasses being tested by 21 Penn State profs &nbsp;&nbsp; TribLIVE.com",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVQ4NmowSmNwSVdTTUZXb1FRQWl1UF96SzFYcU56eGdRU3AtY19xVGdiQXVaUWQwbGROLTdHUjZkazBGdGROdHJDUHZ1ZmJUUWdUWjg3VVZBMWx0N21SXzJxd3YwQnNaZDFZaE01TmtMM2pQZmYxckg1WTRIdTZWTldjYWZyVm5ubVk4dXFzQk1ZMXlZTDZWZl9B?oc=5"
+    },
+    {
+      "headline": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-11-13T16:11:41.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5"
+    },
+    {
+      "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-11-13T15:00:01.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users &nbsp;&nbsp; CNBC",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5"
+    },
+    {
+      "headline": "Ohio State, Microsoft launch five-year AI and cloud partnership reportedly valued at $250 million - Ohio Tech News",
+      "source": "Ohio Tech News",
+      "timestamp": "2026-11-13T12:38:20.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Ohio State, Microsoft launch five-year AI and cloud partnership reportedly valued at $250 million &nbsp;&nbsp; Ohio Tech News",
+      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNanNzTXBHOGNvdHFnTnFCSDZianlGbzBGczA1Yy0yYTlXMEpWVHgzYkhPakJmZnlNeEQ0eEJJREIwc3hJcy1icUZ5d0R1UktYNUxxckJMRTdIYTE0U3JSQVQ2Z2Nvek5fUlRIUHdVQXBzUng4SzBGb3RsdzZITmFPR2tKcHZjREJ1WmVaOENHcjYzUQ?oc=5"
     },
     {
       "headline": "PARDIG & SatWeave: Foundational Datasets for Earth Science - Google DeepMind",
@@ -52,24 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckY4Q2FjR0xaUnRTcUJCQThiUW5YZ1J2aElualNEbTFPSFlWalBvT2l5cTBYbVU2cnZTU2pqMGFrNzVGOXRoZmlmRTl4YkxhYVFwTlgwSGNTa1k1cnZtbU5YXzR2aHhQWDRHc3FyT2VxQ2R0SDk0cnhmV1BzNnpjOE9FWmVnQQ?oc=5"
     },
     {
-      "headline": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO - CNBC",
-      "source": "CNBC",
-      "timestamp": "2026-11-12T23:45:00.000Z",
+      "headline": "Anthropic’s IPO Is About Six Times Oversubscribed - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-11-12T21:00:14.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO &nbsp;&nbsp; CNBC Wall St Week Ahead Nvidia results, Anthropic IPO pose tests for tumultuous AI trade &nbsp;&nbsp; Reuters Jensen Huang Stole Anthropic’s Market Spotlight &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Anthropic’s IPO Is About Six Times Oversubscribed &nbsp;&nbsp; Yahoo Finance Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO &nbsp;&nbsp; CNBC Anthropic’s Dario Amodei ‘not super fussed’ about market turmoil ahead of IPO &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5"
-    },
-    {
-      "headline": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-11-12T21:35:58.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures &nbsp;&nbsp; Bloomberg.com",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1MzcnhOeUpmRUJRX1NfQlQ5bU1GV2ZQVWhGZFZzaDMtN0xtU0pMaVhOUFc5SndvLWxKS0tDVEZuU1VNVk5jTWZDX08tQ0UxdG1ZTExhUTg0N0cwVTNwajhsdWV5ZFItUUxBT3NVWEhtaktodjZsckNnRndrVnVnQmxwcXZEQ1hqeGljMkFBaVlHbGdxR0VzY0JHaUtiT2g4Sk1iU0J3?oc=5"
     },
     {
       "headline": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
@@ -82,104 +102,84 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5"
     },
     {
-      "headline": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
-      "source": "blog.google",
-      "timestamp": "2026-11-12T18:04:04.000Z",
+      "headline": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight - WIRED",
+      "source": "WIRED",
+      "timestamp": "2026-11-12T18:05:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows &nbsp;&nbsp; blog.google",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
-    },
-    {
-      "headline": "Anthropic launches ‘Claude for Manufacturing’ - Manufacturing Dive",
-      "source": "Manufacturing Dive",
-      "timestamp": "2026-11-12T17:29:27.000Z",
-      "impact": "HIGH",
       "category": "regulation",
-      "summary": "Anthropic launches ‘Claude for Manufacturing’ &nbsp;&nbsp; Manufacturing Dive",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5"
-    },
-    {
-      "headline": "Exploring Microsoft’s AI foundation models - InfoWorld",
-      "source": "InfoWorld",
-      "timestamp": "2026-11-12T09:02:54.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Exploring Microsoft’s AI foundation models &nbsp;&nbsp; InfoWorld",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVJ1Vm9QYVJrcWU0bGFEaWVTVWJnSzg1bVVzN2tjZHc1OHZ6S1hZUEVRbU1fVUlQX1pRSTVfc1ROd3BtWGV4XzFxa3FsemNlQ1h5eWZNWkRoVzY2RXlHd2szOXE5Q19wTlpCeDJwbmgzZ0dlZlE1cFFzX051YUNFMWxiQXFUTGMwcW1MMVc4Y3c?oc=5"
+      "summary": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight &nbsp;&nbsp; WIRED",
+      "whyItMatters": "Google DeepMind item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1lHaDhQSjl0QTQ1NzQ3UC1yRUhHUF9FQ2xmeTVDNTJCNVl3MWhMR09iRkRRcVRGY2p6cE9XZDdjM3Y3SmVZdU9lQjMwcUU4aENqQnNvcEYybWw1RGwzZDRRa2JwYWhYWXkwajZkSExlWjlQMXpOZDNUNnRTbDRLSVc3UQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful - The Verge",
-        "source": "The Verge",
-        "timestamp": "2026-11-13T14:00:00.000Z",
+        "headline": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
+        "source": "Ars Technica",
+        "timestamp": "2026-11-13T17:25:45.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5",
-        "summary": "Claude’s Duet agent is a little neurotic and surprisingly helpful &nbsp;&nbsp; The Verge"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0oxbjBlUlEwbUh1bmtnX0d2YUZMWHZqR3VNV0F6R3Q5cUVDTUV2WXA3RmFlYVhfMTUyd2dYVDNGaWJ0YWx3d2JYZHFwZTVLcG1sMFpneUFQbnFUNThMa0tDM2MzUHVOeGY4Q3poVVFRX2I2aWZQUlNPVEQ5MHdSQk9SejNoajFyVFA5U1BIclVJU1BBcGt0TEZlb1JqUm5JZUZ5S081QnhuQQ?oc=5",
+        "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away &nbsp;&nbsp; Ars Technica"
       },
       {
-        "headline": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death - The Seattle Times",
-        "source": "The Seattle Times",
-        "timestamp": "2026-11-13T14:00:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2F3YnBFS2Z5NFljbDJPRmFuVC1wMllwN3E4Zm91aDdZOHF4NDJpWkRTZjB5MnFqbzByRk1JSTZ1bHhDOW9feHV5S2NCNk9CZkExUER2VFBtUnJMVzNsNmxXZnVRUDRncEd5Vkt6SVRqanVjRzlDb21ob25VYzdmOFNtZXJlQl94SzdQTzZ6OElQNWJsLTBSVkl3bEV1RGNaMThPeUhvWE9fTFh2WWc?oc=5",
-        "summary": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death &nbsp;&nbsp; The Seattle Times"
-      },
-      {
-        "headline": "OpenAI safety board member warned AI takeover could come within months - Quartz",
-        "source": "Quartz",
-        "timestamp": "2026-11-13T13:47:06.000Z",
+        "headline": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune",
+        "source": "Fortune",
+        "timestamp": "2026-11-13T17:05:00.000Z",
         "impact": "HIGH",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sTHlFUW5hRXR5YVNCdWd0Sy1PX1NDYXU3UUNIQmxxWG9abUVpLWNGUThwYzQ4WGU3VHlyaVQ2dnRmTnpWZVFtOXZvcTZQVnN1dU15Zjh1QlRfZFVYVHJSU0VoNXpCaTF3Q2stWF9WNzZxQVhIOG9r?oc=5",
-        "summary": "OpenAI safety board member warned AI takeover could come within months &nbsp;&nbsp; Quartz"
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+        "summary": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots &nbsp;&nbsp; Fortune"
       },
       {
-        "headline": "PARDIG & SatWeave: Foundational Datasets for Earth Science - Google DeepMind",
-        "source": "Google DeepMind",
-        "timestamp": "2026-11-13T12:04:28.000Z",
+        "headline": "Meta AI smart glasses being tested by 21 Penn State profs - TribLIVE.com",
+        "source": "TribLIVE.com",
+        "timestamp": "2026-11-13T16:27:02.000Z",
         "impact": "LOW",
-        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckY4Q2FjR0xaUnRTcUJCQThiUW5YZ1J2aElualNEbTFPSFlWalBvT2l5cTBYbVU2cnZTU2pqMGFrNzVGOXRoZmlmRTl4YkxhYVFwTlgwSGNTa1k1cnZtbU5YXzR2aHhQWDRHc3FyT2VxQ2R0SDk0cnhmV1BzNnpjOE9FWmVnQQ?oc=5",
-        "summary": "PARDIG & SatWeave: Foundational Datasets for Earth Science &nbsp;&nbsp; Google DeepMind"
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVQ4NmowSmNwSVdTTUZXb1FRQWl1UF96SzFYcU56eGdRU3AtY19xVGdiQXVaUWQwbGROLTdHUjZkazBGdGROdHJDUHZ1ZmJUUWdUWjg3VVZBMWx0N21SXzJxd3YwQnNaZDFZaE01TmtMM2pQZmYxckg1WTRIdTZWTldjYWZyVm5ubVk4dXFzQk1ZMXlZTDZWZl9B?oc=5",
+        "summary": "Meta AI smart glasses being tested by 21 Penn State profs &nbsp;&nbsp; TribLIVE.com"
       },
       {
-        "headline": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO - CNBC",
+        "headline": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-11-13T16:11:41.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+        "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
         "source": "CNBC",
-        "timestamp": "2026-11-12T23:45:00.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5",
-        "summary": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO &nbsp;&nbsp; CNBC Wall St Week Ahead Nvidia results, Anthropic IPO pose tests for tumultuous AI trade &nbsp;&nbsp; Reuters Jensen Huang Stole Anthropic’s Market Spotlight &nbsp;&nbsp; Bloomberg.com"
+        "timestamp": "2026-11-13T15:00:01.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+        "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users &nbsp;&nbsp; CNBC"
       },
       {
-        "headline": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "timestamp": "2026-11-12T21:35:58.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
-        "summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures &nbsp;&nbsp; Bloomberg.com"
+        "headline": "Ohio State, Microsoft launch five-year AI and cloud partnership reportedly valued at $250 million - Ohio Tech News",
+        "source": "Ohio Tech News",
+        "timestamp": "2026-11-13T12:38:20.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNanNzTXBHOGNvdHFnTnFCSDZianlGbzBGczA1Yy0yYTlXMEpWVHgzYkhPakJmZnlNeEQ0eEJJREIwc3hJcy1icUZ5d0R1UktYNUxxckJMRTdIYTE0U3JSQVQ2Z2Nvek5fUlRIUHdVQXBzUng4SzBGb3RsdzZITmFPR2tKcHZjREJ1WmVaOENHcjYzUQ?oc=5",
+        "summary": "Ohio State, Microsoft launch five-year AI and cloud partnership reportedly valued at $250 million &nbsp;&nbsp; Ohio Tech News"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -196,9 +196,9 @@
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
