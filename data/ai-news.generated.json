@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-13T05:52:05.892Z",
+    "generatedAt": "2026-11-13T14:17:05.802Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,34 +12,54 @@
   },
   "newsFeed": [
     {
-      "headline": "OpenAI’s Newest Feature Enables Business Owners To Set Up Shop In ChatGPT And Connect With 1.2 Billion Prospective Customers - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-11-13T05:36:37.000Z",
+      "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful - The Verge",
+      "source": "The Verge",
+      "timestamp": "2026-11-13T14:00:00.000Z",
+      "impact": "LOW",
+      "category": "regulation",
+      "summary": "Claude’s Duet agent is a little neurotic and surprisingly helpful &nbsp;&nbsp; The Verge",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5"
+    },
+    {
+      "headline": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death - The Seattle Times",
+      "source": "The Seattle Times",
+      "timestamp": "2026-11-13T14:00:00.000Z",
       "impact": "LOW",
       "category": "models",
-      "summary": "OpenAI’s Newest Feature Enables Business Owners To Set Up Shop In ChatGPT And Connect With 1.2 Billion Prospective Customers &nbsp;&nbsp; Forbes",
+      "summary": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death &nbsp;&nbsp; The Seattle Times",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUV8tbUM0YXlrVzEtUkNkdUJXQUpmcjFLZzlUY01wZlQ3RE10ckVZRGxnSzJibmlBbHA2TnRmcWRneFhHT3JxcWFFTm9TcmdjYXJvdGxKU3ZodFRKUEg4N185WF9xZVhEUmN5UkhCZUY2V2I5ekE5TDRnUmZwdzZzQnd0ekNGVmFELXUtQjRScDBJenF5R1k4YjhjYzBSV1dLNnRVLU05bGZva0E1STl0azRDWFU1RnE3Mnk2XzQ2eXVPMmpCQUhra3J2QnZTTDJ1ZUNpc0ZIc0UxY0JNYm1Nc2Rqb0Q0SjA0X042RWlnTUhGd3d0bnRzdDRvV3dVQU5EY3dROQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2F3YnBFS2Z5NFljbDJPRmFuVC1wMllwN3E4Zm91aDdZOHF4NDJpWkRTZjB5MnFqbzByRk1JSTZ1bHhDOW9feHV5S2NCNk9CZkExUER2VFBtUnJMVzNsNmxXZnVRUDRncEd5Vkt6SVRqanVjRzlDb21ob25VYzdmOFNtZXJlQl94SzdQTzZ6OElQNWJsLTBSVkl3bEV1RGNaMThPeUhvWE9fTFh2WWc?oc=5"
     },
     {
-      "headline": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
-      "source": "Politico",
-      "timestamp": "2026-11-12T22:24:00.000Z",
+      "headline": "OpenAI safety board member warned AI takeover could come within months - Quartz",
+      "source": "Quartz",
+      "timestamp": "2026-11-13T13:47:06.000Z",
+      "impact": "HIGH",
+      "category": "ecosystem",
+      "summary": "OpenAI safety board member warned AI takeover could come within months &nbsp;&nbsp; Quartz",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sTHlFUW5hRXR5YVNCdWd0Sy1PX1NDYXU3UUNIQmxxWG9abUVpLWNGUThwYzQ4WGU3VHlyaVQ2dnRmTnpWZVFtOXZvcTZQVnN1dU15Zjh1QlRfZFVYVHJSU0VoNXpCaTF3Q2stWF9WNzZxQVhIOG9r?oc=5"
+    },
+    {
+      "headline": "PARDIG & SatWeave: Foundational Datasets for Earth Science - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-11-13T12:04:28.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race &nbsp;&nbsp; Politico",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5"
+      "summary": "PARDIG & SatWeave: Foundational Datasets for Earth Science &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckY4Q2FjR0xaUnRTcUJCQThiUW5YZ1J2aElualNEbTFPSFlWalBvT2l5cTBYbVU2cnZTU2pqMGFrNzVGOXRoZmlmRTl4YkxhYVFwTlgwSGNTa1k1cnZtbU5YXzR2aHhQWDRHc3FyT2VxQ2R0SDk0cnhmV1BzNnpjOE9FWmVnQQ?oc=5"
     },
     {
-      "headline": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges - CBS News",
-      "source": "CBS News",
-      "timestamp": "2026-11-12T22:12:48.000Z",
-      "impact": "HIGH",
-      "category": "regulation",
-      "summary": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges &nbsp;&nbsp; CBS News",
-      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5"
+      "headline": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO - CNBC",
+      "source": "CNBC",
+      "timestamp": "2026-11-12T23:45:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO &nbsp;&nbsp; CNBC Wall St Week Ahead Nvidia results, Anthropic IPO pose tests for tumultuous AI trade &nbsp;&nbsp; Reuters Jensen Huang Stole Anthropic’s Market Spotlight &nbsp;&nbsp; Bloomberg.com",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5"
     },
     {
       "headline": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
@@ -72,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5"
     },
     {
+      "headline": "Anthropic launches ‘Claude for Manufacturing’ - Manufacturing Dive",
+      "source": "Manufacturing Dive",
+      "timestamp": "2026-11-12T17:29:27.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic launches ‘Claude for Manufacturing’ &nbsp;&nbsp; Manufacturing Dive",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRmQ1BneGdsLUtIeUJmSS1HeUpjVnRib1o1cnJOamNsV3k1aGNFZnR4X0J2ZjdxR1VfcGg4VUt0dHBNWlQ1SDJXRDREaDZwYk80clNHVGdoeG5icjFOdFFHUmNQLWtYOV9RWkRudWRlQ3cyQzNRdVQyRllBalFjUlEtQ0Y5RnFnV1VNbmE4ckFDc1ZK?oc=5"
+    },
+    {
       "headline": "Exploring Microsoft’s AI foundation models - InfoWorld",
       "source": "InfoWorld",
       "timestamp": "2026-11-12T09:02:54.000Z",
@@ -80,66 +110,54 @@
       "summary": "Exploring Microsoft’s AI foundation models &nbsp;&nbsp; InfoWorld",
       "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVJ1Vm9QYVJrcWU0bGFEaWVTVWJnSzg1bVVzN2tjZHc1OHZ6S1hZUEVRbU1fVUlQX1pRSTVfc1ROd3BtWGV4XzFxa3FsemNlQ1h5eWZNWkRoVzY2RXlHd2szOXE5Q19wTlpCeDJwbmgzZ0dlZlE1cFFzX051YUNFMWxiQXFUTGMwcW1MMVc4Y3c?oc=5"
-    },
-    {
-      "headline": "Meta AI Glasses Can Overheat When Wet: 5 Models Need Update 130 - TechRepublic",
-      "source": "TechRepublic",
-      "timestamp": "2026-11-12T08:33:13.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta AI Glasses Can Overheat When Wet: 5 Models Need Update 130 &nbsp;&nbsp; TechRepublic",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2hnX3hzaTlUbVNyS2NYREEtM3FDbHllN2pBZER4WFJPY1p1X01BSGFTdW9OOTNIZ1lkaEJEbEs0cXZoVEprZW5rVmZvQW9XZVdZMmJZRzVQOUcyckZUNGtVNG9QZUI5Vm5xZDY5dm16UW9ySmFoakxSOXNkaUc5dmlYc2lmNXd2?oc=5"
-    },
-    {
-      "headline": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "timestamp": "2026-11-12T00:45:00.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade &nbsp;&nbsp; Bloomberg.com Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say &nbsp;&nbsp; CNBC Anthropic, PBC - S-1/A-2 &nbsp;&nbsp; SEC.gov",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5"
-    },
-    {
-      "headline": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease - The Verge",
-      "source": "The Verge",
-      "timestamp": "2026-11-11T15:00:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease &nbsp;&nbsp; The Verge",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjNJSXJqZ2hxenRFa3NkbTJ3UEdaeTJ4SHU4TmxhM2wxY1hlRUFsV3c1QUstb2kwVnVTcGdLRzlleE9TT2F4cGJYSllfTmk0SzBoSXg2aVZScHhDUFlNT01fVlNtVUxFTXNqYWw0WlZvTUc3N2tjMWRzM1hBTnVzQzREd0dmckItOV93OTdaWTBXLTN0UjVqekt3LWVVTWdEV1dDZHlYak1EZw?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "OpenAI’s Newest Feature Enables Business Owners To Set Up Shop In ChatGPT And Connect With 1.2 Billion Prospective Customers - Forbes",
-        "source": "Forbes",
-        "timestamp": "2026-11-13T05:36:37.000Z",
+        "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful - The Verge",
+        "source": "The Verge",
+        "timestamp": "2026-11-13T14:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5",
+        "summary": "Claude’s Duet agent is a little neurotic and surprisingly helpful &nbsp;&nbsp; The Verge"
+      },
+      {
+        "headline": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death - The Seattle Times",
+        "source": "The Seattle Times",
+        "timestamp": "2026-11-13T14:00:00.000Z",
         "impact": "LOW",
         "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUV8tbUM0YXlrVzEtUkNkdUJXQUpmcjFLZzlUY01wZlQ3RE10ckVZRGxnSzJibmlBbHA2TnRmcWRneFhHT3JxcWFFTm9TcmdjYXJvdGxKU3ZodFRKUEg4N185WF9xZVhEUmN5UkhCZUY2V2I5ekE5TDRnUmZwdzZzQnd0ekNGVmFELXUtQjRScDBJenF5R1k4YjhjYzBSV1dLNnRVLU05bGZva0E1STl0azRDWFU1RnE3Mnk2XzQ2eXVPMmpCQUhra3J2QnZTTDJ1ZUNpc0ZIc0UxY0JNYm1Nc2Rqb0Q0SjA0X042RWlnTUhGd3d0bnRzdDRvV3dVQU5EY3dROQ?oc=5",
-        "summary": "OpenAI’s Newest Feature Enables Business Owners To Set Up Shop In ChatGPT And Connect With 1.2 Billion Prospective Customers &nbsp;&nbsp; Forbes"
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2F3YnBFS2Z5NFljbDJPRmFuVC1wMllwN3E4Zm91aDdZOHF4NDJpWkRTZjB5MnFqbzByRk1JSTZ1bHhDOW9feHV5S2NCNk9CZkExUER2VFBtUnJMVzNsNmxXZnVRUDRncEd5Vkt6SVRqanVjRzlDb21ob25VYzdmOFNtZXJlQl94SzdQTzZ6OElQNWJsLTBSVkl3bEV1RGNaMThPeUhvWE9fTFh2WWc?oc=5",
+        "summary": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death &nbsp;&nbsp; The Seattle Times"
       },
       {
-        "headline": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
-        "source": "Politico",
-        "timestamp": "2026-11-12T22:24:00.000Z",
+        "headline": "OpenAI safety board member warned AI takeover could come within months - Quartz",
+        "source": "Quartz",
+        "timestamp": "2026-11-13T13:47:06.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sTHlFUW5hRXR5YVNCdWd0Sy1PX1NDYXU3UUNIQmxxWG9abUVpLWNGUThwYzQ4WGU3VHlyaVQ2dnRmTnpWZVFtOXZvcTZQVnN1dU15Zjh1QlRfZFVYVHJSU0VoNXpCaTF3Q2stWF9WNzZxQVhIOG9r?oc=5",
+        "summary": "OpenAI safety board member warned AI takeover could come within months &nbsp;&nbsp; Quartz"
+      },
+      {
+        "headline": "PARDIG & SatWeave: Foundational Datasets for Earth Science - Google DeepMind",
+        "source": "Google DeepMind",
+        "timestamp": "2026-11-13T12:04:28.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckY4Q2FjR0xaUnRTcUJCQThiUW5YZ1J2aElualNEbTFPSFlWalBvT2l5cTBYbVU2cnZTU2pqMGFrNzVGOXRoZmlmRTl4YkxhYVFwTlgwSGNTa1k1cnZtbU5YXzR2aHhQWDRHc3FyT2VxQ2R0SDk0cnhmV1BzNnpjOE9FWmVnQQ?oc=5",
+        "summary": "PARDIG & SatWeave: Foundational Datasets for Earth Science &nbsp;&nbsp; Google DeepMind"
+      },
+      {
+        "headline": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO - CNBC",
+        "source": "CNBC",
+        "timestamp": "2026-11-12T23:45:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
-        "summary": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race &nbsp;&nbsp; Politico"
-      },
-      {
-        "headline": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges - CBS News",
-        "source": "CBS News",
-        "timestamp": "2026-11-12T22:12:48.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nd0pKdEtsZnJ6UWhKZlR1dUJNV2UwUDRLSHdfVExwQUhNb3hnLW1vYzFuRWRMNlM1dk53dHZyM3pqQXB6Uy1lNlhQc251N2gyVXdxdEFIMUN0X0hadFdZc0ZCMGNkRnVKYVJCMERNdw?oc=5",
-        "summary": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges &nbsp;&nbsp; CBS News"
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnlTTmVFZXFUUnAyZTUwM056dW9MeUdWRVdzQ2lQa2dsRnJEN19FRVp6eENzbV9JU1NBMHEyX3FwX3ZYbTljT3JBSXhRU1FNSWJhSUVMbUItTEpXeWhSZnNPQjdQYmoyaERsTFZycnJpaWkxUzliSEFRZFRTQnRBZFNiempKYXdsUXfSAY8BQVVfeXFMTTAxRG1oeTU5a2VlaWdvQXJST2wxZU9WM0hFemc5TzBqMEtXOS1DbFZUU3JEb25WcGVEakRCbjJkQWJUZTlmZ0xjVEZ6RkV0TF9BYXlZaUZUYTl3Q3ZjNlFnNlluNjF0eUxuckhlNG1BYnJKWUplOFZNQmg4TFMwTTVPX3lqSE5CRkNvWGx2NG8?oc=5",
+        "summary": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO &nbsp;&nbsp; CNBC Wall St Week Ahead Nvidia results, Anthropic IPO pose tests for tumultuous AI trade &nbsp;&nbsp; Reuters Jensen Huang Stole Anthropic’s Market Spotlight &nbsp;&nbsp; Bloomberg.com"
       },
       {
         "headline": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
@@ -149,30 +167,12 @@
         "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
         "summary": "OpenAI Joins Groundswell of Support for AI Chip Control Measures &nbsp;&nbsp; Bloomberg.com"
-      },
-      {
-        "headline": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-11-12T20:35:49.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-        "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
-        "source": "blog.google",
-        "timestamp": "2026-11-12T18:04:04.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
-        "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows &nbsp;&nbsp; blog.google"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "3 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
         "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
