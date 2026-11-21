@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-21T01:12:48.510Z",
+    "generatedAt": "2026-11-21T09:25:34.177Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,12 +12,22 @@
   },
   "newsFeed": [
     {
+      "headline": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times",
+      "source": "Financial Times",
+      "timestamp": "2026-11-21T05:04:21.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ &nbsp;&nbsp; Financial Times",
+      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5"
+    },
+    {
       "headline": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
       "source": "The New York Times",
-      "timestamp": "2026-11-21T00:33:39.000Z",
-      "impact": "WATCH",
+      "timestamp": "2026-11-20T21:46:33.000Z",
+      "impact": "LOW",
       "category": "models",
-      "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Anthropic mathematician says he used AI to solve the 'biggest problem in math' &nbsp;&nbsp; Business Insider Anthropic Researcher Claims to Solve Riemann Problem With Claude &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Using AI, mathematician claims to have solved one of math’s great mysteries &nbsp;&nbsp; The Washington Post Anthropic may have solved major maths problem Reimann hypothesis &nbsp;&nbsp; BBC",
       "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5"
     },
@@ -32,14 +42,14 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5"
     },
     {
-      "headline": "The Case for A.I. Optimism - The New Yorker",
-      "source": "The New Yorker",
-      "timestamp": "2026-11-20T19:00:00.000Z",
-      "impact": "LOW",
+      "headline": "The AI Safety Community Is Increasingly Freaked Out. Should They Be? - Mother Jones",
+      "source": "Mother Jones",
+      "timestamp": "2026-11-20T18:42:52.000Z",
+      "impact": "HIGH",
       "category": "ecosystem",
-      "summary": "The Case for A.I. Optimism &nbsp;&nbsp; The New Yorker",
+      "summary": "The AI Safety Community Is Increasingly Freaked Out. Should They Be? &nbsp;&nbsp; Mother Jones",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdEk0S1BObEk2bndFTW9RMzBjZzFxOVFnUVNJb2ZmWDd6UTI3b1h0dnkwbk91Smk0SEN3d0NZbVlqQl9zdzRabTJkaDBLS1FSamJ2X1RGSHVpVXRHV3ZRRllUaEVLUU9vRldydHpoSHNLOGZnbllVeFdXRGxhTVRSbjNCM3R2NTRqTWh3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0talVXUERDdVZ6NFF6b1BTR2lPMi1hVXFtRzd0MXBaR3RjS2xycld5Y0lkMWpUMDB2QUlraVlfWGZJbkRnY3hRWFBwYjlDMFNEWmNPZjBmX0NicTByN19TRk9jSnJJOEV5RFZVV2dacnJiMVIxX09IMUt4MmJDdw?oc=5"
     },
     {
       "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves - CNN",
@@ -47,7 +57,7 @@
       "timestamp": "2026-11-20T17:32:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves &nbsp;&nbsp; CNN Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade &nbsp;&nbsp; CNBC Stocks Skid Into a Correction, as A.I. Worries Intensify &nbsp;&nbsp; The New York Times",
+      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves &nbsp;&nbsp; CNN Anthropic IPO live: Anthropic stock drops after first day of trading &nbsp;&nbsp; Yahoo Finance Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock &nbsp;&nbsp; Morningstar",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5"
     },
@@ -72,14 +82,14 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXdTSjN2REFkQ2wzSDRXdlRBekNfUFFDOTZvY1NCaHhBTVY0M0RMUk9wUlZEM3VyYTVNN2NpOEh3Sng4Y3VuY1U3UTVtVVhBd1piZHFWZld0aWV2ejJiSWJXZGFPeUFqc1Y5SXVHM1ZqV295emwzc2VvUFpLV01CX0ZnMDlEMjZYTDY2MlpjQUV6bWFNR0RyaUxsZVZ5MWlmY1EyY1JYQzN6WDE2eV8wa0x3?oc=5"
     },
     {
-      "headline": "Google says AI is about to pass a huge new threshold – and we need to prepare - The Independent",
-      "source": "The Independent",
-      "timestamp": "2026-11-20T11:54:00.000Z",
+      "headline": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible - Business Insider",
+      "source": "Business Insider",
+      "timestamp": "2026-11-20T13:10:00.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Google says AI is about to pass a huge new threshold – and we need to prepare &nbsp;&nbsp; The Independent",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDJBXzItTExGYklEbzhRcHdyR0xnV0RtckJsY0hJRFMzdWctU0IzbXdxd2JsWjFUSWtibEhpaUhVOWZ5c2RlWVBqTklXbmdEMlE2WU81WUpEemVIcmU5TDcwR0stbUhFUE9tbW1uemEzdEQ2LVhSOFUtQTZQV1h3Umdhdw?oc=5"
+      "summary": "A new poster for OpenAI movie 'Artificial' calls out AI slop in the most human way possible &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEVoekdDd1VQb25yVW1mTEtiQmQxd3RYX0JnQ2RUWUx1TnF1ZGVPaGdmc3BLQi1SbTZBaWxPZm5kVXl4M1l0NjdVRk0tZXdEdUd1OWItUnhSYXJNT3dNR0Z3MkZLLUczUU1yTnBGczRHWVVNbW0xS0FjMm1jS0VUQkM0UkljOTIzdkhNcGVRV1JpWDdwZVBxd2xNclZ6WXFMTEE?oc=5"
     },
     {
       "headline": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more - Fox News",
@@ -100,28 +110,27 @@
       "summary": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic &nbsp;&nbsp; Bloomberg.com",
       "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5"
-    },
-    {
-      "headline": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-19T17:38:40.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEZqS3ljbVVnME1UWVJsLWxidDBoSDZfZ3drbFRoVXVoX2w0V0RnWUM4UTV6SW5PNEFLUG82S3VRLUFST3h4OW82NmVWVVJrYXptcE9PU2RPbjAxZjdnTFVLVDhYVTlndGx6RzlLSHh5MUE5emVjM2Q2amxNNFA0cTRpTnAwUmF2SDRwV094eE02WW5MRkx1YnRoNk5WdlJKUnVQRzhXUXhvTXZNMDdCTW5LbXgzU1BvQkhF?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
+        "headline": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times",
+        "source": "Financial Times",
+        "timestamp": "2026-11-21T05:04:21.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5",
+        "summary": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ &nbsp;&nbsp; Financial Times"
+      },
+      {
         "headline": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
         "source": "The New York Times",
-        "timestamp": "2026-11-21T00:33:39.000Z",
-        "impact": "WATCH",
+        "timestamp": "2026-11-20T21:46:33.000Z",
+        "impact": "LOW",
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-        "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Anthropic mathematician says he used AI to solve the 'biggest problem in math' &nbsp;&nbsp; Business Insider Anthropic Researcher Claims to Solve Riemann Problem With Claude &nbsp;&nbsp; Bloomberg.com"
+        "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Using AI, mathematician claims to have solved one of math’s great mysteries &nbsp;&nbsp; The Washington Post Anthropic may have solved major maths problem Reimann hypothesis &nbsp;&nbsp; BBC"
       },
       {
         "headline": "Can AI help scientists identify promising drug candidates? - OpenAI",
@@ -133,13 +142,13 @@
         "summary": "Can AI help scientists identify promising drug candidates? &nbsp;&nbsp; OpenAI"
       },
       {
-        "headline": "The Case for A.I. Optimism - The New Yorker",
-        "source": "The New Yorker",
-        "timestamp": "2026-11-20T19:00:00.000Z",
-        "impact": "LOW",
+        "headline": "The AI Safety Community Is Increasingly Freaked Out. Should They Be? - Mother Jones",
+        "source": "Mother Jones",
+        "timestamp": "2026-11-20T18:42:52.000Z",
+        "impact": "HIGH",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdEk0S1BObEk2bndFTW9RMzBjZzFxOVFnUVNJb2ZmWDd6UTI3b1h0dnkwbk91Smk0SEN3d0NZbVlqQl9zdzRabTJkaDBLS1FSamJ2X1RGSHVpVXRHV3ZRRllUaEVLUU9vRldydHpoSHNLOGZnbllVeFdXRGxhTVRSbjNCM3R2NTRqTWh3?oc=5",
-        "summary": "The Case for A.I. Optimism &nbsp;&nbsp; The New Yorker"
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0talVXUERDdVZ6NFF6b1BTR2lPMi1hVXFtRzd0MXBaR3RjS2xycld5Y0lkMWpUMDB2QUlraVlfWGZJbkRnY3hRWFBwYjlDMFNEWmNPZjBmX0NicTByN19TRk9jSnJJOEV5RFZVV2dacnJiMVIxX09IMUt4MmJDdw?oc=5",
+        "summary": "The AI Safety Community Is Increasingly Freaked Out. Should They Be? &nbsp;&nbsp; Mother Jones"
       },
       {
         "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves - CNN",
@@ -148,7 +157,7 @@
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5",
-        "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves &nbsp;&nbsp; CNN Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade &nbsp;&nbsp; CNBC Stocks Skid Into a Correction, as A.I. Worries Intensify &nbsp;&nbsp; The New York Times"
+        "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves &nbsp;&nbsp; CNN Anthropic IPO live: Anthropic stock drops after first day of trading &nbsp;&nbsp; Yahoo Finance Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock &nbsp;&nbsp; Morningstar"
       },
       {
         "headline": "'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO - Barron's",
@@ -158,29 +167,20 @@
         "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUF2VXNsQk8tUm92Nl93c0EtU1hDeERodW01ZktmcWdhRTF3UzI0UWxlaWlNdGVkOW4zeVdsdUxwRTFpMmJJenBpQXVQY1J6UzNGUE5lMmpfYUdfSUNuVDNtbWZDQTRMblJla3I0TFhYdVJJdlNkbnVrdjNPMXNSNWdPMk9nbGtvS3pjVFNzVXJZZkZ0Z3h0N2wxZlU2WGVneGsydkNIUkc1dVkt?oc=5",
         "summary": "'We Don’t Want To Die': Protesters Slam Claude Creator Anthropic After IPO &nbsp;&nbsp; Barron's"
-      },
-      {
-        "headline": "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S - www.meta.com",
-        "source": "www.meta.com",
-        "timestamp": "2026-11-20T14:05:22.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXdTSjN2REFkQ2wzSDRXdlRBekNfUFFDOTZvY1NCaHhBTVY0M0RMUk9wUlZEM3VyYTVNN2NpOEh3Sng4Y3VuY1U3UTVtVVhBd1piZHFWZld0aWV2ejJiSWJXZGFPeUFqc1Y5SXVHM1ZqV295emwzc2VvUFpLV01CX0ZnMDlEMjZYTDY2MlpjQUV6bWFNR0RyaUxsZVZ5MWlmY1EyY1JYQzN6WDE2eV8wa0x3?oc=5",
-        "summary": "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S &nbsp;&nbsp; www.meta.com"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
-        "urgency": "HIGH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Google DeepMind",
