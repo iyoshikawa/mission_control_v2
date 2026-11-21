@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-21T17:12:55.396Z",
+    "generatedAt": "2026-11-21T22:55:28.903Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,14 +12,14 @@
   },
   "newsFeed": [
     {
-      "headline": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-11-21T16:52:00.000Z",
+      "headline": "'Artificial's Luca Guadagnino On Sam Altman's Arsenal; AI As Doomsday - Deadline",
+      "source": "Deadline",
+      "timestamp": "2026-11-21T20:45:00.000Z",
       "impact": "LOW",
-      "category": "models",
-      "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI &nbsp;&nbsp; AP News Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5"
+      "category": "ecosystem",
+      "summary": "'Artificial's Luca Guadagnino On Sam Altman's Arsenal; AI As Doomsday &nbsp;&nbsp; Deadline",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTA4ZTFMWVRSVmlUV0s3NzFxNks1TjdOU01wbWJLUzNvT1ZYODBSdVZNRkFrZXJrSlRYaTI5SVF5WUw4OTZpUzZCSWxSQXFoWDZrcWpsWjVoR2tnQ21NLXp6b05qYnJ3eFBtbFZRNWhxVnNBQktMemh1bzljQXZoak51eVY4ZVBNM1hDOU1NOElpdmNpR2tzeWRROA?oc=5"
     },
     {
       "headline": "What rights do we owe a machine? - Fortune",
@@ -54,12 +54,22 @@
     {
       "headline": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times",
       "source": "Financial Times",
-      "timestamp": "2026-11-21T05:00:26.000Z",
+      "timestamp": "2026-11-21T05:04:21.000Z",
       "impact": "LOW",
       "category": "ecosystem",
       "summary": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ &nbsp;&nbsp; Financial Times",
       "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5"
+    },
+    {
+      "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
+      "source": "AP News",
+      "timestamp": "2026-11-21T04:55:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI &nbsp;&nbsp; AP News Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Two groups verify mathematician’s claim that Claude helped prove mathematics problem &nbsp;&nbsp; The Guardian",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5"
     },
     {
       "headline": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister. - WSJ",
@@ -70,6 +80,16 @@
       "summary": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister. &nbsp;&nbsp; WSJ",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGJyNGh6cktKS0FsM3FIbF9LbjFqVThfY3MyRURJREVmd1JqVGtVX3pTV1FuQzBUUUI3VDdXVHdUYkpKTDk1Ml9vZzdoN1p5T0pVZ3g1eGpwQ1NfVFp6VlhJX1FSXzZ6ajVDYjVKazF5N2FGbXVHLUdjN05YRzVQZnRYaVZtMkE?oc=5"
+    },
+    {
+      "headline": "Microsoft Ties Azure Pay to Performance as Azure Grows 48% - FourWeekMBA",
+      "source": "FourWeekMBA",
+      "timestamp": "2026-11-20T21:22:49.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Microsoft Ties Azure Pay to Performance as Azure Grows 48% &nbsp;&nbsp; FourWeekMBA",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWJ2LXdic1cyeTlpOElsTlNoTTVtSlNDTnhNZjlsNzFyQ0tDY01pbG4tb0Z6dnBQMU40Z0ZqQUkwUm05WFpsZ0JLdTNILThJbmZCTjFqVkhVN2NyN2YyMHB4X3hBZzdqcVMwZDR5bDI1SmNvS2ozbE80ZzVsU3ZNTzFQZTVVVFlGTG1aTDZ3?oc=5"
     },
     {
       "headline": "Can AI help scientists identify promising drug candidates? - OpenAI",
@@ -87,41 +107,21 @@
       "timestamp": "2026-11-20T17:32:52.000Z",
       "impact": "LOW",
       "category": "ecosystem",
-      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves &nbsp;&nbsp; CNN Anthropic IPO live: Anthropic stock drops after first day of trading &nbsp;&nbsp; Yahoo Finance Stocks Skid Into a Correction, as A.I. Worries Intensify &nbsp;&nbsp; The New York Times",
+      "summary": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves &nbsp;&nbsp; CNN Anthropic IPO live: Anthropic stock drops after first day of trading &nbsp;&nbsp; Yahoo Finance Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley &nbsp;&nbsp; The New York Times",
       "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5"
-    },
-    {
-      "headline": "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S - www.meta.com",
-      "source": "www.meta.com",
-      "timestamp": "2026-11-20T14:05:22.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S &nbsp;&nbsp; www.meta.com",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXdTSjN2REFkQ2wzSDRXdlRBekNfUFFDOTZvY1NCaHhBTVY0M0RMUk9wUlZEM3VyYTVNN2NpOEh3Sng4Y3VuY1U3UTVtVVhBd1piZHFWZld0aWV2ejJiSWJXZGFPeUFqc1Y5SXVHM1ZqV295emwzc2VvUFpLV01CX0ZnMDlEMjZYTDY2MlpjQUV6bWFNR0RyaUxsZVZ5MWlmY1EyY1JYQzN6WDE2eV8wa0x3?oc=5"
-    },
-    {
-      "headline": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more - Fox News",
-      "source": "Fox News",
-      "timestamp": "2026-11-19T23:47:05.000Z",
-      "impact": "HIGH",
-      "category": "ecosystem",
-      "summary": "Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more &nbsp;&nbsp; Fox News",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUnFJdm1EaVExZWw2SWRUWlJOVTNHWkh0cDVncm91UjVia2lfdzlIUlRWR3NuZG1FU3lWZjVaODNQbmNtMjJJUGI3bEE1RkQ2Ync?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude - The New York Times",
-        "source": "The New York Times",
-        "timestamp": "2026-11-21T16:52:00.000Z",
+        "headline": "'Artificial's Luca Guadagnino On Sam Altman's Arsenal; AI As Doomsday - Deadline",
+        "source": "Deadline",
+        "timestamp": "2026-11-21T20:45:00.000Z",
         "impact": "LOW",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
-        "summary": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI &nbsp;&nbsp; AP News Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis &nbsp;&nbsp; The Guardian"
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTA4ZTFMWVRSVmlUV0s3NzFxNks1TjdOU01wbWJLUzNvT1ZYODBSdVZNRkFrZXJrSlRYaTI5SVF5WUw4OTZpUzZCSWxSQXFoWDZrcWpsWjVoR2tnQ21NLXp6b05qYnJ3eFBtbFZRNWhxVnNBQktMemh1bzljQXZoak51eVY4ZVBNM1hDOU1NOElpdmNpR2tzeWRROA?oc=5",
+        "summary": "'Artificial's Luca Guadagnino On Sam Altman's Arsenal; AI As Doomsday &nbsp;&nbsp; Deadline"
       },
       {
         "headline": "What rights do we owe a machine? - Fortune",
@@ -153,20 +153,20 @@
       {
         "headline": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times",
         "source": "Financial Times",
-        "timestamp": "2026-11-21T05:00:26.000Z",
+        "timestamp": "2026-11-21T05:04:21.000Z",
         "impact": "LOW",
         "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5",
         "summary": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ &nbsp;&nbsp; Financial Times"
       },
       {
-        "headline": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister. - WSJ",
-        "source": "WSJ",
-        "timestamp": "2026-11-21T02:00:00.000Z",
+        "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
+        "source": "AP News",
+        "timestamp": "2026-11-21T04:55:00.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGJyNGh6cktKS0FsM3FIbF9LbjFqVThfY3MyRURJREVmd1JqVGtVX3pTV1FuQzBUUUI3VDdXVHdUYkpKTDk1Ml9vZzdoN1p5T0pVZ3g1eGpwQ1NfVFp6VlhJX1FSXzZ6ajVDYjVKazF5N2FGbXVHLUdjN05YRzVQZnRYaVZtMkE?oc=5",
-        "summary": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister. &nbsp;&nbsp; WSJ"
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+        "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI &nbsp;&nbsp; AP News Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude &nbsp;&nbsp; The New York Times Two groups verify mathematician’s claim that Claude helped prove mathematics problem &nbsp;&nbsp; The Guardian"
       }
     ],
     "whyItMatters": [
