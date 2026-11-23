@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-23T08:44:39.041Z",
+    "generatedAt": "2026-11-23T20:59:55.459Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,24 +12,84 @@
   },
   "newsFeed": [
     {
-      "headline": "Meta AI head Alexandr Wang warns about AI; says: Superintelligence is coming, but how 'dangerous' it will be depends on humans as ... - The Times of India",
-      "source": "The Times of India",
-      "timestamp": "2026-11-23T02:41:00.000Z",
+      "headline": "DeepMind says Gemini 4 found leaner quantum circuits. The hardware still has catching up to do. - Digg",
+      "source": "Digg",
+      "timestamp": "2026-11-23T20:19:57.000Z",
       "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta AI head Alexandr Wang warns about AI; says: Superintelligence is coming, but how 'dangerous' it will be depends on humans as ... &nbsp;&nbsp; The Times of India",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa25UN0V2aVNxWVdfZHY2RG9fZjl6VjhDankwd1g3Mzgwb0lEdDRZY1RaUncwQk5mMUpwcVN6dzdOdU9qRFExaUc5ajFfWnRBTWFXTjJ2Y3NiZ3MySzB0TmZVdXItdkpYOEhreHljbUs4SWNHa2M1VGxwd3JHTkVWeUNXdWtVZDJpM2tpSmF5Um1NOWRGX1poNlhGZ2FhdTIxclFkelJUeWVnN0x3WDYxUEh4THlqYmRHeUVyRkdQQ3BISDFvY2UxTEVuUFN4bTNxYlV6REV4S0NfNWhVRHlpckxqWmhXN2UwaU1aUTFQRFMtVC13Rlp0WWNOSllJdUxZNGlGWlhBckpYVVJwRThxZzV3VmVMWUR5WUN0MmRlUGlJbVRlTzVJV1c3Sm51QmY4b1E?oc=5"
+      "category": "models",
+      "summary": "DeepMind says Gemini 4 found leaner quantum circuits. The hardware still has catching up to do. &nbsp;&nbsp; Digg",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxX1N5c1FYMXhEMk5KaWRsN005YUNDbS1WUEgxalgxYVVxeEdsSDNnc0EySndsRm56SmhIbVNZNlMxUQ?oc=5"
     },
     {
-      "headline": "Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite - EdTech Innovation Hub",
-      "source": "EdTech Innovation Hub",
-      "timestamp": "2026-11-23T01:17:56.000Z",
+      "headline": "The irony in Anthropic's huge payday to Gulf backers - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-11-23T18:48:16.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "The irony in Anthropic's huge payday to Gulf backers &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkl0ZjA2XzRWdFRkb0Z4aGw2eWt4aWk0eEJIWXBNQ216VVFpV3Vjd2NSbmR3Tm1kN0tUZzh3blA5VDRfVWdkMWJWODBiNkFJSWJvLV96bDRhczhFdEZuVl91bzk3WmV5cjdHRGdabFA5M21WWWxHV3hxcXJJNjZwUGRFRmg5VjVpOXhMSjdKaDMyYTFJcWpUNWl1QWxmdw?oc=5"
+    },
+    {
+      "headline": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind",
+      "source": "Google DeepMind",
+      "timestamp": "2026-11-23T17:00:25.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Finding faster quantum algorithms with agents and formal verification &nbsp;&nbsp; Google DeepMind",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5"
+    },
+    {
+      "headline": "Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-11-23T16:13:32.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Elon Musk Faces an A.I. Dilemma at SpaceX &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5"
+    },
+    {
+      "headline": "One AI Stock Struggling to Rally: Anthropic - WSJ",
+      "source": "WSJ",
+      "timestamp": "2026-11-23T10:00:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "One AI Stock Struggling to Rally: Anthropic &nbsp;&nbsp; WSJ Anthropic Shares Climb With AI Trade Rally on Huang’s Return &nbsp;&nbsp; Bloomberg.com Jensen Huang's return to Nvidia is bad news for Anthropic. Here's why. &nbsp;&nbsp; Business Insider",
+      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd2lSU19CdlpuRXkzTEVPZ3g3V0ttTGZDWWQtdFk3aDlzVXlzRlEtMEdIUzhQWlloWGEyU1k5NUYxUHhtNURVQUJ4c21vcWRrR0JJSEUwem9JUnM4MnFKakUtOHIzVlZpbkxWekVaam5VNXkxaXZEWG0yX3gzVXFMRk9ZMk1qYy1MXzViRW9jXzhpc1NocVZ4VFlpSHZNeVRlWTR0bFZ6bGNWVDFveWF3RG9sMlZockhUYnhxYzN6a0RVZExSNi1WcWs5VVY5OGNDT2llZmJpeHRvTnpfLXJXVk01RQ?oc=5"
+    },
+    {
+      "headline": "Meta AI chief warns humanity may lose control of superintelligent machines - CTech",
+      "source": "CTech",
+      "timestamp": "2026-11-23T09:54:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "Meta AI chief warns humanity may lose control of superintelligent machines &nbsp;&nbsp; CTech Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post &nbsp;&nbsp; Forbes Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date &nbsp;&nbsp; Yahoo Tech",
+      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zWVpjb0dDOFA5TVhLak5NR0Y2VnNqeENtdjdfR0NGN0pTUE5hQXdmMmVrUkdUOG0yS29rNy02Q2lYcFhSOE1uZjVwdmFEd2M4VmFQa0V1Y3htbDFwdzZQTk0wSmF5blEw?oc=5"
+    },
+    {
+      "headline": "OpenAI’s chief scientist calls for industry-wide limits on AI models - The Next Web",
+      "source": "The Next Web",
+      "timestamp": "2026-11-23T07:48:07.000Z",
       "impact": "HIGH",
       "category": "models",
-      "summary": "Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite &nbsp;&nbsp; EdTech Innovation Hub",
-      "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFVVSWNSNVloczlpVURrcHBfUElVZUkwaWV2TGgxNEs4QTFBMlZyVndUT3YzYTdLZ3NUTV9zTHlwenRvTGZFeXFsT0tYbkgycHpXMTh4VHR6RnVqbFlTdm1vOWo0MDVWcUxrcHVReHpMakdqUENTVTNrUDljOE04TG5NTC1WTC1hbVJFYmZwZWVCZEtyY01kSGlTRzFYV3dRMkM4NTNVTl9sbVZ3VUYza0lMWjJ2RHMy?oc=5"
+      "summary": "OpenAI’s chief scientist calls for industry-wide limits on AI models &nbsp;&nbsp; The Next Web",
+      "whyItMatters": "OpenAI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZdEhfTmNpZ1BYSFY4RUJ3ay1faURYM0o2Zi1ZR3ZzRjhFU2w5cktjenVnNEppaEFyaUgwb2pmMGcxLXBtMDl3MjIwQWc4M19YZXFVZUdXa3hXdkZEU1VMNFJtQ3NiNm51ZUNCV25DLXVTUXEyOEE?oc=5"
+    },
+    {
+      "headline": "Anthropic’s business model is creating a new kind of debt — comprehension debt - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-11-23T00:30:00.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "Anthropic’s business model is creating a new kind of debt — comprehension debt &nbsp;&nbsp; Yahoo Finance",
+      "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFdvdExENHZ3bk5BNTlQUDVsWU15M2pDempOWTg0MjNNMzZMV0VaM1BzdmdnZ2o3UDk2WmlQTmt2YlJ6TnJ0dG1lbVYycTlyTFBDX2tXd3RfdVZaZXdnV0dRNWRSS1c0QzhJZnJVVGxVRHB6dFJzNUk1MFRsdXp2SUFZQnNDd052eUowLW5YWGlsS094UzM4OGVYYmlQcXQ5M2RiQQ?oc=5"
     },
     {
       "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
@@ -42,16 +102,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5"
     },
     {
-      "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development - TechCrunch",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-22T21:14:07.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI’s chief scientist has thoughts on how to limit AI development &nbsp;&nbsp; TechCrunch",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGxIY24yOU1LOUlMeVhETGlMMUZaVjN6SHZzSkduYTluS1RkZzVxUktHR2dFRndlZEUxdjBmQXlpdzRkMjhIVDRaTXlsTUUzbzFud0Y3R1ZaUzhxS3dlYUVaNlgzSDB6cVNNMTNzNGRSNHYwaGp0MkdTNmptYzZxRG1GeVRmVzdaRjNkWkU1b21UTWROUGJrUWJ5UksyeGtPZG1PSQ?oc=5"
-    },
-    {
       "headline": "Perplexity and Intelligence - OpenAI",
       "source": "OpenAI",
       "timestamp": "2026-11-22T19:12:41.000Z",
@@ -60,126 +110,76 @@
       "summary": "Perplexity and Intelligence &nbsp;&nbsp; OpenAI",
       "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
-    },
-    {
-      "headline": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "timestamp": "2026-11-22T19:00:51.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters &nbsp;&nbsp; Yahoo Finance",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5"
-    },
-    {
-      "headline": "'Bigger rewards, tougher reviews': Microsoft Azure changes pay rules as AI competition heats up - Business Today",
-      "source": "Business Today",
-      "timestamp": "2026-11-22T12:46:57.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "'Bigger rewards, tougher reviews': Microsoft Azure changes pay rules as AI competition heats up &nbsp;&nbsp; Business Today",
-      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPblZYcEwwM3JUQTlORFluRFdKemRTdXVNbGN2blZMaHk4aEZScG9DcVpmd3lpQU81MWFTWFQ1eG50bDFhOXNrcXZxd0FoRkczSndtYnR4OE1QTGZUSHJpSGthTnZ6NW4tMlA1dDJRb2J6czhHbEJGNmEzbHVCYWM5emlZWXh3YUVzb2lIVld5cl9jOWtNbl9ZcGNBdTlYUnBxYl9rOElsZzZpWlJ5VVdMVUJlTFJPOWVld2R4R2tsakQwQm1XSEdHOWJwb2ZYM0ZKUWJ6QUZZSTFpSS1rWmpHMVhaNlV5angteDMwN1hmcHZ2UQ?oc=5"
-    },
-    {
-      "headline": "What rights do we owe a machine? - Fortune",
-      "source": "Fortune",
-      "timestamp": "2026-11-21T12:30:00.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "What rights do we owe a machine? &nbsp;&nbsp; Fortune",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWdPcEFCUS05eHc4TUFZanI3cGpwQXpLRmdELTk1MGE3UUJjc0F2Rk0ta21XNlVHTFMxXzRCbWdybGhsc2JPVkJpREFDa095Z01vWGhtUVlmSTVpakNHVmRLRW40UGxScjFMdV9vdnRlX25XMnpzdFBBZDA4MmluMGgwWGNsWHNVTlZuRlJLeGNQR2dpQ25HRUk0S0hnYTNwa19GMDlBakJEN0ZiZXY3VUgtU1dhTWpF?oc=5"
-    },
-    {
-      "headline": "Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post",
-      "source": "The Washington Post",
-      "timestamp": "2026-11-21T06:45:21.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Using AI, mathematician claims to have solved one of math’s great mysteries &nbsp;&nbsp; The Washington Post",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5"
-    },
-    {
-      "headline": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ - Financial Times",
-      "source": "Financial Times",
-      "timestamp": "2026-11-21T05:04:21.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Google DeepMind’s Henry Shevlin: ‘This is the most important part of being human’ &nbsp;&nbsp; Financial Times",
-      "whyItMatters": "Google DeepMind item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzY2czE1NHV6eFAyTTNmdnk3RkRVNUVtVldlNWw3b3BTYjRhNFdiWEcxT1h2OVYyc2xPLWhwVHdiTlZVOGh2cnl1ODM2WXB6NFJKalVPdzFYY25zVkNYWEN6MkgxSG9nS1JLWnNMUTF5OUtMX1JCanpIZmU0b2FwT3lOcDQ?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
       {
-        "headline": "Meta AI head Alexandr Wang warns about AI; says: Superintelligence is coming, but how 'dangerous' it will be depends on humans as ... - The Times of India",
-        "source": "The Times of India",
-        "timestamp": "2026-11-23T02:41:00.000Z",
+        "headline": "DeepMind says Gemini 4 found leaner quantum circuits. The hardware still has catching up to do. - Digg",
+        "source": "Digg",
+        "timestamp": "2026-11-23T20:19:57.000Z",
         "impact": "LOW",
-        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa25UN0V2aVNxWVdfZHY2RG9fZjl6VjhDankwd1g3Mzgwb0lEdDRZY1RaUncwQk5mMUpwcVN6dzdOdU9qRFExaUc5ajFfWnRBTWFXTjJ2Y3NiZ3MySzB0TmZVdXItdkpYOEhreHljbUs4SWNHa2M1VGxwd3JHTkVWeUNXdWtVZDJpM2tpSmF5Um1NOWRGX1poNlhGZ2FhdTIxclFkelJUeWVnN0x3WDYxUEh4THlqYmRHeUVyRkdQQ3BISDFvY2UxTEVuUFN4bTNxYlV6REV4S0NfNWhVRHlpckxqWmhXN2UwaU1aUTFQRFMtVC13Rlp0WWNOSllJdUxZNGlGWlhBckpYVVJwRThxZzV3VmVMWUR5WUN0MmRlUGlJbVRlTzVJV1c3Sm51QmY4b1E?oc=5",
-        "summary": "Meta AI head Alexandr Wang warns about AI; says: Superintelligence is coming, but how 'dangerous' it will be depends on humans as ... &nbsp;&nbsp; The Times of India"
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxX1N5c1FYMXhEMk5KaWRsN005YUNDbS1WUEgxalgxYVVxeEdsSDNnc0EySndsRm56SmhIbVNZNlMxUQ?oc=5",
+        "summary": "DeepMind says Gemini 4 found leaner quantum circuits. The hardware still has catching up to do. &nbsp;&nbsp; Digg"
       },
       {
-        "headline": "Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite - EdTech Innovation Hub",
-        "source": "EdTech Innovation Hub",
-        "timestamp": "2026-11-23T01:17:56.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Microsoft Azure AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFVVSWNSNVloczlpVURrcHBfUElVZUkwaWV2TGgxNEs4QTFBMlZyVndUT3YzYTdLZ3NUTV9zTHlwenRvTGZFeXFsT0tYbkgycHpXMTh4VHR6RnVqbFlTdm1vOWo0MDVWcUxrcHVReHpMakdqUENTVTNrUDljOE04TG5NTC1WTC1hbVJFYmZwZWVCZEtyY01kSGlTRzFYV3dRMkM4NTNVTl9sbVZ3VUYza0lMWjJ2RHMy?oc=5",
-        "summary": "Microsoft unveils Copilot Workspaces, new AI models and Azure plans at Ignite &nbsp;&nbsp; EdTech Innovation Hub"
-      },
-      {
-        "headline": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
-        "source": "Reuters",
-        "timestamp": "2026-11-22T23:09:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "OpenAI item may affect compliance timing, governance, or customer requirements.",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
-        "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric &nbsp;&nbsp; Reuters"
-      },
-      {
-        "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development - TechCrunch",
-        "source": "TechCrunch",
-        "timestamp": "2026-11-22T21:14:07.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGxIY24yOU1LOUlMeVhETGlMMUZaVjN6SHZzSkduYTluS1RkZzVxUktHR2dFRndlZEUxdjBmQXlpdzRkMjhIVDRaTXlsTUUzbzFud0Y3R1ZaUzhxS3dlYUVaNlgzSDB6cVNNMTNzNGRSNHYwaGp0MkdTNmptYzZxRG1GeVRmVzdaRjNkWkU1b21UTWROUGJrUWJ5UksyeGtPZG1PSQ?oc=5",
-        "summary": "OpenAI’s chief scientist has thoughts on how to limit AI development &nbsp;&nbsp; TechCrunch"
-      },
-      {
-        "headline": "Perplexity and Intelligence - OpenAI",
-        "source": "OpenAI",
-        "timestamp": "2026-11-22T19:12:41.000Z",
-        "impact": "LOW",
-        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
-        "summary": "Perplexity and Intelligence &nbsp;&nbsp; OpenAI"
-      },
-      {
-        "headline": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+        "headline": "The irony in Anthropic's huge payday to Gulf backers - Yahoo Finance",
         "source": "Yahoo Finance",
-        "timestamp": "2026-11-22T19:00:51.000Z",
+        "timestamp": "2026-11-23T18:48:16.000Z",
         "impact": "LOW",
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
-        "summary": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters &nbsp;&nbsp; Yahoo Finance"
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkl0ZjA2XzRWdFRkb0Z4aGw2eWt4aWk0eEJIWXBNQ216VVFpV3Vjd2NSbmR3Tm1kN0tUZzh3blA5VDRfVWdkMWJWODBiNkFJSWJvLV96bDRhczhFdEZuVl91bzk3WmV5cjdHRGdabFA5M21WWWxHV3hxcXJJNjZwUGRFRmg5VjVpOXhMSjdKaDMyYTFJcWpUNWl1QWxmdw?oc=5",
+        "summary": "The irony in Anthropic's huge payday to Gulf backers &nbsp;&nbsp; Yahoo Finance"
+      },
+      {
+        "headline": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind",
+        "source": "Google DeepMind",
+        "timestamp": "2026-11-23T17:00:25.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
+        "summary": "Finding faster quantum algorithms with agents and formal verification &nbsp;&nbsp; Google DeepMind"
+      },
+      {
+        "headline": "Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-11-23T16:13:32.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGl5dzhJZEtScFQxVzh3VVUzM1RpcXhMd1lFd1A4WkpVbGNhNmxQMEt1cDJZbG1mX20yLTk4Rnd4UW9UX244YThfOGptdThRNjhxcklRdnNwOExyellLU3ZKYzdtbXQyN1BSajNqcEFpTjFBalhRV2ZpaF8xejYxcFp3bWQ?oc=5",
+        "summary": "Elon Musk Faces an A.I. Dilemma at SpaceX &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "One AI Stock Struggling to Rally: Anthropic - WSJ",
+        "source": "WSJ",
+        "timestamp": "2026-11-23T10:00:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd2lSU19CdlpuRXkzTEVPZ3g3V0ttTGZDWWQtdFk3aDlzVXlzRlEtMEdIUzhQWlloWGEyU1k5NUYxUHhtNURVQUJ4c21vcWRrR0JJSEUwem9JUnM4MnFKakUtOHIzVlZpbkxWekVaam5VNXkxaXZEWG0yX3gzVXFMRk9ZMk1qYy1MXzViRW9jXzhpc1NocVZ4VFlpSHZNeVRlWTR0bFZ6bGNWVDFveWF3RG9sMlZockhUYnhxYzN6a0RVZExSNi1WcWs5VVY5OGNDT2llZmJpeHRvTnpfLXJXVk01RQ?oc=5",
+        "summary": "One AI Stock Struggling to Rally: Anthropic &nbsp;&nbsp; WSJ Anthropic Shares Climb With AI Trade Rally on Huang’s Return &nbsp;&nbsp; Bloomberg.com Jensen Huang's return to Nvidia is bad news for Anthropic. Here's why. &nbsp;&nbsp; Business Insider"
+      },
+      {
+        "headline": "Meta AI chief warns humanity may lose control of superintelligent machines - CTech",
+        "source": "CTech",
+        "timestamp": "2026-11-23T09:54:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zWVpjb0dDOFA5TVhLak5NR0Y2VnNqeENtdjdfR0NGN0pTUE5hQXdmMmVrUkdUOG0yS29rNy02Q2lYcFhSOE1uZjVwdmFEd2M4VmFQa0V1Y3htbDFwdzZQTk0wSmF5blEw?oc=5",
+        "summary": "Meta AI chief warns humanity may lose control of superintelligent machines &nbsp;&nbsp; CTech Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post &nbsp;&nbsp; Forbes Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date &nbsp;&nbsp; Yahoo Tech"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
+        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
+        "urgency": "WATCH",
+        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
         "topic": "OpenAI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -190,15 +190,15 @@
       },
       {
         "topic": "Microsoft Azure AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
-        "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       }
     ],
     "watchlist": [
