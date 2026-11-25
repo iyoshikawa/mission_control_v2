@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-24T17:15:33.548Z",
+    "generatedAt": "2026-11-25T02:03:05.389Z",
     "refreshCadence": "hourly",
     "sources": [
       "Anthropic",
@@ -12,6 +12,56 @@
   },
   "newsFeed": [
     {
+      "headline": "8 Hot Data Storage Products From Microsoft Ignite 2026: AI, Azure, Cyber Resilience - CRN",
+      "source": "CRN",
+      "timestamp": "2026-11-24T21:10:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "8 Hot Data Storage Products From Microsoft Ignite 2026: AI, Azure, Cyber Resilience &nbsp;&nbsp; CRN",
+      "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1FsOTNmV3ljWVA5MVpraW94LVBBNjltN0V4OVFlaGsxQ3hJVnc5b1R4SFN5RkRkWUdacGVsdXVqR1pOclMxNXJSM0hodWp3SWVEYjJOTUZYYjg4cHlXbzBkdVZiUUNJSVFYS2JrR1o4V3ZlQVdTaVBxZUNTS2MtVmQ3Y1pGdG5leDNuc3JPbTQ1aVEzYzlNeVZNV2xQYVBxN1NLYnduU2RpYzFWendsMmIzempCTVpUV1E?oc=5"
+    },
+    {
+      "headline": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say - The New York Times",
+      "source": "The New York Times",
+      "timestamp": "2026-11-24T21:09:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say &nbsp;&nbsp; The New York Times",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGUweWw4Y2NIQUtVYmdIUHFaQkt6Y3cxZnBHVFBueFpuMjJxaDZCZEZLQS02TnZZX3pzcEUxLWM2N0tQQ0ZSQ1VxTlJ2RWoyLTdvWnJzaTFIa0xTektOMVQzWkdXZ1BGYzJGcGR5MGR5U1NjaUc1b1ZxNmZMUEpVRUdGbWdTTk9sbVNtZg?oc=5"
+    },
+    {
+      "headline": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters",
+      "source": "Reuters",
+      "timestamp": "2026-11-24T20:47:56.000Z",
+      "impact": "HIGH",
+      "category": "regulation",
+      "summary": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value &nbsp;&nbsp; Reuters Anthropic closes below $83 IPO price, but analysts are still largely positive &nbsp;&nbsp; CNBC Anthropic CEO Dario Amodei And Sister Daniela Sold $561 Million In Stock During IPO &nbsp;&nbsp; Forbes",
+      "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5"
+    },
+    {
+      "headline": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability. - blog.google",
+      "source": "blog.google",
+      "timestamp": "2026-11-24T19:39:55.000Z",
+      "impact": "HIGH",
+      "category": "models",
+      "summary": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability. &nbsp;&nbsp; blog.google",
+      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZndyalo1NGlxbHFTMk5kQXhSakdGTVBMSzh6bGJXS1JvN2ZndWlyZVQzZmVOTGcwc0VrR01odXRBbmJBTXZ0dTJhdmNXM2ktVnlIaWtKanMzRkVUUGJRV01xZE1KWER3RngzamFSVXllYVZqVUN5TU5xZ2g3Q2NnSzcyN1hfcW5fX0x1MEFLb0xqX0pzdEMwOFU2UQ?oc=5"
+    },
+    {
+      "headline": "Muse: Would you let Meta's AI agent run parts of your life? - BBC",
+      "source": "BBC",
+      "timestamp": "2026-11-24T18:08:10.000Z",
+      "impact": "LOW",
+      "category": "models",
+      "summary": "Muse: Would you let Meta's AI agent run parts of your life? &nbsp;&nbsp; BBC",
+      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLNklEaF8ydE8yX1N5c0p2LWhiUDJhXy1JelNNVk56MVdmVzgxazV0cmQtRmJKcWVCcFRnaWpaZlBTSFlLbUE1NnpOV2J6Y3lWU1UwTTBoOWE?oc=5"
+    },
+    {
       "headline": "OpenAI’s IPO Countdown Clock Is Ticking - WSJ",
       "source": "WSJ",
       "timestamp": "2026-11-24T17:00:00.000Z",
@@ -22,19 +72,9 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3Qxb0R3X0EydVhiOG9yX1ZCczV1eVBZaGdvYVlFWGdTNjBNS3dEYjI1dzZOS2lMQW1tTEZDc1h5cFNtWTFHcUFnSWxzcFJIcDNvLVdNOEZzQnRhNnNlYi1xMFJFUUI5Z3Z0b2xVTHB2NXBlV2RoUGpIVDJQbzZtNQ?oc=5"
     },
     {
-      "headline": "DeepMind’s Easy Read tool gives Gemini paperwork—not the final say - Digg",
-      "source": "Digg",
-      "timestamp": "2026-11-24T15:32:25.000Z",
-      "impact": "WATCH",
-      "category": "models",
-      "summary": "DeepMind’s Easy Read tool gives Gemini paperwork—not the final say &nbsp;&nbsp; Digg",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1TGo5eXUwamdnS2p5U3lRVkN5YmNVQlMzYmdELUdhSTNjdmFMWUpxWEc1cktPellqd3A4alNrMm5qUQ?oc=5"
-    },
-    {
       "headline": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
       "source": "Axios",
-      "timestamp": "2026-11-24T11:12:54.000Z",
+      "timestamp": "2026-11-24T11:46:47.000Z",
       "impact": "HIGH",
       "category": "models",
       "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release &nbsp;&nbsp; Axios",
@@ -52,6 +92,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSU14S0tpY0hfZVFMUDNiX1Q0WGthaXc4cmdoMVQ1Qm5PQVlaTzFLZHJoeEdhQWJyUmpPeWpGYWFIWGNocGRTNlhnRHZSZVZISVBicmxUemk5LUViN2c?oc=5"
     },
     {
+      "headline": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching - The Hacker News",
+      "source": "The Hacker News",
+      "timestamp": "2026-11-24T06:02:00.000Z",
+      "impact": "LOW",
+      "category": "ecosystem",
+      "summary": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching &nbsp;&nbsp; The Hacker News",
+      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY2NQbVFCa0xnV2gyeGZwMUxyZVFBR0tma1ZnbGlFTGxTaW1TdDVHVVItYi15dXh4dmZneWQ2MFBnZ3JpWUh2TTNKekd5NDNtd3k5dVp3WnVtSGwtZnZtaVRTdEZhUmZSQW8xeWFfdkRja3VqRExVNTk5bXpaM2M?oc=5"
+    },
+    {
       "headline": "Introducing Muse in the UK: A Personal AI Agent You Control - Facebook",
       "source": "Facebook",
       "timestamp": "2026-11-24T06:00:40.000Z",
@@ -60,60 +110,55 @@
       "summary": "Introducing Muse in the UK: A Personal AI Agent You Control &nbsp;&nbsp; Facebook",
       "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3V1c0o4cXA1b0d0NFlqLU4zNmhfV1NlMlItVUx4UU5oZjJYOXVIRnNSeXMzam5jRFBXa2Y3NTI5U3RMLV9PSjVyR25uTWJKMG5DNHNCeXZ2UGktZkNreDlzN0h1TFU5TkpYZWtaV09iN2lZNHpzdlVQbDBMQ3N3NDZ1VWVWMW5mQkk4SFJ5VGNFTzIxT3B5ONIBngFBVV95cUxNeGZ3YjQ0UXNMUl9wazJROG1fY0djSTdQT21BUU1PRTRlQk1LYnVlQmx1a2ZjdXd3MmtkOFVVZ1BYTXhLenYtejJVeXFhakxMNWxkbU1kTUhIbVctb1FwQWFPWWw1VDFuUHpQdmQ2VzBGX1RTQk5oRTdkSmJ1Q2FFaXk1ZC0zb0RjNFF1emtqTUNnakJpZzBmZW9ZSDNwZw?oc=5"
-    },
-    {
-      "headline": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping - The Guardian",
-      "source": "The Guardian",
-      "timestamp": "2026-11-24T06:00:00.000Z",
-      "impact": "HIGH",
-      "category": "models",
-      "summary": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping &nbsp;&nbsp; The Guardian",
-      "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnNPV3c5WnFtTU5oUUFrMDU5ZXpxTWljNm9hZHhlUFFtNDBEclNETVF5RGc1ei04dlNPbGZLazJRLUEwMkdCbDZkckE1UUNBU1R3QkpYR3JORDZkNnJMckFCelFldldjRElLWmxLbllyNHU3cFQ2d1AwMGItU205eWhRZFF2WFd1MFdTbzVBNXBGdTdiVlhEaWVrZnZUN2V0SFpOSFFn?oc=5"
-    },
-    {
-      "headline": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say - The New York Times",
-      "source": "The New York Times",
-      "timestamp": "2026-11-24T01:36:36.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say &nbsp;&nbsp; The New York Times",
-      "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGUweWw4Y2NIQUtVYmdIUHFaQkt6Y3cxZnBHVFBueFpuMjJxaDZCZEZLQS02TnZZX3pzcEUxLWM2N0tQQ0ZSQ1VxTlJ2RWoyLTdvWnJzaTFIa0xTektOMVQzWkdXZ1BGYzJGcGR5MGR5U1NjaUc1b1ZxNmZMUEpVRUdGbWdTTk9sbVNtZg?oc=5"
-    },
-    {
-      "headline": "Working with AI - Anthropic",
-      "source": "Anthropic",
-      "timestamp": "2026-11-23T21:12:08.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Working with AI &nbsp;&nbsp; Anthropic",
-      "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5"
-    },
-    {
-      "headline": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind",
-      "source": "Google DeepMind",
-      "timestamp": "2026-11-23T17:00:25.000Z",
-      "impact": "LOW",
-      "category": "models",
-      "summary": "Finding faster quantum algorithms with agents and formal verification &nbsp;&nbsp; Google DeepMind",
-      "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5"
-    },
-    {
-      "headline": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post - Forbes",
-      "source": "Forbes",
-      "timestamp": "2026-11-23T15:30:16.000Z",
-      "impact": "LOW",
-      "category": "ecosystem",
-      "summary": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post &nbsp;&nbsp; Forbes Meta’s Chief AI Officer Sends Disturbing Warning: ‘Hard to Imagine a World Where Humanity Maintains Control’ &nbsp;&nbsp; Yahoo Tech Meta AI Chief Makes Dire Warning Over Impact of Superintelligence on Humans &nbsp;&nbsp; Newsweek",
-      "whyItMatters": "Meta AI item is worth monitoring for competitive or ecosystem drift.",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5"
     }
   ],
   "aiNews": {
     "topStories": [
+      {
+        "headline": "8 Hot Data Storage Products From Microsoft Ignite 2026: AI, Azure, Cyber Resilience - CRN",
+        "source": "CRN",
+        "timestamp": "2026-11-24T21:10:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Microsoft Azure AI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1FsOTNmV3ljWVA5MVpraW94LVBBNjltN0V4OVFlaGsxQ3hJVnc5b1R4SFN5RkRkWUdacGVsdXVqR1pOclMxNXJSM0hodWp3SWVEYjJOTUZYYjg4cHlXbzBkdVZiUUNJSVFYS2JrR1o4V3ZlQVdTaVBxZUNTS2MtVmQ3Y1pGdG5leDNuc3JPbTQ1aVEzYzlNeVZNV2xQYVBxN1NLYnduU2RpYzFWendsMmIzempCTVpUV1E?oc=5",
+        "summary": "8 Hot Data Storage Products From Microsoft Ignite 2026: AI, Azure, Cyber Resilience &nbsp;&nbsp; CRN"
+      },
+      {
+        "headline": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say - The New York Times",
+        "source": "The New York Times",
+        "timestamp": "2026-11-24T21:09:00.000Z",
+        "impact": "LOW",
+        "whyItMatters": "OpenAI item is worth monitoring for competitive or ecosystem drift.",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGUweWw4Y2NIQUtVYmdIUHFaQkt6Y3cxZnBHVFBueFpuMjJxaDZCZEZLQS02TnZZX3pzcEUxLWM2N0tQQ0ZSQ1VxTlJ2RWoyLTdvWnJzaTFIa0xTektOMVQzWkdXZ1BGYzJGcGR5MGR5U1NjaUc1b1ZxNmZMUEpVRUdGbWdTTk9sbVNtZg?oc=5",
+        "summary": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say &nbsp;&nbsp; The New York Times"
+      },
+      {
+        "headline": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value - Reuters",
+        "source": "Reuters",
+        "timestamp": "2026-11-24T20:47:56.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Anthropic item may affect compliance timing, governance, or customer requirements.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+        "summary": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value &nbsp;&nbsp; Reuters Anthropic closes below $83 IPO price, but analysts are still largely positive &nbsp;&nbsp; CNBC Anthropic CEO Dario Amodei And Sister Daniela Sold $561 Million In Stock During IPO &nbsp;&nbsp; Forbes"
+      },
+      {
+        "headline": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability. - blog.google",
+        "source": "blog.google",
+        "timestamp": "2026-11-24T19:39:55.000Z",
+        "impact": "HIGH",
+        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZndyalo1NGlxbHFTMk5kQXhSakdGTVBMSzh6bGJXS1JvN2ZndWlyZVQzZmVOTGcwc0VrR01odXRBbmJBTXZ0dTJhdmNXM2ktVnlIaWtKanMzRkVUUGJRV01xZE1KWER3RngzamFSVXllYVZqVUN5TU5xZ2g3Q2NnSzcyN1hfcW5fX0x1MEFLb0xqX0pzdEMwOFU2UQ?oc=5",
+        "summary": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability. &nbsp;&nbsp; blog.google"
+      },
+      {
+        "headline": "Muse: Would you let Meta's AI agent run parts of your life? - BBC",
+        "source": "BBC",
+        "timestamp": "2026-11-24T18:08:10.000Z",
+        "impact": "LOW",
+        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLNklEaF8ydE8yX1N5c0p2LWhiUDJhXy1JelNNVk56MVdmVzgxazV0cmQtRmJKcWVCcFRnaWpaZlBTSFlLbUE1NnpOV2J6Y3lWU1UwTTBoOWE?oc=5",
+        "summary": "Muse: Would you let Meta's AI agent run parts of your life? &nbsp;&nbsp; BBC"
+      },
       {
         "headline": "OpenAI’s IPO Countdown Clock Is Ticking - WSJ",
         "source": "WSJ",
@@ -122,58 +167,13 @@
         "whyItMatters": "Anthropic item is worth monitoring for competitive or ecosystem drift.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3Qxb0R3X0EydVhiOG9yX1ZCczV1eVBZaGdvYVlFWGdTNjBNS3dEYjI1dzZOS2lMQW1tTEZDc1h5cFNtWTFHcUFnSWxzcFJIcDNvLVdNOEZzQnRhNnNlYi1xMFJFUUI5Z3Z0b2xVTHB2NXBlV2RoUGpIVDJQbzZtNQ?oc=5",
         "summary": "OpenAI’s IPO Countdown Clock Is Ticking &nbsp;&nbsp; WSJ"
-      },
-      {
-        "headline": "DeepMind’s Easy Read tool gives Gemini paperwork—not the final say - Digg",
-        "source": "Digg",
-        "timestamp": "2026-11-24T15:32:25.000Z",
-        "impact": "WATCH",
-        "whyItMatters": "Google DeepMind item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1TGo5eXUwamdnS2p5U3lRVkN5YmNVQlMzYmdELUdhSTNjdmFMWUpxWEc1cktPellqd3A4alNrMm5qUQ?oc=5",
-        "summary": "DeepMind’s Easy Read tool gives Gemini paperwork—not the final say &nbsp;&nbsp; Digg"
-      },
-      {
-        "headline": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
-        "source": "Axios",
-        "timestamp": "2026-11-24T11:12:54.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Anthropic item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
-        "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release &nbsp;&nbsp; Axios"
-      },
-      {
-        "headline": "Meta's Muse has launched in the UK. I found it helpful but awkward - BBC",
-        "source": "BBC",
-        "timestamp": "2026-11-24T09:33:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSU14S0tpY0hfZVFMUDNiX1Q0WGthaXc4cmdoMVQ1Qm5PQVlaTzFLZHJoeEdhQWJyUmpPeWpGYWFIWGNocGRTNlhnRHZSZVZISVBicmxUemk5LUViN2c?oc=5",
-        "summary": "Meta's Muse has launched in the UK. I found it helpful but awkward &nbsp;&nbsp; BBC"
-      },
-      {
-        "headline": "Introducing Muse in the UK: A Personal AI Agent You Control - Facebook",
-        "source": "Facebook",
-        "timestamp": "2026-11-24T06:00:40.000Z",
-        "impact": "LOW",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3V1c0o4cXA1b0d0NFlqLU4zNmhfV1NlMlItVUx4UU5oZjJYOXVIRnNSeXMzam5jRFBXa2Y3NTI5U3RMLV9PSjVyR25uTWJKMG5DNHNCeXZ2UGktZkNreDlzN0h1TFU5TkpYZWtaV09iN2lZNHpzdlVQbDBMQ3N3NDZ1VWVWMW5mQkk4SFJ5VGNFTzIxT3B5ONIBngFBVV95cUxNeGZ3YjQ0UXNMUl9wazJROG1fY0djSTdQT21BUU1PRTRlQk1LYnVlQmx1a2ZjdXd3MmtkOFVVZ1BYTXhLenYtejJVeXFhakxMNWxkbU1kTUhIbVctb1FwQWFPWWw1VDFuUHpQdmQ2VzBGX1RTQk5oRTdkSmJ1Q2FFaXk1ZC0zb0RjNFF1emtqTUNnakJpZzBmZW9ZSDNwZw?oc=5",
-        "summary": "Introducing Muse in the UK: A Personal AI Agent You Control &nbsp;&nbsp; Facebook"
-      },
-      {
-        "headline": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping - The Guardian",
-        "source": "The Guardian",
-        "timestamp": "2026-11-24T06:00:00.000Z",
-        "impact": "HIGH",
-        "whyItMatters": "Meta AI item may change capability tradeoffs, evaluation priorities, or near-term tooling choices.",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnNPV3c5WnFtTU5oUUFrMDU5ZXpxTWljNm9hZHhlUFFtNDBEclNETVF5RGc1ei04dlNPbGZLazJRLUEwMkdCbDZkckE1UUNBU1R3QkpYR3JORDZkNnJMckFCelFldldjRElLWmxLbllyNHU3cFQ2d1AwMGItU205eWhRZFF2WFd1MFdTbzVBNXBGdTdiVlhEaWVrZnZUN2V0SFpOSFFn?oc=5",
-        "summary": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping &nbsp;&nbsp; The Guardian"
       }
     ],
     "whyItMatters": [
       {
         "topic": "Anthropic",
-        "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
-        "urgency": "WATCH",
+        "assessment": "2 high-signal items in the latest cycle. Keep this provider on active watch.",
+        "urgency": "HIGH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
       },
       {
@@ -184,15 +184,15 @@
       },
       {
         "topic": "Google DeepMind",
-        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
-        "urgency": "LOW",
-        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
-      },
-      {
-        "topic": "Microsoft Azure AI",
         "assessment": "1 high-signal item in the latest cycle. Keep this provider on active watch.",
         "urgency": "WATCH",
         "recommendedAction": "Review the linked items and decide whether any stack, pricing, or compliance follow-up is needed."
+      },
+      {
+        "topic": "Microsoft Azure AI",
+        "assessment": "No top-tier signal in the latest cycle, but it remains part of the monitored competitive set.",
+        "urgency": "LOW",
+        "recommendedAction": "No immediate action. Keep monitoring on the hourly refresh cadence."
       },
       {
         "topic": "Meta AI",
